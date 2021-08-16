@@ -1,0 +1,28 @@
+{
+  "name": "database",
+  "version": "0.0.1",
+  "description": "Database from scrapper",
+  "main": ".",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "Database",
+    "Scrapper",
+    "Rest Api",
+    "BochilTeam",
+    "caklontong",
+    "tebakgambar",
+    "Family100"
+  ],
+  "homepage": "https://github.com/BochilTeam/database",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BochilTeam/database.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BochilTeam/database/issues"
+  },
+  "author": "BochilTeam",
+  "license": "GPL-3.0-or-later"
+}
