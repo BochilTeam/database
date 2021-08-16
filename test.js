@@ -1,5 +1,6 @@
 const fs = require('fs')
 const path = require('path')
+const assert = require('assert')
 
 async function check() {
     let base = path.join(__dirname, './')
