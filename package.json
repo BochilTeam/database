@@ -24,5 +24,9 @@
     "url": "https://github.com/BochilTeam/database/issues"
   },
   "author": "BochilTeam",
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "node-fetch": "^2.6.1"
+  }
 }
