@@ -5,9 +5,10 @@ name: update kurs
 
 on:
   push:
-    branches: [ master, scraper ]
-  pull_request:
     branches: [ master ]
+  workflow_dispatch:
+  schedule:
+  - cron: '*/60 */12 * * *'
 
 jobs:
   build:
