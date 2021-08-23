@@ -2,7 +2,7 @@ const fetch = require('node-fetch')
 const cheerio = require('cheerio')
 const fs = require('fs')
 
-(async () => {
+;(async () => {
   let response = await fetch('https://www.bi.go.id/id/statistik/informasi-kurs/transaksi-bi/default.aspx')
   let $ = cheerio.load(await response.text())
   let result = [], uang = []
