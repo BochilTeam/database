@@ -4,7 +4,8 @@
   "description": "Database from scrapper",
   "main": ".",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "kurs": "node scraper/kurs.js"
   },
   "keywords": [
     "Database",
