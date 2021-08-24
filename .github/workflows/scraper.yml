@@ -1,14 +1,14 @@
 # This workflow will do a clean install of node dependencies, cache/restore them, build the source code and run tests across different versions of node
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
 
-name: update kurs
+name: update data
 
 on:
   push:
     branches: [ master ]
   workflow_dispatch:
   schedule:
-  - cron: '*/60 */12 * * *'
+  - cron: '*/60 */2 * * *'
 
 jobs:
   build:
@@ -29,12 +29,12 @@ jobs:
         #cache: 'npm'
     - run: npm ci
     - run: npm run build --if-present
-    - run: npm run kurs
+    - run: npm run scraper
     - name: Commit and push if it changed
       run: |-
         git config user.name "BochilGaming"
         git config user.email "79433517+BochilGaming@users.noreply.github.com"
         git add -A
         timestamp=$(date '+%F %H:%M:%S %Z')
-        git commit -m "Update kurs ${timestamp}" || exit 0
+        git commit -m "Update data ${timestamp}" || exit 0
         git push
