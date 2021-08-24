@@ -5,7 +5,7 @@
   "main": ".",
   "scripts": {
     "test": "node test.js",
-    "kurs": "node scraper/kurs.js"
+    "scraper": "node scraper/index.js"
   },
   "keywords": [
     "Database",
