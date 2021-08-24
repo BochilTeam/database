@@ -5,7 +5,7 @@ name: update data
 
 on:
   push:
-    branches: [ master, scraper ]
+    branches: [ master ]
   workflow_dispatch:
   schedule:
   - cron: '*/60 */2 * * *'
@@ -36,5 +36,5 @@ jobs:
         git config user.email "79433517+BochilGaming@users.noreply.github.com"
         git add -A
         timestamp=$(date '+%F %H:%M:%S %Z')
-        git commit -m "Update kurs ${timestamp}" || exit 0
+        git commit -m "Update data ${timestamp}" || exit 0
         git push
