@@ -92,10 +92,8 @@ if (!fs.existsSync(base)){
     let provinsi = (info.provinsi).toLowerCase()
     let directory = base + 'provinsi/' + provinsi + '/'
     if (!fs.existsSync(directory)){
-      console.error(directory)
       await fs.mkdirSync(directory, { recursive: true })
     }
-    console.error('test', directory)
     
     let respons = await fetch(info.url)
     if (!respons.ok) continue
@@ -151,4 +149,4 @@ if (!fs.existsSync(base)){
     }
     if (result.length) await fs.writeFileSync(directory + 'prakiraan_cuaca.json', JSON.stringify(result, null, 2))
   }
-})
+})()
