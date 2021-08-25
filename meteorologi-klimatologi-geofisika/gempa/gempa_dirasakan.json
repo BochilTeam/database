@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/08/2021 10:11:06 WIB",
+    "lintang": "3.01 LS",
+    "bujur": "140.83 BT",
+    "magnitudo": "3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 38 Km Timur Laut Keerom",
+    "warning": [
+      "II - III Keerom"
+    ]
+  },
+  {
     "waktu": "24/08/2021 12:05:52 WIB",
     "lintang": "1.48 LS",
     "bujur": "134.01 BT",
@@ -224,17 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km TimurLaut Ransiki",
     "warning": [
       "III-IV Ransiki"
-    ]
-  },
-  {
-    "waktu": "12/08/2021 20:07:32 WIB",
-    "lintang": "4.3 LU",
-    "bujur": "96.05 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada didarat 19 km Meulaboh - Aceh Barat",
-    "warning": [
-      "I-II Panga"
     ]
   }
 ]
