@@ -8,7 +8,7 @@ const assert = require('assert')
   for (let file of dir.filter(v => v.endsWith('.js') && v !== path.basename(__filename))) {
     console.error('Run', file)
     try {
-      require('./' + file)
+      await require('./' + file)
       assert.ok(file)
       console.log('Done run', file)
     } catch (e) {
