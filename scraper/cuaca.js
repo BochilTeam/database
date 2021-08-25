@@ -92,6 +92,7 @@ if (!fs.existsSync(base)){
     let provinsi = (info.provinsi).toLowerCase()
     let directory = base + 'provinsi/' + provinsi + '/'
     if (!fs.existsSync(directory)){
+      console.error(directory)
       await fs.mkdirSync(directory, { recursive: true })
     }
 
