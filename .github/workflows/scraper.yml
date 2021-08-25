@@ -5,7 +5,7 @@ name: update data
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master, scraper ]
   workflow_dispatch:
   schedule:
   - cron: '*/60 */2 * * *'
