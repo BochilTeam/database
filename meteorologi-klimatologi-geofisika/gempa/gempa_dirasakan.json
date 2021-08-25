@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/08/2021 20:17:01 WIB",
+    "lintang": "1 LS",
+    "bujur": "120.37 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Torue Kab Parigi Moutong",
+    "warning": [
+      "II - III Tolai"
+    ]
+  },
+  {
     "waktu": "25/08/2021 10:11:06 WIB",
     "lintang": "3.01 LS",
     "bujur": "140.83 BT",
@@ -224,17 +235,6 @@
     "wilayah": "Pusat gempa berada di laut 4km Tenggara Kota Sabang",
     "warning": [
       "II-III Sabang"
-    ]
-  },
-  {
-    "waktu": "13/08/2021 21:47:43 WIB",
-    "lintang": "1.42 LS",
-    "bujur": "134.19 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km TimurLaut Ransiki",
-    "warning": [
-      "III-IV Ransiki"
     ]
   }
 ]
