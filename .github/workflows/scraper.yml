@@ -5,10 +5,10 @@ name: update data
 
 on:
   push:
-    branches: [ master, scraper ]
+    branches: [ master ]
   workflow_dispatch:
   schedule:
-  - cron: '*/60 */2 * * *'
+  - cron: '*/60 */1 * * *'
 
 jobs:
   build:
@@ -27,8 +27,8 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         #cache: 'npm'
-    - run: npm ci
-    - run: npm run build --if-present
+    #- run: npm ci
+    #- run: npm run build --if-present
     - run: npm run scraper
     - name: Commit and push if it changed
       run: |-
