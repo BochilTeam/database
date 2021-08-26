@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/08/2021 18:17:46 WIB",
+    "lintang": "0.76 LS",
+    "bujur": "121.55 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di laut 13 km utara Ampana",
+    "warning": [
+      "III Ampana"
+    ]
+  },
+  {
     "waktu": "26/08/2021 15:04:20 WIB",
     "lintang": "0.75 LS",
     "bujur": "121.54 BT",
@@ -228,20 +239,6 @@
     "wilayah": "Pusat gempa berada didarat 12 km TimurLaut Nias Utara",
     "warning": [
       "III-IV Gunung Sitoli"
-    ]
-  },
-  {
-    "waktu": "15/08/2021 01:41:23 WIB",
-    "lintang": "4.37 LS",
-    "bujur": "102.66 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di laut 29km BaratLaut Bengkulu Selatan",
-    "warning": [
-      "III-IV Bengkulu Selatan",
-      "III Kota Bengkulu",
-      "II-III Kepahiang",
-      "II-III Liwa"
     ]
   }
 ]
