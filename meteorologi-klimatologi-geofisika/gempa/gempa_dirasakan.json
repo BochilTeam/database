@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "26/08/2021 19:54:44 WIB",
+    "lintang": "2.13 LS",
+    "bujur": "140.59 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 51 Km Barat Laut Jayapura",
+    "warning": [
+      "II-III Jayapura",
+      "II-III Sentani"
+    ]
+  },
+  {
+    "waktu": "26/08/2021 19:43:31 WIB",
+    "lintang": "0.8 LS",
+    "bujur": "121.54 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di laut 9 Km Barat Laut Ampana",
+    "warning": [
+      "II-III Ampana"
+    ]
+  },
+  {
     "waktu": "26/08/2021 18:17:46 WIB",
     "lintang": "0.76 LS",
     "bujur": "121.55 BT",
@@ -212,33 +235,6 @@
     "wilayah": "Pusat gempa berada di laut 29 km Barat Daya Kabaena Selatan",
     "warning": [
       "III Kabaena Selatan"
-    ]
-  },
-  {
-    "waktu": "17/08/2021 11:49:18 WIB",
-    "lintang": "8.15 LS",
-    "bujur": "107.64 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 102 km BaratDaya Kab. Tasikmalaya",
-    "warning": [
-      "II Ciwidey",
-      "III Pameungpeuk",
-      "III Cipatujah",
-      "III Karangnunggal",
-      "III Cisompet",
-      "III Bangbajang"
-    ]
-  },
-  {
-    "waktu": "16/08/2021 00:42:14 WIB",
-    "lintang": "1.46 LU",
-    "bujur": "97.47 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada didarat 12 km TimurLaut Nias Utara",
-    "warning": [
-      "III-IV Gunung Sitoli"
     ]
   }
 ]
