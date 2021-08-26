@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/08/2021 15:04:20 WIB",
+    "lintang": "0.75 LS",
+    "bujur": "121.54 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 14 km Utara Ampana",
+    "warning": [
+      "II-III Ampana"
+    ]
+  },
+  {
     "waktu": "26/08/2021 09:14:19 WIB",
     "lintang": "0.7 LS",
     "bujur": "121.51 BT",
@@ -231,17 +242,6 @@
       "III Kota Bengkulu",
       "II-III Kepahiang",
       "II-III Liwa"
-    ]
-  },
-  {
-    "waktu": "14/08/2021 23:57:39 WIB",
-    "lintang": "5.87 LU",
-    "bujur": "95.26 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 6km BaratDaya Kota Sabang",
-    "warning": [
-      "II Sabang"
     ]
   }
 ]
