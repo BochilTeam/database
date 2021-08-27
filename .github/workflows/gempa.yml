@@ -4,8 +4,8 @@
 name: update data gempa
 
 on:
-  #push:
-  #  branches: [ master ]
+  push:
+    branches: [ master ]
   workflow_dispatch:
   #schedule:
   #- cron: '*/60 */1 * * *'
