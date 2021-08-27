@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27-08-21 17:22:20 WIB",
+    "lintang": "6.04",
+    "bujur": "125.22",
+    "magnitudo": "6.1",
+    "kedalaman": "10 Km",
+    "wilayah": "271 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
     "waktu": "26-08-21 19:54:44 WIB",
     "lintang": "-2.13",
     "bujur": "140.59",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "139 Km",
     "wilayah": "12 km BaratDaya PANDEGLANG-BANTEN"
-  },
-  {
-    "waktu": "11-07-21 01:45:17 WIB",
-    "lintang": "6.33",
-    "bujur": "124.07",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "340 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]

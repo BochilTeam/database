@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "27/08/2021 17:30:59 WIB",
+    "lintang": "2.97 LS",
+    "bujur": "119.37 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Mamasa",
+    "warning": [
+      "II - III Mamasa"
+    ]
+  },
+  {
+    "waktu": "27/08/2021 17:22:20 WIB",
+    "lintang": "6.04 LU",
+    "bujur": "125.22 BT",
+    "magnitudo": "6.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 271 km Barat Laut - Tahuna -",
+    "warning": [
+      "III Tahuna"
+    ]
+  },
+  {
     "waktu": "27/08/2021 09:05:08 WIB",
     "lintang": "4.67 LU",
     "bujur": "96.78 BT",
@@ -213,28 +235,6 @@
     "warning": [
       "III-IV Timor Tengah Utara",
       "II-III Alor"
-    ]
-  },
-  {
-    "waktu": "20/08/2021 18:34:10 WIB",
-    "lintang": "3.62 LS",
-    "bujur": "128.76 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 6 km utara Nusa Laut Malteng",
-    "warning": [
-      "II Saparua"
-    ]
-  },
-  {
-    "waktu": "19/08/2021 19:51:33 WIB",
-    "lintang": "1.85 LS",
-    "bujur": "133.42 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km TimurLaut Teluk Bintuni",
-    "warning": [
-      "III Bintuni"
     ]
   }
 ]
