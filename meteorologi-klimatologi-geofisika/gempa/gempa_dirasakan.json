@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/08/2021 09:05:08 WIB",
+    "lintang": "4.67 LU",
+    "bujur": "96.78 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Takengon - Aceh Tengah",
+    "warning": [
+      "II-III Takengon"
+    ]
+  },
+  {
     "waktu": "26/08/2021 19:54:44 WIB",
     "lintang": "2.13 LS",
     "bujur": "140.59 BT",
@@ -224,17 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 11 km TimurLaut Teluk Bintuni",
     "warning": [
       "III Bintuni"
-    ]
-  },
-  {
-    "waktu": "18/08/2021 12:59:46 WIB",
-    "lintang": "5.58 LS",
-    "bujur": "121.78 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 29 km Barat Daya Kabaena Selatan",
-    "warning": [
-      "III Kabaena Selatan"
     ]
   }
 ]
