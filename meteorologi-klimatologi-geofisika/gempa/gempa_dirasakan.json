@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/08/2021 23:19:25 WIB",
+    "lintang": "4.65 LS",
+    "bujur": "137.01 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di darat 58 km timur laut Mimika",
+    "warning": [
+      "III Timika"
+    ]
+  },
+  {
     "waktu": "27/08/2021 21:30:37 WIB",
     "lintang": "5.53 LS",
     "bujur": "103.27 BT",
@@ -223,17 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 18 km barat laut Laulalang, Kab. Tolitoli",
     "warning": [
       "III Tolitoli"
-    ]
-  },
-  {
-    "waktu": "21/08/2021 22:37:19 WIB",
-    "lintang": "1.3 LU",
-    "bujur": "127.12 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 47 km baratlaut Jailolo",
-    "warning": [
-      "III Ternate"
     ]
   }
 ]
