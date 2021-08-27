@@ -1,5 +1,90 @@
 [
   {
+    "waktu": "27/08/2021 09:05:08 WIB",
+    "lintang": "4.67 LU",
+    "bujur": "96.78 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Takengon - Aceh Tengah",
+    "warning": [
+      "II-III Takengon"
+    ]
+  },
+  {
+    "waktu": "26/08/2021 19:54:44 WIB",
+    "lintang": "2.13 LS",
+    "bujur": "140.59 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 51 Km Barat Laut Jayapura",
+    "warning": [
+      "II-III Jayapura",
+      "II-III Sentani"
+    ]
+  },
+  {
+    "waktu": "26/08/2021 19:43:31 WIB",
+    "lintang": "0.8 LS",
+    "bujur": "121.54 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di laut 9 Km Barat Laut Ampana",
+    "warning": [
+      "II-III Ampana"
+    ]
+  },
+  {
+    "waktu": "26/08/2021 18:17:46 WIB",
+    "lintang": "0.76 LS",
+    "bujur": "121.55 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di laut 13 km utara Ampana",
+    "warning": [
+      "III Ampana"
+    ]
+  },
+  {
+    "waktu": "26/08/2021 15:04:20 WIB",
+    "lintang": "0.75 LS",
+    "bujur": "121.54 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 14 km Utara Ampana",
+    "warning": [
+      "II-III Ampana"
+    ]
+  },
+  {
+    "waktu": "26/08/2021 09:14:19 WIB",
+    "lintang": "0.7 LS",
+    "bujur": "121.51 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 44 Km barat laut Tojouna-Una",
+    "warning": [
+      "IV-V Ampana",
+      "IV Poso",
+      "III Morowali",
+      "II Palu",
+      "II Toli-toli",
+      "II-III Luwu Timur",
+      "II-III Parigi Moutong",
+      "II Buol"
+    ]
+  },
+  {
+    "waktu": "25/08/2021 20:17:01 WIB",
+    "lintang": "1 LS",
+    "bujur": "120.37 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Torue Kab Parigi Moutong",
+    "warning": [
+      "II - III Tolai"
+    ]
+  },
+  {
     "waktu": "25/08/2021 10:11:06 WIB",
     "lintang": "3.01 LS",
     "bujur": "140.83 BT",
@@ -150,91 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 11 km TimurLaut Teluk Bintuni",
     "warning": [
       "III Bintuni"
-    ]
-  },
-  {
-    "waktu": "18/08/2021 12:59:46 WIB",
-    "lintang": "5.58 LS",
-    "bujur": "121.78 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 29 km Barat Daya Kabaena Selatan",
-    "warning": [
-      "III Kabaena Selatan"
-    ]
-  },
-  {
-    "waktu": "17/08/2021 11:49:18 WIB",
-    "lintang": "8.15 LS",
-    "bujur": "107.64 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 102 km BaratDaya Kab. Tasikmalaya",
-    "warning": [
-      "II Ciwidey",
-      "III Pameungpeuk",
-      "III Cipatujah",
-      "III Karangnunggal",
-      "III Cisompet",
-      "III Bangbajang"
-    ]
-  },
-  {
-    "waktu": "16/08/2021 00:42:14 WIB",
-    "lintang": "1.46 LU",
-    "bujur": "97.47 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada didarat 12 km TimurLaut Nias Utara",
-    "warning": [
-      "III-IV Gunung Sitoli"
-    ]
-  },
-  {
-    "waktu": "15/08/2021 01:41:23 WIB",
-    "lintang": "4.37 LS",
-    "bujur": "102.66 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di laut 29km BaratLaut Bengkulu Selatan",
-    "warning": [
-      "III-IV Bengkulu Selatan",
-      "III Kota Bengkulu",
-      "II-III Kepahiang",
-      "II-III Liwa"
-    ]
-  },
-  {
-    "waktu": "14/08/2021 23:57:39 WIB",
-    "lintang": "5.87 LU",
-    "bujur": "95.26 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 6km BaratDaya Kota Sabang",
-    "warning": [
-      "II Sabang"
-    ]
-  },
-  {
-    "waktu": "14/08/2021 23:11:52 WIB",
-    "lintang": "5.89 LU",
-    "bujur": "95.36 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 4km Tenggara Kota Sabang",
-    "warning": [
-      "II-III Sabang"
-    ]
-  },
-  {
-    "waktu": "13/08/2021 21:47:43 WIB",
-    "lintang": "1.42 LS",
-    "bujur": "134.19 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km TimurLaut Ransiki",
-    "warning": [
-      "III-IV Ransiki"
     ]
   }
 ]

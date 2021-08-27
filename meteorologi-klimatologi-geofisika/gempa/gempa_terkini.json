@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "26-08-21 19:54:44 WIB",
+    "lintang": "-2.13",
+    "bujur": "140.59",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "51 km BaratLaut JAYAPURA-PAPUA"
+  },
+  {
+    "waktu": "26-08-21 09:14:19 WIB",
+    "lintang": "-0.70",
+    "bujur": "121.51",
+    "magnitudo": "5.8",
+    "kedalaman": "10 Km",
+    "wilayah": "44 km BaratLaut TOJOUNA-UNA-SULTENG"
+  },
+  {
     "waktu": "23-08-21 15:40:21 WIB",
     "lintang": "-11.35",
     "bujur": "119.05",
@@ -222,21 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 Km",
     "wilayah": "340 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
-  },
-  {
-    "waktu": "10-07-21 14:11:35 WIB",
-    "lintang": "0.82",
-    "bujur": "92.97",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "419 km BaratDaya SINABANG-ACEH"
-  },
-  {
-    "waktu": "10-07-21 09:41:09 WIB",
-    "lintang": "1.94",
-    "bujur": "96.91",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "75 km BaratLaut NIASUTARA-SUMUT"
   }
 ]

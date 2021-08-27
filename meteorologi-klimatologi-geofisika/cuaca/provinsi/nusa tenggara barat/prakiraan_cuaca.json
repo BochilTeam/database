@@ -7,8 +7,8 @@
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "20 - 32 °C",
-    "kelembapan": "45 - 95%"
+    "suhu": "21 - 33 °C",
+    "kelembapan": "50 - 90%"
   },
   {
     "kota": "Gerung",
@@ -18,19 +18,19 @@
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "22 - 32 °C",
-    "kelembapan": "55 - 95%"
+    "suhu": "22 - 31 °C",
+    "kelembapan": "60 - 95%"
   },
   {
     "kota": "Kota Bima",
     "prakiraan_cuaca": {
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
-      "dini_hari": "Berawan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "22 - 33 °C",
-    "kelembapan": "45 - 95%"
+    "suhu": "22 - 34 °C",
+    "kelembapan": "45 - 85%"
   },
   {
     "kota": "Mataram",
@@ -40,19 +40,19 @@
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "22 - 32 °C",
-    "kelembapan": "55 - 95%"
+    "suhu": "22 - 31 °C",
+    "kelembapan": "60 - 90%"
   },
   {
     "kota": "Praya",
     "prakiraan_cuaca": {
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
-      "dini_hari": "Cerah Berawan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "22 - 32 °C",
-    "kelembapan": "55 - 95%"
+    "suhu": "19 - 31 °C",
+    "kelembapan": "60 - 95%"
   },
   {
     "kota": "Sape",
@@ -62,30 +62,30 @@
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "23 - 34 °C",
-    "kelembapan": "45 - 95%"
+    "suhu": "23 - 35 °C",
+    "kelembapan": "40 - 80%"
   },
   {
     "kota": "Selong",
     "prakiraan_cuaca": {
-      "malam": "Cerah Berawan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
-      "dini_hari": "Cerah",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah-pm.png"
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "23 - 32 °C",
-    "kelembapan": "50 - 95%"
+    "suhu": "21 - 30 °C",
+    "kelembapan": "55 - 95%"
   },
   {
     "kota": "Sumbawa Besar",
     "prakiraan_cuaca": {
-      "malam": "Cerah Berawan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
-      "dini_hari": "Cerah",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah-pm.png"
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "22 - 34 °C",
-    "kelembapan": "45 - 95%"
+    "suhu": "22 - 32 °C",
+    "kelembapan": "50 - 85%"
   },
   {
     "kota": "Taliwang",
@@ -95,18 +95,18 @@
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "21 - 33 °C",
-    "kelembapan": "45 - 95%"
+    "suhu": "21 - 32 °C",
+    "kelembapan": "55 - 85%"
   },
   {
     "kota": "Tanjung",
     "prakiraan_cuaca": {
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
-      "dini_hari": "Cerah",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah-pm.png"
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "22 - 32 °C",
-    "kelembapan": "55 - 95%"
+    "suhu": "22 - 31 °C",
+    "kelembapan": "65 - 95%"
   }
 ]
