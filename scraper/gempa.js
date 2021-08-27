@@ -10,6 +10,7 @@ if (!fs.existsSync(base)){
 ; (async () => {
   let result = []
   for (let z = 0; z < 10; z++) {
+    result = []
     let response = await fetch('https://www.bmkg.go.id/gempabumi/gempabumi-terkini.bmkg')
     let $ = cheerio.load(await response.text())
     let table = $('body > div.wrapper > div.container.content > div > div.col-md-8 > div > div > table > tbody').html() || ''
@@ -41,6 +42,7 @@ if (!fs.existsSync(base)){
 ; (async () => {
   let result = []
   for (let z = 0; z < 10; z++) {
+    result = []
     let response = await fetch('https://www.bmkg.go.id/gempabumi/gempabumi-dirasakan.bmkg')
     let $ = cheerio.load(await response.text())
     let table = $('body > div.wrapper > div.container.content > div > div.col-md-8 > div > div > table > tbody').html() || ''
@@ -77,6 +79,7 @@ if (!fs.existsSync(base)){
 ; (async () => {
   let result = []
   for (let z = 0; z < 10; z++) {
+    result = []
     let response = await fetch('https://www.bmkg.go.id/tsunami/')
     let $ = cheerio.load(await response.text())
     let table = $('body > div.wrapper > div.container.content > div > div.col-md-8 > table > tbody').html() || ''

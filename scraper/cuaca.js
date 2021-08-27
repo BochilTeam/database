@@ -3,150 +3,287 @@ const cheerio = require('cheerio')
 const fs = require('fs')
 
 let base = './meteorologi-klimatologi-geofisika/cuaca/'
-if (!fs.existsSync(base)){
+if (!fs.existsSync(base)) {
   fs.mkdirSync(base, { recursive: true })
 }
 
+let data = []
 ; (async () => {
-  let result = {}
-  for (let i = 1; i < 13; i++) {
-    let response = await fetch('https://www.bmkg.go.id/cuaca/prakiraan-cuaca-bandara.bmkg?s=' + i)
-    let $ = cheerio.load(await response.text())
-    let table = $('body > div.wrapper > div.container.content > div > div.col-md-8.margin-bottom-20 > div > table > tbody').html() || ''
-    let tr = table.match(/<tr>/g) || []
-    for (let j = 0; j < (tr.length || 150); j++) {
-      let data = $('body > div.wrapper > div.container.content > div > div.col-md-8.margin-bottom-20 > div > table > tbody > tr').eq(j).find('td')
-      if (!data.html) continue
-      let bandara = $(data).eq(1).text().trim()
-      let waktu = $(data).eq(2).text().trim()
-      let arah_angin = $(data).eq(3).text().trim()
-      let kecepatan = $(data).eq(4).text().trim() + ' km/jam'
-      let jarak_pandang = $(data).eq(5).text().trim() + ' km'
-      let cuaca = $(data).eq(6).text().trim()
-      let probabilitas = $(data).eq(7).text().trim()
-      let inf = `${i}_jam_akan_datang`
-      if (!result[inf]) result[inf] = []
-      result[inf].push({
-        bandara,
-        waktu,
-        arah_angin,
-        kecepatan,
-        jarak_pandang,
-        cuaca,
-        probabilitas
+  let results = []
+  for (let z = 0; z < 10; z++) {
+    results = []
+    data = []
+    let response = await fetch('https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg')
+    let $$ = cheerio.load(await response.text())
+
+    let tablee = $$('#TabPaneCuaca2 > div > table > tbody')
+    let data1 = async () => {
+      let data = $$('#TabPaneCuaca2 > div > table > tbody').eq(0).find('tr') // #TabPaneCuaca2 > div > table > tbody:nth-child(1) > tr
+      if (!($$(data).html())) continue
+      let hmm = (($$(data).html() || '').match(/<td>/g) || []).length
+      if (!hmm) continue
+      data = $$('#TabPaneCuaca2 > div > table > tbody').eq(0).find('tr > td')
+      let kota = $$(data).eq(0).find('a').text().trim()
+      let siang, icon_siang
+      let malam, icon_malam
+      let dini_hari, icon_dini_hari
+      let suhu, kelembapan
+      if (hmm == 6) {
+        siang = $$(data).eq(1).find('span').text().trim()
+        icon_siang = $$(data).eq(1).find('img').attr('src')
+        malam = $$(data).eq(2).find('span').text().trim()
+        icon_malam = $$(data).eq(2).find('img').attr('src')
+        dini_hari = $$(data).eq(3).find('span').text().trim()
+        icon_dini_hari = $$(data).eq(3).find('img').attr('src')
+        suhu = $$(data).eq(4).text().trim()
+        kelembapan = $$(data).eq(5).text().trim()
+      } else if (hmm == 5) {
+        malam = $$(data).eq(1).find('span').text().trim()
+        icon_malam = $$(data).eq(1).find('img').attr('src')
+        dini_hari = $$(data).eq(2).find('span').text().trim()
+        icon_dini_hari = $$(data).eq(2).find('img').attr('src')
+        suhu = $$(data).eq(3).text().trim()
+        kelembapan = $$(data).eq(4).text().trim()
+      } else if (hmm == 4) {
+        dini_hari = $$(data).eq(1).find('span').text().trim()
+        icon_dini_hari = $$(data).eq(1).find('img').attr('src')
+        suhu = $$(data).eq(2).text().trim()
+        kelembapan = $$(data).eq(3).text().trim()
+      }
+
+      // encodeURI url
+      if (icon_siang) icon_siang = encodeURI(icon_siang)
+      if (icon_malam) icon_malam = encodeURI(icon_malam)
+      if (icon_dini_hari) icon_dini_hari = encodeURI(icon_dini_hari)
+      // icon?
+      if (suhu) suhu += ' °C'
+      if (kelembapan) kelembapan += '%'
+
+      results.push({
+        kota,
+        prakiraan_cuaca: {
+          siang,
+          icon_siang,
+          malam,
+          icon_malam,
+          dini_hari,
+          icon_dini_hari,
+        },
+        suhu,
+        kelembapan
       })
     }
+    await data1()
+
+    let tr = ($$(tablee).eq(1).html() || '').match(/<tr>/g) || []
+    for (let i = 0; i < (tr.length || 50); i++) {
+      let data = $$(tablee).eq(1).find('tr').eq(i)
+      if (!($$(data).html())) continue
+      let hmm = (($$(data).html() || '').match(/<td>/g) || []).length
+      if (!hmm) continue
+      data = $$(tablee).eq(1).find('tr').eq(i).find('td')
+      let kota = $$(data).eq(0).find('a').text().trim()
+      let siang, icon_siang
+      let malam, icon_malam
+      let dini_hari, icon_dini_hari
+      let suhu, kelembapan
+      if (hmm == 6) {
+        siang = $$(data).eq(1).find('span').text().trim()
+        icon_siang = $$(data).eq(1).find('img').attr('src').trim()
+        malam = $$(data).eq(2).find('span').text().trim()
+        icon_malam = $$(data).eq(2).find('img').attr('src').trim()
+        dini_hari = $$(data).eq(3).find('span').text().trim()
+        icon_dini_hari = $$(data).eq(3).find('img').attr('src')
+        suhu = $$(data).eq(4).text().trim()
+        kelembapan = $$(data).eq(5).text().trim()
+      } else if (hmm == 5) {
+        malam = $$(data).eq(1).find('span').text().trim()
+        icon_malam = $$(data).eq(1).find('img').attr('src')
+        dini_hari = $$(data).eq(2).find('span').text().trim()
+        icon_dini_hari = $$(data).eq(2).find('img').attr('src')
+        suhu = $$(data).eq(3).text().trim()
+        kelembapan = $$(data).eq(4).text().trim()
+      } else if (hmm == 4) {
+        dini_hari = $$(data).eq(1).find('span').text().trim()
+        icon_dini_hari = $$(data).eq(1).find('img').attr('src')
+        suhu = $$(data).eq(2).text().trim()
+        kelembapan = $$(data).eq(3).text().trim()
+      }
+
+      // encodeURI url
+      if (icon_siang) icon_siang = encodeURI(icon_siang)
+      if (icon_malam) icon_malam = encodeURI(icon_malam)
+      if (icon_dini_hari) icon_dini_hari = encodeURI(icon_dini_hari)
+      // icon?
+      if (suhu) suhu += ' °C'
+      if (kelembapan) kelembapan += '%'
+
+      results.push({
+        kota,
+        prakiraan_cuaca: {
+          siang,
+          icon_siang,
+          malam,
+          icon_malam,
+          dini_hari,
+          icon_dini_hari,
+        },
+        suhu,
+        kelembapan
+      })
+    }
+    let table = $$('body > div.wrapper > div.container.content > div > div.col-md-8.margin-bottom-20 > div > div.row.list-cuaca-provinsi.md-margin-bottom-10').html() || ''
+    let div = table.match(/<div ?class=\"col-sm-4 ?col-xs-6\">/g) || []
+    for (let i = 0; i < (div.length || 50); i++) {
+      let result = $$('body > div.wrapper > div.container.content > div > div.col-md-8.margin-bottom-20 > div > div.row.list-cuaca-provinsi.md-margin-bottom-10 > div').eq(i).find('a')
+      let provinsi = $$(result).text().trim()
+      let url = $$(result).attr('href')
+      if (!provinsi || !url) continue
+      data.push({
+        provinsi,
+        url: encodeURI(('https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg' + url).trim())
+      })
+    }
+
+    if (results.length && data.length) break
   }
-  if (result.length) await fs.writeFileSync(base + 'prakiraan_cuaca_bandara.json', JSON.stringify(result, null, 2))
+  if (results.length) await fs.writeFileSync(base + 'cuaca.json', JSON.stringify(results, null, 2))
 })()
 
 ; (async () => {
-  let response = await fetch('https://www.bmkg.go.id/cuaca/cuaca-aktual-bandara.bmkg')
-  let $ = cheerio.load(await response.text())
   let result = []
-  let table = $('body > div.wrapper > div.container.content > div > div.col-md-8.margin-bottom-20 > table > tbody').html() || ''
-  let tr = table.match(/<tr>/g) || []
-  for (let i = 0; i < (tr.length || 150); i++) {
-    let data = $('body > div.wrapper > div.container.content > div > div.col-md-8.margin-bottom-20 > table > tbody > tr').eq(i).find('td')
-    if (!data.html) continue
-    let bandara = $(data).eq(1).find('a').text().trim()
-    let waktu_pengamatan = $(data).eq(2).text().trim()
-    let arah_angin = $(data).eq(3).text().trim()
-    let kecepatan = $(data).eq(4).text().trim() + ' km/jam'
-    let jarak_pandang = $(data).eq(5).text().trim() + ' km'
-    let cuaca = $(data).eq(6).text().trim()
-    let suhu = $(data).eq(7).text().trim() + ' °C'
-    let titik_embun = $(data).eq(8).text().trim() + ' °C'
-    let tekanan_udara = $(data).eq(9).text().trim() + ' hPa'
-    result.push({
-      bandara,
-      waktu_pengamatan,
-      arah_angin,
-      kecepatan,
-      jarak_pandang,
-      cuaca,
-      suhu,
-      titik_embun,
-      tekanan_udara
-    })
-  }
-  if (result.length) await fs.writeFileSync(base + 'cuaca_aktual_bandara.json', JSON.stringify(result, null, 2))
-})()
+  let directory
+  for (let z = 0; z < 10; z++) {
+    result = []
+    for (let i = 0; i < data.length; i++) {
+      let info = data[i]
+      let provinsi = (info.provinsi).toLowerCase()
+      directory = base + 'provinsi/' + provinsi + '/'
+      if (!fs.existsSync(directory)) {
+        await fs.mkdirSync(directory, { recursive: true })
+      }
 
-; (async () => {
-  let response = await fetch('https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg')
-  let $$ = cheerio.load(await response.text())
-  let table = $$('body > div.wrapper > div.container.content > div > div.col-md-8.margin-bottom-20 > div > div.row.list-cuaca-provinsi.md-margin-bottom-10').html() || ''
-  let div = table.match(/<div ?class=\"col-sm-4 ?col-xs-6\">/g) || []
-  let data = []
-  for (let i = 0; i < (div.length || 50); i++) {
-    let result = $$('body > div.wrapper > div.container.content > div > div.col-md-8.margin-bottom-20 > div > div.row.list-cuaca-provinsi.md-margin-bottom-10 > div').eq(i).find('a')
-    data.push({
-      provinsi: $$(result).text().trim(),
-      url: ('https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg' + $$(result).attr('href')).trim()
-    })
-  }
-  for (let i = 0; i < data.length; i++) {
-    let result = []
-    let info = data[i]
-    let provinsi = (info.provinsi).toLowerCase()
-    let directory = base + 'provinsi/' + provinsi + '/'
-    if (!fs.existsSync(directory)){
-      await fs.mkdirSync(directory, { recursive: true })
-    }
-    
-    let respons = await fetch(info.url)
-    if (!respons.ok) continue
-    let $ = cheerio.load(await respons.text())
-    let ress = $('#TabPaneCuaca1 > div > table > tbody').eq(0).html() || ''
-    let trr = ress.match(/<tr>/g) || []
-    for (let j = 0; j < (trr.length || 5); j++) {
-      let dataa = $('#TabPaneCuaca1 > div > table > tbody').eq(0).find('tr').eq(j).find('td')
-      if (!dataa.html()) continue
-      let kota = $(dataa).eq(0).find('a').text().trim()
-      let malam = $(dataa).eq(1).find('span').text().trim()
-      let icon_malam = encodeURI($(dataa).eq(1).find('img').attr('src'))
-      let dini_hari = $(dataa).eq(2).find('span').text().trim()
-      let icon_dini_hari = encodeURI($(dataa).eq(2).find('img').attr('src'))
-      let suhu = $(dataa).eq(3).text().trim() + ' °C'
-      let kelembapan = $(dataa).eq(4).text().trim() + '%'
-      result.push({
-        kota,
-        prakiraan_cuaca: {
-          malam,
-          icon_malam,
-          dini_hari,
-          icon_dini_hari,
-        },
-        suhu,
-        kelembapan
-      })
-    }
+      let respons = await fetch(info.url)
+      if (!respons.ok) continue
+      let $ = cheerio.load(await respons.text())
+      let ress = $('#TabPaneCuaca1 > div > table > tbody').eq(0).html() || ''
+      let trr = ress.match(/<tr>/g) || []
+      for (let j = 0; j < (trr.length || 5); j++) {
+        let dataa = $('#TabPaneCuaca1 > div > table > tbody').eq(0).find('tr').eq(j).find('td') //$('#TabPaneCuaca1 > div > table > tbody').eq(0).find('tr').eq(j).find('td')
+        if (!($(dataa).html())) continue
+        let hmm = (($$(dataa).html() || '').match(/<td>/g) || []).length
+        if (!hmm) continue
+        dataa = $('#TabPaneCuaca1 > div > table > tbody').eq(0).find('tr').eq(j).find('td')
+        let kota = $(dataa).eq(0).find('a').text().trim()
+        let siang, icon_siang
+        let malam, icon_malam
+        let dini_hari, icon_dini_hari
+        let suhu, kelembapan
+        if (hmm == 6) {
+          siang = $(dataa).eq(1).find('span').text().trim()
+          icon_siang = $(dataa).eq(1).find('img').attr('src')
+          malam = $(dataa).eq(2).find('span').text().trim()
+          icon_malam = $(dataa).eq(2).find('img').attr('src')
+          dini_hari = $(dataa).eq(3).find('span').text().trim()
+          icon_dini_hari = $(dataa).eq(3).find('img').attr('src')
+          suhu = $(dataa).eq(4).text().trim()
+          kelembapan = $(dataa).eq(5).text().trim()
+        } else if (hmm == 5) {
+          malam = $(dataa).eq(1).find('span').text().trim()
+          icon_malam = $(dataa).eq(1).find('img').attr('src')
+          dini_hari = $(dataa).eq(2).find('span').text().trim()
+          icon_dini_hari = $(dataa).eq(2).find('img').attr('src')
+          suhu = $(dataa).eq(3).text().trim()
+          kelembapan = $(dataa).eq(4).text().trim()
+        } else if (hmm == 4) {
+          dini_hari = $(dataa).eq(1).find('span').text().trim()
+          icon_dini_hari = $(dataa).eq(1).find('img').attr('src')
+          suhu = $(dataa).eq(2).text().trim()
+          kelembapan = $(dataa).eq(3).text().trim()
+        }
+        if (!kota || !(siang || icon_siang || malam || icon_malam || dini_hari || icon_dini_hari) || !suhu || !kelembapan) continue
 
-    let table = $('#TabPaneCuaca1 > div > table > tbody').eq(1).html() || ''
-    let tr = table.match(/<tr>/g) || []
-    for (let j = 0; j < (tr.length || 100); j++) { 
-      let dataa = $('#TabPaneCuaca1 > div.table-responsive > table > tbody').eq(1).find('tr').eq(j).find('td')
-      if (!dataa.html()) continue
-      let kota = $(dataa).eq(0).find('a').text().trim()
-      let malam = $(dataa).eq(1).find('span').text().trim()
-      let icon_malam = encodeURI($(dataa).eq(1).find('img').attr('src'))
-      let dini_hari = $(dataa).eq(2).find('span').text().trim()
-      let icon_dini_hari = encodeURI($(dataa).eq(2).find('img').attr('src'))
-      let suhu = $(dataa).eq(3).text().trim() + ' °C'
-      let kelembapan = $(dataa).eq(4).text().trim() + '%'
-      result.push({
-        kota,
-        prakiraan_cuaca: {
-          malam,
-          icon_malam,
-          dini_hari,
-          icon_dini_hari,
-        },
-        suhu,
-        kelembapan
-      })
+        // encodeURI url
+        if (icon_siang) icon_siang = encodeURI(icon_siang.trim())
+        if (icon_malam) icon_malam = encodeURI(icon_malam.trim())
+        if (icon_dini_hari) icon_dini_hari = encodeURI(icon_dini_hari.trim())
+        // icon?
+        if (suhu) suhu += ' °C'
+        if (kelembapan) kelembapan += '%'
+
+        result.push({
+          kota,
+          prakiraan_cuaca: {
+            siang,
+            icon_siang,
+            malam,
+            icon_malam,
+            dini_hari,
+            icon_dini_hari,
+          },
+          suhu,
+          kelembapan
+        })
+      }
+
+      let table = $('#TabPaneCuaca1 > div > table > tbody').eq(1).html() || ''
+      let tr = table.match(/<tr>/g) || []
+      for (let j = 0; j < (tr.length || 100); j++) {
+        let dataa = $('#TabPaneCuaca1 > div.table-responsive > table > tbody').eq(1).find('tr').eq(j).find('td')
+        if (!($(dataa).html())) continue
+        let kota = $(dataa).eq(0).find('a').text().trim()
+        let siang, icon_siang
+        let malam, icon_malam
+        let dini_hari, icon_dini_hari
+        let suhu, kelembapan
+        if (hmm == 6) {
+          siang = $(dataa).eq(1).find('span').text().trim()
+          icon_siang = $(dataa).eq(1).find('img').attr('src')
+          malam = $(dataa).eq(2).find('span').text().trim()
+          icon_malam = $(dataa).eq(2).find('img').attr('src')
+          dini_hari = $(dataa).eq(3).find('span').text().trim()
+          icon_dini_hari = $(dataa).eq(3).find('img').attr('src')
+          suhu = $(dataa).eq(4).text().trim()
+          kelembapan = $(dataa).eq(5).text().trim()
+        } else if (hmm == 5) {
+          malam = $(dataa).eq(1).find('span').text().trim()
+          icon_malam = $(dataa).eq(1).find('img').attr('src')
+          dini_hari = $(dataa).eq(2).find('span').text().trim()
+          icon_dini_hari = $(dataa).eq(2).find('img').attr('src')
+          suhu = $(dataa).eq(3).text().trim()
+          kelembapan = $(dataa).eq(4).text().trim()
+        } else if (hmm == 4) {
+          dini_hari = $(dataa).eq(1).find('span').text().trim()
+          icon_dini_hari = $(dataa).eq(1).find('img').attr('src')
+          suhu = $(dataa).eq(2).text().trim()
+          kelembapan = $(dataa).eq(3).text().trim()
+        }
+        if (!kota || !(siang || icon_siang || malam || icon_malam || dini_hari || icon_dini_hari) || !suhu || !kelembapan) continue
+
+        // encodeURI url
+        if (icon_siang) icon_siang = encodeURI(icon_siang.trim())
+        if (icon_malam) icon_malam = encodeURI(icon_malam.trim())
+        if (icon_dini_hari) icon_dini_hari = encodeURI(icon_dini_hari.trim())
+        // icon?
+        if (suhu) suhu += ' °C'
+        if (kelembapan) kelembapan += '%'
+        
+        result.push({
+          kota,
+          prakiraan_cuaca: {
+            siang,
+            icon_siang,
+            malam,
+            icon_malam,
+            dini_hari,
+            icon_dini_hari,
+          },
+          suhu,
+          kelembapan
+        })
+      }
     }
-    if (result.length) await fs.writeFileSync(directory + 'prakiraan_cuaca.json', JSON.stringify(result, null, 2))
+    if (result.length) break
   }
+  if (result.length) await fs.writeFileSync(directory + 'prakiraan_cuaca.json', JSON.stringify(result, null, 2))
 })()
