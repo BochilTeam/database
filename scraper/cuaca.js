@@ -16,12 +16,12 @@ let data = []
     let response = await fetch('https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg')
     let $$ = cheerio.load(await response.text())
 
-    let tablee = $$('#TabPaneCuaca2 > div > table > tbody')
+    let tablee = $$('#TabPaneCuaca1 > div > table > tbody') // #TabPaneCuaca1 > div > table > tbody
     let data1 = async () => {
-      let data = $$('#TabPaneCuaca2 > div > table > tbody').eq(0).find('tr') // #TabPaneCuaca2 > div > table > tbody:nth-child(1) > tr
-      if (!($$(data).html())) continue
+      let data = $$(tablee).eq(0).find('tr') //#TabPaneCuaca1 > div > table > tbody:nth-child(1) > tr
+      //if (!($$(data).html())) continue
       let hmm = (($$(data).html() || '').match(/<td>/g) || []).length
-      if (!hmm) continue
+      //if (!hmm) continue
       data = $$('#TabPaneCuaca2 > div > table > tbody').eq(0).find('tr > td')
       let kota = $$(data).eq(0).find('a').text().trim()
       let siang, icon_siang
@@ -267,7 +267,7 @@ let data = []
         // icon?
         if (suhu) suhu += ' °C'
         if (kelembapan) kelembapan += '%'
-        
+
         result.push({
           kota,
           prakiraan_cuaca: {
