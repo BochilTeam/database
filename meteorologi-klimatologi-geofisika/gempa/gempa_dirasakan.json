@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "27/08/2021 21:30:37 WIB",
+    "lintang": "5.53 LS",
+    "bujur": "103.27 BT",
+    "magnitudo": "4",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 82 km barat daya Kaur",
+    "warning": [
+      "II-III Krui"
+    ]
+  },
+  {
+    "waktu": "27/08/2021 21:01:26 WIB",
+    "lintang": "3.47 LS",
+    "bujur": "120.85 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 15 km barat laut Kolaka Utara",
+    "warning": [
+      "II-III Kolaka Utara"
+    ]
+  },
+  {
     "waktu": "27/08/2021 17:30:59 WIB",
     "lintang": "2.97 LS",
     "bujur": "119.37 BT",
@@ -212,29 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 47 km baratlaut Jailolo",
     "warning": [
       "III Ternate"
-    ]
-  },
-  {
-    "waktu": "21/08/2021 20:09:41 WIB",
-    "lintang": "0.75 LS",
-    "bujur": "128.13 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 71 km timur Labuha",
-    "warning": [
-      "III Gane"
-    ]
-  },
-  {
-    "waktu": "20/08/2021 23:45:04 WIB",
-    "lintang": "9.09 LS",
-    "bujur": "124.2 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "28 Km",
-    "wilayah": "Pusat gempa berada di laut 59 km Barat Laut Timor Tengah Utara",
-    "warning": [
-      "III-IV Timor Tengah Utara",
-      "II-III Alor"
     ]
   }
 ]
