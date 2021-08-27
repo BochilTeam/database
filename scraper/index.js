@@ -12,7 +12,8 @@ const assert = require('assert')
       assert.ok(file)
       console.log('Done run', file)
     } catch (e) {
-      assert.ok(e.length < 1, file + '\n\n' + e)
+      assert.ok(e.length < 1, file)
+      console.error(e)
     }
   }
 })()
