@@ -5,7 +5,8 @@
   "main": ".",
   "scripts": {
     "test": "node test.js",
-    "scraper": "node scraper/index.js"
+    "scraper": "node scraper/index.js",
+    "gempa": "node scraper/gempa.js"
   },
   "keywords": [
     "Database",
