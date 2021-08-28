@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "28/08/2021 20:25:27 WIB",
+    "lintang": "2.88 LS",
+    "bujur": "140.75 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 38 km tenggara Kota Jayapura",
+    "warning": [
+      "III Jayapura"
+    ]
+  },
+  {
+    "waktu": "28/08/2021 19:27:24 WIB",
+    "lintang": "3.47 LS",
+    "bujur": "140.31 BT",
+    "magnitudo": "6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 52 km barat daya Keerom",
+    "warning": [
+      "II-III Kota Jayapura",
+      "II-III Keerom",
+      "II - III Kab. Jayapura",
+      "II - III Wamena"
+    ]
+  },
+  {
     "waktu": "28/08/2021 17:41:20 WIB",
     "lintang": "9.76 LS",
     "bujur": "120.19 BT",
@@ -214,28 +239,6 @@
       "III Ciparanti",
       "III Cikalong",
       "III Cijagra"
-    ]
-  },
-  {
-    "waktu": "22/08/2021 20:14:04 WIB",
-    "lintang": "2.89 LS",
-    "bujur": "140.98 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 55 km tenggara Kota Jayapura",
-    "warning": [
-      "II Arso"
-    ]
-  },
-  {
-    "waktu": "22/08/2021 19:26:52 WIB",
-    "lintang": "3.09 LS",
-    "bujur": "140.83 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 29 km timur laut Keerom",
-    "warning": [
-      "II Arso"
     ]
   }
 ]

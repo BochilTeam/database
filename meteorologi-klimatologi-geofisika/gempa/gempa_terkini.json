@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28-08-21 19:27:24 WIB",
+    "lintang": "-3.47",
+    "bujur": "140.31",
+    "magnitudo": "6.0",
+    "kedalaman": "10 Km",
+    "wilayah": "52 km BaratDaya KEEROM-PAPUA"
+  },
+  {
     "waktu": "28-08-21 17:41:20 WIB",
     "lintang": "-9.76",
     "bujur": "120.19",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "258 Km",
     "wilayah": "126 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "13-07-21 19:45:56 WIB",
-    "lintang": "-5.10",
-    "bujur": "130.93",
-    "magnitudo": "5.6",
-    "kedalaman": "89 Km",
-    "wilayah": "210 km BaratLaut MALUKUTENGGARA"
   }
 ]
