@@ -1,21 +1,21 @@
 # This workflow will do a clean install of node dependencies, cache/restore them, build the source code and run tests across different versions of node
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
 
-name: update data gempa
+name: update data2
 
 on:
   push:
     branches: [ master ]
   workflow_dispatch:
   schedule:
-  - cron: '*/60 * * * *'
+  - cron: '*/5 * * * *'
 
 jobs:
   build:
 
     runs-on: ubuntu-latest
     env:
-      AKTUAL: true
+      CUACA_AKTUAL: true
       
     strategy:
       matrix:
@@ -32,7 +32,7 @@ jobs:
     #- run: npm ci
     #- run: npm run build --if-present
 
-    - run: npm run everyhours
+    - run: npm run scraper2
     - name: Commit and push if it changed
       run: |-
         git config user.name "BochilGaming"
