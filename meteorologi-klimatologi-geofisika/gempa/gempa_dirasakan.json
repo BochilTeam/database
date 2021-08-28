@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "28/08/2021 17:41:20 WIB",
+    "lintang": "9.76 LS",
+    "bujur": "120.19 BT",
+    "magnitudo": "5",
+    "kedalaman": "50 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km barat daya Waingapu",
+    "warning": [
+      "III Waingapu",
+      "II-III Labuan Bajo",
+      "II-III Borong"
+    ]
+  },
+  {
     "waktu": "27/08/2021 23:19:25 WIB",
     "lintang": "4.65 LS",
     "bujur": "137.01 BT",
@@ -223,17 +236,6 @@
     "wilayah": "Pusat gempa berada di darat 29 km timur laut Keerom",
     "warning": [
       "II Arso"
-    ]
-  },
-  {
-    "waktu": "22/08/2021 18:07:23 WIB",
-    "lintang": "1.45 LU",
-    "bujur": "120.82 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 18 km barat laut Laulalang, Kab. Tolitoli",
-    "warning": [
-      "III Tolitoli"
     ]
   }
 ]

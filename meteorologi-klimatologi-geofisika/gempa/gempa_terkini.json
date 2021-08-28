@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28-08-21 17:41:20 WIB",
+    "lintang": "-9.76",
+    "bujur": "120.19",
+    "magnitudo": "5.0",
+    "kedalaman": "50 Km",
+    "wilayah": "13 km BaratDaya WAINGAPU-NTT"
+  },
+  {
     "waktu": "27-08-21 17:22:20 WIB",
     "lintang": "6.04",
     "bujur": "125.22",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "89 Km",
     "wilayah": "210 km BaratLaut MALUKUTENGGARA"
-  },
-  {
-    "waktu": "12-07-21 13:30:38 WIB",
-    "lintang": "-6.42",
-    "bujur": "106.05",
-    "magnitudo": "5.2",
-    "kedalaman": "139 Km",
-    "wilayah": "12 km BaratDaya PANDEGLANG-BANTEN"
   }
 ]
