@@ -6,8 +6,8 @@
   "scripts": {
     "test": "node test.js",
     "scraper": "node scraper/index.js --trace-warnings",
-    "everyday": "node scraper/tanda_waktu.js && node scraper/kurs.js && node scraper/covid19.js && node scraper/cuaca.js && node scraper/cuaca_bandara.js",
-    "everyhours": "node scraper/gempa.js && node scraper/cuaca_bandara.js"
+    "scraper2": "node scraper/tanda_waktu.js && node scraper/kurs.js && node scraper/covid19.js && node scraper/cuaca.js && node scraper/cuaca_bandara.js",
+    "scraper3": "node scraper/gempa.js && node scraper/cuaca_bandara.js"
   },
   "keywords": [
     "Database",
