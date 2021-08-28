@@ -13,7 +13,7 @@ if (!fs.existsSync(dir_bandara)) {
 }
 
 ; (async () => {
-  if (process.env.AKTUAL) return
+  if (process.env.CUACA_AKTUAL) return
   let result = {}
   for (let z = 0; z < 10; z++) {
     result = {}
