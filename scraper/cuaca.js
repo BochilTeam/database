@@ -7,13 +7,12 @@ if (!fs.existsSync(base)) {
   fs.mkdirSync(base, { recursive: true })
 }
 
-var data = []
-
 ; (async () => {
   let results = []
+  let data = []
   for (let z = 0; z < 10; z++) {
-    var data = []
     results = []
+    data = []
     let response = await fetch('https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg')
     let $$ = cheerio.load(await response.text())
 
@@ -149,11 +148,7 @@ var data = []
     if (results.length && data.length) break
   }
   if (results.length) await fs.writeFileSync(base + 'cuaca.json', JSON.stringify(results, null, 2))
-})()
 
-console.error(data)
-
-; (async () => {
   let result = []
   let directory
   for (let i = 0; i < data.length; i++) {
@@ -166,7 +161,7 @@ console.error(data)
       if (!fs.existsSync(directory)) {
         await fs.mkdirSync(directory, { recursive: true })
       }
-      console.error({ provinsi })
+      console.log({ provinsi })
       let respons = await fetch(info.url)
       if (!respons.ok) continue
       let $ = cheerio.load(await respons.text())
@@ -289,7 +284,10 @@ console.error(data)
           kelembapan
         })
       }
-      if (result.length) break
+      if (result.length) {
+        await fs.writeFileSync(directory + 'prakiraan_cuaca.json', JSON.stringify(result, null, 2))
+        break
+      }
     }
   }
 })()
