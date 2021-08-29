@@ -7,6 +7,8 @@ if (!fs.existsSync(base)) {
   fs.mkdirSync(base, { recursive: true })
 }
 
+var data = []
+
 ; (async () => {
   let results = []
   for (let z = 0; z < 10; z++) {
