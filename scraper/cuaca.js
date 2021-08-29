@@ -152,10 +152,10 @@ let data = []
 
 ; (async () => {
   let result = []
-  let directory
-  for (let z = 0; z < 10; z++) {
-    result = []
-    for (let i = 0; i < data.length; i++) {
+  for (let i = 0; i < data.length; i++) {
+    for (let z = 0; z < 10; z++) {
+      result = []
+      let directory
       let info = data[i]
       let provinsi = (info.provinsi).toLowerCase()
       directory = base + 'provinsi/' + provinsi + '/'
