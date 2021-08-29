@@ -3,11 +3,11 @@
     "peringkat": "1",
     "nama": "bitcoin",
     "simbol": "BTC",
-    "harga": "Rp694,718,482.05",
-    "_24_jam": "↓ 1.84%",
-    "_1_minggu": "↓ 2.54%",
-    "kap_pasar": "Rp13,061,128,461,968,916",
-    "volume_24_jam": "Rp411,822,562,157,012",
+    "harga": "Rp695,860,701.80",
+    "_24_jam": "↓ 1.62%",
+    "_1_minggu": "↓ 2.48%",
+    "kap_pasar": "Rp13,082,602,885,470,762",
+    "volume_24_jam": "Rp411,504,935,278,690",
     "peredaran_suplai": "18,800,606 BTC",
     "_7_hari_terakhir": "https://s3.coinmarketcap.com/generated/sparklines/web/7d/usd/1.png"
   },
@@ -15,11 +15,11 @@
     "peringkat": "2",
     "nama": "ethereum",
     "simbol": "ETH",
-    "harga": "Rp45,888,094.24",
-    "_24_jam": "↓ 2.07%",
+    "harga": "Rp45,951,359.02",
+    "_24_jam": "↓ 1.90%",
     "_1_minggu": "↓ 3.04%",
-    "kap_pasar": "Rp5,382,754,708,120,910",
-    "volume_24_jam": "Rp214,759,849,547,809",
+    "kap_pasar": "Rp5,390,175,778,304,501",
+    "volume_24_jam": "Rp214,802,817,610,190",
     "peredaran_suplai": "117,301,771 ETH",
     "_7_hari_terakhir": "https://s3.coinmarketcap.com/generated/sparklines/web/7d/usd/1027.png"
   },
@@ -27,11 +27,11 @@
     "peringkat": "3",
     "nama": "cardano",
     "simbol": "ADA",
-    "harga": "Rp40,610.19",
-    "_24_jam": "↓ 1.10%",
-    "_1_minggu": "↑ 7.30%",
-    "kap_pasar": "Rp1,305,428,628,987,236",
-    "volume_24_jam": "Rp74,367,061,505,644",
+    "harga": "Rp40,863.13",
+    "_24_jam": "↓ 0.29%",
+    "_1_minggu": "↑ 7.55%",
+    "kap_pasar": "Rp1,313,559,609,020,474",
+    "volume_24_jam": "Rp74,697,706,911,184",
     "peredaran_suplai": "32,145,348,141 ADA",
     "_7_hari_terakhir": "https://s3.coinmarketcap.com/generated/sparklines/web/7d/usd/2010.png"
   },
@@ -39,11 +39,11 @@
     "peringkat": "4",
     "nama": "binance coin",
     "simbol": "BNB",
-    "harga": "Rp6,986,038.03",
-    "_24_jam": "↓ 0.90%",
-    "_1_minggu": "↑ 5.65%",
-    "kap_pasar": "Rp1,174,611,727,171,465",
-    "volume_24_jam": "Rp26,177,221,480,035",
+    "harga": "Rp7,000,007.11",
+    "_24_jam": "↓ 0.58%",
+    "_1_minggu": "↑ 5.68%",
+    "kap_pasar": "Rp1,176,960,446,618,173",
+    "volume_24_jam": "Rp26,233,123,272,586",
     "peredaran_suplai": "168,137,036 BNB",
     "_7_hari_terakhir": "https://s3.coinmarketcap.com/generated/sparklines/web/7d/usd/1839.png"
   },
@@ -51,11 +51,11 @@
     "peringkat": "5",
     "nama": "tether",
     "simbol": "USDT",
-    "harga": "Rp14,343.21",
-    "_24_jam": "↓ 0.75%",
-    "_1_minggu": "↓ 1.33%",
-    "kap_pasar": "Rp939,329,128,633,610",
-    "volume_24_jam": "Rp957,073,735,462,821",
+    "harga": "Rp14,342.49",
+    "_24_jam": "↓ 0.76%",
+    "_1_minggu": "↓ 1.32%",
+    "kap_pasar": "Rp939,281,861,363,001",
+    "volume_24_jam": "Rp957,728,932,710,219",
     "peredaran_suplai": "65,489,475,281 USDT",
     "_7_hari_terakhir": "https://s3.coinmarketcap.com/generated/sparklines/web/7d/usd/825.png"
   },
@@ -63,11 +63,11 @@
     "peringkat": "6",
     "nama": "xrp",
     "simbol": "XRP",
-    "harga": "Rp16,351.81",
-    "_24_jam": "↓ 2.60%",
-    "_1_minggu": "↓ 9.41%",
-    "kap_pasar": "Rp760,581,581,363,550",
-    "volume_24_jam": "Rp50,534,484,746,351",
+    "harga": "Rp16,485.05",
+    "_24_jam": "↓ 1.80%",
+    "_1_minggu": "↓ 8.74%",
+    "kap_pasar": "Rp766,779,154,113,950",
+    "volume_24_jam": "Rp50,810,709,317,126",
     "peredaran_suplai": "46,513,604,835 XRP",
     "_7_hari_terakhir": "https://s3.coinmarketcap.com/generated/sparklines/web/7d/usd/52.png"
   },
@@ -75,11 +75,11 @@
     "peringkat": "7",
     "nama": "dogecoin",
     "simbol": "DOGE",
-    "harga": "Rp4,038.67",
-    "_24_jam": "↓ 3.36%",
-    "_1_minggu": "↓ 12.76%",
-    "kap_pasar": "Rp529,307,578,805,494",
-    "volume_24_jam": "Rp21,795,223,509,116",
+    "harga": "Rp4,045.56",
+    "_24_jam": "↓ 3.05%",
+    "_1_minggu": "↓ 12.81%",
+    "kap_pasar": "Rp530,211,521,868,875",
+    "volume_24_jam": "Rp21,792,059,188,605",
     "peredaran_suplai": "131,060,005,023 DOGE",
     "_7_hari_terakhir": "https://s3.coinmarketcap.com/generated/sparklines/web/7d/usd/74.png"
   },
@@ -87,11 +87,11 @@
     "peringkat": "8",
     "nama": "usd coin",
     "simbol": "USDC",
-    "harga": "Rp14,336.21",
+    "harga": "Rp14,336.56",
     "_24_jam": "↓ 0.74%",
-    "_1_minggu": "↓ 1.31%",
-    "kap_pasar": "Rp389,739,249,848,176",
-    "volume_24_jam": "Rp27,210,613,321,769",
+    "_1_minggu": "↓ 1.30%",
+    "kap_pasar": "Rp389,748,966,975,698",
+    "volume_24_jam": "Rp27,206,694,335,782",
     "peredaran_suplai": "27,185,662,812 USDC",
     "_7_hari_terakhir": "https://s3.coinmarketcap.com/generated/sparklines/web/7d/usd/3408.png"
   },
@@ -99,11 +99,11 @@
     "peringkat": "9",
     "nama": "solana",
     "simbol": "SOL",
-    "harga": "Rp1,324,856.29",
-    "_24_jam": "↑ 4.27%",
-    "_1_minggu": "↑ 19.17%",
-    "kap_pasar": "Rp385,460,203,902,046",
-    "volume_24_jam": "Rp40,364,536,867,007",
+    "harga": "Rp1,327,663.05",
+    "_24_jam": "↑ 2.81%",
+    "_1_minggu": "↑ 19.62%",
+    "kap_pasar": "Rp386,276,816,102,690",
+    "volume_24_jam": "Rp40,247,531,423,251",
     "peredaran_suplai": "290,944,918 SOL",
     "_7_hari_terakhir": "https://s3.coinmarketcap.com/generated/sparklines/web/7d/usd/5426.png"
   },
@@ -111,28 +111,28 @@
     "peringkat": "10",
     "nama": "polkadot",
     "simbol": "DOT",
-    "harga": "Rp371,981.81",
-    "_24_jam": "↓ 1.38%",
-    "_1_minggu": "↓ 8.46%",
-    "kap_pasar": "Rp367,361,537,222,156",
-    "volume_24_jam": "Rp16,890,847,328,982",
+    "harga": "Rp373,078.80",
+    "_24_jam": "↓ 0.95%",
+    "_1_minggu": "↓ 8.37%",
+    "kap_pasar": "Rp368,444,907,914,473",
+    "volume_24_jam": "Rp16,914,079,214,236",
     "peredaran_suplai": "987,579,315 DOT",
     "_7_hari_terakhir": "https://s3.coinmarketcap.com/generated/sparklines/web/7d/usd/6636.png"
   },
   {
     "nama": "Uniswap",
     "simbol": "UNI",
-    "harga": "$26.55"
+    "harga": "$26.61"
   },
   {
     "nama": "Terra",
     "simbol": "LUNA",
-    "harga": "$35.84"
+    "harga": "$35.93"
   },
   {
     "nama": "Bitcoin Cash",
     "simbol": "BCH",
-    "harga": "$679.20"
+    "harga": "$680.60"
   },
   {
     "nama": "Binance USD",
@@ -142,37 +142,37 @@
   {
     "nama": "Litecoin",
     "simbol": "LTC",
-    "harga": "$179.02"
+    "harga": "$179.16"
   },
   {
     "nama": "Chainlink",
     "simbol": "LINK",
-    "harga": "$25.80"
+    "harga": "$25.88"
   },
   {
     "nama": "Internet Computer",
     "simbol": "ICP",
-    "harga": "$63.22"
+    "harga": "$63.44"
   },
   {
     "nama": "Wrapped Bitcoin",
     "simbol": "WBTC",
-    "harga": "$48520.47"
+    "harga": "$48552.45"
   },
   {
     "nama": "Polygon",
     "simbol": "MATIC",
-    "harga": "$1.42"
+    "harga": "$1.43"
   },
   {
     "nama": "Avalanche",
     "simbol": "AVAX",
-    "harga": "$48.52"
+    "harga": "$48.61"
   },
   {
     "nama": "Ethereum Classic",
     "simbol": "ETC",
-    "harga": "$64.14"
+    "harga": "$64.37"
   },
   {
     "nama": "Stellar",
@@ -187,12 +187,12 @@
   {
     "nama": "Filecoin",
     "simbol": "FIL",
-    "harga": "$74.03"
+    "harga": "$74.07"
   },
   {
     "nama": "THETA",
     "simbol": "THETA",
-    "harga": "$6.92"
+    "harga": "$6.95"
   },
   {
     "nama": "TRON",
@@ -207,47 +207,47 @@
   {
     "nama": "PancakeSwap",
     "simbol": "CAKE",
-    "harga": "$25.54"
+    "harga": "$25.60"
   },
   {
     "nama": "Monero",
     "simbol": "XMR",
-    "harga": "$295.80"
+    "harga": "$296.74"
   },
   {
     "nama": "Tezos",
     "simbol": "XTZ",
-    "harga": "$5.70"
-  },
-  {
-    "nama": "EOS",
-    "simbol": "EOS",
-    "harga": "$5.09"
+    "harga": "$5.71"
   },
   {
     "nama": "Cosmos",
     "simbol": "ATOM",
-    "harga": "$21.94"
+    "harga": "$22.25"
+  },
+  {
+    "nama": "EOS",
+    "simbol": "EOS",
+    "harga": "$5.10"
   },
   {
     "nama": "Aave",
     "simbol": "AAVE",
-    "harga": "$362.49"
+    "harga": "$363.37"
   },
   {
     "nama": "FTX Token",
     "simbol": "FTT",
-    "harga": "$47.74"
+    "harga": "$47.91"
   },
   {
     "nama": "Axie Infinity",
     "simbol": "AXS",
-    "harga": "$73.42"
+    "harga": "$73.64"
   },
   {
     "nama": "The Graph",
     "simbol": "GRT",
-    "harga": "$0.90"
+    "harga": "$0.91"
   },
   {
     "nama": "Klaytn",
@@ -262,27 +262,27 @@
   {
     "nama": "Neo",
     "simbol": "NEO",
-    "harga": "$55.11"
+    "harga": "$55.29"
   },
   {
     "nama": "Bitcoin BEP2",
     "simbol": "BTCB",
-    "harga": "$48609.57"
+    "harga": "$48496.80"
   },
   {
     "nama": "Algorand",
     "simbol": "ALGO",
-    "harga": "$1.03"
+    "harga": "$1.04"
   },
   {
     "nama": "Maker",
     "simbol": "MKR",
-    "harga": "$3540.96"
+    "harga": "$3542.93"
   },
   {
     "nama": "Bitcoin SV",
     "simbol": "BSV",
-    "harga": "$170.91"
+    "harga": "$171.45"
   },
   {
     "nama": "UNUS SED LEO",
@@ -302,27 +302,27 @@
   {
     "nama": "IOTA",
     "simbol": "MIOTA",
-    "harga": "$1.00"
+    "harga": "$1.01"
   },
   {
     "nama": "Elrond",
     "simbol": "EGLD",
-    "harga": "$139.42"
-  },
-  {
-    "nama": "Waves",
-    "simbol": "WAVES",
-    "harga": "$24.81"
+    "harga": "$139.77"
   },
   {
     "nama": "NEAR Protocol",
     "simbol": "NEAR",
-    "harga": "$5.86"
+    "harga": "$6.01"
+  },
+  {
+    "nama": "Waves",
+    "simbol": "WAVES",
+    "harga": "$24.85"
   },
   {
     "nama": "Kusama",
     "simbol": "KSM",
-    "harga": "$304.95"
+    "harga": "$306.40"
   },
   {
     "nama": "Amp",
@@ -337,12 +337,12 @@
   {
     "nama": "Dash",
     "simbol": "DASH",
-    "harga": "$238.65"
+    "harga": "$239.51"
   },
   {
     "nama": "Huobi Token",
     "simbol": "HT",
-    "harga": "$14.33"
+    "harga": "$14.34"
   },
   {
     "nama": "TerraUSD",
@@ -352,27 +352,27 @@
   {
     "nama": "Quant",
     "simbol": "QNT",
-    "harga": "$189.90"
+    "harga": "$189.91"
   },
   {
     "nama": "Decred",
     "simbol": "DCR",
-    "harga": "$170.16"
+    "harga": "$170.02"
   },
   {
     "nama": "Compound",
     "simbol": "COMP",
-    "harga": "$409.54"
+    "harga": "$410.32"
   },
   {
     "nama": "Helium",
     "simbol": "HNT",
-    "harga": "$22.91"
+    "harga": "$22.97"
   },
   {
     "nama": "THORChain",
     "simbol": "RUNE",
-    "harga": "$9.71"
+    "harga": "$9.78"
   },
   {
     "nama": "Chiliz",
@@ -387,7 +387,7 @@
   {
     "nama": "Zcash",
     "simbol": "ZEC",
-    "harga": "$150.90"
+    "harga": "$151.19"
   },
   {
     "nama": "XinFin Network",
@@ -405,34 +405,34 @@
     "harga": "$0.33"
   },
   {
+    "nama": "Enjin Coin",
+    "simbol": "ENJ",
+    "harga": "$2.03"
+  },
+  {
     "nama": "Stacks",
     "simbol": "STX",
     "harga": "$1.39"
   },
   {
-    "nama": "Enjin Coin",
-    "simbol": "ENJ",
-    "harga": "$2.02"
-  },
-  {
     "nama": "Decentraland",
     "simbol": "MANA",
-    "harga": "$0.92"
+    "harga": "$0.93"
   },
   {
     "nama": "Arweave",
     "simbol": "AR",
-    "harga": "$49.67"
+    "harga": "$48.35"
   },
   {
     "nama": "Bitcoin Gold",
     "simbol": "BTG",
-    "harga": "$85.49"
+    "harga": "$85.19"
   },
   {
     "nama": "SushiSwap",
     "simbol": "SUSHI",
-    "harga": "$11.39"
+    "harga": "$11.43"
   },
   {
     "nama": "TrueUSD",
@@ -447,7 +447,7 @@
   {
     "nama": "yearn.finance",
     "simbol": "YFI",
-    "harga": "$37633.38"
+    "harga": "$37687.05"
   },
   {
     "nama": "Revain",
@@ -457,17 +457,17 @@
   {
     "nama": "Synthetix",
     "simbol": "SNX",
-    "harga": "$11.64"
-  },
-  {
-    "nama": "Qtum",
-    "simbol": "QTUM",
-    "harga": "$13.24"
+    "harga": "$11.70"
   },
   {
     "nama": "Fantom",
     "simbol": "FTM",
     "harga": "$0.51"
+  },
+  {
+    "nama": "Qtum",
+    "simbol": "QTUM",
+    "harga": "$13.26"
   },
   {
     "nama": "Zilliqa",
@@ -477,7 +477,7 @@
   {
     "nama": "Flow",
     "simbol": "FLOW",
-    "harga": "$22.17"
+    "harga": "$22.23"
   },
   {
     "nama": "Ravencoin",
@@ -512,7 +512,12 @@
   {
     "nama": "KuCoin Token",
     "simbol": "KCS",
-    "harga": "$13.44"
+    "harga": "$13.46"
+  },
+  {
+    "nama": "Nexo",
+    "simbol": "NEXO",
+    "harga": "$1.87"
   },
   {
     "nama": "Harmony",
@@ -520,14 +525,9 @@
     "harga": "$0.10"
   },
   {
-    "nama": "Nexo",
-    "simbol": "NEXO",
-    "harga": "$1.86"
-  },
-  {
     "nama": "Perpetual Protocol",
     "simbol": "PERP",
-    "harga": "$17.47"
+    "harga": "$17.60"
   },
   {
     "nama": "Siacoin",
@@ -537,12 +537,12 @@
   {
     "nama": "Horizen",
     "simbol": "ZEN",
-    "harga": "$85.40"
+    "harga": "$85.75"
   },
   {
     "nama": "Bancor",
     "simbol": "BNT",
-    "harga": "$4.21"
+    "harga": "$4.22"
   },
   {
     "nama": "Mdex",
@@ -555,18 +555,18 @@
     "harga": "$1.00"
   },
   {
-    "nama": "Ontology",
-    "simbol": "ONT",
-    "harga": "$1.08"
-  },
-  {
     "nama": "DigiByte",
     "simbol": "DGB",
     "harga": "$0.06"
   },
   {
+    "nama": "Ontology",
+    "simbol": "ONT",
+    "harga": "$1.08"
+  },
+  {
     "nama": "OMG Network",
     "simbol": "OMG",
-    "harga": "$6.65"
+    "harga": "$6.67"
   }
 ]

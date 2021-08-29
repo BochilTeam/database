@@ -771,11 +771,11 @@
   },
   {
     "bandara": "Sultan Bantilan - Toli Toli",
-    "waktu_pengamatan": "2021-08-29 16:00:00 WITA",
+    "waktu_pengamatan": "2021-08-29 17:00:00 WITA",
     "arah_angin": "Timur",
-    "kecepatan": "3.7 km/jam",
-    "jarak_pandang": ">=10 km",
-    "cuaca": "Berawan",
+    "kecepatan": "7.4 km/jam",
+    "jarak_pandang": "8.0 km",
+    "cuaca": "Hujan ringan",
     "suhu": "25 °C",
     "titik_embun": "24 °C",
     "tekanan_udara": "1006 hPa"
@@ -826,13 +826,13 @@
   },
   {
     "bandara": "Syukuran Aminuddin Amir - Luwuk",
-    "waktu_pengamatan": "2021-08-29 16:59:00 WITA",
+    "waktu_pengamatan": "2021-08-29 17:09:00 WITA",
     "arah_angin": "Selatan",
     "kecepatan": "16.7 km/jam",
-    "jarak_pandang": "3.8 km",
-    "cuaca": "Udara kabur",
+    "jarak_pandang": "5.0 km",
+    "cuaca": "Berawan",
     "suhu": "28 °C",
-    "titik_embun": "25 °C",
+    "titik_embun": "24 °C",
     "tekanan_udara": "1007 hPa"
   },
   {
