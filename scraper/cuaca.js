@@ -230,7 +230,7 @@ if (!fs.existsSync(base)) {
       for (let j = 0; j < (tr.length || 100); j++) {
         let dataa = $('#TabPaneCuaca1 > div > table > tbody').eq(1).find('tr').eq(j)
         if (!($(dataa).html())) continue
-        let hmm = (($$(dataa).html() || '').match(/<td>/g) || []).length
+        let hmm = (($(dataa).html() || '').match(/<td>/g) || []).length
         if (!hmm) continue
         dataa = $('#TabPaneCuaca1 > div > table > tbody').eq(1).find('tr').eq(j).find('td')
         let kota = $(dataa).eq(0).find('a').text().trim()
