@@ -156,13 +156,14 @@ let data = []
   for (let i = 0; i < data.length; i++) {
     for (let z = 0; z < 10; z++) {
       result = []
+      directory = ''
       let info = data[i]
       let provinsi = (info.provinsi).toLowerCase()
       directory = base + 'provinsi/' + provinsi + '/'
       if (!fs.existsSync(directory)) {
         await fs.mkdirSync(directory, { recursive: true })
       }
-
+      console.log({ provinsi })
       let respons = await fetch(info.url)
       if (!respons.ok) continue
       let $ = cheerio.load(await respons.text())
@@ -285,10 +286,7 @@ let data = []
           kelembapan
         })
       }
-      if (result.length) {
-        await fs.writeFileSync(directory + 'prakiraan_cuaca.json', JSON.stringify(result, null, 2))
-        break
-      }
+      if (result.length) break
     }
   }
 })()
