@@ -7,12 +7,11 @@ if (!fs.existsSync(base)) {
   fs.mkdirSync(base, { recursive: true })
 }
 
-let data = []
 ; (async () => {
   let results = []
   for (let z = 0; z < 10; z++) {
+    var data = []
     results = []
-    data = []
     let response = await fetch('https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg')
     let $$ = cheerio.load(await response.text())
 
@@ -150,7 +149,6 @@ let data = []
   if (results.length) await fs.writeFileSync(base + 'cuaca.json', JSON.stringify(results, null, 2))
 })()
 
-console.error(data)
 
 ; (async () => {
   let result = []
