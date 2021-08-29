@@ -147,10 +147,9 @@ let data = []
 
     if (results.length && data.length) break
   }
+  console.error(data)
   if (results.length) await fs.writeFileSync(base + 'cuaca.json', JSON.stringify(results, null, 2))
 })()
-
-console.error(data)
 
 ; (async () => {
   let result = []
