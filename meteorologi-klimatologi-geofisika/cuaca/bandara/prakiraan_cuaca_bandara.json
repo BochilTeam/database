@@ -2,7 +2,7 @@
   "1_jam_akan_datang": [
     {
       "bandara": "Maimun Saleh - Sabang",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Barat",
       "kecepatan": "20.4 km/jam",
       "jarak_pandang": "8.0 km",
@@ -11,7 +11,7 @@
     },
     {
       "bandara": "Sultan Iskandar Muda - Banda Aceh",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Barat Laut",
       "kecepatan": "14.8 km/jam",
       "jarak_pandang": ">=10 km",
@@ -20,7 +20,7 @@
     },
     {
       "bandara": "Cut Nyak Dien Nagan Raya - Meulaboh, NAD",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Barat Daya",
       "kecepatan": "13.0 km/jam",
       "jarak_pandang": "7.0 km",
@@ -29,7 +29,7 @@
     },
     {
       "bandara": "Malikus Saleh - Lhokseumawe",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Utara",
       "kecepatan": "14.8 km/jam",
       "jarak_pandang": "5.0 km",
@@ -38,7 +38,7 @@
     },
     {
       "bandara": "Binaka - Gunung Sitoli",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Utara",
       "kecepatan": "11.1 km/jam",
       "jarak_pandang": "4.5 km",
@@ -47,7 +47,7 @@
     },
     {
       "bandara": "Kualanamu International Airport - Deli Serdang",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Variabel",
       "kecepatan": "14.8 km/jam",
       "jarak_pandang": "4.5 km",
@@ -56,7 +56,7 @@
     },
     {
       "bandara": "Dr. Ferdinand Lumban Tobing - Pinangsori (Sibolga)",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Barat",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": "4.5 km",
@@ -65,7 +65,7 @@
     },
     {
       "bandara": "Silangit - Tapanuli Utara",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Selatan",
       "kecepatan": "14.8 km/jam",
       "jarak_pandang": "5.0 km",
@@ -74,7 +74,7 @@
     },
     {
       "bandara": "Aek Godang - Padang Sidempuan",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Variabel",
       "kecepatan": "11.1 km/jam",
       "jarak_pandang": "4.5 km",
@@ -83,7 +83,7 @@
     },
     {
       "bandara": "Minangkabau International Airport - Padang",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Barat Daya",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": ">=10 km",
@@ -92,7 +92,7 @@
     },
     {
       "bandara": "Mukomuko",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Timur Laut",
       "kecepatan": "13.0 km/jam",
       "jarak_pandang": ">=10 km",
@@ -101,7 +101,7 @@
     },
     {
       "bandara": "Sultan Syarif Kasim II - Pekanbaru",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Selatan",
       "kecepatan": "13.0 km/jam",
       "jarak_pandang": "9.0 km",
@@ -110,7 +110,7 @@
     },
     {
       "bandara": "Depati Parbo - Kerinci",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Tenggara",
       "kecepatan": "5.6 km/jam",
       "jarak_pandang": "4.0 km",
@@ -119,7 +119,7 @@
     },
     {
       "bandara": "Japura - Rengat",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Tenggara",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": "8.0 km",
@@ -128,7 +128,7 @@
     },
     {
       "bandara": "Fatmawati Sukarno - Bengkulu",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Selatan",
       "kecepatan": "13.0 km/jam",
       "jarak_pandang": ">=10 km",
@@ -137,7 +137,7 @@
     },
     {
       "bandara": "Sultan Thaha - Jambi",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Tenggara",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": "5.0 km",
@@ -146,7 +146,7 @@
     },
     {
       "bandara": "Hang Nadim - Batam",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Selatan",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": ">=10 km",
@@ -155,7 +155,7 @@
     },
     {
       "bandara": "Raja Haji Fisabilillah - Tanjung Pinang",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Selatan",
       "kecepatan": "14.8 km/jam",
       "jarak_pandang": ">=10 km",
@@ -164,7 +164,7 @@
     },
     {
       "bandara": "Dabo - Singkep",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Selatan",
       "kecepatan": "13.0 km/jam",
       "jarak_pandang": "8.0 km",
@@ -173,7 +173,7 @@
     },
     {
       "bandara": "Sultan Mahmud Badaruddin II - Palembang",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Selatan",
       "kecepatan": "14.8 km/jam",
       "jarak_pandang": ">=10 km",
@@ -182,7 +182,7 @@
     },
     {
       "bandara": "Radin Inten II - Lampung",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Utara",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": "4.0 km",
@@ -191,7 +191,7 @@
     },
     {
       "bandara": "Depati Amir - Pangkal Pinang",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Timur",
       "kecepatan": "11.1 km/jam",
       "jarak_pandang": "4.0 km",
@@ -200,7 +200,7 @@
     },
     {
       "bandara": "Budiarto - Curug",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Timur Laut",
       "kecepatan": "20.4 km/jam",
       "jarak_pandang": "9.0 km",
@@ -209,7 +209,7 @@
     },
     {
       "bandara": "Soekarno Hatta - Jakarta",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Timur",
       "kecepatan": "22.2 km/jam",
       "jarak_pandang": "9.0 km",
@@ -218,7 +218,7 @@
     },
     {
       "bandara": "Halim Perdana Kusuma - Jakarta",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Timur Laut",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": "3.0 km",
@@ -227,7 +227,7 @@
     },
     {
       "bandara": "Husein Sastranegara - Bandung",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Timur",
       "kecepatan": "22.2 km/jam",
       "jarak_pandang": "8.0 km",
@@ -236,7 +236,7 @@
     },
     {
       "bandara": "H.A.S. Hanandjoeddin - Tanjung Pandan",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Tenggara",
       "kecepatan": "11.1 km/jam",
       "jarak_pandang": ">=10 km",
@@ -245,7 +245,7 @@
     },
     {
       "bandara": "Kertajati",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Timur",
       "kecepatan": "14.8 km/jam",
       "jarak_pandang": "4.0 km",
@@ -254,7 +254,7 @@
     },
     {
       "bandara": "Cakrabhuwana / Penggung - Cirebon",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Timur",
       "kecepatan": "14.8 km/jam",
       "jarak_pandang": "9.0 km",
@@ -263,7 +263,7 @@
     },
     {
       "bandara": "Tunggul Wulung - Cilacap",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Tenggara",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": ">=10 km",
@@ -272,7 +272,7 @@
     },
     {
       "bandara": "Supadio - Pontianak",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Tenggara",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": "4.0 km",
@@ -281,7 +281,7 @@
     },
     {
       "bandara": "Rahadi Oesman - Ketapang",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Timur",
       "kecepatan": "16.7 km/jam",
       "jarak_pandang": "4.0 km",
@@ -290,7 +290,7 @@
     },
     {
       "bandara": "Yogyakarta International Airport - Kulonprogo",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Tenggara",
       "kecepatan": "27.8 km/jam",
       "jarak_pandang": ">=10 km",
@@ -299,7 +299,7 @@
     },
     {
       "bandara": "Ahmad Yani - Semarang",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Barat Laut",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": "7.0 km",
@@ -308,7 +308,7 @@
     },
     {
       "bandara": "Adi Sutjipto - Yogyakarta",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Timur",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": "8.0 km",
@@ -317,7 +317,7 @@
     },
     {
       "bandara": "Adi Soemarmo - Surakarta",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Barat Daya",
       "kecepatan": "7.4 km/jam",
       "jarak_pandang": "7.0 km",
@@ -326,7 +326,7 @@
     },
     {
       "bandara": "Tebelian - Sintang",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Variabel",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": "4.0 km",
@@ -335,7 +335,7 @@
     },
     {
       "bandara": "Iskandar - Pangkalan Bun",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Tenggara",
       "kecepatan": "14.8 km/jam",
       "jarak_pandang": "3.0 km",
@@ -344,7 +344,7 @@
     },
     {
       "bandara": "Nanga Pinoh",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Variabel",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": "6.0 km",
@@ -353,7 +353,7 @@
     },
     {
       "bandara": "Bawean - Harun Thohir",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Tenggara",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": ">=10 km",
@@ -362,7 +362,7 @@
     },
     {
       "bandara": "Abdulrachman Saleh - Malang",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Barat Daya",
       "kecepatan": "14.8 km/jam",
       "jarak_pandang": "6.0 km",
@@ -371,7 +371,7 @@
     },
     {
       "bandara": "Juanda - Surabaya",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Timur",
       "kecepatan": "22.2 km/jam",
       "jarak_pandang": ">=10 km",
@@ -380,7 +380,7 @@
     },
     {
       "bandara": "Pangsuma - Putussibau",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Variabel",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": "4.0 km",
@@ -389,7 +389,7 @@
     },
     {
       "bandara": "Haji Asan - Sampit",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Tenggara",
       "kecepatan": "7.4 km/jam",
       "jarak_pandang": "8.0 km",
@@ -398,7 +398,7 @@
     },
     {
       "bandara": "Noto Hadinegoro - Jember",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Barat Daya",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": "8.0 km",
@@ -407,7 +407,7 @@
     },
     {
       "bandara": "Trunojoyo - Sumenep",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Tenggara",
       "kecepatan": "14.8 km/jam",
       "jarak_pandang": ">=10 km",
@@ -416,7 +416,7 @@
     },
     {
       "bandara": "Tjilik Riwut - Palangkaraya",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Selatan",
       "kecepatan": "7.4 km/jam",
       "jarak_pandang": "9.0 km",
@@ -425,7 +425,7 @@
     },
     {
       "bandara": "Banyuwangi",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Tenggara",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": "9.0 km",
@@ -434,7 +434,7 @@
     },
     {
       "bandara": "Sanggu - Buntok",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Barat Daya",
       "kecepatan": "5.6 km/jam",
       "jarak_pandang": ">=10 km",
@@ -443,7 +443,7 @@
     },
     {
       "bandara": "H. Hasan Aroeboesman - Ende",
-      "waktu": "16:17 WIB",
+      "waktu": "16:47 WIB",
       "arah_angin": "Tenggara",
       "kecepatan": "14.8 km/jam",
       "jarak_pandang": "8.0 km",
@@ -452,7 +452,7 @@
     },
     {
       "bandara": "Syamsudin Noor - Banjarmasin",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Timur Laut",
       "kecepatan": "11.1 km/jam",
       "jarak_pandang": ">=10 km",
@@ -461,7 +461,7 @@
     },
     {
       "bandara": "I Gusti Ngurah Rai - Denpasar",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Tenggara",
       "kecepatan": "20.4 km/jam",
       "jarak_pandang": ">=10 km",
@@ -470,7 +470,7 @@
     },
     {
       "bandara": "Yuvai Semaring - Long Bawang",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Selatan",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": "8.0 km",
@@ -479,7 +479,7 @@
     },
     {
       "bandara": "Gusti Sjamsir Alam - Kota Baru",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Tenggara",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": "8.0 km",
@@ -488,7 +488,7 @@
     },
     {
       "bandara": "Bandara Internasional Lombok - Praya",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Tenggara",
       "kecepatan": "24.1 km/jam",
       "jarak_pandang": "8.0 km",
@@ -497,7 +497,7 @@
     },
     {
       "bandara": "Sultan Aji Muhammad Sulaiman - Sepinggan",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Barat Laut",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": ">=10 km",
@@ -506,7 +506,7 @@
     },
     {
       "bandara": "Aji Pangeran Tumenggung Pranoto - Samarinda",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Utara",
       "kecepatan": "7.4 km/jam",
       "jarak_pandang": ">=10 km",
@@ -515,7 +515,7 @@
     },
     {
       "bandara": "Tanjung Harapan - Tanjung Selor",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Barat",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": "8.0 km",
@@ -524,7 +524,7 @@
     },
     {
       "bandara": "Sultan Muhammad Kaharuddin - Sumbawa Besar",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Timur",
       "kecepatan": "16.7 km/jam",
       "jarak_pandang": ">=10 km",
@@ -533,7 +533,7 @@
     },
     {
       "bandara": "Juwata - Tarakan",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Barat Laut",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": ">=10 km",
@@ -542,7 +542,7 @@
     },
     {
       "bandara": "Nunukan",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Barat Laut",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": "8.0 km",
@@ -551,7 +551,7 @@
     },
     {
       "bandara": "Sultan Muhammad Salahuddin - Bima",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Selatan",
       "kecepatan": "13.0 km/jam",
       "jarak_pandang": "7.0 km",
@@ -560,7 +560,7 @@
     },
     {
       "bandara": "Tampa Padang - Mamuju",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Barat Laut",
       "kecepatan": "11.1 km/jam",
       "jarak_pandang": ">=10 km",
@@ -569,7 +569,7 @@
     },
     {
       "bandara": "Tambolaka - Sumba Barat",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Utara",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": "8.0 km",
@@ -578,7 +578,7 @@
     },
     {
       "bandara": "Sultan Hasanuddin - Makassar",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Barat",
       "kecepatan": "14.8 km/jam",
       "jarak_pandang": "5.0 km",
@@ -587,7 +587,7 @@
     },
     {
       "bandara": "Komodo - Labuan Bajo",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Timur Laut",
       "kecepatan": "16.7 km/jam",
       "jarak_pandang": ">=10 km",
@@ -596,7 +596,7 @@
     },
     {
       "bandara": "Mutiara SIS Al-Jufri - Palu",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Utara",
       "kecepatan": "27.8 km/jam",
       "jarak_pandang": "5.0 km",
@@ -605,7 +605,7 @@
     },
     {
       "bandara": "Umbu Mehang Kunda - Waingapu",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Timur",
       "kecepatan": "25.9 km/jam",
       "jarak_pandang": ">=10 km",
@@ -614,7 +614,7 @@
     },
     {
       "bandara": "Andi Jemma - Masamba",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Selatan",
       "kecepatan": "5.6 km/jam",
       "jarak_pandang": ">=10 km",
@@ -623,7 +623,7 @@
     },
     {
       "bandara": "Kasiguncu - Poso",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Timur Laut",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": ">=10 km",
@@ -632,7 +632,7 @@
     },
     {
       "bandara": "Sultan Bantilan - Toli Toli",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Timur",
       "kecepatan": "14.8 km/jam",
       "jarak_pandang": "6.0 km",
@@ -641,7 +641,7 @@
     },
     {
       "bandara": "Sangia Nibandera - Kolaka",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Tenggara",
       "kecepatan": "11.1 km/jam",
       "jarak_pandang": "6.0 km",
@@ -650,7 +650,7 @@
     },
     {
       "bandara": "Tardamu - Sabu",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Tenggara",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": "8.0 km",
@@ -659,7 +659,7 @@
     },
     {
       "bandara": "Fransiskus Xaverius Seda - Maumere",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Selatan",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": "8.0 km",
@@ -668,7 +668,7 @@
     },
     {
       "bandara": "Haluoleo - Kendari",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Timur",
       "kecepatan": "14.8 km/jam",
       "jarak_pandang": "5.0 km",
@@ -677,7 +677,7 @@
     },
     {
       "bandara": "Beto Ambari - Bau Bau",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Timur",
       "kecepatan": "11.1 km/jam",
       "jarak_pandang": "5.0 km",
@@ -686,7 +686,7 @@
     },
     {
       "bandara": "Syukuran Aminuddin Amir - Luwuk",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Selatan",
       "kecepatan": "11.1 km/jam",
       "jarak_pandang": ">=10 km",
@@ -695,7 +695,7 @@
     },
     {
       "bandara": "Djalaluddin - Gorontalo",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Selatan",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": ">=10 km",
@@ -704,7 +704,7 @@
     },
     {
       "bandara": "David Constantijn Saudale - Rote",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Tenggara",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": ">=10 km",
@@ -713,7 +713,7 @@
     },
     {
       "bandara": "Wunopito - Lembata",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Selatan",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": "8.0 km",
@@ -722,7 +722,7 @@
     },
     {
       "bandara": "Mali - Alor",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Timur",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": ">=10 km",
@@ -731,7 +731,7 @@
     },
     {
       "bandara": "A.A. Bere Talo / Atambua",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Variabel",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": "8.0 km",
@@ -740,7 +740,7 @@
     },
     {
       "bandara": "Sam Ratulangi - Manado",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Selatan",
       "kecepatan": "20.4 km/jam",
       "jarak_pandang": ">=10 km",
@@ -749,7 +749,7 @@
     },
     {
       "bandara": "Naha - Tahuna",
-      "waktu": "17:17 WITA",
+      "waktu": "17:47 WITA",
       "arah_angin": "Barat Daya",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": "8.0 km",
@@ -758,7 +758,7 @@
     },
     {
       "bandara": "Emalamo - Sanana",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Barat",
       "kecepatan": "3.7 km/jam",
       "jarak_pandang": ">=10 km",
@@ -767,7 +767,7 @@
     },
     {
       "bandara": "Namniwel - Namlea",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Tenggara",
       "kecepatan": "11.1 km/jam",
       "jarak_pandang": "9.0 km",
@@ -776,7 +776,7 @@
     },
     {
       "bandara": "Sultan Babullah - Ternate",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Barat",
       "kecepatan": "5.6 km/jam",
       "jarak_pandang": "9.0 km",
@@ -785,7 +785,7 @@
     },
     {
       "bandara": "Gamar Malamo - Galela",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Barat Daya",
       "kecepatan": "3.7 km/jam",
       "jarak_pandang": ">=10 km",
@@ -794,7 +794,7 @@
     },
     {
       "bandara": "Kuabang Kao",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Tenggara",
       "kecepatan": "7.4 km/jam",
       "jarak_pandang": ">=10 km",
@@ -803,7 +803,7 @@
     },
     {
       "bandara": "Pattimura - Ambon",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Selatan",
       "kecepatan": "13.0 km/jam",
       "jarak_pandang": ">=10 km",
@@ -812,7 +812,7 @@
     },
     {
       "bandara": "Pitu - Morotai",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Tenggara",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": "7.0 km",
@@ -821,7 +821,7 @@
     },
     {
       "bandara": "Bandaneira - Banda",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Tenggara",
       "kecepatan": "22.2 km/jam",
       "jarak_pandang": "5.0 km",
@@ -830,7 +830,7 @@
     },
     {
       "bandara": "Domine Eduard Osok - Sorong",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Barat Daya",
       "kecepatan": "5.6 km/jam",
       "jarak_pandang": "4.0 km",
@@ -839,7 +839,7 @@
     },
     {
       "bandara": "Mathilda Batlayeri - Saumlaki",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Timur",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": "9.0 km",
@@ -848,7 +848,7 @@
     },
     {
       "bandara": "Torea - Fak Fak",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Timur Laut",
       "kecepatan": "11.1 km/jam",
       "jarak_pandang": "8.0 km",
@@ -857,7 +857,7 @@
     },
     {
       "bandara": "Karel Sadsuitubun - Tual",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Selatan",
       "kecepatan": "11.1 km/jam",
       "jarak_pandang": "8.0 km",
@@ -866,7 +866,7 @@
     },
     {
       "bandara": "Utarom - Kaimana",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Selatan",
       "kecepatan": "11.1 km/jam",
       "jarak_pandang": ">=10 km",
@@ -875,7 +875,7 @@
     },
     {
       "bandara": "Rendani - Manokwari",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Tenggara",
       "kecepatan": "16.7 km/jam",
       "jarak_pandang": "8.0 km",
@@ -884,7 +884,7 @@
     },
     {
       "bandara": "Douw Aturure - Nabire",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Barat Laut",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": "7.0 km",
@@ -893,7 +893,7 @@
     },
     {
       "bandara": "Stevanus Rumbewas - Serui",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Tenggara",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": ">=10 km",
@@ -902,7 +902,7 @@
     },
     {
       "bandara": "Frans Kaisiepo - Biak",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Tenggara",
       "kecepatan": "14.8 km/jam",
       "jarak_pandang": ">=10 km",
@@ -911,7 +911,7 @@
     },
     {
       "bandara": "Enarotali",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Barat Daya",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": "8.0 km",
@@ -920,7 +920,7 @@
     },
     {
       "bandara": "Mozes Kilangin - Timika",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Timur",
       "kecepatan": "9.3 km/jam",
       "jarak_pandang": "8.0 km",
@@ -929,7 +929,7 @@
     },
     {
       "bandara": "Mararena / Orai - Sarmi",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Tenggara",
       "kecepatan": "7.4 km/jam",
       "jarak_pandang": ">=10 km",
@@ -938,7 +938,7 @@
     },
     {
       "bandara": "Wamena",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Tenggara",
       "kecepatan": "13.0 km/jam",
       "jarak_pandang": ">=10 km",
@@ -947,7 +947,7 @@
     },
     {
       "bandara": "Tanah Merah",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Tenggara",
       "kecepatan": "7.4 km/jam",
       "jarak_pandang": "9.0 km",
@@ -956,7 +956,7 @@
     },
     {
       "bandara": "Mopah - Merauke",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Tenggara",
       "kecepatan": "18.5 km/jam",
       "jarak_pandang": "8.0 km",
@@ -965,7 +965,7 @@
     },
     {
       "bandara": "Sentani - Jayapura",
-      "waktu": "18:17 WIT",
+      "waktu": "18:47 WIT",
       "arah_angin": "Tenggara",
       "kecepatan": "13.0 km/jam",
       "jarak_pandang": ">=10 km",
