@@ -161,7 +161,7 @@ if (!fs.existsSync(base)) {
       if (!fs.existsSync(directory)) {
         await fs.mkdirSync(directory, { recursive: true })
       }
-      console.log({ provinsi })
+
       let respons = await fetch(info.url)
       if (!respons.ok) continue
       let $ = cheerio.load(await respons.text())
@@ -170,7 +170,7 @@ if (!fs.existsSync(base)) {
       for (let j = 0; j < (trr.length || 5); j++) {
         let dataa = $('#TabPaneCuaca1 > div > table > tbody').eq(0).find('tr').eq(j)
         if (!($(dataa).html())) continue
-        let hmm = (($$(dataa).html() || '').match(/<td>/g) || []).length
+        let hmm = (($(dataa).html() || '').match(/<td>/g) || []).length
         if (!hmm) continue
         dataa = $('#TabPaneCuaca1 > div > table > tbody').eq(0).find('tr').eq(j).find('td')
         let kota = $(dataa).eq(0).find('a').text().trim()
