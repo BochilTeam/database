@@ -150,6 +150,8 @@ let data = []
   if (results.length) await fs.writeFileSync(base + 'cuaca.json', JSON.stringify(results, null, 2))
 })()
 
+console.error(data)
+
 ; (async () => {
   let result = []
   let directory
@@ -163,7 +165,7 @@ let data = []
       if (!fs.existsSync(directory)) {
         await fs.mkdirSync(directory, { recursive: true })
       }
-      console.log({ provinsi })
+      console.error({ provinsi })
       let respons = await fetch(info.url)
       if (!respons.ok) continue
       let $ = cheerio.load(await respons.text())
