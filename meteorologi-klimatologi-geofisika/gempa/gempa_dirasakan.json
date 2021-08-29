@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/08/2021 07:37:30 WIB",
+    "lintang": "3.92 LS",
+    "bujur": "122.9 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 17 km barat laut Kab. Konawe Kepulauan",
+    "warning": [
+      "II-III Kendari"
+    ]
+  },
+  {
     "waktu": "28/08/2021 20:25:27 WIB",
     "lintang": "2.88 LS",
     "bujur": "140.75 BT",
@@ -220,25 +231,6 @@
     "wilayah": "Pusat gempa berada di darat 9 km Utara Ambon",
     "warning": [
       "II - III Ambon"
-    ]
-  },
-  {
-    "waktu": "23/08/2021 04:13:04 WIB",
-    "lintang": "8.32 LS",
-    "bujur": "107.58 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di laut 93 km barat daya Garut",
-    "warning": [
-      "III Pangandaran",
-      "III Cijulang",
-      "III Pameungpeuk",
-      "III Ciamis",
-      "III Bungbulang",
-      "III Cisompet",
-      "III Ciparanti",
-      "III Cikalong",
-      "III Cijagra"
     ]
   }
 ]
