@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "31/08/2021 02:04:06 WIB",
+    "lintang": "0.87 LS",
+    "bujur": "121.48 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di laut 11 km barat Ampana",
+    "warning": [
+      "III Ampana"
+    ]
+  },
+  {
     "waktu": "31/08/2021 00:26:58 WIB",
     "lintang": "0.87 LS",
     "bujur": "121.5 BT",
@@ -219,18 +230,6 @@
     "wilayah": "Pusat gempa berada di darat 38 Km Timur Laut Keerom",
     "warning": [
       "II - III Keerom"
-    ]
-  },
-  {
-    "waktu": "24/08/2021 12:05:52 WIB",
-    "lintang": "1.48 LS",
-    "bujur": "134.01 BT",
-    "magnitudo": "4",
-    "kedalaman": "40 Km",
-    "wilayah": "Pusat gempa berada di darat 18 km barat laut Ransiki",
-    "warning": [
-      "II-III Manokwari",
-      "II-III Ransiki"
     ]
   }
 ]
