@@ -4,15 +4,15 @@ const assert = require('assert')
 const { spawn } = require('child_process')
 
 async function check() {
-  let base = path.join(__dirname, '../')
+  let base = path.join(__dirname, './')
   let dir = await readdir(base)
   let files = []
   let dirnames = dir.filter(gx).map(v => base + v)
   while (dirnames.length !== 0) {
     if (await isDirectory(dirnames[0])) {
       let path = await readdir(dirnames[0])
-      path.filter(v => !v.endsWith('node_modules') && !v.startsWith('.')).map(file => dirnames.push(dirnames[0] + '/' + file))
-    } else if (dirnames[0].endsWith('.json') || dirnames[0].endsWith('.js')) {
+      path.filter(gx).map(file => dirnames.push(dirnames[0] + '/' + file))
+    } else if (yes(dirnames[0])) {
       files.push(dirnames[0])
     }
     dirnames.shift()
@@ -23,7 +23,7 @@ async function check() {
     console.error('Checking', file)
     try {
       if (file.endsWith('.json')) parse(file)
-      else if (file.endsWith('.js')) spawn(process.argv0, ['-c', file])
+      else if (file.endsWith('.js')) node(file)
       assert.ok(file)
       console.log('Done checking', file)
     } catch (e) {
@@ -46,8 +46,20 @@ async function parse(path) {
   return JSON.parse(await fs.readFileSync(path))
 }
 
+function node(file) {
+  return new Promise((resolve, reject) => {
+    spawn(process.argv0, ['-c', file])
+      .on('close', resolve)
+      .stderr.on('data', reject)
+  })
+}
+
 function gx(file) {
-    return !file.endsWith('node_modules') && !file.startsWith('.')
+  return !file.endsWith('node_modules') && !file.startsWith('.')
+}
+
+function yes(file) {
+  return (file.endsWith('.json') || file.endsWith('.js')) || false
 }
 
 check()
