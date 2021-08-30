@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/08/2021 18:46:49 WIB",
+    "lintang": "7.96 LS",
+    "bujur": "118.7 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 54 km Barat Laut Bima",
+    "warning": [
+      "III Bima"
+    ]
+  },
+  {
     "waktu": "29/08/2021 07:37:30 WIB",
     "lintang": "3.92 LS",
     "bujur": "122.9 BT",
@@ -220,17 +231,6 @@
     "wilayah": "Pusat gempa berada di laut, 38 km BaratLaut Sibolga",
     "warning": [
       "II-III Samosir"
-    ]
-  },
-  {
-    "waktu": "23/08/2021 04:55:42 WIB",
-    "lintang": "3.61 LS",
-    "bujur": "128.18 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km Utara Ambon",
-    "warning": [
-      "II - III Ambon"
     ]
   }
 ]

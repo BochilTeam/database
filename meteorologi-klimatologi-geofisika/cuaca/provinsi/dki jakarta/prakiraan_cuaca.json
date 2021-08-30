@@ -2,67 +2,67 @@
   {
     "kota": "Jakarta Barat",
     "prakiraan_cuaca": {
-      "malam": "Cerah Berawan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
-      "dini_hari": "Cerah Berawan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "25 - 33 °C",
-    "kelembapan": "55 - 85%"
+    "suhu": "24 - 34 °C",
+    "kelembapan": "65 - 95%"
   },
   {
     "kota": "Jakarta Pusat",
     "prakiraan_cuaca": {
-      "malam": "Cerah Berawan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
-      "dini_hari": "Cerah Berawan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
+      "malam": "Hujan Ringan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
     "suhu": "25 - 33 °C",
-    "kelembapan": "55 - 85%"
+    "kelembapan": "75 - 90%"
   },
   {
     "kota": "Jakarta Selatan",
     "prakiraan_cuaca": {
-      "malam": "Cerah Berawan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
-      "dini_hari": "Cerah Berawan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
     "suhu": "24 - 34 °C",
-    "kelembapan": "55 - 90%"
+    "kelembapan": "65 - 95%"
   },
   {
     "kota": "Jakarta Timur",
     "prakiraan_cuaca": {
-      "malam": "Cerah Berawan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
-      "dini_hari": "Cerah Berawan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "25 - 34 °C",
-    "kelembapan": "55 - 90%"
+    "suhu": "24 - 34 °C",
+    "kelembapan": "65 - 95%"
   },
   {
     "kota": "Jakarta Utara",
     "prakiraan_cuaca": {
-      "malam": "Cerah Berawan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
+      "malam": "Hujan Ringan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "25 - 33 °C",
-    "kelembapan": "60 - 85%"
+    "suhu": "25 - 32 °C",
+    "kelembapan": "75 - 90%"
   },
   {
     "kota": "Kepulauan Seribu",
     "prakiraan_cuaca": {
-      "malam": "Cerah Berawan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
-      "dini_hari": "Berawan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+      "malam": "Hujan Ringan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
+      "dini_hari": "Hujan Ringan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
     },
-    "suhu": "27 - 31 °C",
-    "kelembapan": "60 - 85%"
+    "suhu": "26 - 31 °C",
+    "kelembapan": "80 - 90%"
   }
 ]

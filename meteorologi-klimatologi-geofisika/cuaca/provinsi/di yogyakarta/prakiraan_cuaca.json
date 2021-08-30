@@ -2,35 +2,35 @@
   {
     "kota": "Bantul",
     "prakiraan_cuaca": {
-      "malam": "Cerah Berawan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
-      "dini_hari": "Cerah Berawan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "23 - 31 °C",
-    "kelembapan": "60 - 95%"
+    "suhu": "22 - 32 °C",
+    "kelembapan": "60 - 90%"
   },
   {
     "kota": "Sleman",
     "prakiraan_cuaca": {
-      "malam": "Cerah Berawan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "21 - 30 °C",
-    "kelembapan": "65 - 95%"
+    "suhu": "21 - 31 °C",
+    "kelembapan": "60 - 95%"
   },
   {
     "kota": "Wates",
     "prakiraan_cuaca": {
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
-      "dini_hari": "Cerah Berawan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "23 - 30 °C",
-    "kelembapan": "65 - 95%"
+    "suhu": "21 - 31 °C",
+    "kelembapan": "70 - 90%"
   },
   {
     "kota": "Gunung Kidul",
@@ -40,18 +40,18 @@
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "23 - 31 °C",
+    "suhu": "22 - 32 °C",
     "kelembapan": "60 - 95%"
   },
   {
     "kota": "Yogyakarta",
     "prakiraan_cuaca": {
-      "malam": "Cerah Berawan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "23 - 31 °C",
-    "kelembapan": "60 - 95%"
+    "suhu": "22 - 32 °C",
+    "kelembapan": "60 - 90%"
   }
 ]
