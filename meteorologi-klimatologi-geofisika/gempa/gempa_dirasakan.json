@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "31/08/2021 00:26:58 WIB",
+    "lintang": "0.87 LS",
+    "bujur": "121.5 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 9 km barat Ampana",
+    "warning": [
+      "II-III Ampana"
+    ]
+  },
+  {
     "waktu": "29/08/2021 18:46:49 WIB",
     "lintang": "7.96 LS",
     "bujur": "118.7 BT",
@@ -220,17 +231,6 @@
     "warning": [
       "II-III Manokwari",
       "II-III Ransiki"
-    ]
-  },
-  {
-    "waktu": "24/08/2021 03:59:53 WIB",
-    "lintang": "1.85 LU",
-    "bujur": "98.45 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "67 Km",
-    "wilayah": "Pusat gempa berada di laut, 38 km BaratLaut Sibolga",
-    "warning": [
-      "II-III Samosir"
     ]
   }
 ]
