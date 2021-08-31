@@ -51,7 +51,7 @@ function node(file) {
     spawn(process.argv0, ['-c', file])
       .on('close', resolve)
       .stderr.on('data', err => {
-      throw err.toString()
+      throw new SyntaxError(err.toString())
     })
   })
 }
