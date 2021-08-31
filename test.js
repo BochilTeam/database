@@ -48,6 +48,7 @@ async function parse(path) {
 
 function node(file) {
   return new Promise((resolve, reject) => {
+    file = file.replace(path.join(__dirname, './'), '')
     spawn(process.argv0, ['-c', file])
       .on('close', resolve)
       .stderr.on('data', reject)
@@ -55,7 +56,7 @@ function node(file) {
 }
 
 function gx(file) {
-  return !file.endsWith('node_modules') && !file.startsWith('.')
+  return (!file.endsWith('node_modules') && !file.startsWith('.')) || false
 }
 
 function yes(file) {
