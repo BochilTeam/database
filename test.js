@@ -51,9 +51,9 @@ function node(file) {
     spawn(process.argv0, ['-c', file])
       .on('close', resolve)
       .stderr.on('data', err => {
-      reject(err.toString())
       process.exit(1)
-      return
+      reject(err.toString())
+      return process.exit(1)
     })
   })
 }
