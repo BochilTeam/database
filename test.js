@@ -40,9 +40,9 @@ async function isDirectory(path) {
   return await fs.statSync(path).isDirectory()
 }
 
-async function parse(path) {
+function parse(path) {
   try {
-    return JSON.parse(await fs.readFileSync(path))
+    return JSON.parse(fs.readFileSync(path))
   } catch (err) {
     throw err.toString()
   }
