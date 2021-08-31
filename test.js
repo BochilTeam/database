@@ -21,14 +21,24 @@ async function check() {
   for (let file of files) {
     if (file === require.resolve(__filename)) continue
     console.error('Checking', file)
-    try {
-      if (file.endsWith('.json')) parse(file)
-      else if (file.endsWith('.js')) node(file)
-      assert.ok(file)
-      console.log('Done checking', file)
-    } catch (e) {
-      assert.ok(e.length < 1, file + '\n\n' + e.toString())
-      process.exit(1)
+    if (file.endsWith('.json')) {
+      try {
+        parse(file)
+        assert.ok(file)
+        console.log('Done checking', file)
+      } catch (e) {
+        assert.ok(e.length < 1, file + '\n\n' + e.toString())
+        process.exit(1)
+      }
+    } else if (file.endsWith('.js')) {
+      try {
+        node(file)
+        assert.ok(file)
+        console.log('Done checking', file)
+      } catch (e) {
+        assert.ok(e.length < 1, file + '\n\n' + e.toString())
+        process.exit(1)
+      }
     }
   }
   // console.log(process.argv0)
@@ -51,9 +61,7 @@ function node(file) {
     spawn(process.argv0, ['-c', file])
       .on('close', resolve)
       .stderr.on('data', err => {
-      process.exit(1)
       return reject(err.toString())
-      
     })
   })
 }
