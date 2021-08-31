@@ -136,7 +136,7 @@ if (!fs.existsSync(base)){
           })
         }
       }
-      if (result.length) await fs.writeFileSync(directory + 'jadwaltv.json', JSON.stringify(result, null, 2))
+      if (result.length) await fs.writeFileSync(directory + 'jadwal.json', JSON.stringify(result, null, 2))
     }
     if (result.length && channel.length) break
   }
