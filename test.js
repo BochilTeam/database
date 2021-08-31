@@ -52,8 +52,8 @@ function node(file) {
       .on('close', resolve)
       .stderr.on('data', err => {
       process.exit(1)
-      reject(err.toString())
-      return process.exit(1)
+      return reject(err.toString())
+      
     })
   })
 }
