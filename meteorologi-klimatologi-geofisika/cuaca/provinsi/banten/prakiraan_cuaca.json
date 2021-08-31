@@ -7,30 +7,30 @@
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "24 - 31 °C",
+    "suhu": "23 - 31 °C",
     "kelembapan": "65 - 95%"
   },
   {
     "kota": "Bayah",
     "prakiraan_cuaca": {
-      "malam": "Hujan Sedang",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
+      "malam": "Hujan Ringan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
     "suhu": "23 - 31 °C",
-    "kelembapan": "70 - 90%"
+    "kelembapan": "70 - 95%"
   },
   {
     "kota": "Binuangen",
     "prakiraan_cuaca": {
-      "malam": "Hujan Sedang",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
+      "malam": "Hujan Ringan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "23 - 32 °C",
-    "kelembapan": "70 - 90%"
+    "suhu": "24 - 31 °C",
+    "kelembapan": "65 - 95%"
   },
   {
     "kota": "Bojonegara",
@@ -40,8 +40,8 @@
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "24 - 31 °C",
-    "kelembapan": "65 - 90%"
+    "suhu": "23 - 32 °C",
+    "kelembapan": "65 - 95%"
   },
   {
     "kota": "Carita",
@@ -51,8 +51,8 @@
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "23 - 32 °C",
-    "kelembapan": "65 - 95%"
+    "suhu": "24 - 31 °C",
+    "kelembapan": "70 - 90%"
   },
   {
     "kota": "Kota Cilegon",
@@ -62,8 +62,8 @@
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "24 - 31 °C",
-    "kelembapan": "65 - 90%"
+    "suhu": "23 - 31 °C",
+    "kelembapan": "65 - 95%"
   },
   {
     "kota": "Ciruas",
@@ -73,7 +73,7 @@
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "24 - 32 °C",
+    "suhu": "24 - 31 °C",
     "kelembapan": "65 - 90%"
   },
   {
@@ -84,7 +84,7 @@
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "22 - 31 °C",
+    "suhu": "23 - 31 °C",
     "kelembapan": "70 - 95%"
   },
   {
@@ -95,8 +95,8 @@
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "23 - 32 °C",
-    "kelembapan": "65 - 95%"
+    "suhu": "24 - 31 °C",
+    "kelembapan": "70 - 90%"
   },
   {
     "kota": "Kab. Lebak",
@@ -106,19 +106,19 @@
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "22 - 31 °C",
+    "suhu": "23 - 31 °C",
     "kelembapan": "70 - 95%"
   },
   {
     "kota": "Malingping",
     "prakiraan_cuaca": {
-      "malam": "Hujan Sedang",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
+      "malam": "Hujan Ringan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "23 - 32 °C",
-    "kelembapan": "70 - 95%"
+    "suhu": "24 - 31 °C",
+    "kelembapan": "65 - 95%"
   },
   {
     "kota": "Pelabuhan Merak",
@@ -139,8 +139,8 @@
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "22 - 32 °C",
-    "kelembapan": "65 - 95%"
+    "suhu": "24 - 31 °C",
+    "kelembapan": "70 - 90%"
   },
   {
     "kota": "Rangkasbitung",
@@ -151,7 +151,7 @@
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
     "suhu": "23 - 31 °C",
-    "kelembapan": "65 - 95%"
+    "kelembapan": "70 - 95%"
   },
   {
     "kota": "Serang",
@@ -161,7 +161,7 @@
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "23 - 32 °C",
+    "suhu": "24 - 31 °C",
     "kelembapan": "65 - 90%"
   },
   {
@@ -184,6 +184,6 @@
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
     "suhu": "23 - 31 °C",
-    "kelembapan": "65 - 95%"
+    "kelembapan": "70 - 95%"
   }
 ]

@@ -7,8 +7,8 @@
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "23 - 32 °C",
-    "kelembapan": "65 - 95%"
+    "suhu": "23 - 33 °C",
+    "kelembapan": "60 - 95%"
   },
   {
     "kota": "Kwandang",
@@ -24,13 +24,13 @@
   {
     "kota": "Limboto",
     "prakiraan_cuaca": {
-      "malam": "Berawan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "malam": "Cerah Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "23 - 31 °C",
-    "kelembapan": "70 - 95%"
+    "suhu": "23 - 33 °C",
+    "kelembapan": "60 - 95%"
   },
   {
     "kota": "Marisa",
@@ -46,19 +46,19 @@
   {
     "kota": "Suwawa",
     "prakiraan_cuaca": {
-      "malam": "Kabut",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/kabut-pm.png",
-      "dini_hari": "Kabut",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/kabut-pm.png"
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "23 - 32 °C",
-    "kelembapan": "65 - 95%"
+    "suhu": "23 - 33 °C",
+    "kelembapan": "60 - 95%"
   },
   {
     "kota": "Tilamuta",
     "prakiraan_cuaca": {
-      "malam": "Hujan Ringan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
       "dini_hari": "Hujan Ringan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
     },

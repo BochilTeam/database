@@ -1,0 +1,158 @@
+{
+  "ANTV": [
+    {
+      "waktu": "13:30WIB",
+      "acara": "Balika Vadhu"
+    },
+    {
+      "waktu": "16:15WIB",
+      "acara": "Terpaksa Menikahi Tuan Muda"
+    }
+  ],
+  "GTV": [
+    {
+      "waktu": "12:30WIB",
+      "acara": "SpongeBob SquarePants Movie"
+    },
+    {
+      "waktu": "14:30WIB",
+      "acara": "SpongeBob SquarePants Movie"
+    }
+  ],
+  "INDOSIAR": [
+    {
+      "waktu": "13:30WIB",
+      "acara": "Pintu Berkah Siang"
+    },
+    {
+      "waktu": "15:00WIB",
+      "acara": "Sanggupkah Aku Memaafkan Kakakku Yang Tega Merebut Suamiku"
+    }
+  ],
+  "INEWS TV": [
+    {
+      "waktu": "13:30WIB",
+      "acara": "Intens Reborn (L)"
+    },
+    {
+      "waktu": "14:15WIB",
+      "acara": "iSeleb (L)"
+    }
+  ],
+  "KOMPAS TV": [
+    {
+      "waktu": "13:00WIB",
+      "acara": "Sapa Indonesia Siang"
+    },
+    {
+      "waktu": "14:00WIB",
+      "acara": "Zona Inspirasi"
+    }
+  ],
+  "METRO TV": [
+    {
+      "waktu": "Maaf, tidak ada informasi untuk stasiun ini",
+      "acara": ""
+    }
+  ],
+  "MNCTV": [
+    {
+      "waktu": "13:00WIB",
+      "acara": "UPIN IPIN"
+    },
+    {
+      "waktu": "14:00WIB",
+      "acara": "SERIAL PILIHAN SIANG"
+    }
+  ],
+  "NET TV": [
+    {
+      "waktu": "13:30WIB",
+      "acara": "Detective Conan"
+    },
+    {
+      "waktu": "15:00WIB",
+      "acara": "Shinbi's House"
+    }
+  ],
+  "OCHANNEL": [
+    {
+      "waktu": "13:00WIB",
+      "acara": "Pilihan: Cinta Bersemi Di Putih Abu-Abu"
+    },
+    {
+      "waktu": "14:00WIB",
+      "acara": "O Shop"
+    }
+  ],
+  "RCTI": [
+    {
+      "waktu": "12:30WIB",
+      "acara": "LDI SIANG"
+    },
+    {
+      "waktu": "14:15WIB",
+      "acara": "LDI SIANG - 1"
+    }
+  ],
+  "RTV": [
+    {
+      "waktu": "13:00WIB",
+      "acara": "Mega Hero"
+    },
+    {
+      "waktu": "14:00WIB",
+      "acara": "Adit Sopo Jarwo Siang"
+    }
+  ],
+  "SCTV": [
+    {
+      "waktu": "12:30WIB",
+      "acara": "Movie"
+    },
+    {
+      "waktu": "14:15WIB",
+      "acara": "Cinta Amara"
+    }
+  ],
+  "TRANS7": [
+    {
+      "waktu": "13:30WIB",
+      "acara": "Jejak Petualang"
+    },
+    {
+      "waktu": "14:15WIB",
+      "acara": "Redaksi"
+    }
+  ],
+  "TRANSTV": [
+    {
+      "waktu": "12:30WIB",
+      "acara": "Brownis - Obrowlan Manis"
+    },
+    {
+      "waktu": "14:00WIB",
+      "acara": "Rumpi No Secret"
+    }
+  ],
+  "TVONE": [
+    {
+      "waktu": "13:30WIB",
+      "acara": "Manusia Nusantara"
+    },
+    {
+      "waktu": "14:00WIB",
+      "acara": "Damai Indonesiaku"
+    }
+  ],
+  "TVRI": [
+    {
+      "waktu": "13:30WIB",
+      "acara": "Jurnal Ekonomi"
+    },
+    {
+      "waktu": "14:00WIB",
+      "acara": "Info Terkini"
+    }
+  ]
+}
