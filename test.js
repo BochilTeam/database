@@ -45,10 +45,12 @@ async function parse(path) {
 }
 
 function node(file) {
-  return new Promise((resolve, reject) => {
-    spawn(process.argv0, ['-c', file])
-      .on('close', resolve)
-      .stderr.on('data', reject)
+  return spawn(process.argv0, ['-c', file])
+    .on('close', () => {
+        return true
+    })
+    .stderr.on('data', (err) => {
+    throw err.toString()
   })
 }
 
