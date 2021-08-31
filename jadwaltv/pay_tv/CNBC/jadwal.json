@@ -1,0 +1,58 @@
+[
+  {
+    "waktu": "00:00WIB",
+    "acara": "The Exchange"
+  },
+  {
+    "waktu": "01:00WIB",
+    "acara": "Power Lunch"
+  },
+  {
+    "waktu": "02:00WIB",
+    "acara": "Closing Bell"
+  },
+  {
+    "waktu": "04:00WIB",
+    "acara": "Fast Money"
+  },
+  {
+    "waktu": "05:00WIB",
+    "acara": "Asia Squawk Box"
+  },
+  {
+    "waktu": "08:00WIB",
+    "acara": "Street Signs Asia"
+  },
+  {
+    "waktu": "11:00WIB",
+    "acara": "Capital Connection"
+  },
+  {
+    "waktu": "12:00WIB",
+    "acara": "Squawk Box Europe"
+  },
+  {
+    "waktu": "15:00WIB",
+    "acara": "Street Signs Europe"
+  },
+  {
+    "waktu": "16:00WIB",
+    "acara": "Worldwide Exchange"
+  },
+  {
+    "waktu": "17:00WIB",
+    "acara": "US Squawk Box"
+  },
+  {
+    "waktu": "20:00WIB",
+    "acara": "Squawk On The Street"
+  },
+  {
+    "waktu": "22:00WIB",
+    "acara": "Tech Check"
+  },
+  {
+    "waktu": "23:00WIB",
+    "acara": "Fast Money: Halftime Report"
+  }
+]
