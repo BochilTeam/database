@@ -60,7 +60,6 @@ function node(file) {
       .on('close', resolve)
       .stderr.on('data', err => {
       reject(err.toString())
-      process.exit(1)
     })
   })
 }
