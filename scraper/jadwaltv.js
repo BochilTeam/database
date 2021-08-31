@@ -109,6 +109,7 @@ if (!fs.existsSync(base)){
         url: link
       })
     }
+    //console.error('[debug]', channel)
     for (let i = 0; i < channel.length; i++) {
       result = []
       let info = channel[i]
@@ -116,7 +117,7 @@ if (!fs.existsSync(base)){
       if (!fs.existsSync(directory)){
         fs.mkdirSync(directory, { recursive: true })
       }
-      console.error('[debug]', directory)
+      //console.error('[debug]', directory)
       let respons = await fetch(info.url)
       if (!respons.ok) continue
       let $ = cheerio.load(await respons.text())
@@ -140,4 +141,4 @@ if (!fs.existsSync(base)){
     }
     if (result.length && channel.length) break
   }
-})
+})()
