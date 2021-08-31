@@ -41,7 +41,10 @@ async function isDirectory(path) {
 }
 
 async function parse(path) {
-  return JSON.parse(await fs.readFileSync(path))
+  try {
+    return JSON.parse(await fs.readFileSync(path))
+  } catch (err) {
+    throw err.toString()
 }
 
 function node(file) {
