@@ -40,4 +40,4 @@ if (!fs.existsSync(base)) {
   
   if (Object.keys(result).length) await fs.writeFileSync(base + 'indonesia.json', JSON.stringify(result, null, 2))
   if (Object.keys(results).length) await fs.writeFileSync(base + 'global.json', JSON.stringify(results, null, 2))
-}})()
+})()
