@@ -48,7 +48,6 @@ async function parse(path) {
 
 function node(file) {
   return new Promise((resolve, reject) => {
-    file = file.replace(path.join(__dirname, './'), '')
     spawn(process.argv0, ['-c', file])
       .on('close', resolve)
       .stderr.on('data', reject)
