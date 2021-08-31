@@ -27,7 +27,7 @@ async function check() {
       assert.ok(file)
       console.log('Done checking', file)
     } catch (e) {
-      assert.ok(e.length < 1, file + '\n\n' + e)
+      assert.ok(e.length < 1, file + '\n\n' + e.toString())
       process.exit(1)
     }
   }
@@ -51,7 +51,7 @@ function node(file) {
     spawn(process.argv0, ['-c', file])
       .on('close', resolve)
       .stderr.on('data', err => {
-      throw err
+      throw err.toString()
     })
   })
 }
