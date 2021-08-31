@@ -116,6 +116,7 @@ if (!fs.existsSync(base)){
       if (!fs.existsSync(directory)){
         fs.mkdirSync(directory, { recursive: true })
       }
+      console.error('[debug]', directory)
       let respons = await fetch(info.url)
       if (!respons.ok) continue
       let $ = cheerio.load(await respons.text())
