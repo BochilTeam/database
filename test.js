@@ -3,21 +3,25 @@ const path = require('path')
 const assert = require('assert')
 const { spawn } = require('child_process')
 
-async function check() {
+function getFile() {
   let base = path.join(__dirname, './')
-  let dir = await readdir(base)
+  let dir = readdir(base)
   let files = []
   let dirnames = dir.filter(gx).map(v => base + v)
   while (dirnames.length !== 0) {
-    if (await isDirectory(dirnames[0])) {
-      let path = await readdir(dirnames[0])
+    if (isDirectory(dirnames[0])) {
+      let path = readdir(dirnames[0])
       path.filter(gx).map(file => dirnames.push(dirnames[0] + '/' + file))
     } else if (yes(dirnames[0])) {
       files.push(dirnames[0])
     }
     dirnames.shift()
   }
+  return files
+}
 
+function check() {
+  let files = getFile()
   for (let file of files) {
     if (file === require.resolve(__filename)) continue
     const error = (e) => assert.ok(e.length < 1, file + '\n\n' + e.toString())
@@ -29,12 +33,12 @@ async function check() {
   }
 }
 
-async function readdir(path) {
-  return await fs.readdirSync(path)
+function readdir(path) {
+  return fs.readdirSync(path)
 }
 
-async function isDirectory(path) {
-  return await fs.statSync(path).isDirectory()
+function isDirectory(path) {
+  return (fs.statSync(path)).isDirectory()
 }
 
 function parse(path) {
