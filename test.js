@@ -20,15 +20,12 @@ async function check() {
 
   for (let file of files) {
     if (file === require.resolve(__filename)) continue
+    const error = (e) => assert.ok(e.length < 1, file + '\n\n' + e.toString())
     console.error('Checking', file)
-    try {
-      if (file.endsWith('.json')) parse(file)
-      else if (file.endsWith('.js')) node(file)
-      assert.ok(file)
-      console.log('Done checking', file)
-    } catch (e) {
-      return assert.ok(e.length < 1, file + '\n\n' + e.toString())
-    }
+    if (file.endsWith('.json')) parse(file).catch(error)
+    else if (file.endsWith('.js')) node(file).catch(error)
+    assert.ok(file)
+    console.log('Done checking', file)
   }
 }
 
