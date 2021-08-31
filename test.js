@@ -27,7 +27,7 @@ async function check() {
         assert.ok(file)
         console.log('Done checking', file)
       } catch (e) {
-        return assert.ok(e.length < 1, file + '\n\n' + e.toString())
+        throw assert.ok(e.length < 1, file + '\n\n' + e.toString())
       }
     } else if (file.endsWith('.js')) {
       try {
@@ -35,7 +35,7 @@ async function check() {
         assert.ok(file)
         console.log('Done checking', file)
       } catch (e) {
-        return assert.ok(e.length < 1, file + '\n\n' + e.toString())
+        throw assert.ok(e.length < 1, file + '\n\n' + e.toString())
       }
     }
   }
