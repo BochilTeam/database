@@ -112,7 +112,7 @@ if (!fs.existsSync(base)){
     for (let i = 0; i < channel.length; i++) {
       result = []
       let info = channel[i]
-      let directory = base + 'pay_tv/' + info.channel
+      let directory = base + 'pay_tv/' + info.channel + '/'
       if (!fs.existsSync(directory)){
         fs.mkdirSync(directory, { recursive: true })
       }
