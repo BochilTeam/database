@@ -21,25 +21,15 @@ async function check() {
   for (let file of files) {
     if (file === require.resolve(__filename)) continue
     console.error('Checking', file)
-    if (file.endsWith('.json')) {
-      try {
-        parse(file)
-        assert.ok(file)
-        console.log('Done checking', file)
-      } catch (e) {
-        throw assert.ok(e.length < 1, file + '\n\n' + e.toString())
-      }
-    } else if (file.endsWith('.js')) {
-      try {
-        node(file)
-        assert.ok(file)
-        console.log('Done checking', file)
-      } catch (e) {
-        throw assert.ok(e.length < 1, file + '\n\n' + e.toString())
-      }
+    try {
+      if (file.endsWith('.json')) parse(file)
+      else if (file.endsWith('.js')) node(file)
+      assert.ok(file)
+      console.log('Done checking', file)
+    } catch (e) {
+      throw assert.ok(e.length < 1, file + '\n\n' + e.toString())
     }
   }
-  // console.log(process.argv0)
 }
 
 async function readdir(path) {
@@ -59,7 +49,7 @@ function node(file) {
     spawn(process.argv0, ['-c', file])
       .on('close', resolve)
       .stderr.on('data', err => {
-      reject(err.toString())
+      throw reject(err.toString())
     })
   })
 }
