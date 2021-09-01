@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/09/2021 21:45:28 WIB",
+    "lintang": "8.96 LS",
+    "bujur": "113.03 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 94 km Barat Daya Lumajang",
+    "warning": [
+      "II Banyuwangi"
+    ]
+  },
+  {
     "waktu": "01/09/2021 17:05:05 WIB",
     "lintang": "0.67 LU",
     "bujur": "98.52 BT",
@@ -213,17 +224,6 @@
     "wilayah": "Pusat gempa berada di laut 9 Km Barat Laut Ampana",
     "warning": [
       "II-III Ampana"
-    ]
-  },
-  {
-    "waktu": "26/08/2021 18:17:46 WIB",
-    "lintang": "0.76 LS",
-    "bujur": "121.55 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di laut 13 km utara Ampana",
-    "warning": [
-      "III Ampana"
     ]
   }
 ]
