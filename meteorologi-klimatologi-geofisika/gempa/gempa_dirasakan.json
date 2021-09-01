@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/09/2021 14:50:35 WIB",
+    "lintang": "3.97 LS",
+    "bujur": "-122.47 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 0.5 km Tenggara Puuwatu, Kota Kendari",
+    "warning": [
+      "III-IV Kendari"
+    ]
+  },
+  {
     "waktu": "01/09/2021 10:28:23 WIB",
     "lintang": "1.15 LU",
     "bujur": "128.24 BT",
@@ -213,24 +224,6 @@
     "wilayah": "Pusat gempa berada di laut 14 km Utara Ampana",
     "warning": [
       "II-III Ampana"
-    ]
-  },
-  {
-    "waktu": "26/08/2021 09:14:19 WIB",
-    "lintang": "0.7 LS",
-    "bujur": "121.51 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 44 Km barat laut Tojouna-Una",
-    "warning": [
-      "IV-V Ampana",
-      "IV Poso",
-      "III Morowali",
-      "II Palu",
-      "II Toli-toli",
-      "II-III Luwu Timur",
-      "II-III Parigi Moutong",
-      "II Buol"
     ]
   }
 ]
