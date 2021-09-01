@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/09/2021 17:05:05 WIB",
+    "lintang": "0.67 LU",
+    "bujur": "98.52 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di darat 79 km Timur Laut Nias Selatan",
+    "warning": [
+      "II Madina"
+    ]
+  },
+  {
     "waktu": "01/09/2021 14:50:35 WIB",
     "lintang": "3.97 LS",
     "bujur": "122.47 BT",
@@ -213,17 +224,6 @@
     "wilayah": "Pusat gempa berada di laut 13 km utara Ampana",
     "warning": [
       "III Ampana"
-    ]
-  },
-  {
-    "waktu": "26/08/2021 15:04:20 WIB",
-    "lintang": "0.75 LS",
-    "bujur": "121.54 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 14 km Utara Ampana",
-    "warning": [
-      "II-III Ampana"
     ]
   }
 ]
