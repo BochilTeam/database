@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "01/09/2021 10:28:23 WIB",
+    "lintang": "1.15 LU",
+    "bujur": "128.24 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 53 km Barat Laut MABA",
+    "warning": [
+      "III Buli-Haltim",
+      "III Wasile-Haltim"
+    ]
+  },
+  {
+    "waktu": "01/09/2021 08:56:28 WIB",
+    "lintang": "0.78 LS",
+    "bujur": "121.58 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 10 km Utara Ampana Kab. Tojo Unauna",
+    "warning": [
+      "II-III Ampana"
+    ]
+  },
+  {
     "waktu": "31/08/2021 02:04:06 WIB",
     "lintang": "0.87 LS",
     "bujur": "121.48 BT",
@@ -208,28 +231,6 @@
       "II-III Luwu Timur",
       "II-III Parigi Moutong",
       "II Buol"
-    ]
-  },
-  {
-    "waktu": "25/08/2021 20:17:01 WIB",
-    "lintang": "1 LS",
-    "bujur": "120.37 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Torue Kab Parigi Moutong",
-    "warning": [
-      "II - III Tolai"
-    ]
-  },
-  {
-    "waktu": "25/08/2021 10:11:06 WIB",
-    "lintang": "3.01 LS",
-    "bujur": "140.83 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 38 Km Timur Laut Keerom",
-    "warning": [
-      "II - III Keerom"
     ]
   }
 ]
