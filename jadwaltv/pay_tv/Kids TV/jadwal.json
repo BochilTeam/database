@@ -1,15 +1,15 @@
 [
   {
     "waktu": "00:00WIB",
-    "acara": "Larva S4"
+    "acara": "Larva S2"
   },
   {
     "waktu": "00:30WIB",
-    "acara": "Songgo Rubuh"
+    "acara": "Satria Garuda Bima X"
   },
   {
     "waktu": "01:00WIB",
-    "acara": "Kun Anta"
+    "acara": "Kun Anta S2"
   },
   {
     "waktu": "02:00WIB",
@@ -33,7 +33,7 @@
   },
   {
     "waktu": "05:00WIB",
-    "acara": "Entong Animasi"
+    "acara": "Larva S1"
   },
   {
     "waktu": "05:30WIB",
@@ -57,11 +57,11 @@
   },
   {
     "waktu": "08:30WIB",
-    "acara": "Bima S"
+    "acara": "Zak Storm"
   },
   {
     "waktu": "09:00WIB",
-    "acara": "Larva S4"
+    "acara": "Larva S1"
   },
   {
     "waktu": "09:30WIB",
@@ -81,7 +81,7 @@
   },
   {
     "waktu": "12:00WIB",
-    "acara": "Larva S4"
+    "acara": "Entong Animasi"
   },
   {
     "waktu": "12:30WIB",
@@ -105,7 +105,7 @@
   },
   {
     "waktu": "15:30WIB",
-    "acara": "Kun Anta"
+    "acara": "Kun Anta S2"
   },
   {
     "waktu": "16:30WIB",
@@ -113,15 +113,15 @@
   },
   {
     "waktu": "17:00WIB",
-    "acara": "Entong Animasi"
+    "acara": "Larva S1"
   },
   {
     "waktu": "17:30WIB",
-    "acara": "Lucky Comes With Lion"
+    "acara": "Larva S1"
   },
   {
     "waktu": "18:00WIB",
-    "acara": "Time Travelling: Dino Knights"
+    "acara": "Bima S"
   },
   {
     "waktu": "18:30WIB",
@@ -141,15 +141,15 @@
   },
   {
     "waktu": "20:30WIB",
-    "acara": "Larva S4"
+    "acara": "Larva S2"
   },
   {
     "waktu": "21:00WIB",
-    "acara": "Songgo Rubuh"
+    "acara": "Lucky Comes With Lion"
   },
   {
     "waktu": "21:30WIB",
-    "acara": "Satria Garuda Bima X"
+    "acara": "Time Travelling: Dino Knights"
   },
   {
     "waktu": "22:00WIB",
@@ -165,6 +165,6 @@
   },
   {
     "waktu": "23:30WIB",
-    "acara": "Larva S2"
+    "acara": "Larva S1"
   }
 ]

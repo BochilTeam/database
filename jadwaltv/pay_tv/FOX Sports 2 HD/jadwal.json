@@ -1,59 +1,99 @@
 [
   {
-    "waktu": "01:45WIB",
-    "acara": "US Open Tennis 2021 (L)"
+    "waktu": "00:00WIB",
+    "acara": "ESPN FC 2021"
   },
   {
-    "waktu": "06:00WIB",
-    "acara": "US Open Tennis 2021 (L)"
+    "waktu": "00:30WIB",
+    "acara": "SportsCenter Asia 2021"
   },
   {
-    "waktu": "10:00WIB",
-    "acara": "AIG Women's Open Highlights"
-  },
-  {
-    "waktu": "11:00WIB",
+    "waktu": "01:00WIB",
     "acara": "MotoGP 2021: British GP"
   },
   {
-    "waktu": "13:00WIB",
-    "acara": "F1 Rolex Belgian GP 2021 HL"
+    "waktu": "03:00WIB",
+    "acara": "FIA Pure MotorSport 2021"
   },
   {
-    "waktu": "14:00WIB",
-    "acara": "Reaction Sports"
+    "waktu": "03:30WIB",
+    "acara": "2 Wheels"
   },
   {
-    "waktu": "15:00WIB",
+    "waktu": "04:00WIB",
+    "acara": "ESPN FC 2021"
+  },
+  {
+    "waktu": "04:30WIB",
+    "acara": "SportsCenter Asia 2021"
+  },
+  {
+    "waktu": "05:00WIB",
     "acara": "SailGP 2021 Highlights: Aarhus"
   },
   {
-    "waktu": "16:00WIB",
-    "acara": "Monster Jam 2021: St. Louis"
+    "waktu": "06:00WIB",
+    "acara": "U.S Junior Amateur 2021"
   },
   {
-    "waktu": "17:00WIB",
-    "acara": "F1 Rolex Belgian GP 2021"
+    "waktu": "07:00WIB",
+    "acara": "U.S Junior Amateur 2021"
   },
   {
-    "waktu": "19:00WIB",
+    "waktu": "08:00WIB",
     "acara": "Inside Sailing 2021"
   },
   {
-    "waktu": "19:30WIB",
-    "acara": "In Focus: Patrick Mouratoglou"
-  },
-  {
-    "waktu": "19:40WIB",
-    "acara": "In Focus: Andre Arlovski"
-  },
-  {
-    "waktu": "19:50WIB",
+    "waktu": "08:30WIB",
     "acara": "P1 USA Aquax C'ship 2021"
   },
   {
-    "waktu": "20:50WIB",
-    "acara": "In Focus: Lindsay Davenport"
+    "waktu": "09:30WIB",
+    "acara": "P1 USA Aquax C'ship 2021"
+  },
+  {
+    "waktu": "10:00WIB",
+    "acara": "P1 USA Aquax C'ship 2021"
+  },
+  {
+    "waktu": "11:00WIB",
+    "acara": "P1 USA Aquax C'ship 2021"
+  },
+  {
+    "waktu": "12:00WIB",
+    "acara": "SailGP 2021 Highlights: Aarhus"
+  },
+  {
+    "waktu": "13:00WIB",
+    "acara": "U.S Junior Amateur 2021"
+  },
+  {
+    "waktu": "14:00WIB",
+    "acara": "U.S Junior Amateur 2021"
+  },
+  {
+    "waktu": "15:00WIB",
+    "acara": "Arctic Race Of Norway HL"
+  },
+  {
+    "waktu": "16:00WIB",
+    "acara": "Max Power"
+  },
+  {
+    "waktu": "17:00WIB",
+    "acara": "UIM Class 1 Powerboat C'ship"
+  },
+  {
+    "waktu": "18:00WIB",
+    "acara": "P1 USA Aquax C'ship 2021"
+  },
+  {
+    "waktu": "19:00WIB",
+    "acara": "US Girls Junior 2021"
+  },
+  {
+    "waktu": "20:00WIB",
+    "acara": "US Girls Junior 2021"
   },
   {
     "waktu": "21:00WIB",
@@ -65,14 +105,14 @@
   },
   {
     "waktu": "22:00WIB",
-    "acara": "2 Wheels"
+    "acara": "The John Dykes Show"
   },
   {
     "waktu": "22:30WIB",
-    "acara": "Max Power"
+    "acara": "Monster Jam 2021: St. Louis"
   },
   {
     "waktu": "23:30WIB",
-    "acara": "Outdoor Sports Show 2021"
+    "acara": "Ultra Trail World Tour HL 2021"
   }
 ]

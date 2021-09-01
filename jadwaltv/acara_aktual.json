@@ -1,12 +1,12 @@
 {
   "ANTV": [
     {
-      "waktu": "13:30WIB",
-      "acara": "Balika Vadhu"
+      "waktu": "12:30WIB",
+      "acara": "Uttaran"
     },
     {
-      "waktu": "16:15WIB",
-      "acara": "Terpaksa Menikahi Tuan Muda"
+      "waktu": "13:30WIB",
+      "acara": "Balika Vadhu"
     }
   ],
   "GTV": [
@@ -21,22 +21,22 @@
   ],
   "INDOSIAR": [
     {
-      "waktu": "13:30WIB",
-      "acara": "Pintu Berkah Siang"
+      "waktu": "11:30WIB",
+      "acara": "Mantan Suami Istriku Masih Mengejar Istriku"
     },
     {
-      "waktu": "15:00WIB",
-      "acara": "Sanggupkah Aku Memaafkan Kakakku Yang Tega Merebut Suamiku"
+      "waktu": "13:30WIB",
+      "acara": "Pintu Berkah Siang"
     }
   ],
   "INEWS TV": [
     {
-      "waktu": "13:30WIB",
-      "acara": "Intens Reborn (L)"
+      "waktu": "13:00WIB",
+      "acara": "Monitor"
     },
     {
-      "waktu": "14:15WIB",
-      "acara": "iSeleb (L)"
+      "waktu": "13:30WIB",
+      "acara": "Intens Reborn (L)"
     }
   ],
   "KOMPAS TV": [
@@ -67,12 +67,12 @@
   ],
   "NET TV": [
     {
-      "waktu": "13:30WIB",
-      "acara": "Detective Conan"
+      "waktu": "12:30WIB",
+      "acara": "Net Family: PotenDogs"
     },
     {
-      "waktu": "15:00WIB",
-      "acara": "Shinbi's House"
+      "waktu": "13:30WIB",
+      "acara": "Net Family: Detective Conan"
     }
   ],
   "OCHANNEL": [
@@ -91,7 +91,7 @@
       "acara": "LDI SIANG"
     },
     {
-      "waktu": "14:15WIB",
+      "waktu": "14:00WIB",
       "acara": "LDI SIANG - 1"
     }
   ],
@@ -108,7 +108,7 @@
   "SCTV": [
     {
       "waktu": "12:30WIB",
-      "acara": "Movie"
+      "acara": "FTV Siang"
     },
     {
       "waktu": "14:15WIB",
@@ -117,12 +117,12 @@
   ],
   "TRANS7": [
     {
-      "waktu": "13:30WIB",
-      "acara": "Jejak Petualang"
+      "waktu": "13:00WIB",
+      "acara": "Si Otan"
     },
     {
-      "waktu": "14:15WIB",
-      "acara": "Redaksi"
+      "waktu": "13:30WIB",
+      "acara": "Jejak Petualang"
     }
   ],
   "TRANSTV": [
@@ -137,22 +137,22 @@
   ],
   "TVONE": [
     {
-      "waktu": "13:30WIB",
-      "acara": "Manusia Nusantara"
+      "waktu": "13:00WIB",
+      "acara": "Spetakuler"
     },
     {
-      "waktu": "14:00WIB",
-      "acara": "Damai Indonesiaku"
+      "waktu": "13:30WIB",
+      "acara": "Manusia Nusantara"
     }
   ],
   "TVRI": [
     {
-      "waktu": "13:30WIB",
-      "acara": "Jurnal Ekonomi"
+      "waktu": "13:00WIB",
+      "acara": "Kominfo"
     },
     {
-      "waktu": "14:00WIB",
-      "acara": "Info Terkini"
+      "waktu": "13:30WIB",
+      "acara": "Kemendes"
     }
   ]
 }

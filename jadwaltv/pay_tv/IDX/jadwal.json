@@ -29,7 +29,7 @@
   },
   {
     "waktu": "04:30WIB",
-    "acara": "Decision Maker"
+    "acara": "Womens Talk"
   },
   {
     "waktu": "05:00WIB",
@@ -49,11 +49,11 @@
   },
   {
     "waktu": "07:00WIB",
-    "acara": "Womens Talk"
+    "acara": "Urban Street Food"
   },
   {
     "waktu": "07:30WIB",
-    "acara": "Urban Street Food"
+    "acara": "Hangout"
   },
   {
     "waktu": "08:00WIB",
@@ -77,7 +77,7 @@
   },
   {
     "waktu": "12:30WIB",
-    "acara": "Womens Talk"
+    "acara": "Hangout"
   },
   {
     "waktu": "13:00WIB",
@@ -101,7 +101,7 @@
   },
   {
     "waktu": "16:00WIB",
-    "acara": "Hangout"
+    "acara": "Decision Maker"
   },
   {
     "waktu": "16:30WIB",
@@ -109,7 +109,7 @@
   },
   {
     "waktu": "17:00WIB",
-    "acara": "Decision Maker"
+    "acara": "Womens Talk"
   },
   {
     "waktu": "17:30WIB",
@@ -149,6 +149,6 @@
   },
   {
     "waktu": "23:30WIB",
-    "acara": "Hangout"
+    "acara": "Decision Maker"
   }
 ]

@@ -9,7 +9,7 @@
   },
   {
     "waktu": "00:30WIB",
-    "acara": "Catchy Korea"
+    "acara": "Gangnam Insider's Picks 2"
   },
   {
     "waktu": "01:00WIB",
@@ -21,7 +21,7 @@
   },
   {
     "waktu": "01:30WIB",
-    "acara": "BizTech Korea"
+    "acara": "Diplomat Talks"
   },
   {
     "waktu": "02:00WIB",
@@ -33,7 +33,7 @@
   },
   {
     "waktu": "03:00WIB",
-    "acara": "Gugak The Music Of Korea"
+    "acara": "After School Club"
   },
   {
     "waktu": "04:00WIB",
@@ -45,7 +45,7 @@
   },
   {
     "waktu": "04:30WIB",
-    "acara": "Diplomat Talks"
+    "acara": "Peace & Prosperity"
   },
   {
     "waktu": "05:00WIB",
@@ -53,7 +53,7 @@
   },
   {
     "waktu": "05:30WIB",
-    "acara": "Gangnam Insider's Picks 2"
+    "acara": "BizTech Korea"
   },
   {
     "waktu": "06:00WIB",
@@ -69,7 +69,7 @@
   },
   {
     "waktu": "07:00WIB",
-    "acara": "Diplomat Talks"
+    "acara": "Peace & Prosperity"
   },
   {
     "waktu": "07:30WIB",
@@ -85,7 +85,7 @@
   },
   {
     "waktu": "08:30WIB",
-    "acara": "Gangnam Insider's Picks 2"
+    "acara": "BizTech Korea"
   },
   {
     "waktu": "09:00WIB",
@@ -113,7 +113,11 @@
   },
   {
     "waktu": "11:00WIB",
-    "acara": "After School Club (L)"
+    "acara": "Rolling In K-Pop"
+  },
+  {
+    "waktu": "11:30WIB",
+    "acara": "Club.Kom"
   },
   {
     "waktu": "12:00WIB",
@@ -133,11 +137,11 @@
   },
   {
     "waktu": "13:30WIB",
-    "acara": "Gangnam Insider's Picks 2"
+    "acara": "BizTech Korea"
   },
   {
     "waktu": "14:00WIB",
-    "acara": "Diplomat Talks"
+    "acara": "Peace & Prosperity"
   },
   {
     "waktu": "14:30WIB",
@@ -173,7 +177,7 @@
   },
   {
     "waktu": "18:00WIB",
-    "acara": "Peace & Prosperity"
+    "acara": "The Point"
   },
   {
     "waktu": "18:30WIB",
@@ -194,9 +198,5 @@
   {
     "waktu": "20:00WIB",
     "acara": "Arirang News (L)"
-  },
-  {
-    "waktu": "20:30WIB",
-    "acara": "Premium Collection"
   }
 ]

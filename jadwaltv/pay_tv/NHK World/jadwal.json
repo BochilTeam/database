@@ -4,7 +4,7 @@
     "acara": "NHK Newsline"
   },
   {
-    "waktu": "00:15WIB",
+    "waktu": "00:10WIB",
     "acara": "Newsline In Depth"
   },
   {
@@ -13,11 +13,7 @@
   },
   {
     "waktu": "00:30WIB",
-    "acara": "Bento Expo"
-  },
-  {
-    "waktu": "00:45WIB",
-    "acara": "Easy Japanese For Work"
+    "acara": "Dining With The Chef"
   },
   {
     "waktu": "01:00WIB",
@@ -33,15 +29,11 @@
   },
   {
     "waktu": "02:00WIB",
-    "acara": "NHK Documentary"
+    "acara": "Rising"
   },
   {
-    "waktu": "02:50WIB",
-    "acara": "Fukushima Time-Lapse"
-  },
-  {
-    "waktu": "02:55WIB",
-    "acara": "Japan From Above: Up Close"
+    "waktu": "02:30WIB",
+    "acara": "Document 72 Hours"
   },
   {
     "waktu": "03:00WIB",
@@ -53,7 +45,7 @@
   },
   {
     "waktu": "03:30WIB",
-    "acara": "Medical Frontiers"
+    "acara": "Science View"
   },
   {
     "waktu": "04:00WIB",
@@ -65,7 +57,7 @@
   },
   {
     "waktu": "04:30WIB",
-    "acara": "Where We Call Home"
+    "acara": "Journeys In Japan"
   },
   {
     "waktu": "05:00WIB",
@@ -77,11 +69,7 @@
   },
   {
     "waktu": "05:30WIB",
-    "acara": "Bento Expo"
-  },
-  {
-    "waktu": "05:45WIB",
-    "acara": "Easy Japanese For Work"
+    "acara": "Dining With The Chef"
   },
   {
     "waktu": "06:00WIB",
@@ -101,7 +89,15 @@
   },
   {
     "waktu": "06:30WIB",
-    "acara": "The Mark Of Beauty"
+    "acara": "Deeper Look From New York"
+  },
+  {
+    "waktu": "06:45WIB",
+    "acara": "Doctor's Insight"
+  },
+  {
+    "waktu": "06:55WIB",
+    "acara": "We, In The Time Of Corona"
   },
   {
     "waktu": "07:00WIB",
@@ -113,7 +109,7 @@
   },
   {
     "waktu": "07:30WIB",
-    "acara": "Journeys In Japan"
+    "acara": "Tokyo Eye 2020"
   },
   {
     "waktu": "08:00WIB",
@@ -125,14 +121,22 @@
   },
   {
     "waktu": "08:30WIB",
-    "acara": "Dining With The Chef"
+    "acara": "Ninja Truth, Ep 6"
+  },
+  {
+    "waktu": "08:45WIB",
+    "acara": "Dig More Japan"
+  },
+  {
+    "waktu": "08:55WIB",
+    "acara": "Core Kyoto Mini"
   },
   {
     "waktu": "09:00WIB",
     "acara": "NHK Newsline"
   },
   {
-    "waktu": "09:15WIB",
+    "waktu": "09:10WIB",
     "acara": "Newsline In Depth"
   },
   {
@@ -141,14 +145,14 @@
   },
   {
     "waktu": "09:30WIB",
-    "acara": "Document 72 Hours"
+    "acara": "Side By Side"
   },
   {
     "waktu": "10:00WIB",
     "acara": "NHK Newsline"
   },
   {
-    "waktu": "10:15WIB",
+    "waktu": "10:10WIB",
     "acara": "Newsline In Depth"
   },
   {
@@ -157,7 +161,7 @@
   },
   {
     "waktu": "10:30WIB",
-    "acara": "Medical Frontiers"
+    "acara": "Science View"
   },
   {
     "waktu": "11:00WIB",
@@ -173,15 +177,7 @@
   },
   {
     "waktu": "11:30WIB",
-    "acara": "Deeper Look From New York"
-  },
-  {
-    "waktu": "11:45WIB",
-    "acara": "Doctor's Insight"
-  },
-  {
-    "waktu": "11:55WIB",
-    "acara": "We, In The Time Of Corona"
+    "acara": "Kabuki Kool"
   },
   {
     "waktu": "12:00WIB",
@@ -197,6 +193,10 @@
   },
   {
     "waktu": "12:30WIB",
-    "acara": "Journeys In Japan"
+    "acara": "Tokyo Eye 2020"
+  },
+  {
+    "waktu": "13:00WIB",
+    "acara": "NHK Newsline"
   }
 ]

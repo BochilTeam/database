@@ -1,83 +1,83 @@
 [
   {
     "waktu": "00:00WIB",
-    "acara": "Mighty Mike"
+    "acara": "Talking Tom And Friends"
   },
   {
     "waktu": "01:00WIB",
-    "acara": "Mighty Mike"
+    "acara": "Talking Tom And Friends"
   },
   {
     "waktu": "02:00WIB",
-    "acara": "Mighty Mike"
+    "acara": "Talking Tom And Friends"
   },
   {
     "waktu": "03:00WIB",
-    "acara": "Mighty Mike"
+    "acara": "Talking Tom And Friends"
   },
   {
     "waktu": "04:00WIB",
-    "acara": "Mighty Mike"
+    "acara": "Talking Tom And Friends"
   },
   {
     "waktu": "05:00WIB",
-    "acara": "Pat The Dog"
+    "acara": "Wacky Races"
   },
   {
     "waktu": "06:00WIB",
-    "acara": "Baby Looney Tunes"
+    "acara": "Inspector Gadget"
   },
   {
     "waktu": "07:00WIB",
-    "acara": "My Little Pony: Friendship"
+    "acara": "Ben 10"
   },
   {
     "waktu": "08:00WIB",
-    "acara": "Unikitty"
-  },
-  {
-    "waktu": "09:00WIB",
     "acara": "The Powerpuff Girls"
   },
   {
+    "waktu": "09:00WIB",
+    "acara": "Foster's Home For Imaginary..."
+  },
+  {
     "waktu": "10:00WIB",
-    "acara": "New Looney Tunes"
-  },
-  {
-    "waktu": "11:00WIB",
-    "acara": "The Looney Tunes Show"
-  },
-  {
-    "waktu": "12:00WIB",
     "acara": "Be Cool Scooby-Doo!"
   },
   {
-    "waktu": "12:30WIB",
-    "acara": "The Tom And Jerry Show"
+    "waktu": "11:00WIB",
+    "acara": "Scooby-Doo And Guess Who?"
+  },
+  {
+    "waktu": "12:00WIB",
+    "acara": "Scooby-Doo! Incorporated"
   },
   {
     "waktu": "13:00WIB",
     "acara": "The Looney Tunes Show"
   },
   {
-    "waktu": "13:30WIB",
-    "acara": "Grizzy And The Lemmings"
-  },
-  {
     "waktu": "14:00WIB",
-    "acara": "Talking Tom Heroes"
+    "acara": "The Tom & Jerry Show"
   },
   {
     "waktu": "15:00WIB",
-    "acara": "Talking Tom Heroes"
+    "acara": "Mighty Mike"
+  },
+  {
+    "waktu": "15:30WIB",
+    "acara": "Pat The Dog"
   },
   {
     "waktu": "16:00WIB",
-    "acara": "Talking Tom Heroes"
+    "acara": "Yabba Dabba Dinosaurs"
+  },
+  {
+    "waktu": "16:30WIB",
+    "acara": "My Knight And Me"
   },
   {
     "waktu": "17:00WIB",
-    "acara": "The Tom And Jerry Show"
+    "acara": "The Tom & Jerry Show"
   },
   {
     "waktu": "18:00WIB",
@@ -92,19 +92,27 @@
     "acara": "New Looney Tunes"
   },
   {
-    "waktu": "20:30WIB",
-    "acara": "Tom And Jerry Tales"
+    "waktu": "20:00WIB",
+    "acara": "Mighty Mike"
   },
   {
-    "waktu": "21:30WIB",
+    "waktu": "20:30WIB",
     "acara": "Grizzy And The Lemmings"
   },
   {
+    "waktu": "21:00WIB",
+    "acara": "Taffy"
+  },
+  {
+    "waktu": "21:30WIB",
+    "acara": "Talking Tom And Friends"
+  },
+  {
     "waktu": "22:00WIB",
-    "acara": "Tom And Jerry Theatricals"
+    "acara": "The Tom & Jerry Show"
   },
   {
     "waktu": "23:00WIB",
-    "acara": "Talking Tom And Friends"
+    "acara": "Wacky Races"
   }
 ]

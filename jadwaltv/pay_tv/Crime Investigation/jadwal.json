@@ -1,142 +1,106 @@
 [
   {
-    "waktu": "00:25WIB",
-    "acara": "Partners In Crime S2, Ep 2"
-  },
-  {
-    "waktu": "00:55WIB",
-    "acara": "My Ghost Story Asia S1, Ep 5"
-  },
-  {
-    "waktu": "01:25WIB",
-    "acara": "My Ghost Story Asia S1, Ep 6"
-  },
-  {
-    "waktu": "01:55WIB",
-    "acara": "I Survived S5, Ep 12"
-  },
-  {
-    "waktu": "02:45WIB",
-    "acara": "60 Days In: Narcoland S6, Ep 7"
-  },
-  {
-    "waktu": "03:35WIB",
-    "acara": "See No Evil S4, Ep 4"
-  },
-  {
-    "waktu": "04:25WIB",
-    "acara": "Live Rescue S1, Ep 9"
-  },
-  {
-    "waktu": "04:50WIB",
-    "acara": "Rescue Cam S1, Ep 9"
-  },
-  {
-    "waktu": "05:15WIB",
-    "acara": "The First 48 Presents S1, Ep 3"
-  },
-  {
-    "waktu": "06:05WIB",
-    "acara": "Asia's Underworld S1, Ep 5"
-  },
-  {
-    "waktu": "06:35WIB",
-    "acara": "Asia's Underworld S1, Ep 6"
-  },
-  {
-    "waktu": "07:05WIB",
-    "acara": "I Love You, But... S3, Ep 21"
-  },
-  {
-    "waktu": "07:55WIB",
-    "acara": "60 Days In: Narcoland S6, Ep 7"
-  },
-  {
-    "waktu": "08:45WIB",
-    "acara": "See No Evil S4, Ep 4"
-  },
-  {
-    "waktu": "09:35WIB",
-    "acara": "Live Rescue S1, Ep 9"
-  },
-  {
-    "waktu": "10:00WIB",
-    "acara": "Rescue Cam S1, Ep 9"
-  },
-  {
-    "waktu": "10:25WIB",
-    "acara": "Partners In Crime S2, Ep 4"
-  },
-  {
-    "waktu": "10:55WIB",
-    "acara": "Partners In Crime S2, Ep 2"
-  },
-  {
-    "waktu": "11:25WIB",
-    "acara": "My Ghost Story Asia S1, Ep 5"
-  },
-  {
-    "waktu": "11:55WIB",
-    "acara": "My Ghost Story Asia S1, Ep 6"
-  },
-  {
-    "waktu": "12:25WIB",
-    "acara": "I Survived S5, Ep 12"
-  },
-  {
-    "waktu": "13:15WIB",
-    "acara": "The First 48 Presents S1, Ep 3"
-  },
-  {
-    "waktu": "14:05WIB",
-    "acara": "Asia's Underworld S1, Ep 5"
-  },
-  {
-    "waktu": "14:35WIB",
-    "acara": "Asia's Underworld S1, Ep 6"
-  },
-  {
-    "waktu": "15:05WIB",
-    "acara": "I Love You, But... S3, Ep 21"
-  },
-  {
-    "waktu": "15:55WIB",
-    "acara": "60 Days In: Narcoland S6, Ep 8"
-  },
-  {
-    "waktu": "16:45WIB",
-    "acara": "Mark Of A Killer S1, Ep 5"
-  },
-  {
-    "waktu": "17:35WIB",
-    "acara": "Digital Addiction Special"
-  },
-  {
-    "waktu": "18:25WIB",
-    "acara": "Hoarders S12, Ep 11"
-  },
-  {
-    "waktu": "19:15WIB",
-    "acara": "Hoarders S12, Ep 12"
-  },
-  {
-    "waktu": "20:05WIB",
-    "acara": "Critical Evidence S2, Ep 8"
-  },
-  {
-    "waktu": "20:55WIB",
+    "waktu": "00:20WIB",
     "acara": "The Watts Family Tragedy"
   },
   {
-    "waktu": "21:45WIB",
+    "waktu": "01:15WIB",
     "acara": "See No Evil S5, Ep 11"
   },
   {
-    "waktu": "22:35WIB",
+    "waktu": "02:10WIB",
+    "acara": "60 Days In: Narcoland S6, Ep 8"
+  },
+  {
+    "waktu": "03:05WIB",
+    "acara": "Mark Of A Killer S1, Ep 5"
+  },
+  {
+    "waktu": "04:00WIB",
+    "acara": "Digital Addiction Special"
+  },
+  {
+    "waktu": "05:00WIB",
+    "acara": "Hoarders S12, Ep 11"
+  },
+  {
+    "waktu": "05:50WIB",
+    "acara": "Hoarders S12, Ep 12"
+  },
+  {
+    "waktu": "06:45WIB",
     "acara": "Fatal Vows S4, Ep 9"
   },
   {
-    "waktu": "23:25WIB",
+    "waktu": "07:40WIB",
+    "acara": "60 Days In: Narcoland S6, Ep 8"
+  },
+  {
+    "waktu": "08:35WIB",
+    "acara": "Mark Of A Killer S1, Ep 5"
+  },
+  {
+    "waktu": "09:30WIB",
+    "acara": "Digital Addiction Special"
+  },
+  {
+    "waktu": "10:25WIB",
     "acara": "Critical Evidence S2, Ep 8"
+  },
+  {
+    "waktu": "11:20WIB",
+    "acara": "The Watts Family Tragedy"
+  },
+  {
+    "waktu": "12:15WIB",
+    "acara": "See No Evil S5, Ep 11"
+  },
+  {
+    "waktu": "13:10WIB",
+    "acara": "Hoarders S12, Ep 11"
+  },
+  {
+    "waktu": "14:05WIB",
+    "acara": "Hoarders S12, Ep 12"
+  },
+  {
+    "waktu": "15:00WIB",
+    "acara": "Fatal Vows S4, Ep 9"
+  },
+  {
+    "waktu": "15:55WIB",
+    "acara": "60 Days In: Narcoland S6, Ep 9"
+  },
+  {
+    "waktu": "16:45WIB",
+    "acara": "Hoarders S11, Ep 3"
+  },
+  {
+    "waktu": "18:25WIB",
+    "acara": "My Crazy Ex S4, Ep 39"
+  },
+  {
+    "waktu": "19:15WIB",
+    "acara": "Escaping Polygamy S3, Ep 35"
+  },
+  {
+    "waktu": "20:05WIB",
+    "acara": "The First 48 S22, Ep 384"
+  },
+  {
+    "waktu": "20:55WIB",
+    "acara": "Mark Of A Killer S1, Ep 5"
+  },
+  {
+    "waktu": "21:45WIB",
+    "acara": "I Love You, But... S2, Ep 16"
+  },
+  {
+    "waktu": "22:35WIB",
+    "acara": "Celebrity Ghost Stories, Ep 4"
+  },
+  {
+    "waktu": "23:25WIB",
+    "acara": "The First 48 S22, Ep 384"
   }
 ]

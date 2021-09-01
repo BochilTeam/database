@@ -5,7 +5,7 @@
   },
   {
     "waktu": "01:00WIB",
-    "acara": "Ducktales"
+    "acara": "DuckTales"
   },
   {
     "waktu": "01:45WIB",
@@ -41,7 +41,7 @@
   },
   {
     "waktu": "07:00WIB",
-    "acara": "Ducktales"
+    "acara": "DuckTales"
   },
   {
     "waktu": "07:50WIB",
@@ -77,22 +77,18 @@
   },
   {
     "waktu": "11:00WIB",
-    "acara": "Pokemon The Series: Legends"
+    "acara": "Pokemon Series: Sun & Moon"
   },
   {
-    "waktu": "11:20WIB",
-    "acara": "Pokemon The Series: Legends"
+    "waktu": "11:30WIB",
+    "acara": "Pokemon Series: Sun & Moon"
   },
   {
-    "waktu": "11:45WIB",
+    "waktu": "12:00WIB",
     "acara": "Beyblade Burst Surge"
   },
   {
-    "waktu": "12:10WIB",
-    "acara": "Beyblade Burst Surge"
-  },
-  {
-    "waktu": "12:35WIB",
+    "waktu": "12:30WIB",
     "acara": "Beyblade Burst Surge"
   },
   {
@@ -109,7 +105,11 @@
   },
   {
     "waktu": "14:00WIB",
-    "acara": "Aladdin & The King Of Thieves"
+    "acara": "Miraculous World: Shanghai"
+  },
+  {
+    "waktu": "15:15WIB",
+    "acara": "Big City Greens"
   },
   {
     "waktu": "15:35WIB",
@@ -121,11 +121,11 @@
   },
   {
     "waktu": "16:30WIB",
-    "acara": "Ducktales"
+    "acara": "DuckTales"
   },
   {
     "waktu": "17:00WIB",
-    "acara": "Pokemon The Series: Legends"
+    "acara": "Pokemon Series: Sun & Moon"
   },
   {
     "waktu": "17:30WIB",
@@ -157,7 +157,7 @@
   },
   {
     "waktu": "21:00WIB",
-    "acara": "Descendants 3"
+    "acara": "The Smurfs 2"
   },
   {
     "waktu": "23:00WIB",

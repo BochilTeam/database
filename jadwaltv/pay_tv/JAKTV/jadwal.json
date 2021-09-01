@@ -21,7 +21,7 @@
   },
   {
     "waktu": "05:00WIB",
-    "acara": "Boys Before Flower"
+    "acara": "Boys Before Flowers"
   },
   {
     "waktu": "06:00WIB",
@@ -57,7 +57,7 @@
   },
   {
     "waktu": "13:00WIB",
-    "acara": "Boys Before Flower"
+    "acara": "Boys Before Flowers"
   },
   {
     "waktu": "14:00WIB",
@@ -81,7 +81,11 @@
   },
   {
     "waktu": "19:00WIB",
-    "acara": "Galeri Publik"
+    "acara": "Animal Action"
+  },
+  {
+    "waktu": "19:30WIB",
+    "acara": "Kiddie World"
   },
   {
     "waktu": "20:00WIB",
@@ -89,7 +93,7 @@
   },
   {
     "waktu": "21:00WIB",
-    "acara": "Galeri Publik"
+    "acara": "Curcol Kuy"
   },
   {
     "waktu": "22:00WIB",

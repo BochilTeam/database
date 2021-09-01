@@ -1,39 +1,39 @@
 [
   {
     "waktu": "00:00WIB",
-    "acara": "Field Trip"
+    "acara": "Aku Juara"
   },
   {
     "waktu": "00:30WIB",
-    "acara": "Sejarah: Kelas 12"
+    "acara": "Sejarah Wajib: Kelas 12"
   },
   {
     "waktu": "01:00WIB",
-    "acara": "Bahasa Indonesia: Kelas 12"
+    "acara": "Sejarah: Kelas 12"
   },
   {
     "waktu": "01:30WIB",
-    "acara": "Sosiologi: Kelas 12"
+    "acara": "Bahasa Inggris: Kelas 12"
   },
   {
     "waktu": "02:00WIB",
-    "acara": "Bahasa Indonesia: Kelas 12"
+    "acara": "Sejarah: Kelas 12"
   },
   {
     "waktu": "02:30WIB",
-    "acara": "Bahasa Indonesia: Kelas 11"
+    "acara": "Sosiologi: Kelas 11"
   },
   {
     "waktu": "03:00WIB",
-    "acara": "Biologi: Kelas 11"
+    "acara": "Sejarah: Kelas 11"
   },
   {
     "waktu": "03:30WIB",
-    "acara": "Sejarah Wajib: Kelas 11"
+    "acara": "Sosiologi: Kelas 11"
   },
   {
     "waktu": "04:00WIB",
-    "acara": "Biologi: Kelas 11"
+    "acara": "Sejarah Wajib: Kelas 12"
   },
   {
     "waktu": "04:30WIB",
@@ -41,11 +41,11 @@
   },
   {
     "waktu": "05:00WIB",
-    "acara": "Bahasa Indonesia: Kelas 12"
+    "acara": "Bahasa Inggris: Kelas 12"
   },
   {
     "waktu": "05:30WIB",
-    "acara": "Penjelajah Cilik"
+    "acara": "Sejarah: Kelas 12"
   },
   {
     "waktu": "06:00WIB",
@@ -53,7 +53,11 @@
   },
   {
     "waktu": "07:00WIB",
-    "acara": "Baper Kids"
+    "acara": "Tendangan Garuda"
+  },
+  {
+    "waktu": "08:00WIB",
+    "acara": "Juno's Room"
   },
   {
     "waktu": "08:30WIB",
@@ -65,11 +69,11 @@
   },
   {
     "waktu": "09:30WIB",
-    "acara": "Animalia"
+    "acara": "Kidipedia"
   },
   {
     "waktu": "10:00WIB",
-    "acara": "Kidipedia"
+    "acara": "Just For Kids"
   },
   {
     "waktu": "10:30WIB",
@@ -117,11 +121,15 @@
   },
   {
     "waktu": "16:00WIB",
-    "acara": "Semesta Bertilawah"
+    "acara": "Tendangan Garuda"
+  },
+  {
+    "waktu": "17:00WIB",
+    "acara": "Juno's Room"
   },
   {
     "waktu": "17:30WIB",
-    "acara": "Penjelajah Cilik"
+    "acara": "Koki Ciko"
   },
   {
     "waktu": "18:00WIB",
@@ -129,19 +137,19 @@
   },
   {
     "waktu": "19:00WIB",
-    "acara": "Sejarah Wajib: Kelas 12"
+    "acara": "Sosiologi: Kelas 12"
   },
   {
     "waktu": "19:30WIB",
-    "acara": "Sejarah: Kelas 12"
-  },
-  {
-    "waktu": "20:00WIB",
     "acara": "Bahasa Inggris: Kelas 12"
   },
   {
+    "waktu": "20:00WIB",
+    "acara": "Bahasa Indonesia: Kelas 12"
+  },
+  {
     "waktu": "20:30WIB",
-    "acara": "Sejarah: Kelas 12"
+    "acara": "Biologi: Kelas 12"
   },
   {
     "waktu": "21:00WIB",
@@ -149,7 +157,7 @@
   },
   {
     "waktu": "21:30WIB",
-    "acara": "Sejarah: Kelas 11"
+    "acara": "Bahasa Indonesia: Kelas 11"
   },
   {
     "waktu": "22:00WIB",
@@ -157,14 +165,14 @@
   },
   {
     "waktu": "22:30WIB",
-    "acara": "Bahasa Indonesia: Kelas 11"
+    "acara": "Biologi: Kelas 11"
   },
   {
     "waktu": "23:00WIB",
-    "acara": "Penjelajah Cilik"
+    "acara": "Aku Juara"
   },
   {
     "waktu": "23:30WIB",
-    "acara": "Field Trip"
+    "acara": "Animalia"
   }
 ]

@@ -37,7 +37,7 @@
   },
   {
     "waktu": "06:24WIB",
-    "acara": "PJ Masks"
+    "acara": "Puppy Dog Pals"
   },
   {
     "waktu": "06:48WIB",
@@ -61,19 +61,23 @@
   },
   {
     "waktu": "08:30WIB",
-    "acara": "The Chicken Squad"
+    "acara": "T.O.T.S."
   },
   {
-    "waktu": "09:03WIB",
+    "waktu": "09:00WIB",
     "acara": "Bluey"
   },
   {
-    "waktu": "09:33WIB",
+    "waktu": "09:30WIB",
     "acara": "Elena Of Avalor"
   },
   {
     "waktu": "10:00WIB",
-    "acara": "PJ Masks: Heroes Of The Sky"
+    "acara": "Doc McStuffins"
+  },
+  {
+    "waktu": "10:30WIB",
+    "acara": "Puppy Dog Pals"
   },
   {
     "waktu": "11:00WIB",
@@ -124,7 +128,7 @@
     "acara": "Elena Of Avalor"
   },
   {
-    "waktu": "15:48WIB",
+    "waktu": "15:49WIB",
     "acara": "Doc McStuffins: Toy Hospital"
   },
   {
@@ -194,9 +198,5 @@
   {
     "waktu": "21:24WIB",
     "acara": "Bluey"
-  },
-  {
-    "waktu": "21:48WIB",
-    "acara": "Puppy Dog Pals"
   }
 ]

@@ -1,126 +1,106 @@
 [
   {
     "waktu": "00:00WIB",
-    "acara": "Car SOS, Ep 7"
+    "acara": "Lost Treasures Of Maya, Ep 1"
   },
   {
     "waktu": "00:55WIB",
-    "acara": "Fish Of The Day, Ep 3"
-  },
-  {
-    "waktu": "01:20WIB",
-    "acara": "Fish Of The Day, Ep 4"
-  },
-  {
-    "waktu": "01:45WIB",
-    "acara": "Underworld, Inc., Ep 1"
-  },
-  {
-    "waktu": "02:35WIB",
-    "acara": "Food Factory, Ep 15"
-  },
-  {
-    "waktu": "03:00WIB",
-    "acara": "Food Factory, Ep 16"
-  },
-  {
-    "waktu": "03:25WIB",
-    "acara": "South Asia: From The Himalayas"
-  },
-  {
-    "waktu": "04:15WIB",
-    "acara": "Car SOS, Ep 7"
-  },
-  {
-    "waktu": "05:05WIB",
-    "acara": "Fish Of The Day, Ep 3"
-  },
-  {
-    "waktu": "05:30WIB",
-    "acara": "Fish Of The Day, Ep 4"
-  },
-  {
-    "waktu": "06:00WIB",
-    "acara": "Underworld, Inc., Ep 1"
-  },
-  {
-    "waktu": "06:55WIB",
-    "acara": "Food Factory, Ep 15"
-  },
-  {
-    "waktu": "07:20WIB",
-    "acara": "Food Factory, Ep 16"
-  },
-  {
-    "waktu": "07:50WIB",
-    "acara": "Car SOS, Ep 7"
-  },
-  {
-    "waktu": "08:45WIB",
-    "acara": "Fish Of The Day, Ep 3"
-  },
-  {
-    "waktu": "09:10WIB",
-    "acara": "Fish Of The Day, Ep 4"
-  },
-  {
-    "waktu": "09:40WIB",
-    "acara": "Untold Truth About Supermokh"
-  },
-  {
-    "waktu": "10:35WIB",
-    "acara": "Race To Center Of Earth, Ep 3"
-  },
-  {
-    "waktu": "11:30WIB",
-    "acara": "Inside Singapore Airlines"
-  },
-  {
-    "waktu": "12:25WIB",
-    "acara": "India's Mega Kitchens, Ep 1"
-  },
-  {
-    "waktu": "13:20WIB",
-    "acara": "Mine Kings, Ep 3"
-  },
-  {
-    "waktu": "14:15WIB",
-    "acara": "Air Crash Investigation, Ep 7"
-  },
-  {
-    "waktu": "15:10WIB",
-    "acara": "King Tut In Color"
-  },
-  {
-    "waktu": "16:05WIB",
-    "acara": "Wicked Tuna, Ep 21"
-  },
-  {
-    "waktu": "17:00WIB",
-    "acara": "Running Wild, Ep 2"
-  },
-  {
-    "waktu": "18:00WIB",
-    "acara": "Untold Truth About Supermokh"
-  },
-  {
-    "waktu": "19:00WIB",
-    "acara": "City Of The Future: Singapore"
-  },
-  {
-    "waktu": "20:00WIB",
-    "acara": "Lost Treasures...: Underworld"
-  },
-  {
-    "waktu": "21:00WIB",
     "acara": "Wicked Tuna, Ep 2"
   },
   {
-    "waktu": "22:00WIB",
+    "waktu": "01:45WIB",
     "acara": "Air Crash Investigation, Ep 8"
   },
   {
-    "waktu": "23:00WIB",
+    "waktu": "02:35WIB",
     "acara": "City Of The Future: Singapore"
+  },
+  {
+    "waktu": "03:25WIB",
+    "acara": "India's Mega Kitchens, Ep 3"
+  },
+  {
+    "waktu": "04:15WIB",
+    "acara": "Lost Treasures Of Maya, Ep 1"
+  },
+  {
+    "waktu": "05:05WIB",
+    "acara": "Wicked Tuna, Ep 2"
+  },
+  {
+    "waktu": "06:00WIB",
+    "acara": "Air Crash Investigation, Ep 8"
+  },
+  {
+    "waktu": "06:55WIB",
+    "acara": "City Of The Future: Singapore"
+  },
+  {
+    "waktu": "07:50WIB",
+    "acara": "Lost Treasures Of Maya, Ep 1"
+  },
+  {
+    "waktu": "08:45WIB",
+    "acara": "Wicked Tuna, Ep 2"
+  },
+  {
+    "waktu": "09:40WIB",
+    "acara": "Filthy Riches, Ep 1"
+  },
+  {
+    "waktu": "10:35WIB",
+    "acara": "Race To Center Of Earth, Ep 4"
+  },
+  {
+    "waktu": "11:30WIB",
+    "acara": "Man Vs Viral, Ep 3"
+  },
+  {
+    "waktu": "12:25WIB",
+    "acara": "Inside Phuket Airport, Ep 5"
+  },
+  {
+    "waktu": "13:20WIB",
+    "acara": "Filthy Riches, Ep 2"
+  },
+  {
+    "waktu": "14:15WIB",
+    "acara": "Locked Up Abroad, Ep 10"
+  },
+  {
+    "waktu": "15:10WIB",
+    "acara": "The Animal Within, Ep 6"
+  },
+  {
+    "waktu": "16:05WIB",
+    "acara": "Drain The Oceans, Ep 6"
+  },
+  {
+    "waktu": "17:00WIB",
+    "acara": "Running Wild, Ep 3"
+  },
+  {
+    "waktu": "18:00WIB",
+    "acara": "Inside Phuket Airport, Ep 6"
+  },
+  {
+    "waktu": "19:00WIB",
+    "acara": "Man Vs Viral, Ep 5"
+  },
+  {
+    "waktu": "20:00WIB",
+    "acara": "Better Human Better Dog, Ep 1"
+  },
+  {
+    "waktu": "21:00WIB",
+    "acara": "Drain The Oceans, Ep 7"
+  },
+  {
+    "waktu": "22:00WIB",
+    "acara": "Taboo, Ep 12"
+  },
+  {
+    "waktu": "23:00WIB",
+    "acara": "Man Vs Viral, Ep 5"
   }
 ]

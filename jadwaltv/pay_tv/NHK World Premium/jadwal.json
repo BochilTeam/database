@@ -1,11 +1,7 @@
 [
   {
     "waktu": "00:00WIB",
-    "acara": "NHK News"
-  },
-  {
-    "waktu": "00:10WIB",
-    "acara": "Health For Today"
+    "acara": "Kitakyushu Special"
   },
   {
     "waktu": "00:25WIB",
@@ -16,23 +12,19 @@
     "acara": "Everyday Tips"
   },
   {
-    "waktu": "01:20WIB",
+    "waktu": "00:55WIB",
     "acara": "News Commentary"
   },
   {
-    "waktu": "01:30WIB",
-    "acara": "100 Beautiful Mountains Of JPN"
+    "waktu": "01:25WIB",
+    "acara": "IPPIN: Japan's Finest"
   },
   {
-    "waktu": "02:00WIB",
-    "acara": "Bento Expo"
+    "waktu": "01:35WIB",
+    "acara": "Child-Rearing Hints & Tips"
   },
   {
-    "waktu": "02:23WIB",
-    "acara": "Mini Program"
-  },
-  {
-    "waktu": "02:30WIB",
+    "waktu": "02:05WIB",
     "acara": "World Music Album"
   },
   {
@@ -77,7 +69,7 @@
   },
   {
     "waktu": "06:00WIB",
-    "acara": "Welcome Back, Mone, Ep 77"
+    "acara": "Welcome Back, Mone, Ep 78"
   },
   {
     "waktu": "06:15WIB",
@@ -85,27 +77,19 @@
   },
   {
     "waktu": "07:13WIB",
-    "acara": "Mini Program"
+    "acara": "News & Weather"
   },
   {
-    "waktu": "07:15WIB",
+    "waktu": "07:18WIB",
     "acara": "Journey Of Heart Across Japan"
   },
   {
-    "waktu": "08:13WIB",
-    "acara": "Mini Program"
-  },
-  {
-    "waktu": "08:15WIB",
+    "waktu": "08:16WIB",
     "acara": "News: Good Morning, Japan"
   },
   {
-    "waktu": "09:00WIB",
+    "waktu": "09:01WIB",
     "acara": "Seasoning The Seasons"
-  },
-  {
-    "waktu": "09:59WIB",
-    "acara": "World Weather"
   },
   {
     "waktu": "10:00WIB",
@@ -121,23 +105,23 @@
   },
   {
     "waktu": "10:35WIB",
-    "acara": "Mini Program"
-  },
-  {
-    "waktu": "10:43WIB",
-    "acara": "Mini Program"
+    "acara": "Koh Kentetsu's Happy Food..."
   },
   {
     "waktu": "10:45WIB",
-    "acara": "Welcome Back, Mone, Ep 77"
+    "acara": "Welcome Back, Mone, Ep 78"
   },
   {
     "waktu": "11:00WIB",
-    "acara": "News"
+    "acara": "Train Geek Championship"
+  },
+  {
+    "waktu": "11:45WIB",
+    "acara": "Points At Issue"
   },
   {
     "waktu": "11:55WIB",
-    "acara": "World Music Album"
+    "acara": "See, Learn, Explore: Tohoku"
   },
   {
     "waktu": "12:00WIB",
@@ -145,7 +129,7 @@
   },
   {
     "waktu": "12:25WIB",
-    "acara": "My Gardening"
+    "acara": "Learn Chinese On TV"
   },
   {
     "waktu": "12:50WIB",
@@ -165,6 +149,10 @@
   },
   {
     "waktu": "13:30WIB",
+    "acara": "Capturing Landscapes By Drone"
+  },
+  {
+    "waktu": "13:45WIB",
     "acara": "Mini Program"
   },
   {
@@ -173,19 +161,35 @@
   },
   {
     "waktu": "13:50WIB",
-    "acara": "Child-Rearing Hints & Tips"
+    "acara": "Round Table Talk On Childcare"
+  },
+  {
+    "waktu": "14:15WIB",
+    "acara": "Tips For Nursing Care"
   },
   {
     "waktu": "14:20WIB",
-    "acara": "IPPIN: Japan's Finest"
+    "acara": "Gretel's Magical Oven"
+  },
+  {
+    "waktu": "14:45WIB",
+    "acara": "Songs For Everyone"
   },
   {
     "waktu": "14:50WIB",
-    "acara": "NHK News"
+    "acara": "News"
+  },
+  {
+    "waktu": "14:55WIB",
+    "acara": "Fukushima Time-Lapse"
+  },
+  {
+    "waktu": "15:00WIB",
+    "acara": "Mini Program"
   },
   {
     "waktu": "15:01WIB",
-    "acara": "Mini Program"
+    "acara": "PythagoraSwitch"
   },
   {
     "waktu": "15:11WIB",
@@ -194,9 +198,5 @@
   {
     "waktu": "15:21WIB",
     "acara": "Peek-A-Boo"
-  },
-  {
-    "waktu": "15:36WIB",
-    "acara": "With Mother"
   }
 ]

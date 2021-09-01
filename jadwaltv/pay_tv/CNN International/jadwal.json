@@ -109,11 +109,11 @@
   },
   {
     "waktu": "13:00WIB",
-    "acara": "CNN Newsroom, John Vause"
+    "acara": "CNN Newsroom With R. Church"
   },
   {
     "waktu": "13:30WIB",
-    "acara": "CNN Newsroom, John Vause"
+    "acara": "CNN Newsroom With R. Church"
   },
   {
     "waktu": "14:00WIB",
@@ -172,6 +172,10 @@
     "acara": "First Move With J. Chatterley"
   },
   {
+    "waktu": "20:45WIB",
+    "acara": "Marketplace Asia"
+  },
+  {
     "waktu": "21:00WIB",
     "acara": "Connect The World"
   },
@@ -194,9 +198,5 @@
   {
     "waktu": "23:30WIB",
     "acara": "One World With Zain Asher"
-  },
-  {
-    "waktu": "23:45WIB",
-    "acara": "African Voices Changemakers"
   }
 ]
