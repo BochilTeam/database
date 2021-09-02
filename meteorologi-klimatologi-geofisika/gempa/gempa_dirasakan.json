@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/09/2021 07:22:36 WIB",
+    "lintang": "4.01 LS",
+    "bujur": "122.49 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di darat 2.8 Km BaratLaut Baruga",
+    "warning": [
+      "II Kendari"
+    ]
+  },
+  {
     "waktu": "01/09/2021 21:45:28 WIB",
     "lintang": "8.96 LS",
     "bujur": "113.03 BT",
@@ -213,17 +224,6 @@
     "warning": [
       "II-III Jayapura",
       "II-III Sentani"
-    ]
-  },
-  {
-    "waktu": "26/08/2021 19:43:31 WIB",
-    "lintang": "0.8 LS",
-    "bujur": "121.54 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di laut 9 Km Barat Laut Ampana",
-    "warning": [
-      "II-III Ampana"
     ]
   }
 ]
