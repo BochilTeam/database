@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "04/09/2021 22:52:47 WIB",
+    "lintang": "0.24 LS",
+    "bujur": "124.5 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 88 km tenggara Bolaanguki-Bolsel",
+    "warning": [
+      "III Bolaang Mongondow Timur",
+      "II Kotamobago"
+    ]
+  },
+  {
     "waktu": "02/09/2021 07:22:36 WIB",
     "lintang": "4.01 LS",
     "bujur": "122.49 BT",
@@ -212,18 +224,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Takengon - Aceh Tengah",
     "warning": [
       "II-III Takengon"
-    ]
-  },
-  {
-    "waktu": "26/08/2021 19:54:44 WIB",
-    "lintang": "2.13 LS",
-    "bujur": "140.59 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 51 Km Barat Laut Jayapura",
-    "warning": [
-      "II-III Jayapura",
-      "II-III Sentani"
     ]
   }
 ]
