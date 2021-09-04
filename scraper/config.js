@@ -1,6 +1,7 @@
 const fs = require('fs')
+const path = require('path')
 
-let filename = './ekonomi/crypto.json'
+let filename = path.join(__dirname, '../ekonomi/crypto.json')
 let old = JSON.parse(JSON.stringify(fs.readFileSync(filename).toString('base64')))
 let fsWait = false
 let watch = fs.watch(filename, async (event, filename) => {
