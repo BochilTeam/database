@@ -30,24 +30,24 @@ jobs:
         #cache: 'npm'
     - run: npm run scraper
     - name: Commit and push if it changed
-      run: | -
-      timestamp=$(date '+%F %H:%M:%S %Z')
-      git config user.name
-      username=$?
-      if [ $username != 'github-actions' ]
-      then 
-        git config user.name "github-actions"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add -A
-        git commit -m "Update data ${timestamp}
+      run: |-
+        timestamp=$(date '+%F %H:%M:%S %Z')
+        git config user.name
+        username=$?
+        if [ $username != 'github-actions' ]
+        then 
+          git config user.name "github-actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Update data ${timestamp}
         
         
-        Co-authored-by: BochilGaming <79433517+BochilGaming@users.noreply.github.com>
-        " || exit 0
-      else 
-        git config user.name "github-actions"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add -A
-        git commit -m "Update data ${timestamp}"
-      fi
-      git push
+          Co-authored-by: BochilGaming <79433517+BochilGaming@users.noreply.github.com>
+          " || exit 0
+        else 
+          git config user.name "github-actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Update data ${timestamp}"
+        fi
+        git push
