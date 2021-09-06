@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "06/09/2021 09:34:55 WIB",
+    "lintang": "8.43 LS",
+    "bujur": "122.27 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 22Km Timur Laut Maumere-Sikka",
+    "warning": [
+      "III Maumere"
+    ]
+  },
+  {
     "waktu": "05/09/2021 19:16:56 WIB",
     "lintang": "2.59 LS",
     "bujur": "127.43 BT",
@@ -213,17 +224,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km Tenggara Mamasa",
     "warning": [
       "II - III Mamasa"
-    ]
-  },
-  {
-    "waktu": "27/08/2021 17:22:20 WIB",
-    "lintang": "6.04 LU",
-    "bujur": "125.22 BT",
-    "magnitudo": "6.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 271 km Barat Laut - Tahuna -",
-    "warning": [
-      "III Tahuna"
     ]
   }
 ]
