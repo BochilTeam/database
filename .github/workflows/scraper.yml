@@ -33,8 +33,7 @@ jobs:
     - name: Commit and push if it changed
       run: |-
         timestamp=$(date '+%F %H:%M:%S %Z')
-        git config user.name
-        username=$?
+        username=$(git config user.name)
         if [ $username != 'github-actions' ]
         then 
           git config user.name "github-actions"
