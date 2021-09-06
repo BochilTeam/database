@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "06/09/2021 22:30:42 WIB",
+    "lintang": "4 LS",
+    "bujur": "122.43 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 3.5 km Tenggara Sampara-Kab. Konawe",
+    "warning": [
+      "II-III Kendari",
+      "II-III Konawe Selatan"
+    ]
+  },
+  {
     "waktu": "06/09/2021 09:34:55 WIB",
     "lintang": "8.43 LS",
     "bujur": "122.27 BT",
@@ -213,17 +225,6 @@
     "wilayah": "Pusat gempa berada di laut 15 km barat laut Kolaka Utara",
     "warning": [
       "II-III Kolaka Utara"
-    ]
-  },
-  {
-    "waktu": "27/08/2021 17:30:59 WIB",
-    "lintang": "2.97 LS",
-    "bujur": "119.37 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Mamasa",
-    "warning": [
-      "II - III Mamasa"
     ]
   }
 ]
