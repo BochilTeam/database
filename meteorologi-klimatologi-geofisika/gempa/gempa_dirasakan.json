@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/09/2021 12:13:52 WIB",
+    "lintang": "8.7 LS",
+    "bujur": "121.62 BT",
+    "magnitudo": "3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km barat laut Ende",
+    "warning": [
+      "III Ende"
+    ]
+  },
+  {
     "waktu": "07/09/2021 09:49:56 WIB",
     "lintang": "6.38 LS",
     "bujur": "103.52 BT",
@@ -214,17 +225,6 @@
     "wilayah": "Pusat gempa berada di darat 58 km timur laut Mimika",
     "warning": [
       "III Timika"
-    ]
-  },
-  {
-    "waktu": "27/08/2021 21:30:37 WIB",
-    "lintang": "5.53 LS",
-    "bujur": "103.27 BT",
-    "magnitudo": "4",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 82 km barat daya Kaur",
-    "warning": [
-      "II-III Krui"
     ]
   }
 ]
