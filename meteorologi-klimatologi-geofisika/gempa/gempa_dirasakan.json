@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/09/2021 09:49:56 WIB",
+    "lintang": "6.38 LS",
+    "bujur": "103.52 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 140 km Barat Daya Pesisir Barat",
+    "warning": [
+      "I-II Krui"
+    ]
+  },
+  {
     "waktu": "06/09/2021 22:30:42 WIB",
     "lintang": "4 LS",
     "bujur": "122.43 BT",
@@ -214,17 +225,6 @@
     "wilayah": "Pusat gempa berada di laut 82 km barat daya Kaur",
     "warning": [
       "II-III Krui"
-    ]
-  },
-  {
-    "waktu": "27/08/2021 21:01:26 WIB",
-    "lintang": "3.47 LS",
-    "bujur": "120.85 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 15 km barat laut Kolaka Utara",
-    "warning": [
-      "II-III Kolaka Utara"
     ]
   }
 ]
