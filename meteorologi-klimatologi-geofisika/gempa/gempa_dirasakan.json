@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "07/09/2021 17:35:44 WIB",
+    "lintang": "0.29 LS",
+    "bujur": "122.91 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 95 km barat daya Bone Bolango",
+    "warning": [
+      "II-III Ampana",
+      "II-III Luwuk",
+      "II Toili",
+      "II Banggai Laut"
+    ]
+  },
+  {
     "waktu": "07/09/2021 12:13:52 WIB",
     "lintang": "8.7 LS",
     "bujur": "121.62 BT",
@@ -214,17 +228,6 @@
       "III Waingapu",
       "II-III Labuan Bajo",
       "II-III Borong"
-    ]
-  },
-  {
-    "waktu": "27/08/2021 23:19:25 WIB",
-    "lintang": "4.65 LS",
-    "bujur": "137.01 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "21 Km",
-    "wilayah": "Pusat gempa berada di darat 58 km timur laut Mimika",
-    "warning": [
-      "III Timika"
     ]
   }
 ]
