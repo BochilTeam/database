@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "08/09/2021 19:56:25 WIB",
+    "lintang": "0.4 LS",
+    "bujur": "123.09 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "69 Km",
+    "wilayah": "Pusat gempa berada di laut 7o km arah Timur Laut Luwuk",
+    "warning": [
+      "II Luwuk",
+      "II Banggai Kepulauan"
+    ]
+  },
+  {
+    "waktu": "08/09/2021 19:20:00 WIB",
+    "lintang": "8.99 LS",
+    "bujur": "114.95 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "75 Km",
+    "wilayah": "Pusat gempa berada di laut 37 km Barat Daya KUTA SELATAN",
+    "warning": [
+      "II Nusa Dua"
+    ]
+  },
+  {
     "waktu": "08/09/2021 07:24:56 WIB",
     "lintang": "8.26 LS",
     "bujur": "115.5 BT",
@@ -201,31 +224,6 @@
     "wilayah": "Pusat gempa berada di laut 17 km barat laut Kab. Konawe Kepulauan",
     "warning": [
       "II-III Kendari"
-    ]
-  },
-  {
-    "waktu": "28/08/2021 20:25:27 WIB",
-    "lintang": "2.88 LS",
-    "bujur": "140.75 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 38 km tenggara Kota Jayapura",
-    "warning": [
-      "III Jayapura"
-    ]
-  },
-  {
-    "waktu": "28/08/2021 19:27:24 WIB",
-    "lintang": "3.47 LS",
-    "bujur": "140.31 BT",
-    "magnitudo": "6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 52 km barat daya Keerom",
-    "warning": [
-      "II-III Kota Jayapura",
-      "II-III Keerom",
-      "II - III Kab. Jayapura",
-      "II - III Wamena"
     ]
   }
 ]
