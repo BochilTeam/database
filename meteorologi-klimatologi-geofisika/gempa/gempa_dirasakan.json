@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/09/2021 07:24:56 WIB",
+    "lintang": "8.26 LS",
+    "bujur": "115.5 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km Barat Laut Karangasem",
+    "warning": [
+      "III Karangasem"
+    ]
+  },
+  {
     "waktu": "07/09/2021 17:35:44 WIB",
     "lintang": "0.29 LS",
     "bujur": "122.91 BT",
@@ -215,19 +226,6 @@
       "II-III Keerom",
       "II - III Kab. Jayapura",
       "II - III Wamena"
-    ]
-  },
-  {
-    "waktu": "28/08/2021 17:41:20 WIB",
-    "lintang": "9.76 LS",
-    "bujur": "120.19 BT",
-    "magnitudo": "5",
-    "kedalaman": "50 Km",
-    "wilayah": "Pusat gempa berada di darat 13 km barat daya Waingapu",
-    "warning": [
-      "III Waingapu",
-      "II-III Labuan Bajo",
-      "II-III Borong"
     ]
   }
 ]
