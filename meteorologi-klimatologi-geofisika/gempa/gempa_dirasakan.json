@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/09/2021 13:55:13 WIB",
+    "lintang": "9.73 LS",
+    "bujur": "120.72 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "59 Km",
+    "wilayah": "Pusat gempa berada di laut 51 Km Tenggara Waingapu",
+    "warning": [
+      "II - III Waingapu"
+    ]
+  },
+  {
     "waktu": "09/09/2021 09:16:31 WIB",
     "lintang": "3.94 LS",
     "bujur": "134.97 BT",
@@ -213,17 +224,6 @@
     "wilayah": "Pusat gempa berada di laut 9 km barat Ampana",
     "warning": [
       "II-III Ampana"
-    ]
-  },
-  {
-    "waktu": "29/08/2021 18:46:49 WIB",
-    "lintang": "7.96 LS",
-    "bujur": "118.7 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di laut 54 km Barat Laut Bima",
-    "warning": [
-      "III Bima"
     ]
   }
 ]
