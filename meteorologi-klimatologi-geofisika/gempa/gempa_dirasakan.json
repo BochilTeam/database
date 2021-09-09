@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/09/2021 18:59:11 WIB",
+    "lintang": "1.5 LS",
+    "bujur": "134.27 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di laut 12 Km tenggara Ransiki",
+    "warning": [
+      "II-III Oransbari"
+    ]
+  },
+  {
     "waktu": "09/09/2021 13:55:13 WIB",
     "lintang": "9.73 LS",
     "bujur": "120.72 BT",
@@ -213,17 +224,6 @@
     "wilayah": "Pusat gempa berada di laut 11 km barat Ampana",
     "warning": [
       "III Ampana"
-    ]
-  },
-  {
-    "waktu": "31/08/2021 00:26:58 WIB",
-    "lintang": "0.87 LS",
-    "bujur": "121.5 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 9 km barat Ampana",
-    "warning": [
-      "II-III Ampana"
     ]
   }
 ]
