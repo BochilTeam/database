@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/09/2021 09:16:31 WIB",
+    "lintang": "3.94 LS",
+    "bujur": "134.97 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 99 Km BaratDaya Nabire",
+    "warning": [
+      "III Nabire"
+    ]
+  },
+  {
     "waktu": "08/09/2021 19:56:25 WIB",
     "lintang": "0.4 LS",
     "bujur": "123.09 BT",
@@ -213,17 +224,6 @@
     "wilayah": "Pusat gempa berada di laut 54 km Barat Laut Bima",
     "warning": [
       "III Bima"
-    ]
-  },
-  {
-    "waktu": "29/08/2021 07:37:30 WIB",
-    "lintang": "3.92 LS",
-    "bujur": "122.9 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 17 km barat laut Kab. Konawe Kepulauan",
-    "warning": [
-      "II-III Kendari"
     ]
   }
 ]
