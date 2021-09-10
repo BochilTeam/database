@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "10/09/2021 21:40:03 WIB",
+    "lintang": "2.98 LS",
+    "bujur": "119.38 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 9 Km Tenggara Mamasa",
+    "warning": [
+      "III Mamasa"
+    ]
+  },
+  {
     "waktu": "09/09/2021 18:59:11 WIB",
     "lintang": "1.5 LS",
     "bujur": "134.27 BT",
@@ -213,17 +224,6 @@
     "wilayah": "Pusat gempa berada di laut 10 km Utara Ampana Kab. Tojo Unauna",
     "warning": [
       "II-III Ampana"
-    ]
-  },
-  {
-    "waktu": "31/08/2021 02:04:06 WIB",
-    "lintang": "0.87 LS",
-    "bujur": "121.48 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di laut 11 km barat Ampana",
-    "warning": [
-      "III Ampana"
     ]
   }
 ]
