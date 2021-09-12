@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-09-21 16:02:20 WIB",
+    "lintang": "-0.52",
+    "bujur": "99.64",
+    "magnitudo": "5.3",
+    "kedalaman": "29 Km",
+    "wilayah": "49 km BaratDaya AGAM-SUMBAR"
+  },
+  {
     "waktu": "09-09-21 09:16:31 WIB",
     "lintang": "-3.94",
     "bujur": "134.97",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "12 km Tenggara MAMASA-SULBAR"
-  },
-  {
-    "waktu": "21-07-21 03:26:48 WIB",
-    "lintang": "5.59",
-    "bujur": "126.72",
-    "magnitudo": "5.3",
-    "kedalaman": "91 Km",
-    "wilayah": "176 km TimurLaut MELONGUANE-SULUT"
   }
 ]
