@@ -17,8 +17,3 @@ const assert = require('assert')
     }
   }
 })()
-
-; (async () => {
-  let watch = require('./config')
-  (await watch).close() // https://stackoverflow.com/a/53983383
-})()
