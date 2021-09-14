@@ -148,6 +148,7 @@ if (!fs.existsSync(base)) {
     if (results.length && data.length) break
   }
   if (results.length) await fs.writeFileSync(base + 'cuaca.json', JSON.stringify(results, null, 2))
+  if (data.length) await fs.writeFileSync(base + 'provinsi/info.json', JSON.stringify(data, null, 2))
 
   let result = []
   let directory

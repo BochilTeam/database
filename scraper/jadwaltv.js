@@ -109,7 +109,7 @@ if (!fs.existsSync(base)){
         url: link
       })
     }
-    if (channel.length) await fs.writeFileSync(base + 'pay_tv/acara.json', JSON.stringify(channel, null, 2))
+    if (channel.length) await fs.writeFileSync(base + 'pay_tv/info.json', JSON.stringify(channel, null, 2))
     //console.error('[debug]', channel)
     for (let i = 0; i < channel.length; i++) {
       result = []
