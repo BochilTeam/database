@@ -9,11 +9,15 @@
   },
   {
     "waktu": "00:23WIB",
-    "acara": "The New Coronavirus In 3DCG"
+    "acara": "Japanology Plus Mini"
   },
   {
     "waktu": "00:30WIB",
-    "acara": "Dining With The Chef"
+    "acara": "Bento Expo"
+  },
+  {
+    "waktu": "00:45WIB",
+    "acara": "Easy Japanese For Work"
   },
   {
     "waktu": "01:00WIB",
@@ -29,11 +33,15 @@
   },
   {
     "waktu": "02:00WIB",
-    "acara": "Rising"
+    "acara": "NHK Documentary"
   },
   {
-    "waktu": "02:30WIB",
-    "acara": "Document 72 Hours"
+    "waktu": "02:50WIB",
+    "acara": "Time-Lapse Japan Tohoku"
+  },
+  {
+    "waktu": "02:55WIB",
+    "acara": "Japan From Above: Up Close"
   },
   {
     "waktu": "03:00WIB",
@@ -45,7 +53,7 @@
   },
   {
     "waktu": "03:30WIB",
-    "acara": "Science View"
+    "acara": "Medical Frontiers"
   },
   {
     "waktu": "04:00WIB",
@@ -53,11 +61,11 @@
   },
   {
     "waktu": "04:15WIB",
-    "acara": "Newsline In Depth"
+    "acara": "Biz Stream Spc. Edition"
   },
   {
     "waktu": "04:30WIB",
-    "acara": "Journeys In Japan"
+    "acara": "Where We Call Home"
   },
   {
     "waktu": "05:00WIB",
@@ -69,7 +77,11 @@
   },
   {
     "waktu": "05:30WIB",
-    "acara": "Dining With The Chef"
+    "acara": "Bento Expo"
+  },
+  {
+    "waktu": "05:45WIB",
+    "acara": "Easy Japanese For Work"
   },
   {
     "waktu": "06:00WIB",
@@ -89,15 +101,11 @@
   },
   {
     "waktu": "06:30WIB",
-    "acara": "Deeper Look From New York"
+    "acara": "Grand Sumo Highlights"
   },
   {
-    "waktu": "06:45WIB",
-    "acara": "Doctor's Insight"
-  },
-  {
-    "waktu": "06:55WIB",
-    "acara": "We, In The Time Of Corona"
+    "waktu": "06:57WIB",
+    "acara": "Sumopedia"
   },
   {
     "waktu": "07:00WIB",
@@ -109,7 +117,7 @@
   },
   {
     "waktu": "07:30WIB",
-    "acara": "Tokyo Eye 2020"
+    "acara": "Journeys In Japan"
   },
   {
     "waktu": "08:00WIB",
@@ -117,19 +125,11 @@
   },
   {
     "waktu": "08:15WIB",
-    "acara": "Newsline In Depth"
+    "acara": "Biz Stream Spc. Edition"
   },
   {
     "waktu": "08:30WIB",
-    "acara": "Ninja Truth, Ep 6"
-  },
-  {
-    "waktu": "08:45WIB",
-    "acara": "Dig More Japan"
-  },
-  {
-    "waktu": "08:55WIB",
-    "acara": "Core Kyoto Mini"
+    "acara": "Dining With The Chef"
   },
   {
     "waktu": "09:00WIB",
@@ -141,11 +141,11 @@
   },
   {
     "waktu": "09:23WIB",
-    "acara": "Japanology Plus Mini"
+    "acara": "Ukiyoe Edo-Life"
   },
   {
     "waktu": "09:30WIB",
-    "acara": "Side By Side"
+    "acara": "Document 72 Hours"
   },
   {
     "waktu": "10:00WIB",
@@ -153,50 +153,50 @@
   },
   {
     "waktu": "10:10WIB",
-    "acara": "Newsline In Depth"
+    "acara": "Biz Stream Spc. Edition"
   },
   {
     "waktu": "10:23WIB",
-    "acara": "Pandemic History, Info & Tips"
+    "acara": "Japan From Above: Up Close"
   },
   {
     "waktu": "10:30WIB",
-    "acara": "Science View"
+    "acara": "Medical Frontiers"
   },
   {
     "waktu": "11:00WIB",
-    "acara": "NHK Newsline"
+    "acara": "Newsline Asia 24"
   },
   {
     "waktu": "11:10WIB",
-    "acara": "Newsline In Depth"
+    "acara": "NHK World Selection"
   },
   {
     "waktu": "11:23WIB",
-    "acara": "Muscles For All!"
+    "acara": "Fukushima Time-Lapse"
   },
   {
     "waktu": "11:30WIB",
-    "acara": "Kabuki Kool"
+    "acara": "Grand Sumo Highlights"
+  },
+  {
+    "waktu": "11:57WIB",
+    "acara": "Sumopedia"
   },
   {
     "waktu": "12:00WIB",
-    "acara": "NHK Newsline"
+    "acara": "Newsline Asia 24"
   },
   {
     "waktu": "12:10WIB",
-    "acara": "Somewhere Street Little Stroll"
+    "acara": "The Sea Of Japan"
   },
   {
     "waktu": "12:25WIB",
-    "acara": "The New Coronavirus In 3DCG"
+    "acara": "Japanology Plus Mini"
   },
   {
     "waktu": "12:30WIB",
-    "acara": "Tokyo Eye 2020"
-  },
-  {
-    "waktu": "13:00WIB",
-    "acara": "NHK Newsline"
+    "acara": "Journeys In Japan"
   }
 ]

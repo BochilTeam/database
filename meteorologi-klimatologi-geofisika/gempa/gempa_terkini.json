@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "12-09-21 16:02:20 WIB",
+    "lintang": "-0.52",
+    "bujur": "99.64",
+    "magnitudo": "5.3",
+    "kedalaman": "29 Km",
+    "wilayah": "49 km BaratDaya AGAM-SUMBAR"
+  },
+  {
+    "waktu": "09-09-21 09:16:31 WIB",
+    "lintang": "-3.94",
+    "bujur": "134.97",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "99 km BaratDaya NABIRE-PAPUA"
+  },
+  {
+    "waktu": "08-09-21 07:13:00 WIB",
+    "lintang": "-7.68",
+    "bujur": "128.45",
+    "magnitudo": "5.0",
+    "kedalaman": "147 Km",
+    "wilayah": "89 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
+    "waktu": "05-09-21 19:16:56 WIB",
+    "lintang": "-2.59",
+    "bujur": "127.43",
+    "magnitudo": "5.0",
+    "kedalaman": "23 Km",
+    "wilayah": "83 km TimurLaut BURU-MALUKU"
+  },
+  {
     "waktu": "29-08-21 04:00:18 WIB",
     "lintang": "-3.43",
     "bujur": "140.21",
@@ -206,37 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "12 km Tenggara MAMASA-SULBAR"
-  },
-  {
-    "waktu": "21-07-21 03:26:48 WIB",
-    "lintang": "5.59",
-    "bujur": "126.72",
-    "magnitudo": "5.3",
-    "kedalaman": "91 Km",
-    "wilayah": "176 km TimurLaut MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "19-07-21 07:55:45 WIB",
-    "lintang": "-0.04",
-    "bujur": "123.24",
-    "magnitudo": "5.2",
-    "kedalaman": "141 Km",
-    "wilayah": "65 km Tenggara BONEBOLANGO-GORONTALO"
-  },
-  {
-    "waktu": "18-07-21 17:40:02 WIB",
-    "lintang": "0.02",
-    "bujur": "123.80",
-    "magnitudo": "5.0",
-    "kedalaman": "95 Km",
-    "wilayah": "44 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
-  },
-  {
-    "waktu": "17-07-21 17:53:58 WIB",
-    "lintang": "-2.24",
-    "bujur": "120.91",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "47 km BaratLaut LUWUTIMUR-SULSEL"
   }
 ]

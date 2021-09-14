@@ -1,15 +1,35 @@
 [
   {
-    "waktu": "02:00WIB",
-    "acara": "US Open Tennis 2021 (L)"
+    "waktu": "01:00WIB",
+    "acara": "SportsCenter Asia 2021"
+  },
+  {
+    "waktu": "01:15WIB",
+    "acara": "The John Dykes Show"
+  },
+  {
+    "waktu": "02:15WIB",
+    "acara": "SportsCenter Asia 2021"
+  },
+  {
+    "waktu": "02:30WIB",
+    "acara": "MotoGP 2021: GP Of Aragon"
   },
   {
     "waktu": "06:00WIB",
-    "acara": "US Open Tennis 2021 (L)"
+    "acara": "The John Dykes Show"
   },
   {
-    "waktu": "10:00WIB",
-    "acara": "X Games Aspen 2021 HL"
+    "waktu": "07:00WIB",
+    "acara": "US Open Tennis 2021 Best Match"
+  },
+  {
+    "waktu": "08:00WIB",
+    "acara": "Extreme E C'ship HL: Desert"
+  },
+  {
+    "waktu": "09:00WIB",
+    "acara": "F1 Heineken GP D'Italia 2021"
   },
   {
     "waktu": "11:00WIB",
@@ -17,7 +37,7 @@
   },
   {
     "waktu": "11:30WIB",
-    "acara": "F1 Rolex Belgian GP 2021 HL"
+    "acara": "The John Dykes Show"
   },
   {
     "waktu": "12:30WIB",
@@ -25,11 +45,7 @@
   },
   {
     "waktu": "13:00WIB",
-    "acara": "US Open Tennis 2021 Best Match"
-  },
-  {
-    "waktu": "14:00WIB",
-    "acara": "US Open Tennis 2021 Best Match"
+    "acara": "MotoGP 2021: GP Of Aragon"
   },
   {
     "waktu": "15:00WIB",
@@ -37,19 +53,19 @@
   },
   {
     "waktu": "15:30WIB",
+    "acara": "ESPN FC 2021"
+  },
+  {
+    "waktu": "16:00WIB",
     "acara": "US Open Tennis 2021 Best Match"
   },
   {
-    "waktu": "16:30WIB",
-    "acara": "F1 Rolex Belgian GP 2021 HL"
-  },
-  {
-    "waktu": "17:30WIB",
-    "acara": "2 Wheels"
+    "waktu": "17:00WIB",
+    "acara": "The John Dykes Show"
   },
   {
     "waktu": "18:00WIB",
-    "acara": "US Open Tennis 2021 HL"
+    "acara": "ESPN FC 2021"
   },
   {
     "waktu": "18:30WIB",
@@ -57,30 +73,30 @@
   },
   {
     "waktu": "19:00WIB",
-    "acara": "The John Dykes Show (L)"
+    "acara": "2 Wheels"
   },
   {
     "waktu": "19:30WIB",
+    "acara": "Mobil 1 The Grid"
+  },
+  {
+    "waktu": "20:00WIB",
     "acara": "US Open Tennis 2021 Best Match"
   },
   {
-    "waktu": "20:30WIB",
-    "acara": "In Focus: Lewis Hamilton"
+    "waktu": "21:00WIB",
+    "acara": "ESPN FC 2021"
   },
   {
-    "waktu": "20:40WIB",
-    "acara": "In Focus: Marion Bartoli"
-  },
-  {
-    "waktu": "20:50WIB",
+    "waktu": "21:30WIB",
     "acara": "SportsCenter Asia 2021"
   },
   {
-    "waktu": "21:20WIB",
-    "acara": "US Open Tennis 2021 HL"
+    "waktu": "22:00WIB",
+    "acara": "2 Wheels"
   },
   {
-    "waktu": "21:50WIB",
-    "acara": "US Open Tennis 2021 (L)"
+    "waktu": "22:30WIB",
+    "acara": "UFC: Barboza Vs Chikadze"
   }
 ]

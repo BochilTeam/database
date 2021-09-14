@@ -2,57 +2,57 @@
   {
     "kota": "Majene",
     "prakiraan_cuaca": {
-      "malam": "Hujan Ringan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
+      "malam": "Hujan Sedang",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
       "dini_hari": "Hujan Sedang",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png"
     },
-    "suhu": "24 - 30 °C",
-    "kelembapan": "70 - 90%"
+    "suhu": "25 - 31 °C",
+    "kelembapan": "65 - 95%"
   },
   {
     "kota": "Mamasa",
     "prakiraan_cuaca": {
-      "malam": "Hujan Lebat",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20lebat-pm.png",
-      "dini_hari": "Hujan Sedang",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png"
+      "malam": "Hujan Ringan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
+      "dini_hari": "Hujan Ringan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
     },
-    "suhu": "19 - 26 °C",
-    "kelembapan": "75 - 100%"
+    "suhu": "19 - 29 °C",
+    "kelembapan": "65 - 95%"
   },
   {
     "kota": "Mamuju",
     "prakiraan_cuaca": {
       "malam": "Hujan Lebat",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20lebat-pm.png",
-      "dini_hari": "Hujan Sedang",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png"
+      "dini_hari": "Hujan Lebat",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20lebat-pm.png"
     },
-    "suhu": "24 - 29 °C",
-    "kelembapan": "70 - 95%"
+    "suhu": "25 - 31 °C",
+    "kelembapan": "65 - 95%"
   },
   {
     "kota": "Mamuju Tengah",
     "prakiraan_cuaca": {
       "malam": "Hujan Lebat",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20lebat-pm.png",
-      "dini_hari": "Hujan Sedang",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png"
+      "dini_hari": "Hujan Lebat",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20lebat-pm.png"
     },
-    "suhu": "25 - 29 °C",
-    "kelembapan": "70 - 95%"
+    "suhu": "25 - 31 °C",
+    "kelembapan": "65 - 95%"
   },
   {
     "kota": "Mamuju Utara",
     "prakiraan_cuaca": {
       "malam": "Hujan Lebat",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20lebat-pm.png",
-      "dini_hari": "Hujan Sedang",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png"
+      "dini_hari": "Hujan Lebat",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20lebat-pm.png"
     },
-    "suhu": "25 - 29 °C",
-    "kelembapan": "70 - 95%"
+    "suhu": "24 - 31 °C",
+    "kelembapan": "65 - 95%"
   },
   {
     "kota": "Polewali Mandar",
@@ -62,7 +62,7 @@
       "dini_hari": "Hujan Sedang",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png"
     },
-    "suhu": "24 - 29 °C",
-    "kelembapan": "75 - 90%"
+    "suhu": "25 - 31 °C",
+    "kelembapan": "65 - 95%"
   }
 ]

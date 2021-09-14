@@ -61,18 +61,14 @@
   },
   {
     "waktu": "08:30WIB",
-    "acara": "T.O.T.S."
+    "acara": "The Chicken Squad"
   },
   {
     "waktu": "09:00WIB",
-    "acara": "Bluey"
+    "acara": "Spidey And His Amazing Friends"
   },
   {
-    "waktu": "09:30WIB",
-    "acara": "Elena Of Avalor"
-  },
-  {
-    "waktu": "10:00WIB",
+    "waktu": "10:15WIB",
     "acara": "Doc McStuffins"
   },
   {
@@ -198,5 +194,9 @@
   {
     "waktu": "21:24WIB",
     "acara": "Bluey"
+  },
+  {
+    "waktu": "21:48WIB",
+    "acara": "Puppy Dog Pals"
   }
 ]

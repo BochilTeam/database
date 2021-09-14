@@ -1,15 +1,15 @@
 [
   {
     "waktu": "00:00WIB",
-    "acara": "Rabbids Invasion"
+    "acara": "Kung Fu Panda: Awesomeness"
   },
   {
     "waktu": "00:20WIB",
-    "acara": "Rabbids Invasion"
+    "acara": "Kung Fu Panda: Awesomeness"
   },
   {
     "waktu": "00:40WIB",
-    "acara": "Rabbids Invasion"
+    "acara": "Kung Fu Panda: Awesomeness"
   },
   {
     "waktu": "01:00WIB",
@@ -81,6 +81,10 @@
   },
   {
     "waktu": "07:00WIB",
+    "acara": "PAW Patrol"
+  },
+  {
+    "waktu": "07:15WIB",
     "acara": "PAW Patrol"
   },
   {
@@ -194,9 +198,5 @@
   {
     "waktu": "15:45WIB",
     "acara": "SpongeBob SquarePants"
-  },
-  {
-    "waktu": "16:00WIB",
-    "acara": "The Loud House"
   }
 ]

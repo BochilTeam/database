@@ -33,11 +33,11 @@
       "acara": "Shiva"
     },
     {
-      "waktu": "07:00WIB",
-      "acara": "Sheikh Chilli & Friendz"
+      "waktu": "07:30WIB",
+      "acara": "Si AA"
     },
     {
-      "waktu": "07:30WIB",
+      "waktu": "08:00WIB",
       "acara": "Untaian Hikmah"
     },
     {
@@ -49,20 +49,20 @@
       "acara": "Uttaran"
     },
     {
-      "waktu": "13:30WIB",
+      "waktu": "14:00WIB",
       "acara": "Balika Vadhu"
     },
     {
-      "waktu": "16:15WIB",
+      "waktu": "16:00WIB",
       "acara": "Terpaksa Menikahi Tuan Muda"
     },
     {
-      "waktu": "18:00WIB",
+      "waktu": "18:30WIB",
       "acara": "Berbagi Suami"
     },
     {
-      "waktu": "20:00WIB",
-      "acara": "Rumah Kentang: The Beginning"
+      "waktu": "20:30WIB",
+      "acara": "Ratu Ilmu Hitam"
     },
     {
       "waktu": "22:00WIB",
@@ -72,18 +72,22 @@
   "GTV": [
     {
       "waktu": "00:30WIB",
-      "acara": "Gerebek"
+      "acara": "Maria Mercedes"
     },
     {
       "waktu": "01:00WIB",
       "acara": "MSHOP"
     },
     {
-      "waktu": "01:30WIB",
+      "waktu": "02:00WIB",
+      "acara": "Gerebek"
+    },
+    {
+      "waktu": "02:30WIB",
       "acara": "Buletin iNews Malam"
     },
     {
-      "waktu": "02:00WIB",
+      "waktu": "03:00WIB",
       "acara": "Super Deal Indonesia"
     },
     {
@@ -96,11 +100,11 @@
     },
     {
       "waktu": "06:00WIB",
-      "acara": "Zak Storm"
+      "acara": "Backstreet Boys 1/2 Hati"
     },
     {
-      "waktu": "06:30WIB",
-      "acara": "Sule Pulang Haji Dapet Jodoh"
+      "waktu": "08:00WIB",
+      "acara": "Zak Storm"
     },
     {
       "waktu": "08:30WIB",
@@ -128,10 +132,10 @@
     },
     {
       "waktu": "17:00WIB",
-      "acara": "Kisah Viral"
+      "acara": "Makan Kuy!"
     },
     {
-      "waktu": "19:00WIB",
+      "waktu": "18:00WIB",
       "acara": "Kisah Viral"
     },
     {
@@ -139,15 +143,23 @@
       "acara": "Legenda Sang Penunggu"
     },
     {
+      "waktu": "21:00WIB",
+      "acara": "Razia"
+    },
+    {
       "waktu": "22:00WIB",
-      "acara": "Mikrofon Impian"
+      "acara": "The Chronicles Of Riddick"
     },
     {
       "waktu": "23:30WIB",
-      "acara": "Maria Mercedes"
+      "acara": "Tantangan 4 Elemen"
     }
   ],
   "INDOSIAR": [
+    {
+      "waktu": "00:30WIB",
+      "acara": "Asian Senior Men's Volleyball C'ship"
+    },
     {
       "waktu": "02:30WIB",
       "acara": "Patroli Malam"
@@ -159,10 +171,6 @@
     {
       "waktu": "03:30WIB",
       "acara": "Mamah Dan Aa Beraksi"
-    },
-    {
-      "waktu": "04:00WIB",
-      "acara": "Mukzizat Itu Nyata"
     },
     {
       "waktu": "04:30WIB",
@@ -177,12 +185,8 @@
       "acara": "Pintu Berkah"
     },
     {
-      "waktu": "08:30WIB",
-      "acara": "Pengajian Dan Siraman #takdircintaleslar"
-    },
-    {
       "waktu": "09:00WIB",
-      "acara": "Hot Kiss"
+      "acara": "Kiss Pagi"
     },
     {
       "waktu": "10:30WIB",
@@ -194,7 +198,7 @@
     },
     {
       "waktu": "11:30WIB",
-      "acara": "Mantan Suami Istriku Masih Mengejar Istriku"
+      "acara": "AKU SALAH MENILAI ISTRIKU"
     },
     {
       "waktu": "13:30WIB",
@@ -202,19 +206,19 @@
     },
     {
       "waktu": "15:00WIB",
-      "acara": "Turun Ranjang Membuat Pernikahan Penuh Derita Panjang"
+      "acara": "SUAMIKU HANYA MENCINTAI DIRINYA SENDIRI"
     },
     {
       "waktu": "16:30WIB",
-      "acara": "Nur"
+      "acara": "Suara Hati Kayla"
     },
     {
       "waktu": "18:30WIB",
-      "acara": "Anjani"
+      "acara": "Suara Hati Anjani"
     },
     {
       "waktu": "20:30WIB",
-      "acara": "Bintang Pantura 6 Panggung Pilih-Pilih"
+      "acara": "Bintang Pantura 6"
     }
   ],
   "INEWS TV": [
@@ -228,10 +232,6 @@
     },
     {
       "waktu": "01:00WIB",
-      "acara": "New Top Files"
-    },
-    {
-      "waktu": "01:30WIB",
       "acara": "ONE FC"
     },
     {
@@ -280,11 +280,15 @@
     },
     {
       "waktu": "09:00WIB",
-      "acara": "Morning Update (L)"
+      "acara": "Morning Update"
     },
     {
       "waktu": "10:00WIB",
-      "acara": "Police Line"
+      "acara": "Di Luar Nalar"
+    },
+    {
+      "waktu": "10:30WIB",
+      "acara": "OMG"
     },
     {
       "waktu": "11:00WIB",
@@ -328,11 +332,7 @@
     },
     {
       "waktu": "21:00WIB",
-      "acara": "Police Story"
-    },
-    {
-      "waktu": "21:30WIB",
-      "acara": "Indonesia Border"
+      "acara": "Di Luar Nalar"
     },
     {
       "waktu": "22:00WIB",
@@ -346,7 +346,7 @@
   "KOMPAS TV": [
     {
       "waktu": "00:00WIB",
-      "acara": "Berita Utama"
+      "acara": "Update Korona"
     },
     {
       "waktu": "01:00WIB",
@@ -358,7 +358,7 @@
     },
     {
       "waktu": "02:00WIB",
-      "acara": "Kompas Malam Spesial Merdeka Dari Pandemi"
+      "acara": "Kompas Malam"
     },
     {
       "waktu": "03:00WIB",
@@ -366,7 +366,7 @@
     },
     {
       "waktu": "03:30WIB",
-      "acara": "Jejak Rasul"
+      "acara": "Kalam Hati"
     },
     {
       "waktu": "04:00WIB",
@@ -422,7 +422,7 @@
     },
     {
       "waktu": "20:00WIB",
-      "acara": "Satu Meja The Forum"
+      "acara": "B-Talk"
     },
     {
       "waktu": "21:00WIB",
@@ -430,11 +430,11 @@
     },
     {
       "waktu": "22:00WIB",
-      "acara": "Target"
+      "acara": "Laporan Khusus"
     },
     {
       "waktu": "22:30WIB",
-      "acara": "News Or Hoax"
+      "acara": "Berkas Kompas"
     },
     {
       "waktu": "23:00WIB",
@@ -448,6 +448,10 @@
     },
     {
       "waktu": "00:05WIB",
+      "acara": "Melawan Lupa"
+    },
+    {
+      "waktu": "00:30WIB",
       "acara": "Prime Time News"
     },
     {
@@ -456,7 +460,7 @@
     },
     {
       "waktu": "01:05WIB",
-      "acara": "Prime Talk"
+      "acara": "Prime Time News"
     },
     {
       "waktu": "02:00WIB",
@@ -472,7 +476,11 @@
     },
     {
       "waktu": "03:05WIB",
-      "acara": "Economic Challenges"
+      "acara": "Indonesia Town Hall"
+    },
+    {
+      "waktu": "03:30WIB",
+      "acara": "Indonesia Town Hall"
     },
     {
       "waktu": "04:00WIB",
@@ -623,10 +631,6 @@
       "acara": "Prime Time News"
     },
     {
-      "waktu": "18:45WIB",
-      "acara": "15 Minutes"
-    },
-    {
       "waktu": "19:00WIB",
       "acara": "Headline News"
     },
@@ -640,7 +644,7 @@
     },
     {
       "waktu": "20:05WIB",
-      "acara": "Hotman And Friends"
+      "acara": "Economic Challenges"
     },
     {
       "waktu": "21:00WIB",
@@ -648,7 +652,11 @@
     },
     {
       "waktu": "21:05WIB",
-      "acara": "Hotman And Friends"
+      "acara": "Top News"
+    },
+    {
+      "waktu": "21:30WIB",
+      "acara": "Top News"
     },
     {
       "waktu": "22:00WIB",
@@ -656,7 +664,7 @@
     },
     {
       "waktu": "22:05WIB",
-      "acara": "Top News"
+      "acara": "Melihat Indonesia"
     },
     {
       "waktu": "22:30WIB",
@@ -780,7 +788,7 @@
     },
     {
       "waktu": "03:00WIB",
-      "acara": "Waktu Indonesia Bercanda"
+      "acara": "Waktu Indonesia Timur"
     },
     {
       "waktu": "04:00WIB",
@@ -788,15 +796,15 @@
     },
     {
       "waktu": "05:00WIB",
-      "acara": "Net. Family"
+      "acara": "Hafiz & Hafizah"
     },
     {
       "waktu": "05:30WIB",
-      "acara": "Net Mania: Hello Jadoo New Season"
+      "acara": "Hello Jadoo"
     },
     {
       "waktu": "07:00WIB",
-      "acara": "Net Family: Digimon Universe App Monsters"
+      "acara": "Digimon Universe App Monster"
     },
     {
       "waktu": "09:00WIB",
@@ -820,19 +828,19 @@
     },
     {
       "waktu": "12:30WIB",
-      "acara": "Net Family: PotenDogs"
+      "acara": "PotenDogs"
     },
     {
       "waktu": "13:30WIB",
-      "acara": "Net Family: Detective Conan"
+      "acara": "Detective Conan"
     },
     {
       "waktu": "15:00WIB",
       "acara": "Shinbi's House"
     },
     {
-      "waktu": "16:45WIB",
-      "acara": "Net: Drakor Daebak"
+      "waktu": "17:00WIB",
+      "acara": "Net. Drakor Daebak"
     },
     {
       "waktu": "18:00WIB",
@@ -844,7 +852,7 @@
     },
     {
       "waktu": "20:00WIB",
-      "acara": "Net Turkish: Kurulus Osman"
+      "acara": "Kurulus: Osman"
     },
     {
       "waktu": "21:00WIB",
@@ -862,15 +870,15 @@
   "OCHANNEL": [
     {
       "waktu": "00:00WIB",
-      "acara": "Volleyball Tokyo Olympic"
+      "acara": "BRI Liga 1"
     },
     {
-      "waktu": "02:00WIB",
-      "acara": "Karnaval Inbox"
+      "waktu": "01:30WIB",
+      "acara": "21st Asian Sr.Mens Volleyball"
     },
     {
-      "waktu": "04:00WIB",
-      "acara": "Potret"
+      "waktu": "03:03WIB",
+      "acara": "One C'ship"
     },
     {
       "waktu": "04:30WIB",
@@ -889,16 +897,12 @@
       "acara": "Inbox"
     },
     {
-      "waktu": "07:00WIB",
-      "acara": "Tokyo Paralympics 2020 Live"
-    },
-    {
       "waktu": "08:00WIB",
-      "acara": "PROAKTIF"
+      "acara": "Robot Trading"
     },
     {
-      "waktu": "08:30WIB",
-      "acara": "Tokyo Paralympics 2020 Live"
+      "waktu": "09:00WIB",
+      "acara": "PROAKTIF"
     },
     {
       "waktu": "09:30WIB",
@@ -906,7 +910,7 @@
     },
     {
       "waktu": "11:00WIB",
-      "acara": "O Shop"
+      "acara": "Indo Travelogue"
     },
     {
       "waktu": "11:30WIB",
@@ -914,7 +918,11 @@
     },
     {
       "waktu": "13:00WIB",
-      "acara": "Pilihan: Cinta Bersemi Di Putih Abu-Abu"
+      "acara": "Tastimony"
+    },
+    {
+      "waktu": "13:30WIB",
+      "acara": "Lutuna"
     },
     {
       "waktu": "14:00WIB",
@@ -926,11 +934,15 @@
     },
     {
       "waktu": "16:00WIB",
-      "acara": "Tokyo Paralympics 2020 Live"
+      "acara": "Jalan - Jalan"
+    },
+    {
+      "waktu": "16:30WIB",
+      "acara": "Food Adventure"
     },
     {
       "waktu": "17:00WIB",
-      "acara": "PROAKTIF"
+      "acara": "O Shop"
     },
     {
       "waktu": "17:30WIB",
@@ -942,23 +954,23 @@
     },
     {
       "waktu": "18:30WIB",
-      "acara": "Tokyo Paralympics 2020 Live"
-    },
-    {
-      "waktu": "20:00WIB",
       "acara": "O Channel Today"
     },
     {
-      "waktu": "20:30WIB",
-      "acara": "Nobar Di O Channel"
+      "waktu": "19:00WIB",
+      "acara": "Youth League Live"
     },
     {
-      "waktu": "22:30WIB",
-      "acara": "Loveless"
+      "waktu": "21:00WIB",
+      "acara": "Youth League Live"
     },
     {
       "waktu": "23:00WIB",
-      "acara": "One C'ship"
+      "acara": "Loveless"
+    },
+    {
+      "waktu": "23:30WIB",
+      "acara": "BRI Liga 1"
     }
   ],
   "RCTI": [
@@ -967,12 +979,8 @@
       "acara": "FILM TENGAH MALAM"
     },
     {
-      "waktu": "03:00WIB",
-      "acara": "KOPLAK"
-    },
-    {
       "waktu": "03:30WIB",
-      "acara": "KULTUM"
+      "acara": "PENYEGARAN ROHANI HINDU"
     },
     {
       "waktu": "04:00WIB",
@@ -1007,11 +1015,7 @@
       "acara": "LDI SIANG"
     },
     {
-      "waktu": "14:00WIB",
-      "acara": "LDI SIANG - 1"
-    },
-    {
-      "waktu": "15:15WIB",
+      "waktu": "14:45WIB",
       "acara": "PREMAN PENSIUN (RR)"
     },
     {
@@ -1019,7 +1023,7 @@
       "acara": "TUKANG OJEK PENGKOLAN"
     },
     {
-      "waktu": "18:00WIB",
+      "waktu": "17:45WIB",
       "acara": "PUTRI UNTUK PANGERAN"
     },
     {
@@ -1037,6 +1041,10 @@
   ],
   "RTV": [
     {
+      "waktu": "00:00WIB",
+      "acara": "Semangat Hidup"
+    },
+    {
       "waktu": "00:30WIB",
       "acara": "Lensa Indonesia Malam"
     },
@@ -1045,12 +1053,8 @@
       "acara": "Cermin Hati"
     },
     {
-      "waktu": "01:30WIB",
-      "acara": "Cermin Hati"
-    },
-    {
       "waktu": "02:00WIB",
-      "acara": "Mega Klasik"
+      "acara": "Mega Indonesia"
     },
     {
       "waktu": "03:00WIB",
@@ -1078,7 +1082,7 @@
     },
     {
       "waktu": "07:30WIB",
-      "acara": "Space Cops"
+      "acara": "Go Go Bus"
     },
     {
       "waktu": "08:30WIB",
@@ -1086,6 +1090,10 @@
     },
     {
       "waktu": "09:00WIB",
+      "acara": "Caca Marica"
+    },
+    {
+      "waktu": "09:30WIB",
       "acara": "Sinema Ceria"
     },
     {
@@ -1106,27 +1114,31 @@
     },
     {
       "waktu": "14:00WIB",
-      "acara": "Adit Sopo Jarwo Siang"
+      "acara": "Sinema Keluarga"
     },
     {
-      "waktu": "15:30WIB",
-      "acara": "Omar & Hana"
+      "waktu": "15:00WIB",
+      "acara": "Sinema Keluarga"
+    },
+    {
+      "waktu": "16:00WIB",
+      "acara": "Sinema Keluarga"
     },
     {
       "waktu": "16:30WIB",
-      "acara": "Tobot Galaxy Swag's Secret"
+      "acara": "Sinema Keluarga"
     },
     {
       "waktu": "17:30WIB",
-      "acara": "Riko The Series"
+      "acara": "Sinema Keluarga"
     },
     {
       "waktu": "18:00WIB",
-      "acara": "Boboiboy"
+      "acara": "Sinema Keluarga"
     },
     {
       "waktu": "19:30WIB",
-      "acara": "Adit Sopo Jarwo"
+      "acara": "Sinema Keluarga"
     },
     {
       "waktu": "21:00WIB",
@@ -1138,25 +1150,21 @@
     },
     {
       "waktu": "23:00WIB",
-      "acara": "Sportivi"
-    },
-    {
-      "waktu": "23:30WIB",
-      "acara": "Mega Indonesia"
+      "acara": "Turn Back Crime"
     }
   ],
   "SCTV": [
     {
-      "waktu": "01:00WIB",
-      "acara": "Sinema Malam"
+      "waktu": "01:15WIB",
+      "acara": "Solusi"
     },
     {
-      "waktu": "02:15WIB",
-      "acara": "Sinema Dini Hari"
+      "waktu": "01:45WIB",
+      "acara": "Premier League Review"
     },
     {
-      "waktu": "03:30WIB",
-      "acara": "Sinetron Dini Hari"
+      "waktu": "02:45WIB",
+      "acara": "Lina Pergi Lana Menanti"
     },
     {
       "waktu": "04:00WIB",
@@ -1172,7 +1180,7 @@
     },
     {
       "waktu": "06:30WIB",
-      "acara": "Halo Selebriti"
+      "acara": "Status Selebriti"
     },
     {
       "waktu": "07:30WIB",
@@ -1187,7 +1195,7 @@
       "acara": "Liputan 6 Siang"
     },
     {
-      "waktu": "12:30WIB",
+      "waktu": "12:00WIB",
       "acara": "FTV Siang"
     },
     {
@@ -1195,7 +1203,7 @@
       "acara": "Cinta Amara"
     },
     {
-      "waktu": "15:15WIB",
+      "waktu": "15:30WIB",
       "acara": "Love Story The Series"
     },
     {
@@ -1212,29 +1220,29 @@
     },
     {
       "waktu": "23:30WIB",
-      "acara": "FTV Prime Time"
+      "acara": "UEFA Champions League"
     }
   ],
   "TRANS7": [
     {
       "waktu": "00:15WIB",
-      "acara": "No Mercy"
+      "acara": "Kera Sakti"
     },
     {
-      "waktu": "02:15WIB",
+      "waktu": "01:15WIB",
+      "acara": "Asura: The City Of Madness"
+    },
+    {
+      "waktu": "03:00WIB",
       "acara": "Indonesia Lawak Club"
     },
     {
-      "waktu": "03:30WIB",
-      "acara": "Ups Salah"
-    },
-    {
-      "waktu": "04:00WIB",
+      "waktu": "04:30WIB",
       "acara": "Super Tawa"
     },
     {
-      "waktu": "04:30WIB",
-      "acara": "Apa Kata Dunia"
+      "waktu": "05:00WIB",
+      "acara": "Ojol Story"
     },
     {
       "waktu": "05:30WIB",
@@ -1266,11 +1274,11 @@
     },
     {
       "waktu": "10:30WIB",
-      "acara": "Selebrita Siang"
+      "acara": "Warga +62"
     },
     {
       "waktu": "11:00WIB",
-      "acara": "Warga +62"
+      "acara": "Selebrita Siang"
     },
     {
       "waktu": "11:30WIB",
@@ -1318,7 +1326,11 @@
     },
     {
       "waktu": "20:00WIB",
-      "acara": "Mata Najwa"
+      "acara": "Misteri Dunia"
+    },
+    {
+      "waktu": "20:30WIB",
+      "acara": "Opera Van Java"
     },
     {
       "waktu": "21:30WIB",
@@ -1334,7 +1346,7 @@
     },
     {
       "waktu": "23:45WIB",
-      "acara": "Sport 7"
+      "acara": "Sport7"
     }
   ],
   "TRANSTV": [
@@ -1414,7 +1426,11 @@
   "TVONE": [
     {
       "waktu": "00:00WIB",
-      "acara": "Kabar Dunia"
+      "acara": "Ragam Perkara"
+    },
+    {
+      "waktu": "00:30WIB",
+      "acara": "Spektakuler"
     },
     {
       "waktu": "01:00WIB",
@@ -1422,15 +1438,15 @@
     },
     {
       "waktu": "02:00WIB",
-      "acara": "Tantangan Hidup"
+      "acara": "Selera Asal"
     },
     {
       "waktu": "02:30WIB",
-      "acara": "Reka Ulang"
+      "acara": "Kabar Utama"
     },
     {
       "waktu": "03:00WIB",
-      "acara": "Kabar Utama"
+      "acara": "Kabar Hari Ini"
     },
     {
       "waktu": "03:30WIB",
@@ -1442,7 +1458,7 @@
     },
     {
       "waktu": "04:30WIB",
-      "acara": "Kabar Pagi (L)"
+      "acara": "Kabar Pagi"
     },
     {
       "waktu": "06:00WIB",
@@ -1462,7 +1478,7 @@
     },
     {
       "waktu": "10:00WIB",
-      "acara": "Coffee Break"
+      "acara": "Spotakuler"
     },
     {
       "waktu": "10:30WIB",
@@ -1474,7 +1490,7 @@
     },
     {
       "waktu": "13:00WIB",
-      "acara": "Spetakuler"
+      "acara": "Spektakuler"
     },
     {
       "waktu": "13:30WIB",
@@ -1483,6 +1499,10 @@
     {
       "waktu": "14:00WIB",
       "acara": "Damai Indonesiaku"
+    },
+    {
+      "waktu": "15:00WIB",
+      "acara": "Kabar Pasar Sore"
     },
     {
       "waktu": "15:30WIB",
@@ -1502,22 +1522,22 @@
     },
     {
       "waktu": "20:00WIB",
-      "acara": "Indonesia Business Forum"
+      "acara": "Catatan Demokrasi"
     },
     {
-      "waktu": "21:00WIB",
+      "waktu": "21:30WIB",
       "acara": "Kabar Utama"
     },
     {
       "waktu": "22:00WIB",
-      "acara": "Indonesia Dalam Peristiwa"
+      "acara": "Buru Sergap"
     },
     {
       "waktu": "22:30WIB",
       "acara": "Kabar Hari Ini"
     },
     {
-      "waktu": "23:00WIB",
+      "waktu": "23:30WIB",
       "acara": "Kabar Arena"
     }
   ],
@@ -1560,7 +1580,7 @@
     },
     {
       "waktu": "09:03WIB",
-      "acara": "Arena 123"
+      "acara": "Anak Indonesia"
     },
     {
       "waktu": "09:30WIB",
@@ -1588,11 +1608,11 @@
     },
     {
       "waktu": "13:00WIB",
-      "acara": "Kominfo"
+      "acara": "Feature Lkbn Antara"
     },
     {
       "waktu": "13:30WIB",
-      "acara": "Kemendes"
+      "acara": "Jurnal Ekonomi"
     },
     {
       "waktu": "14:00WIB",
@@ -1628,11 +1648,11 @@
     },
     {
       "waktu": "19:00WIB",
-      "acara": "Forum Fristian"
+      "acara": "Indonesia Bicara"
     },
     {
-      "waktu": "20:30WIB",
-      "acara": "Bangga Buatan Indonesia"
+      "waktu": "20:00WIB",
+      "acara": "Paten"
     },
     {
       "waktu": "21:00WIB",

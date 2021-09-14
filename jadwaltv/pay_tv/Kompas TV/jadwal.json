@@ -4,6 +4,10 @@
     "acara": "Kompas TV"
   },
   {
+    "waktu": "00:30WIB",
+    "acara": "Kompas TV"
+  },
+  {
     "waktu": "01:00WIB",
     "acara": "Kompas TV"
   },
@@ -16,7 +20,7 @@
     "acara": "Kompas TV"
   },
   {
-    "waktu": "03:00WIB",
+    "waktu": "02:30WIB",
     "acara": "Kompas TV"
   },
   {
@@ -68,10 +72,6 @@
     "acara": "Kompas TV"
   },
   {
-    "waktu": "15:30WIB",
-    "acara": "Kompas TV"
-  },
-  {
     "waktu": "16:00WIB",
     "acara": "Kompas TV"
   },
@@ -93,10 +93,6 @@
   },
   {
     "waktu": "22:00WIB",
-    "acara": "Kompas TV"
-  },
-  {
-    "waktu": "22:30WIB",
     "acara": "Kompas TV"
   },
   {

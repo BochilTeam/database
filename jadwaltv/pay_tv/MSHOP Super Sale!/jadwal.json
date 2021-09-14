@@ -1,7 +1,7 @@
 [
   {
     "waktu": "00:00WIB",
-    "acara": "Jawara"
+    "acara": "X-Men Herbal"
   },
   {
     "waktu": "00:30WIB",
@@ -13,7 +13,7 @@
   },
   {
     "waktu": "01:30WIB",
-    "acara": "Jawara"
+    "acara": "X-Men Herbal"
   },
   {
     "waktu": "02:00WIB",
@@ -49,115 +49,115 @@
   },
   {
     "waktu": "06:00WIB",
-    "acara": "Electrolux"
+    "acara": "Klin Master"
   },
   {
     "waktu": "06:30WIB",
-    "acara": "Intex Rest Raised Airbed"
+    "acara": "Lock N Lock Low Carbo"
   },
   {
     "waktu": "07:00WIB",
-    "acara": "Lock N Lock Low Carbo"
+    "acara": "Al-Attar Jade Matras"
   },
   {
     "waktu": "07:30WIB",
-    "acara": "Al-Attar Health Necklace"
+    "acara": "Lock N Lock Multi Air Fryer"
   },
   {
     "waktu": "08:00WIB",
-    "acara": "Lock N Lock Low Carbo"
+    "acara": "Al-Attar Health Necklace"
   },
   {
     "waktu": "08:30WIB",
-    "acara": "Klin Master"
-  },
-  {
-    "waktu": "09:00WIB",
-    "acara": "Lock N Lock Multi Air Fryer"
-  },
-  {
-    "waktu": "09:30WIB",
-    "acara": "Jetz Scalar Energy"
-  },
-  {
-    "waktu": "10:00WIB",
-    "acara": "Home & Home Air Fryer"
-  },
-  {
-    "waktu": "10:30WIB",
-    "acara": "Al-Attar Jade Matras"
-  },
-  {
-    "waktu": "11:00WIB",
-    "acara": "Rolens All Gold"
-  },
-  {
-    "waktu": "11:30WIB",
-    "acara": "Al-Attar Jade Matras"
-  },
-  {
-    "waktu": "12:00WIB",
-    "acara": "Niko Kompor Hybrid"
-  },
-  {
-    "waktu": "12:30WIB",
-    "acara": "Steam Sauna"
-  },
-  {
-    "waktu": "13:00WIB",
-    "acara": "Lock N Lock Multi Air Fryer"
-  },
-  {
-    "waktu": "13:30WIB",
-    "acara": "Blankenheim Shoes"
-  },
-  {
-    "waktu": "14:00WIB",
-    "acara": "Lock N Lock Multi Air Fryer"
-  },
-  {
-    "waktu": "14:30WIB",
-    "acara": "Green Fit Chlorophyll"
-  },
-  {
-    "waktu": "15:00WIB",
-    "acara": "Intex Rest Raised Airbed"
-  },
-  {
-    "waktu": "15:30WIB",
-    "acara": "Al-Attar Health Necklace"
-  },
-  {
-    "waktu": "16:00WIB",
-    "acara": "Electrolux"
-  },
-  {
-    "waktu": "16:30WIB",
-    "acara": "Klin Master"
-  },
-  {
-    "waktu": "17:00WIB",
-    "acara": "IMO-100"
-  },
-  {
-    "waktu": "17:30WIB",
     "acara": "Lock N Lock Low Carbo"
   },
   {
-    "waktu": "18:00WIB",
+    "waktu": "09:00WIB",
     "acara": "Jetz Scalar Energy"
   },
   {
-    "waktu": "18:30WIB",
+    "waktu": "09:30WIB",
+    "acara": "Lock N Lock Multi Air Fryer"
+  },
+  {
+    "waktu": "10:00WIB",
+    "acara": "Al-Attar Jade Matras"
+  },
+  {
+    "waktu": "10:30WIB",
+    "acara": "Niko Kompor Hybrid"
+  },
+  {
+    "waktu": "11:00WIB",
+    "acara": "Steam Sauna"
+  },
+  {
+    "waktu": "11:30WIB",
+    "acara": "Lock N Lock Multi Air Fryer"
+  },
+  {
+    "waktu": "12:00WIB",
+    "acara": "Blankenheim Shoes"
+  },
+  {
+    "waktu": "12:30WIB",
+    "acara": "Electrolux"
+  },
+  {
+    "waktu": "13:00WIB",
     "acara": "Intex Rest Raised Airbed"
   },
   {
-    "waktu": "19:00WIB",
+    "waktu": "13:30WIB",
+    "acara": "Enter Elektronik"
+  },
+  {
+    "waktu": "14:00WIB",
+    "acara": "Jetz Scalar Energy"
+  },
+  {
+    "waktu": "14:30WIB",
+    "acara": "Intex Rest Raised Airbed"
+  },
+  {
+    "waktu": "15:00WIB",
     "acara": "Al-Attar Health Necklace"
   },
   {
-    "waktu": "19:30WIB",
+    "waktu": "15:30WIB",
     "acara": "Lock N Lock Kompor Induksi"
+  },
+  {
+    "waktu": "16:00WIB",
+    "acara": "Green Fit Chlorophyll"
+  },
+  {
+    "waktu": "16:30WIB",
+    "acara": "Intex Rest Raised Airbed"
+  },
+  {
+    "waktu": "17:00WIB",
+    "acara": "Al-Attar Health Necklace"
+  },
+  {
+    "waktu": "17:30WIB",
+    "acara": "Electrolux"
+  },
+  {
+    "waktu": "18:00WIB",
+    "acara": "Rolens All Gold"
+  },
+  {
+    "waktu": "18:30WIB",
+    "acara": "Home & Home Air Fryer"
+  },
+  {
+    "waktu": "19:00WIB",
+    "acara": "Klin Master"
+  },
+  {
+    "waktu": "19:30WIB",
+    "acara": "Jetz Scalar Energy"
   },
   {
     "waktu": "20:00WIB",
@@ -165,7 +165,7 @@
   },
   {
     "waktu": "20:15WIB",
-    "acara": "Zeus Underwear"
+    "acara": "IMO-100"
   },
   {
     "waktu": "20:45WIB",
@@ -173,7 +173,7 @@
   },
   {
     "waktu": "21:00WIB",
-    "acara": "King Al-Attar"
+    "acara": "X-Men Herbal"
   },
   {
     "waktu": "21:30WIB",
@@ -181,18 +181,18 @@
   },
   {
     "waktu": "22:00WIB",
-    "acara": "Jetz Scalar Energy"
+    "acara": "King Al-Attar"
   },
   {
     "waktu": "22:30WIB",
-    "acara": "Jawara"
-  },
-  {
-    "waktu": "23:00WIB",
     "acara": "X-Men Herbal"
   },
   {
-    "waktu": "23:30WIB",
+    "waktu": "23:00WIB",
     "acara": "King Al-Attar"
+  },
+  {
+    "waktu": "23:30WIB",
+    "acara": "Zeus Underwear"
   }
 ]

@@ -1,52 +1,52 @@
 {
   "ANTV": [
     {
-      "waktu": "12:30WIB",
-      "acara": "Uttaran"
+      "waktu": "14:00WIB",
+      "acara": "Balika Vadhu"
     },
     {
-      "waktu": "13:30WIB",
-      "acara": "Balika Vadhu"
+      "waktu": "16:00WIB",
+      "acara": "Terpaksa Menikahi Tuan Muda"
     }
   ],
   "GTV": [
     {
-      "waktu": "12:30WIB",
+      "waktu": "14:30WIB",
       "acara": "SpongeBob SquarePants Movie"
     },
     {
-      "waktu": "14:30WIB",
-      "acara": "SpongeBob SquarePants Movie"
+      "waktu": "17:00WIB",
+      "acara": "Makan Kuy!"
     }
   ],
   "INDOSIAR": [
     {
-      "waktu": "11:30WIB",
-      "acara": "Mantan Suami Istriku Masih Mengejar Istriku"
-    },
-    {
       "waktu": "13:30WIB",
       "acara": "Pintu Berkah Siang"
+    },
+    {
+      "waktu": "15:00WIB",
+      "acara": "SUAMIKU HANYA MENCINTAI DIRINYA SENDIRI"
     }
   ],
   "INEWS TV": [
     {
-      "waktu": "13:00WIB",
-      "acara": "Monitor"
+      "waktu": "14:15WIB",
+      "acara": "iSeleb (L)"
     },
     {
-      "waktu": "13:30WIB",
-      "acara": "Intens Reborn (L)"
+      "waktu": "15:00WIB",
+      "acara": "Realita (L)"
     }
   ],
   "KOMPAS TV": [
     {
-      "waktu": "13:00WIB",
-      "acara": "Sapa Indonesia Siang"
+      "waktu": "14:30WIB",
+      "acara": "Saksi Kunci"
     },
     {
-      "waktu": "14:00WIB",
-      "acara": "Zona Inspirasi"
+      "waktu": "15:00WIB",
+      "acara": "Update Korona"
     }
   ],
   "METRO TV": [
@@ -57,31 +57,31 @@
   ],
   "MNCTV": [
     {
-      "waktu": "13:00WIB",
-      "acara": "UPIN IPIN"
-    },
-    {
       "waktu": "14:00WIB",
       "acara": "SERIAL PILIHAN SIANG"
+    },
+    {
+      "waktu": "15:15WIB",
+      "acara": "1"
     }
   ],
   "NET TV": [
     {
-      "waktu": "12:30WIB",
-      "acara": "Net Family: PotenDogs"
+      "waktu": "13:30WIB",
+      "acara": "Detective Conan"
     },
     {
-      "waktu": "13:30WIB",
-      "acara": "Net Family: Detective Conan"
+      "waktu": "15:00WIB",
+      "acara": "Shinbi's House"
     }
   ],
   "OCHANNEL": [
     {
-      "waktu": "13:00WIB",
-      "acara": "Pilihan: Cinta Bersemi Di Putih Abu-Abu"
+      "waktu": "14:00WIB",
+      "acara": "O Shop"
     },
     {
-      "waktu": "14:00WIB",
+      "waktu": "15:00WIB",
       "acara": "O Shop"
     }
   ],
@@ -91,68 +91,68 @@
       "acara": "LDI SIANG"
     },
     {
-      "waktu": "14:00WIB",
-      "acara": "LDI SIANG - 1"
+      "waktu": "14:45WIB",
+      "acara": "PREMAN PENSIUN (RR)"
     }
   ],
   "RTV": [
     {
-      "waktu": "13:00WIB",
-      "acara": "Mega Hero"
+      "waktu": "14:00WIB",
+      "acara": "Sinema Keluarga"
     },
     {
-      "waktu": "14:00WIB",
-      "acara": "Adit Sopo Jarwo Siang"
+      "waktu": "15:00WIB",
+      "acara": "Sinema Keluarga"
     }
   ],
   "SCTV": [
     {
-      "waktu": "12:30WIB",
-      "acara": "FTV Siang"
-    },
-    {
       "waktu": "14:15WIB",
       "acara": "Cinta Amara"
+    },
+    {
+      "waktu": "15:30WIB",
+      "acara": "Love Story The Series"
     }
   ],
   "TRANS7": [
     {
-      "waktu": "13:00WIB",
-      "acara": "Si Otan"
+      "waktu": "14:15WIB",
+      "acara": "Redaksi"
     },
     {
-      "waktu": "13:30WIB",
-      "acara": "Jejak Petualang"
+      "waktu": "15:15WIB",
+      "acara": "Jejak Si Gundul"
     }
   ],
   "TRANSTV": [
     {
-      "waktu": "12:30WIB",
-      "acara": "Brownis - Obrowlan Manis"
-    },
-    {
       "waktu": "14:00WIB",
       "acara": "Rumpi No Secret"
+    },
+    {
+      "waktu": "15:00WIB",
+      "acara": "Insert Today"
     }
   ],
   "TVONE": [
     {
-      "waktu": "13:00WIB",
-      "acara": "Spetakuler"
+      "waktu": "14:00WIB",
+      "acara": "Damai Indonesiaku"
     },
     {
-      "waktu": "13:30WIB",
-      "acara": "Manusia Nusantara"
+      "waktu": "15:00WIB",
+      "acara": "Kabar Pasar Sore"
     }
   ],
   "TVRI": [
     {
-      "waktu": "13:00WIB",
-      "acara": "Kominfo"
+      "waktu": "14:03WIB",
+      "acara": "Musik"
     },
     {
-      "waktu": "13:30WIB",
-      "acara": "Kemendes"
+      "waktu": "15:00WIB",
+      "acara": "Mimbar Agama"
     }
   ]
 }

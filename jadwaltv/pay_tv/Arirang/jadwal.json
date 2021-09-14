@@ -9,7 +9,7 @@
   },
   {
     "waktu": "00:30WIB",
-    "acara": "Gangnam Insider's Picks 2"
+    "acara": "Catchy Korea"
   },
   {
     "waktu": "01:00WIB",
@@ -21,7 +21,7 @@
   },
   {
     "waktu": "01:30WIB",
-    "acara": "Diplomat Talks"
+    "acara": "BizTech Korea"
   },
   {
     "waktu": "02:00WIB",
@@ -33,7 +33,7 @@
   },
   {
     "waktu": "03:00WIB",
-    "acara": "After School Club"
+    "acara": "Gugak The Music Of Korea"
   },
   {
     "waktu": "04:00WIB",
@@ -45,7 +45,7 @@
   },
   {
     "waktu": "04:30WIB",
-    "acara": "Peace & Prosperity"
+    "acara": "Diplomat Talks"
   },
   {
     "waktu": "05:00WIB",
@@ -53,7 +53,7 @@
   },
   {
     "waktu": "05:30WIB",
-    "acara": "BizTech Korea"
+    "acara": "Gangnam Insider's Picks 2"
   },
   {
     "waktu": "06:00WIB",
@@ -69,7 +69,7 @@
   },
   {
     "waktu": "07:00WIB",
-    "acara": "Peace & Prosperity"
+    "acara": "Diplomat Talks"
   },
   {
     "waktu": "07:30WIB",
@@ -85,15 +85,11 @@
   },
   {
     "waktu": "08:30WIB",
-    "acara": "BizTech Korea"
+    "acara": "Gangnam Insider's Picks 2"
   },
   {
     "waktu": "09:00WIB",
-    "acara": "Arirang Live"
-  },
-  {
-    "waktu": "09:20WIB",
-    "acara": "BizTech Korea"
+    "acara": "Catchy Korea"
   },
   {
     "waktu": "09:30WIB",
@@ -113,11 +109,7 @@
   },
   {
     "waktu": "11:00WIB",
-    "acara": "Rolling In K-Pop"
-  },
-  {
-    "waktu": "11:30WIB",
-    "acara": "Club.Kom"
+    "acara": "After School Club(L)"
   },
   {
     "waktu": "12:00WIB",
@@ -137,11 +129,11 @@
   },
   {
     "waktu": "13:30WIB",
-    "acara": "BizTech Korea"
+    "acara": "Gangnam Insider's Picks 2"
   },
   {
     "waktu": "14:00WIB",
-    "acara": "Peace & Prosperity"
+    "acara": "Diplomat Talks"
   },
   {
     "waktu": "14:30WIB",
@@ -177,7 +169,7 @@
   },
   {
     "waktu": "18:00WIB",
-    "acara": "The Point"
+    "acara": "Peace & Prosperity"
   },
   {
     "waktu": "18:30WIB",
@@ -198,5 +190,13 @@
   {
     "waktu": "20:00WIB",
     "acara": "Arirang News (L)"
+  },
+  {
+    "waktu": "20:30WIB",
+    "acara": "Premium Collection"
+  },
+  {
+    "waktu": "21:00WIB",
+    "acara": "Gangnam Insider's Picks 2"
   }
 ]

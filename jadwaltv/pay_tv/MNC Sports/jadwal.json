@@ -1,15 +1,11 @@
 [
   {
     "waktu": "01:30WIB",
-    "acara": "Proliga 2020 Yogyakarta Putri"
+    "acara": "Proliga 2020 Yogyakarta Putra"
   },
   {
     "waktu": "03:30WIB",
-    "acara": "LFP 2020: Kancil Vs B. Timur"
-  },
-  {
-    "waktu": "05:00WIB",
-    "acara": "Sports Today"
+    "acara": "MNC Shop"
   },
   {
     "waktu": "05:30WIB",
@@ -21,27 +17,23 @@
   },
   {
     "waktu": "07:30WIB",
-    "acara": "Proliga 2020 Bandung Putra"
+    "acara": "Proliga 2020 Bandung Putri"
   },
   {
     "waktu": "09:30WIB",
-    "acara": "Proliga 2020 Yogyakarta Putri"
+    "acara": "Proliga 2020 Yogyakarta Putra"
   },
   {
     "waktu": "11:30WIB",
-    "acara": "Top Gamer"
+    "acara": "Sasuke Ninja Warrior S2"
   },
   {
-    "waktu": "12:00WIB",
-    "acara": "Adrenaline Rush"
+    "waktu": "13:00WIB",
+    "acara": "MNC Shop"
   },
   {
-    "waktu": "12:30WIB",
-    "acara": "SEA Games: Biliard"
-  },
-  {
-    "waktu": "14:30WIB",
-    "acara": "BRI Liga 1: BYKR Vs PRSRJ"
+    "waktu": "14:45WIB",
+    "acara": "SEA Games: Badminton"
   },
   {
     "waktu": "16:30WIB",
@@ -49,7 +41,7 @@
   },
   {
     "waktu": "18:00WIB",
-    "acara": "Proliga 2020 Yogyakarta Putri"
+    "acara": "Proliga 2020 Yogyakarta"
   },
   {
     "waktu": "20:00WIB",
@@ -65,10 +57,6 @@
   },
   {
     "waktu": "23:00WIB",
-    "acara": "MNC Shop"
-  },
-  {
-    "waktu": "23:30WIB",
-    "acara": "SEA Games: Biliard"
+    "acara": "AFC Champions League 2021 (L)"
   }
 ]
