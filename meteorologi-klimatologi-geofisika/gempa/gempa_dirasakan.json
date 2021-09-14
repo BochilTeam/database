@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "14/09/2021 16:08:42 WIB",
+    "lintang": "8.11 LS",
+    "bujur": "107.89 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di laut 58 km BaratDaya Kab. Tasikmalaya",
+    "warning": [
+      "III Pamarican",
+      "Pangandaran",
+      "II Cikelet Pameungpek",
+      "Parungpoteng"
+    ]
+  },
+  {
     "waktu": "13/09/2021 15:50:23 WIB",
     "lintang": "0.75 LS",
     "bujur": "127.6 BT",
@@ -218,17 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 94 km Barat Daya Lumajang",
     "warning": [
       "II Banyuwangi"
-    ]
-  },
-  {
-    "waktu": "01/09/2021 17:05:05 WIB",
-    "lintang": "0.67 LU",
-    "bujur": "98.52 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "29 Km",
-    "wilayah": "Pusat gempa berada di darat 79 km Timur Laut Nias Selatan",
-    "warning": [
-      "II Madina"
     ]
   }
 ]
