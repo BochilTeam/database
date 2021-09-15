@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/09/2021 15:56:29 WIB",
+    "lintang": "1.15 LU",
+    "bujur": "128.09 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 57 Km Barat Laut Maba",
+    "warning": [
+      "III Subaim"
+    ]
+  },
+  {
     "waktu": "15/09/2021 07:49:47 WIB",
     "lintang": "1.28 LU",
     "bujur": "122.16 BT",
@@ -225,17 +236,6 @@
     "warning": [
       "II-III Kendari",
       "II-III Konawe Selatan"
-    ]
-  },
-  {
-    "waktu": "06/09/2021 09:34:55 WIB",
-    "lintang": "8.43 LS",
-    "bujur": "122.27 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 22Km Timur Laut Maumere-Sikka",
-    "warning": [
-      "III Maumere"
     ]
   }
 ]
