@@ -1,5 +1,38 @@
 [
   {
+    "waktu": "15/09/2021 05:55:02 WIB",
+    "lintang": "1.08 LU",
+    "bujur": "128.2 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 46 km BaratLaut Maba",
+    "warning": [
+      "II-III Subaim"
+    ]
+  },
+  {
+    "waktu": "15/09/2021 04:03:36 WIB",
+    "lintang": "1.11 LU",
+    "bujur": "128.17 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 41 km BaratDaya Halmahera Timur",
+    "warning": [
+      "II - III Subaim"
+    ]
+  },
+  {
+    "waktu": "15/09/2021 03:58:32 WIB",
+    "lintang": "1.12 LU",
+    "bujur": "128.15 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 51 km Barat Laut MABA",
+    "warning": [
+      "II-III Subaim"
+    ]
+  },
+  {
     "waktu": "14/09/2021 16:08:42 WIB",
     "lintang": "8.11 LS",
     "bujur": "107.89 BT",
@@ -198,40 +231,6 @@
     "wilayah": "Pusat gempa berada di laut 84 km Timur Laut Namlea, Buru",
     "warning": [
       "II Seram Bagian Barat"
-    ]
-  },
-  {
-    "waktu": "04/09/2021 22:52:47 WIB",
-    "lintang": "0.24 LS",
-    "bujur": "124.5 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 88 km tenggara Bolaanguki-Bolsel",
-    "warning": [
-      "III Bolaang Mongondow Timur",
-      "II Kotamobago"
-    ]
-  },
-  {
-    "waktu": "02/09/2021 07:22:36 WIB",
-    "lintang": "4.01 LS",
-    "bujur": "122.49 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di darat 2.8 Km BaratLaut Baruga",
-    "warning": [
-      "II Kendari"
-    ]
-  },
-  {
-    "waktu": "01/09/2021 21:45:28 WIB",
-    "lintang": "8.96 LS",
-    "bujur": "113.03 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 94 km Barat Daya Lumajang",
-    "warning": [
-      "II Banyuwangi"
     ]
   }
 ]
