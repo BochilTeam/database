@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "15/09/2021 07:49:47 WIB",
+    "lintang": "1.28 LU",
+    "bujur": "122.16 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di laut 85 km BaratLaut Boalemo",
+    "warning": [
+      "III Boalemo",
+      "II - III Buol",
+      "II Manado",
+      "II Bone Bolango",
+      "II Gorontalo",
+      "II Toli-toli"
+    ]
+  },
+  {
     "waktu": "15/09/2021 05:55:02 WIB",
     "lintang": "1.08 LU",
     "bujur": "128.2 BT",
@@ -220,17 +236,6 @@
     "wilayah": "Pusat gempa berada di Laut 22Km Timur Laut Maumere-Sikka",
     "warning": [
       "III Maumere"
-    ]
-  },
-  {
-    "waktu": "05/09/2021 19:16:56 WIB",
-    "lintang": "2.59 LS",
-    "bujur": "127.43 BT",
-    "magnitudo": "5",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di laut 84 km Timur Laut Namlea, Buru",
-    "warning": [
-      "II Seram Bagian Barat"
     ]
   }
 ]
