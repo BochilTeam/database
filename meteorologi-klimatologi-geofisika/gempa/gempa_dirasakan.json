@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/09/2021 15:55:58 WIB",
+    "lintang": "8.34 LS",
+    "bujur": "117.22 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 24 km Timur Laut Pernang",
+    "warning": [
+      "III Sumbawa"
+    ]
+  },
+  {
     "waktu": "15/09/2021 17:26:21 WIB",
     "lintang": "3.71 LU",
     "bujur": "117.75 BT",
@@ -224,17 +235,6 @@
       "II-III Luwuk",
       "II Toili",
       "II Banggai Laut"
-    ]
-  },
-  {
-    "waktu": "07/09/2021 12:13:52 WIB",
-    "lintang": "8.7 LS",
-    "bujur": "121.62 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km barat laut Ende",
-    "warning": [
-      "III Ende"
     ]
   }
 ]
