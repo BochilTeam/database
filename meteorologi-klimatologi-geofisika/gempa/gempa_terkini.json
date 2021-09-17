@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-09-21 19:43:55 WIB",
+    "lintang": "4.92",
+    "bujur": "126.27",
+    "magnitudo": "5.0",
+    "kedalaman": "70 Km",
+    "wilayah": "111 km BaratLaut MELONGUANE-SULUT"
+  },
+  {
     "waktu": "15-09-21 07:49:47 WIB",
     "lintang": "1.28",
     "bujur": "122.16",
@@ -230,13 +238,5 @@
     "magnitudo": "6.5",
     "kedalaman": "10 Km",
     "wilayah": "59 km TimurLaut TOJOUNA-UNA-SULTENG"
-  },
-  {
-    "waktu": "26-07-21 10:52:03 WIB",
-    "lintang": "-0.73",
-    "bujur": "121.87",
-    "magnitudo": "5.9",
-    "kedalaman": "10 Km",
-    "wilayah": "55 km TimurLaut TOJOUNA-UNA-SULTENG"
   }
 ]
