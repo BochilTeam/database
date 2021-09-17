@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "17/09/2021 17:59:25 WIB",
+    "lintang": "8.87 LS",
+    "bujur": "118.53 BT",
+    "magnitudo": "3",
+    "kedalaman": "33 Km",
+    "wilayah": "Pusat gempa berada di laut 38 km tenggara Dompu",
+    "warning": [
+      "III Dompu",
+      "III Bima"
+    ]
+  },
+  {
+    "waktu": "17/09/2021 15:54:32 WIB",
+    "lintang": "8.29 LS",
+    "bujur": "116.54 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 40 km timur laut Lombok Timur",
+    "warning": [
+      "III Lombok Utara"
+    ]
+  },
+  {
     "waktu": "16/09/2021 18:39:00 WIB",
     "lintang": "8.28 LS",
     "bujur": "117.22 BT",
@@ -210,28 +233,6 @@
     "warning": [
       "II Luwuk",
       "II Banggai Kepulauan"
-    ]
-  },
-  {
-    "waktu": "08/09/2021 19:20:00 WIB",
-    "lintang": "8.99 LS",
-    "bujur": "114.95 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "75 Km",
-    "wilayah": "Pusat gempa berada di laut 37 km Barat Daya KUTA SELATAN",
-    "warning": [
-      "II Nusa Dua"
-    ]
-  },
-  {
-    "waktu": "08/09/2021 07:24:56 WIB",
-    "lintang": "8.26 LS",
-    "bujur": "115.5 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km Barat Laut Karangasem",
-    "warning": [
-      "III Karangasem"
     ]
   }
 ]
