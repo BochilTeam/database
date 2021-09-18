@@ -9,7 +9,7 @@
   },
   {
     "waktu": "00:30WIB",
-    "acara": "Catchy Korea"
+    "acara": "K-Unboxing"
   },
   {
     "waktu": "01:00WIB",
@@ -21,7 +21,7 @@
   },
   {
     "waktu": "01:30WIB",
-    "acara": "BizTech Korea"
+    "acara": "See What I See 3"
   },
   {
     "waktu": "02:00WIB",
@@ -33,103 +33,83 @@
   },
   {
     "waktu": "03:00WIB",
-    "acara": "Gugak The Music Of Korea"
+    "acara": "Arirang Special"
   },
   {
     "waktu": "04:00WIB",
-    "acara": "Arirang News (L)"
-  },
-  {
-    "waktu": "04:20WIB",
-    "acara": "SmartBiz Accelerators 2"
+    "acara": "Soundscape"
   },
   {
     "waktu": "04:30WIB",
-    "acara": "Diplomat Talks"
+    "acara": "Exploring Korean Literature"
   },
   {
     "waktu": "05:00WIB",
-    "acara": "Arirang News (L)"
+    "acara": "Peace Insight"
   },
   {
     "waktu": "05:30WIB",
-    "acara": "Gangnam Insider's Picks 2"
+    "acara": "Premium Collection"
   },
   {
     "waktu": "06:00WIB",
-    "acara": "Global Insight (L)"
-  },
-  {
-    "waktu": "06:20WIB",
-    "acara": "K-Biz 2"
+    "acara": "Club.Kom"
   },
   {
     "waktu": "06:30WIB",
-    "acara": "Premium Collection"
-  },
-  {
-    "waktu": "07:00WIB",
     "acara": "Diplomat Talks"
   },
   {
-    "waktu": "07:30WIB",
-    "acara": "1 Day 1 Film K-Cineflex"
-  },
-  {
-    "waktu": "07:40WIB",
-    "acara": "Travel Note"
+    "waktu": "07:00WIB",
+    "acara": "Travel Note Weekend"
   },
   {
     "waktu": "08:00WIB",
-    "acara": "Arirang News (L)"
+    "acara": "Rewind It: I'm Live"
   },
   {
     "waktu": "08:30WIB",
-    "acara": "Gangnam Insider's Picks 2"
+    "acara": "Premium Collection"
   },
   {
     "waktu": "09:00WIB",
-    "acara": "Catchy Korea"
+    "acara": "BizTech Korea"
   },
   {
     "waktu": "09:30WIB",
-    "acara": "Premium Collection"
+    "acara": "Club.Kom"
   },
   {
     "waktu": "10:00WIB",
     "acara": "Arirang News (L)"
   },
   {
-    "waktu": "10:30WIB",
-    "acara": "Global Insight"
+    "waktu": "10:10WIB",
+    "acara": "Korea Travelogue"
   },
   {
-    "waktu": "10:50WIB",
-    "acara": "1 Day 1 Film K-Cineflex"
+    "waktu": "10:30WIB",
+    "acara": "I'm Live"
   },
   {
     "waktu": "11:00WIB",
-    "acara": "After School Club(L)"
+    "acara": "PerformArts Reload, Ep 4"
   },
   {
     "waktu": "12:00WIB",
-    "acara": "COVID-19 Pandemic (L)"
+    "acara": "Unboxing K-Life"
   },
   {
-    "waktu": "12:50WIB",
-    "acara": "BizTech Korea"
+    "waktu": "12:30WIB",
+    "acara": "Premium Collection"
   },
   {
     "waktu": "13:00WIB",
-    "acara": "Travel Note"
-  },
-  {
-    "waktu": "13:20WIB",
-    "acara": "1 Day 1 Film K-Cineflex"
+    "acara": "SmartBiz Accelerators"
   },
   {
     "waktu": "13:30WIB",
-    "acara": "Gangnam Insider's Picks 2"
+    "acara": "Rewind It: I'm Live"
   },
   {
     "waktu": "14:00WIB",
@@ -137,66 +117,62 @@
   },
   {
     "waktu": "14:30WIB",
-    "acara": "Premium Collection"
+    "acara": "Catchy Korea"
   },
   {
     "waktu": "15:00WIB",
-    "acara": "Arirang News (L)"
-  },
-  {
-    "waktu": "15:30WIB",
-    "acara": "Global Insight"
-  },
-  {
-    "waktu": "15:50WIB",
-    "acara": "1 Day 1 Film K-Cineflex"
+    "acara": "Simply K-Pop Con-Tour"
   },
   {
     "waktu": "16:00WIB",
-    "acara": "COVID-19 Pandemic"
-  },
-  {
-    "waktu": "16:50WIB",
-    "acara": "Catchy Korea"
-  },
-  {
-    "waktu": "17:00WIB",
-    "acara": "Newscenter (L)"
-  },
-  {
-    "waktu": "17:50WIB",
-    "acara": "BizTech Korea"
-  },
-  {
-    "waktu": "18:00WIB",
-    "acara": "Peace & Prosperity"
-  },
-  {
-    "waktu": "18:30WIB",
-    "acara": "1 Day 1 Film K-Cineflex"
-  },
-  {
-    "waktu": "18:40WIB",
-    "acara": "Travel Note"
-  },
-  {
-    "waktu": "19:00WIB",
-    "acara": "COVID-19 Pandemic"
-  },
-  {
-    "waktu": "19:50WIB",
-    "acara": "Catchy Korea"
-  },
-  {
-    "waktu": "20:00WIB",
     "acara": "Arirang News (L)"
   },
   {
-    "waktu": "20:30WIB",
-    "acara": "Premium Collection"
+    "waktu": "16:10WIB",
+    "acara": "Korea Travelogue"
+  },
+  {
+    "waktu": "16:30WIB",
+    "acara": "Peace Insight"
+  },
+  {
+    "waktu": "17:00WIB",
+    "acara": "Gangnam Insider's Picks 3"
+  },
+  {
+    "waktu": "17:30WIB",
+    "acara": "Rolling In K-Pop"
+  },
+  {
+    "waktu": "18:00WIB",
+    "acara": "See What I See 3"
+  },
+  {
+    "waktu": "18:30WIB",
+    "acara": "Catchy Korea"
+  },
+  {
+    "waktu": "19:00WIB",
+    "acara": "Simply K-Pop Con-Tour"
+  },
+  {
+    "waktu": "20:00WIB",
+    "acara": "PerformArts Reload, Ep 4"
   },
   {
     "waktu": "21:00WIB",
-    "acara": "Gangnam Insider's Picks 2"
+    "acara": "After School Club"
+  },
+  {
+    "waktu": "22:00WIB",
+    "acara": "Diplomat Talks"
+  },
+  {
+    "waktu": "22:30WIB",
+    "acara": "Unboxing K-Life"
+  },
+  {
+    "waktu": "23:00WIB",
+    "acara": "Simply K-Pop Con-Tour"
   }
 ]

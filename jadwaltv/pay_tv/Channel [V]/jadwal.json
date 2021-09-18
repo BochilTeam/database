@@ -1,23 +1,15 @@
 [
   {
-    "waktu": "00:00WIB",
-    "acara": "[V] Loop"
-  },
-  {
-    "waktu": "01:00WIB",
-    "acara": "Double Shot"
-  },
-  {
     "waktu": "01:30WIB",
-    "acara": "XO"
+    "acara": "[V]S"
   },
   {
     "waktu": "02:30WIB",
-    "acara": "[V] Loop"
+    "acara": "VCD"
   },
   {
     "waktu": "03:30WIB",
-    "acara": "The Playlist"
+    "acara": "Double Shot"
   },
   {
     "waktu": "04:00WIB",
@@ -25,11 +17,15 @@
   },
   {
     "waktu": "05:00WIB",
-    "acara": "[V] Morning Fix"
+    "acara": "[V] Loop"
+  },
+  {
+    "waktu": "06:00WIB",
+    "acara": "[V] KPOP Explosion"
   },
   {
     "waktu": "07:00WIB",
-    "acara": "The Playlist"
+    "acara": "[V] Top 5"
   },
   {
     "waktu": "07:30WIB",
@@ -37,43 +33,43 @@
   },
   {
     "waktu": "08:00WIB",
-    "acara": "[V] Loop"
-  },
-  {
-    "waktu": "09:00WIB",
-    "acara": "Double Shot"
-  },
-  {
-    "waktu": "09:30WIB",
-    "acara": "XO"
-  },
-  {
-    "waktu": "10:30WIB",
-    "acara": "[V] Loop"
-  },
-  {
-    "waktu": "11:30WIB",
-    "acara": "The Playlist"
-  },
-  {
-    "waktu": "12:00WIB",
     "acara": "[V] Top 5"
   },
   {
-    "waktu": "12:30WIB",
-    "acara": "[V] KPOP Explosion"
+    "waktu": "08:30WIB",
+    "acara": "[V] Top 5"
   },
   {
-    "waktu": "13:30WIB",
+    "waktu": "09:00WIB",
+    "acara": "[V] Top 5"
+  },
+  {
+    "waktu": "09:30WIB",
+    "acara": "[V]S"
+  },
+  {
+    "waktu": "10:30WIB",
+    "acara": "VCD"
+  },
+  {
+    "waktu": "11:30WIB",
     "acara": "Double Shot"
   },
   {
-    "waktu": "14:00WIB",
+    "waktu": "12:00WIB",
+    "acara": "XO"
+  },
+  {
+    "waktu": "13:00WIB",
     "acara": "[V] Loop"
   },
   {
+    "waktu": "14:00WIB",
+    "acara": "[V] KPOP Explosion"
+  },
+  {
     "waktu": "15:00WIB",
-    "acara": "The Playlist"
+    "acara": "[V] Top 5"
   },
   {
     "waktu": "15:30WIB",
@@ -81,46 +77,38 @@
   },
   {
     "waktu": "16:00WIB",
-    "acara": "[V] KPOP Explosion"
+    "acara": "[V] Top 5"
+  },
+  {
+    "waktu": "16:30WIB",
+    "acara": "[V] Top 5"
   },
   {
     "waktu": "17:00WIB",
-    "acara": "Double Shot"
+    "acara": "[V] Top 5"
   },
   {
     "waktu": "17:30WIB",
-    "acara": "XO"
+    "acara": "[V]S"
   },
   {
     "waktu": "18:30WIB",
-    "acara": "[V] Loop"
+    "acara": "VCD"
   },
   {
     "waktu": "19:30WIB",
-    "acara": "The Playlist"
-  },
-  {
-    "waktu": "20:00WIB",
-    "acara": "[V] Top 5"
-  },
-  {
-    "waktu": "20:30WIB",
-    "acara": "[V] KPOP Explosion"
-  },
-  {
-    "waktu": "21:30WIB",
     "acara": "Double Shot"
   },
   {
+    "waktu": "20:00WIB",
+    "acara": "[V] The Rave"
+  },
+  {
     "waktu": "22:00WIB",
-    "acara": "[V] Loop"
+    "acara": "[V] KPOP Explosion"
   },
   {
     "waktu": "23:00WIB",
-    "acara": "The Playlist"
-  },
-  {
-    "waktu": "23:30WIB",
-    "acara": "[V] Top 5"
+    "acara": "[V] The Rave"
   }
 ]

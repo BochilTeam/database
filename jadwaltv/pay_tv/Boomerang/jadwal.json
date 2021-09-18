@@ -56,6 +56,10 @@
     "acara": "The Looney Tunes Show"
   },
   {
+    "waktu": "13:30WIB",
+    "acara": "Grizzy And The Lemmings"
+  },
+  {
     "waktu": "14:00WIB",
     "acara": "The Tom & Jerry Show"
   },
@@ -81,7 +85,7 @@
   },
   {
     "waktu": "18:00WIB",
-    "acara": "Be Cool Scooby-Doo!"
+    "acara": "Talking Tom And Friends"
   },
   {
     "waktu": "19:00WIB",
@@ -97,19 +101,15 @@
   },
   {
     "waktu": "20:30WIB",
-    "acara": "Grizzy And The Lemmings"
+    "acara": "Scooby-Doo And Guess Who?"
   },
   {
     "waktu": "21:00WIB",
-    "acara": "Taffy"
-  },
-  {
-    "waktu": "21:30WIB",
-    "acara": "Talking Tom And Friends"
+    "acara": "Grizzy And The Lemmings"
   },
   {
     "waktu": "22:00WIB",
-    "acara": "The Tom & Jerry Show"
+    "acara": "Tom And Jerry Theatricals"
   },
   {
     "waktu": "23:00WIB",

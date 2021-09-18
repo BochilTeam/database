@@ -29,7 +29,7 @@
   },
   {
     "waktu": "07:00WIB",
-    "acara": "Madu Hijau"
+    "acara": "Local Hour Zamrud Khatulistiwa"
   },
   {
     "waktu": "08:00WIB",
@@ -49,7 +49,7 @@
   },
   {
     "waktu": "12:00WIB",
-    "acara": "BNPB"
+    "acara": "Melangkah Pasti"
   },
   {
     "waktu": "12:30WIB",
@@ -61,7 +61,11 @@
   },
   {
     "waktu": "14:00WIB",
-    "acara": "Curcol Kuy"
+    "acara": "Animal Action"
+  },
+  {
+    "waktu": "14:30WIB",
+    "acara": "WOW: What Woman Want"
   },
   {
     "waktu": "15:00WIB",
@@ -77,11 +81,15 @@
   },
   {
     "waktu": "18:00WIB",
-    "acara": "News Room"
+    "acara": "News Room Weekend"
+  },
+  {
+    "waktu": "18:30WIB",
+    "acara": "True Crime"
   },
   {
     "waktu": "19:00WIB",
-    "acara": "Galeri Publik"
+    "acara": "Meet The VVIP"
   },
   {
     "waktu": "20:00WIB",
@@ -97,6 +105,10 @@
   },
   {
     "waktu": "23:00WIB",
-    "acara": "News Room"
+    "acara": "Mirror Story"
+  },
+  {
+    "waktu": "23:30WIB",
+    "acara": "Global 3000"
   }
 ]

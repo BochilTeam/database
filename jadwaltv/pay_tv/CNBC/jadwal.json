@@ -16,43 +16,83 @@
     "acara": "Fast Money"
   },
   {
+    "waktu": "04:30WIB",
+    "acara": "Options Action"
+  },
+  {
     "waktu": "05:00WIB",
-    "acara": "Asia Squawk Box"
+    "acara": "Managing Asia"
+  },
+  {
+    "waktu": "05:30WIB",
+    "acara": "Sustainable Future"
+  },
+  {
+    "waktu": "06:00WIB",
+    "acara": "The News With Shepard Smith"
+  },
+  {
+    "waktu": "07:00WIB",
+    "acara": "Buffett & Munger: Wisdom"
   },
   {
     "waktu": "08:00WIB",
-    "acara": "Street Signs Asia"
+    "acara": "Managing Asia"
+  },
+  {
+    "waktu": "08:30WIB",
+    "acara": "Sustainable Future"
+  },
+  {
+    "waktu": "09:00WIB",
+    "acara": "Channel Japan"
+  },
+  {
+    "waktu": "09:30WIB",
+    "acara": "Secret Lives Of The Super Rich"
+  },
+  {
+    "waktu": "10:00WIB",
+    "acara": "The News With Shepard Smith"
   },
   {
     "waktu": "11:00WIB",
-    "acara": "Capital Connection"
+    "acara": "PGA Tour: BMW Championship"
   },
   {
-    "waktu": "12:00WIB",
-    "acara": "Squawk Box Europe"
+    "waktu": "13:00WIB",
+    "acara": "Ultra Trail World Tour"
+  },
+  {
+    "waktu": "14:00WIB",
+    "acara": "Arctic Race Of Norway"
   },
   {
     "waktu": "15:00WIB",
-    "acara": "Street Signs Europe"
-  },
-  {
-    "waktu": "16:00WIB",
-    "acara": "Worldwide Exchange"
+    "acara": "Late Night With Seth Meyers"
   },
   {
     "waktu": "17:00WIB",
-    "acara": "US Squawk Box"
+    "acara": "Managing Asia"
   },
   {
-    "waktu": "20:00WIB",
-    "acara": "Squawk On The Street"
+    "waktu": "17:30WIB",
+    "acara": "Sustainable Future"
+  },
+  {
+    "waktu": "18:00WIB",
+    "acara": "Buffett & Munger: Wisdom"
+  },
+  {
+    "waktu": "19:00WIB",
+    "acara": "The Tonight Show, Jimmy Fallon"
   },
   {
     "waktu": "22:00WIB",
-    "acara": "Tech Check"
+    "acara": "American Greed"
   },
   {
     "waktu": "23:00WIB",
-    "acara": "Fast Money: Halftime Report"
+    "acara": "Late Night With Seth Meyers"
   }
 ]

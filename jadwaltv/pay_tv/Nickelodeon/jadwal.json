@@ -81,63 +81,59 @@
   },
   {
     "waktu": "07:00WIB",
-    "acara": "PAW Patrol"
+    "acara": "The Adventures Of Paddington"
   },
   {
-    "waktu": "07:15WIB",
-    "acara": "PAW Patrol"
+    "waktu": "07:20WIB",
+    "acara": "The Adventures Of Paddington"
   },
   {
-    "waktu": "07:25WIB",
-    "acara": "PAW Patrol"
-  },
-  {
-    "waktu": "07:45WIB",
-    "acara": "PAW Patrol"
-  },
-  {
-    "waktu": "08:00WIB",
+    "waktu": "07:35WIB",
     "acara": "Blue's Clues & You"
   },
   {
-    "waktu": "08:30WIB",
-    "acara": "Baby Shark's Big Show"
+    "waktu": "08:00WIB",
+    "acara": "Corn & Peg"
   },
   {
-    "waktu": "08:45WIB",
-    "acara": "Baby Shark's Big Show"
+    "waktu": "08:25WIB",
+    "acara": "Ready Set Dance"
+  },
+  {
+    "waktu": "08:30WIB",
+    "acara": "Santiago Of The Seas"
+  },
+  {
+    "waktu": "08:55WIB",
+    "acara": "Kid-E-Cats"
   },
   {
     "waktu": "09:00WIB",
-    "acara": "Blaze & The Monster Machines"
+    "acara": "Barbapapa: Big Happy Family"
   },
   {
     "waktu": "09:25WIB",
     "acara": "PAW Patrol"
   },
   {
-    "waktu": "09:45WIB",
+    "waktu": "09:50WIB",
     "acara": "PAW Patrol"
   },
   {
-    "waktu": "10:00WIB",
-    "acara": "Ricky Zoom"
-  },
-  {
-    "waktu": "10:25WIB",
-    "acara": "Calvin & Kaison's Play Power"
+    "waktu": "10:15WIB",
+    "acara": "PAW Patrol"
   },
   {
     "waktu": "10:30WIB",
-    "acara": "Alvinnn!!! And The Chipmunks"
+    "acara": "It's Pony"
   },
   {
     "waktu": "10:55WIB",
-    "acara": "Alvinnn!!! And The Chipmunks"
+    "acara": "It's Pony"
   },
   {
     "waktu": "11:05WIB",
-    "acara": "It's Pony"
+    "acara": "Lego City Adventures"
   },
   {
     "waktu": "11:30WIB",
@@ -149,15 +145,15 @@
   },
   {
     "waktu": "11:55WIB",
-    "acara": "Lego City Adventures"
+    "acara": "The Loud House"
   },
   {
-    "waktu": "12:15WIB",
-    "acara": "Lego City Adventures"
+    "waktu": "12:20WIB",
+    "acara": "The Loud House"
   },
   {
     "waktu": "12:30WIB",
-    "acara": "The Loud House"
+    "acara": "The Casagrandes"
   },
   {
     "waktu": "12:55WIB",
@@ -193,10 +189,14 @@
   },
   {
     "waktu": "15:25WIB",
-    "acara": "SpongeBob SquarePants"
+    "acara": "Dorg Van Dango"
   },
   {
-    "waktu": "15:45WIB",
-    "acara": "SpongeBob SquarePants"
+    "waktu": "15:50WIB",
+    "acara": "Dorg Van Dango"
+  },
+  {
+    "waktu": "16:00WIB",
+    "acara": "Lego Jurassic...: Isla Nublar"
   }
 ]

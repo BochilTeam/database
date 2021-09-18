@@ -1,58 +1,74 @@
 [
   {
-    "waktu": "00:30WIB",
-    "acara": "Ninja Assassin"
+    "waktu": "00:00WIB",
+    "acara": "The Invisible Man"
   },
   {
-    "waktu": "02:05WIB",
-    "acara": "Ambushed"
+    "waktu": "02:10WIB",
+    "acara": "Hugo"
   },
   {
-    "waktu": "03:40WIB",
-    "acara": "Banana Split"
+    "waktu": "04:20WIB",
+    "acara": "Oslo"
   },
   {
-    "waktu": "05:05WIB",
+    "waktu": "06:20WIB",
     "acara": "Hollywood On Set"
   },
   {
-    "waktu": "05:35WIB",
-    "acara": "Atonement"
+    "waktu": "06:50WIB",
+    "acara": "A Time To Kill"
   },
   {
-    "waktu": "07:35WIB",
-    "acara": "Ordinary Love"
+    "waktu": "09:25WIB",
+    "acara": "Rocky 4"
   },
   {
-    "waktu": "09:05WIB",
-    "acara": "Les Miserables: Staged Concert"
+    "waktu": "11:00WIB",
+    "acara": "Perry Mason S1, Ep 1"
   },
   {
     "waktu": "11:55WIB",
-    "acara": "1917"
+    "acara": "Perry Mason S1, Ep 2"
   },
   {
-    "waktu": "13:55WIB",
+    "waktu": "13:00WIB",
+    "acara": "Perry Mason S1, Ep 3"
+  },
+  {
+    "waktu": "14:00WIB",
+    "acara": "Perry Mason S1, Ep 4"
+  },
+  {
+    "waktu": "15:05WIB",
+    "acara": "Hugo"
+  },
+  {
+    "waktu": "17:15WIB",
     "acara": "Big Miracle"
   },
   {
-    "waktu": "15:45WIB",
-    "acara": "Ambushed"
-  },
-  {
-    "waktu": "17:25WIB",
-    "acara": "Tiger S1, Ep 2"
-  },
-  {
     "waktu": "19:05WIB",
-    "acara": "Rocky"
+    "acara": "Oslo"
   },
   {
     "waktu": "21:00WIB",
-    "acara": "Scenes From A Marriage S1, Ep 1"
+    "acara": "Like Crazy"
   },
   {
-    "waktu": "22:00WIB",
-    "acara": "Inception"
+    "waktu": "22:30WIB",
+    "acara": "In Treatment S4, Ep 13"
+  },
+  {
+    "waktu": "22:55WIB",
+    "acara": "In Treatment S4, Ep 14"
+  },
+  {
+    "waktu": "23:25WIB",
+    "acara": "In Treatment S4, Ep 15"
+  },
+  {
+    "waktu": "23:50WIB",
+    "acara": "In Treatment S4, Ep 16"
   }
 ]

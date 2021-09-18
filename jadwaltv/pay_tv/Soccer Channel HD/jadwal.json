@@ -1,11 +1,11 @@
 [
   {
-    "waktu": "00:00WIB",
-    "acara": "AFC Champions League 2021 (L)"
+    "waktu": "01:30WIB",
+    "acara": "BRI Liga 1: PRSLA Vs PRSTA"
   },
   {
-    "waktu": "02:00WIB",
-    "acara": "Battle Of...: ACM Vs PAO"
+    "waktu": "03:30WIB",
+    "acara": "World Classic League"
   },
   {
     "waktu": "04:00WIB",
@@ -13,7 +13,7 @@
   },
   {
     "waktu": "04:30WIB",
-    "acara": "AFC Asian Qual.: IRN Vs SYR"
+    "acara": "AFC Asian Qual.: KSA Vs VIE"
   },
   {
     "waktu": "06:30WIB",
@@ -25,15 +25,11 @@
   },
   {
     "waktu": "07:30WIB",
-    "acara": "Extra Time"
-  },
-  {
-    "waktu": "08:00WIB",
-    "acara": "LFP 2020: Kancil BBK Vs SKN"
+    "acara": "BRI Liga 1: PRSKBO Vs PRSK"
   },
   {
     "waktu": "09:30WIB",
-    "acara": "Battle Of...: ACM Vs PAO"
+    "acara": "AFC Champions League 2021"
   },
   {
     "waktu": "11:30WIB",
@@ -41,30 +37,34 @@
   },
   {
     "waktu": "12:00WIB",
+    "acara": "AFC Asian Qual.: SYR Vs UAE"
+  },
+  {
+    "waktu": "13:45WIB",
+    "acara": "LFP: Kancil BBK Vs Cosmo"
+  },
+  {
+    "waktu": "15:05WIB",
+    "acara": "BRI Liga 1: BHYKR Vs MDUTD (L)"
+  },
+  {
+    "waktu": "17:15WIB",
     "acara": "Extra Time"
   },
   {
-    "waktu": "12:30WIB",
-    "acara": "LFP 2020: B. Timur Vs Cosmo"
+    "waktu": "17:45WIB",
+    "acara": "BRI Liga 1: PSM Vs PRSBYA (L)"
   },
   {
-    "waktu": "14:00WIB",
-    "acara": "AFC Asian Qual.: KOR Vs IRQ"
+    "waktu": "20:15WIB",
+    "acara": "BRI Liga 1: BLUTD Vs PRSB (L)"
   },
   {
-    "waktu": "16:00WIB",
-    "acara": "AFC Champions League 2021 (L)"
-  },
-  {
-    "waktu": "18:00WIB",
-    "acara": "AFC Champions League 2021 (L)"
-  },
-  {
-    "waktu": "20:00WIB",
+    "waktu": "23:00WIB",
     "acara": "MNC Shop"
   },
   {
-    "waktu": "22:00WIB",
-    "acara": "AFC Champions League 2021 (L)"
+    "waktu": "23:30WIB",
+    "acara": "ISL '14: Persipura Vs Persebaya"
   }
 ]

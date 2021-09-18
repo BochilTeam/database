@@ -37,7 +37,7 @@
   },
   {
     "waktu": "02:30WIB",
-    "acara": "Close Up: The Current Affairs"
+    "acara": "Eco Africa: Environment"
   },
   {
     "waktu": "03:00WIB",
@@ -57,11 +57,7 @@
   },
   {
     "waktu": "04:30WIB",
-    "acara": "Arts And Culture: News"
-  },
-  {
-    "waktu": "04:45WIB",
-    "acara": "Shift: Living In Digital Age"
+    "acara": "DW News: Africa"
   },
   {
     "waktu": "05:00WIB",
@@ -89,7 +85,7 @@
   },
   {
     "waktu": "06:30WIB",
-    "acara": "Close Up: The Current Affairs"
+    "acara": "DW News: Africa"
   },
   {
     "waktu": "07:00WIB",
@@ -101,7 +97,7 @@
   },
   {
     "waktu": "07:30WIB",
-    "acara": "Kick Off!: The Bundesliga HL"
+    "acara": "REV: Auto & Mobility Show"
   },
   {
     "waktu": "08:00WIB",
@@ -109,7 +105,11 @@
   },
   {
     "waktu": "08:15WIB",
-    "acara": "DocFilm"
+    "acara": "Business: News"
+  },
+  {
+    "waktu": "08:30WIB",
+    "acara": "Spc. Program: Flipping Script"
   },
   {
     "waktu": "09:00WIB",
@@ -117,11 +117,11 @@
   },
   {
     "waktu": "09:02WIB",
-    "acara": "The Day: News In Review"
+    "acara": "Arts And Culture: News"
   },
   {
-    "waktu": "09:30WIB",
-    "acara": "Kick Off!: The Bundesliga HL"
+    "waktu": "09:15WIB",
+    "acara": "DocFilm"
   },
   {
     "waktu": "10:00WIB",
@@ -133,7 +133,7 @@
   },
   {
     "waktu": "10:30WIB",
-    "acara": "Close Up: The Current Affairs"
+    "acara": "Tomorrow Today: Science"
   },
   {
     "waktu": "11:00WIB",
@@ -141,7 +141,11 @@
   },
   {
     "waktu": "11:15WIB",
-    "acara": "DocFilm"
+    "acara": "World Stories: Week In Reports"
+  },
+  {
+    "waktu": "11:30WIB",
+    "acara": "Euromaxx: Lifestyle Europe"
   },
   {
     "waktu": "12:00WIB",
@@ -149,11 +153,11 @@
   },
   {
     "waktu": "12:02WIB",
-    "acara": "The Day: News In Review"
+    "acara": "Arts.21: The Cultural Magazine"
   },
   {
     "waktu": "12:30WIB",
-    "acara": "Eco India: Environment"
+    "acara": "The 77 Percent: Africa's Youth"
   },
   {
     "waktu": "13:00WIB",
@@ -161,27 +165,31 @@
   },
   {
     "waktu": "13:15WIB",
-    "acara": "Business: News"
+    "acara": "Shift: Living In Digital Age"
   },
   {
     "waktu": "13:30WIB",
-    "acara": "Close Up: The Current Affairs"
+    "acara": "Spc. Program: Flipping Script"
   },
   {
     "waktu": "14:00WIB",
     "acara": "DW News"
   },
   {
+    "waktu": "14:15WIB",
+    "acara": "Arts And Culture: News"
+  },
+  {
     "waktu": "14:30WIB",
-    "acara": "Kick Off!: The Bundesliga HL"
+    "acara": "Check-In: Sylt"
   },
   {
     "waktu": "15:00WIB",
     "acara": "DW News"
   },
   {
-    "waktu": "15:30WIB",
-    "acara": "Close Up: The Current Affairs"
+    "waktu": "15:15WIB",
+    "acara": "DocFilm"
   },
   {
     "waktu": "16:00WIB",
@@ -189,14 +197,6 @@
   },
   {
     "waktu": "16:15WIB",
-    "acara": "DocFilm"
-  },
-  {
-    "waktu": "17:00WIB",
-    "acara": "DW News"
-  },
-  {
-    "waktu": "17:30WIB",
-    "acara": "Business: News"
+    "acara": "Sports Life: Why Farm Teams"
   }
 ]

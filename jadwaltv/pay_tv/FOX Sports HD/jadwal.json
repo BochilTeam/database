@@ -1,35 +1,31 @@
 [
   {
-    "waktu": "01:00WIB",
+    "waktu": "00:00WIB",
     "acara": "SportsCenter Asia 2021"
   },
   {
-    "waktu": "01:15WIB",
+    "waktu": "00:15WIB",
+    "acara": "MotoGP 2021: GP Of San Marino"
+  },
+  {
+    "waktu": "02:45WIB",
+    "acara": "SportsCenter Asia 2021"
+  },
+  {
+    "waktu": "03:00WIB",
+    "acara": "UFC: Brunson Vs Till"
+  },
+  {
+    "waktu": "05:30WIB",
     "acara": "The John Dykes Show"
-  },
-  {
-    "waktu": "02:15WIB",
-    "acara": "SportsCenter Asia 2021"
-  },
-  {
-    "waktu": "02:30WIB",
-    "acara": "MotoGP 2021: GP Of Aragon"
   },
   {
     "waktu": "06:00WIB",
-    "acara": "The John Dykes Show"
+    "acara": "MotoGP 2021: GP Of San Marino"
   },
   {
-    "waktu": "07:00WIB",
-    "acara": "US Open Tennis 2021 Best Match"
-  },
-  {
-    "waktu": "08:00WIB",
-    "acara": "Extreme E C'ship HL: Desert"
-  },
-  {
-    "waktu": "09:00WIB",
-    "acara": "F1 Heineken GP D'Italia 2021"
+    "waktu": "08:30WIB",
+    "acara": "MotoGP 2021: GP Of San Marino"
   },
   {
     "waktu": "11:00WIB",
@@ -40,63 +36,51 @@
     "acara": "The John Dykes Show"
   },
   {
+    "waktu": "12:00WIB",
+    "acara": "UFC Fight Camp 2021"
+  },
+  {
     "waktu": "12:30WIB",
+    "acara": "XTERRA Adventures 2021"
+  },
+  {
+    "waktu": "12:55WIB",
+    "acara": "F1 Heineken GP D'Italia 2021"
+  },
+  {
+    "waktu": "13:25WIB",
     "acara": "ESPN FC 2021"
   },
   {
-    "waktu": "13:00WIB",
-    "acara": "MotoGP 2021: GP Of Aragon"
-  },
-  {
-    "waktu": "15:00WIB",
-    "acara": "SportsCenter Asia 2021"
-  },
-  {
-    "waktu": "15:30WIB",
-    "acara": "ESPN FC 2021"
-  },
-  {
-    "waktu": "16:00WIB",
-    "acara": "US Open Tennis 2021 Best Match"
+    "waktu": "13:55WIB",
+    "acara": "MotoGP 2021: San Marino (L)"
   },
   {
     "waktu": "17:00WIB",
-    "acara": "The John Dykes Show"
-  },
-  {
-    "waktu": "18:00WIB",
-    "acara": "ESPN FC 2021"
-  },
-  {
-    "waktu": "18:30WIB",
-    "acara": "SportsCenter Asia 2021"
-  },
-  {
-    "waktu": "19:00WIB",
-    "acara": "2 Wheels"
-  },
-  {
-    "waktu": "19:30WIB",
-    "acara": "Mobil 1 The Grid"
-  },
-  {
-    "waktu": "20:00WIB",
-    "acara": "US Open Tennis 2021 Best Match"
+    "acara": "MotoGP 2021: San Marino (L)"
   },
   {
     "waktu": "21:00WIB",
-    "acara": "ESPN FC 2021"
+    "acara": "In Focus: Tom Watson"
   },
   {
-    "waktu": "21:30WIB",
-    "acara": "SportsCenter Asia 2021"
+    "waktu": "21:10WIB",
+    "acara": "FIM Enel Moto E: San Marino (L)"
+  },
+  {
+    "waktu": "21:55WIB",
+    "acara": "In Focus: Tony Finau"
   },
   {
     "waktu": "22:00WIB",
-    "acara": "2 Wheels"
+    "acara": "UFC Fight Camp 2021"
   },
   {
     "waktu": "22:30WIB",
-    "acara": "UFC: Barboza Vs Chikadze"
+    "acara": "F1 Heineken GP D'Italia 2021 HL"
+  },
+  {
+    "waktu": "23:30WIB",
+    "acara": "MotoGP 2021: GP Of San Marino"
   }
 ]

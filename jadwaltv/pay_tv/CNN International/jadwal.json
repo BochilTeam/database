@@ -24,10 +24,6 @@
     "acara": "Quest Means Business"
   },
   {
-    "waktu": "02:45WIB",
-    "acara": "Living Golf: Arnold Palmer"
-  },
-  {
     "waktu": "03:00WIB",
     "acara": "The Lead With Jake Tapper"
   },
@@ -93,63 +89,71 @@
   },
   {
     "waktu": "11:00WIB",
-    "acara": "CNN Newsroom, Robyn Curnow"
+    "acara": "CNN Newsroom With M. Holmes"
+  },
+  {
+    "waktu": "11:15WIB",
+    "acara": "Marketplace Africa"
   },
   {
     "waktu": "11:30WIB",
-    "acara": "CNN Newsroom + World Sport"
+    "acara": "Inside Africa: Botswana Economy"
   },
   {
     "waktu": "12:00WIB",
-    "acara": "CNN Newsroom, Robyn Curnow"
+    "acara": "Living Golf: Iceland"
   },
   {
     "waktu": "12:30WIB",
-    "acara": "CNN Newsroom, Robyn Curnow"
-  },
-  {
-    "waktu": "12:45WIB",
-    "acara": "Inside Africa: A Life Aquatic"
+    "acara": "Africa Avant Garde: Architecture"
   },
   {
     "waktu": "13:00WIB",
-    "acara": "CNN Newsroom, Robyn Curnow"
+    "acara": "CNN Newsroom With M. Holmes"
   },
   {
     "waktu": "13:30WIB",
-    "acara": "CNN Newsroom + World Sport"
+    "acara": "CNN Newsroom With M. Holmes"
+  },
+  {
+    "waktu": "13:45WIB",
+    "acara": "Marketplace Africa"
   },
   {
     "waktu": "14:00WIB",
-    "acara": "CNN Newsroom With R. Church"
+    "acara": "CNN Newsroom, Robyn Curnow"
   },
   {
     "waktu": "14:30WIB",
-    "acara": "CNN Newsroom With R. Church"
+    "acara": "African Voices Changemakers"
   },
   {
     "waktu": "15:00WIB",
-    "acara": "CNN Newsroom With R. Church"
+    "acara": "CNN Newsroom, Robyn Curnow"
   },
   {
     "waktu": "15:30WIB",
-    "acara": "CNN Newsroom With R. Church"
+    "acara": "CNN Newsroom, Robyn Curnow"
   },
   {
     "waktu": "16:00WIB",
-    "acara": "Early Start"
+    "acara": "CNN Newsroom, Kim Brunhuber"
   },
   {
     "waktu": "16:30WIB",
-    "acara": "Early Start"
+    "acara": "CNN Newsroom, Kim Brunhuber"
   },
   {
     "waktu": "17:00WIB",
-    "acara": "New Day"
+    "acara": "Marketplace Asia"
+  },
+  {
+    "waktu": "17:15WIB",
+    "acara": "Marketplace Europe"
   },
   {
     "waktu": "17:30WIB",
-    "acara": "New Day"
+    "acara": "Inside Africa: Botswana Economy"
   },
   {
     "waktu": "18:00WIB",
@@ -165,38 +169,34 @@
   },
   {
     "waktu": "19:30WIB",
-    "acara": "World Sport"
+    "acara": "New Day"
   },
   {
     "waktu": "20:00WIB",
-    "acara": "First Move With J. Chatterley"
+    "acara": "Smerconish"
   },
   {
     "waktu": "20:30WIB",
-    "acara": "First Move With J. Chatterley"
+    "acara": "Smerconish"
   },
   {
     "waktu": "21:00WIB",
-    "acara": "Connect The World"
+    "acara": "CNN Newsroom"
   },
   {
     "waktu": "21:30WIB",
-    "acara": "Connect World + World Sport"
+    "acara": "CNN Newsroom"
   },
   {
     "waktu": "22:00WIB",
-    "acara": "Connect The World"
+    "acara": "Marketplace Middle East"
+  },
+  {
+    "waktu": "22:15WIB",
+    "acara": "Marketplace Asia"
   },
   {
     "waktu": "22:30WIB",
-    "acara": "Connect The World"
-  },
-  {
-    "waktu": "23:00WIB",
-    "acara": "One World With Zain Asher"
-  },
-  {
-    "waktu": "23:30WIB",
-    "acara": "One World With Zain Asher"
+    "acara": "Quest's World...: Copenhagen"
   }
 ]

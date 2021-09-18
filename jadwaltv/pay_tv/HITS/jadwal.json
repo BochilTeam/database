@@ -1,134 +1,142 @@
 [
   {
     "waktu": "00:00WIB",
-    "acara": "The Love Boat S1, Ep 13"
+    "acara": "The Love Boat S1, Ep 17"
   },
   {
     "waktu": "01:00WIB",
-    "acara": "Three's Company S6, Ep 16"
+    "acara": "Three's Company S6, Ep 20"
   },
   {
     "waktu": "01:30WIB",
-    "acara": "The Lucy Show S5, Ep 9"
+    "acara": "The Lucy Show S5, Ep 13"
   },
   {
     "waktu": "02:00WIB",
-    "acara": "Sabrina Teenage... S2, Ep 18"
+    "acara": "Sabrina Teenage... S2, Ep 22"
   },
   {
     "waktu": "02:30WIB",
-    "acara": "Bewitched S1, Ep 31"
+    "acara": "Bewitched S1, Ep 35"
   },
   {
     "waktu": "03:00WIB",
-    "acara": "M*A*S*H S9, Ep 12"
+    "acara": "M*A*S*H S9, Ep 16"
   },
   {
     "waktu": "03:30WIB",
-    "acara": "Mary Tyler Moore S1, Ep 1"
+    "acara": "Mary Tyler Moore S1, Ep 5"
   },
   {
     "waktu": "04:00WIB",
-    "acara": "MacGyver S6, Ep 16"
+    "acara": "Bewitched S1, Ep 31"
+  },
+  {
+    "waktu": "04:30WIB",
+    "acara": "Bewitched S1, Ep 32"
   },
   {
     "waktu": "05:00WIB",
-    "acara": "MacGyver S6, Ep 17"
+    "acara": "Bewitched S1, Ep 33"
+  },
+  {
+    "waktu": "05:30WIB",
+    "acara": "Bewitched S1, Ep 34"
   },
   {
     "waktu": "06:00WIB",
-    "acara": "Sabrina Teenage... S2, Ep 19"
+    "acara": "Bewitched S1, Ep 35"
   },
   {
     "waktu": "06:30WIB",
-    "acara": "Bewitched S1, Ep 32"
-  },
-  {
-    "waktu": "07:00WIB",
-    "acara": "Law & Order: SVU S4, Ep 6"
-  },
-  {
-    "waktu": "08:00WIB",
     "acara": "Miami Vice S1, Ep 15"
   },
   {
-    "waktu": "09:00WIB",
-    "acara": "Little House On... S7, Ep 10"
+    "waktu": "07:30WIB",
+    "acara": "Miami Vice S1, Ep 16"
   },
   {
-    "waktu": "10:00WIB",
-    "acara": "Little House On... S7, Ep 11"
+    "waktu": "08:30WIB",
+    "acara": "Miami Vice S1, Ep 17"
   },
   {
-    "waktu": "11:00WIB",
-    "acara": "Sabrina Teenage... S2, Ep 19"
+    "waktu": "09:30WIB",
+    "acara": "Miami Vice S1, Ep 18"
+  },
+  {
+    "waktu": "10:30WIB",
+    "acara": "Miami Vice S1, Ep 19"
   },
   {
     "waktu": "11:30WIB",
-    "acara": "Bewitched S1, Ep 32"
-  },
-  {
-    "waktu": "12:00WIB",
-    "acara": "Law & Order: SVU S4, Ep 6"
-  },
-  {
-    "waktu": "13:00WIB",
-    "acara": "The Lucy Show S5, Ep 9"
-  },
-  {
-    "waktu": "13:30WIB",
-    "acara": "Mary Tyler Moore S1, Ep 1"
-  },
-  {
-    "waktu": "14:00WIB",
-    "acara": "Little House On... S7, Ep 10"
-  },
-  {
-    "waktu": "15:00WIB",
-    "acara": "Little House On... S7, Ep 11"
-  },
-  {
-    "waktu": "16:00WIB",
-    "acara": "The Love Boat S1, Ep 13"
-  },
-  {
-    "waktu": "17:00WIB",
     "acara": "Three's Company S6, Ep 16"
   },
   {
-    "waktu": "17:30WIB",
-    "acara": "M*A*S*H S9, Ep 12"
-  },
-  {
-    "waktu": "18:00WIB",
-    "acara": "Miami Vice S1, Ep 16"
-  },
-  {
-    "waktu": "19:00WIB",
-    "acara": "The Lucy Show S5, Ep 10"
-  },
-  {
-    "waktu": "19:30WIB",
-    "acara": "M*A*S*H S9, Ep 13"
-  },
-  {
-    "waktu": "20:00WIB",
-    "acara": "The Love Boat S1, Ep 14"
-  },
-  {
-    "waktu": "21:00WIB",
+    "waktu": "12:00WIB",
     "acara": "Three's Company S6, Ep 17"
   },
   {
+    "waktu": "12:30WIB",
+    "acara": "Three's Company S6, Ep 18"
+  },
+  {
+    "waktu": "13:00WIB",
+    "acara": "Three's Company S6, Ep 19"
+  },
+  {
+    "waktu": "13:30WIB",
+    "acara": "Three's Company S6, Ep 20"
+  },
+  {
+    "waktu": "14:00WIB",
+    "acara": "The Love Boat S1, Ep 13"
+  },
+  {
+    "waktu": "15:00WIB",
+    "acara": "The Love Boat S1, Ep 14"
+  },
+  {
+    "waktu": "16:00WIB",
+    "acara": "The Love Boat S1, Ep 15"
+  },
+  {
+    "waktu": "17:00WIB",
+    "acara": "The Love Boat S1, Ep 16"
+  },
+  {
+    "waktu": "18:00WIB",
+    "acara": "The Love Boat S1, Ep 17"
+  },
+  {
+    "waktu": "19:00WIB",
+    "acara": "Pride And Prejudice, Ep 5"
+  },
+  {
+    "waktu": "20:00WIB",
+    "acara": "Pride And Prejudice, Ep 6"
+  },
+  {
+    "waktu": "21:00WIB",
+    "acara": "The Lucy Show S5, Ep 9"
+  },
+  {
     "waktu": "21:30WIB",
-    "acara": "Law & Order: SVU S4, Ep 7"
+    "acara": "The Lucy Show S5, Ep 10"
+  },
+  {
+    "waktu": "22:00WIB",
+    "acara": "The Lucy Show S5, Ep 11"
   },
   {
     "waktu": "22:30WIB",
-    "acara": "Mary Tyler Moore S1, Ep 2"
+    "acara": "The Lucy Show S5, Ep 12"
   },
   {
     "waktu": "23:00WIB",
-    "acara": "Miami Vice S1, Ep 16"
+    "acara": "The Lucy Show S5, Ep 13"
+  },
+  {
+    "waktu": "23:30WIB",
+    "acara": "Little House On... S7, Ep 8"
   }
 ]

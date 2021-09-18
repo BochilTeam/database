@@ -1,86 +1,82 @@
 [
   {
-    "waktu": "00:00WIB",
-    "acara": "WLC: Knockout War"
-  },
-  {
-    "waktu": "03:30WIB",
-    "acara": "Red Bull Rookies Cup 2021: SPA"
-  },
-  {
-    "waktu": "04:30WIB",
-    "acara": "Red Bull Rookies Cup 2021: SPA"
-  },
-  {
-    "waktu": "05:30WIB",
-    "acara": "Tissot Superpole Race 2021: FRA"
-  },
-  {
-    "waktu": "06:00WIB",
-    "acara": "Tissot Superpole Race 2021: FRA"
-  },
-  {
-    "waktu": "07:00WIB",
-    "acara": "European Le Mans 2021: FRA"
-  },
-  {
-    "waktu": "08:00WIB",
-    "acara": "MotoAmerica Superbikes 2021"
-  },
-  {
-    "waktu": "09:00WIB",
-    "acara": "MotoAmerica Superbikes 2021"
-  },
-  {
-    "waktu": "10:00WIB",
-    "acara": "ERGP Global Edition 2021"
-  },
-  {
-    "waktu": "11:00WIB",
-    "acara": "W Series 2021 HL: Netherlands"
-  },
-  {
-    "waktu": "11:30WIB",
-    "acara": "European Le Mans 2021: SPA"
-  },
-  {
-    "waktu": "12:30WIB",
-    "acara": "European Le Mans 2021: AUT"
-  },
-  {
-    "waktu": "13:30WIB",
-    "acara": "W Series 2021 HL: Netherlands"
-  },
-  {
-    "waktu": "14:00WIB",
+    "waktu": "02:00WIB",
     "acara": "NTT IndyCar Series 2021"
   },
   {
-    "waktu": "17:00WIB",
-    "acara": "Porsche Carrera Cup Asia 2021"
+    "waktu": "05:00WIB",
+    "acara": "Motul FIM Superbike 2021: FRA"
   },
   {
-    "waktu": "18:00WIB",
-    "acara": "Asian Le Mans Series 2020/21 HL"
+    "waktu": "06:00WIB",
+    "acara": "ABB FIA Formula E C'ship 2021"
   },
   {
-    "waktu": "19:00WIB",
-    "acara": "European Le Mans 2021: SPA"
+    "waktu": "07:00WIB",
+    "acara": "Monster Jam 2021: Glendale"
   },
   {
-    "waktu": "20:00WIB",
-    "acara": "European Le Mans 2021: AUT"
-  },
-  {
-    "waktu": "21:00WIB",
+    "waktu": "08:00WIB",
     "acara": "European Le Mans 2021: FRA"
   },
   {
-    "waktu": "22:00WIB",
+    "waktu": "09:00WIB",
     "acara": "European Le Mans 2021: ITA"
   },
   {
-    "waktu": "23:00WIB",
-    "acara": "WLC: Battlebones"
+    "waktu": "10:00WIB",
+    "acara": "NTT IndyCar Series 2021"
+  },
+  {
+    "waktu": "13:00WIB",
+    "acara": "Motul FIM Superbike 2021: FRA"
+  },
+  {
+    "waktu": "14:00WIB",
+    "acara": "Motul FIM Superbike 2021: FRA"
+  },
+  {
+    "waktu": "15:00WIB",
+    "acara": "Red Bull Rookies Cup 2021: SPA"
+  },
+  {
+    "waktu": "16:00WIB",
+    "acara": "Tissot Superpole Race 2021 (L)"
+  },
+  {
+    "waktu": "16:30WIB",
+    "acara": "In Focus: Henrik Stenson"
+  },
+  {
+    "waktu": "16:40WIB",
+    "acara": "FIM Enel Moto E World Cup (L)"
+  },
+  {
+    "waktu": "17:30WIB",
+    "acara": "FIM Supersport 300 C'ship (L)"
+  },
+  {
+    "waktu": "18:30WIB",
+    "acara": "FIM Supersport C'ship 2021 (L)"
+  },
+  {
+    "waktu": "19:30WIB",
+    "acara": "In Focus: Petra Kvitova"
+  },
+  {
+    "waktu": "19:40WIB",
+    "acara": "In Focus: Jazz Janeeattananond"
+  },
+  {
+    "waktu": "19:45WIB",
+    "acara": "Motul FIM Superbike 2021 (L)"
+  },
+  {
+    "waktu": "23:45WIB",
+    "acara": "In Focus: Petra Kvitova"
+  },
+  {
+    "waktu": "23:55WIB",
+    "acara": "In Focus: Jazz Janeeattananond"
   }
 ]

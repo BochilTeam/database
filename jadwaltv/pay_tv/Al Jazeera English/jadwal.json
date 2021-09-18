@@ -21,7 +21,11 @@
   },
   {
     "waktu": "03:00WIB",
-    "acara": "South Africa: Toxic City"
+    "acara": "The Bottom Line"
+  },
+  {
+    "waktu": "03:30WIB",
+    "acara": "All Hail The Algorithm: Read Me"
   },
   {
     "waktu": "04:00WIB",
@@ -33,7 +37,7 @@
   },
   {
     "waktu": "05:30WIB",
-    "acara": "Witness: Sudan's Revolution"
+    "acara": "Counting The Cost"
   },
   {
     "waktu": "06:00WIB",
@@ -41,7 +45,7 @@
   },
   {
     "waktu": "06:30WIB",
-    "acara": "People & Power: Sinaloa, Pt 1"
+    "acara": "Risking It All: Brazil"
   },
   {
     "waktu": "07:00WIB",
@@ -53,7 +57,7 @@
   },
   {
     "waktu": "08:00WIB",
-    "acara": "Witness: 9/11 Kids"
+    "acara": "Killing Count: White Buses"
   },
   {
     "waktu": "09:00WIB",
@@ -61,7 +65,7 @@
   },
   {
     "waktu": "09:30WIB",
-    "acara": "101 East: Behind Bars, Pt 2"
+    "acara": "The Stream"
   },
   {
     "waktu": "10:00WIB",
@@ -69,7 +73,7 @@
   },
   {
     "waktu": "10:30WIB",
-    "acara": "Risking It All: Brazil"
+    "acara": "101 East: Candle In The Wind"
   },
   {
     "waktu": "11:00WIB",
@@ -77,7 +81,7 @@
   },
   {
     "waktu": "11:30WIB",
-    "acara": "The Stream"
+    "acara": "Talk To Al Jazeera: A. Guterres"
   },
   {
     "waktu": "12:00WIB",
@@ -85,11 +89,11 @@
   },
   {
     "waktu": "12:30WIB",
-    "acara": "Counting The Cost"
+    "acara": "Forbidden Reel: Afghan Cinema"
   },
   {
     "waktu": "13:00WIB",
-    "acara": "Al Jazeera World"
+    "acara": "Witness: A Child Of Afghanistan"
   },
   {
     "waktu": "14:00WIB",
@@ -105,7 +109,7 @@
   },
   {
     "waktu": "15:30WIB",
-    "acara": "The Stream"
+    "acara": "The Listening Post"
   },
   {
     "waktu": "16:00WIB",
@@ -113,7 +117,7 @@
   },
   {
     "waktu": "16:30WIB",
-    "acara": "Witness: Sudan's Revolution"
+    "acara": "Counting The Cost"
   },
   {
     "waktu": "17:00WIB",
@@ -129,7 +133,11 @@
   },
   {
     "waktu": "19:00WIB",
-    "acara": "South Africa: Toxic City"
+    "acara": "The Bottom Line"
+  },
+  {
+    "waktu": "19:30WIB",
+    "acara": "All Hail The Algorithm: Read Me"
   },
   {
     "waktu": "20:00WIB",
@@ -153,6 +161,6 @@
   },
   {
     "waktu": "23:30WIB",
-    "acara": "Earthrise: Change Of Power"
+    "acara": "People & Power: Sinaloa, Pt 2"
   }
 ]

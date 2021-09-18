@@ -13,7 +13,7 @@
   },
   {
     "waktu": "02:00WIB",
-    "acara": "Capture"
+    "acara": "Focus"
   },
   {
     "waktu": "02:30WIB",
@@ -29,19 +29,19 @@
   },
   {
     "waktu": "04:30WIB",
-    "acara": "Decision Maker"
+    "acara": "Womens Talk"
   },
   {
     "waktu": "05:00WIB",
-    "acara": "Capture"
+    "acara": "Home Ideas"
   },
   {
     "waktu": "05:30WIB",
-    "acara": "Double Gardan"
+    "acara": "Focus"
   },
   {
     "waktu": "06:00WIB",
-    "acara": "Traventure Man"
+    "acara": "Capture"
   },
   {
     "waktu": "06:30WIB",
@@ -49,83 +49,91 @@
   },
   {
     "waktu": "07:00WIB",
-    "acara": "Urban Street Food"
+    "acara": "Double Gardan"
   },
   {
     "waktu": "07:30WIB",
-    "acara": "Womens Talk"
+    "acara": "Traventure Man"
   },
   {
     "waktu": "08:00WIB",
-    "acara": "New Power Breakfast (L)"
+    "acara": "People And Hobbies"
   },
   {
-    "waktu": "09:30WIB",
-    "acara": "Traventure Man"
+    "waktu": "08:30WIB",
+    "acara": "Focus"
+  },
+  {
+    "waktu": "09:00WIB",
+    "acara": "The Best Concert"
   },
   {
     "waktu": "10:00WIB",
-    "acara": "Market Review (L)"
-  },
-  {
-    "waktu": "11:00WIB",
     "acara": "Capture"
   },
   {
-    "waktu": "11:30WIB",
-    "acara": "IDX 1st Closing Market (L)"
-  },
-  {
-    "waktu": "12:30WIB",
+    "waktu": "10:30WIB",
     "acara": "Womens Talk"
   },
   {
-    "waktu": "13:00WIB",
-    "acara": "Urban Street Food"
-  },
-  {
-    "waktu": "13:30WIB",
-    "acara": "People And Hobbies"
-  },
-  {
-    "waktu": "14:00WIB",
-    "acara": "Home Ideas"
-  },
-  {
-    "waktu": "14:30WIB",
-    "acara": "News Screen Evening (L)"
-  },
-  {
-    "waktu": "15:00WIB",
-    "acara": "IDX 2nd Closing Market (L)"
-  },
-  {
-    "waktu": "16:00WIB",
+    "waktu": "11:00WIB",
     "acara": "Hangout"
   },
   {
-    "waktu": "16:30WIB",
-    "acara": "Market Headlines (L)"
+    "waktu": "11:30WIB",
+    "acara": "Ask Your Doctor"
   },
   {
-    "waktu": "17:00WIB",
-    "acara": "Decision Maker"
-  },
-  {
-    "waktu": "17:30WIB",
-    "acara": "Traventure Man"
-  },
-  {
-    "waktu": "18:00WIB",
-    "acara": "People And Hobbies"
-  },
-  {
-    "waktu": "18:30WIB",
+    "waktu": "12:00WIB",
     "acara": "Urban Street Food"
   },
   {
+    "waktu": "12:30WIB",
+    "acara": "Traventure Man"
+  },
+  {
+    "waktu": "13:00WIB",
+    "acara": "Decision Maker"
+  },
+  {
+    "waktu": "13:30WIB",
+    "acara": "Home Ideas"
+  },
+  {
+    "waktu": "14:00WIB",
+    "acara": "Indo Top Chart"
+  },
+  {
+    "waktu": "15:00WIB",
+    "acara": "Throwback Time"
+  },
+  {
+    "waktu": "16:00WIB",
+    "acara": "Capture"
+  },
+  {
+    "waktu": "16:30WIB",
+    "acara": "Focus"
+  },
+  {
+    "waktu": "17:00WIB",
+    "acara": "Home Ideas"
+  },
+  {
+    "waktu": "17:30WIB",
+    "acara": "People And Hobbies"
+  },
+  {
+    "waktu": "18:00WIB",
+    "acara": "The Best Concert"
+  },
+  {
     "waktu": "19:00WIB",
-    "acara": "IDX 1st Closing Market"
+    "acara": "Traventure Man"
+  },
+  {
+    "waktu": "19:30WIB",
+    "acara": "Hangout"
   },
   {
     "waktu": "20:00WIB",
@@ -133,22 +141,22 @@
   },
   {
     "waktu": "21:00WIB",
-    "acara": "News Screen Evening"
+    "acara": "Double Gardan"
   },
   {
     "waktu": "21:30WIB",
-    "acara": "IDX 2nd Closing Market"
+    "acara": "Home Ideas"
+  },
+  {
+    "waktu": "22:00WIB",
+    "acara": "Capture"
   },
   {
     "waktu": "22:30WIB",
-    "acara": "Market Headlines"
+    "acara": "Urban Street Food"
   },
   {
     "waktu": "23:00WIB",
-    "acara": "News Screen Evening"
-  },
-  {
-    "waktu": "23:30WIB",
-    "acara": "Hangout"
+    "acara": "Indo Top Chart"
   }
 ]

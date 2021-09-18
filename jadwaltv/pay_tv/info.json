@@ -1,0 +1,486 @@
+[
+  {
+    "channel": "Al Jazeera English",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/0/al-jazeera-english"
+  },
+  {
+    "channel": "Al Quran Al Kareem",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/1/al-quran-al-kareem"
+  },
+  {
+    "channel": "Animal Planet",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/2/animal-planet"
+  },
+  {
+    "channel": "Animax",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/3/animax"
+  },
+  {
+    "channel": "Arirang",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/4/arirang"
+  },
+  {
+    "channel": "Asian Food Network",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/5/asian-food-network"
+  },
+  {
+    "channel": "Asian Food Network HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/6/asian-food-network-hd"
+  },
+  {
+    "channel": "AXN",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/7/axn"
+  },
+  {
+    "channel": "AXN HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/8/axn-hd"
+  },
+  {
+    "channel": "BabyTV",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/9/babytv"
+  },
+  {
+    "channel": "BBC Earth",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/10/bbc-earth"
+  },
+  {
+    "channel": "BBC Earth HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/11/bbc-earth-hd"
+  },
+  {
+    "channel": "BBC World News",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/12/bbc-world-news"
+  },
+  {
+    "channel": "beIN Sports 1",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/13/bein-sports-1"
+  },
+  {
+    "channel": "beIN Sports 1 HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/14/bein-sports-1-hd"
+  },
+  {
+    "channel": "beIN Sports 2",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/15/bein-sports-2"
+  },
+  {
+    "channel": "beIN Sports 2 HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/16/bein-sports-2-hd"
+  },
+  {
+    "channel": "Berita Satu",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/17/berita-satu"
+  },
+  {
+    "channel": "besmart",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/18/besmart"
+  },
+  {
+    "channel": "Bloomberg",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/19/bloomberg"
+  },
+  {
+    "channel": "Boomerang",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/20/boomerang"
+  },
+  {
+    "channel": "Cartoon Network",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/21/cartoon-network"
+  },
+  {
+    "channel": "Cartoon Network HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/22/cartoon-network-hd"
+  },
+  {
+    "channel": "CBeebies",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/23/cbeebies"
+  },
+  {
+    "channel": "CCM",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/24/ccm"
+  },
+  {
+    "channel": "Celestial Movies",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/25/celestial-movies"
+  },
+  {
+    "channel": "CGTN",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/26/cgtn"
+  },
+  {
+    "channel": "CGTN Documentary",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/27/cgtn-documentary"
+  },
+  {
+    "channel": "Channel News Asia",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/28/channel-news-asia"
+  },
+  {
+    "channel": "Channel [V]",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/29/channel-v"
+  },
+  {
+    "channel": "CINEMAX",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/30/cinemax"
+  },
+  {
+    "channel": "CINEMAX HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/31/cinemax-hd"
+  },
+  {
+    "channel": "CNBC",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/32/cnbc"
+  },
+  {
+    "channel": "CNN International",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/33/cnn-international"
+  },
+  {
+    "channel": "Crime Investigation",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/34/crime-investigation"
+  },
+  {
+    "channel": "Discovery Channel",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/35/discovery-channel"
+  },
+  {
+    "channel": "Disney Channel",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/36/disney-channel"
+  },
+  {
+    "channel": "Disney Channel HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/37/disney-channel-hd"
+  },
+  {
+    "channel": "Disney Junior",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/38/disney-junior"
+  },
+  {
+    "channel": "Disney Junior HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/39/disney-junior-hd"
+  },
+  {
+    "channel": "DW English",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/40/dw-english"
+  },
+  {
+    "channel": "Entertainment",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/41/entertainment"
+  },
+  {
+    "channel": "Fight Sports",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/42/fight-sports"
+  },
+  {
+    "channel": "FMN",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/43/fmn"
+  },
+  {
+    "channel": "FOX",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/44/fox"
+  },
+  {
+    "channel": "FOX Action Movies",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/45/fox-action-movies"
+  },
+  {
+    "channel": "FOX Action Movies HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/46/fox-action-movies-hd"
+  },
+  {
+    "channel": "FOX Crime",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/47/fox-crime"
+  },
+  {
+    "channel": "Fox Crime HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/48/fox-crime-hd"
+  },
+  {
+    "channel": "FOX Family Movies",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/49/fox-family-movies"
+  },
+  {
+    "channel": "FOX Family Movies HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/50/fox-family-movies-hd"
+  },
+  {
+    "channel": "FOX HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/51/fox-hd"
+  },
+  {
+    "channel": "Fox Life",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/52/fox-life"
+  },
+  {
+    "channel": "Fox Life HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/53/fox-life-hd"
+  },
+  {
+    "channel": "FOX Movies",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/54/fox-movies"
+  },
+  {
+    "channel": "FOX Movies Premium HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/55/fox-movies-premium-hd"
+  },
+  {
+    "channel": "FOX News",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/56/fox-news"
+  },
+  {
+    "channel": "FOX Sports",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/57/fox-sports"
+  },
+  {
+    "channel": "FOX Sports 2",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/58/fox-sports-2"
+  },
+  {
+    "channel": "FOX Sports 2 HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/59/fox-sports-2-hd"
+  },
+  {
+    "channel": "FOX Sports 3",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/60/fox-sports-3"
+  },
+  {
+    "channel": "FOX Sports HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/61/fox-sports-hd"
+  },
+  {
+    "channel": "France 24 English",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/62/france-24-english"
+  },
+  {
+    "channel": "HBO",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/63/hbo"
+  },
+  {
+    "channel": "HBO Family",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/64/hbo-family"
+  },
+  {
+    "channel": "HBO Family HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/65/hbo-family-hd"
+  },
+  {
+    "channel": "HBO HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/66/hbo-hd"
+  },
+  {
+    "channel": "HBO Hits",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/67/hbo-hits"
+  },
+  {
+    "channel": "HBO Hits HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/68/hbo-hits-hd"
+  },
+  {
+    "channel": "HBO Signature",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/69/hbo-signature"
+  },
+  {
+    "channel": "HBO Signature HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/70/hbo-signature-hd"
+  },
+  {
+    "channel": "HGTV",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/71/hgtv"
+  },
+  {
+    "channel": "HGTV HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/72/hgtv-hd"
+  },
+  {
+    "channel": "History",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/73/history"
+  },
+  {
+    "channel": "HITS",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/74/hits"
+  },
+  {
+    "channel": "HITS Movies",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/75/hits-movies"
+  },
+  {
+    "channel": "IDX",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/76/idx"
+  },
+  {
+    "channel": "Infotaiment",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/77/infotaiment"
+  },
+  {
+    "channel": "JAKTV",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/78/jaktv"
+  },
+  {
+    "channel": "Kids TV",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/79/kids-tv"
+  },
+  {
+    "channel": "KIX",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/80/kix"
+  },
+  {
+    "channel": "Kompas TV",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/81/kompas-tv"
+  },
+  {
+    "channel": "LIFE",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/82/life"
+  },
+  {
+    "channel": "Lifestyle & Fashion",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/83/lifestyle-fashion"
+  },
+  {
+    "channel": "Lifetime",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/84/lifetime"
+  },
+  {
+    "channel": "Miao Mi",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/85/miao-mi"
+  },
+  {
+    "channel": "MNC News",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/86/mnc-news"
+  },
+  {
+    "channel": "MNC Sports",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/87/mnc-sports"
+  },
+  {
+    "channel": "MSHOP Signature",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/88/mshop-signature"
+  },
+  {
+    "channel": "MSHOP Super Sale!",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/89/mshop-super-sale"
+  },
+  {
+    "channel": "Music TV",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/90/music-tv"
+  },
+  {
+    "channel": "Muslim TV",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/91/muslim-tv"
+  },
+  {
+    "channel": "National Geographic Channel",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/92/national-geographic-channel"
+  },
+  {
+    "channel": "National Geographic Channel HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/93/national-geographic-channel-hd"
+  },
+  {
+    "channel": "National Geographic People",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/94/national-geographic-people"
+  },
+  {
+    "channel": "National Geographic Wild",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/95/national-geographic-wild"
+  },
+  {
+    "channel": "NHK World",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/96/nhk-world"
+  },
+  {
+    "channel": "NHK World Premium",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/97/nhk-world-premium"
+  },
+  {
+    "channel": "Nickelodeon",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/98/nickelodeon"
+  },
+  {
+    "channel": "Nickelodeon Jr",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/99/nickelodeon-jr"
+  },
+  {
+    "channel": "OK TV",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/100/ok-tv"
+  },
+  {
+    "channel": "ONE",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/101/one"
+  },
+  {
+    "channel": "ONE HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/102/one-hd"
+  },
+  {
+    "channel": "SCM",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/103/scm"
+  },
+  {
+    "channel": "SCM HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/104/scm-hd"
+  },
+  {
+    "channel": "SCM Legend",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/105/scm-legend"
+  },
+  {
+    "channel": "SEA TODAY",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/106/sea-today"
+  },
+  {
+    "channel": "Soccer Channel",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/107/soccer-channel"
+  },
+  {
+    "channel": "Soccer Channel HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/108/soccer-channel-hd"
+  },
+  {
+    "channel": "Tawaf TV",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/109/tawaf-tv"
+  },
+  {
+    "channel": "Thrill",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/110/thrill"
+  },
+  {
+    "channel": "TLC",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/111/tlc"
+  },
+  {
+    "channel": "tvN",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/112/tvn"
+  },
+  {
+    "channel": "tvN HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/113/tvn-hd"
+  },
+  {
+    "channel": "tvN Movies",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/114/tvn-movies"
+  },
+  {
+    "channel": "tvN Movies HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/115/tvn-movies-hd"
+  },
+  {
+    "channel": "Vision Prime",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/116/vision-prime"
+  },
+  {
+    "channel": "Vision Prime HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/117/vision-prime-hd"
+  },
+  {
+    "channel": "Warner TV",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/118/warner-tv"
+  },
+  {
+    "channel": "Warner TV HD",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/119/warner-tv-hd"
+  },
+  {
+    "channel": "Zee Bioskop",
+    "url": "https://www.jadwaltv.net/jadwal-pay-tv/120/zee-bioskop"
+  }
+]

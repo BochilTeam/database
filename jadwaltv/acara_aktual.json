@@ -1,52 +1,52 @@
 {
   "ANTV": [
     {
-      "waktu": "14:00WIB",
-      "acara": "Balika Vadhu"
-    },
-    {
       "waktu": "16:00WIB",
       "acara": "Terpaksa Menikahi Tuan Muda"
+    },
+    {
+      "waktu": "18:30WIB",
+      "acara": "Berbagi Suami"
     }
   ],
   "GTV": [
     {
-      "waktu": "14:30WIB",
-      "acara": "SpongeBob SquarePants Movie"
+      "waktu": "16:00WIB",
+      "acara": "Aku, Kau Dan Ekskul"
     },
     {
-      "waktu": "17:00WIB",
-      "acara": "Makan Kuy!"
+      "waktu": "18:00WIB",
+      "acara": "Kisah Viral"
     }
   ],
   "INDOSIAR": [
     {
-      "waktu": "13:30WIB",
-      "acara": "Pintu Berkah Siang"
+      "waktu": "15:00WIB",
+      "acara": "Bhayangkara FC vs Madura United FC - BRI LIGA 1"
     },
     {
-      "waktu": "15:00WIB",
-      "acara": "SUAMIKU HANYA MENCINTAI DIRINYA SENDIRI"
+      "waktu": "18:00WIB",
+      "acara": "PSM Makassar vs Persebaya Surabaya"
     }
   ],
   "INEWS TV": [
     {
-      "waktu": "14:15WIB",
-      "acara": "iSeleb (L)"
+      "waktu": "16:00WIB",
+      "acara": "iNews Sore (L)"
     },
     {
-      "waktu": "15:00WIB",
-      "acara": "Realita (L)"
+      "waktu": "18:00WIB",
+      "acara": "iNews Room Weekend"
     }
   ],
   "KOMPAS TV": [
     {
-      "waktu": "14:30WIB",
-      "acara": "Saksi Kunci"
+      "waktu": "16:00WIB",
+      "acara": "Kompas Petang"
     },
     {
-      "waktu": "15:00WIB",
-      "acara": "Update Korona"
+      "waktu": "18:00WIB",
+      "acara": "Petualangan Brilian The Series"
     }
   ],
   "METRO TV": [
@@ -57,102 +57,102 @@
   ],
   "MNCTV": [
     {
-      "waktu": "14:00WIB",
-      "acara": "SERIAL PILIHAN SIANG"
+      "waktu": "14:30WIB",
+      "acara": "ZONA  JUARA"
     },
     {
-      "waktu": "15:15WIB",
-      "acara": "1"
+      "waktu": "16:30WIB",
+      "acara": "UPIN IPIN"
     }
   ],
   "NET TV": [
     {
-      "waktu": "13:30WIB",
-      "acara": "Detective Conan"
+      "waktu": "14:30WIB",
+      "acara": "Shinbi's House"
     },
     {
-      "waktu": "15:00WIB",
-      "acara": "Shinbi's House"
+      "waktu": "16:30WIB",
+      "acara": "Masak Asik"
     }
   ],
   "OCHANNEL": [
     {
-      "waktu": "14:00WIB",
-      "acara": "O Shop"
+      "waktu": "15:00WIB",
+      "acara": "BRI Liga 1 Live"
     },
     {
-      "waktu": "15:00WIB",
+      "waktu": "17:30WIB",
       "acara": "O Shop"
     }
   ],
   "RCTI": [
     {
-      "waktu": "12:30WIB",
-      "acara": "LDI SIANG"
+      "waktu": "14:30WIB",
+      "acara": "SATURDAY MOVIE SPECIAL"
     },
     {
-      "waktu": "14:45WIB",
-      "acara": "PREMAN PENSIUN (RR)"
+      "waktu": "16:30WIB",
+      "acara": "TUKANG OJEK PENGKOLAN"
     }
   ],
   "RTV": [
     {
-      "waktu": "14:00WIB",
+      "waktu": "16:00WIB",
       "acara": "Sinema Keluarga"
     },
     {
-      "waktu": "15:00WIB",
+      "waktu": "17:00WIB",
       "acara": "Sinema Keluarga"
     }
   ],
   "SCTV": [
     {
-      "waktu": "14:15WIB",
-      "acara": "Cinta Amara"
-    },
-    {
       "waktu": "15:30WIB",
       "acara": "Love Story The Series"
+    },
+    {
+      "waktu": "17:30WIB",
+      "acara": "Dari Jendela SMP"
     }
   ],
   "TRANS7": [
     {
-      "waktu": "14:15WIB",
-      "acara": "Redaksi"
+      "waktu": "16:00WIB",
+      "acara": "Makan Receh"
     },
     {
-      "waktu": "15:15WIB",
-      "acara": "Jejak Si Gundul"
+      "waktu": "17:00WIB",
+      "acara": "D'Cafe"
     }
   ],
   "TRANSTV": [
     {
-      "waktu": "14:00WIB",
-      "acara": "Rumpi No Secret"
+      "waktu": "16:00WIB",
+      "acara": "Janji Suci Raffi & Gigi"
     },
     {
-      "waktu": "15:00WIB",
-      "acara": "Insert Today"
+      "waktu": "17:00WIB",
+      "acara": "Bikin Laper"
     }
   ],
   "TVONE": [
     {
-      "waktu": "14:00WIB",
-      "acara": "Damai Indonesiaku"
+      "waktu": "16:00WIB",
+      "acara": "Kabar Petang"
     },
     {
-      "waktu": "15:00WIB",
-      "acara": "Kabar Pasar Sore"
+      "waktu": "17:30WIB",
+      "acara": "Kabar Petang Pilihan"
     }
   ],
   "TVRI": [
     {
-      "waktu": "14:03WIB",
-      "acara": "Musik"
+      "waktu": "16:00WIB",
+      "acara": "Info Covid 19 Terkini"
     },
     {
-      "waktu": "15:00WIB",
-      "acara": "Mimbar Agama"
+      "waktu": "17:00WIB",
+      "acara": "Guest House"
     }
   ]
 }

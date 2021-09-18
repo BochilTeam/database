@@ -21,15 +21,27 @@
   },
   {
     "waktu": "05:00WIB",
-    "acara": "Talking Tom Heroes"
+    "acara": "Baby Looney Tunes"
+  },
+  {
+    "waktu": "05:30WIB",
+    "acara": "Mush Mush And The Mushables"
   },
   {
     "waktu": "06:00WIB",
-    "acara": "Shaun The Sheep"
+    "acara": "Alice & Lewis"
+  },
+  {
+    "waktu": "06:30WIB",
+    "acara": "Talking Tom Heroes"
   },
   {
     "waktu": "07:00WIB",
-    "acara": "The Fungies!"
+    "acara": "Talking Tom And Friends"
+  },
+  {
+    "waktu": "07:30WIB",
+    "acara": "Shaun The Sheep"
   },
   {
     "waktu": "08:00WIB",
@@ -37,7 +49,7 @@
   },
   {
     "waktu": "09:00WIB",
-    "acara": "Mr. Bean: The Animated Series"
+    "acara": "Tom And Jerry: Meet Sherlock"
   },
   {
     "waktu": "10:00WIB",
@@ -45,59 +57,83 @@
   },
   {
     "waktu": "11:00WIB",
-    "acara": "The Powerpuff Girls"
+    "acara": "Ninjago: Masters Of Spinjitzu"
+  },
+  {
+    "waktu": "11:30WIB",
+    "acara": "Power Players"
   },
   {
     "waktu": "12:00WIB",
-    "acara": "The Powerpuff Girls"
+    "acara": "Teen Titans Go!"
   },
   {
     "waktu": "12:30WIB",
-    "acara": "DC Super Hero Girls Series"
+    "acara": "Summer Camp Island"
+  },
+  {
+    "waktu": "13:00WIB",
+    "acara": "Maca & Roni"
   },
   {
     "waktu": "13:30WIB",
-    "acara": "Ninjago"
-  },
-  {
-    "waktu": "14:00WIB",
-    "acara": "Teen Titans Go!"
-  },
-  {
-    "waktu": "15:00WIB",
-    "acara": "We Bare Bears"
-  },
-  {
-    "waktu": "16:00WIB",
     "acara": "The Amazing World Of Gumball"
   },
   {
-    "waktu": "17:00WIB",
-    "acara": "Mr. Bean: The Animated Series"
+    "waktu": "14:00WIB",
+    "acara": "Ninja Express"
   },
   {
-    "waktu": "18:00WIB",
-    "acara": "Teen Titans Go!"
-  },
-  {
-    "waktu": "19:00WIB",
+    "waktu": "14:30WIB",
     "acara": "We Bare Bears"
   },
   {
-    "waktu": "20:00WIB",
-    "acara": "Monster Beach"
+    "waktu": "15:00WIB",
+    "acara": "Power Players"
   },
   {
-    "waktu": "20:30WIB",
-    "acara": "DC Super Hero Girls Series"
+    "waktu": "15:30WIB",
+    "acara": "Summer Camp Island"
+  },
+  {
+    "waktu": "16:00WIB",
+    "acara": "Ben 10"
+  },
+  {
+    "waktu": "16:30WIB",
+    "acara": "Ninjago: Masters Of Spinjitzu"
+  },
+  {
+    "waktu": "17:00WIB",
+    "acara": "Total Dramarama"
+  },
+  {
+    "waktu": "17:30WIB",
+    "acara": "Maca & Roni"
+  },
+  {
+    "waktu": "18:00WIB",
+    "acara": "Ninja Express"
+  },
+  {
+    "waktu": "18:30WIB",
+    "acara": "Lego DC Batman: Family Matters"
+  },
+  {
+    "waktu": "20:00WIB",
+    "acara": "Teen Titans Go!"
   },
   {
     "waktu": "21:00WIB",
-    "acara": "Adventure Time"
+    "acara": "Batman: The Brave And The Bold"
+  },
+  {
+    "waktu": "21:30WIB",
+    "acara": "Batman: The Brave And The Bold"
   },
   {
     "waktu": "22:00WIB",
-    "acara": "Regular Show"
+    "acara": "Justice League Action"
   },
   {
     "waktu": "23:00WIB",

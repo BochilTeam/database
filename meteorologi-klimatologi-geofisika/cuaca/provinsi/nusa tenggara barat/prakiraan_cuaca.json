@@ -2,13 +2,13 @@
   {
     "kota": "Dompu",
     "prakiraan_cuaca": {
-      "malam": "Berawan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "malam": "Cerah Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "24 - 33 °C",
-    "kelembapan": "55 - 90%"
+    "suhu": "24 - 34 °C",
+    "kelembapan": "50 - 90%"
   },
   {
     "kota": "Gerung",
@@ -18,19 +18,19 @@
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "22 - 31 °C",
-    "kelembapan": "60 - 90%"
+    "suhu": "24 - 32 °C",
+    "kelembapan": "60 - 95%"
   },
   {
     "kota": "Kota Bima",
     "prakiraan_cuaca": {
-      "malam": "Berawan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "malam": "Cerah Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "25 - 33 °C",
-    "kelembapan": "55 - 90%"
+    "suhu": "25 - 34 °C",
+    "kelembapan": "50 - 90%"
   },
   {
     "kota": "Mataram",
@@ -40,8 +40,8 @@
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "23 - 32 °C",
-    "kelembapan": "60 - 90%"
+    "suhu": "24 - 32 °C",
+    "kelembapan": "60 - 95%"
   },
   {
     "kota": "Praya",
@@ -51,19 +51,19 @@
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "22 - 32 °C",
-    "kelembapan": "55 - 90%"
+    "suhu": "23 - 32 °C",
+    "kelembapan": "60 - 95%"
   },
   {
     "kota": "Sape",
     "prakiraan_cuaca": {
-      "malam": "Berawan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "malam": "Cerah Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "25 - 35 °C",
-    "kelembapan": "50 - 90%"
+    "suhu": "26 - 35 °C",
+    "kelembapan": "50 - 85%"
   },
   {
     "kota": "Selong",
@@ -73,19 +73,19 @@
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "22 - 32 °C",
-    "kelembapan": "50 - 90%"
+    "suhu": "26 - 33 °C",
+    "kelembapan": "55 - 95%"
   },
   {
     "kota": "Sumbawa Besar",
     "prakiraan_cuaca": {
-      "malam": "Berawan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "malam": "Cerah Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "23 - 33 °C",
-    "kelembapan": "50 - 90%"
+    "suhu": "24 - 34 °C",
+    "kelembapan": "50 - 95%"
   },
   {
     "kota": "Taliwang",
@@ -95,8 +95,8 @@
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "23 - 32 °C",
-    "kelembapan": "60 - 90%"
+    "suhu": "23 - 34 °C",
+    "kelembapan": "55 - 95%"
   },
   {
     "kota": "Tanjung",
@@ -106,7 +106,7 @@
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "22 - 31 °C",
-    "kelembapan": "60 - 90%"
+    "suhu": "24 - 32 °C",
+    "kelembapan": "60 - 95%"
   }
 ]
