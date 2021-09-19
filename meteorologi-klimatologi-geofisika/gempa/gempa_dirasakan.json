@@ -1,5 +1,24 @@
 [
   {
+    "waktu": "19/09/2021 06:38:52 WIB",
+    "lintang": "7.47 LS",
+    "bujur": "106.78 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "42 Km",
+    "wilayah": "Pusat gempa berada di laut 59 Km Tenggara Kab. Sukabumi",
+    "warning": [
+      "III Cisurupan",
+      "III Cikajang",
+      "III Ciamis",
+      "III Pangandaran",
+      "III Karangnunggal",
+      "III Ciherang",
+      "III Pangalengan",
+      "III Gardu",
+      "III Cihurip"
+    ]
+  },
+  {
     "waktu": "19/09/2021 02:42:35 WIB",
     "lintang": "1.14 LU",
     "bujur": "128.15 BT",
@@ -221,17 +240,6 @@
     "wilayah": "Pusat gempa berada di laut 51 Km Tenggara Waingapu",
     "warning": [
       "II - III Waingapu"
-    ]
-  },
-  {
-    "waktu": "09/09/2021 09:16:31 WIB",
-    "lintang": "3.94 LS",
-    "bujur": "134.97 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 99 Km BaratDaya Nabire",
-    "warning": [
-      "III Nabire"
     ]
   }
 ]
