@@ -5,9 +5,7 @@
   "main": ".",
   "scripts": {
     "test": "node test.js",
-    "scraper": "node scraper/index.js --trace-warnings",
-    "scraper2": "node scraper/tanda_waktu.js && node scraper/kurs.js && node scraper/covid19.js && node scraper/cuaca.js && node scraper/cuaca_bandara.js",
-    "scraper3": "node scraper/gempa.js && node scraper/cuaca_bandara.js"
+    "scraper": "node scraper/index.js --trace-warnings"
   },
   "keywords": [
     "Database",
@@ -30,6 +28,6 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.2"
   }
 }
