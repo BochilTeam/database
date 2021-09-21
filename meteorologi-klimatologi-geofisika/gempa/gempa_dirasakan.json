@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "21/09/2021 08:20:46 WIB",
+    "lintang": "2.78 LS",
+    "bujur": "128.1 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 33 km Utara Piru",
+    "warning": [
+      "III Ambon",
+      "III Piru"
+    ]
+  },
+  {
     "waktu": "20/09/2021 22:10:38 WIB",
     "lintang": "6.33 LS",
     "bujur": "103.74 BT",
@@ -229,17 +241,6 @@
     "wilayah": "Pusat gempa berada di darat 9 Km Tenggara Mamasa",
     "warning": [
       "III Mamasa"
-    ]
-  },
-  {
-    "waktu": "09/09/2021 18:59:11 WIB",
-    "lintang": "1.5 LS",
-    "bujur": "134.27 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "26 Km",
-    "wilayah": "Pusat gempa berada di laut 12 Km tenggara Ransiki",
-    "warning": [
-      "II-III Oransbari"
     ]
   }
 ]
