@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/09/2021 19:29:48 WIB",
+    "lintang": "3.12 LU",
+    "bujur": "117.66 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 27 km Tenggara Tarakan",
+    "warning": [
+      "III - IV Tarakan"
+    ]
+  },
+  {
     "waktu": "21/09/2021 17:33:23 WIB",
     "lintang": "2.31 LS",
     "bujur": "140.29 BT",
@@ -225,23 +236,6 @@
     "wilayah": "Pusat gempa berada di darat 1 km timur Labuha",
     "warning": [
       "III Labuha"
-    ]
-  },
-  {
-    "waktu": "12/09/2021 16:02:20 WIB",
-    "lintang": "0.52 LS",
-    "bujur": "99.64 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "29 Km",
-    "wilayah": "Pusat gempa berada di laut 49 km Barat Daya Agam",
-    "warning": [
-      "III Bukittinggi",
-      "III Payakumbuh",
-      "III Solok selatan",
-      "III Pesisir Selatan",
-      "II - III Padang",
-      "II - III Padang Panjang",
-      "II Mukomuko"
     ]
   }
 ]
