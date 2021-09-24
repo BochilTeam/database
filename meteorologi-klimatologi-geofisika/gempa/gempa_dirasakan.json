@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "24/09/2021 22:39:39 WIB",
+    "lintang": "2.29 LS",
+    "bujur": "119.4 BT",
+    "magnitudo": "4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km tenggara Mamasa",
+    "warning": [
+      "III-IV Mamasa",
+      "II - III Mamuju"
+    ]
+  },
+  {
     "waktu": "22/09/2021 19:03:29 WIB",
     "lintang": "1.85 LU",
     "bujur": "126.6 BT",
@@ -226,17 +238,6 @@
       "Pangandaran",
       "II Cikelet Pameungpek",
       "Parungpoteng"
-    ]
-  },
-  {
-    "waktu": "13/09/2021 15:50:23 WIB",
-    "lintang": "0.75 LS",
-    "bujur": "127.6 BT",
-    "magnitudo": "3",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km tenggara Labuha",
-    "warning": [
-      "II-III Labuha"
     ]
   }
 ]

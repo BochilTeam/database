@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24-09-21 22:04:21 WIB",
+    "lintang": "8.67",
+    "bujur": "94.35",
+    "magnitudo": "5.2",
+    "kedalaman": "64 Km",
+    "wilayah": "326 km BaratLaut KOTA-SABANG-ACEH"
+  },
+  {
     "waktu": "24-09-21 13:36:15 WIB",
     "lintang": "2.19",
     "bujur": "126.72",
@@ -230,13 +238,5 @@
     "magnitudo": "5.9",
     "kedalaman": "76 Km",
     "wilayah": "128 km Tenggara KAIMANA-PAPUABRT"
-  },
-  {
-    "waktu": "31-07-21 00:52:04 WIB",
-    "lintang": "3.99",
-    "bujur": "127.77",
-    "magnitudo": "5.4",
-    "kedalaman": "113 Km",
-    "wilayah": "121 km Tenggara MELONGUANE-SULUT"
   }
 ]
