@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/09/2021 00:01:32 WIB",
+    "lintang": "2.3 LS",
+    "bujur": "140.25 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di laut 36 km BaratLaut Kab. Jayapura",
+    "warning": [
+      "II Sentani"
+    ]
+  },
+  {
     "waktu": "26/09/2021 20:15:48 WIB",
     "lintang": "8.1 LS",
     "bujur": "107.89 BT",
@@ -231,17 +242,6 @@
       "II Bone Bolango",
       "II Gorontalo",
       "II Toli-toli"
-    ]
-  },
-  {
-    "waktu": "15/09/2021 05:55:02 WIB",
-    "lintang": "1.08 LU",
-    "bujur": "128.2 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 46 km BaratLaut Maba",
-    "warning": [
-      "II-III Subaim"
     ]
   }
 ]
