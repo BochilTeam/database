@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "26/09/2021 16:32:48 WIB",
+    "lintang": "2.27 LS",
+    "bujur": "119.23 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km Barat Daya Mamuju Tengah",
+    "warning": [
+      "III-IV Mamuju Tengah",
+      "III Mamuju"
+    ]
+  },
+  {
+    "waktu": "26/09/2021 12:18:28 WIB",
+    "lintang": "0.62 LS",
+    "bujur": "131.84 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 64 km Barat Laut Tambrauw",
+    "warning": [
+      "II-III Sausapor"
+    ]
+  },
+  {
     "waktu": "24/09/2021 22:39:39 WIB",
     "lintang": "2.29 LS",
     "bujur": "119.4 BT",
@@ -213,31 +236,6 @@
     "wilayah": "Pusat gempa berada di darat 41 km BaratDaya Halmahera Timur",
     "warning": [
       "II - III Subaim"
-    ]
-  },
-  {
-    "waktu": "15/09/2021 03:58:32 WIB",
-    "lintang": "1.12 LU",
-    "bujur": "128.15 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 51 km Barat Laut MABA",
-    "warning": [
-      "II-III Subaim"
-    ]
-  },
-  {
-    "waktu": "14/09/2021 16:08:42 WIB",
-    "lintang": "8.11 LS",
-    "bujur": "107.89 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di laut 58 km BaratDaya Kab. Tasikmalaya",
-    "warning": [
-      "III Pamarican",
-      "Pangandaran",
-      "II Cikelet Pameungpek",
-      "Parungpoteng"
     ]
   }
 ]
