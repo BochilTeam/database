@@ -34,8 +34,7 @@ jobs:
       run: |-
         timestamp=$(date '+%F %H:%M:%S %Z')
         echo Time $timestamp
-        echo "`git config --local user.name`" && exit 1
-        commitAuthor="`git config user.name`"
+        commitAuthor=$(git config --local user.name)
         echo Author $commitAuthor
         if [ $commitAuthor = "BochilGaming" ]; then 
           git config user.name "BochilGaming"
