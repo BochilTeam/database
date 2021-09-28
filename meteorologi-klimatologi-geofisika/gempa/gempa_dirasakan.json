@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/09/2021 19:56:10 WIB",
+    "lintang": "0.87 LS",
+    "bujur": "134.14 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 8 km Tenggara Manokwari",
+    "warning": [
+      "III Manokwari"
+    ]
+  },
+  {
     "waktu": "28/09/2021 13:53:23 WIB",
     "lintang": "1.69 LU",
     "bujur": "99.15 BT",
@@ -228,17 +239,6 @@
     "wilayah": "Pusat gempa berada di laut 24 km Timur Laut Pernang",
     "warning": [
       "III Sumbawa"
-    ]
-  },
-  {
-    "waktu": "15/09/2021 17:26:21 WIB",
-    "lintang": "3.71 LU",
-    "bujur": "117.75 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 42 Km Timur Laut Tarakan",
-    "warning": [
-      "II-III Tanah Merah"
     ]
   }
 ]
