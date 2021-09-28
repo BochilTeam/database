@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "28/09/2021 13:53:23 WIB",
+    "lintang": "1.69 LU",
+    "bujur": "99.15 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km BaratLaut Tapanuli Selatan",
+    "warning": [
+      "II-III Tapanuli Selatan"
+    ]
+  },
+  {
+    "waktu": "28/09/2021 13:25:12 WIB",
+    "lintang": "0.56 LU",
+    "bujur": "126.4 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 109 km BaratDaya Ternate",
+    "warning": [
+      "III Ternate"
+    ]
+  },
+  {
     "waktu": "28/09/2021 08:40:40 WIB",
     "lintang": "7.17 LS",
     "bujur": "109.03 BT",
@@ -217,28 +239,6 @@
     "wilayah": "Pusat gempa berada di darat 42 Km Timur Laut Tarakan",
     "warning": [
       "II-III Tanah Merah"
-    ]
-  },
-  {
-    "waktu": "15/09/2021 16:15:38 WIB",
-    "lintang": "0.74 LS",
-    "bujur": "127.58 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km Tenggara Labuha",
-    "warning": [
-      "III Bacan"
-    ]
-  },
-  {
-    "waktu": "15/09/2021 15:56:29 WIB",
-    "lintang": "1.15 LU",
-    "bujur": "128.09 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di laut 57 Km Barat Laut Maba",
-    "warning": [
-      "III Subaim"
     ]
   }
 ]
