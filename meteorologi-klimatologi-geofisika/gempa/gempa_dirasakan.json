@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "28/09/2021 20:10:12 WIB",
+    "lintang": "3.36 LS",
+    "bujur": "129.06 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "35 Km",
+    "wilayah": "Pusat gempa berada di laut 15 km Timur Masohi",
+    "warning": [
+      "II-III Amahai",
+      "II-III Tehoru"
+    ]
+  },
+  {
     "waktu": "28/09/2021 19:56:10 WIB",
     "lintang": "0.87 LS",
     "bujur": "134.14 BT",
@@ -226,17 +238,6 @@
     "magnitudo": "4.7",
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di laut 27 km Timur Laut Pulau Saringi",
-    "warning": [
-      "III Sumbawa"
-    ]
-  },
-  {
-    "waktu": "16/09/2021 15:55:58 WIB",
-    "lintang": "8.34 LS",
-    "bujur": "117.22 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 24 km Timur Laut Pernang",
     "warning": [
       "III Sumbawa"
     ]
