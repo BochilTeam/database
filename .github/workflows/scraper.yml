@@ -34,7 +34,7 @@ jobs:
       run: |-
         timestamp=$(date '+%F %H:%M:%S %Z')
         echo Time $timestamp
-        username=$(git config user.name || '')
+        username=$(git config user.name)
         echo Author $username
         if [ $username = 'BochilGaming' ]; then 
           git config user.name "BochilGaming"
