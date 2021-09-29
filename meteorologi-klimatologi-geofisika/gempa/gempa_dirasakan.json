@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/09/2021 02:41:04 WIB",
+    "lintang": "2.34 LS",
+    "bujur": "140.51 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 27 km Barat Laut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "29/09/2021 12:58:47 WIB",
     "lintang": "8.57 LS",
     "bujur": "110.155 BT",
@@ -222,17 +233,6 @@
     "warning": [
       "III Ambon",
       "III Piru"
-    ]
-  },
-  {
-    "waktu": "20/09/2021 22:10:38 WIB",
-    "lintang": "6.33 LS",
-    "bujur": "103.74 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada dilaut 128 km BaratDaya Pesisir Barat",
-    "warning": [
-      "II Krui"
     ]
   }
 ]
