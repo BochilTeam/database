@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "29/09/2021 11:39:08 WIB",
+    "lintang": "1.7 LU",
+    "bujur": "99.16 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km Barat Laut Tapanuli Selatan",
+    "warning": [
+      "I-II Sipirok"
+    ]
+  },
+  {
+    "waktu": "29/09/2021 10:30:43 WIB",
+    "lintang": "7.03 LS",
+    "bujur": "109.68 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "31 Km",
+    "wilayah": "Pusat gempa berada di 11 km selatan Batang",
+    "warning": [
+      "II Dieng"
+    ]
+  },
+  {
     "waktu": "28/09/2021 20:10:12 WIB",
     "lintang": "3.36 LS",
     "bujur": "129.06 BT",
@@ -218,28 +240,6 @@
     "warning": [
       "III Dompu",
       "III Bima"
-    ]
-  },
-  {
-    "waktu": "17/09/2021 15:54:32 WIB",
-    "lintang": "8.29 LS",
-    "bujur": "116.54 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 40 km timur laut Lombok Timur",
-    "warning": [
-      "III Lombok Utara"
-    ]
-  },
-  {
-    "waktu": "16/09/2021 18:39:00 WIB",
-    "lintang": "8.28 LS",
-    "bujur": "117.22 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 27 km Timur Laut Pulau Saringi",
-    "warning": [
-      "III Sumbawa"
     ]
   }
 ]
