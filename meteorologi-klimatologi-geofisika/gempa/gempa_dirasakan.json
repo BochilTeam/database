@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "29/09/2021 12:58:47 WIB",
+    "lintang": "8.57 LS",
+    "bujur": "110.155 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "40 Km",
+    "wilayah": "Pusat gempa berada di laut 77 km BaratDaya Bantul",
+    "warning": [
+      "II Bantul",
+      "II Pantai Baron",
+      "II Pacitan"
+    ]
+  },
+  {
     "waktu": "29/09/2021 11:39:08 WIB",
     "lintang": "1.7 LU",
     "bujur": "99.16 BT",
@@ -45,6 +58,17 @@
     ]
   },
   {
+    "waktu": "28/09/2021 14:12:02 WIB",
+    "lintang": "1.71 LU",
+    "bujur": "99.16 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 19 km Barat Laut Tapanuli Selatan",
+    "warning": [
+      "I-II Sipirok"
+    ]
+  },
+  {
     "waktu": "28/09/2021 13:53:23 WIB",
     "lintang": "1.69 LU",
     "bujur": "99.15 BT",
@@ -53,6 +77,17 @@
     "wilayah": "Pusat gempa berada di darat 17 km BaratLaut Tapanuli Selatan",
     "warning": [
       "II-III Tapanuli Selatan"
+    ]
+  },
+  {
+    "waktu": "28/09/2021 13:52:17 WIB",
+    "lintang": "1.67 LU",
+    "bujur": "99.17 BT",
+    "magnitudo": "4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km Barat Laut Tapanuli Selatan",
+    "warning": [
+      "I-II Sipirok"
     ]
   },
   {
@@ -198,48 +233,6 @@
     "wilayah": "Pusat gempa berada dilaut 128 km BaratDaya Pesisir Barat",
     "warning": [
       "II Krui"
-    ]
-  },
-  {
-    "waktu": "19/09/2021 06:38:52 WIB",
-    "lintang": "7.47 LS",
-    "bujur": "106.78 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "42 Km",
-    "wilayah": "Pusat gempa berada di laut 59 Km Tenggara Kab. Sukabumi",
-    "warning": [
-      "III Cisurupan",
-      "III Cikajang",
-      "III Ciamis",
-      "III Pangandaran",
-      "III Karangnunggal",
-      "III Ciherang",
-      "III Pangalengan",
-      "III Gardu",
-      "III Cihurip"
-    ]
-  },
-  {
-    "waktu": "19/09/2021 02:42:35 WIB",
-    "lintang": "1.14 LU",
-    "bujur": "128.15 BT",
-    "magnitudo": "4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 54 km BaratLaut Maba",
-    "warning": [
-      "III Subaim"
-    ]
-  },
-  {
-    "waktu": "17/09/2021 17:59:25 WIB",
-    "lintang": "8.87 LS",
-    "bujur": "118.53 BT",
-    "magnitudo": "3",
-    "kedalaman": "33 Km",
-    "wilayah": "Pusat gempa berada di laut 38 km tenggara Dompu",
-    "warning": [
-      "III Dompu",
-      "III Bima"
     ]
   }
 ]
