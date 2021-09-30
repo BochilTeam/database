@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/09/2021 13:05:27 WIB",
+    "lintang": "0.97 LS",
+    "bujur": "119.88 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km selatan Palu",
+    "warning": [
+      "II-III Palu"
+    ]
+  },
+  {
     "waktu": "30/09/2021 02:41:04 WIB",
     "lintang": "2.34 LS",
     "bujur": "140.51 BT",
@@ -221,18 +232,6 @@
     "warning": [
       "II-III Abepura",
       "II Sentani"
-    ]
-  },
-  {
-    "waktu": "21/09/2021 08:20:46 WIB",
-    "lintang": "2.78 LS",
-    "bujur": "128.1 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 33 km Utara Piru",
-    "warning": [
-      "III Ambon",
-      "III Piru"
     ]
   }
 ]
