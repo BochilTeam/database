@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/09/2021 15:29:09 WIB",
+    "lintang": "6.06 LS",
+    "bujur": "122.48 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km Barat Daya Siompu Barat",
+    "warning": [
+      "II-III Siompu Barat"
+    ]
+  },
+  {
     "waktu": "30/09/2021 13:05:27 WIB",
     "lintang": "0.97 LS",
     "bujur": "119.88 BT",
@@ -220,18 +231,6 @@
     "wilayah": "Pusat gempa berada di laut 27 km Tenggara Tarakan",
     "warning": [
       "III - IV Tarakan"
-    ]
-  },
-  {
-    "waktu": "21/09/2021 17:33:23 WIB",
-    "lintang": "2.31 LS",
-    "bujur": "140.29 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 89 km timur laut Kab. Jayapura",
-    "warning": [
-      "II-III Abepura",
-      "II Sentani"
     ]
   }
 ]
