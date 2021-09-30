@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/09/2021 21:56:24 WIB",
+    "lintang": "8.39 LS",
+    "bujur": "116.01 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 16 km Barat Daya Lombok Utara",
+    "warning": [
+      "III Lombok Barat"
+    ]
+  },
+  {
     "waktu": "30/09/2021 15:29:09 WIB",
     "lintang": "6.06 LS",
     "bujur": "122.48 BT",
@@ -220,17 +231,6 @@
     "warning": [
       "II Manado",
       "II Ternate"
-    ]
-  },
-  {
-    "waktu": "21/09/2021 19:29:48 WIB",
-    "lintang": "3.12 LU",
-    "bujur": "117.66 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 27 km Tenggara Tarakan",
-    "warning": [
-      "III - IV Tarakan"
     ]
   }
 ]
