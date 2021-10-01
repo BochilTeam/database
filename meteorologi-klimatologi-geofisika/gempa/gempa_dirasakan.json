@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/10/2021 11:16:55 WIB",
+    "lintang": "1.85 LS",
+    "bujur": "136.13 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km barat daya Kep. Yapen",
+    "warning": [
+      "II-III Serui"
+    ]
+  },
+  {
     "waktu": "30/09/2021 21:56:24 WIB",
     "lintang": "8.39 LS",
     "bujur": "116.01 BT",
@@ -219,18 +230,6 @@
     "warning": [
       "III-IV Mamasa",
       "II - III Mamuju"
-    ]
-  },
-  {
-    "waktu": "22/09/2021 19:03:29 WIB",
-    "lintang": "1.85 LU",
-    "bujur": "126.6 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 123 km Barat Laut Halmahera Barat",
-    "warning": [
-      "II Manado",
-      "II Ternate"
     ]
   }
 ]
