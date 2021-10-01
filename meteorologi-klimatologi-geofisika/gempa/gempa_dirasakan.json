@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "01/10/2021 18:15:50 WIB",
+    "lintang": "8.19 LS",
+    "bujur": "118.09 BT",
+    "magnitudo": "5",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di darat 56 km barat laut Dompu",
+    "warning": [
+      "III Bima",
+      "III Sumbawa",
+      "II Lombok Timur",
+      "III Tambora"
+    ]
+  },
+  {
     "waktu": "01/10/2021 11:16:55 WIB",
     "lintang": "1.85 LS",
     "bujur": "136.13 BT",
@@ -218,18 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 64 km Barat Laut Tambrauw",
     "warning": [
       "II-III Sausapor"
-    ]
-  },
-  {
-    "waktu": "24/09/2021 22:39:39 WIB",
-    "lintang": "2.29 LS",
-    "bujur": "119.4 BT",
-    "magnitudo": "4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km tenggara Mamasa",
-    "warning": [
-      "III-IV Mamasa",
-      "II - III Mamuju"
     ]
   }
 ]

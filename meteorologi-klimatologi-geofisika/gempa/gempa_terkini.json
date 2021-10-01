@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01-10-21 18:15:50 WIB",
+    "lintang": "-8.19",
+    "bujur": "118.09",
+    "magnitudo": "5.0",
+    "kedalaman": "22 Km",
+    "wilayah": "56 km BaratLaut DOMPU-NTB"
+  },
+  {
     "waktu": "29-09-21 22:48:53 WIB",
     "lintang": "5.57",
     "bujur": "124.87",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 Km",
     "wilayah": "124 km BaratDaya MUKOMUKO-BENGKULU"
-  },
-  {
-    "waktu": "03-08-21 05:48:50 WIB",
-    "lintang": "-3.17",
-    "bujur": "100.18",
-    "magnitudo": "6.0",
-    "kedalaman": "10 Km",
-    "wilayah": "123 km BaratDaya MUKOMUKO-BENGKULU"
   }
 ]
