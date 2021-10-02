@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "02/10/2021 13:34:35 WIB",
+    "lintang": "8.13 LS",
+    "bujur": "107.35 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 118 km BaratDaya Kab. Garut",
+    "warning": [
+      "III Cisompet",
+      "III Pamengpeuk",
+      "III Cijulang",
+      "III Singajaya",
+      "III Karangnunggal",
+      "II-III Pangalengan",
+      "II-III Cisurupan",
+      "II-III Bayongbong",
+      "II Cilawu",
+      "II Cikajang",
+      "II Samarang",
+      "II Kertasari",
+      "II Manonjaya"
+    ]
+  },
+  {
     "waktu": "02/10/2021 09:27:04 WIB",
     "lintang": "7.53 LS",
     "bujur": "106.71 BT",
@@ -220,23 +243,6 @@
     "wilayah": "Pusat gempa berada di laut 36 km BaratLaut Kab. Jayapura",
     "warning": [
       "II Sentani"
-    ]
-  },
-  {
-    "waktu": "26/09/2021 20:15:48 WIB",
-    "lintang": "8.1 LS",
-    "bujur": "107.89 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "21 Km",
-    "wilayah": "Pusat gempa berada di laut 80 km Barat Daya Pangandaran",
-    "warning": [
-      "II-III Manonjaya",
-      "II-III Karangnuggal",
-      "II-III Salawu",
-      "II-III Cikalong",
-      "II Cikajang",
-      "II Cisurupan",
-      "II Darajat"
     ]
   }
 ]
