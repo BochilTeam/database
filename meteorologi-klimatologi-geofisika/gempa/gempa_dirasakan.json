@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "04/10/2021 21:28:45 WIB",
+    "lintang": "3.53 LS",
+    "bujur": "129.64 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 23 km Tenggara Tehoru",
+    "warning": [
+      "III Tehoru",
+      "III Masohi",
+      "III Saparua"
+    ]
+  },
+  {
     "waktu": "04/10/2021 17:59:19 WIB",
     "lintang": "1.04 LU",
     "bujur": "126.96 BT",
@@ -230,19 +243,6 @@
     "wilayah": "Pusat gempa berada di laut 109 km BaratDaya Ternate",
     "warning": [
       "III Ternate"
-    ]
-  },
-  {
-    "waktu": "28/09/2021 08:40:40 WIB",
-    "lintang": "7.17 LS",
-    "bujur": "109.03 BT",
-    "magnitudo": "3",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km Timur Laut Bumiayu",
-    "warning": [
-      "II Brebes",
-      "II Bumiayu",
-      "II Margasari"
     ]
   }
 ]
