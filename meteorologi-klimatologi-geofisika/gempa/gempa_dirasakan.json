@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/10/2021 17:59:19 WIB",
+    "lintang": "1.04 LU",
+    "bujur": "126.96 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 54 km BaratLaut Ternate",
+    "warning": [
+      "III Ternate"
+    ]
+  },
+  {
     "waktu": "02/10/2021 13:34:35 WIB",
     "lintang": "8.13 LS",
     "bujur": "107.35 BT",
@@ -232,17 +243,6 @@
       "II Brebes",
       "II Bumiayu",
       "II Margasari"
-    ]
-  },
-  {
-    "waktu": "27/09/2021 00:01:32 WIB",
-    "lintang": "2.3 LS",
-    "bujur": "140.25 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di laut 36 km BaratLaut Kab. Jayapura",
-    "warning": [
-      "II Sentani"
     ]
   }
 ]
