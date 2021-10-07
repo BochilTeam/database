@@ -1,5 +1,36 @@
 [
   {
+    "waktu": "07/10/2021 10:15:16 WIB",
+    "lintang": "2.77 LS",
+    "bujur": "135.31 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 96 km barat laut Nabire-Papua",
+    "warning": [
+      "II-III Nabire"
+    ]
+  },
+  {
+    "waktu": "07/10/2021 08:05:37 WIB",
+    "lintang": "6.91 LS",
+    "bujur": "105.04 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 136 km barat daya Pandeglang",
+    "warning": [
+      "II-III Sumur",
+      "II-III Cikeusik",
+      "II-III Labuan",
+      "II-III Cimanggu",
+      "II-III Cinangka",
+      "II-III Binuangeun",
+      "II-III Cijaku",
+      "II-III Malingping",
+      "II-III Cilegon",
+      "II-III Kota Serang"
+    ]
+  },
+  {
     "waktu": "05/10/2021 18:00:27 WIB",
     "lintang": "8.15 LS",
     "bujur": "118.1 BT",
@@ -219,28 +250,6 @@
     "magnitudo": "4.2",
     "kedalaman": "3 Km",
     "wilayah": "Pusat gempa berada di darat 19 km Barat Laut Tapanuli Selatan",
-    "warning": [
-      "I-II Sipirok"
-    ]
-  },
-  {
-    "waktu": "28/09/2021 13:53:23 WIB",
-    "lintang": "1.69 LU",
-    "bujur": "99.15 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km BaratLaut Tapanuli Selatan",
-    "warning": [
-      "II-III Tapanuli Selatan"
-    ]
-  },
-  {
-    "waktu": "28/09/2021 13:52:17 WIB",
-    "lintang": "1.67 LU",
-    "bujur": "99.17 BT",
-    "magnitudo": "4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km Barat Laut Tapanuli Selatan",
     "warning": [
       "I-II Sipirok"
     ]
