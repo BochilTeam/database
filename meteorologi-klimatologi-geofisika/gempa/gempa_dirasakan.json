@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "07/10/2021 12:13:02 WIB",
+    "lintang": "8.39 LS",
+    "bujur": "119.54 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "170 Km",
+    "wilayah": "Pusat gempa berada di laut 41 Km barat laut Labuan Bajo",
+    "warning": [
+      "III Bima",
+      "III Waingapu"
+    ]
+  },
+  {
     "waktu": "07/10/2021 10:15:16 WIB",
     "lintang": "2.77 LS",
     "bujur": "135.31 BT",
@@ -241,17 +253,6 @@
     "wilayah": "Pusat gempa berada di laut 8 km Tenggara Manokwari",
     "warning": [
       "III Manokwari"
-    ]
-  },
-  {
-    "waktu": "28/09/2021 14:12:02 WIB",
-    "lintang": "1.71 LU",
-    "bujur": "99.16 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 19 km Barat Laut Tapanuli Selatan",
-    "warning": [
-      "I-II Sipirok"
     ]
   }
 ]
