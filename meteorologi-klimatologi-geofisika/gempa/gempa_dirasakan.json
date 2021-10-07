@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/10/2021 19:06:42 WIB",
+    "lintang": "2.81 LS",
+    "bujur": "129.57 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km timur Wahai",
+    "warning": [
+      "III Wahai"
+    ]
+  },
+  {
     "waktu": "07/10/2021 12:13:02 WIB",
     "lintang": "8.39 LS",
     "bujur": "119.54 BT",
@@ -242,17 +253,6 @@
     "warning": [
       "II-III Amahai",
       "II-III Tehoru"
-    ]
-  },
-  {
-    "waktu": "28/09/2021 19:56:10 WIB",
-    "lintang": "0.87 LS",
-    "bujur": "134.14 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 8 km Tenggara Manokwari",
-    "warning": [
-      "III Manokwari"
     ]
   }
 ]
