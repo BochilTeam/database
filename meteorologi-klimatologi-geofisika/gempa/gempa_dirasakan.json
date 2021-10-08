@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/10/2021 06:02:49 WIB",
+    "lintang": "1.59 LS",
+    "bujur": "120.21 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km utara Doda Kab Poso",
+    "warning": [
+      "III Lawua"
+    ]
+  },
+  {
     "waktu": "07/10/2021 19:06:42 WIB",
     "lintang": "2.81 LS",
     "bujur": "129.57 BT",
@@ -241,18 +252,6 @@
     "wilayah": "Pusat gempa berada di 11 km selatan Batang",
     "warning": [
       "II Dieng"
-    ]
-  },
-  {
-    "waktu": "28/09/2021 20:10:12 WIB",
-    "lintang": "3.36 LS",
-    "bujur": "129.06 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "35 Km",
-    "wilayah": "Pusat gempa berada di laut 15 km Timur Masohi",
-    "warning": [
-      "II-III Amahai",
-      "II-III Tehoru"
     ]
   }
 ]
