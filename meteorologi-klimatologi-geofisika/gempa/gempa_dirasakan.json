@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "08/10/2021 17:04:54 WIB",
+    "lintang": "4.42 LU",
+    "bujur": "95.43 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "46 Km",
+    "wilayah": "Pusat gempa berada di laut, 29 km Barat Daya Calang - Aceh",
+    "warning": [
+      "III Aceh Besar",
+      "III Banda Aceh",
+      "II-III Aceh Utara",
+      "II-III Nagan Raya",
+      "II-III Pidie",
+      "II-III Aceh Tengah",
+      "II-III Aceh Jaya"
+    ]
+  },
+  {
     "waktu": "08/10/2021 06:02:49 WIB",
     "lintang": "1.59 LS",
     "bujur": "120.21 BT",
@@ -241,17 +258,6 @@
     "wilayah": "Pusat gempa berada di darat 17 km Barat Laut Tapanuli Selatan",
     "warning": [
       "I-II Sipirok"
-    ]
-  },
-  {
-    "waktu": "29/09/2021 10:30:43 WIB",
-    "lintang": "7.03 LS",
-    "bujur": "109.68 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "31 Km",
-    "wilayah": "Pusat gempa berada di 11 km selatan Batang",
-    "warning": [
-      "II Dieng"
     ]
   }
 ]
