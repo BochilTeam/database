@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/10/2021 20:09:07 WIB",
+    "lintang": "3.98 LS",
+    "bujur": "133.96 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 77 km tenggara Kaimana",
+    "warning": [
+      "III Kaimana"
+    ]
+  },
+  {
     "waktu": "09/10/2021 12:38:18 WIB",
     "lintang": "1.33 LU",
     "bujur": "121.32 BT",
@@ -245,19 +256,6 @@
     "wilayah": "Pusat gempa berada di laut 27 km Barat Laut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "29/09/2021 12:58:47 WIB",
-    "lintang": "8.57 LS",
-    "bujur": "110.155 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "40 Km",
-    "wilayah": "Pusat gempa berada di laut 77 km BaratDaya Bantul",
-    "warning": [
-      "II Bantul",
-      "II Pantai Baron",
-      "II Pacitan"
     ]
   }
 ]
