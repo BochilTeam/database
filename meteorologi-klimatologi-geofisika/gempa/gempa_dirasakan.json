@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "10/10/2021 17:50:49 WIB",
+    "lintang": "7.18 LS",
+    "bujur": "108.95 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 28 km BaratDaya Kab-Tegal",
+    "warning": [
+      "II Brebes"
+    ]
+  },
+  {
     "waktu": "09/10/2021 20:09:07 WIB",
     "lintang": "3.98 LS",
     "bujur": "133.96 BT",
@@ -245,17 +256,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km selatan Palu",
     "warning": [
       "II-III Palu"
-    ]
-  },
-  {
-    "waktu": "30/09/2021 02:41:04 WIB",
-    "lintang": "2.34 LS",
-    "bujur": "140.51 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 27 km Barat Laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
