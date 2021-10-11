@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "11/10/2021 22:27:54 WIB",
+    "lintang": "0.98 LU",
+    "bujur": "126.11 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "57 Km",
+    "wilayah": "Pusat gempa berada di laut 121 km tenggara Bitung",
+    "warning": [
+      "II-III Bitung",
+      "II-III Manado"
+    ]
+  },
+  {
     "waktu": "11/10/2021 19:34:35 WIB",
     "lintang": "0.83 LU",
     "bujur": "126.15 BT",
@@ -252,17 +264,6 @@
     "wilayah": "Pusat gempa berada di darat 12 km barat daya Kep. Yapen",
     "warning": [
       "II-III Serui"
-    ]
-  },
-  {
-    "waktu": "30/09/2021 21:56:24 WIB",
-    "lintang": "8.39 LS",
-    "bujur": "116.01 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 16 km Barat Daya Lombok Utara",
-    "warning": [
-      "III Lombok Barat"
     ]
   }
 ]
