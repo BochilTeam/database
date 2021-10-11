@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "11/10/2021 10:09:56 WIB",
+    "lintang": "9.03 LS",
+    "bujur": "122.5 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "70 Km",
+    "wilayah": "Pusat gempa berada diLaut 55 km Tenggara Maumere Sikka",
+    "warning": [
+      "II Lembata",
+      "II Ende",
+      "II Maumere"
+    ]
+  },
+  {
     "waktu": "10/10/2021 17:50:49 WIB",
     "lintang": "7.18 LS",
     "bujur": "108.95 BT",
@@ -245,17 +258,6 @@
     "wilayah": "Pusat gempa berada di laut 41 km Barat Daya Siompu Barat",
     "warning": [
       "II-III Siompu Barat"
-    ]
-  },
-  {
-    "waktu": "30/09/2021 13:05:27 WIB",
-    "lintang": "0.97 LS",
-    "bujur": "119.88 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km selatan Palu",
-    "warning": [
-      "II-III Palu"
     ]
   }
 ]
