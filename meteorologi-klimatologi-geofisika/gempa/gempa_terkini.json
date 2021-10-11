@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-10-21 19:34:35 WIB",
+    "lintang": "0.83",
+    "bujur": "126.15",
+    "magnitudo": "5.8",
+    "kedalaman": "10 Km",
+    "wilayah": "132 km Tenggara BITUNG-SULUT"
+  },
+  {
     "waktu": "08-10-21 17:04:54 WIB",
     "lintang": "4.42",
     "bujur": "95.43",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "540 Km",
     "wilayah": "62 km BaratLaut LARANTUKA-NTT"
-  },
-  {
-    "waktu": "05-08-21 02:11:36 WIB",
-    "lintang": "4.86",
-    "bujur": "127.42",
-    "magnitudo": "5.1",
-    "kedalaman": "84 Km",
-    "wilayah": "126 km TimurLaut MELONGUANE-SULUT"
   }
 ]

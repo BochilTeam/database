@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "11/10/2021 19:34:35 WIB",
+    "lintang": "0.83 LU",
+    "bujur": "126.15 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 132 km Tenggara Bitung",
+    "warning": [
+      "IV Bolaang Mongondow",
+      "III Bitung",
+      "III Minahasa",
+      "II-III Ternate",
+      "II-III Manado",
+      "II-III Airmadidi"
+    ]
+  },
+  {
     "waktu": "11/10/2021 10:09:56 WIB",
     "lintang": "9.03 LS",
     "bujur": "122.5 BT",
@@ -247,17 +263,6 @@
     "wilayah": "Pusat gempa berada di laut 16 km Barat Daya Lombok Utara",
     "warning": [
       "III Lombok Barat"
-    ]
-  },
-  {
-    "waktu": "30/09/2021 15:29:09 WIB",
-    "lintang": "6.06 LS",
-    "bujur": "122.48 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 41 km Barat Daya Siompu Barat",
-    "warning": [
-      "II-III Siompu Barat"
     ]
   }
 ]
