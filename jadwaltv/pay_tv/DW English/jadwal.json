@@ -5,7 +5,7 @@
   },
   {
     "waktu": "00:15WIB",
-    "acara": "COVID-19 Special: News"
+    "acara": "Business: News"
   },
   {
     "waktu": "00:30WIB",
@@ -13,7 +13,7 @@
   },
   {
     "waktu": "00:45WIB",
-    "acara": "Arts And Culture: News"
+    "acara": "COVID-19 Special: News"
   },
   {
     "waktu": "01:00WIB",
@@ -21,15 +21,7 @@
   },
   {
     "waktu": "01:15WIB",
-    "acara": "Business: News"
-  },
-  {
-    "waktu": "01:30WIB",
-    "acara": "COVID-19 Special: News"
-  },
-  {
-    "waktu": "01:45WIB",
-    "acara": "Arts And Culture: News"
+    "acara": "DocFilm"
   },
   {
     "waktu": "02:00WIB",
@@ -37,7 +29,7 @@
   },
   {
     "waktu": "02:30WIB",
-    "acara": "Eco Africa: Environment"
+    "acara": "Close Up: The Current Affairs"
   },
   {
     "waktu": "03:00WIB",
@@ -57,7 +49,11 @@
   },
   {
     "waktu": "04:30WIB",
-    "acara": "DW News: Africa"
+    "acara": "COVID-19 Special: News"
+  },
+  {
+    "waktu": "04:45WIB",
+    "acara": "Shift: Living In Digital Age"
   },
   {
     "waktu": "05:00WIB",
@@ -69,11 +65,11 @@
   },
   {
     "waktu": "05:30WIB",
-    "acara": "COVID-19 Special: News"
+    "acara": "Business: News"
   },
   {
     "waktu": "05:45WIB",
-    "acara": "Arts And Culture: News"
+    "acara": "COVID-19 Special: News"
   },
   {
     "waktu": "06:00WIB",
@@ -85,7 +81,7 @@
   },
   {
     "waktu": "06:30WIB",
-    "acara": "DW News: Africa"
+    "acara": "Close Up: The Current Affairs"
   },
   {
     "waktu": "07:00WIB",
@@ -97,7 +93,7 @@
   },
   {
     "waktu": "07:30WIB",
-    "acara": "REV: Auto & Mobility Show"
+    "acara": "Kick Off!: The Bundesliga HL"
   },
   {
     "waktu": "08:00WIB",
@@ -105,11 +101,7 @@
   },
   {
     "waktu": "08:15WIB",
-    "acara": "Business: News"
-  },
-  {
-    "waktu": "08:30WIB",
-    "acara": "Spc. Program: Flipping Script"
+    "acara": "DocFilm"
   },
   {
     "waktu": "09:00WIB",
@@ -117,11 +109,11 @@
   },
   {
     "waktu": "09:02WIB",
-    "acara": "Arts And Culture: News"
+    "acara": "The Day: News In Review"
   },
   {
-    "waktu": "09:15WIB",
-    "acara": "DocFilm"
+    "waktu": "09:30WIB",
+    "acara": "Kick Off!: The Bundesliga HL"
   },
   {
     "waktu": "10:00WIB",
@@ -133,7 +125,7 @@
   },
   {
     "waktu": "10:30WIB",
-    "acara": "Tomorrow Today: Science"
+    "acara": "Close Up: The Current Affairs"
   },
   {
     "waktu": "11:00WIB",
@@ -141,11 +133,7 @@
   },
   {
     "waktu": "11:15WIB",
-    "acara": "World Stories: Week In Reports"
-  },
-  {
-    "waktu": "11:30WIB",
-    "acara": "Euromaxx: Lifestyle Europe"
+    "acara": "DocFilm"
   },
   {
     "waktu": "12:00WIB",
@@ -153,11 +141,11 @@
   },
   {
     "waktu": "12:02WIB",
-    "acara": "Arts.21: The Cultural Magazine"
+    "acara": "The Day: News In Review"
   },
   {
     "waktu": "12:30WIB",
-    "acara": "The 77 Percent: Africa's Youth"
+    "acara": "Eco India: Environment"
   },
   {
     "waktu": "13:00WIB",
@@ -165,31 +153,27 @@
   },
   {
     "waktu": "13:15WIB",
-    "acara": "Shift: Living In Digital Age"
+    "acara": "Business: News"
   },
   {
     "waktu": "13:30WIB",
-    "acara": "Spc. Program: Flipping Script"
+    "acara": "Close Up: The Current Affairs"
   },
   {
     "waktu": "14:00WIB",
     "acara": "DW News"
   },
   {
-    "waktu": "14:15WIB",
-    "acara": "Arts And Culture: News"
-  },
-  {
     "waktu": "14:30WIB",
-    "acara": "Check-In: Sylt"
+    "acara": "Kick Off!: The Bundesliga HL"
   },
   {
     "waktu": "15:00WIB",
     "acara": "DW News"
   },
   {
-    "waktu": "15:15WIB",
-    "acara": "DocFilm"
+    "waktu": "15:30WIB",
+    "acara": "Close Up: The Current Affairs"
   },
   {
     "waktu": "16:00WIB",
@@ -197,6 +181,22 @@
   },
   {
     "waktu": "16:15WIB",
-    "acara": "Sports Life: Why Farm Teams"
+    "acara": "DocFilm"
+  },
+  {
+    "waktu": "17:00WIB",
+    "acara": "DW News"
+  },
+  {
+    "waktu": "17:30WIB",
+    "acara": "Business: News"
+  },
+  {
+    "waktu": "17:45WIB",
+    "acara": "COVID-19 Special: News"
+  },
+  {
+    "waktu": "18:00WIB",
+    "acara": "DW News"
   }
 ]

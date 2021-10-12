@@ -1,7 +1,7 @@
 [
   {
     "waktu": "01:30WIB",
-    "acara": "BRI Liga 1: PRSLA Vs PRSTA"
+    "acara": "BRI Liga 1: PRSLA Vs PRSPR"
   },
   {
     "waktu": "03:30WIB",
@@ -13,7 +13,7 @@
   },
   {
     "waktu": "04:30WIB",
-    "acara": "AFC Asian Qual.: KSA Vs VIE"
+    "acara": "AFC Asian Qual.: KOR Vs SYR"
   },
   {
     "waktu": "06:30WIB",
@@ -25,11 +25,11 @@
   },
   {
     "waktu": "07:30WIB",
-    "acara": "BRI Liga 1: PRSKBO Vs PRSK"
+    "acara": "BRI Liga 1: PRSBY Vs PRSKB"
   },
   {
     "waktu": "09:30WIB",
-    "acara": "AFC Champions League 2021"
+    "acara": "Friendly Match: IDN Vs MAS"
   },
   {
     "waktu": "11:30WIB",
@@ -37,27 +37,31 @@
   },
   {
     "waktu": "12:00WIB",
-    "acara": "AFC Asian Qual.: SYR Vs UAE"
+    "acara": "PON XX Papua 2021"
   },
   {
-    "waktu": "13:45WIB",
-    "acara": "LFP: Kancil BBK Vs Cosmo"
+    "waktu": "13:30WIB",
+    "acara": "AFC Asian Qual.: IRQ Vs LIB"
   },
   {
-    "waktu": "15:05WIB",
-    "acara": "BRI Liga 1: BHYKR Vs MDUTD (L)"
+    "waktu": "15:15WIB",
+    "acara": "Liga 2: Rans FC Vs Perserang (L)"
   },
   {
     "waktu": "17:15WIB",
+    "acara": "World Classic League"
+  },
+  {
+    "waktu": "18:00WIB",
+    "acara": "Liga 2: PSIM Vs Persis (L)"
+  },
+  {
+    "waktu": "20:30WIB",
+    "acara": "AFC Asian Qual.: IRN Vs KOR (L)"
+  },
+  {
+    "waktu": "22:30WIB",
     "acara": "Extra Time"
-  },
-  {
-    "waktu": "17:45WIB",
-    "acara": "BRI Liga 1: PSM Vs PRSBYA (L)"
-  },
-  {
-    "waktu": "20:15WIB",
-    "acara": "BRI Liga 1: BLUTD Vs PRSB (L)"
   },
   {
     "waktu": "23:00WIB",
@@ -65,6 +69,6 @@
   },
   {
     "waktu": "23:30WIB",
-    "acara": "ISL '14: Persipura Vs Persebaya"
+    "acara": "World Classic League"
   }
 ]

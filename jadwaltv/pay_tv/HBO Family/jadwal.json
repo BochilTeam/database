@@ -1,126 +1,158 @@
 [
   {
     "waktu": "00:05WIB",
-    "acara": "Sesame Street S45, Ep 22"
+    "acara": "Sesame Street S46, Ep 27"
   },
   {
     "waktu": "00:35WIB",
-    "acara": "Happily Ever After S1, Ep 11"
+    "acara": "Sesame Street S46, Ep 28"
   },
   {
-    "waktu": "01:01WIB",
-    "acara": "Happily Ever After S1, Ep 12"
+    "waktu": "01:05WIB",
+    "acara": "Ben 10 Classic S1, Ep 13"
   },
   {
-    "waktu": "01:35WIB",
-    "acara": "The Polar Express"
+    "waktu": "01:30WIB",
+    "acara": "Ben 10 Classic S2, Ep 1"
+  },
+  {
+    "waktu": "01:55WIB",
+    "acara": "Grounded For Christmas"
   },
   {
     "waktu": "03:20WIB",
-    "acara": "Crashbox S2, Ep 3"
+    "acara": "A Valentine's Match"
   },
   {
-    "waktu": "03:48WIB",
-    "acara": "Crashbox S2, Ep 4"
+    "waktu": "04:50WIB",
+    "acara": "Happily Ever After S2, Ep 13"
   },
   {
-    "waktu": "04:20WIB",
-    "acara": "My Super Ex-Girlfriend"
+    "waktu": "05:24WIB",
+    "acara": "Happily Ever After S3, Ep 1"
   },
   {
     "waktu": "06:00WIB",
-    "acara": "Sesame Street S45, Ep 13"
+    "acara": "Adventure Time S2, Ep 4"
   },
   {
-    "waktu": "06:25WIB",
-    "acara": "Sesame Street S45, Ep 14"
+    "waktu": "06:15WIB",
+    "acara": "Adventure Time S2, Ep 5"
   },
   {
-    "waktu": "06:50WIB",
-    "acara": "Sesame Street S45, Ep 15"
+    "waktu": "06:30WIB",
+    "acara": "Adventure Time S2, Ep 6"
   },
   {
-    "waktu": "07:15WIB",
-    "acara": "Sesame Street S45, Ep 16"
+    "waktu": "06:45WIB",
+    "acara": "Adventure Time S2, Ep 7"
   },
   {
-    "waktu": "07:40WIB",
-    "acara": "Sesame Street S45, Ep 17"
+    "waktu": "07:00WIB",
+    "acara": "Sesame Street S46, Ep 27"
   },
   {
-    "waktu": "08:05WIB",
-    "acara": "Sesame Street S45, Ep 18"
+    "waktu": "07:25WIB",
+    "acara": "Sesame Street S46, Ep 28"
   },
   {
-    "waktu": "08:30WIB",
-    "acara": "Sesame Street S45, Ep 19"
+    "waktu": "07:55WIB",
+    "acara": "Crashbox S1, Ep 4"
   },
   {
-    "waktu": "08:55WIB",
-    "acara": "Sesame Street S45, Ep 20"
+    "waktu": "08:20WIB",
+    "acara": "Crashbox S1, Ep 5"
   },
   {
-    "waktu": "09:20WIB",
-    "acara": "Sesame Street S45, Ep 21"
+    "waktu": "08:50WIB",
+    "acara": "Sesame Street S51, Ep 19"
+  },
+  {
+    "waktu": "09:15WIB",
+    "acara": "Sesame Street S51, Ep 20"
   },
   {
     "waktu": "09:45WIB",
-    "acara": "Sesame Street S45, Ep 22"
+    "acara": "Space Jam"
   },
   {
-    "waktu": "10:25WIB",
-    "acara": "Playmobil: The Movie"
+    "waktu": "11:15WIB",
+    "acara": "Happily Ever After S3, Ep 2"
   },
   {
-    "waktu": "12:10WIB",
-    "acara": "Bobbleheads The Movie"
+    "waktu": "11:50WIB",
+    "acara": "Happily Ever After S3, Ep 3"
   },
   {
-    "waktu": "13:35WIB",
-    "acara": "The Polar Express"
+    "waktu": "12:20WIB",
+    "acara": "Zathura: A Space Adventure"
   },
   {
-    "waktu": "15:20WIB",
-    "acara": "Crashbox S2, Ep 3"
+    "waktu": "14:00WIB",
+    "acara": "Sesame Street S46, Ep 29"
   },
   {
-    "waktu": "15:48WIB",
-    "acara": "Crashbox S2, Ep 4"
+    "waktu": "14:30WIB",
+    "acara": "Sesame Street S46, Ep 30"
   },
   {
-    "waktu": "16:20WIB",
-    "acara": "The Lego Movie"
+    "waktu": "15:00WIB",
+    "acara": "Ben 10 Classic S2, Ep 2"
+  },
+  {
+    "waktu": "15:30WIB",
+    "acara": "Ben 10 Classic S2, Ep 3"
+  },
+  {
+    "waktu": "16:00WIB",
+    "acara": "Adventure Time S2, Ep 4"
+  },
+  {
+    "waktu": "16:15WIB",
+    "acara": "Adventure Time S2, Ep 5"
+  },
+  {
+    "waktu": "16:30WIB",
+    "acara": "Adventure Time S2, Ep 6"
+  },
+  {
+    "waktu": "16:45WIB",
+    "acara": "Adventure Time S2, Ep 7"
+  },
+  {
+    "waktu": "17:00WIB",
+    "acara": "Sesame Street S51, Ep 21"
+  },
+  {
+    "waktu": "17:30WIB",
+    "acara": "Sesame Street S51, Ep 22"
   },
   {
     "waktu": "18:00WIB",
-    "acara": "Jumanji: Welcome To The Jungle"
+    "acara": "Alvin & Chipmunks: Squeakquel"
   },
   {
-    "waktu": "20:00WIB",
-    "acara": "Hotel For Dogs"
+    "waktu": "19:30WIB",
+    "acara": "Scooby-Doo! Return To Zombie"
   },
   {
-    "waktu": "21:40WIB",
-    "acara": "Sesame Street S50, Ep 14"
+    "waktu": "20:50WIB",
+    "acara": "A Valentine's Match"
   },
   {
-    "waktu": "22:05WIB",
-    "acara": "Sesame Street S50, Ep 15"
+    "waktu": "22:20WIB",
+    "acara": "Sesame Street S51, Ep 21"
   },
   {
-    "waktu": "22:30WIB",
-    "acara": "Sesame Street S50, Ep 16"
-  },
-  {
-    "waktu": "22:55WIB",
-    "acara": "Sesame Street S50, Ep 17"
+    "waktu": "22:50WIB",
+    "acara": "Sesame Street S51, Ep 22"
   },
   {
     "waktu": "23:20WIB",
-    "acara": "Sesame Street S50, Ep 18"
+    "acara": "Sesame Street S46, Ep 29"
   },
   {
-    "waktu": "23:45WIB",
-    "acara": "Sesame Street S50, Ep 19"
+    "waktu": "23:50WIB",
+    "acara": "Sesame Street S46, Ep 30"
   }
 ]

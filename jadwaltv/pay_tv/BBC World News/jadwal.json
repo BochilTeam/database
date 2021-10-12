@@ -1,7 +1,7 @@
 [
   {
     "waktu": "00:00WIB",
-    "acara": "BBC World News"
+    "acara": "Global With M. Amroliwala"
   },
   {
     "waktu": "00:30WIB",
@@ -9,15 +9,15 @@
   },
   {
     "waktu": "01:00WIB",
-    "acara": "BBC World News"
+    "acara": "Outside Source"
   },
   {
     "waktu": "01:30WIB",
-    "acara": "Dateline London"
+    "acara": "Outside Source"
   },
   {
     "waktu": "02:00WIB",
-    "acara": "BBC World News"
+    "acara": "Outside Source"
   },
   {
     "waktu": "02:30WIB",
@@ -25,11 +25,11 @@
   },
   {
     "waktu": "03:00WIB",
-    "acara": "BBC World News"
+    "acara": "BBC News"
   },
   {
     "waktu": "03:30WIB",
-    "acara": "The Travel Show"
+    "acara": "BBC News"
   },
   {
     "waktu": "04:00WIB",
@@ -37,27 +37,43 @@
   },
   {
     "waktu": "04:30WIB",
-    "acara": "HARDtalk: Naomi Campbell"
+    "acara": "HARDtalk"
   },
   {
     "waktu": "05:00WIB",
-    "acara": "BBC World News"
+    "acara": "Newsday"
   },
   {
     "waktu": "05:30WIB",
-    "acara": "Newsnight"
+    "acara": "Asia Business Report"
+  },
+  {
+    "waktu": "05:45WIB",
+    "acara": "Sport Today"
   },
   {
     "waktu": "06:00WIB",
-    "acara": "BBC World News"
+    "acara": "Newsday"
+  },
+  {
+    "waktu": "06:30WIB",
+    "acara": "Asia Business Report"
+  },
+  {
+    "waktu": "06:45WIB",
+    "acara": "Sport Today"
   },
   {
     "waktu": "07:00WIB",
-    "acara": "BBC World News"
+    "acara": "Newsday"
   },
   {
     "waktu": "07:30WIB",
-    "acara": "Click"
+    "acara": "Asia Business Report"
+  },
+  {
+    "waktu": "07:45WIB",
+    "acara": "Sport Today"
   },
   {
     "waktu": "08:00WIB",
@@ -65,7 +81,11 @@
   },
   {
     "waktu": "08:30WIB",
-    "acara": "Treasures Of Ancient Rome, Ep 6"
+    "acara": "Asia Business Report"
+  },
+  {
+    "waktu": "08:45WIB",
+    "acara": "Sport Today"
   },
   {
     "waktu": "09:00WIB",
@@ -73,7 +93,11 @@
   },
   {
     "waktu": "09:30WIB",
-    "acara": "Panorama: Cigarette Business"
+    "acara": "Asia Business Report"
+  },
+  {
+    "waktu": "09:45WIB",
+    "acara": "Sport Today"
   },
   {
     "waktu": "10:00WIB",
@@ -81,7 +105,7 @@
   },
   {
     "waktu": "10:30WIB",
-    "acara": "The Travel Show"
+    "acara": "HARDtalk"
   },
   {
     "waktu": "11:00WIB",
@@ -89,7 +113,7 @@
   },
   {
     "waktu": "11:30WIB",
-    "acara": "Our World: Merkel's Germany"
+    "acara": "World Business Report"
   },
   {
     "waktu": "12:00WIB",
@@ -97,7 +121,7 @@
   },
   {
     "waktu": "12:30WIB",
-    "acara": "Dateline London"
+    "acara": "World Business Report"
   },
   {
     "waktu": "13:00WIB",
@@ -105,15 +129,19 @@
   },
   {
     "waktu": "13:30WIB",
-    "acara": "Click"
+    "acara": "BBC World News"
+  },
+  {
+    "waktu": "13:45WIB",
+    "acara": "World Business Report"
   },
   {
     "waktu": "14:00WIB",
     "acara": "BBC World News"
   },
   {
-    "waktu": "14:10WIB",
-    "acara": "Why Stories: Hope In Landfill"
+    "waktu": "14:30WIB",
+    "acara": "Royal Academy Summer..., Ep 1"
   },
   {
     "waktu": "15:00WIB",
@@ -121,82 +149,54 @@
   },
   {
     "waktu": "15:30WIB",
-    "acara": "Treasures Of Ancient Rome, Ep 6"
+    "acara": "HARDtalk"
   },
   {
     "waktu": "16:00WIB",
-    "acara": "BBC World News"
-  },
-  {
-    "waktu": "16:30WIB",
-    "acara": "Farewell My Afghanistan"
+    "acara": "BBC News"
   },
   {
     "waktu": "17:00WIB",
-    "acara": "BBC World News"
+    "acara": "Live With Lucy Hockings"
   },
   {
     "waktu": "17:30WIB",
-    "acara": "Newsnight"
+    "acara": "World Business Report"
   },
   {
-    "waktu": "18:00WIB",
-    "acara": "BBC World News"
-  },
-  {
-    "waktu": "18:30WIB",
-    "acara": "Our World: Merkel's Germany"
-  },
-  {
-    "waktu": "19:00WIB",
-    "acara": "BBC World News"
-  },
-  {
-    "waktu": "19:30WIB",
-    "acara": "Talking Movies: Award Season"
-  },
-  {
-    "waktu": "20:00WIB",
-    "acara": "BBC World News"
-  },
-  {
-    "waktu": "20:15WIB",
+    "waktu": "17:45WIB",
     "acara": "Sport Today"
   },
   {
+    "waktu": "18:00WIB",
+    "acara": "Live With Lucy Hockings"
+  },
+  {
+    "waktu": "18:30WIB",
+    "acara": "Live With Lucy Hockings"
+  },
+  {
+    "waktu": "19:00WIB",
+    "acara": "Impact With Yalda Hakim"
+  },
+  {
+    "waktu": "19:30WIB",
+    "acara": "Impact With Yalda Hakim"
+  },
+  {
+    "waktu": "20:00WIB",
+    "acara": "Impact With Yalda Hakim"
+  },
+  {
     "waktu": "20:30WIB",
-    "acara": "The Travel Show"
+    "acara": "World Business Report"
+  },
+  {
+    "waktu": "20:45WIB",
+    "acara": "Sport Today"
   },
   {
     "waktu": "21:00WIB",
-    "acara": "BBC World News"
-  },
-  {
-    "waktu": "21:10WIB",
-    "acara": "Countdown To COP26"
-  },
-  {
-    "waktu": "21:30WIB",
-    "acara": "Dateline London"
-  },
-  {
-    "waktu": "22:00WIB",
-    "acara": "BBC World News"
-  },
-  {
-    "waktu": "22:10WIB",
-    "acara": "Countdown To COP26"
-  },
-  {
-    "waktu": "22:30WIB",
-    "acara": "Panorama: Cigarette Business"
-  },
-  {
-    "waktu": "23:00WIB",
-    "acara": "BBC World News"
-  },
-  {
-    "waktu": "23:30WIB",
-    "acara": "Our World: Merkel's Germany"
+    "acara": "Impact With Yalda Hakim"
   }
 ]

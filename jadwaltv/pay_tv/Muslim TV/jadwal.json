@@ -1,31 +1,39 @@
 [
   {
-    "waktu": "00:00WIB",
-    "acara": "Live Dari Mekkah (L)"
+    "waktu": "00:30WIB",
+    "acara": "Tukang Bubur Naik Haji"
   },
   {
-    "waktu": "01:15WIB",
-    "acara": "Amanah Wali S4"
+    "waktu": "01:30WIB",
+    "acara": "Jejak Kebesaranmu"
   },
   {
-    "waktu": "02:45WIB",
-    "acara": "Siraman Qolbu, Ustad Dhanu"
+    "waktu": "02:00WIB",
+    "acara": "Share It"
+  },
+  {
+    "waktu": "03:00WIB",
+    "acara": "Aku Bukan Ustadz"
   },
   {
     "waktu": "04:00WIB",
-    "acara": "Cahaya Hati Indonesia"
+    "acara": "Assalamualaikum Ustadz"
   },
   {
-    "waktu": "05:20WIB",
-    "acara": "iMurojaah"
+    "waktu": "04:30WIB",
+    "acara": "Tafsir Surat Yasin"
   },
   {
-    "waktu": "05:40WIB",
-    "acara": "iQur'an"
+    "waktu": "05:30WIB",
+    "acara": "iTahsin"
   },
   {
-    "waktu": "06:10WIB",
-    "acara": "Assalamualaikum Cinta"
+    "waktu": "06:00WIB",
+    "acara": "iLanggam"
+  },
+  {
+    "waktu": "06:30WIB",
+    "acara": "Jejak Kebesaranmu"
   },
   {
     "waktu": "07:00WIB",
@@ -33,19 +41,19 @@
   },
   {
     "waktu": "07:30WIB",
-    "acara": "Cahaya Hati Indonesia"
-  },
-  {
-    "waktu": "09:00WIB",
-    "acara": "iMajelis"
-  },
-  {
-    "waktu": "10:00WIB",
     "acara": "Amanah Wali S4"
   },
   {
+    "waktu": "09:30WIB",
+    "acara": "KSNS The Road Show"
+  },
+  {
+    "waktu": "10:30WIB",
+    "acara": "Siraman Qolbu, Ustad Dhanu"
+  },
+  {
     "waktu": "12:00WIB",
-    "acara": "Maha Kasih"
+    "acara": "Dzolim"
   },
   {
     "waktu": "13:00WIB",
@@ -57,15 +65,27 @@
   },
   {
     "waktu": "14:30WIB",
-    "acara": "Qamar Bani Hashim"
+    "acara": "KSNS The Road Show"
   },
   {
-    "waktu": "17:00WIB",
-    "acara": "Assalamualaikum Cinta"
+    "waktu": "15:30WIB",
+    "acara": "Share It"
+  },
+  {
+    "waktu": "16:15WIB",
+    "acara": "iTahsin"
+  },
+  {
+    "waktu": "16:45WIB",
+    "acara": "iLanggam"
+  },
+  {
+    "waktu": "17:15WIB",
+    "acara": "Mozaik Islam"
   },
   {
     "waktu": "18:00WIB",
-    "acara": "Maha Kasih"
+    "acara": "Dzolim"
   },
   {
     "waktu": "19:00WIB",
@@ -77,10 +97,10 @@
   },
   {
     "waktu": "22:00WIB",
-    "acara": "Assalamualaikum Cinta"
+    "acara": "Aku Bukan Ustadz"
   },
   {
-    "waktu": "22:45WIB",
-    "acara": "Rahasia Batin"
+    "waktu": "23:00WIB",
+    "acara": "Siraman Qolbu, Ustad Dhanu"
   }
 ]

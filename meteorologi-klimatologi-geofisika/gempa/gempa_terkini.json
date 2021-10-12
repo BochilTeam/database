@@ -1,5 +1,77 @@
 [
   {
+    "waktu": "11-10-21 19:34:35 WIB",
+    "lintang": "0.83",
+    "bujur": "126.15",
+    "magnitudo": "5.8",
+    "kedalaman": "10 Km",
+    "wilayah": "132 km Tenggara BITUNG-SULUT"
+  },
+  {
+    "waktu": "08-10-21 17:04:54 WIB",
+    "lintang": "4.42",
+    "bujur": "95.43",
+    "magnitudo": "5.6",
+    "kedalaman": "46 Km",
+    "wilayah": "29 km BaratDaya CALANG-ACEHJAYA"
+  },
+  {
+    "waktu": "04-10-21 21:28:45 WIB",
+    "lintang": "-3.56",
+    "bujur": "129.63",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "80 km Tenggara MALUKUTENGAH"
+  },
+  {
+    "waktu": "01-10-21 18:15:50 WIB",
+    "lintang": "-8.19",
+    "bujur": "118.09",
+    "magnitudo": "5.0",
+    "kedalaman": "22 Km",
+    "wilayah": "56 km BaratLaut DOMPU-NTB"
+  },
+  {
+    "waktu": "29-09-21 22:48:53 WIB",
+    "lintang": "5.57",
+    "bujur": "124.87",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "228 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
+    "waktu": "26-09-21 16:32:48 WIB",
+    "lintang": "-2.27",
+    "bujur": "119.23",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "34 km BaratDaya MAMUJUTENGAH-SULBAR"
+  },
+  {
+    "waktu": "24-09-21 22:04:21 WIB",
+    "lintang": "8.67",
+    "bujur": "94.35",
+    "magnitudo": "5.2",
+    "kedalaman": "64 Km",
+    "wilayah": "326 km BaratLaut KOTA-SABANG-ACEH"
+  },
+  {
+    "waktu": "24-09-21 13:36:15 WIB",
+    "lintang": "2.19",
+    "bujur": "126.72",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "134 km BaratLaut HALMAHERABARAT-MALUT"
+  },
+  {
+    "waktu": "22-09-21 19:03:29 WIB",
+    "lintang": "1.85",
+    "bujur": "126.60",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "123 km BaratLaut HALMAHERABARAT-MALUT"
+  },
+  {
     "waktu": "17-09-21 19:43:55 WIB",
     "lintang": "4.92",
     "bujur": "126.27",
@@ -166,77 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "540 Km",
     "wilayah": "62 km BaratLaut LARANTUKA-NTT"
-  },
-  {
-    "waktu": "05-08-21 02:11:36 WIB",
-    "lintang": "4.86",
-    "bujur": "127.42",
-    "magnitudo": "5.1",
-    "kedalaman": "84 Km",
-    "wilayah": "126 km TimurLaut MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "04-08-21 02:44:32 WIB",
-    "lintang": "-9.30",
-    "bujur": "119.32",
-    "magnitudo": "5.2",
-    "kedalaman": "28 Km",
-    "wilayah": "18 km TimurLaut TAMBOLAKA-NTT"
-  },
-  {
-    "waktu": "03-08-21 06:01:00 WIB",
-    "lintang": "-3.29",
-    "bujur": "100.25",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "124 km BaratDaya MUKOMUKO-BENGKULU"
-  },
-  {
-    "waktu": "03-08-21 05:48:50 WIB",
-    "lintang": "-3.17",
-    "bujur": "100.18",
-    "magnitudo": "6.0",
-    "kedalaman": "10 Km",
-    "wilayah": "123 km BaratDaya MUKOMUKO-BENGKULU"
-  },
-  {
-    "waktu": "02-08-21 22:04:26 WIB",
-    "lintang": "1.80",
-    "bujur": "127.29",
-    "magnitudo": "5.3",
-    "kedalaman": "96 Km",
-    "wilayah": "59 km BaratLaut HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "02-08-21 12:01:23 WIB",
-    "lintang": "-4.44",
-    "bujur": "134.00",
-    "magnitudo": "5.9",
-    "kedalaman": "76 Km",
-    "wilayah": "128 km Tenggara KAIMANA-PAPUABRT"
-  },
-  {
-    "waktu": "31-07-21 00:52:04 WIB",
-    "lintang": "3.99",
-    "bujur": "127.77",
-    "magnitudo": "5.4",
-    "kedalaman": "113 Km",
-    "wilayah": "121 km Tenggara MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "27-07-21 23:21:48 WIB",
-    "lintang": "-8.99",
-    "bujur": "111.40",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "95 km Tenggara PACITAN-JATIM"
-  },
-  {
-    "waktu": "26-07-21 19:09:07 WIB",
-    "lintang": "-0.73",
-    "bujur": "121.92",
-    "magnitudo": "6.5",
-    "kedalaman": "10 Km",
-    "wilayah": "59 km TimurLaut TOJOUNA-UNA-SULTENG"
   }
 ]

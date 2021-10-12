@@ -5,11 +5,11 @@
   },
   {
     "waktu": "00:30WIB",
-    "acara": "Seleb On News"
+    "acara": "Obsesi"
   },
   {
     "waktu": "01:00WIB",
-    "acara": "Hotman Paris Show"
+    "acara": "Silet"
   },
   {
     "waktu": "02:00WIB",
@@ -28,12 +28,12 @@
     "acara": "Ikatan Cinta"
   },
   {
-    "waktu": "06:00WIB",
-    "acara": "Barista"
+    "waktu": "05:30WIB",
+    "acara": "Obsesi"
   },
   {
-    "waktu": "06:30WIB",
-    "acara": "Top Of The Top"
+    "waktu": "06:00WIB",
+    "acara": "Follow Seleb"
   },
   {
     "waktu": "07:00WIB",
@@ -45,7 +45,7 @@
   },
   {
     "waktu": "08:30WIB",
-    "acara": "Intens Reborn"
+    "acara": "Behind The Song"
   },
   {
     "waktu": "09:00WIB",
@@ -60,16 +60,20 @@
     "acara": "Ikatan Cinta"
   },
   {
-    "waktu": "12:30WIB",
+    "waktu": "12:00WIB",
     "acara": "Top Of The Top"
   },
   {
+    "waktu": "12:30WIB",
+    "acara": "Seleb On News"
+  },
+  {
     "waktu": "13:00WIB",
-    "acara": "Mom & Kids"
+    "acara": "Obsesi"
   },
   {
     "waktu": "13:30WIB",
-    "acara": "Kepentok Cinta"
+    "acara": "Legenda Sang Penunggu"
   },
   {
     "waktu": "14:30WIB",
@@ -77,7 +81,11 @@
   },
   {
     "waktu": "15:00WIB",
-    "acara": "Dapur Ngebor"
+    "acara": "Behind The Song"
+  },
+  {
+    "waktu": "15:30WIB",
+    "acara": "Seleb On News"
   },
   {
     "waktu": "16:00WIB",
@@ -85,15 +93,11 @@
   },
   {
     "waktu": "17:00WIB",
-    "acara": "Barista"
+    "acara": "Intens Reborn"
   },
   {
     "waktu": "17:30WIB",
-    "acara": "Behind The Song"
-  },
-  {
-    "waktu": "18:00WIB",
-    "acara": "C-Files"
+    "acara": "Follow Seleb"
   },
   {
     "waktu": "18:30WIB",
@@ -105,30 +109,26 @@
   },
   {
     "waktu": "19:30WIB",
-    "acara": "Top Of The Top"
-  },
-  {
-    "waktu": "20:00WIB",
-    "acara": "Barista"
+    "acara": "Bapau Asli Indonesia"
   },
   {
     "waktu": "20:30WIB",
-    "acara": "Hotman Paris Show"
+    "acara": "Silet"
   },
   {
     "waktu": "21:30WIB",
-    "acara": "Kepentok Cinta"
+    "acara": "iSeleb"
+  },
+  {
+    "waktu": "22:00WIB",
+    "acara": "Go Spot"
   },
   {
     "waktu": "22:30WIB",
-    "acara": "Celebrity Top 10"
+    "acara": "Top Of The Top"
   },
   {
     "waktu": "23:00WIB",
-    "acara": "Barista"
-  },
-  {
-    "waktu": "23:30WIB",
-    "acara": "Behind The Song"
+    "acara": "Legenda Sang Penunggu"
   }
 ]

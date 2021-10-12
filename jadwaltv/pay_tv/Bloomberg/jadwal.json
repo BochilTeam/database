@@ -1,7 +1,7 @@
 [
   {
     "waktu": "00:00WIB",
-    "acara": "Bloomberg Real Yield"
+    "acara": "Bloomberg Markets"
   },
   {
     "waktu": "00:30WIB",
@@ -21,122 +21,62 @@
   },
   {
     "waktu": "05:00WIB",
-    "acara": "Bloomberg Wall Street Week"
+    "acara": "Bloomberg Daybreak: Australia"
   },
   {
     "waktu": "06:00WIB",
-    "acara": "Bloomberg Studio 1.0"
-  },
-  {
-    "waktu": "06:30WIB",
-    "acara": "Bloomberg Front Row: N. Quinn"
-  },
-  {
-    "waktu": "07:00WIB",
-    "acara": "Best Of...: Middle East"
+    "acara": "Bloomberg Daybreak: Asia"
   },
   {
     "waktu": "08:00WIB",
-    "acara": "The David Rubenstein Show"
-  },
-  {
-    "waktu": "08:30WIB",
-    "acara": "Bloomberg Studio 1.0"
+    "acara": "Bloomberg Markets: China Open"
   },
   {
     "waktu": "09:00WIB",
-    "acara": "Bloomberg Wall Street Week"
-  },
-  {
-    "waktu": "10:00WIB",
-    "acara": "Bloomberg Studio 1.0"
-  },
-  {
-    "waktu": "10:30WIB",
-    "acara": "Bloomberg Studio 1.0"
+    "acara": "Bloomberg Markets: Asia"
   },
   {
     "waktu": "11:00WIB",
-    "acara": "Bloomberg Space Race"
-  },
-  {
-    "waktu": "11:30WIB",
-    "acara": "Inside Venezuela"
+    "acara": "Bloomberg...: Middle East"
   },
   {
     "waktu": "12:00WIB",
-    "acara": "Best Of...: Middle East"
+    "acara": "Bloomberg Daybreak: Europe"
   },
   {
     "waktu": "13:00WIB",
-    "acara": "Bloomberg Front Row: N. Quinn"
-  },
-  {
-    "waktu": "13:30WIB",
-    "acara": "Bloomberg Studio 1.0"
-  },
-  {
-    "waktu": "14:00WIB",
-    "acara": "Bloomberg Wall Street Week"
+    "acara": "Bloomberg...: European Open"
   },
   {
     "waktu": "15:00WIB",
-    "acara": "Bloomberg Studio 1.0"
-  },
-  {
-    "waktu": "15:30WIB",
-    "acara": "Inside Venezuela"
+    "acara": "Bloomberg Surveillance: Early"
   },
   {
     "waktu": "16:00WIB",
-    "acara": "Bloomberg Space Race"
-  },
-  {
-    "waktu": "16:30WIB",
-    "acara": "Bloomberg Front Row: N. Quinn"
+    "acara": "Bloomberg Technology"
   },
   {
     "waktu": "17:00WIB",
-    "acara": "Bloomberg Wall Street Week"
+    "acara": "Bloomberg Surveillance"
   },
   {
     "waktu": "18:00WIB",
-    "acara": "Bloomberg Green"
-  },
-  {
-    "waktu": "18:30WIB",
-    "acara": "Bloomberg Studio 1.0"
-  },
-  {
-    "waktu": "19:00WIB",
-    "acara": "Bloomberg Front Row: V. Khosla"
-  },
-  {
-    "waktu": "19:30WIB",
-    "acara": "Bloomberg Wealth With David"
+    "acara": "Bloomberg Surveillance"
   },
   {
     "waktu": "20:00WIB",
-    "acara": "The David Rubenstein Show"
-  },
-  {
-    "waktu": "20:30WIB",
-    "acara": "Inside Venezuela"
+    "acara": "Bloomberg: The Open"
   },
   {
     "waktu": "21:00WIB",
-    "acara": "Bloomberg Wall Street Week"
+    "acara": "Bloomberg Markets: Americas"
   },
   {
     "waktu": "22:00WIB",
-    "acara": "Bloomberg Wealth With David"
-  },
-  {
-    "waktu": "22:30WIB",
-    "acara": "Bloomberg Studio 1.0"
+    "acara": "Bloomberg...: European Close"
   },
   {
     "waktu": "23:00WIB",
-    "acara": "Best Of...: Middle East"
+    "acara": "Bloomberg: Balance Of Power"
   }
 ]

@@ -1,51 +1,51 @@
 [
   {
     "waktu": "00:00WIB",
-    "acara": "Bahasa Indonesia: Kelas 9"
-  },
-  {
-    "waktu": "00:30WIB",
-    "acara": "Bahasa Inggris: Kelas 9"
-  },
-  {
-    "waktu": "01:00WIB",
-    "acara": "IPS Terpadu: Kelas 9"
-  },
-  {
-    "waktu": "01:30WIB",
-    "acara": "Bahasa Inggris: Kelas 9"
-  },
-  {
-    "waktu": "02:00WIB",
-    "acara": "Sejarah Wajib: Kelas 10"
-  },
-  {
-    "waktu": "02:30WIB",
     "acara": "Bahasa Indonesia: Kelas 10"
   },
   {
-    "waktu": "03:00WIB",
-    "acara": "Sejarah Wajib: Kelas 10"
-  },
-  {
-    "waktu": "03:30WIB",
+    "waktu": "00:30WIB",
     "acara": "Biologi: Kelas 10"
   },
   {
+    "waktu": "01:00WIB",
+    "acara": "Bahasa Indonesia: Kelas 10"
+  },
+  {
+    "waktu": "01:30WIB",
+    "acara": "Biologi: Kelas 10"
+  },
+  {
+    "waktu": "02:00WIB",
+    "acara": "Bahasa Inggris: Kelas 8"
+  },
+  {
+    "waktu": "02:30WIB",
+    "acara": "Bahasa Indonesia: Kelas 8"
+  },
+  {
+    "waktu": "03:00WIB",
+    "acara": "Bahasa Inggris: Kelas 8"
+  },
+  {
+    "waktu": "03:30WIB",
+    "acara": "Bahasa Indonesia: Kelas 8"
+  },
+  {
     "waktu": "04:00WIB",
-    "acara": "Bahasa Indonesia: Kelas 9"
+    "acara": "Bahasa Indonesia: Kelas 10"
   },
   {
     "waktu": "04:30WIB",
-    "acara": "Bahasa Inggris: Kelas 9"
+    "acara": "Biologi: Kelas 10"
   },
   {
     "waktu": "05:00WIB",
-    "acara": "IPS Terpadu: Kelas 9"
+    "acara": "Bahasa Indonesia: Kelas 10"
   },
   {
     "waktu": "05:30WIB",
-    "acara": "Bahasa Inggris: Kelas 9"
+    "acara": "Biologi: Kelas 10"
   },
   {
     "waktu": "06:00WIB",
@@ -61,23 +61,23 @@
   },
   {
     "waktu": "08:30WIB",
-    "acara": "LunchBox"
+    "acara": "Koki Ciko"
   },
   {
     "waktu": "09:00WIB",
-    "acara": "Kids Menu"
+    "acara": "Penjelajah Cilik"
   },
   {
     "waktu": "09:30WIB",
-    "acara": "101 Dreams"
+    "acara": "Animalia"
   },
   {
     "waktu": "10:00WIB",
-    "acara": "Dunia Hand Made"
+    "acara": "Kidipedia"
   },
   {
     "waktu": "10:30WIB",
-    "acara": "iLanggam"
+    "acara": "Mom & Kids"
   },
   {
     "waktu": "11:00WIB",
@@ -129,7 +129,7 @@
   },
   {
     "waktu": "17:30WIB",
-    "acara": "iLanggam"
+    "acara": "Koki Ciko"
   },
   {
     "waktu": "18:00WIB",
@@ -137,42 +137,42 @@
   },
   {
     "waktu": "19:00WIB",
-    "acara": "Biologi: Kelas 10"
+    "acara": "Sejarah Wajib: Kelas 11"
   },
   {
     "waktu": "19:30WIB",
-    "acara": "Bahasa Indonesia: Kelas 10"
+    "acara": "Biologi: Kelas 11"
   },
   {
     "waktu": "20:00WIB",
-    "acara": "Biologi: Kelas 10"
+    "acara": "Sosiologi: Kelas 11"
   },
   {
     "waktu": "20:30WIB",
-    "acara": "Bahasa Indonesia: Kelas 10"
+    "acara": "Biologi: Kelas 10"
   },
   {
     "waktu": "21:00WIB",
-    "acara": "Bahasa Indonesia: Kelas 7"
-  },
-  {
-    "waktu": "21:30WIB",
     "acara": "Bahasa Inggris: Kelas 8"
   },
   {
-    "waktu": "22:00WIB",
+    "waktu": "21:30WIB",
     "acara": "Bahasa Indonesia: Kelas 8"
   },
   {
+    "waktu": "22:00WIB",
+    "acara": "Bahasa Inggris: Kelas 9"
+  },
+  {
     "waktu": "22:30WIB",
-    "acara": "AyoBlajar"
+    "acara": "Sosiologi: Kelas 12"
   },
   {
     "waktu": "23:00WIB",
-    "acara": "101 Dreams"
+    "acara": "Field Trip"
   },
   {
     "waktu": "23:30WIB",
-    "acara": "Dunia Hand Made"
+    "acara": "Aku Juara"
   }
 ]

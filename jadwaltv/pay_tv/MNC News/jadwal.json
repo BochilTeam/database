@@ -9,11 +9,11 @@
   },
   {
     "waktu": "02:00WIB",
-    "acara": "Indonesia Bicara"
+    "acara": "Indonesia Malam"
   },
   {
     "waktu": "03:00WIB",
-    "acara": "iNews Prime"
+    "acara": "Indonesia Bicara"
   },
   {
     "waktu": "04:00WIB",
@@ -25,7 +25,7 @@
   },
   {
     "waktu": "05:30WIB",
-    "acara": "Indonesia Border"
+    "acara": "Top Files"
   },
   {
     "waktu": "06:00WIB",
@@ -44,20 +44,12 @@
     "acara": "Seputar iNews Pagi"
   },
   {
-    "waktu": "09:30WIB",
-    "acara": "Story Of The Famous"
-  },
-  {
     "waktu": "10:00WIB",
     "acara": "iNews Pagi"
   },
   {
     "waktu": "11:00WIB",
-    "acara": "Special Report"
-  },
-  {
-    "waktu": "11:30WIB",
-    "acara": "Asal Muasal"
+    "acara": "Kisah Viral"
   },
   {
     "waktu": "12:00WIB",
@@ -65,11 +57,7 @@
   },
   {
     "waktu": "13:30WIB",
-    "acara": "Seputar iNews Siang"
-  },
-  {
-    "waktu": "14:00WIB",
-    "acara": "Indonesia Border"
+    "acara": "Buletin iNews Siang"
   },
   {
     "waktu": "14:30WIB",
@@ -77,19 +65,19 @@
   },
   {
     "waktu": "15:00WIB",
-    "acara": "Buletin iNews Siang"
-  },
-  {
-    "waktu": "16:00WIB",
     "acara": "Indonesia Petang (L)"
   },
   {
     "waktu": "17:30WIB",
-    "acara": "Top Issue"
+    "acara": "Top Files"
   },
   {
     "waktu": "18:00WIB",
-    "acara": "Hotman Paris Show"
+    "acara": "Realita"
+  },
+  {
+    "waktu": "18:30WIB",
+    "acara": "Sergap"
   },
   {
     "waktu": "19:00WIB",
@@ -97,22 +85,22 @@
   },
   {
     "waktu": "20:00WIB",
-    "acara": "Indonesia Malam (L)"
+    "acara": "Indonesia Bicara"
   },
   {
     "waktu": "21:00WIB",
-    "acara": "Asal Muasal"
+    "acara": "Monitor"
   },
   {
     "waktu": "21:30WIB",
-    "acara": "One On One"
+    "acara": "Indonesia Malam (L)"
   },
   {
     "waktu": "22:30WIB",
-    "acara": "Top Hi-Lite"
+    "acara": "iNews Prime"
   },
   {
     "waktu": "23:30WIB",
-    "acara": "Indonesia Malam"
+    "acara": "Razia"
   }
 ]

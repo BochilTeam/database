@@ -33,7 +33,11 @@
   },
   {
     "waktu": "05:00WIB",
-    "acara": "Americas Now"
+    "acara": "The World Today"
+  },
+  {
+    "waktu": "05:30WIB",
+    "acara": "Icon"
   },
   {
     "waktu": "06:00WIB",
@@ -81,7 +85,15 @@
   },
   {
     "waktu": "12:00WIB",
-    "acara": "Big Story"
+    "acara": "The World Today"
+  },
+  {
+    "waktu": "12:15WIB",
+    "acara": "Sports Scene"
+  },
+  {
+    "waktu": "12:30WIB",
+    "acara": "Culture Express"
   },
   {
     "waktu": "13:00WIB",
@@ -101,11 +113,7 @@
   },
   {
     "waktu": "15:00WIB",
-    "acara": "The World Today"
-  },
-  {
-    "waktu": "15:30WIB",
-    "acara": "Biz Talk"
+    "acara": "Global Business"
   },
   {
     "waktu": "16:00WIB",
@@ -113,7 +121,7 @@
   },
   {
     "waktu": "16:30WIB",
-    "acara": "Icon"
+    "acara": "Culture Express"
   },
   {
     "waktu": "17:00WIB",
@@ -137,34 +145,30 @@
   },
   {
     "waktu": "20:00WIB",
-    "acara": "The World Today"
+    "acara": "Global Business"
   },
   {
     "waktu": "20:30WIB",
-    "acara": "Assignment Asia"
+    "acara": "The Point With Liu Xin"
   },
   {
     "waktu": "21:00WIB",
     "acara": "The World Today"
   },
   {
-    "waktu": "21:30WIB",
-    "acara": "Biz Talk"
+    "waktu": "21:15WIB",
+    "acara": "World Insight With Tian Wei"
   },
   {
     "waktu": "22:00WIB",
-    "acara": "The World Today"
+    "acara": "The Link"
   },
   {
     "waktu": "22:30WIB",
-    "acara": "Icon"
+    "acara": "Culture Express"
   },
   {
     "waktu": "23:00WIB",
-    "acara": "The World Today"
-  },
-  {
-    "waktu": "23:30WIB",
-    "acara": "The Agenda With Stephen Cole"
+    "acara": "Global Business"
   }
 ]

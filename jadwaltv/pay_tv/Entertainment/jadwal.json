@@ -1,5 +1,9 @@
 [
   {
+    "waktu": "02:00WIB",
+    "acara": "OK Chef S1"
+  },
+  {
     "waktu": "02:30WIB",
     "acara": "Konon Katanya"
   },
@@ -9,11 +13,11 @@
   },
   {
     "waktu": "04:00WIB",
-    "acara": "Berpacu Dalam Melodi"
+    "acara": "Take Me Out Indonesia"
   },
   {
-    "waktu": "05:00WIB",
-    "acara": "Rising Star Indonesia Dangdut"
+    "waktu": "05:30WIB",
+    "acara": "Super Deal"
   },
   {
     "waktu": "07:00WIB",
@@ -33,31 +37,27 @@
   },
   {
     "waktu": "10:00WIB",
-    "acara": "Kepentok Cinta"
-  },
-  {
-    "waktu": "11:00WIB",
     "acara": "Konon Katanya"
   },
   {
+    "waktu": "10:30WIB",
+    "acara": "Berpacu Dalam Melodi"
+  },
+  {
     "waktu": "11:30WIB",
-    "acara": "Dahsyatnya 2021"
+    "acara": "ReYunian"
   },
   {
     "waktu": "12:30WIB",
-    "acara": "Ketawa Bareng"
+    "acara": "Super Deal"
   },
   {
-    "waktu": "13:00WIB",
-    "acara": "Rising Star Indonesia Dangdut"
+    "waktu": "14:00WIB",
+    "acara": "MasterChef S5"
   },
   {
-    "waktu": "15:00WIB",
-    "acara": "Kepentok Cinta"
-  },
-  {
-    "waktu": "16:00WIB",
-    "acara": "Dapur Ngebor"
+    "waktu": "16:30WIB",
+    "acara": "OK Chef S1"
   },
   {
     "waktu": "17:00WIB",
@@ -69,22 +69,22 @@
   },
   {
     "waktu": "19:00WIB",
+    "acara": "Take Me Out Indonesia"
+  },
+  {
+    "waktu": "20:30WIB",
     "acara": "Berpacu Dalam Melodi"
   },
   {
-    "waktu": "20:00WIB",
-    "acara": "Sing Like Mama"
-  },
-  {
-    "waktu": "22:00WIB",
-    "acara": "Tanda-Tandanya"
-  },
-  {
-    "waktu": "23:00WIB",
+    "waktu": "21:30WIB",
     "acara": "Konon Katanya"
   },
   {
+    "waktu": "22:00WIB",
+    "acara": "Mikrofon Impian"
+  },
+  {
     "waktu": "23:30WIB",
-    "acara": "Dahsyatnya 2021"
+    "acara": "MasterChef S5"
   }
 ]

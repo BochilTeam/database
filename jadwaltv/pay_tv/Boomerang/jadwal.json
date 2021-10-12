@@ -29,11 +29,11 @@
   },
   {
     "waktu": "07:00WIB",
-    "acara": "Ben 10"
+    "acara": "The Powerpuff Girls"
   },
   {
     "waktu": "08:00WIB",
-    "acara": "The Powerpuff Girls"
+    "acara": "Ben 10"
   },
   {
     "waktu": "09:00WIB",
@@ -41,7 +41,7 @@
   },
   {
     "waktu": "10:00WIB",
-    "acara": "Be Cool Scooby-Doo!"
+    "acara": "Scooby-Doo And Guess Who?"
   },
   {
     "waktu": "11:00WIB",
@@ -49,15 +49,11 @@
   },
   {
     "waktu": "12:00WIB",
-    "acara": "Scooby-Doo! Incorporated"
+    "acara": "Scooby-Doo And Guess Who?"
   },
   {
     "waktu": "13:00WIB",
     "acara": "The Looney Tunes Show"
-  },
-  {
-    "waktu": "13:30WIB",
-    "acara": "Grizzy And The Lemmings"
   },
   {
     "waktu": "14:00WIB",
@@ -77,7 +73,7 @@
   },
   {
     "waktu": "16:30WIB",
-    "acara": "My Knight And Me"
+    "acara": "Barbie Dreamhouse Adv."
   },
   {
     "waktu": "17:00WIB",
@@ -85,7 +81,7 @@
   },
   {
     "waktu": "18:00WIB",
-    "acara": "Talking Tom And Friends"
+    "acara": "Be Cool Scooby-Doo!"
   },
   {
     "waktu": "19:00WIB",
@@ -101,15 +97,19 @@
   },
   {
     "waktu": "20:30WIB",
-    "acara": "Scooby-Doo And Guess Who?"
-  },
-  {
-    "waktu": "21:00WIB",
     "acara": "Grizzy And The Lemmings"
   },
   {
+    "waktu": "21:00WIB",
+    "acara": "Taffy"
+  },
+  {
+    "waktu": "21:30WIB",
+    "acara": "Talking Tom And Friends"
+  },
+  {
     "waktu": "22:00WIB",
-    "acara": "Tom And Jerry Theatricals"
+    "acara": "The Tom & Jerry Show"
   },
   {
     "waktu": "23:00WIB",

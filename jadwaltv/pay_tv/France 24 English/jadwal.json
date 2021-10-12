@@ -5,7 +5,7 @@
   },
   {
     "waktu": "00:10WIB",
-    "acara": "The World This Week, Pt 1 (L)"
+    "acara": "The Debate, Pt 1 (L)"
   },
   {
     "waktu": "00:30WIB",
@@ -13,7 +13,7 @@
   },
   {
     "waktu": "00:32WIB",
-    "acara": "The World This Week, Pt 2 (L)"
+    "acara": "The Debate, Pt 2 (L)"
   },
   {
     "waktu": "00:52WIB",
@@ -45,7 +45,7 @@
   },
   {
     "waktu": "01:46WIB",
-    "acara": "Media Watch (L)"
+    "acara": "Truth Or Fake (L)"
   },
   {
     "waktu": "01:51WIB",
@@ -89,7 +89,7 @@
   },
   {
     "waktu": "03:21WIB",
-    "acara": "Media Watch (L)"
+    "acara": "Truth Or Fake (L)"
   },
   {
     "waktu": "03:30WIB",
@@ -113,7 +113,7 @@
   },
   {
     "waktu": "04:16WIB",
-    "acara": "Business + Media Watch"
+    "acara": "Business + Truth Or Fake"
   },
   {
     "waktu": "04:30WIB",
@@ -125,11 +125,11 @@
   },
   {
     "waktu": "04:46WIB",
-    "acara": "Media Watch (L)"
+    "acara": "Sports (L)"
   },
   {
     "waktu": "04:51WIB",
-    "acara": "Focus PKG"
+    "acara": "Focus (L)"
   },
   {
     "waktu": "05:00WIB",
@@ -137,7 +137,7 @@
   },
   {
     "waktu": "05:11WIB",
-    "acara": "The World This Week, Pt 1"
+    "acara": "The Debate, Pt 1"
   },
   {
     "waktu": "05:30WIB",
@@ -145,7 +145,7 @@
   },
   {
     "waktu": "05:32WIB",
-    "acara": "The World This Week, Pt 2"
+    "acara": "The Debate, Pt 2"
   },
   {
     "waktu": "05:52WIB",
@@ -161,7 +161,7 @@
   },
   {
     "waktu": "06:20WIB",
-    "acara": "Sports B"
+    "acara": "Sports"
   },
   {
     "waktu": "06:30WIB",
@@ -197,6 +197,6 @@
   },
   {
     "waktu": "08:11WIB",
-    "acara": "The World This Week, Pt 1"
+    "acara": "The Debate, Pt 1"
   }
 ]

@@ -4,6 +4,10 @@
     "acara": "Ikatan Cinta"
   },
   {
+    "waktu": "02:15WIB",
+    "acara": "Obsesi"
+  },
+  {
     "waktu": "02:45WIB",
     "acara": "Silet"
   },
@@ -13,19 +17,15 @@
   },
   {
     "waktu": "04:30WIB",
-    "acara": "Daily Lifestyle"
+    "acara": "Top Of The Top"
   },
   {
     "waktu": "05:00WIB",
-    "acara": "Celebrity And Netizen"
+    "acara": "Celebrity Top 10"
   },
   {
     "waktu": "05:30WIB",
-    "acara": "Love Story"
-  },
-  {
-    "waktu": "06:00WIB",
-    "acara": "Top Of The Top"
+    "acara": "Intens Reborn"
   },
   {
     "waktu": "06:30WIB",
@@ -37,11 +37,11 @@
   },
   {
     "waktu": "07:30WIB",
-    "acara": "Workout Class"
+    "acara": "Top Of The Top"
   },
   {
     "waktu": "08:00WIB",
-    "acara": "C-Files"
+    "acara": "Daily Lifestyle"
   },
   {
     "waktu": "08:30WIB",
@@ -53,23 +53,23 @@
   },
   {
     "waktu": "10:00WIB",
-    "acara": "Hotman Paris Show"
+    "acara": "Celebrity & Netizen"
   },
   {
-    "waktu": "10:45WIB",
-    "acara": "Fashion Master"
+    "waktu": "10:30WIB",
+    "acara": "Ngobrol Bareng Gus Miftah"
   },
   {
     "waktu": "11:30WIB",
-    "acara": "Today's Special"
+    "acara": "Daily Lifestyle"
   },
   {
     "waktu": "12:00WIB",
-    "acara": "Geng Lahap"
+    "acara": "Dapur Ngebor"
   },
   {
     "waktu": "12:45WIB",
-    "acara": "People & Hobbies"
+    "acara": "Love Story"
   },
   {
     "waktu": "13:15WIB",
@@ -84,32 +84,36 @@
     "acara": "Ikatan Cinta"
   },
   {
-    "waktu": "19:30WIB",
+    "waktu": "19:00WIB",
     "acara": "Daily Lifestyle"
   },
   {
-    "waktu": "20:00WIB",
-    "acara": "Barista"
-  },
-  {
-    "waktu": "20:30WIB",
+    "waktu": "19:30WIB",
     "acara": "Celebrity Top 10"
   },
   {
+    "waktu": "20:00WIB",
+    "acara": "Love Story"
+  },
+  {
+    "waktu": "20:30WIB",
+    "acara": "Seleb On News"
+  },
+  {
     "waktu": "21:00WIB",
-    "acara": "Today's Special"
+    "acara": "World Fashion"
   },
   {
     "waktu": "21:30WIB",
-    "acara": "Num8Ereight Style Watch"
-  },
-  {
-    "waktu": "22:00WIB",
     "acara": "Top Of The Top"
   },
   {
+    "waktu": "22:00WIB",
+    "acara": "Obsesi"
+  },
+  {
     "waktu": "22:30WIB",
-    "acara": "Hati Sang Bidadari"
+    "acara": "iSeleb"
   },
   {
     "waktu": "23:00WIB",
@@ -117,6 +121,6 @@
   },
   {
     "waktu": "23:30WIB",
-    "acara": "Hotman Paris Show"
+    "acara": "Intens Reborn"
   }
 ]

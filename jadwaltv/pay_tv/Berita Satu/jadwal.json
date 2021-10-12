@@ -13,7 +13,7 @@
   },
   {
     "waktu": "04:00WIB",
-    "acara": "COVID Today"
+    "acara": "Connect 360"
   },
   {
     "waktu": "05:00WIB",
@@ -21,15 +21,7 @@
   },
   {
     "waktu": "06:00WIB",
-    "acara": "People & Inspiration"
-  },
-  {
-    "waktu": "06:30WIB",
-    "acara": "Fakta Data"
-  },
-  {
-    "waktu": "07:00WIB",
-    "acara": "60 Minutes With"
+    "acara": "Good Morning Jakarta"
   },
   {
     "waktu": "08:00WIB",
@@ -37,7 +29,11 @@
   },
   {
     "waktu": "08:05WIB",
-    "acara": "New Normal"
+    "acara": "News Buzz"
+  },
+  {
+    "waktu": "08:30WIB",
+    "acara": "IDX Opening Bell"
   },
   {
     "waktu": "09:00WIB",
@@ -45,11 +41,11 @@
   },
   {
     "waktu": "09:05WIB",
-    "acara": "Jurnal Ekstra"
+    "acara": "IDX Opening Bell"
   },
   {
     "waktu": "09:30WIB",
-    "acara": "Fakta Data"
+    "acara": "Corporate Action"
   },
   {
     "waktu": "10:00WIB",
@@ -57,7 +53,11 @@
   },
   {
     "waktu": "10:05WIB",
-    "acara": "Zooming With Primus"
+    "acara": "Corporate Action"
+  },
+  {
+    "waktu": "10:30WIB",
+    "acara": "Business Round Up"
   },
   {
     "waktu": "11:00WIB",
@@ -65,11 +65,7 @@
   },
   {
     "waktu": "11:05WIB",
-    "acara": "Indepth"
-  },
-  {
-    "waktu": "11:30WIB",
-    "acara": "People & Inspiration"
+    "acara": "Zooming With Primus"
   },
   {
     "waktu": "12:00WIB",
@@ -93,7 +89,11 @@
   },
   {
     "waktu": "14:05WIB",
-    "acara": "CEO Talks"
+    "acara": "Fakta Data"
+  },
+  {
+    "waktu": "14:30WIB",
+    "acara": "Closing Market"
   },
   {
     "waktu": "15:00WIB",
@@ -101,11 +101,11 @@
   },
   {
     "waktu": "15:05WIB",
-    "acara": "Fakta Data"
+    "acara": "Closing Market"
   },
   {
     "waktu": "15:30WIB",
-    "acara": "People & Inspiration"
+    "acara": "New Normal"
   },
   {
     "waktu": "16:00WIB",
@@ -113,15 +113,11 @@
   },
   {
     "waktu": "16:05WIB",
-    "acara": "SH+E Magazine"
+    "acara": "New Normal"
   },
   {
     "waktu": "16:30WIB",
-    "acara": "Prime Time Weekend"
-  },
-  {
-    "waktu": "17:30WIB",
-    "acara": "Indepth"
+    "acara": "Prime Time"
   },
   {
     "waktu": "18:00WIB",
@@ -137,11 +133,7 @@
   },
   {
     "waktu": "19:05WIB",
-    "acara": "News Buzz"
-  },
-  {
-    "waktu": "19:30WIB",
-    "acara": "Business Round Up"
+    "acara": "Hot Economy"
   },
   {
     "waktu": "20:00WIB",
@@ -149,23 +141,19 @@
   },
   {
     "waktu": "20:05WIB",
-    "acara": "New Normal"
+    "acara": "Creative Money"
   },
   {
     "waktu": "21:00WIB",
-    "acara": "Dibalik Disrupsi"
+    "acara": "News Buzz"
   },
   {
     "waktu": "21:30WIB",
-    "acara": "SH+E Magazine"
+    "acara": "Money Report"
   },
   {
     "waktu": "22:00WIB",
-    "acara": "Prime Time Weekend"
-  },
-  {
-    "waktu": "23:00WIB",
-    "acara": "Business Round Up"
+    "acara": "Prime Time"
   },
   {
     "waktu": "23:30WIB",

@@ -1,7 +1,7 @@
 [
   {
     "waktu": "00:00WIB",
-    "acara": "Madu Hijau"
+    "acara": "Kabar Misteri"
   },
   {
     "waktu": "01:00WIB",
@@ -9,19 +9,11 @@
   },
   {
     "waktu": "02:00WIB",
-    "acara": "Ayo Shop"
-  },
-  {
-    "waktu": "03:00WIB",
-    "acara": "Ayo Shop"
-  },
-  {
-    "waktu": "04:00WIB",
     "acara": "Rindu Tanah Suci"
   },
   {
     "waktu": "05:00WIB",
-    "acara": "Playful Kiss"
+    "acara": "Birdie Buddy"
   },
   {
     "waktu": "06:00WIB",
@@ -49,7 +41,7 @@
   },
   {
     "waktu": "12:00WIB",
-    "acara": "Melangkah Pasti"
+    "acara": "BNPB"
   },
   {
     "waktu": "12:30WIB",
@@ -57,15 +49,11 @@
   },
   {
     "waktu": "13:00WIB",
-    "acara": "Playful Kiss"
+    "acara": "Birdie Buddy"
   },
   {
     "waktu": "14:00WIB",
-    "acara": "Animal Action"
-  },
-  {
-    "waktu": "14:30WIB",
-    "acara": "WOW: What Woman Want"
+    "acara": "Curcol Kuy"
   },
   {
     "waktu": "15:00WIB",
@@ -81,15 +69,11 @@
   },
   {
     "waktu": "18:00WIB",
-    "acara": "News Room Weekend"
-  },
-  {
-    "waktu": "18:30WIB",
-    "acara": "True Crime"
+    "acara": "News Room"
   },
   {
     "waktu": "19:00WIB",
-    "acara": "Meet The VVIP"
+    "acara": "Galeri Publik"
   },
   {
     "waktu": "20:00WIB",
@@ -97,7 +81,7 @@
   },
   {
     "waktu": "21:00WIB",
-    "acara": "Meet The VVIP"
+    "acara": "The Hermansyah Story"
   },
   {
     "waktu": "22:00WIB",
@@ -105,10 +89,6 @@
   },
   {
     "waktu": "23:00WIB",
-    "acara": "Mirror Story"
-  },
-  {
-    "waktu": "23:30WIB",
-    "acara": "Global 3000"
+    "acara": "News Room"
   }
 ]

@@ -1,11 +1,19 @@
 [
   {
-    "waktu": "00:15WIB",
+    "waktu": "00:00WIB",
     "acara": "NHK News"
   },
   {
+    "waktu": "00:10WIB",
+    "acara": "Health For Today"
+  },
+  {
     "waktu": "00:25WIB",
-    "acara": "Hometown Stories"
+    "acara": "Today's Menu"
+  },
+  {
+    "waktu": "00:50WIB",
+    "acara": "Everyday Tips"
   },
   {
     "waktu": "00:55WIB",
@@ -17,15 +25,31 @@
   },
   {
     "waktu": "01:30WIB",
-    "acara": "The Mark Of Beauty"
+    "acara": "100 Beautiful Mountains Of JPN"
   },
   {
     "waktu": "02:00WIB",
-    "acara": "Trails To Oishii Tokyo"
+    "acara": "Bento Expo"
+  },
+  {
+    "waktu": "02:25WIB",
+    "acara": "The Mark Of Beauty"
   },
   {
     "waktu": "02:30WIB",
-    "acara": "Grand Sumo Autumn..."
+    "acara": "World Music Album"
+  },
+  {
+    "waktu": "02:35WIB",
+    "acara": "TV Exercise"
+  },
+  {
+    "waktu": "02:45WIB",
+    "acara": "Hijika Toshizo's..., Ep 4"
+  },
+  {
+    "waktu": "02:50WIB",
+    "acara": "Songs For Everyone"
   },
   {
     "waktu": "02:56WIB",
@@ -56,35 +80,43 @@
     "acara": "News: Good Morning, Japan"
   },
   {
-    "waktu": "05:59WIB",
-    "acara": "World Weather"
-  },
-  {
     "waktu": "06:00WIB",
-    "acara": "Welcome Back, Mone"
+    "acara": "Welcome Back, Mone, Ep 107"
   },
   {
     "waktu": "06:15WIB",
-    "acara": "Trivia Quizzes: Chiko-Chan!"
+    "acara": "Asaichi"
   },
   {
-    "waktu": "07:00WIB",
-    "acara": "News This Week"
+    "waktu": "07:55WIB",
+    "acara": "Exercise For Everyone"
   },
   {
-    "waktu": "07:30WIB",
-    "acara": "NHK Special"
+    "waktu": "08:00WIB",
+    "acara": "News & Weather"
   },
   {
-    "waktu": "08:20WIB",
-    "acara": "NHK Special"
+    "waktu": "08:05WIB",
+    "acara": "Cycle Around Japan Highlights"
   },
   {
-    "waktu": "09:33WIB",
-    "acara": "Strolling With Tamori"
+    "waktu": "08:32WIB",
+    "acara": "Instruction-Manual Theater"
   },
   {
-    "waktu": "09:57WIB",
+    "waktu": "09:14WIB",
+    "acara": "Mini Program"
+  },
+  {
+    "waktu": "09:17WIB",
+    "acara": "Document 72 Hours"
+  },
+  {
+    "waktu": "09:48WIB",
+    "acara": "Points At Issue"
+  },
+  {
+    "waktu": "09:58WIB",
     "acara": "World Weather"
   },
   {
@@ -92,103 +124,79 @@
     "acara": "News"
   },
   {
-    "waktu": "10:15WIB",
-    "acara": "Law And Laughter"
-  },
-  {
-    "waktu": "10:40WIB",
-    "acara": "Ukiyoe Edo-Life"
+    "waktu": "10:20WIB",
+    "acara": "Bento Expo"
   },
   {
     "waktu": "10:45WIB",
-    "acara": "Welcome Back, Mone"
+    "acara": "Welcome Back, Mone, Ep 107"
   },
   {
     "waktu": "11:00WIB",
-    "acara": "News & Weather"
-  },
-  {
-    "waktu": "11:05WIB",
-    "acara": "Reach Beyond The Blue Sky"
-  },
-  {
-    "waktu": "11:50WIB",
-    "acara": "Rural Japan Satoyama"
-  },
-  {
-    "waktu": "12:00WIB",
-    "acara": "News: Live Debate"
-  },
-  {
-    "waktu": "14:00WIB",
-    "acara": "Grand Sumo Autumn..."
-  },
-  {
-    "waktu": "16:00WIB",
     "acara": "News"
   },
   {
-    "waktu": "16:05WIB",
-    "acara": "Nippon Professional Baseball"
+    "waktu": "11:05WIB",
+    "acara": "News Around Japan"
   },
   {
-    "waktu": "17:00WIB",
-    "acara": "NHK News 7"
+    "waktu": "11:55WIB",
+    "acara": "World Music Album"
   },
   {
-    "waktu": "17:30WIB",
-    "acara": "Nippon Professional Baseball"
+    "waktu": "12:00WIB",
+    "acara": "Hobbies: Sparkle Your Life!"
   },
   {
-    "waktu": "19:05WIB",
-    "acara": "News & Weather"
+    "waktu": "12:25WIB",
+    "acara": "My Gardening"
   },
   {
-    "waktu": "19:20WIB",
-    "acara": "Bread Travelogue: Chichibu"
+    "waktu": "12:50WIB",
+    "acara": "Songs For Everyone"
   },
   {
-    "waktu": "19:49WIB",
+    "waktu": "12:55WIB",
+    "acara": "Everyday Tips"
+  },
+  {
+    "waktu": "13:00WIB",
+    "acara": "NHK News"
+  },
+  {
+    "waktu": "13:10WIB",
+    "acara": "Onishi Hiroto's Basic English"
+  },
+  {
+    "waktu": "13:20WIB",
+    "acara": "Asia Insight"
+  },
+  {
+    "waktu": "13:48WIB",
     "acara": "World Weather"
   },
   {
-    "waktu": "19:50WIB",
-    "acara": "Producer Teppei Arita's..."
+    "waktu": "13:50WIB",
+    "acara": "Child-Rearing Hints & Tips"
   },
   {
-    "waktu": "20:20WIB",
-    "acara": "Saturday Sports News"
+    "waktu": "14:50WIB",
+    "acara": "NHK News"
   },
   {
-    "waktu": "20:40WIB",
-    "acara": "Stories"
+    "waktu": "15:00WIB",
+    "acara": "Mini Program"
   },
   {
-    "waktu": "21:10WIB",
-    "acara": "Shibuya Note"
+    "waktu": "15:01WIB",
+    "acara": "PythagoraSwitch"
   },
   {
-    "waktu": "21:40WIB",
-    "acara": "News & Weather"
+    "waktu": "15:11WIB",
+    "acara": "Fun With Japanese"
   },
   {
-    "waktu": "21:45WIB",
-    "acara": "Nightly Laboratory"
-  },
-  {
-    "waktu": "22:45WIB",
-    "acara": "Japan Food Culture Research..."
-  },
-  {
-    "waktu": "23:15WIB",
-    "acara": "Bijutune!"
-  },
-  {
-    "waktu": "23:20WIB",
-    "acara": "Nakai Seiya's Photographic Trip"
-  },
-  {
-    "waktu": "23:35WIB",
-    "acara": "Cool Japan"
+    "waktu": "15:21WIB",
+    "acara": "Peek-A-Boo"
   }
 ]

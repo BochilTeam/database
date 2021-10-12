@@ -1,7 +1,7 @@
 [
   {
     "waktu": "00:00WIB",
-    "acara": "Update Korona"
+    "acara": "Berita Utama"
   },
   {
     "waktu": "01:00WIB",
@@ -13,7 +13,7 @@
   },
   {
     "waktu": "02:00WIB",
-    "acara": "FIVB Beach Volleyball C'ship"
+    "acara": "Kompas Malam"
   },
   {
     "waktu": "03:00WIB",
@@ -29,51 +29,47 @@
   },
   {
     "waktu": "04:30WIB",
-    "acara": "Kompas Pagi Akhir Pekan"
+    "acara": "Kompas Pagi"
   },
   {
     "waktu": "07:00WIB",
     "acara": "Sapa Indonesia Pagi"
   },
   {
-    "waktu": "08:30WIB",
+    "waktu": "09:30WIB",
     "acara": "Bincang Kita"
   },
   {
-    "waktu": "09:00WIB",
-    "acara": "Bingkai Inspirasi"
-  },
-  {
-    "waktu": "09:30WIB",
-    "acara": "MNC Shop"
-  },
-  {
     "waktu": "10:00WIB",
-    "acara": "Zona Inspirasi"
+    "acara": "Pop News"
   },
   {
     "waktu": "10:30WIB",
-    "acara": "Food Story"
+    "acara": "Berita Utama"
   },
   {
     "waktu": "11:00WIB",
     "acara": "Kompas Siang"
   },
   {
-    "waktu": "12:30WIB",
-    "acara": "News Or Hoax"
-  },
-  {
     "waktu": "13:00WIB",
-    "acara": "Aiman"
+    "acara": "Sapa Indonesia Siang"
   },
   {
     "waktu": "14:00WIB",
-    "acara": "Coffee Story"
+    "acara": "Zona Inspirasi"
+  },
+  {
+    "waktu": "14:30WIB",
+    "acara": "Saksi Kunci"
   },
   {
     "waktu": "15:00WIB",
-    "acara": "Explore Indonesia"
+    "acara": "Update Korona"
+  },
+  {
+    "waktu": "15:30WIB",
+    "acara": "Sapa Papua"
   },
   {
     "waktu": "16:00WIB",
@@ -81,11 +77,7 @@
   },
   {
     "waktu": "18:00WIB",
-    "acara": "Petualangan Brilian The Series"
-  },
-  {
-    "waktu": "18:30WIB",
-    "acara": "Kompas Sport"
+    "acara": "Berita Utama"
   },
   {
     "waktu": "19:00WIB",
@@ -93,11 +85,7 @@
   },
   {
     "waktu": "20:00WIB",
-    "acara": "Explore Indonesia"
-  },
-  {
-    "waktu": "20:30WIB",
-    "acara": "Memoar"
+    "acara": "B-Talk: Business Talk"
   },
   {
     "waktu": "21:00WIB",
@@ -105,7 +93,15 @@
   },
   {
     "waktu": "22:00WIB",
-    "acara": "Rosi Spesial"
+    "acara": "Kompas Sport Malam"
+  },
+  {
+    "waktu": "22:30WIB",
+    "acara": "Laporan Khusus"
+  },
+  {
+    "waktu": "23:00WIB",
+    "acara": "Berkas Kompas"
   },
   {
     "waktu": "23:30WIB",

@@ -4,28 +4,16 @@
     "acara": "NHK Newsline"
   },
   {
-    "waktu": "00:10WIB",
+    "waktu": "00:15WIB",
     "acara": "Newsline In Depth"
   },
   {
-    "waktu": "00:23WIB",
-    "acara": "Japanology Plus Mini"
-  },
-  {
     "waktu": "00:30WIB",
-    "acara": "Culture Crossroads"
-  },
-  {
-    "waktu": "00:40WIB",
-    "acara": "Selfie Japan! Nara"
+    "acara": "Bento Expo"
   },
   {
     "waktu": "00:45WIB",
-    "acara": "No Art, No Life Plus"
-  },
-  {
-    "waktu": "00:55WIB",
-    "acara": "Dining With The Chef Mini"
+    "acara": "Easy Japanese For Work"
   },
   {
     "waktu": "01:00WIB",
@@ -37,79 +25,71 @@
   },
   {
     "waktu": "01:55WIB",
-    "acara": "Animation X Paralympic"
+    "acara": "Ukiyoe Edo-Life"
   },
   {
     "waktu": "02:00WIB",
-    "acara": "Medical Frontiers"
+    "acara": "NHK Documentary"
   },
   {
-    "waktu": "02:30WIB",
-    "acara": "Explore Japan: Music Trunk"
+    "waktu": "02:50WIB",
+    "acara": "Time-Lapse Japan"
+  },
+  {
+    "waktu": "02:55WIB",
+    "acara": "Japan From Above: Up Close"
   },
   {
     "waktu": "03:00WIB",
     "acara": "NHK Newsline"
   },
   {
-    "waktu": "03:15WIB",
-    "acara": "Direct Talk"
+    "waktu": "03:18WIB",
+    "acara": "Newsline Biz"
   },
   {
     "waktu": "03:30WIB",
-    "acara": "Today's Close-Up"
+    "acara": "Medical Frontiers"
   },
   {
     "waktu": "04:00WIB",
     "acara": "NHK Newsline"
   },
   {
-    "waktu": "04:15WIB",
-    "acara": "Biz Stream Spc. Edition"
+    "waktu": "04:18WIB",
+    "acara": "Newsline Biz"
   },
   {
     "waktu": "04:30WIB",
-    "acara": "Asia Insight"
+    "acara": "Where We Call Home"
   },
   {
     "waktu": "05:00WIB",
     "acara": "NHK Newsline"
   },
   {
-    "waktu": "05:15WIB",
-    "acara": "Newsline In Depth"
+    "waktu": "05:18WIB",
+    "acara": "Newsline Biz"
   },
   {
     "waktu": "05:30WIB",
-    "acara": "Culture Crossroads"
-  },
-  {
-    "waktu": "05:40WIB",
-    "acara": "Selfie Japan! Nara"
+    "acara": "Bento Expo"
   },
   {
     "waktu": "05:45WIB",
-    "acara": "No Art, No Life Plus"
-  },
-  {
-    "waktu": "05:55WIB",
-    "acara": "Dining With The Chef Mini"
+    "acara": "Easy Japanese For Work"
   },
   {
     "waktu": "06:00WIB",
     "acara": "NHK Newsline"
   },
   {
-    "waktu": "06:10WIB",
-    "acara": "Animation X Paralympic"
-  },
-  {
     "waktu": "06:15WIB",
-    "acara": "Japanology Plus Mini"
+    "acara": "Ukiyoe Edo-Life"
   },
   {
     "waktu": "06:20WIB",
-    "acara": "Tokyo Time-Lapse"
+    "acara": "Time-Lapse Japan"
   },
   {
     "waktu": "06:25WIB",
@@ -117,86 +97,106 @@
   },
   {
     "waktu": "06:30WIB",
-    "acara": "Grand Sumo Highlights"
-  },
-  {
-    "waktu": "06:57WIB",
-    "acara": "Sumopedia"
+    "acara": "The Mark Of Beauty"
   },
   {
     "waktu": "07:00WIB",
     "acara": "NHK Newsline"
   },
   {
-    "waktu": "07:10WIB",
-    "acara": "The Pride Of Namie"
+    "waktu": "07:15WIB",
+    "acara": "Newsline In Depth"
+  },
+  {
+    "waktu": "07:30WIB",
+    "acara": "Journeys In Japan"
   },
   {
     "waktu": "08:00WIB",
     "acara": "NHK Newsline"
   },
   {
-    "waktu": "08:10WIB",
-    "acara": "Broadcasters' Eye"
+    "waktu": "08:15WIB",
+    "acara": "Direct Talk"
+  },
+  {
+    "waktu": "08:30WIB",
+    "acara": "Dining With The Chef"
   },
   {
     "waktu": "09:00WIB",
     "acara": "NHK Newsline"
   },
   {
-    "waktu": "09:10WIB",
-    "acara": "Anime Supernova"
+    "waktu": "09:15WIB",
+    "acara": "Newsline In Depth"
   },
   {
-    "waktu": "09:25WIB",
-    "acara": "Darwin's Amazing Animals"
+    "waktu": "09:30WIB",
+    "acara": "Document 72 Hours"
   },
   {
-    "waktu": "09:50WIB",
-    "acara": "Trails To Oishii Tokyo Mini"
+    "waktu": "09:55WIB",
+    "acara": "Paprika Let's Dance!"
   },
   {
     "waktu": "10:00WIB",
     "acara": "NHK Newsline"
   },
   {
-    "waktu": "10:10WIB",
-    "acara": "Today's Close-Up"
+    "waktu": "10:15WIB",
+    "acara": "Newsline In Depth"
   },
   {
-    "waktu": "10:40WIB",
-    "acara": "The Signs"
-  },
-  {
-    "waktu": "10:55WIB",
-    "acara": "Animation X Paralympic"
+    "waktu": "10:30WIB",
+    "acara": "Medical Frontiers"
   },
   {
     "waktu": "11:00WIB",
     "acara": "NHK Newsline"
   },
   {
-    "waktu": "11:10WIB",
-    "acara": "Four Seasons In Japan"
-  },
-  {
-    "waktu": "11:20WIB",
-    "acara": "We, In The Time Of Corona"
-  },
-  {
-    "waktu": "11:25WIB",
-    "acara": "Easy Japanese"
+    "waktu": "11:15WIB",
+    "acara": "Newsline In Depth"
   },
   {
     "waktu": "11:30WIB",
-    "acara": "Grand Sumo Highlights"
+    "acara": "Deeper Look From New York"
   },
   {
-    "waktu": "11:57WIB",
-    "acara": "Sumopedia"
+    "waktu": "11:45WIB",
+    "acara": "Doctor's Insight"
+  },
+  {
+    "waktu": "11:55WIB",
+    "acara": "We, In The Time Of Corona"
   },
   {
     "waktu": "12:00WIB",
     "acara": "NHK Newsline"
+  },
+  {
+    "waktu": "12:15WIB",
+    "acara": "Direct Talk"
+  },
+  {
+    "waktu": "12:30WIB",
+    "acara": "Journeys In Japan"
+  },
+  {
+    "waktu": "13:00WIB",
+    "acara": "NHK Newsline"
+  },
+  {
+    "waktu": "13:15WIB",
+    "acara": "Newsline Biz"
+  },
+  {
+    "waktu": "13:23WIB",
+    "acara": "Ukiyoe Edo-Life"
+  },
+  {
+    "waktu": "13:30WIB",
+    "acara": "Dining With The Chef"
   }
 ]
