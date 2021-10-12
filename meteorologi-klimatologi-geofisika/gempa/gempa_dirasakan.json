@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/10/2021 19:52:49 WIB",
+    "lintang": "3.23 LS",
+    "bujur": "135.52 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 40 km Barat Laut Nabire",
+    "warning": [
+      "II Nabire"
+    ]
+  },
+  {
     "waktu": "12/10/2021 05:23:31 WIB",
     "lintang": "7.85 LS",
     "bujur": "107.28 BT",
@@ -250,18 +261,6 @@
       "III Cidolog",
       "II Ujung Genteng",
       "II Ciracap"
-    ]
-  },
-  {
-    "waktu": "01/10/2021 21:02:53 WIB",
-    "lintang": "9.29 LS",
-    "bujur": "116.91 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "47 Km",
-    "wilayah": "Pusat gempa berada di laut 59 km Tenggara Sumbawa Barat",
-    "warning": [
-      "III Lombok Timur",
-      "II Lombok Tengah"
     ]
   }
 ]
