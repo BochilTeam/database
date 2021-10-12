@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/10/2021 05:23:31 WIB",
+    "lintang": "7.85 LS",
+    "bujur": "107.28 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di laut 96 km baratdaya Bandung",
+    "warning": [
+      "II-III Garut"
+    ]
+  },
+  {
     "waktu": "12/10/2021 00:30:30 WIB",
     "lintang": "0.97 LU",
     "bujur": "126.07 BT",
@@ -251,20 +262,6 @@
     "warning": [
       "III Lombok Timur",
       "II Lombok Tengah"
-    ]
-  },
-  {
-    "waktu": "01/10/2021 18:15:50 WIB",
-    "lintang": "8.19 LS",
-    "bujur": "118.09 BT",
-    "magnitudo": "5",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di darat 56 km barat laut Dompu",
-    "warning": [
-      "III Bima",
-      "III Sumbawa",
-      "II Lombok Timur",
-      "III Tambora"
     ]
   }
 ]
