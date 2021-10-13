@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "13/10/2021 12:00:47 WIB",
+    "lintang": "8.87 LS",
+    "bujur": "110.97 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "55 Km",
+    "wilayah": "Pusat gempa berada di laut 78 km selatan Pacitan",
+    "warning": [
+      "III Pacitan",
+      "III Trenggalek",
+      "III Wonogiri",
+      "II Gunung Kidul",
+      "II Bantul",
+      "II Yogyakarta"
+    ]
+  },
+  {
     "waktu": "13/10/2021 07:34:38 WIB",
     "lintang": "3.32 LS",
     "bujur": "129.42 BT",
@@ -233,29 +249,6 @@
     "wilayah": "Pusat gempa berada di laut 54 km BaratLaut Ternate",
     "warning": [
       "III Ternate"
-    ]
-  },
-  {
-    "waktu": "02/10/2021 13:34:35 WIB",
-    "lintang": "8.13 LS",
-    "bujur": "107.35 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 118 km BaratDaya Kab. Garut",
-    "warning": [
-      "III Cisompet",
-      "III Pamengpeuk",
-      "III Cijulang",
-      "III Singajaya",
-      "III Karangnunggal",
-      "II-III Pangalengan",
-      "II-III Cisurupan",
-      "II-III Bayongbong",
-      "II Cilawu",
-      "II Cikajang",
-      "II Samarang",
-      "II Kertasari",
-      "II Manonjaya"
     ]
   }
 ]
