@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-10-21 17:51:47 WIB",
+    "lintang": "-7.27",
+    "bujur": "130.24",
+    "magnitudo": "5.1",
+    "kedalaman": "110 Km",
+    "wilayah": "141 km BaratLaut MALUKUTENGGARABRT"
+  },
+  {
     "waktu": "13-10-21 16:57:28 WIB",
     "lintang": "-7.34",
     "bujur": "129.51",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "20 km BaratDaya PADANGLAWASUTARA-SUMUT"
-  },
-  {
-    "waktu": "06-08-21 18:08:15 WIB",
-    "lintang": "-6.43",
-    "bujur": "104.58",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "106 km BaratDaya TANGGAMUS-LAMPUNG"
   }
 ]
