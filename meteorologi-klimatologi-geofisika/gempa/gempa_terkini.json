@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-10-21 10:08:42 WIB",
+    "lintang": "-0.14",
+    "bujur": "133.02",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "99 km TimurLaut TAMBRAUW-PAPUABRT"
+  },
+  {
     "waktu": "11-10-21 19:34:35 WIB",
     "lintang": "0.83",
     "bujur": "126.15",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "120 Km",
     "wilayah": "165 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
-    "waktu": "05-08-21 12:06:06 WIB",
-    "lintang": "-7.77",
-    "bujur": "122.83",
-    "magnitudo": "5.6",
-    "kedalaman": "540 Km",
-    "wilayah": "62 km BaratLaut LARANTUKA-NTT"
   }
 ]
