@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/10/2021 07:34:38 WIB",
+    "lintang": "3.32 LS",
+    "bujur": "129.42 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km barat laut Tehoru",
+    "warning": [
+      "III Tehoru"
+    ]
+  },
+  {
     "waktu": "12/10/2021 19:52:49 WIB",
     "lintang": "3.23 LS",
     "bujur": "135.52 BT",
@@ -245,22 +256,6 @@
       "II Samarang",
       "II Kertasari",
       "II Manonjaya"
-    ]
-  },
-  {
-    "waktu": "02/10/2021 09:27:04 WIB",
-    "lintang": "7.53 LS",
-    "bujur": "106.71 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "26 Km",
-    "wilayah": "Pusat gempa berada di laut 62 km Tenggara Kab. Sukabumi",
-    "warning": [
-      "III Cipamingkis",
-      "III Cibuni",
-      "III Cikaso",
-      "III Cidolog",
-      "II Ujung Genteng",
-      "II Ciracap"
     ]
   }
 ]
