@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/10/2021 04:30:09 WIB",
+    "lintang": "2.36 LS",
+    "bujur": "140.58 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 23 km baratlaut Jayapura",
+    "warning": [
+      "II-III Jayapura"
+    ]
+  },
+  {
     "waktu": "15/10/2021 00:55:55 WIB",
     "lintang": "0.63 LS",
     "bujur": "100.48 BT",
@@ -235,17 +246,6 @@
     "warning": [
       "III Bima",
       "III Waingapu"
-    ]
-  },
-  {
-    "waktu": "07/10/2021 10:15:16 WIB",
-    "lintang": "2.77 LS",
-    "bujur": "135.31 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 96 km barat laut Nabire-Papua",
-    "warning": [
-      "II-III Nabire"
     ]
   }
 ]
