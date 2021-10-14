@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/10/2021 00:55:55 WIB",
+    "lintang": "0.63 LS",
+    "bujur": "100.48 BT",
+    "magnitudo": "4",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 20 km tenggara Padang Panjang",
+    "warning": [
+      "III Tanah Datar"
+    ]
+  },
+  {
     "waktu": "14/10/2021 22:16:28 WIB",
     "lintang": "1.32 LU",
     "bujur": "126.19 BT",
@@ -235,26 +246,6 @@
     "wilayah": "Pusat gempa berada di laut 96 km barat laut Nabire-Papua",
     "warning": [
       "II-III Nabire"
-    ]
-  },
-  {
-    "waktu": "07/10/2021 08:05:37 WIB",
-    "lintang": "6.91 LS",
-    "bujur": "105.04 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 136 km barat daya Pandeglang",
-    "warning": [
-      "II-III Sumur",
-      "II-III Cikeusik",
-      "II-III Labuan",
-      "II-III Cimanggu",
-      "II-III Cinangka",
-      "II-III Binuangeun",
-      "II-III Cijaku",
-      "II-III Malingping",
-      "II-III Cilegon",
-      "II-III Kota Serang"
     ]
   }
 ]
