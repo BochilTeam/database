@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/10/2021 13:23:03 WIB",
+    "lintang": "4.46 LS",
+    "bujur": "130.01 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 15 km TimurLaut Banda",
+    "warning": [
+      "III Banda"
+    ]
+  },
+  {
     "waktu": "16/10/2021 18:13:07 WIB",
     "lintang": "0.61 LS",
     "bujur": "131.32 BT",
@@ -236,17 +247,6 @@
     "wilayah": "Pusat gempa berada di laut 77 km tenggara Kaimana",
     "warning": [
       "III Kaimana"
-    ]
-  },
-  {
-    "waktu": "09/10/2021 12:38:18 WIB",
-    "lintang": "1.33 LU",
-    "bujur": "121.32 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 40 km barat laut Buol",
-    "warning": [
-      "III Toli-toli"
     ]
   }
 ]
