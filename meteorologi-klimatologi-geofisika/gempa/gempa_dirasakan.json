@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "18/10/2021 15:34:46 WIB",
+    "lintang": "2.45 LS",
+    "bujur": "120.92 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 31 km Barat Laut LUWUTIMUR",
+    "warning": [
+      "III Angkona",
+      "II Mangkutana"
+    ]
+  },
+  {
     "waktu": "17/10/2021 22:02:10 WIB",
     "lintang": "2.01 LS",
     "bujur": "125.7 BT",
@@ -236,17 +248,6 @@
       "II Lembata",
       "II Ende",
       "II Maumere"
-    ]
-  },
-  {
-    "waktu": "10/10/2021 17:50:49 WIB",
-    "lintang": "7.18 LS",
-    "bujur": "108.95 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 28 km BaratDaya Kab-Tegal",
-    "warning": [
-      "II Brebes"
     ]
   }
 ]
