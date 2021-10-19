@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "19/10/2021 20:03:38 WIB",
+    "lintang": "3.82 LS",
+    "bujur": "135.84 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 26 km baratlaut Dogiyai",
+    "warning": [
+      "II Nabire"
+    ]
+  },
+  {
     "waktu": "18/10/2021 15:34:46 WIB",
     "lintang": "2.45 LS",
     "bujur": "120.92 BT",
@@ -235,19 +246,6 @@
       "II-III Ternate",
       "II-III Manado",
       "II-III Airmadidi"
-    ]
-  },
-  {
-    "waktu": "11/10/2021 10:09:56 WIB",
-    "lintang": "9.03 LS",
-    "bujur": "122.5 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "70 Km",
-    "wilayah": "Pusat gempa berada diLaut 55 km Tenggara Maumere Sikka",
-    "warning": [
-      "II Lembata",
-      "II Ende",
-      "II Maumere"
     ]
   }
 ]
