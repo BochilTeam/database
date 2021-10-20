@@ -1305,7 +1305,7 @@
     "index": 217,
     "soal": "A-P-I-O-N",
     "tipe": "Benda",
-    "jawaban": "PIABO"
+    "jawaban": "PIANO"
   },
   {
     "index": 218,
@@ -1567,7 +1567,7 @@
   },
   {
     "index": 261,
-    "soal": "G-R-O-LO-B",
+    "soal": "G-R-O-L-O-B",
     "tipe": "Benda",
     "jawaban": "BORGOL"
   },
@@ -1713,7 +1713,7 @@
     "index": 285,
     "soal": "L-E-T-A-P-U",
     "tipe": "Profesi",
-    "jawaban": "PELSUT"
+    "jawaban": "PELAUT"
   },
   {
     "index": 286,
@@ -1742,7 +1742,7 @@
   {
     "index": 290,
     "soal": "K-A-R-T-O-N",
-    "tipe": "TeMPAT",
+    "tipe": "Tempat",
     "jawaban": "KANTOR"
   },
   {
@@ -1807,7 +1807,7 @@
   },
   {
     "index": 301,
-    "soal": "CANGKING",
+    "soal": "C-A-N-K-I-N-G",
     "tipe": "Benda",
     "jawaban": "KANCING"
   },
@@ -1969,7 +1969,7 @@
   },
   {
     "index": 328,
-    "soal": "A-L-A-N-Y-EP",
+    "soal": "A-L-A-N-Y-E-P",
     "tipe": "Pekerjaan",
     "jawaban": "PELAYAN"
   },
