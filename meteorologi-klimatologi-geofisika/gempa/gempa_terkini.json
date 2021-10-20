@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16-10-21 06:17:27 WIB",
+    "lintang": "-4.92",
+    "bujur": "102.95",
+    "magnitudo": "5.0",
+    "kedalaman": "17 Km",
+    "wilayah": "46 km BaratDaya KAUR-BENGKULU"
+  },
+  {
     "waktu": "14-10-21 22:16:28 WIB",
     "lintang": "1.32",
     "bujur": "126.19",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "22 Km",
     "wilayah": "29 km BaratLaut BENGKULUSELATAN"
-  },
-  {
-    "waktu": "12-08-21 00:46:17 WIB",
-    "lintang": "6.41",
-    "bujur": "126.74",
-    "magnitudo": "7.1",
-    "kedalaman": "51 Km",
-    "wilayah": "267 km TimurLaut MELONGUANE-SULUT"
   }
 ]

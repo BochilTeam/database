@@ -1,5 +1,102 @@
 [
   {
+    "waktu": "19/10/2021 20:03:38 WIB",
+    "lintang": "3.82 LS",
+    "bujur": "135.84 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 26 km baratlaut Dogiyai",
+    "warning": [
+      "II Nabire"
+    ]
+  },
+  {
+    "waktu": "18/10/2021 15:34:46 WIB",
+    "lintang": "2.45 LS",
+    "bujur": "120.92 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 31 km Barat Laut LUWUTIMUR",
+    "warning": [
+      "III Angkona",
+      "II Mangkutana"
+    ]
+  },
+  {
+    "waktu": "17/10/2021 22:02:10 WIB",
+    "lintang": "2.01 LS",
+    "bujur": "125.7 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 32 km Barat Sanana",
+    "warning": [
+      "III Sanana"
+    ]
+  },
+  {
+    "waktu": "17/10/2021 13:23:03 WIB",
+    "lintang": "4.46 LS",
+    "bujur": "130.01 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 15 km TimurLaut Banda",
+    "warning": [
+      "III Banda"
+    ]
+  },
+  {
+    "waktu": "16/10/2021 18:13:07 WIB",
+    "lintang": "0.61 LS",
+    "bujur": "131.32 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di Laut 30 km TimurLaut Sorong",
+    "warning": [
+      "II-III Sorong"
+    ]
+  },
+  {
+    "waktu": "16/10/2021 06:17:27 WIB",
+    "lintang": "4.92 LS",
+    "bujur": "102.95 BT",
+    "magnitudo": "5",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 46 km BaratDaya Kaur",
+    "warning": [
+      "III Liwa",
+      "II-III Kepahiang",
+      "II Pagar Alam"
+    ]
+  },
+  {
+    "waktu": "16/10/2021 03:22:23 WIB",
+    "lintang": "8.28 LS",
+    "bujur": "115.46 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km BaratLaut Karangasem",
+    "warning": [
+      "II-III Karangasem"
+    ]
+  },
+  {
+    "waktu": "16/10/2021 03:18:23 WIB",
+    "lintang": "8.32 LS",
+    "bujur": "115.45 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km barat laut Karangasem",
+    "warning": [
+      "IV Denpasar",
+      "IV Karangasem",
+      "IV Lombok Utara",
+      "III Lombok Timur",
+      "III Lombok Barat",
+      "III Lombok Tengah",
+      "III Mataram"
+    ]
+  },
+  {
     "waktu": "15/10/2021 04:30:09 WIB",
     "lintang": "2.36 LS",
     "bujur": "140.58 BT",
@@ -149,103 +246,6 @@
       "II-III Ternate",
       "II-III Manado",
       "II-III Airmadidi"
-    ]
-  },
-  {
-    "waktu": "11/10/2021 10:09:56 WIB",
-    "lintang": "9.03 LS",
-    "bujur": "122.5 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "70 Km",
-    "wilayah": "Pusat gempa berada diLaut 55 km Tenggara Maumere Sikka",
-    "warning": [
-      "II Lembata",
-      "II Ende",
-      "II Maumere"
-    ]
-  },
-  {
-    "waktu": "10/10/2021 17:50:49 WIB",
-    "lintang": "7.18 LS",
-    "bujur": "108.95 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 28 km BaratDaya Kab-Tegal",
-    "warning": [
-      "II Brebes"
-    ]
-  },
-  {
-    "waktu": "09/10/2021 20:09:07 WIB",
-    "lintang": "3.98 LS",
-    "bujur": "133.96 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di laut 77 km tenggara Kaimana",
-    "warning": [
-      "III Kaimana"
-    ]
-  },
-  {
-    "waktu": "09/10/2021 12:38:18 WIB",
-    "lintang": "1.33 LU",
-    "bujur": "121.32 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 40 km barat laut Buol",
-    "warning": [
-      "III Toli-toli"
-    ]
-  },
-  {
-    "waktu": "08/10/2021 17:04:54 WIB",
-    "lintang": "4.42 LU",
-    "bujur": "95.43 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "46 Km",
-    "wilayah": "Pusat gempa berada di laut, 29 km Barat Daya Calang - Aceh",
-    "warning": [
-      "III Aceh Besar",
-      "III Banda Aceh",
-      "II-III Aceh Utara",
-      "II-III Nagan Raya",
-      "II-III Pidie",
-      "II-III Aceh Tengah",
-      "II-III Aceh Jaya"
-    ]
-  },
-  {
-    "waktu": "08/10/2021 06:02:49 WIB",
-    "lintang": "1.59 LS",
-    "bujur": "120.21 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km utara Doda Kab Poso",
-    "warning": [
-      "III Lawua"
-    ]
-  },
-  {
-    "waktu": "07/10/2021 19:06:42 WIB",
-    "lintang": "2.81 LS",
-    "bujur": "129.57 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km timur Wahai",
-    "warning": [
-      "III Wahai"
-    ]
-  },
-  {
-    "waktu": "07/10/2021 12:13:02 WIB",
-    "lintang": "8.39 LS",
-    "bujur": "119.54 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "170 Km",
-    "wilayah": "Pusat gempa berada di laut 41 Km barat laut Labuan Bajo",
-    "warning": [
-      "III Bima",
-      "III Waingapu"
     ]
   }
 ]
