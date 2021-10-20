@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/10/2021 01:53:21 WIB",
+    "lintang": "7.72 LS",
+    "bujur": "106.5 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di laut 81 km BaratDaya Kab. Sukabumi",
+    "warning": [
+      "II Kab. Sukabumi"
+    ]
+  },
+  {
     "waktu": "20/10/2021 16:21:11 WIB",
     "lintang": "8.18 LS",
     "bujur": "116.82 BT",
@@ -229,18 +240,6 @@
     "warning": [
       "III Bitung",
       "II Manado"
-    ]
-  },
-  {
-    "waktu": "11/10/2021 22:27:54 WIB",
-    "lintang": "0.98 LU",
-    "bujur": "126.11 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "57 Km",
-    "wilayah": "Pusat gempa berada di laut 121 km tenggara Bitung",
-    "warning": [
-      "II-III Bitung",
-      "II-III Manado"
     ]
   }
 ]
