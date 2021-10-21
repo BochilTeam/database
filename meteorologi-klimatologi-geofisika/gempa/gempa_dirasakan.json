@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "21/10/2021 11:38:31 WIB",
+    "lintang": "5.07 LS",
+    "bujur": "104.14 BT",
+    "magnitudo": "3",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 10 Km Tenggara Lampung Barat",
+    "warning": [
+      "III Liwa"
+    ]
+  },
+  {
+    "waktu": "21/10/2021 02:17:28 WIB",
+    "lintang": "3.35 LU",
+    "bujur": "117.67 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km timur Tarakan",
+    "warning": [
+      "III-IV Tarakan"
+    ]
+  },
+  {
     "waktu": "21/10/2021 01:53:21 WIB",
     "lintang": "7.72 LS",
     "bujur": "106.5 BT",
@@ -217,29 +239,6 @@
     "wilayah": "Pusat gempa berada di laut 40 km Barat Laut Nabire",
     "warning": [
       "II Nabire"
-    ]
-  },
-  {
-    "waktu": "12/10/2021 05:23:31 WIB",
-    "lintang": "7.85 LS",
-    "bujur": "107.28 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "29 Km",
-    "wilayah": "Pusat gempa berada di laut 96 km baratdaya Bandung",
-    "warning": [
-      "II-III Garut"
-    ]
-  },
-  {
-    "waktu": "12/10/2021 00:30:30 WIB",
-    "lintang": "0.97 LU",
-    "bujur": "126.07 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 117 km Tenggara Bitung",
-    "warning": [
-      "III Bitung",
-      "II Manado"
     ]
   }
 ]
