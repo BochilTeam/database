@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/10/2021 00:32:05 WIB",
+    "lintang": "7.29 LS",
+    "bujur": "110.38 BT",
+    "magnitudo": "3",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km BaratLaut Kota Salatiga",
+    "warning": [
+      "I - II Ambarawa"
+    ]
+  },
+  {
     "waktu": "22/10/2021 09:21:15 WIB",
     "lintang": "8.81 LS",
     "bujur": "112.49 BT",
@@ -231,18 +242,6 @@
     "wilayah": "Pusat gempa berada di laut 4 km barat daya Kota Sabang",
     "warning": [
       "II Sabang"
-    ]
-  },
-  {
-    "waktu": "13/10/2021 17:51:47 WIB",
-    "lintang": "7.27 LS",
-    "bujur": "130.24 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "107 Km",
-    "wilayah": "Pusat gempa berada di laut 84 km Timurlaut Tepa",
-    "warning": [
-      "III Tepa",
-      "III Moa"
     ]
   }
 ]
