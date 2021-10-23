@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/10/2021 19:07:23 WIB",
+    "lintang": "4.95 LS",
+    "bujur": "121.84 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 13 km baratdaya Poleang Tenggara",
+    "warning": [
+      "II-III Poleang Timur"
+    ]
+  },
+  {
     "waktu": "23/10/2021 12:37:24 WIB",
     "lintang": "3.34 LS",
     "bujur": "128.35 BT",
@@ -224,17 +235,6 @@
       "III Lombok Barat",
       "III Lombok Tengah",
       "III Mataram"
-    ]
-  },
-  {
-    "waktu": "15/10/2021 04:30:09 WIB",
-    "lintang": "2.36 LS",
-    "bujur": "140.58 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 23 km baratlaut Jayapura",
-    "warning": [
-      "II-III Jayapura"
     ]
   }
 ]
