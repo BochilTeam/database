@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "23/10/2021 21:58:13 WIB",
+    "lintang": "9.64 LS",
+    "bujur": "119 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 5 km Tenggara SUMBABARATDAYA",
+    "warning": [
+      "III-IV Tambolaka",
+      "III Waikabubak"
+    ]
+  },
+  {
     "waktu": "23/10/2021 19:07:23 WIB",
     "lintang": "4.95 LS",
     "bujur": "121.84 BT",
@@ -218,23 +230,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km BaratLaut Karangasem",
     "warning": [
       "II-III Karangasem"
-    ]
-  },
-  {
-    "waktu": "16/10/2021 03:18:23 WIB",
-    "lintang": "8.32 LS",
-    "bujur": "115.45 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km barat laut Karangasem",
-    "warning": [
-      "IV Denpasar",
-      "IV Karangasem",
-      "IV Lombok Utara",
-      "III Lombok Timur",
-      "III Lombok Barat",
-      "III Lombok Tengah",
-      "III Mataram"
     ]
   }
 ]
