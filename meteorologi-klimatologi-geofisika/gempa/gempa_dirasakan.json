@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/10/2021 12:37:24 WIB",
+    "lintang": "3.34 LS",
+    "bujur": "128.35 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 36 km tenggara Piru-SBB",
+    "warning": [
+      "III Kairatu"
+    ]
+  },
+  {
     "waktu": "23/10/2021 09:51:58 WIB",
     "lintang": "7.33 LS",
     "bujur": "110.414 BT",
@@ -224,17 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 23 km baratlaut Jayapura",
     "warning": [
       "II-III Jayapura"
-    ]
-  },
-  {
-    "waktu": "15/10/2021 00:55:55 WIB",
-    "lintang": "0.63 LS",
-    "bujur": "100.48 BT",
-    "magnitudo": "4",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 20 km tenggara Padang Panjang",
-    "warning": [
-      "III Tanah Datar"
     ]
   }
 ]
