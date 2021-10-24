@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24-10-21 06:34:22 WIB",
+    "lintang": "-4.91",
+    "bujur": "101.80",
+    "magnitudo": "5.4",
+    "kedalaman": "11 Km",
+    "wilayah": "71 km BaratLaut ENGGANO-BENGKULU"
+  },
+  {
     "waktu": "22-10-21 09:21:15 WIB",
     "lintang": "-8.84",
     "bujur": "112.51",
@@ -230,13 +238,5 @@
     "magnitudo": "5.8",
     "kedalaman": "10 Km",
     "wilayah": "44 km BaratLaut TOJOUNA-UNA-SULTENG"
-  },
-  {
-    "waktu": "23-08-21 15:40:21 WIB",
-    "lintang": "-11.35",
-    "bujur": "119.05",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "171 km BaratDaya KARERA-SUMBATIMUR-NTT"
   }
 ]
