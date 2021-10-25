@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/10/2021 14:43:18 WIB",
+    "lintang": "7.13 LS",
+    "bujur": "110.55 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km Tenggara Kab Semarang",
+    "warning": [
+      "II Ambarawa"
+    ]
+  },
+  {
     "waktu": "24/10/2021 07:24:02 WIB",
     "lintang": "2.74 LS",
     "bujur": "122.2 BT",
@@ -218,17 +229,6 @@
     "wilayah": "Pusat gempa berada di Laut 15 km TimurLaut Banda",
     "warning": [
       "III Banda"
-    ]
-  },
-  {
-    "waktu": "16/10/2021 18:13:07 WIB",
-    "lintang": "0.61 LS",
-    "bujur": "131.32 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di Laut 30 km TimurLaut Sorong",
-    "warning": [
-      "II-III Sorong"
     ]
   }
 ]
