@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "26/10/2021 06:19:40 WIB",
+    "lintang": "8.06 LS",
+    "bujur": "110.43 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 19 km tenggara Bantul",
+    "warning": [
+      "II Bantul",
+      "II Gunung Kidul"
+    ]
+  },
+  {
+    "waktu": "26/10/2021 05:05:07 WIB",
+    "lintang": "2.91 LS",
+    "bujur": "141.3 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 76 km timur laut Keerom",
+    "warning": [
+      "III Keerom"
+    ]
+  },
+  {
     "waktu": "25/10/2021 21:29:16 WIB",
     "lintang": "7.33 LS",
     "bujur": "110.314 BT",
@@ -206,29 +229,6 @@
     "wilayah": "Pusat gempa berada di darat 26 km baratlaut Dogiyai",
     "warning": [
       "II Nabire"
-    ]
-  },
-  {
-    "waktu": "18/10/2021 15:34:46 WIB",
-    "lintang": "2.45 LS",
-    "bujur": "120.92 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 31 km Barat Laut LUWUTIMUR",
-    "warning": [
-      "III Angkona",
-      "II Mangkutana"
-    ]
-  },
-  {
-    "waktu": "17/10/2021 22:02:10 WIB",
-    "lintang": "2.01 LS",
-    "bujur": "125.7 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 32 km Barat Sanana",
-    "warning": [
-      "III Sanana"
     ]
   }
 ]
