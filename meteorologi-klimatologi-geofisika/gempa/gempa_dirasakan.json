@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/10/2021 00:25:39 WIB",
+    "lintang": "3.44 LS",
+    "bujur": "101.58 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 68 km BaratDaya Bengkulu Utara",
+    "warning": [
+      "II-III Kabupaten Bengkulu Utara"
+    ]
+  },
+  {
     "waktu": "26/10/2021 06:19:40 WIB",
     "lintang": "8.06 LS",
     "bujur": "110.43 BT",
@@ -218,17 +229,6 @@
     "wilayah": "Pusat gempa berada di laut 30 km barat laut Pulau Panjang",
     "warning": [
       "III Lombok Utara"
-    ]
-  },
-  {
-    "waktu": "19/10/2021 20:03:38 WIB",
-    "lintang": "3.82 LS",
-    "bujur": "135.84 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 26 km baratlaut Dogiyai",
-    "warning": [
-      "II Nabire"
     ]
   }
 ]
