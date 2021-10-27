@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/10/2021 12:50:37 WIB",
+    "lintang": "9.73 LS",
+    "bujur": "125.43 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 62 km Tenggara Malaka",
+    "warning": [
+      "III-IV Malaka"
+    ]
+  },
+  {
     "waktu": "27/10/2021 04:20:09 WIB",
     "lintang": "7.2 LS",
     "bujur": "110.41 BT",
@@ -218,17 +229,6 @@
     "wilayah": "Pusat gempa berada di darat 9 km timur Tarakan",
     "warning": [
       "III-IV Tarakan"
-    ]
-  },
-  {
-    "waktu": "21/10/2021 01:53:21 WIB",
-    "lintang": "7.72 LS",
-    "bujur": "106.5 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada di laut 81 km BaratDaya Kab. Sukabumi",
-    "warning": [
-      "II Kab. Sukabumi"
     ]
   }
 ]
