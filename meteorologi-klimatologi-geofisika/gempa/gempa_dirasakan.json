@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "27/10/2021 16:19:32 WIB",
+    "lintang": "7.34 LS",
+    "bujur": "110.3 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km barat daya Ambarawa",
+    "warning": [
+      "II Banyubiru",
+      "II Jambu",
+      "II Ambarawa"
+    ]
+  },
+  {
     "waktu": "27/10/2021 12:50:37 WIB",
     "lintang": "9.73 LS",
     "bujur": "125.43 BT",
@@ -218,17 +231,6 @@
     "wilayah": "Pusat gempa berada di darat 10 Km Tenggara Lampung Barat",
     "warning": [
       "III Liwa"
-    ]
-  },
-  {
-    "waktu": "21/10/2021 02:17:28 WIB",
-    "lintang": "3.35 LU",
-    "bujur": "117.67 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km timur Tarakan",
-    "warning": [
-      "III-IV Tarakan"
     ]
   }
 ]
