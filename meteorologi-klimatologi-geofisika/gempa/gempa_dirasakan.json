@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/10/2021 04:20:09 WIB",
+    "lintang": "7.2 LS",
+    "bujur": "110.41 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km utara Ambarawa",
+    "warning": [
+      "II Ambarawa"
+    ]
+  },
+  {
     "waktu": "27/10/2021 00:25:39 WIB",
     "lintang": "3.44 LS",
     "bujur": "101.58 BT",
@@ -218,17 +229,6 @@
     "wilayah": "Pusat gempa berada di laut 81 km BaratDaya Kab. Sukabumi",
     "warning": [
       "II Kab. Sukabumi"
-    ]
-  },
-  {
-    "waktu": "20/10/2021 16:21:11 WIB",
-    "lintang": "8.18 LS",
-    "bujur": "116.82 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 30 km barat laut Pulau Panjang",
-    "warning": [
-      "III Lombok Utara"
     ]
   }
 ]
