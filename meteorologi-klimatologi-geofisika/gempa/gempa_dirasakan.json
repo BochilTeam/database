@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/10/2021 11:19:31 WIB",
+    "lintang": "3.42 LS",
+    "bujur": "135.38 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 42 km BaratLaut Nabire",
+    "warning": [
+      "III Nabire"
+    ]
+  },
+  {
     "waktu": "28/10/2021 07:20:44 WIB",
     "lintang": "7.19 LS",
     "bujur": "110.45 BT",
@@ -223,17 +234,6 @@
       "II-III Lumajang",
       "II-III Jember",
       "II-III Trenggalek"
-    ]
-  },
-  {
-    "waktu": "22/10/2021 00:58:14 WIB",
-    "lintang": "0.74 LS",
-    "bujur": "127.63 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di 67 km Utara Obi-Maluku Utara",
-    "warning": [
-      "III Labuha"
     ]
   }
 ]
