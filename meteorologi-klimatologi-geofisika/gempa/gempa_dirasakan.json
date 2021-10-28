@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "28/10/2021 07:20:44 WIB",
+    "lintang": "7.19 LS",
+    "bujur": "110.45 BT",
+    "magnitudo": "3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km Tenggara Kab. Semarang",
+    "warning": [
+      "II Kec. Ambarawa",
+      "II Kec. Ngampin",
+      "II Kec. Jambu",
+      "II Kec. Kranggan"
+    ]
+  },
+  {
+    "waktu": "28/10/2021 06:43:50 WIB",
+    "lintang": "2.87 LS",
+    "bujur": "122.19 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 12 km Tenggara Kab. Morowali",
+    "warning": [
+      "III Bahodopi"
+    ]
+  },
+  {
     "waktu": "27/10/2021 16:19:32 WIB",
     "lintang": "7.34 LS",
     "bujur": "110.3 BT",
@@ -209,28 +234,6 @@
     "wilayah": "Pusat gempa berada di 67 km Utara Obi-Maluku Utara",
     "warning": [
       "III Labuha"
-    ]
-  },
-  {
-    "waktu": "21/10/2021 13:29:26 WIB",
-    "lintang": "4.51 LS",
-    "bujur": "123.35 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 25 km timur laut Kalisusu Utara Kab.",
-    "warning": [
-      "II-III Kalisusu Utara"
-    ]
-  },
-  {
-    "waktu": "21/10/2021 11:38:31 WIB",
-    "lintang": "5.07 LS",
-    "bujur": "104.14 BT",
-    "magnitudo": "3",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 10 Km Tenggara Lampung Barat",
-    "warning": [
-      "III Liwa"
     ]
   }
 ]
