@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "28/10/2021 19:48:00 WIB",
+    "lintang": "8.58 LS",
+    "bujur": "116.07 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 13 km BaratLaut LombokBarat",
+    "warning": [
+      "III Mataram",
+      "III Lombok Barat"
+    ]
+  },
+  {
     "waktu": "28/10/2021 11:19:31 WIB",
     "lintang": "3.42 LS",
     "bujur": "135.38 BT",
@@ -214,26 +226,6 @@
     "wilayah": "Pusat gempa berada di darat 13 km BaratLaut Kota Salatiga",
     "warning": [
       "I - II Ambarawa"
-    ]
-  },
-  {
-    "waktu": "22/10/2021 09:21:15 WIB",
-    "lintang": "8.81 LS",
-    "bujur": "112.49 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "33 Km",
-    "wilayah": "Pusat gempa berada di laut 75 km selatan Kota Kepanjen",
-    "warning": [
-      "III-IV Blitar",
-      "II-III Ponorogo",
-      "II-III Malang",
-      "II-III Pasuruan",
-      "II-III Nganjuk",
-      "II-III Mojokerto",
-      "II-III Pacitan",
-      "II-III Lumajang",
-      "II-III Jember",
-      "II-III Trenggalek"
     ]
   }
 ]
