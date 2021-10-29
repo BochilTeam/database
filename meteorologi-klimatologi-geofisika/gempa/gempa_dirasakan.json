@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "29/10/2021 18:35:10 WIB",
+    "lintang": "9.48 LS",
+    "bujur": "121.38 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "43 Km",
+    "wilayah": "Pusat gempa berada di Laut 77 km BaratDaya ENDE",
+    "warning": [
+      "III Ende",
+      "II Kelimutu",
+      "II Bajawa"
+    ]
+  },
+  {
     "waktu": "29/10/2021 02:32:41 WIB",
     "lintang": "8.19 LS",
     "bujur": "115.51 BT",
@@ -214,17 +227,6 @@
     "magnitudo": "3.3",
     "kedalaman": "5 Km",
     "wilayah": "Pusat gempa berada di darat 9 KM baratlaut Kota Salatiga",
-    "warning": [
-      "II Ambarawa"
-    ]
-  },
-  {
-    "waktu": "23/10/2021 09:34:45 WIB",
-    "lintang": "7.25 LS",
-    "bujur": "110.41 BT",
-    "magnitudo": "3",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 13 km barat laut Salatiga",
     "warning": [
       "II Ambarawa"
     ]
