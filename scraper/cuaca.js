@@ -286,7 +286,7 @@ if (!fs.existsSync(base)) {
         })
       }
       if (result.length) {
-        await fs.writeFileSync(directory + 'prakiraan_cuaca.json', JSON.stringify(result, null, 2))
+        fs.writeFileSync(directory + 'prakiraan_cuaca.json', JSON.stringify(result, null, 2))
         break
       }
     }

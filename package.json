@@ -29,5 +29,8 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
     "node-fetch": "^2.6.2"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^3.0.3"
   }
 }

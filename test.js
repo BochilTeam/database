@@ -25,11 +25,9 @@ function check() {
   for (let file of files) {
     if (file === require.resolve(__filename)) continue
     const error = (e) => assert.ok(e.length < 1, file + '\n\n' + e.toString())
+    const check = (fn) => (fn(file).then(() => (assert.ok(file), console.log('Done checking', file))).catch(error))
     console.error('Checking', file)
-    if (file.endsWith('.json')) try { parse(file) } catch(e) { return error(e) }
-    else if (file.endsWith('.js')) try { node(file) } catch(e) { return error(e) }
-    assert.ok(file)
-    console.log('Done checking', file)
+    check(file.endsWith('.json') ? parse : file.endsWith('.js') ? node : () => (undefined))
   }
 }
 
@@ -52,11 +50,11 @@ function parse(path) {
 function node(file) {
   return spawn(process.argv0, ['-c', file])
     .on('close', () => {
-        return true
+      return true
     })
     .stderr.on('data', (err) => {
-    throw err.toString()
-  })
+      throw err.toString()
+    })
 }
 
 function gx(file) {

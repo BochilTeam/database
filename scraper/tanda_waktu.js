@@ -3,7 +3,7 @@ const cheerio = require('cheerio')
 const fs = require('fs')
 
 let base = './meteorologi-klimatologi-geofisika/tanda_waktu/'
-if (!fs.existsSync(base)){
+if (!fs.existsSync(base)) {
   fs.mkdirSync(base, { recursive: true })
 }
 
@@ -42,5 +42,5 @@ if (!fs.existsSync(base)){
     }
     if (result.length) break
   }
-  if (result.length) await fs.writeFileSync(base + 'terbit_terbenam_matahari.json', JSON.stringify(result, null, 2))
+  if (result.length) fs.writeFileSync(base + 'terbit_terbenam_matahari.json', JSON.stringify(result, null, 2))
 })()
