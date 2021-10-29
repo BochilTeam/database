@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "29/10/2021 02:32:41 WIB",
+    "lintang": "8.19 LS",
+    "bujur": "115.51 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 17 km BaratLaut Karangasem",
+    "warning": [
+      "II-III Kubu",
+      "Karangasem"
+    ]
+  },
+  {
     "waktu": "28/10/2021 19:48:00 WIB",
     "lintang": "8.58 LS",
     "bujur": "116.07 BT",
@@ -215,17 +227,6 @@
     "wilayah": "Pusat gempa berada di darat 13 km barat laut Salatiga",
     "warning": [
       "II Ambarawa"
-    ]
-  },
-  {
-    "waktu": "23/10/2021 00:32:05 WIB",
-    "lintang": "7.29 LS",
-    "bujur": "110.38 BT",
-    "magnitudo": "3",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 13 km BaratLaut Kota Salatiga",
-    "warning": [
-      "I - II Ambarawa"
     ]
   }
 ]
