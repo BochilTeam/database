@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29-10-21 11:33:33 WIB",
+    "lintang": "5.18",
+    "bujur": "125.74",
+    "magnitudo": "5.3",
+    "kedalaman": "169 Km",
+    "wilayah": "167 km BaratLaut MELONGUANE-SULUT"
+  },
+  {
     "waktu": "26-10-21 16:46:08 WIB",
     "lintang": "1.51",
     "bujur": "127.01",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "50 Km",
     "wilayah": "13 km BaratDaya WAINGAPU-NTT"
-  },
-  {
-    "waktu": "27-08-21 17:22:20 WIB",
-    "lintang": "6.04",
-    "bujur": "125.22",
-    "magnitudo": "6.1",
-    "kedalaman": "10 Km",
-    "wilayah": "271 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
