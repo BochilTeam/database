@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "30/10/2021 05:56:42 WIB",
+    "lintang": "7.55 LS",
+    "bujur": "106.69 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "30 Km",
+    "wilayah": "Pusat gempa berada di laut 64 km Tenggara Kab. Sukabumi",
+    "warning": [
+      "III Ujung Genteng",
+      "III Cipamingkis",
+      "III Jampang",
+      "III Cikaso",
+      "III Cidolog"
+    ]
+  },
+  {
     "waktu": "29/10/2021 22:00:24 WIB",
     "lintang": "8.19 LS",
     "bujur": "115.49 BT",
@@ -220,17 +235,6 @@
     "wilayah": "Pusat gempa berada di laut 13 km baratdaya Poleang Tenggara",
     "warning": [
       "II-III Poleang Timur"
-    ]
-  },
-  {
-    "waktu": "23/10/2021 12:37:24 WIB",
-    "lintang": "3.34 LS",
-    "bujur": "128.35 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 36 km tenggara Piru-SBB",
-    "warning": [
-      "III Kairatu"
     ]
   }
 ]
