@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30-10-21 18:11:43 WIB",
+    "lintang": "-7.59",
+    "bujur": "125.42",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "124 km TimurLaut ALOR-NTT"
+  },
+  {
     "waktu": "29-10-21 11:33:33 WIB",
     "lintang": "5.18",
     "bujur": "125.74",
@@ -230,13 +238,5 @@
     "magnitudo": "6.0",
     "kedalaman": "10 Km",
     "wilayah": "52 km BaratDaya KEEROM-PAPUA"
-  },
-  {
-    "waktu": "28-08-21 17:41:20 WIB",
-    "lintang": "-9.76",
-    "bujur": "120.19",
-    "magnitudo": "5.0",
-    "kedalaman": "50 Km",
-    "wilayah": "13 km BaratDaya WAINGAPU-NTT"
   }
 ]

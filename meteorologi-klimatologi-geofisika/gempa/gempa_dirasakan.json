@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "30/10/2021 18:11:43 WIB",
+    "lintang": "7.59 LS",
+    "bujur": "125.42 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 124 km timur laut Alor",
+    "warning": [
+      "III Kab. Alor",
+      "II Atambua",
+      "II Kota Kupang"
+    ]
+  },
+  {
     "waktu": "30/10/2021 05:56:42 WIB",
     "lintang": "7.55 LS",
     "bujur": "106.69 BT",
@@ -224,17 +237,6 @@
     "warning": [
       "III-IV Tambolaka",
       "III Waikabubak"
-    ]
-  },
-  {
-    "waktu": "23/10/2021 19:07:23 WIB",
-    "lintang": "4.95 LS",
-    "bujur": "121.84 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 13 km baratdaya Poleang Tenggara",
-    "warning": [
-      "II-III Poleang Timur"
     ]
   }
 ]
