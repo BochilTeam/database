@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "31/10/2021 08:20:33 WIB",
+    "lintang": "2.18 LS",
+    "bujur": "125.14 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada dilaut 95 km Barat Sanana",
+    "warning": [
+      "II Sanana"
+    ]
+  },
+  {
     "waktu": "30/10/2021 18:11:43 WIB",
     "lintang": "7.59 LS",
     "bujur": "125.42 BT",
@@ -225,18 +236,6 @@
     "warning": [
       "II Kota Bengkulu",
       "II Bengkulu Utara"
-    ]
-  },
-  {
-    "waktu": "23/10/2021 21:58:13 WIB",
-    "lintang": "9.64 LS",
-    "bujur": "119 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 5 km Tenggara SUMBABARATDAYA",
-    "warning": [
-      "III-IV Tambolaka",
-      "III Waikabubak"
     ]
   }
 ]
