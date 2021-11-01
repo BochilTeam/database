@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "01/11/2021 07:46:35 WIB",
+    "lintang": "7.72 LS",
+    "bujur": "111.19 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km Baratdaya Magetan",
+    "warning": [
+      "II Tawangmangu",
+      "II Sarangan"
+    ]
+  },
+  {
     "waktu": "31/10/2021 08:20:33 WIB",
     "lintang": "2.18 LS",
     "bujur": "125.14 BT",
@@ -224,18 +236,6 @@
     "wilayah": "Pusat gempa berada di laut 10 Km Timur laut Kab. Morowali",
     "warning": [
       "III-IV Bahodopi"
-    ]
-  },
-  {
-    "waktu": "24/10/2021 06:34:22 WIB",
-    "lintang": "4.91 LS",
-    "bujur": "101.8 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 71 km Baratlaut Enggano",
-    "warning": [
-      "II Kota Bengkulu",
-      "II Bengkulu Utara"
     ]
   }
 ]
