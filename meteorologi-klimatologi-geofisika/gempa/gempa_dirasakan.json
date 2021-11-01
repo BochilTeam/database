@@ -1,5 +1,33 @@
 [
   {
+    "waktu": "02/11/2021 00:04:16 WIB",
+    "lintang": "0.19 LU",
+    "bujur": "96.58 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di laut 130 km BaratDaya Nias Barat",
+    "warning": [
+      "III-IV Nias Barat",
+      "III-IV Nias selatan",
+      "III-IV Mentawai",
+      "II-III Gunung Sitoli",
+      "III-IV Nias Utara",
+      "II Pak Pak Barat",
+      "III Aceh Singkil"
+    ]
+  },
+  {
+    "waktu": "01/11/2021 20:41:30 WIB",
+    "lintang": "0.66 LS",
+    "bujur": "131.34 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 25 km Timurlaut Kota Sorong",
+    "warning": [
+      "II-III Sorong"
+    ]
+  },
+  {
     "waktu": "01/11/2021 17:27:02 WIB",
     "lintang": "8.13 LS",
     "bujur": "115.33 BT",
@@ -214,28 +242,6 @@
     "warning": [
       "II Bantul",
       "II Gunung Kidul"
-    ]
-  },
-  {
-    "waktu": "26/10/2021 05:05:07 WIB",
-    "lintang": "2.91 LS",
-    "bujur": "141.3 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 76 km timur laut Keerom",
-    "warning": [
-      "III Keerom"
-    ]
-  },
-  {
-    "waktu": "25/10/2021 21:29:16 WIB",
-    "lintang": "7.33 LS",
-    "bujur": "110.314 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km Tenggara Temanggung",
-    "warning": [
-      "II Ambarawa"
     ]
   }
 ]

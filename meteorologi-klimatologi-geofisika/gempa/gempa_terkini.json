@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-11-21 00:04:16 WIB",
+    "lintang": "0.19",
+    "bujur": "96.58",
+    "magnitudo": "6.2",
+    "kedalaman": "16 Km",
+    "wilayah": "130 km BaratDaya NIASBARAT-SUMUT"
+  },
+  {
     "waktu": "30-10-21 18:11:43 WIB",
     "lintang": "-7.59",
     "bujur": "125.42",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "62 km BaratDaya KEEROM-PAPUA"
-  },
-  {
-    "waktu": "28-08-21 19:27:24 WIB",
-    "lintang": "-3.47",
-    "bujur": "140.31",
-    "magnitudo": "6.0",
-    "kedalaman": "10 Km",
-    "wilayah": "52 km BaratDaya KEEROM-PAPUA"
   }
 ]
