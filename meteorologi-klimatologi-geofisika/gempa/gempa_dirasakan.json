@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/11/2021 13:19:38 WIB",
+    "lintang": "4.54 LS",
+    "bujur": "102.5 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 78 km Baratdaya Seluma",
+    "warning": [
+      "II Kota Bengkulu"
+    ]
+  },
+  {
     "waktu": "01/11/2021 07:46:35 WIB",
     "lintang": "7.72 LS",
     "bujur": "111.19 BT",
@@ -225,17 +236,6 @@
     "wilayah": "Pusat gempa berada di darat 16 km Tenggara Kab Semarang",
     "warning": [
       "II Ambarawa"
-    ]
-  },
-  {
-    "waktu": "24/10/2021 07:24:02 WIB",
-    "lintang": "2.74 LS",
-    "bujur": "122.2 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 10 Km Timur laut Kab. Morowali",
-    "warning": [
-      "III-IV Bahodopi"
     ]
   }
 ]
