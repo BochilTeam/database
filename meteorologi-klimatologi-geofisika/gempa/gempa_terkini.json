@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-11-21 20:39:13 WIB",
+    "lintang": "0.18",
+    "bujur": "96.50",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "138 km BaratDaya NIASBARAT-SUMUT"
+  },
+  {
     "waktu": "02-11-21 00:04:16 WIB",
     "lintang": "0.19",
     "bujur": "96.58",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "23 Km",
     "wilayah": "83 km TimurLaut BURU-MALUKU"
-  },
-  {
-    "waktu": "29-08-21 04:00:18 WIB",
-    "lintang": "-3.43",
-    "bujur": "140.21",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "62 km BaratDaya KEEROM-PAPUA"
   }
 ]
