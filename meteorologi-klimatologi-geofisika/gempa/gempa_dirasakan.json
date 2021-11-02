@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "02/11/2021 23:43:53 WIB",
+    "lintang": "6.93 LS",
+    "bujur": "130.63 BT",
+    "magnitudo": "6.1",
+    "kedalaman": "123 Km",
+    "wilayah": "Pusat gempa berada di laut 123 km barat Larat,Kab. Kepulauan Tanimbar",
+    "warning": [
+      "III Saumlaki",
+      "II-III Tual"
+    ]
+  },
+  {
     "waktu": "02/11/2021 00:04:16 WIB",
     "lintang": "0.19 LU",
     "bujur": "96.58 BT",
@@ -230,18 +242,6 @@
     "wilayah": "Pusat gempa berada di laut 68 km BaratDaya Bengkulu Utara",
     "warning": [
       "II-III Kabupaten Bengkulu Utara"
-    ]
-  },
-  {
-    "waktu": "26/10/2021 06:19:40 WIB",
-    "lintang": "8.06 LS",
-    "bujur": "110.43 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 19 km tenggara Bantul",
-    "warning": [
-      "II Bantul",
-      "II Gunung Kidul"
     ]
   }
 ]

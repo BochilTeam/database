@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-11-21 23:43:53 WIB",
+    "lintang": "-6.93",
+    "bujur": "130.63",
+    "magnitudo": "6.1",
+    "kedalaman": "123 Km",
+    "wilayah": "137 km BaratLaut MALUKUTENGGARABRT"
+  },
+  {
     "waktu": "02-11-21 20:39:13 WIB",
     "lintang": "0.18",
     "bujur": "96.50",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "147 Km",
     "wilayah": "89 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "05-09-21 19:16:56 WIB",
-    "lintang": "-2.59",
-    "bujur": "127.43",
-    "magnitudo": "5.0",
-    "kedalaman": "23 Km",
-    "wilayah": "83 km TimurLaut BURU-MALUKU"
   }
 ]
