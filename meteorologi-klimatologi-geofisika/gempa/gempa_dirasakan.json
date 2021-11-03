@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/11/2021 09:04:20 WIB",
+    "lintang": "3.72 LS",
+    "bujur": "128.1 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 9 km Barat Ambon, SBB",
+    "warning": [
+      "II Ambon"
+    ]
+  },
+  {
     "waktu": "03/11/2021 07:50:36 WIB",
     "lintang": "0.92 LU",
     "bujur": "98.49 BT",
@@ -235,17 +246,6 @@
     "wilayah": "Pusat gempa berada di laut 62 km Tenggara Malaka",
     "warning": [
       "III-IV Malaka"
-    ]
-  },
-  {
-    "waktu": "27/10/2021 04:20:09 WIB",
-    "lintang": "7.2 LS",
-    "bujur": "110.41 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km utara Ambarawa",
-    "warning": [
-      "II Ambarawa"
     ]
   }
 ]
