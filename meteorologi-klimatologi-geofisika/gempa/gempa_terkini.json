@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03-11-21 21:11:29 WIB",
+    "lintang": "-0.38",
+    "bujur": "124.02",
+    "magnitudo": "5.3",
+    "kedalaman": "42 Km",
+    "wilayah": "84 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
+  },
+  {
     "waktu": "03-11-21 07:50:36 WIB",
     "lintang": "0.92",
     "bujur": "98.49",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "29 Km",
     "wilayah": "49 km BaratDaya AGAM-SUMBAR"
-  },
-  {
-    "waktu": "09-09-21 09:16:31 WIB",
-    "lintang": "-3.94",
-    "bujur": "134.97",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "99 km BaratDaya NABIRE-PAPUA"
   }
 ]
