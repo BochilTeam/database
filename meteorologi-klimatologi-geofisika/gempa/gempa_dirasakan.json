@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "03/11/2021 07:50:36 WIB",
+    "lintang": "0.92 LU",
+    "bujur": "98.49 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "63 Km",
+    "wilayah": "Pusat gempa berada di laut 84 timur laut Nias Selatan",
+    "warning": [
+      "II-III Kab. Nias Selatan",
+      "II-III Kab. Nias",
+      "I-II Gunung Sitoli",
+      "I-II Padang",
+      "I-II Pasaman Barat"
+    ]
+  },
+  {
     "waktu": "02/11/2021 23:43:53 WIB",
     "lintang": "6.93 LS",
     "bujur": "130.63 BT",
@@ -231,17 +246,6 @@
     "wilayah": "Pusat gempa berada di darat 12 km utara Ambarawa",
     "warning": [
       "II Ambarawa"
-    ]
-  },
-  {
-    "waktu": "27/10/2021 00:25:39 WIB",
-    "lintang": "3.44 LS",
-    "bujur": "101.58 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "25 Km",
-    "wilayah": "Pusat gempa berada di laut 68 km BaratDaya Bengkulu Utara",
-    "warning": [
-      "II-III Kabupaten Bengkulu Utara"
     ]
   }
 ]

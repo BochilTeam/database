@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03-11-21 07:50:36 WIB",
+    "lintang": "0.92",
+    "bujur": "98.49",
+    "magnitudo": "5.4",
+    "kedalaman": "63 Km",
+    "wilayah": "84 km TimurLaut NIASSELATAN-SUMUT"
+  },
+  {
     "waktu": "02-11-21 23:43:53 WIB",
     "lintang": "-6.93",
     "bujur": "130.63",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "99 km BaratDaya NABIRE-PAPUA"
-  },
-  {
-    "waktu": "08-09-21 07:13:00 WIB",
-    "lintang": "-7.68",
-    "bujur": "128.45",
-    "magnitudo": "5.0",
-    "kedalaman": "147 Km",
-    "wilayah": "89 km TimurLaut MALUKUBRTDAYA"
   }
 ]
