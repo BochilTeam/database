@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/11/2021 11:47:37 WIB",
+    "lintang": "7.99 LS",
+    "bujur": "115.35 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 31 km Timur Laut Buleleng",
+    "warning": [
+      "II-III Tejakula"
+    ]
+  },
+  {
     "waktu": "03/11/2021 09:04:20 WIB",
     "lintang": "3.72 LS",
     "bujur": "128.1 BT",
@@ -235,17 +246,6 @@
       "II Banyubiru",
       "II Jambu",
       "II Ambarawa"
-    ]
-  },
-  {
-    "waktu": "27/10/2021 12:50:37 WIB",
-    "lintang": "9.73 LS",
-    "bujur": "125.43 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 62 km Tenggara Malaka",
-    "warning": [
-      "III-IV Malaka"
     ]
   }
 ]
