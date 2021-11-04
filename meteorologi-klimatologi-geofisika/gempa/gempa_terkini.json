@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04-11-21 09:42:44 WIB",
+    "lintang": "-2.81",
+    "bujur": "129.34",
+    "magnitudo": "5.9",
+    "kedalaman": "10 Km",
+    "wilayah": "69 km TimurLaut MALUKUTENGAH"
+  },
+  {
     "waktu": "03-11-21 21:11:29 WIB",
     "lintang": "-0.38",
     "bujur": "124.02",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 Km",
     "wilayah": "125 km BaratLaut SINABANG-ACEH"
-  },
-  {
-    "waktu": "12-09-21 16:02:20 WIB",
-    "lintang": "-0.52",
-    "bujur": "99.64",
-    "magnitudo": "5.3",
-    "kedalaman": "29 Km",
-    "wilayah": "49 km BaratDaya AGAM-SUMBAR"
   }
 ]

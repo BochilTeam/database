@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "04/11/2021 09:42:44 WIB",
+    "lintang": "2.81 LS",
+    "bujur": "129.34 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 16 Km Barat Wahai",
+    "warning": [
+      "V Sawai",
+      "IV Wahai",
+      "III Ambon",
+      "III Masohi",
+      "III Saparua"
+    ]
+  },
+  {
     "waktu": "04/11/2021 05:17:46 WIB",
     "lintang": "7.28 LS",
     "bujur": "110.36 BT",
@@ -234,17 +249,6 @@
     "warning": [
       "III Mataram",
       "III Lombok Barat"
-    ]
-  },
-  {
-    "waktu": "28/10/2021 11:19:31 WIB",
-    "lintang": "3.42 LS",
-    "bujur": "135.38 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 42 km BaratLaut Nabire",
-    "warning": [
-      "III Nabire"
     ]
   }
 ]
