@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "04/11/2021 05:17:46 WIB",
+    "lintang": "7.28 LS",
+    "bujur": "110.36 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km Barat Laut Ambarawa",
+    "warning": [
+      "II Ambarawa"
+    ]
+  },
+  {
+    "waktu": "04/11/2021 05:01:08 WIB",
+    "lintang": "7.32 LS",
+    "bujur": "110.37 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km Barat Daya Ambarawa",
+    "warning": [
+      "II Ambarawa"
+    ]
+  },
+  {
     "waktu": "03/11/2021 21:11:29 WIB",
     "lintang": "0.38 LS",
     "bujur": "124.02 BT",
@@ -223,31 +245,6 @@
     "wilayah": "Pusat gempa berada di darat 42 km BaratLaut Nabire",
     "warning": [
       "III Nabire"
-    ]
-  },
-  {
-    "waktu": "28/10/2021 07:20:44 WIB",
-    "lintang": "7.19 LS",
-    "bujur": "110.45 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km Tenggara Kab. Semarang",
-    "warning": [
-      "II Ambarawa",
-      "II Ngampin",
-      "II Jambu",
-      "II Kranggan"
-    ]
-  },
-  {
-    "waktu": "28/10/2021 06:43:50 WIB",
-    "lintang": "2.87 LS",
-    "bujur": "122.19 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di laut 12 km Tenggara Kab. Morowali",
-    "warning": [
-      "III Bahodopi"
     ]
   }
 ]
