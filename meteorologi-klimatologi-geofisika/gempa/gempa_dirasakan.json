@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/11/2021 20:17:25 WIB",
+    "lintang": "9.63 LS",
+    "bujur": "117.55 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "46 Km",
+    "wilayah": "Pusat gempa berada di laut 124 km Tenggara Sumbawa Barat",
+    "warning": [
+      "III Sumbawa barat"
+    ]
+  },
+  {
     "waktu": "05/11/2021 09:00:53 WIB",
     "lintang": "7.35 LS",
     "bujur": "110.49 BT",
@@ -232,19 +243,6 @@
       "III Jampang",
       "III Cikaso",
       "III Cidolog"
-    ]
-  },
-  {
-    "waktu": "29/10/2021 22:00:24 WIB",
-    "lintang": "8.19 LS",
-    "bujur": "115.49 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km BaratLaut karangasem",
-    "warning": [
-      "II Tejakula",
-      "II Tianyar",
-      "II Kubu"
     ]
   }
 ]
