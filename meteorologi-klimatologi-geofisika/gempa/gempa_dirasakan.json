@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/11/2021 02:34:35 WIB",
+    "lintang": "2.79 LS",
+    "bujur": "129.22 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 21 km utara sawai",
+    "warning": [
+      "III Sawai"
+    ]
+  },
+  {
     "waktu": "04/11/2021 13:14:15 WIB",
     "lintang": "2.01 LS",
     "bujur": "125.87 BT",
@@ -236,18 +247,6 @@
       "III Ende",
       "II Kelimutu",
       "II Bajawa"
-    ]
-  },
-  {
-    "waktu": "29/10/2021 02:32:41 WIB",
-    "lintang": "8.19 LS",
-    "bujur": "115.51 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 17 km BaratLaut Karangasem",
-    "warning": [
-      "II-III Kubu",
-      "Karangasem"
     ]
   }
 ]
