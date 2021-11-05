@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/11/2021 09:00:53 WIB",
+    "lintang": "7.35 LS",
+    "bujur": "110.49 BT",
+    "magnitudo": "3",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km Barat daya Salatiga",
+    "warning": [
+      "II Ambarawa"
+    ]
+  },
+  {
     "waktu": "05/11/2021 02:34:35 WIB",
     "lintang": "2.79 LS",
     "bujur": "129.22 BT",
@@ -234,19 +245,6 @@
       "II Tejakula",
       "II Tianyar",
       "II Kubu"
-    ]
-  },
-  {
-    "waktu": "29/10/2021 18:35:10 WIB",
-    "lintang": "9.48 LS",
-    "bujur": "121.38 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "43 Km",
-    "wilayah": "Pusat gempa berada di Laut 77 km BaratDaya ENDE",
-    "warning": [
-      "III Ende",
-      "II Kelimutu",
-      "II Bajawa"
     ]
   }
 ]
