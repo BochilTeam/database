@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "06/11/2021 06:33:04 WIB",
+    "lintang": "9.48 LS",
+    "bujur": "115.69 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 91 km Tenggara Kuta Selatan",
+    "warning": [
+      "II Kuta Utara"
+    ]
+  },
+  {
     "waktu": "05/11/2021 20:17:25 WIB",
     "lintang": "9.63 LS",
     "bujur": "117.55 BT",
@@ -228,21 +239,6 @@
       "III Kab. Alor",
       "II Atambua",
       "II Kota Kupang"
-    ]
-  },
-  {
-    "waktu": "30/10/2021 05:56:42 WIB",
-    "lintang": "7.55 LS",
-    "bujur": "106.69 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "30 Km",
-    "wilayah": "Pusat gempa berada di laut 64 km Tenggara Kab. Sukabumi",
-    "warning": [
-      "III Ujung Genteng",
-      "III Cipamingkis",
-      "III Jampang",
-      "III Cikaso",
-      "III Cidolog"
     ]
   }
 ]
