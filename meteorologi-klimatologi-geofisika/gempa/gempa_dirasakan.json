@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "06/11/2021 12:30:22 WIB",
+    "lintang": "6.15 LS",
+    "bujur": "130.23 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "171 Km",
+    "wilayah": "Pusat gempa berada di laut 234 km Barat Laut Maluku Tenggara Barat",
+    "warning": [
+      "III Malaka"
+    ]
+  },
+  {
+    "waktu": "06/11/2021 10:56:19 WIB",
+    "lintang": "1.36 LS",
+    "bujur": "120.48 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 30 km barat laut Poso",
+    "warning": [
+      "III-IV Poso",
+      "III Morowali Utara",
+      "II-III Parigi",
+      "II-III Luwu Timur"
+    ]
+  },
+  {
     "waktu": "06/11/2021 06:33:04 WIB",
     "lintang": "9.48 LS",
     "bujur": "115.69 BT",
@@ -215,30 +240,6 @@
     "warning": [
       "II Tawangmangu",
       "II Sarangan"
-    ]
-  },
-  {
-    "waktu": "31/10/2021 08:20:33 WIB",
-    "lintang": "2.18 LS",
-    "bujur": "125.14 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada dilaut 95 km Barat Sanana",
-    "warning": [
-      "II Sanana"
-    ]
-  },
-  {
-    "waktu": "30/10/2021 18:11:43 WIB",
-    "lintang": "7.59 LS",
-    "bujur": "125.42 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 124 km timur laut Alor",
-    "warning": [
-      "III Kab. Alor",
-      "II Atambua",
-      "II Kota Kupang"
     ]
   }
 ]
