@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/11/2021 18:29:02 WIB",
+    "lintang": "0.32 LU",
+    "bujur": "98.58 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 141 km BaratDaya Padang Sidempuan",
+    "warning": [
+      "II Padang Sidempuan"
+    ]
+  },
+  {
     "waktu": "06/11/2021 22:28:13 WIB",
     "lintang": "4.56 LS",
     "bujur": "129.85 BT",
@@ -235,17 +246,6 @@
     "wilayah": "Pusat gempa berada di laut 25 km Timurlaut Kota Sorong",
     "warning": [
       "II-III Sorong"
-    ]
-  },
-  {
-    "waktu": "01/11/2021 17:27:02 WIB",
-    "lintang": "8.13 LS",
-    "bujur": "115.33 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di darat 26 km Tenggara Buleleng",
-    "warning": [
-      "II Tejakula"
     ]
   }
 ]
