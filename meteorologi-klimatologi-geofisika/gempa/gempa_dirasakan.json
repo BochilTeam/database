@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/11/2021 04:14:44 WIB",
+    "lintang": "4.37 LS",
+    "bujur": "129.6 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "77 Km",
+    "wilayah": "Pusat gempa berada di laut 37 km Baratlaut Banda",
+    "warning": [
+      "III Banda"
+    ]
+  },
+  {
     "waktu": "07/11/2021 20:41:16 WIB",
     "lintang": "2.93 LS",
     "bujur": "129.24 BT",
@@ -229,23 +240,6 @@
     "warning": [
       "III Saumlaki",
       "II-III Tual"
-    ]
-  },
-  {
-    "waktu": "02/11/2021 00:04:16 WIB",
-    "lintang": "0.19 LU",
-    "bujur": "96.58 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di laut 130 km BaratDaya Nias Barat",
-    "warning": [
-      "III-IV Nias Barat",
-      "III-IV Nias selatan",
-      "III-IV Mentawai",
-      "II-III Gunung Sitoli",
-      "III-IV Nias Utara",
-      "II Pak Pak Barat",
-      "III Aceh Singkil"
     ]
   }
 ]
