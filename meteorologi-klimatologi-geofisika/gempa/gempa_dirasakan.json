@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "08/11/2021 12:05:59 WIB",
+    "lintang": "0.79 LS",
+    "bujur": "123.55 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 81 km Timur Laut Banggai Kepulauan",
+    "warning": [
+      "III-IV Luwuk",
+      "III Taliabu"
+    ]
+  },
+  {
     "waktu": "08/11/2021 04:14:44 WIB",
     "lintang": "4.37 LS",
     "bujur": "129.6 BT",
@@ -228,18 +240,6 @@
       "I-II Gunung Sitoli",
       "I-II Padang",
       "I-II Pasaman Barat"
-    ]
-  },
-  {
-    "waktu": "02/11/2021 23:43:53 WIB",
-    "lintang": "6.93 LS",
-    "bujur": "130.63 BT",
-    "magnitudo": "6.1",
-    "kedalaman": "123 Km",
-    "wilayah": "Pusat gempa berada di laut 123 km barat Larat,Kab. Kepulauan Tanimbar",
-    "warning": [
-      "III Saumlaki",
-      "II-III Tual"
     ]
   }
 ]

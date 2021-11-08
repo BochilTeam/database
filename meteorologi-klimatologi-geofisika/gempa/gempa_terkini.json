@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08-11-21 12:05:59 WIB",
+    "lintang": "-0.79",
+    "bujur": "123.55",
+    "magnitudo": "5.3",
+    "kedalaman": "11 Km",
+    "wilayah": "81 km TimurLaut BANGGAIKEP-SULTENG"
+  },
+  {
     "waktu": "06-11-21 21:37:37 WIB",
     "lintang": "-0.16",
     "bujur": "124.35",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "123 km BaratLaut HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "17-09-21 19:43:55 WIB",
-    "lintang": "4.92",
-    "bujur": "126.27",
-    "magnitudo": "5.0",
-    "kedalaman": "70 Km",
-    "wilayah": "111 km BaratLaut MELONGUANE-SULUT"
   }
 ]
