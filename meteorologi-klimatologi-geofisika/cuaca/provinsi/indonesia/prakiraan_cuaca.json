@@ -3,12 +3,12 @@
     "kota": "Banda Aceh",
     "prakiraan_cuaca": {
       "malam": "Hujan Ringan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
-      "dini_hari": "Hujan Lebat",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20lebat-am.png"
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "Hujan Ringan °C",
-    "kelembapan": "Hujan Ringan%"
+    "suhu": "23 - 29 °C",
+    "kelembapan": "70 - 95%"
   },
   {
     "kota": "Denpasar",
