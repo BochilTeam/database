@@ -136,7 +136,7 @@ let resultss = {}
       if (Object.keys(ress).length && channel.length) break
     }
     Object.keys(ress).map(data => {
-      if (data in resultss && ress[data]?.length) resultss[data].push(...ress[data])
+      if (data in resultss && ress[data].length) resultss[data].push(...ress[data])
       else resultss[data] = ress[data]
     })
     if (Object.keys(resultss).length) fs.writeFileSync(base + 'jadwaltv.json', JSON.stringify(resultss, null, 2))
