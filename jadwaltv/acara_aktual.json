@@ -1,162 +1,162 @@
 {
   "ANTV": [
     {
-      "waktu": "12:30WIB",
-      "acara": "Bepannaah"
-    },
-    {
       "waktu": "14:30WIB",
       "acara": "Balika Vadhu"
+    },
+    {
+      "waktu": "18:00WIB",
+      "acara": "Terpaksa Menikahi Tuan Muda"
     }
   ],
   "GTV": [
     {
-      "waktu": "12:30WIB",
-      "acara": "SpongeBob SquarePants Movie"
+      "waktu": "17:00WIB",
+      "acara": "Kisah Viral"
     },
     {
-      "waktu": "15:00WIB",
-      "acara": "SpongeBob SquarePants Movie"
+      "waktu": "18:30WIB",
+      "acara": "IPA & IPS"
     }
   ],
   "INDOSIAR": [
     {
-      "waktu": "13:00WIB",
-      "acara": "Pintu Berkah Siang"
+      "waktu": "16:00WIB",
+      "acara": "Istri Impian"
     },
     {
-      "waktu": "14:30WIB",
-      "acara": "Istri Jaminan"
+      "waktu": "18:00WIB",
+      "acara": "SAMPAI KAPAN AKU HARUS TERJEBAK DALAM PERNIKAHAN PENUH DERITA"
     }
   ],
   "INEWS TV": [
     {
-      "waktu": "13:30WIB",
-      "acara": "Intens Reborn (L)"
+      "waktu": "16:00WIB",
+      "acara": "iNews Sore (L)"
     },
     {
-      "waktu": "14:15WIB",
-      "acara": "iSeleb (L)"
+      "waktu": "18:00WIB",
+      "acara": "iNews Room (L)"
     }
   ],
   "KOMPAS TV": [
     {
-      "waktu": "14:00WIB",
-      "acara": "Zona Inspirasi"
+      "waktu": "16:00WIB",
+      "acara": "Kompas Petang"
     },
     {
-      "waktu": "14:30WIB",
-      "acara": "Saksi Kunci"
+      "waktu": "17:30WIB",
+      "acara": "Sapa Indonesia Malam"
     }
   ],
   "METRO TV": [
     {
-      "waktu": "14:00WIB",
+      "waktu": "17:00WIB",
       "acara": "Headline News"
     },
     {
-      "waktu": "14:05WIB",
-      "acara": "Newsline"
+      "waktu": "17:05WIB",
+      "acara": "Metro Hari Ini"
     }
   ],
   "MNCTV": [
     {
-      "waktu": "14:00WIB",
-      "acara": "SHAUN THE SHEEP"
+      "waktu": "16:30WIB",
+      "acara": "UANG KAGET LAGI"
     },
     {
-      "waktu": "15:00WIB",
-      "acara": "ZONA  JUARA"
+      "waktu": "17:45WIB",
+      "acara": "UPIN & IPIN BERMULA"
     }
   ],
   "NET TV": [
     {
-      "waktu": "13:30WIB",
-      "acara": "Net. Asik Spesial Cells At Work"
+      "waktu": "17:00WIB",
+      "acara": "Net. Drakor Daebak"
     },
     {
-      "waktu": "14:30WIB",
-      "acara": "Net. Movie : Shinbi's House"
+      "waktu": "18:00WIB",
+      "acara": "Net. Drakor Platinum"
     }
   ],
   "OCHANNEL": [
     {
-      "waktu": "14:00WIB",
-      "acara": "O Shop"
+      "waktu": "17:00WIB",
+      "acara": "PROAKTIF"
     },
     {
-      "waktu": "15:00WIB",
+      "waktu": "17:30WIB",
       "acara": "O Shop"
     }
   ],
   "RCTI": [
     {
-      "waktu": "12:30WIB",
-      "acara": "SI DOEL"
+      "waktu": "16:30WIB",
+      "acara": "TUKANG OJEK PENGKOLAN"
     },
     {
-      "waktu": "15:00WIB",
-      "acara": "KEJEBAK KAWIN"
+      "waktu": "18:00WIB",
+      "acara": "PUTRI UNTUK PANGERAN"
     }
   ],
   "RTV": [
     {
-      "waktu": "14:00WIB",
-      "acara": "Tobot Galaxy"
+      "waktu": "16:00WIB",
+      "acara": "Tayo The Little Bus"
     },
     {
-      "waktu": "14:30WIB",
-      "acara": "PJ Masks"
+      "waktu": "17:30WIB",
+      "acara": "Riko The Series"
     }
   ],
   "SCTV": [
     {
-      "waktu": "12:00WIB",
-      "acara": "FTV Siang"
+      "waktu": "15:15WIB",
+      "acara": "Love Story The Series"
     },
     {
-      "waktu": "14:15WIB",
-      "acara": "Cinta Amara"
+      "waktu": "17:30WIB",
+      "acara": "Dari Jendela SMP"
     }
   ],
   "TRANS7": [
     {
-      "waktu": "13:30WIB",
-      "acara": "Jejak Petualang"
+      "waktu": "16:15WIB",
+      "acara": "Makan Receh"
     },
     {
-      "waktu": "14:15WIB",
-      "acara": "Redaksi"
+      "waktu": "17:15WIB",
+      "acara": "Selebrita Expose"
     }
   ],
   "TRANSTV": [
     {
-      "waktu": "14:00WIB",
-      "acara": "Rumpi No Secret"
+      "waktu": "17:00WIB",
+      "acara": "Bikin Laper"
     },
     {
-      "waktu": "15:00WIB",
-      "acara": "Insert Today"
+      "waktu": "18:00WIB",
+      "acara": "Insert Story"
     }
   ],
   "TVONE": [
     {
-      "waktu": "14:00WIB",
-      "acara": "Manusia Nusantara"
+      "waktu": "16:00WIB",
+      "acara": "Kabar Petang Pilihan"
     },
     {
-      "waktu": "15:00WIB",
-      "acara": "Kabar Pasar Sore"
+      "waktu": "17:30WIB",
+      "acara": "Kabar Petang (L)"
     }
   ],
   "TVRI": [
     {
-      "waktu": "14:00WIB",
-      "acara": "Info Terkini"
+      "waktu": "17:00WIB",
+      "acara": "Pesona Indonesia"
     },
     {
-      "waktu": "14:03WIB",
-      "acara": "Musik"
+      "waktu": "17:30WIB",
+      "acara": "Sketsa Netizen"
     }
   ]
 }
