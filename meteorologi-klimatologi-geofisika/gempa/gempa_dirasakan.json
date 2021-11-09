@@ -1,0 +1,243 @@
+[
+  {
+    "waktu": "09/11/2021 09:19:10 WIB",
+    "lintang": "5.32 LS",
+    "bujur": "123.16 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di darat 0.6 km Barat Daya Lasalimu Selatan, Kab.",
+    "warning": [
+      "III-IV Lasalimu Selatan",
+      "III Pasarwajo",
+      "II-III Bau-bau"
+    ]
+  },
+  {
+    "waktu": "08/11/2021 12:05:59 WIB",
+    "lintang": "0.79 LS",
+    "bujur": "123.55 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 81 km Timur Laut Banggai Kepulauan",
+    "warning": [
+      "III-IV Luwuk",
+      "III Taliabu"
+    ]
+  },
+  {
+    "waktu": "08/11/2021 04:14:44 WIB",
+    "lintang": "4.37 LS",
+    "bujur": "129.6 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "77 Km",
+    "wilayah": "Pusat gempa berada di laut 37 km Baratlaut Banda",
+    "warning": [
+      "III Banda"
+    ]
+  },
+  {
+    "waktu": "07/11/2021 20:41:16 WIB",
+    "lintang": "2.93 LS",
+    "bujur": "129.24 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km Timur Sawai",
+    "warning": [
+      "II-III Sawai"
+    ]
+  },
+  {
+    "waktu": "07/11/2021 18:29:02 WIB",
+    "lintang": "0.32 LU",
+    "bujur": "98.58 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 141 km BaratDaya Padang Sidempuan",
+    "warning": [
+      "II Padang Sidempuan"
+    ]
+  },
+  {
+    "waktu": "06/11/2021 22:28:13 WIB",
+    "lintang": "4.56 LS",
+    "bujur": "129.85 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 6 km Baratdaya Banda",
+    "warning": [
+      "III Banda"
+    ]
+  },
+  {
+    "waktu": "06/11/2021 21:37:37 WIB",
+    "lintang": "0.16 LS",
+    "bujur": "124.35 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di laut 71 km tenggara Bolaang Mongondow Selatan",
+    "warning": [
+      "IV-V Bolaang Mongondow Timur",
+      "III-IV Kotamobagu",
+      "III Bolaang Mongondow",
+      "III Talibu",
+      "III Gorontalo",
+      "III Bitung",
+      "II-III Manado",
+      "II-III Tomohon"
+    ]
+  },
+  {
+    "waktu": "06/11/2021 12:30:22 WIB",
+    "lintang": "6.15 LS",
+    "bujur": "130.23 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "171 Km",
+    "wilayah": "Pusat gempa berada di laut 234 km Barat Laut Maluku Tenggara Barat",
+    "warning": [
+      "III Malaka"
+    ]
+  },
+  {
+    "waktu": "06/11/2021 10:56:19 WIB",
+    "lintang": "1.36 LS",
+    "bujur": "120.48 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 30 km barat laut Poso",
+    "warning": [
+      "III-IV Poso",
+      "III Morowali Utara",
+      "II-III Parigi",
+      "II-III Luwu Timur"
+    ]
+  },
+  {
+    "waktu": "06/11/2021 06:33:04 WIB",
+    "lintang": "9.48 LS",
+    "bujur": "115.69 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 91 km Tenggara Kuta Selatan",
+    "warning": [
+      "II Kuta Utara"
+    ]
+  },
+  {
+    "waktu": "05/11/2021 20:17:25 WIB",
+    "lintang": "9.63 LS",
+    "bujur": "117.55 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "46 Km",
+    "wilayah": "Pusat gempa berada di laut 124 km Tenggara Sumbawa Barat",
+    "warning": [
+      "III Sumbawa barat"
+    ]
+  },
+  {
+    "waktu": "05/11/2021 09:00:53 WIB",
+    "lintang": "7.35 LS",
+    "bujur": "110.49 BT",
+    "magnitudo": "3",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km Barat daya Salatiga",
+    "warning": [
+      "II Ambarawa"
+    ]
+  },
+  {
+    "waktu": "05/11/2021 02:34:35 WIB",
+    "lintang": "2.79 LS",
+    "bujur": "129.22 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 21 km utara sawai",
+    "warning": [
+      "III Sawai"
+    ]
+  },
+  {
+    "waktu": "04/11/2021 13:14:15 WIB",
+    "lintang": "2.01 LS",
+    "bujur": "125.87 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 14 km Barat Sanana",
+    "warning": [
+      "III Sanana"
+    ]
+  },
+  {
+    "waktu": "04/11/2021 09:42:44 WIB",
+    "lintang": "2.81 LS",
+    "bujur": "129.34 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 16 Km Barat Wahai",
+    "warning": [
+      "V Sawai",
+      "IV Wahai",
+      "III Ambon",
+      "III Masohi",
+      "III Saparua"
+    ]
+  },
+  {
+    "waktu": "04/11/2021 05:17:46 WIB",
+    "lintang": "7.28 LS",
+    "bujur": "110.36 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km Barat Laut Ambarawa",
+    "warning": [
+      "II Ambarawa"
+    ]
+  },
+  {
+    "waktu": "04/11/2021 05:01:08 WIB",
+    "lintang": "7.32 LS",
+    "bujur": "110.37 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km Barat Daya Ambarawa",
+    "warning": [
+      "II Ambarawa"
+    ]
+  },
+  {
+    "waktu": "03/11/2021 21:11:29 WIB",
+    "lintang": "0.38 LS",
+    "bujur": "124.02 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "42 Km",
+    "wilayah": "Pusat gempa berada di laut 84 km Tenggara Bolaang Uki, Bolsel",
+    "warning": [
+      "III Luwuk",
+      "III Bunta",
+      "III Salakan",
+      "II Kotamobagu",
+      "II Bolaang Mongondow Selatan"
+    ]
+  },
+  {
+    "waktu": "03/11/2021 11:47:37 WIB",
+    "lintang": "7.99 LS",
+    "bujur": "115.35 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 31 km Timur Laut Buleleng",
+    "warning": [
+      "II-III Tejakula"
+    ]
+  },
+  {
+    "waktu": "03/11/2021 09:04:20 WIB",
+    "lintang": "3.72 LS",
+    "bujur": "128.1 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 9 km Barat Ambon, SBB",
+    "warning": [
+      "II Ambon"
+    ]
+  }
+]

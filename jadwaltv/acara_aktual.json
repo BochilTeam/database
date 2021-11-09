@@ -1,0 +1,162 @@
+{
+  "ANTV": [
+    {
+      "waktu": "09:30WIB",
+      "acara": "Gopi"
+    },
+    {
+      "waktu": "12:30WIB",
+      "acara": "Bepannaah"
+    }
+  ],
+  "GTV": [
+    {
+      "waktu": "10:00WIB",
+      "acara": "Buletin iNews Siang (L)"
+    },
+    {
+      "waktu": "11:00WIB",
+      "acara": "SpongeBob SquarePants Movie"
+    }
+  ],
+  "INDOSIAR": [
+    {
+      "waktu": "10:30WIB",
+      "acara": "Patroli"
+    },
+    {
+      "waktu": "11:00WIB",
+      "acara": "Fokus"
+    }
+  ],
+  "INEWS TV": [
+    {
+      "waktu": "10:30WIB",
+      "acara": "Sergap"
+    },
+    {
+      "waktu": "11:00WIB",
+      "acara": "iNews Siang (L)"
+    }
+  ],
+  "KOMPAS TV": [
+    {
+      "waktu": "10:00WIB",
+      "acara": "Berita Utama"
+    },
+    {
+      "waktu": "11:00WIB",
+      "acara": "Kompas Siang"
+    }
+  ],
+  "METRO TV": [
+    {
+      "waktu": "10:30WIB",
+      "acara": "Selamat Pagi Indonesia"
+    },
+    {
+      "waktu": "11:00WIB",
+      "acara": "Headline News"
+    }
+  ],
+  "MNCTV": [
+    {
+      "waktu": "09:00WIB",
+      "acara": "SERIAL PILIHAN - 1"
+    },
+    {
+      "waktu": "11:00WIB",
+      "acara": "1"
+    }
+  ],
+  "NET TV": [
+    {
+      "waktu": "10:30WIB",
+      "acara": "Selamat Siang Indonesia"
+    },
+    {
+      "waktu": "11:30WIB",
+      "acara": "Tik Tok Wow"
+    }
+  ],
+  "OCHANNEL": [
+    {
+      "waktu": "10:30WIB",
+      "acara": "Indo Travelogue"
+    },
+    {
+      "waktu": "11:00WIB",
+      "acara": "O Shop"
+    }
+  ],
+  "RCTI": [
+    {
+      "waktu": "10:00WIB",
+      "acara": "SILET"
+    },
+    {
+      "waktu": "11:30WIB",
+      "acara": "SEPUTAR INEWS SIANG"
+    }
+  ],
+  "RTV": [
+    {
+      "waktu": "10:30WIB",
+      "acara": "CSI : Catatan Seputar Investigasi"
+    },
+    {
+      "waktu": "11:00WIB",
+      "acara": "Lensa Indonesia Siang"
+    }
+  ],
+  "SCTV": [
+    {
+      "waktu": "09:30WIB",
+      "acara": "FTV Pagi"
+    },
+    {
+      "waktu": "11:30WIB",
+      "acara": "Liputan 6 Siang"
+    }
+  ],
+  "TRANS7": [
+    {
+      "waktu": "10:30WIB",
+      "acara": "Warga +62"
+    },
+    {
+      "waktu": "11:00WIB",
+      "acara": "Selebrita Siang"
+    }
+  ],
+  "TRANSTV": [
+    {
+      "waktu": "10:00WIB",
+      "acara": "Kopi Viral"
+    },
+    {
+      "waktu": "11:30WIB",
+      "acara": "Insert Siang"
+    }
+  ],
+  "TVONE": [
+    {
+      "waktu": "10:30WIB",
+      "acara": "Sidik Jari"
+    },
+    {
+      "waktu": "11:00WIB",
+      "acara": "Kabar Siang (L)"
+    }
+  ],
+  "TVRI": [
+    {
+      "waktu": "10:00WIB",
+      "acara": "Indonesia"
+    },
+    {
+      "waktu": "11:00WIB",
+      "acara": "Info Terkini"
+    }
+  ]
+}
