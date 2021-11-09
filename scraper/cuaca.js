@@ -7,6 +7,10 @@ if (!fs.existsSync(base)) {
   fs.mkdirSync(base, { recursive: true })
 }
 
+if (!fs.existsSync(base + 'provinsi/')) {
+  fs.mkdirSync(base + 'provinsi/', { recursive: true })
+}
+
 ; (async () => {
   let results = []
   let data = []
