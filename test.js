@@ -25,7 +25,7 @@ function check() {
   for (let file of files) {
     if (file === require.resolve(__filename)) continue
     const error = (e) => assert.ok(e.length < 1, file + '\n\n' + e.toString())
-    const check = (fn) => (new Promise((resolve, reject) => { try { resolve(await fn(file)) } catch (e) { reject(e) }}))
+    const check = (fn) => (new Promise(async (resolve, reject) => { try { resolve(await fn(file)) } catch (e) { reject(e) }}))
     console.error('Checking', file)
     check(file.endsWith('.json') ? parse : file.endsWith('.js') ? node : () => (undefined)).then(() => (assert.ok(file), console.log('Done checking', file))).catch(error)
   }
