@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "09/11/2021 09:19:10 WIB",
+    "lintang": "5.32 LS",
+    "bujur": "123.16 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di darat 0.6 km Barat Daya Lasalimu Selatan, Kab.",
+    "warning": [
+      "III-IV Lasalimu Selatan",
+      "III Pasarwajo",
+      "II-III Bau-bau"
+    ]
+  },
+  {
     "waktu": "08/11/2021 12:05:59 WIB",
     "lintang": "0.79 LS",
     "bujur": "123.55 BT",
@@ -225,21 +238,6 @@
     "wilayah": "Pusat gempa berada di laut 9 km Barat Ambon, SBB",
     "warning": [
       "II Ambon"
-    ]
-  },
-  {
-    "waktu": "03/11/2021 07:50:36 WIB",
-    "lintang": "0.92 LU",
-    "bujur": "98.49 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "63 Km",
-    "wilayah": "Pusat gempa berada di laut 84 timur laut Nias Selatan",
-    "warning": [
-      "II-III Kab. Nias Selatan",
-      "II-III Kab. Nias",
-      "I-II Gunung Sitoli",
-      "I-II Padang",
-      "I-II Pasaman Barat"
     ]
   }
 ]
