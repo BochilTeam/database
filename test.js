@@ -25,20 +25,35 @@ function check() {
   for (let file of files) {
     if (file === require.resolve(__filename)) continue
     const error = (e) => assert.ok(e.length < 1, file + '\n\n' + e.toString())
-    const check = (fn) => (fn(file).then(() => (assert.ok(file), console.log('Done checking', file))).catch(error))
+    const check = (fn) => (new Promise((resolve, reject) => { try { resolve(await fn(file)) } catch (e) { reject(e) }}))
     console.error('Checking', file)
-    check(file.endsWith('.json') ? parse : file.endsWith('.js') ? node : () => (undefined))
+    check(file.endsWith('.json') ? parse : file.endsWith('.js') ? node : () => (undefined)).then(() => (assert.ok(file), console.log('Done checking', file))).catch(error)
   }
 }
 
+/**
+ * read directory
+ * @param {String} path 
+ * @returns string[]
+ */
 function readdir(path) {
   return fs.readdirSync(path)
 }
 
+/**
+ * path is a directory?
+ * @param {String} path 
+ * @returns boolean
+ */
 function isDirectory(path) {
   return (fs.statSync(path)).isDirectory()
 }
 
+/**
+ * parse/check .json file
+ * @param {String} path 
+ * @returns any
+ */
 function parse(path) {
   try {
     return JSON.parse(fs.readFileSync(path))
@@ -47,6 +62,11 @@ function parse(path) {
   }
 }
 
+/**
+ * Check .js file
+ * @param {String} file 
+ * @returns internal.Readable
+ */
 function node(file) {
   return spawn(process.argv0, ['-c', file])
     .on('close', () => {
@@ -57,10 +77,20 @@ function node(file) {
     })
 }
 
+/**
+ * not?
+ * @param {String} file 
+ * @returns boolean
+ */
 function gx(file) {
   return (!file.endsWith('node_modules') && !file.startsWith('.')) || false
 }
 
+/**
+ * yes?
+ * @param {String} file 
+ * @returns boolean
+ */
 function yes(file) {
   return (file.endsWith('.json') || file.endsWith('.js')) || false
 }
