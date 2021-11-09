@@ -35,8 +35,8 @@ jobs:
         timestamp=$(date '+%F %H:%M:%S %Z')
         echo Time $timestamp
         commitAuthor=$(git config --local user.name) || ""
-        echo Author $commitAuthor
         if [[ $commitAuthor =~ [[Bb]ochil[Gg]aming] ]]; then 
+          echo "BochilGaming as author"
           git config user.name "BochilGaming"
           git config user.email "79433517+BochilGaming@users.noreply.github.com"
         else 
