@@ -147,8 +147,8 @@ if (!fs.existsSync(base)) {
 
     if (results.length && data.length) break
   }
-  if (results.length) await fs.writeFileSync(base + 'cuaca.json', JSON.stringify(results, null, 2))
-  if (data.length) await fs.writeFileSync(base + 'provinsi/info.json', JSON.stringify(data, null, 2))
+  if (results.length) fs.writeFileSync(base + 'cuaca.json', JSON.stringify(results, null, 2))
+  if (data.length)  fs.writeFileSync(base + 'provinsi/info.json', JSON.stringify(data, null, 2))
 
   let result = []
   let directory
@@ -160,7 +160,7 @@ if (!fs.existsSync(base)) {
       let provinsi = (info.provinsi).toLowerCase()
       directory = base + 'provinsi/' + provinsi + '/'
       if (!fs.existsSync(directory)) {
-        await fs.mkdirSync(directory, { recursive: true })
+         fs.mkdirSync(directory, { recursive: true })
       }
 
       let respons = await fetch(info.url)

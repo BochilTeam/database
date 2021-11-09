@@ -8,36 +8,131 @@ if (!fs.existsSync(base)) {
 }
 
 ; (async () => {
-  let result = []
   let results = []
-  for (let z = 0; z < 10; z++) {
-    result = []
-    results = []
-    let response = await fetch('https://covid19.go.id/')
-    let $ = cheerio.load(await response.text())
+  let res = await (await fetch('https://www.antaranews.com/covid-19')).text()
+  let $ = cheerio.load(res)
+  $('#main-container > div.main-content.mag-content.clearfix > div > div.col-md-8 > div:nth-child(3) > table > tbody > tr').each(function (i, el) {
+    let data = $(this).find('td')
+    results.push({
+      wilayah: $(data).eq(0).text().trim(),
+      dirawat: {
+        terakhir: $(data).eq(1).text().trim()
+      },
+      terkonfirmasi: {
+        terakhir: $(data).eq(2).text().trim()
+      },
+      sembuh: {
+        terakhir: $(data).eq(3).text().trim()
+      },
+      meninggal: {
+        terakhir: $(data).eq(4).text().trim()
+      }
+    })
+  })
+  if (results.length) fs.writeFileSync(base + 'indonesia.json', JSON.stringify(results, null, 2))
+})()
 
-    let negara_terpapar = $('#case > div > div > div > div > div:nth-child(1) > div:nth-child(3) > strong').text().trim()
-    let terkonfirmasi = $('#case > div > div > div > div > div:nth-child(1) > div:nth-child(4) > strong').text().trim()
-    let meninggal = $('#case > div > div > div > div > div:nth-child(1) > div:nth-child(5) > strong').text().trim()
-    if (!negara_terpapar || !terkonfirmasi || !meninggal) continue
-    results = {
-      negara_terpapar,
-      terkonfirmasi,
-      meninggal
+; (async () => {
+  let cases = await (await fetch('https://tradingeconomics.com/country-list/coronavirus-cases')).text()
+  let deaths = await (await fetch('https://tradingeconomics.com/country-list/coronavirus-deaths')).text()
+  let recovered = await (await fetch('https://tradingeconomics.com/country-list/coronavirus-recovered')).text()
+  let vaccination = await (await fetch('https://tradingeconomics.com/country-list/coronavirus-vaccination-total')).text()
+  let $cases = cheerio.load(cases)
+  let $deaths = cheerio.load(deaths)
+  let $recovered = cheerio.load(recovered)
+  let $vaccination = cheerio.load(vaccination)
+  let data = []
+  $cases('#ctl00_ContentPlaceHolder1_ctl02_UpdatePanel1 > div > div > table > tbody > tr').each(function (i, el) {
+    let table = $cases(this).find('td')
+    let negara = table.eq(0).find('a').text().trim()
+    let terakhir = parseInt(table.eq(1).text().trim())
+    let sebelumnya = parseInt(table.eq(2).text().trim())
+    data.push({
+      wilayah: negara,
+      terkonfirmasi: {
+        terakhir,
+        sebelumnya,
+        penambahan: (terakhir - sebelumnya)
+      }
+    })
+  })
+  $recovered('#ctl00_ContentPlaceHolder1_ctl01_UpdatePanel1 > div > div > table > tbody > tr').each(function (i, el) {
+    let table = $recovered(this).find('td')
+    let negara = table.eq(0).find('a').text().trim()
+    let terakhir = parseInt(table.eq(1).text().trim())
+    let sebelumnya = parseInt(table.eq(2).text().trim())
+    let result = data.find(v => v.wilayah.toLowerCase() === negara.toLowerCase())
+    let index = data.indexOf(result)
+    if (index === -1) data.push({
+      wilayah: negara,
+      sembuh: {
+        terakhir,
+        sebelumnya,
+        penambahan: (terakhir - sebelumnya)
+      }
+    })
+    else {
+      data[index] = {
+        ...data[index],
+        sembuh: {
+          terakhir,
+          sebelumnya,
+          penambahan: (terakhir - sebelumnya)
+        }
+      }
     }
-
-    let positif = $('#case > div > div > div > div > div:nth-child(2) > div:nth-child(3) > strong').text().trim()
-    let sembuh = $('#case > div > div > div > div > div:nth-child(2) > div:nth-child(4) > strong').text().trim()
-    let gmeninggal = $('#case > div > div > div > div > div:nth-child(2) > div:nth-child(5) > strong').text().trim()
-    if (!positif || !sembuh || !gmeninggal) continue
-    result = {
-      positif,
-      sembuh,
-      meninggal: gmeninggal
+  })
+  $deaths('#ctl00_ContentPlaceHolder1_ctl01_UpdatePanel1 > div > div > table > tbody > tr').each(function (i, el) {
+    let table = $deaths(this).find('td')
+    let negara = table.eq(0).find('a').text().trim()
+    let terakhir = parseInt(table.eq(1).text().trim())
+    let sebelumnya = parseInt(table.eq(2).text().trim())
+    let result = data.find(v => v.wilayah.toLowerCase() === negara.toLowerCase())
+    let index = data.indexOf(result)
+    if (index === -1) data.push({
+      wilayah: negara,
+      meninggal: {
+        terakhir,
+        sebelumnya,
+        penambahan: (terakhir - sebelumnya)
+      }
+    })
+    else {
+      data[index] = {
+        ...data[index],
+        meninggal: {
+          terakhir,
+          sebelumnya,
+          penambahan: (terakhir - sebelumnya)
+        }
+      }
     }
-    if (Object.keys(result).length && Object.keys(results).length) break
-  }
-  
-  if (Object.keys(result).length) await fs.writeFileSync(base + 'indonesia.json', JSON.stringify(result, null, 2))
-  if (Object.keys(results).length) await fs.writeFileSync(base + 'global.json', JSON.stringify(results, null, 2))
+  })
+  $vaccination('#ctl00_ContentPlaceHolder1_ctl02_UpdatePanel1 > div > div > table > tbody > tr').each(function (i, el) {
+    let table = $vaccination(this).find('td')
+    let negara = table.eq(0).find('a').text().trim()
+    let terakhir = parseInt(table.eq(1).text().trim())
+    let sebelumnya = parseInt(table.eq(2).text().trim())
+    let result = data.find(v => v.wilayah.toLowerCase() === negara.toLowerCase())
+    let index = data.indexOf(result)
+    if (index === -1) data.push({
+      wilayah: negara,
+      vaksin: {
+        terakhir,
+        sebelumnya,
+        penambahan: (terakhir - sebelumnya)
+      }
+    })
+    else {
+      data[index] = {
+        ...data[index],
+        vaksin: {
+          terakhir,
+          sebelumnya,
+          penambahan: (terakhir - sebelumnya)
+        }
+      }
+    }
+  })
+  if (data.length) fs.writeFileSync(base + 'global.json', JSON.stringify(data, null, 2))
 })()

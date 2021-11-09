@@ -48,7 +48,7 @@ if (!fs.existsSync(dir_bandara)) {
     }
     if (Object.keys(result).length) break
   }
-  if (Object.keys(result).length) await fs.writeFileSync(dir_bandara + 'prakiraan_cuaca_bandara.json', JSON.stringify(result, null, 2))
+  if (Object.keys(result).length) fs.writeFileSync(dir_bandara + 'prakiraan_cuaca_bandara.json', JSON.stringify(result, null, 2))
 })()
 
   ; (async () => {
