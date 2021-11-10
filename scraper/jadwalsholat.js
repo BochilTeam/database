@@ -7,13 +7,20 @@ if (!fs.existsSync(base)) {
     fs.mkdirSync(base, { recursive: true })
 }
 
+let headers = {
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'accept-encoding': 'gzip, deflate, br',
+    'accept-language': 'en-US,en;q=0.9,id;q=0.8',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36'
+}
+
 let lists = [{
     id: '0',
     nama: 'Jakarta Pusat'
 }]
 let results = []
     ; (async () => {
-        let res = await fetch('https://jadwalsholat.org/jadwal-sholat/monthly.php')
+        let res = await fetch('https://jadwalsholat.org/jadwal-sholat/monthly.php', { headers })
         if (!res.ok) return
         let html = await res.text()
         let $ = cheerio.load(html)
@@ -27,7 +34,7 @@ let results = []
 
     ; (async () => {
         for (let list of lists) {
-            let res = await fetch(`https://jadwalsholat.org/jadwal-sholat/monthly.php?id=${list.id}`)
+            let res = await fetch(`https://jadwalsholat.org/jadwal-sholat/monthly.php?id=${list.id}`, { headers })
             if (!res.ok) return
             let html = await res.text()
             results.push({
@@ -44,7 +51,7 @@ function scrapeJadwalSholat(html) {
     $('body > table > tbody > tr').each(function (i) {
         if (i >= 3) {
             let td = $(this).find('td')
-            if (td.eq(0).find('b').text())
+            if (!isNaN(parseInt(td.eq(0).find('b').text())))
                 res.push({
                     tanggal: td.eq(0).find('b').text(),
                     imsyak: td.eq(1).text(),
