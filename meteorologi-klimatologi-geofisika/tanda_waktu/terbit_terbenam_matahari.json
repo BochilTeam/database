@@ -5,7 +5,7 @@
     "waktu_terbit": "06:26 WIB",
     "azimuth_saat_terbit": "107°",
     "waktu_transit": "12:23 WIB",
-    "tinggi_saat_transit": "68S°",
+    "tinggi_saat_transit": "67S°",
     "waktu_terbenam": "18:20 WIB",
     "azimuth_saat_terbenam": "253°",
     "waktu_senja": "19:32 WIB"
@@ -16,10 +16,10 @@
     "waktu_terbit": "06:01 WIB",
     "azimuth_saat_terbit": "107°",
     "waktu_transit": "12:09 WIB",
-    "tinggi_saat_transit": "77S°",
+    "tinggi_saat_transit": "76S°",
     "waktu_terbenam": "18:17 WIB",
     "azimuth_saat_terbenam": "253°",
-    "waktu_senja": "19:29 WIB"
+    "waktu_senja": "19:30 WIB"
   },
   {
     "kota": "Pekanbaru",
@@ -27,14 +27,14 @@
     "waktu_terbit": "05:55 WIB",
     "azimuth_saat_terbit": "107°",
     "waktu_transit": "11:58 WIB",
-    "tinggi_saat_transit": "73S°",
+    "tinggi_saat_transit": "72S°",
     "waktu_terbenam": "18:01 WIB",
     "azimuth_saat_terbenam": "253°",
     "waktu_senja": "19:13 WIB"
   },
   {
     "kota": "Tanjung Pinang",
-    "waktu_fajar": "04:32 WIB",
+    "waktu_fajar": "04:31 WIB",
     "waktu_terbit": "05:43 WIB",
     "azimuth_saat_terbit": "107°",
     "waktu_transit": "11:46 WIB",
@@ -60,7 +60,7 @@
     "waktu_terbit": "05:44 WIB",
     "azimuth_saat_terbit": "107°",
     "waktu_transit": "11:49 WIB",
-    "tinggi_saat_transit": "75S°",
+    "tinggi_saat_transit": "74S°",
     "waktu_terbenam": "17:55 WIB",
     "azimuth_saat_terbenam": "253°",
     "waktu_senja": "19:07 WIB"
@@ -70,7 +70,7 @@
     "waktu_fajar": "04:34 WIB",
     "waktu_terbit": "05:46 WIB",
     "azimuth_saat_terbit": "107°",
-    "waktu_transit": "11:54 WIB",
+    "waktu_transit": "11:55 WIB",
     "tinggi_saat_transit": "77S°",
     "waktu_terbenam": "18:03 WIB",
     "azimuth_saat_terbenam": "253°",
@@ -85,7 +85,7 @@
     "tinggi_saat_transit": "76S°",
     "waktu_terbenam": "17:52 WIB",
     "azimuth_saat_terbenam": "253°",
-    "waktu_senja": "19:04 WIB"
+    "waktu_senja": "19:05 WIB"
   },
   {
     "kota": "Pangkal Pinang",
@@ -94,7 +94,7 @@
     "azimuth_saat_terbit": "107°",
     "waktu_transit": "11:39 WIB",
     "tinggi_saat_transit": "75S°",
-    "waktu_terbenam": "17:45 WIB",
+    "waktu_terbenam": "17:46 WIB",
     "azimuth_saat_terbenam": "253°",
     "waktu_senja": "18:58 WIB"
   },
@@ -103,7 +103,7 @@
     "waktu_fajar": "04:34 WIB",
     "waktu_terbit": "05:46 WIB",
     "azimuth_saat_terbit": "107°",
-    "waktu_transit": "11:54 WIB",
+    "waktu_transit": "11:55 WIB",
     "tinggi_saat_transit": "77S°",
     "waktu_terbenam": "18:03 WIB",
     "azimuth_saat_terbenam": "253°",
@@ -118,22 +118,22 @@
     "tinggi_saat_transit": "78S°",
     "waktu_terbenam": "17:53 WIB",
     "azimuth_saat_terbenam": "253°",
-    "waktu_senja": "19:05 WIB"
+    "waktu_senja": "19:06 WIB"
   },
   {
     "kota": "Jakarta",
     "waktu_fajar": "04:13 WIB",
     "waktu_terbit": "05:25 WIB",
     "azimuth_saat_terbit": "107°",
-    "waktu_transit": "11:36 WIB",
+    "waktu_transit": "11:37 WIB",
     "tinggi_saat_transit": "79S°",
     "waktu_terbenam": "17:48 WIB",
     "azimuth_saat_terbenam": "253°",
-    "waktu_senja": "19:00 WIB"
+    "waktu_senja": "19:01 WIB"
   },
   {
     "kota": "Serang",
-    "waktu_fajar": "04:16 WIB",
+    "waktu_fajar": "04:15 WIB",
     "waktu_terbit": "05:28 WIB",
     "azimuth_saat_terbit": "107°",
     "waktu_transit": "11:39 WIB",
@@ -144,13 +144,13 @@
   },
   {
     "kota": "Bandung",
-    "waktu_fajar": "04:09 WIB",
-    "waktu_terbit": "05:22 WIB",
+    "waktu_fajar": "04:08 WIB",
+    "waktu_terbit": "05:21 WIB",
     "azimuth_saat_terbit": "107°",
-    "waktu_transit": "11:33 WIB",
+    "waktu_transit": "11:34 WIB",
     "tinggi_saat_transit": "80S°",
-    "waktu_terbenam": "17:45 WIB",
-    "azimuth_saat_terbenam": "253°",
+    "waktu_terbenam": "17:46 WIB",
+    "azimuth_saat_terbenam": "252°",
     "waktu_senja": "18:59 WIB"
   },
   {
@@ -160,9 +160,9 @@
     "azimuth_saat_terbit": "107°",
     "waktu_transit": "11:22 WIB",
     "tinggi_saat_transit": "80S°",
-    "waktu_terbenam": "17:34 WIB",
-    "azimuth_saat_terbenam": "253°",
-    "waktu_senja": "18:47 WIB"
+    "waktu_terbenam": "17:35 WIB",
+    "azimuth_saat_terbenam": "252°",
+    "waktu_senja": "18:48 WIB"
   },
   {
     "kota": "Yogyakarta",
@@ -172,8 +172,8 @@
     "waktu_transit": "11:22 WIB",
     "tinggi_saat_transit": "81S°",
     "waktu_terbenam": "17:35 WIB",
-    "azimuth_saat_terbenam": "253°",
-    "waktu_senja": "18:48 WIB"
+    "azimuth_saat_terbenam": "252°",
+    "waktu_senja": "18:49 WIB"
   },
   {
     "kota": "Surabaya",
@@ -182,9 +182,9 @@
     "azimuth_saat_terbit": "107°",
     "waktu_transit": "11:13 WIB",
     "tinggi_saat_transit": "80S°",
-    "waktu_terbenam": "17:25 WIB",
-    "azimuth_saat_terbenam": "253°",
-    "waktu_senja": "18:38 WIB"
+    "waktu_terbenam": "17:26 WIB",
+    "azimuth_saat_terbenam": "252°",
+    "waktu_senja": "18:39 WIB"
   },
   {
     "kota": "Pontianak",
@@ -206,18 +206,18 @@
     "tinggi_saat_transit": "75S°",
     "waktu_terbenam": "17:14 WIB",
     "azimuth_saat_terbenam": "253°",
-    "waktu_senja": "18:26 WIB"
+    "waktu_senja": "18:27 WIB"
   },
   {
     "kota": "Banjarmasin",
     "waktu_fajar": "04:46 WITA",
     "waktu_terbit": "05:58 WITA",
     "azimuth_saat_terbit": "107°",
-    "waktu_transit": "12:05 WITA",
+    "waktu_transit": "12:06 WITA",
     "tinggi_saat_transit": "76S°",
     "waktu_terbenam": "18:13 WITA",
     "azimuth_saat_terbenam": "253°",
-    "waktu_senja": "19:25 WITA"
+    "waktu_senja": "19:26 WITA"
   },
   {
     "kota": "Samarinda",
@@ -239,7 +239,7 @@
     "tinggi_saat_transit": "74S°",
     "waktu_terbenam": "18:01 WITA",
     "azimuth_saat_terbenam": "253°",
-    "waktu_senja": "19:13 WITA"
+    "waktu_senja": "19:14 WITA"
   },
   {
     "kota": "Makassar",
@@ -248,7 +248,7 @@
     "azimuth_saat_terbit": "107°",
     "waktu_transit": "11:46 WITA",
     "tinggi_saat_transit": "78S°",
-    "waktu_terbenam": "17:55 WITA",
+    "waktu_terbenam": "17:56 WITA",
     "azimuth_saat_terbenam": "253°",
     "waktu_senja": "19:08 WITA"
   },
@@ -280,7 +280,7 @@
     "waktu_terbit": "05:29 WITA",
     "azimuth_saat_terbit": "107°",
     "waktu_transit": "11:32 WITA",
-    "tinggi_saat_transit": "73S°",
+    "tinggi_saat_transit": "72S°",
     "waktu_terbenam": "17:34 WITA",
     "azimuth_saat_terbenam": "253°",
     "waktu_senja": "18:46 WITA"
@@ -290,8 +290,8 @@
     "waktu_fajar": "04:11 WITA",
     "waktu_terbit": "05:23 WITA",
     "azimuth_saat_terbit": "107°",
-    "waktu_transit": "11:24 WITA",
-    "tinggi_saat_transit": "72S°",
+    "waktu_transit": "11:25 WITA",
+    "tinggi_saat_transit": "71S°",
     "waktu_terbenam": "17:26 WITA",
     "azimuth_saat_terbenam": "253°",
     "waktu_senja": "18:38 WITA"
@@ -302,9 +302,9 @@
     "waktu_terbit": "05:49 WITA",
     "azimuth_saat_terbit": "107°",
     "waktu_transit": "12:03 WITA",
-    "tinggi_saat_transit": "82S°",
+    "tinggi_saat_transit": "81S°",
     "waktu_terbenam": "18:17 WITA",
-    "azimuth_saat_terbenam": "253°",
+    "azimuth_saat_terbenam": "252°",
     "waktu_senja": "19:31 WITA"
   },
   {
@@ -313,20 +313,20 @@
     "waktu_terbit": "05:45 WITA",
     "azimuth_saat_terbit": "107°",
     "waktu_transit": "11:59 WITA",
-    "tinggi_saat_transit": "82S°",
-    "waktu_terbenam": "18:13 WITA",
-    "azimuth_saat_terbenam": "253°",
+    "tinggi_saat_transit": "81S°",
+    "waktu_terbenam": "18:14 WITA",
+    "azimuth_saat_terbenam": "252°",
     "waktu_senja": "19:27 WITA"
   },
   {
     "kota": "Kupang",
-    "waktu_fajar": "04:00 WITA",
-    "waktu_terbit": "05:14 WITA",
-    "azimuth_saat_terbit": "107°",
+    "waktu_fajar": "03:59 WITA",
+    "waktu_terbit": "05:13 WITA",
+    "azimuth_saat_terbit": "108°",
     "waktu_transit": "11:30 WITA",
     "tinggi_saat_transit": "83S°",
     "waktu_terbenam": "17:46 WITA",
-    "azimuth_saat_terbenam": "253°",
+    "azimuth_saat_terbenam": "252°",
     "waktu_senja": "19:00 WITA"
   },
   {
@@ -334,7 +334,7 @@
     "waktu_fajar": "04:51 WIT",
     "waktu_terbit": "06:03 WIT",
     "azimuth_saat_terbit": "107°",
-    "waktu_transit": "12:11 WIT",
+    "waktu_transit": "12:12 WIT",
     "tinggi_saat_transit": "77S°",
     "waktu_terbenam": "18:20 WIT",
     "azimuth_saat_terbenam": "253°",
@@ -379,8 +379,8 @@
     "waktu_terbit": "05:15 WIT",
     "azimuth_saat_terbit": "107°",
     "waktu_transit": "11:22 WIT",
-    "tinggi_saat_transit": "76S°",
-    "waktu_terbenam": "17:28 WIT",
+    "tinggi_saat_transit": "75S°",
+    "waktu_terbenam": "17:29 WIT",
     "azimuth_saat_terbenam": "253°",
     "waktu_senja": "18:41 WIT"
   },
@@ -390,9 +390,9 @@
     "waktu_terbit": "05:08 WIT",
     "azimuth_saat_terbit": "107°",
     "waktu_transit": "11:22 WIT",
-    "tinggi_saat_transit": "82S°",
+    "tinggi_saat_transit": "81S°",
     "waktu_terbenam": "17:36 WIT",
-    "azimuth_saat_terbenam": "253°",
+    "azimuth_saat_terbenam": "252°",
     "waktu_senja": "18:50 WIT"
   }
 ]

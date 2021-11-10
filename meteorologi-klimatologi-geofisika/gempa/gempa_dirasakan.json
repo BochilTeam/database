@@ -1,5 +1,53 @@
 [
   {
+    "waktu": "09/11/2021 23:12:19 WIB",
+    "lintang": "7.29 LS",
+    "bujur": "110.42 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km timur Ambarawa",
+    "warning": [
+      "II Ambarawa",
+      "II Pojoksari",
+      "II Brongkol",
+      "II Losari",
+      "II Kupang",
+      "II Krangan"
+    ]
+  },
+  {
+    "waktu": "09/11/2021 23:11:47 WIB",
+    "lintang": "7.28 LS",
+    "bujur": "110.56 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km timur laut kota Salatiga",
+    "warning": [
+      "II Ambarawa",
+      "II Pojoksari",
+      "II Brongkol",
+      "II Losari",
+      "II Kupang",
+      "II Krangan"
+    ]
+  },
+  {
+    "waktu": "09/11/2021 22:56:58 WIB",
+    "lintang": "7.26 LS",
+    "bujur": "110.35 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km barat laut Ambarawa",
+    "warning": [
+      "II Ambarawa",
+      "II Jambu",
+      "II Banyubiru",
+      "II Rosari",
+      "II Sumber",
+      "II Kaliputih"
+    ]
+  },
+  {
     "waktu": "09/11/2021 09:19:10 WIB",
     "lintang": "5.32 LS",
     "bujur": "123.16 BT",
@@ -201,43 +249,6 @@
     "wilayah": "Pusat gempa berada di darat 2 km Barat Daya Ambarawa",
     "warning": [
       "II Ambarawa"
-    ]
-  },
-  {
-    "waktu": "03/11/2021 21:11:29 WIB",
-    "lintang": "0.38 LS",
-    "bujur": "124.02 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "42 Km",
-    "wilayah": "Pusat gempa berada di laut 84 km Tenggara Bolaang Uki, Bolsel",
-    "warning": [
-      "III Luwuk",
-      "III Bunta",
-      "III Salakan",
-      "II Kotamobagu",
-      "II Bolaang Mongondow Selatan"
-    ]
-  },
-  {
-    "waktu": "03/11/2021 11:47:37 WIB",
-    "lintang": "7.99 LS",
-    "bujur": "115.35 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 31 km Timur Laut Buleleng",
-    "warning": [
-      "II-III Tejakula"
-    ]
-  },
-  {
-    "waktu": "03/11/2021 09:04:20 WIB",
-    "lintang": "3.72 LS",
-    "bujur": "128.1 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 9 km Barat Ambon, SBB",
-    "warning": [
-      "II Ambon"
     ]
   }
 ]
