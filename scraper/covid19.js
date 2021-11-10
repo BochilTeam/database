@@ -11,7 +11,7 @@ if (!fs.existsSync(base)) {
   let results = []
   let res = await (await fetch('https://www.antaranews.com/covid-19')).text()
   let $ = cheerio.load(res)
-  $('#main-container > div.main-content.mag-content.clearfix > div > div.col-md-8 > div:nth-child(3) > table > tbody > tr').each(function (i, el) {
+  $('#main-container > div.main-content.mag-content.clearfix > div > div.col-md-8 > div:nth-child(3) > table > tbody > tr').each(function (i) {
     let data = $(this).find('td')
     results.push({
       wilayah: $(data).eq(0).text().trim(),

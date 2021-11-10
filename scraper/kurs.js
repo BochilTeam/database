@@ -42,6 +42,5 @@ if (!fs.existsSync(base)) {
     }
     if (result.length) break
   }
-
   if (result.length) fs.writeFileSync(base + 'kurs.json', JSON.stringify(result, null, 2))
 })()
