@@ -31,12 +31,12 @@
   ],
   "INEWS TV": [
     {
-      "waktu": "08:30WIB",
-      "acara": "MNC Shop"
-    },
-    {
       "waktu": "09:00WIB",
       "acara": "Silet"
+    },
+    {
+      "waktu": "10:00WIB",
+      "acara": "Di Luar Nalar"
     }
   ],
   "KOMPAS TV": [
@@ -51,42 +51,42 @@
   ],
   "METRO TV": [
     {
-      "waktu": "08:30WIB",
-      "acara": "Selamat Pagi Indonesia"
-    },
-    {
       "waktu": "09:00WIB",
       "acara": "Headline News"
+    },
+    {
+      "waktu": "09:05WIB",
+      "acara": "Selamat Pagi Indonesia"
     }
   ],
   "MNCTV": [
     {
-      "waktu": "06:30WIB",
-      "acara": "SELAMAT PAGI UPIN IPIN"
-    },
-    {
       "waktu": "09:00WIB",
       "acara": "SERIAL PILIHAN - 1"
+    },
+    {
+      "waktu": "11:00WIB",
+      "acara": "1"
     }
   ],
   "NET TV": [
     {
-      "waktu": "07:00WIB",
-      "acara": "Net. Family"
-    },
-    {
       "waktu": "09:00WIB",
       "acara": "Ipop"
+    },
+    {
+      "waktu": "09:30WIB",
+      "acara": "Diary Bahagia"
     }
   ],
   "OCHANNEL": [
     {
-      "waktu": "08:30WIB",
-      "acara": "Indo Travelogue"
-    },
-    {
       "waktu": "09:00WIB",
       "acara": "Food Adventure"
+    },
+    {
+      "waktu": "09:30WIB",
+      "acara": "Tastimony"
     }
   ],
   "RCTI": [
@@ -101,12 +101,12 @@
   ],
   "RTV": [
     {
-      "waktu": "08:30WIB",
-      "acara": "Unik Enak"
-    },
-    {
       "waktu": "09:00WIB",
       "acara": "Sinema Ceria"
+    },
+    {
+      "waktu": "10:30WIB",
+      "acara": "CSI : Catatan Seputar Investigasi"
     }
   ],
   "SCTV": [
@@ -121,12 +121,12 @@
   ],
   "TRANS7": [
     {
-      "waktu": "08:30WIB",
-      "acara": "Spotlite"
-    },
-    {
       "waktu": "09:00WIB",
       "acara": "Gantian Dong"
+    },
+    {
+      "waktu": "10:30WIB",
+      "acara": "Warga +62"
     }
   ],
   "TRANSTV": [
@@ -141,22 +141,22 @@
   ],
   "TVONE": [
     {
-      "waktu": "08:00WIB",
-      "acara": "Rumah Mamah Dedeh"
-    },
-    {
       "waktu": "09:00WIB",
       "acara": "Hidup Sehat"
+    },
+    {
+      "waktu": "10:00WIB",
+      "acara": "Coffee Break"
     }
   ],
   "TVRI": [
     {
-      "waktu": "08:00WIB",
-      "acara": "Silang Hari Pahlawan"
-    },
-    {
       "waktu": "09:00WIB",
       "acara": "Info Terkini"
+    },
+    {
+      "waktu": "09:03WIB",
+      "acara": "Arena 123"
     }
   ]
 }
