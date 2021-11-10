@@ -291,6 +291,7 @@ if (!fs.existsSync(base + 'provinsi/')) {
       }
       if (result.length) {
         fs.writeFileSync(directory + 'prakiraan_cuaca.json', JSON.stringify(result, null, 2))
+        break
       }
     }
   }
