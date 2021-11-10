@@ -1,42 +1,42 @@
 {
   "ANTV": [
     {
-      "waktu": "07:30WIB",
-      "acara": "Si Aa"
-    },
-    {
       "waktu": "08:00WIB",
       "acara": "Untaian Hikmah"
+    },
+    {
+      "waktu": "09:30WIB",
+      "acara": "Gopi"
     }
   ],
   "GTV": [
     {
-      "waktu": "07:00WIB",
-      "acara": "Beauty And The Bis"
-    },
-    {
       "waktu": "08:30WIB",
       "acara": "SpongeBob SquarePants Movie"
+    },
+    {
+      "waktu": "09:30WIB",
+      "acara": "Obsesi (L)"
     }
   ],
   "INDOSIAR": [
     {
-      "waktu": "06:00WIB",
-      "acara": "Pintu Berkah"
-    },
-    {
       "waktu": "08:00WIB",
       "acara": "Hot Kiss"
+    },
+    {
+      "waktu": "10:30WIB",
+      "acara": "Patroli"
     }
   ],
   "INEWS TV": [
     {
-      "waktu": "07:00WIB",
-      "acara": "Morning Update"
+      "waktu": "08:30WIB",
+      "acara": "MNC Shop"
     },
     {
-      "waktu": "08:00WIB",
-      "acara": "MNC Shop"
+      "waktu": "09:00WIB",
+      "acara": "Silet"
     }
   ],
   "KOMPAS TV": [
@@ -51,11 +51,11 @@
   ],
   "METRO TV": [
     {
-      "waktu": "07:30WIB",
-      "acara": "Editorial Media Indonesia"
+      "waktu": "08:30WIB",
+      "acara": "Selamat Pagi Indonesia"
     },
     {
-      "waktu": "08:00WIB",
+      "waktu": "09:00WIB",
       "acara": "Headline News"
     }
   ],
@@ -81,32 +81,32 @@
   ],
   "OCHANNEL": [
     {
-      "waktu": "06:00WIB",
-      "acara": "Inbox"
+      "waktu": "08:30WIB",
+      "acara": "Indo Travelogue"
     },
     {
-      "waktu": "08:00WIB",
-      "acara": "Today's Update"
+      "waktu": "09:00WIB",
+      "acara": "Food Adventure"
     }
   ],
   "RCTI": [
     {
-      "waktu": "07:00WIB",
-      "acara": "LDI PAGI"
-    },
-    {
       "waktu": "08:15WIB",
       "acara": "DAHSYATNYA 2021"
+    },
+    {
+      "waktu": "10:00WIB",
+      "acara": "SILET"
     }
   ],
   "RTV": [
     {
-      "waktu": "07:00WIB",
-      "acara": "Tayo The Little Bus"
-    },
-    {
       "waktu": "08:30WIB",
       "acara": "Unik Enak"
+    },
+    {
+      "waktu": "09:00WIB",
+      "acara": "Sinema Ceria"
     }
   ],
   "SCTV": [
@@ -121,42 +121,42 @@
   ],
   "TRANS7": [
     {
-      "waktu": "07:30WIB",
-      "acara": "Selebrita Pagi"
+      "waktu": "08:30WIB",
+      "acara": "Spotlite"
     },
     {
-      "waktu": "08:00WIB",
-      "acara": "Trending"
+      "waktu": "09:00WIB",
+      "acara": "Gantian Dong"
     }
   ],
   "TRANSTV": [
     {
-      "waktu": "07:30WIB",
-      "acara": "Good Morning"
-    },
-    {
       "waktu": "08:30WIB",
       "acara": "Pagi - Pagi Ambyar"
+    },
+    {
+      "waktu": "10:00WIB",
+      "acara": "Kopi Viral"
     }
   ],
   "TVONE": [
     {
-      "waktu": "06:30WIB",
-      "acara": "Apa Kabar Indonesia Pagi (L)"
-    },
-    {
       "waktu": "08:00WIB",
       "acara": "Rumah Mamah Dedeh"
+    },
+    {
+      "waktu": "09:00WIB",
+      "acara": "Hidup Sehat"
     }
   ],
   "TVRI": [
     {
-      "waktu": "07:30WIB",
-      "acara": "Inspirasi Indonesia"
-    },
-    {
       "waktu": "08:00WIB",
       "acara": "Silang Hari Pahlawan"
+    },
+    {
+      "waktu": "09:00WIB",
+      "acara": "Info Terkini"
     }
   ]
 }
