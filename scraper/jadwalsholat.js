@@ -44,17 +44,18 @@ function scrapeJadwalSholat(html) {
     $('body > table > tbody > tr').each(function (i) {
         if (i >= 3) {
             let td = $(this).find('td')
-            res.push({
-                tanggal: td.eq(0).find('b').text(),
-                imsyak: td.eq(1).text(),
-                shubuh: td.eq(2).text(),
-                terbit: td.eq(3).text(),
-                dhuha: td.eq(4).text(),
-                dzuhur: td.eq(5).text(),
-                ahsr: td.eq(6).text(),
-                magrib: td.eq(7).text(),
-                isya: td.eq(8).text()
-            })
+            if (td.eq(0).find('b').text())
+                res.push({
+                    tanggal: td.eq(0).find('b').text(),
+                    imsyak: td.eq(1).text(),
+                    shubuh: td.eq(2).text(),
+                    terbit: td.eq(3).text(),
+                    dhuha: td.eq(4).text(),
+                    dzuhur: td.eq(5).text(),
+                    ahsr: td.eq(6).text(),
+                    magrib: td.eq(7).text(),
+                    isya: td.eq(8).text()
+                })
         }
     })
     return res
