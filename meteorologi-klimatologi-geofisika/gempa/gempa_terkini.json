@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10-11-21 09:50:09 WIB",
+    "lintang": "-7.60",
+    "bujur": "105.86",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "85 km BaratDaya MUARABINUANGEUN-BANTEN"
+  },
+  {
     "waktu": "08-11-21 12:05:59 WIB",
     "lintang": "-0.79",
     "bujur": "123.55",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "134 km BaratLaut HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "22-09-21 19:03:29 WIB",
-    "lintang": "1.85",
-    "bujur": "126.60",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "123 km BaratLaut HALMAHERABARAT-MALUT"
   }
 ]
