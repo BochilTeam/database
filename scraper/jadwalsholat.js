@@ -31,8 +31,8 @@ let results = []
             })
         })
     })()
-
     ; (async () => {
+        if (lists.length == 1) return
         for (let list of lists) {
             let res = await fetch(`https://jadwalsholat.org/jadwal-sholat/monthly.php?id=${list.id}`, { headers })
             if (!res.ok) return
