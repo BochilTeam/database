@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "12/11/2021 17:44:18 WIB",
+    "lintang": "1.32 LU",
+    "bujur": "98.84 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "65 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km Tenggara TAPANULI TENGAH",
+    "warning": [
+      "III Padang Sidempuan",
+      "III Pinangsori",
+      "II Nias Selatan",
+      "II Nias"
+    ]
+  },
+  {
+    "waktu": "12/11/2021 15:32:30 WIB",
+    "lintang": "2.14 LU",
+    "bujur": "96.12 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 46 km baratdaya Sinabang",
+    "warning": [
+      "II Sinabang"
+    ]
+  },
+  {
     "waktu": "10/11/2021 15:48:15 WIB",
     "lintang": "4.72 LS",
     "bujur": "101.98 BT",
@@ -223,32 +248,6 @@
     "wilayah": "Pusat gempa berada di laut 21 km utara sawai",
     "warning": [
       "III Sawai"
-    ]
-  },
-  {
-    "waktu": "04/11/2021 13:14:15 WIB",
-    "lintang": "2.01 LS",
-    "bujur": "125.87 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 14 km Barat Sanana",
-    "warning": [
-      "III Sanana"
-    ]
-  },
-  {
-    "waktu": "04/11/2021 09:42:44 WIB",
-    "lintang": "2.81 LS",
-    "bujur": "129.34 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 16 Km Barat Wahai",
-    "warning": [
-      "V Sawai",
-      "IV Wahai",
-      "III Ambon",
-      "III Masohi",
-      "III Saparua"
     ]
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-11-21 17:44:18 WIB",
+    "lintang": "1.32",
+    "bujur": "98.84",
+    "magnitudo": "5.1",
+    "kedalaman": "65 Km",
+    "wilayah": "41 km Tenggara TAPANULITENGAH-SUMUT"
+  },
+  {
     "waktu": "11-11-21 00:46:41 WIB",
     "lintang": "-4.29",
     "bujur": "134.21",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "34 km BaratDaya MAMUJUTENGAH-SULBAR"
-  },
-  {
-    "waktu": "24-09-21 22:04:21 WIB",
-    "lintang": "8.67",
-    "bujur": "94.35",
-    "magnitudo": "5.2",
-    "kedalaman": "64 Km",
-    "wilayah": "326 km BaratLaut KOTA-SABANG-ACEH"
   }
 ]
