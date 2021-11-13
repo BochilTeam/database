@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-11-21 20:42:51 WIB",
+    "lintang": "1.77",
+    "bujur": "127.35",
+    "magnitudo": "5.0",
+    "kedalaman": "118 Km",
+    "wilayah": "53 km BaratLaut HALMAHERABARAT-MALUT"
+  },
+  {
     "waktu": "12-11-21 17:44:18 WIB",
     "lintang": "1.32",
     "bujur": "98.84",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "228 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
-  },
-  {
-    "waktu": "26-09-21 16:32:48 WIB",
-    "lintang": "-2.27",
-    "bujur": "119.23",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "34 km BaratDaya MAMUJUTENGAH-SULBAR"
   }
 ]
