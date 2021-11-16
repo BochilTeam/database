@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/11/2021 09:29:29 WIB",
+    "lintang": "3.42 LS",
+    "bujur": "135.4 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di darat 40 km Barat Laut Nabire",
+    "warning": [
+      "III Nabire"
+    ]
+  },
+  {
     "waktu": "12/11/2021 17:44:18 WIB",
     "lintang": "1.32 LU",
     "bujur": "98.84 BT",
@@ -237,17 +248,6 @@
     "wilayah": "Pusat gempa berada di darat 12 km Barat daya Salatiga",
     "warning": [
       "II Ambarawa"
-    ]
-  },
-  {
-    "waktu": "05/11/2021 02:34:35 WIB",
-    "lintang": "2.79 LS",
-    "bujur": "129.22 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 21 km utara sawai",
-    "warning": [
-      "III Sawai"
     ]
   }
 ]
