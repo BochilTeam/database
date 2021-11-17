@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "17/11/2021 10:30:34 WIB",
+    "lintang": "3.46 LS",
+    "bujur": "101.61 BT",
+    "magnitudo": "5",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 65 km barat daya Bengkulu Utara",
+    "warning": [
+      "III Bengkulu Utara",
+      "I-II  Kepahiang",
+      "III Ketahun"
+    ]
+  },
+  {
     "waktu": "16/11/2021 10:42:29 WIB",
     "lintang": "0.13 LS",
     "bujur": "122.85 BT",
@@ -237,17 +250,6 @@
     "wilayah": "Pusat gempa berada di laut 91 km Tenggara Kuta Selatan",
     "warning": [
       "II Kuta Utara"
-    ]
-  },
-  {
-    "waktu": "05/11/2021 20:17:25 WIB",
-    "lintang": "9.63 LS",
-    "bujur": "117.55 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "46 Km",
-    "wilayah": "Pusat gempa berada di laut 124 km Tenggara Sumbawa Barat",
-    "warning": [
-      "III Sumbawa barat"
     ]
   }
 ]
