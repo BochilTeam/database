@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-11-21 10:30:34 WIB",
+    "lintang": "-3.46",
+    "bujur": "101.61",
+    "magnitudo": "5.0",
+    "kedalaman": "22 Km",
+    "wilayah": "65 km BaratDaya BENGKULUUTARA"
+  },
+  {
     "waktu": "13-11-21 20:42:51 WIB",
     "lintang": "1.77",
     "bujur": "127.35",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "22 Km",
     "wilayah": "56 km BaratLaut DOMPU-NTB"
-  },
-  {
-    "waktu": "29-09-21 22:48:53 WIB",
-    "lintang": "5.57",
-    "bujur": "124.87",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "228 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
