@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/11/2021 04:02:39 WIB",
+    "lintang": "8.21 LS",
+    "bujur": "112.33 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km Tenggara Kab. Blitar",
+    "warning": [
+      "II Karangkates"
+    ]
+  },
+  {
     "waktu": "17/11/2021 10:30:34 WIB",
     "lintang": "3.46 LS",
     "bujur": "101.61 BT",
@@ -239,17 +250,6 @@
       "III Morowali Utara",
       "II-III Parigi",
       "II-III Luwu Timur"
-    ]
-  },
-  {
-    "waktu": "06/11/2021 06:33:04 WIB",
-    "lintang": "9.48 LS",
-    "bujur": "115.69 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 91 km Tenggara Kuta Selatan",
-    "warning": [
-      "II Kuta Utara"
     ]
   }
 ]
