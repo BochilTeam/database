@@ -2,21 +2,17 @@
   {
     "kota": "Banda Aceh",
     "prakiraan_cuaca": {
-      "siang": "Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-am.png",
-      "malam": "Hujan Ringan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
-      "dini_hari": "Berawan Tebal",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan%20tebal-pm.png"
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-am.png",
+      "dini_hari": "Hujan Ringan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png"
     },
-    "suhu": "Hujan Ringan °C",
-    "kelembapan": "23 - 30%"
+    "suhu": "Berawan Tebal °C",
+    "kelembapan": "Hujan Ringan%"
   },
   {
     "kota": "Denpasar",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Berawan",
@@ -28,8 +24,6 @@
   {
     "kota": "Serang",
     "prakiraan_cuaca": {
-      "siang": "Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-am.png",
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Berawan",
@@ -41,8 +35,6 @@
   {
     "kota": "Bengkulu",
     "prakiraan_cuaca": {
-      "siang": "Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Berawan",
@@ -54,8 +46,6 @@
   {
     "kota": "Yogyakarta",
     "prakiraan_cuaca": {
-      "siang": "Hujan Petir",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-am.png",
       "malam": "Hujan Sedang",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
       "dini_hari": "Berawan",
@@ -67,8 +57,6 @@
   {
     "kota": "Jakarta Pusat",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
       "dini_hari": "Berawan",
@@ -80,8 +68,6 @@
   {
     "kota": "Gorontalo",
     "prakiraan_cuaca": {
-      "siang": "Cerah Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-am.png",
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -93,8 +79,6 @@
   {
     "kota": "Jambi",
     "prakiraan_cuaca": {
-      "siang": "Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Hujan Petir",
@@ -106,8 +90,6 @@
   {
     "kota": "Bandung",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -119,8 +101,6 @@
   {
     "kota": "Semarang",
     "prakiraan_cuaca": {
-      "siang": "Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Berawan",
@@ -132,8 +112,6 @@
   {
     "kota": "Surabaya",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -145,8 +123,6 @@
   {
     "kota": "Pontianak",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
       "dini_hari": "Kabut",
@@ -158,8 +134,6 @@
   {
     "kota": "Banjarmasin",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Berawan",
@@ -171,8 +145,6 @@
   {
     "kota": "Palangkaraya",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Hujan Ringan",
@@ -184,8 +156,6 @@
   {
     "kota": "Samarinda",
     "prakiraan_cuaca": {
-      "siang": "Berawan Tebal",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan%20tebal-am.png",
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Hujan Ringan",
@@ -197,8 +167,6 @@
   {
     "kota": "Tarakan",
     "prakiraan_cuaca": {
-      "siang": "Cerah",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah-am.png",
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Berawan",
@@ -210,8 +178,6 @@
   {
     "kota": "Pangkal Pinang",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Berawan",
@@ -223,8 +189,6 @@
   {
     "kota": "Tanjung Pinang",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
       "dini_hari": "Berawan",
@@ -236,8 +200,6 @@
   {
     "kota": "Bandar Lampung",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Hujan Ringan",
@@ -249,8 +211,6 @@
   {
     "kota": "Ambon",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Hujan Ringan",
@@ -262,8 +222,6 @@
   {
     "kota": "Ternate",
     "prakiraan_cuaca": {
-      "siang": "Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -275,8 +233,6 @@
   {
     "kota": "Mataram",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Berawan",
@@ -288,8 +244,6 @@
   {
     "kota": "Kupang",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -301,8 +255,6 @@
   {
     "kota": "Jayapura",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -314,8 +266,6 @@
   {
     "kota": "Manokwari",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
       "dini_hari": "Berawan",
@@ -327,8 +277,6 @@
   {
     "kota": "Pekanbaru",
     "prakiraan_cuaca": {
-      "siang": "Cerah Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Berawan Tebal",
@@ -340,8 +288,6 @@
   {
     "kota": "Mamuju",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Hujan Lebat",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20lebat-pm.png",
       "dini_hari": "Hujan Ringan",
@@ -353,8 +299,6 @@
   {
     "kota": "Makassar",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
       "dini_hari": "Berawan",
@@ -366,8 +310,6 @@
   {
     "kota": "Kendari",
     "prakiraan_cuaca": {
-      "siang": "Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-am.png",
       "malam": "Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
       "dini_hari": "Berawan",
@@ -379,8 +321,6 @@
   {
     "kota": "Manado",
     "prakiraan_cuaca": {
-      "siang": "Hujan Lebat",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20lebat-am.png",
       "malam": "Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
       "dini_hari": "Berawan",
@@ -392,8 +332,6 @@
   {
     "kota": "Padang",
     "prakiraan_cuaca": {
-      "siang": "Cerah Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-am.png",
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Hujan Ringan",
@@ -405,8 +343,6 @@
   {
     "kota": "Palembang",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Hujan Sedang",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -418,8 +354,6 @@
   {
     "kota": "Medan",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Hujan Sedang",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
       "dini_hari": "Berawan",

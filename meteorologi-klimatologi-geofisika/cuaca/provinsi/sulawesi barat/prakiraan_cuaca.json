@@ -2,8 +2,6 @@
   {
     "kota": "Majene",
     "prakiraan_cuaca": {
-      "siang": "Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-am.png",
       "malam": "Hujan Sedang",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
       "dini_hari": "Hujan Ringan",
@@ -15,8 +13,6 @@
   {
     "kota": "Mamasa",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Hujan Lebat",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20lebat-pm.png",
       "dini_hari": "Hujan Ringan",
@@ -28,8 +24,6 @@
   {
     "kota": "Mamuju",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Hujan Lebat",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20lebat-pm.png",
       "dini_hari": "Hujan Ringan",
@@ -41,8 +35,6 @@
   {
     "kota": "Mamuju Tengah",
     "prakiraan_cuaca": {
-      "siang": "Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-am.png",
       "malam": "Hujan Lebat",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20lebat-pm.png",
       "dini_hari": "Hujan Ringan",
@@ -54,8 +46,6 @@
   {
     "kota": "Mamuju Utara",
     "prakiraan_cuaca": {
-      "siang": "Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-am.png",
       "malam": "Hujan Sedang",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
       "dini_hari": "Hujan Ringan",
@@ -67,8 +57,6 @@
   {
     "kota": "Polewali Mandar",
     "prakiraan_cuaca": {
-      "siang": "Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-am.png",
       "malam": "Hujan Sedang",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
       "dini_hari": "Hujan Ringan",

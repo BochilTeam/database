@@ -2,8 +2,6 @@
   {
     "kota": "Gorontalo",
     "prakiraan_cuaca": {
-      "siang": "Cerah Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-am.png",
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -15,8 +13,6 @@
   {
     "kota": "Kwandang",
     "prakiraan_cuaca": {
-      "siang": "Cerah Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-am.png",
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Berawan",
@@ -28,8 +24,6 @@
   {
     "kota": "Limboto",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -41,8 +35,6 @@
   {
     "kota": "Marisa",
     "prakiraan_cuaca": {
-      "siang": "Cerah Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-am.png",
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -54,8 +46,6 @@
   {
     "kota": "Suwawa",
     "prakiraan_cuaca": {
-      "siang": "Hujan Ringan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Kabut",
@@ -67,8 +57,6 @@
   {
     "kota": "Tilamuta",
     "prakiraan_cuaca": {
-      "siang": "Cerah Berawan",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-am.png",
       "malam": "Cerah",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah-pm.png",
       "dini_hari": "Cerah Berawan",

@@ -2,13 +2,13 @@
   {
     "wilayah": "DKI Jakarta",
     "dirawat": {
-      "terakhir": "878"
+      "terakhir": "865"
     },
     "terkonfirmasi": {
       "terakhir": "863.456"
     },
     "sembuh": {
-      "terakhir": "848.985"
+      "terakhir": "848.998"
     },
     "meninggal": {
       "terakhir": "13.593"
@@ -17,13 +17,13 @@
   {
     "wilayah": "Jawa Barat",
     "dirawat": {
-      "terakhir": "1.134"
+      "terakhir": "1.115"
     },
     "terkonfirmasi": {
       "terakhir": "707.314"
     },
     "sembuh": {
-      "terakhir": "691.453"
+      "terakhir": "691.472"
     },
     "meninggal": {
       "terakhir": "14.727"
@@ -32,13 +32,13 @@
   {
     "wilayah": "Jawa Tengah",
     "dirawat": {
-      "terakhir": "1.396"
+      "terakhir": "1.388"
     },
     "terkonfirmasi": {
       "terakhir": "486.054"
     },
     "sembuh": {
-      "terakhir": "454.461"
+      "terakhir": "454.469"
     },
     "meninggal": {
       "terakhir": "30.197"
@@ -47,28 +47,28 @@
   {
     "wilayah": "Jawa Timur",
     "dirawat": {
-      "terakhir": "221"
+      "terakhir": "206"
     },
     "terkonfirmasi": {
       "terakhir": "399.127"
     },
     "sembuh": {
-      "terakhir": "369.228"
+      "terakhir": "369.241"
     },
     "meninggal": {
-      "terakhir": "29.678"
+      "terakhir": "29.680"
     }
   },
   {
     "wilayah": "Kalimantan Timur",
     "dirawat": {
-      "terakhir": "91"
+      "terakhir": "89"
     },
     "terkonfirmasi": {
       "terakhir": "158.174"
     },
     "sembuh": {
-      "terakhir": "152.635"
+      "terakhir": "152.637"
     },
     "meninggal": {
       "terakhir": "5.448"
@@ -77,13 +77,13 @@
   {
     "wilayah": "Daerah Istimewa Yogyakarta",
     "dirawat": {
-      "terakhir": "421"
+      "terakhir": "414"
     },
     "terkonfirmasi": {
       "terakhir": "156.465"
     },
     "sembuh": {
-      "terakhir": "150.781"
+      "terakhir": "150.788"
     },
     "meninggal": {
       "terakhir": "5.263"
@@ -92,13 +92,13 @@
   {
     "wilayah": "Banten",
     "dirawat": {
-      "terakhir": "211"
+      "terakhir": "208"
     },
     "terkonfirmasi": {
-      "terakhir": "132.612"
+      "terakhir": "132.611"
     },
     "sembuh": {
-      "terakhir": "129.715"
+      "terakhir": "129.717"
     },
     "meninggal": {
       "terakhir": "2.686"
@@ -107,13 +107,13 @@
   {
     "wilayah": "Riau",
     "dirawat": {
-      "terakhir": "354"
+      "terakhir": "352"
     },
     "terkonfirmasi": {
-      "terakhir": "128.558"
+      "terakhir": "128.559"
     },
     "sembuh": {
-      "terakhir": "124.095"
+      "terakhir": "124.098"
     },
     "meninggal": {
       "terakhir": "4.109"
@@ -122,13 +122,13 @@
   {
     "wilayah": "Bali",
     "dirawat": {
-      "terakhir": "153"
+      "terakhir": "148"
     },
     "terkonfirmasi": {
       "terakhir": "114.103"
     },
     "sembuh": {
-      "terakhir": "109.910"
+      "terakhir": "109.915"
     },
     "meninggal": {
       "terakhir": "4.040"
@@ -137,13 +137,13 @@
   {
     "wilayah": "Sulawesi Selatan",
     "dirawat": {
-      "terakhir": "128"
+      "terakhir": "127"
     },
     "terkonfirmasi": {
       "terakhir": "109.871"
     },
     "sembuh": {
-      "terakhir": "107.507"
+      "terakhir": "107.508"
     },
     "meninggal": {
       "terakhir": "2.236"
@@ -152,13 +152,13 @@
   {
     "wilayah": "Sumatera Utara",
     "dirawat": {
-      "terakhir": "112"
+      "terakhir": "111"
     },
     "terkonfirmasi": {
       "terakhir": "105.990"
     },
     "sembuh": {
-      "terakhir": "102.989"
+      "terakhir": "102.990"
     },
     "meninggal": {
       "terakhir": "2.889"
@@ -167,13 +167,13 @@
   {
     "wilayah": "Sumatera Barat",
     "dirawat": {
-      "terakhir": "116"
+      "terakhir": "112"
     },
     "terkonfirmasi": {
       "terakhir": "89.831"
     },
     "sembuh": {
-      "terakhir": "87.563"
+      "terakhir": "87.567"
     },
     "meninggal": {
       "terakhir": "2.152"
@@ -182,13 +182,13 @@
   {
     "wilayah": "Kalimantan Selatan",
     "dirawat": {
-      "terakhir": "25"
+      "terakhir": "24"
     },
     "terkonfirmasi": {
       "terakhir": "69.887"
     },
     "sembuh": {
-      "terakhir": "67.472"
+      "terakhir": "67.473"
     },
     "meninggal": {
       "terakhir": "2.390"
@@ -197,13 +197,13 @@
   {
     "wilayah": "Nusa Tenggara Timur",
     "dirawat": {
-      "terakhir": "198"
+      "terakhir": "196"
     },
     "terkonfirmasi": {
       "terakhir": "63.926"
     },
     "sembuh": {
-      "terakhir": "62.390"
+      "terakhir": "62.392"
     },
     "meninggal": {
       "terakhir": "1.338"
@@ -227,13 +227,13 @@
   {
     "wilayah": "Kepulauan Riau",
     "dirawat": {
-      "terakhir": "18"
+      "terakhir": "17"
     },
     "terkonfirmasi": {
       "terakhir": "53.870"
     },
     "sembuh": {
-      "terakhir": "52.105"
+      "terakhir": "52.106"
     },
     "meninggal": {
       "terakhir": "1.747"
@@ -242,13 +242,13 @@
   {
     "wilayah": "Kepulauan Bangka Belitung",
     "dirawat": {
-      "terakhir": "111"
+      "terakhir": "106"
     },
     "terkonfirmasi": {
       "terakhir": "52.203"
     },
     "sembuh": {
-      "terakhir": "50.639"
+      "terakhir": "50.644"
     },
     "meninggal": {
       "terakhir": "1.453"
@@ -257,13 +257,13 @@
   {
     "wilayah": "Lampung",
     "dirawat": {
-      "terakhir": "602"
+      "terakhir": "598"
     },
     "terkonfirmasi": {
       "terakhir": "49.658"
     },
     "sembuh": {
-      "terakhir": "45.197"
+      "terakhir": "45.201"
     },
     "meninggal": {
       "terakhir": "3.859"
@@ -302,13 +302,13 @@
   {
     "wilayah": "Kalimantan Barat",
     "dirawat": {
-      "terakhir": "94"
+      "terakhir": "93"
     },
     "terkonfirmasi": {
       "terakhir": "41.442"
     },
     "sembuh": {
-      "terakhir": "40.289"
+      "terakhir": "40.290"
     },
     "meninggal": {
       "terakhir": "1.059"
@@ -317,13 +317,13 @@
   {
     "wilayah": "Aceh",
     "dirawat": {
-      "terakhir": "30"
+      "terakhir": "29"
     },
     "terkonfirmasi": {
       "terakhir": "38.405"
     },
     "sembuh": {
-      "terakhir": "36.309"
+      "terakhir": "36.310"
     },
     "meninggal": {
       "terakhir": "2.066"
@@ -332,13 +332,13 @@
   {
     "wilayah": "Kalimantan Utara",
     "dirawat": {
-      "terakhir": "65"
+      "terakhir": "64"
     },
     "terkonfirmasi": {
       "terakhir": "35.868"
     },
     "sembuh": {
-      "terakhir": "34.993"
+      "terakhir": "34.994"
     },
     "meninggal": {
       "terakhir": "810"
@@ -347,13 +347,13 @@
   {
     "wilayah": "Sulawesi Utara",
     "dirawat": {
-      "terakhir": "108"
+      "terakhir": "105"
     },
     "terkonfirmasi": {
       "terakhir": "34.681"
     },
     "sembuh": {
-      "terakhir": "33.522"
+      "terakhir": "33.525"
     },
     "meninggal": {
       "terakhir": "1.051"
@@ -392,13 +392,13 @@
   {
     "wilayah": "Nusa Tenggara Barat",
     "dirawat": {
-      "terakhir": "88"
+      "terakhir": "87"
     },
     "terkonfirmasi": {
       "terakhir": "27.761"
     },
     "sembuh": {
-      "terakhir": "26.859"
+      "terakhir": "26.860"
     },
     "meninggal": {
       "terakhir": "814"

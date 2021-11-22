@@ -2,8 +2,6 @@
   {
     "kota": "Bandung",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -15,8 +13,6 @@
   {
     "kota": "Banjar",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -28,8 +24,6 @@
   {
     "kota": "Bekasi",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -41,8 +35,6 @@
   {
     "kota": "Ciamis",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -54,8 +46,6 @@
   {
     "kota": "Cianjur",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -67,8 +57,6 @@
   {
     "kota": "Cibinong",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -80,8 +68,6 @@
   {
     "kota": "Cikarang",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -93,8 +79,6 @@
   {
     "kota": "Cimahi",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -106,8 +90,6 @@
   {
     "kota": "Cipanas",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -119,8 +101,6 @@
   {
     "kota": "Cirebon",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -132,8 +112,6 @@
   {
     "kota": "Cisarua",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -145,8 +123,6 @@
   {
     "kota": "Depok",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -158,8 +134,6 @@
   {
     "kota": "Gadog",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -171,8 +145,6 @@
   {
     "kota": "Garut",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -184,8 +156,6 @@
   {
     "kota": "Indramayu",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -197,8 +167,6 @@
   {
     "kota": "Karawang",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -210,8 +178,6 @@
   {
     "kota": "Kota Bogor",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -223,8 +189,6 @@
   {
     "kota": "Kuningan",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -236,8 +200,6 @@
   {
     "kota": "Lembang",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -249,8 +211,6 @@
   {
     "kota": "Majalengka",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -262,8 +222,6 @@
   {
     "kota": "Parigi",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -275,8 +233,6 @@
   {
     "kota": "Pelabuhan Ratu",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -288,8 +244,6 @@
   {
     "kota": "Purwakarta",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -301,8 +255,6 @@
   {
     "kota": "Singaparna",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -314,8 +266,6 @@
   {
     "kota": "Soreang",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -327,8 +277,6 @@
   {
     "kota": "Subang",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -340,8 +288,6 @@
   {
     "kota": "Sukabumi",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -353,8 +299,6 @@
   {
     "kota": "Sumber",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -366,8 +310,6 @@
   {
     "kota": "Sumedang",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
@@ -379,8 +321,6 @@
   {
     "kota": "Tasikmalaya",
     "prakiraan_cuaca": {
-      "siang": "Hujan Sedang",
-      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
       "dini_hari": "Cerah Berawan",
