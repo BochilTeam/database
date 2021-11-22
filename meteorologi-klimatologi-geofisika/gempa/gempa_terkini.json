@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23-11-21 04:13:53 WIB",
+    "lintang": "0.36",
+    "bujur": "96.58",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "118 km BaratDaya NIASBARAT-SUMUT"
+  },
+  {
     "waktu": "17-11-21 10:30:34 WIB",
     "lintang": "-3.46",
     "bujur": "101.61",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "80 km Tenggara MALUKUTENGAH"
-  },
-  {
-    "waktu": "01-10-21 18:15:50 WIB",
-    "lintang": "-8.19",
-    "bujur": "118.09",
-    "magnitudo": "5.0",
-    "kedalaman": "22 Km",
-    "wilayah": "56 km BaratLaut DOMPU-NTB"
   }
 ]
