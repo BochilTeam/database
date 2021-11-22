@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/11/2021 16:59:08 WIB",
+    "lintang": "0.64 LU",
+    "bujur": "122.28 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "96 Km",
+    "wilayah": "Pusat gempa berada di darat, 15 km BaratLaut Tilamuta",
+    "warning": [
+      "II Kota Gorontalo"
+    ]
+  },
+  {
     "waktu": "21/11/2021 04:02:39 WIB",
     "lintang": "8.21 LS",
     "bujur": "112.33 BT",
@@ -236,20 +247,6 @@
     "wilayah": "Pusat gempa berada di laut 234 km Barat Laut Maluku Tenggara Barat",
     "warning": [
       "III Malaka"
-    ]
-  },
-  {
-    "waktu": "06/11/2021 10:56:19 WIB",
-    "lintang": "1.36 LS",
-    "bujur": "120.48 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 30 km barat laut Poso",
-    "warning": [
-      "III-IV Poso",
-      "III Morowali Utara",
-      "II-III Parigi",
-      "II-III Luwu Timur"
     ]
   }
 ]
