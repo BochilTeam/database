@@ -1,0 +1,68 @@
+[
+  {
+    "kota": "Jakarta Barat",
+    "prakiraan_cuaca": {
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+    },
+    "suhu": "25 - 32 °C",
+    "kelembapan": "70 - 95%"
+  },
+  {
+    "kota": "Jakarta Pusat",
+    "prakiraan_cuaca": {
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+    },
+    "suhu": "26 - 32 °C",
+    "kelembapan": "70 - 95%"
+  },
+  {
+    "kota": "Jakarta Selatan",
+    "prakiraan_cuaca": {
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+    },
+    "suhu": "25 - 32 °C",
+    "kelembapan": "70 - 95%"
+  },
+  {
+    "kota": "Jakarta Timur",
+    "prakiraan_cuaca": {
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+    },
+    "suhu": "25 - 32 °C",
+    "kelembapan": "70 - 95%"
+  },
+  {
+    "kota": "Jakarta Utara",
+    "prakiraan_cuaca": {
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+    },
+    "suhu": "26 - 32 °C",
+    "kelembapan": "70 - 95%"
+  },
+  {
+    "kota": "Kepulauan Seribu",
+    "prakiraan_cuaca": {
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Hujan Ringan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
+    },
+    "suhu": "26 - 32 °C",
+    "kelembapan": "70 - 90%"
+  }
+]

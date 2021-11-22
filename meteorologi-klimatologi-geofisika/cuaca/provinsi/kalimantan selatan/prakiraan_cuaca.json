@@ -1,0 +1,145 @@
+[
+  {
+    "kota": "Amuntai",
+    "prakiraan_cuaca": {
+      "malam": "Hujan Petir",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-pm.png",
+      "dini_hari": "Hujan Ringan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
+    },
+    "suhu": "24 - 33 °C",
+    "kelembapan": "60 - 100%"
+  },
+  {
+    "kota": "Banjarbaru",
+    "prakiraan_cuaca": {
+      "malam": "Hujan Ringan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+    },
+    "suhu": "24 - 34 °C",
+    "kelembapan": "60 - 95%"
+  },
+  {
+    "kota": "Banjarmasin",
+    "prakiraan_cuaca": {
+      "malam": "Hujan Ringan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+    },
+    "suhu": "24 - 34 °C",
+    "kelembapan": "60 - 95%"
+  },
+  {
+    "kota": "Barabai",
+    "prakiraan_cuaca": {
+      "malam": "Hujan Petir",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-pm.png",
+      "dini_hari": "Hujan Ringan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
+    },
+    "suhu": "24 - 34 °C",
+    "kelembapan": "60 - 95%"
+  },
+  {
+    "kota": "Batulicin",
+    "prakiraan_cuaca": {
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+    },
+    "suhu": "24 - 33 °C",
+    "kelembapan": "65 - 95%"
+  },
+  {
+    "kota": "Kandangan",
+    "prakiraan_cuaca": {
+      "malam": "Hujan Petir",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-pm.png",
+      "dini_hari": "Hujan Ringan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
+    },
+    "suhu": "24 - 34 °C",
+    "kelembapan": "60 - 95%"
+  },
+  {
+    "kota": "Kotabaru",
+    "prakiraan_cuaca": {
+      "malam": "Hujan Ringan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+    },
+    "suhu": "24 - 33 °C",
+    "kelembapan": "65 - 95%"
+  },
+  {
+    "kota": "Marabahan",
+    "prakiraan_cuaca": {
+      "malam": "Hujan Ringan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+    },
+    "suhu": "24 - 34 °C",
+    "kelembapan": "60 - 100%"
+  },
+  {
+    "kota": "Martapura",
+    "prakiraan_cuaca": {
+      "malam": "Hujan Ringan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+    },
+    "suhu": "24 - 34 °C",
+    "kelembapan": "60 - 95%"
+  },
+  {
+    "kota": "Paringin",
+    "prakiraan_cuaca": {
+      "malam": "Hujan Petir",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-pm.png",
+      "dini_hari": "Hujan Ringan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
+    },
+    "suhu": "24 - 33 °C",
+    "kelembapan": "60 - 100%"
+  },
+  {
+    "kota": "Pelaihari",
+    "prakiraan_cuaca": {
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+    },
+    "suhu": "24 - 32 °C",
+    "kelembapan": "65 - 95%"
+  },
+  {
+    "kota": "Rantau",
+    "prakiraan_cuaca": {
+      "malam": "Hujan Petir",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-pm.png",
+      "dini_hari": "Hujan Ringan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
+    },
+    "suhu": "24 - 34 °C",
+    "kelembapan": "60 - 95%"
+  },
+  {
+    "kota": "Tanjung",
+    "prakiraan_cuaca": {
+      "malam": "Hujan Sedang",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
+      "dini_hari": "Hujan Ringan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
+    },
+    "suhu": "24 - 33 °C",
+    "kelembapan": "60 - 95%"
+  }
+]

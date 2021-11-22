@@ -1,0 +1,68 @@
+[
+  {
+    "kota": "Majene",
+    "prakiraan_cuaca": {
+      "malam": "Hujan Sedang",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
+      "dini_hari": "Hujan Ringan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
+    },
+    "suhu": "24 - 31 °C",
+    "kelembapan": "70 - 95%"
+  },
+  {
+    "kota": "Mamasa",
+    "prakiraan_cuaca": {
+      "malam": "Hujan Lebat",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20lebat-pm.png",
+      "dini_hari": "Hujan Ringan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
+    },
+    "suhu": "19 - 28 °C",
+    "kelembapan": "75 - 95%"
+  },
+  {
+    "kota": "Mamuju",
+    "prakiraan_cuaca": {
+      "malam": "Hujan Lebat",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20lebat-pm.png",
+      "dini_hari": "Hujan Ringan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
+    },
+    "suhu": "24 - 30 °C",
+    "kelembapan": "70 - 95%"
+  },
+  {
+    "kota": "Mamuju Tengah",
+    "prakiraan_cuaca": {
+      "malam": "Hujan Lebat",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20lebat-pm.png",
+      "dini_hari": "Hujan Ringan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
+    },
+    "suhu": "25 - 31 °C",
+    "kelembapan": "70 - 95%"
+  },
+  {
+    "kota": "Mamuju Utara",
+    "prakiraan_cuaca": {
+      "malam": "Hujan Sedang",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
+      "dini_hari": "Hujan Ringan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
+    },
+    "suhu": "25 - 31 °C",
+    "kelembapan": "70 - 90%"
+  },
+  {
+    "kota": "Polewali Mandar",
+    "prakiraan_cuaca": {
+      "malam": "Hujan Sedang",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
+      "dini_hari": "Hujan Ringan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
+    },
+    "suhu": "24 - 31 °C",
+    "kelembapan": "70 - 95%"
+  }
+]

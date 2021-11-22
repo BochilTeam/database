@@ -1,0 +1,416 @@
+[
+  {
+    "wilayah": "Netherlands",
+    "sembuh": {
+      "terakhir": 250,
+      "sebelumnya": 1140,
+      "penambahan": -890
+    },
+    "meninggal": {
+      "terakhir": 18863,
+      "sebelumnya": 18829,
+      "penambahan": 34
+    },
+    "vaksin": {
+      "terakhir": 24382465,
+      "sebelumnya": 24382465,
+      "penambahan": 0
+    }
+  },
+  {
+    "wilayah": "United Kingdom",
+    "sembuh": {
+      "terakhir": 344,
+      "sebelumnya": 10731,
+      "penambahan": -10387
+    },
+    "meninggal": {
+      "terakhir": 143927,
+      "sebelumnya": 143866,
+      "penambahan": 61
+    },
+    "vaksin": {
+      "terakhir": 111478701,
+      "sebelumnya": 110646342,
+      "penambahan": 832359
+    }
+  },
+  {
+    "wilayah": "Australia",
+    "sembuh": {
+      "terakhir": 25486,
+      "sebelumnya": 25485,
+      "penambahan": 1
+    },
+    "meninggal": {
+      "terakhir": 1933,
+      "sebelumnya": 1922,
+      "penambahan": 11
+    },
+    "vaksin": {
+      "terakhir": 38420798,
+      "sebelumnya": 38348764,
+      "penambahan": 72034
+    }
+  },
+  {
+    "wilayah": "Switzerland",
+    "sembuh": {
+      "terakhir": 34400,
+      "sebelumnya": 26800,
+      "penambahan": 7600
+    },
+    "meninggal": {
+      "terakhir": 10926,
+      "sebelumnya": 10941,
+      "penambahan": -15
+    },
+    "vaksin": {
+      "terakhir": 11492427,
+      "sebelumnya": 11451633,
+      "penambahan": 40794
+    }
+  },
+  {
+    "wilayah": "Singapore",
+    "sembuh": {
+      "terakhir": 62228,
+      "sebelumnya": 62212,
+      "penambahan": 16
+    },
+    "meninggal": {
+      "terakhir": 619,
+      "sebelumnya": 612,
+      "penambahan": 7
+    },
+    "vaksin": {
+      "terakhir": 10083329,
+      "sebelumnya": 10083329,
+      "penambahan": 0
+    }
+  },
+  {
+    "wilayah": "China",
+    "sembuh": {
+      "terakhir": 86689,
+      "sebelumnya": 86676,
+      "penambahan": 13
+    },
+    "meninggal": {
+      "terakhir": 4636,
+      "sebelumnya": 4635,
+      "penambahan": 1
+    },
+    "vaksin": {
+      "terakhir": 2430743000,
+      "sebelumnya": 2422908000,
+      "penambahan": 7835000
+    }
+  },
+  {
+    "wilayah": "South Korea",
+    "sembuh": {
+      "terakhir": 147693,
+      "sebelumnya": 147077,
+      "penambahan": 616
+    },
+    "meninggal": {
+      "terakhir": 3215,
+      "sebelumnya": 3187,
+      "penambahan": 28
+    },
+    "vaksin": {
+      "terakhir": 82927648,
+      "sebelumnya": 82644996,
+      "penambahan": 282652
+    }
+  },
+  {
+    "wilayah": "Spain",
+    "sembuh": {
+      "terakhir": 150376,
+      "sebelumnya": 144783,
+      "penambahan": 5593
+    },
+    "meninggal": {
+      "terakhir": 87810,
+      "sebelumnya": 87804,
+      "penambahan": 6
+    },
+    "vaksin": {
+      "terakhir": 74683916,
+      "sebelumnya": 74502145,
+      "penambahan": 181771
+    }
+  },
+  {
+    "wilayah": "France",
+    "sembuh": {
+      "terakhir": 383768,
+      "sebelumnya": 383447,
+      "penambahan": 321
+    },
+    "meninggal": {
+      "terakhir": 118461,
+      "sebelumnya": 118446,
+      "penambahan": 15
+    },
+    "vaksin": {
+      "terakhir": 102251289,
+      "sebelumnya": 101989127,
+      "penambahan": 262162
+    }
+  },
+  {
+    "wilayah": "Saudi Arabia",
+    "sembuh": {
+      "terakhir": 467633,
+      "sebelumnya": 466578,
+      "penambahan": 1055
+    },
+    "meninggal": {
+      "terakhir": 8821,
+      "sebelumnya": 8820,
+      "penambahan": 1
+    },
+    "vaksin": {
+      "terakhir": 47013241,
+      "sebelumnya": 46979616,
+      "penambahan": 33625
+    }
+  },
+  {
+    "wilayah": "Japan",
+    "sembuh": {
+      "terakhir": 767275,
+      "sebelumnya": 765572,
+      "penambahan": 1703
+    },
+    "meninggal": {
+      "terakhir": 18359,
+      "sebelumnya": 18354,
+      "penambahan": 5
+    },
+    "vaksin": {
+      "terakhir": 195490201,
+      "sebelumnya": 195490201,
+      "penambahan": 0
+    }
+  },
+  {
+    "wilayah": "Canada",
+    "sembuh": {
+      "terakhir": 1381016,
+      "sebelumnya": 1380080,
+      "penambahan": 936
+    },
+    "meninggal": {
+      "terakhir": 29431,
+      "sebelumnya": 29403,
+      "penambahan": 28
+    },
+    "vaksin": {
+      "terakhir": 59935961,
+      "sebelumnya": 59918117,
+      "penambahan": 17844
+    }
+  },
+  {
+    "wilayah": "South Africa",
+    "sembuh": {
+      "terakhir": 1739976,
+      "sebelumnya": 1723882,
+      "penambahan": 16094
+    },
+    "meninggal": {
+      "terakhir": 89555,
+      "sebelumnya": 89515,
+      "penambahan": 40
+    },
+    "vaksin": {
+      "terakhir": 24471210,
+      "sebelumnya": 24346905,
+      "penambahan": 124305
+    }
+  },
+  {
+    "wilayah": "Indonesia",
+    "sembuh": {
+      "terakhir": 1880413,
+      "sebelumnya": 1869606,
+      "penambahan": 10807
+    },
+    "meninggal": {
+      "terakhir": 143714,
+      "sebelumnya": 143709,
+      "penambahan": 5
+    },
+    "vaksin": {
+      "terakhir": 222785206,
+      "sebelumnya": 221362168,
+      "penambahan": 1423038
+    }
+  },
+  {
+    "wilayah": "Mexico",
+    "sembuh": {
+      "terakhir": 1997381,
+      "sebelumnya": 1994014,
+      "penambahan": 3367
+    },
+    "meninggal": {
+      "terakhir": 292471,
+      "sebelumnya": 292372,
+      "penambahan": 99
+    },
+    "vaksin": {
+      "terakhir": 130789808,
+      "sebelumnya": 130244910,
+      "penambahan": 544898
+    }
+  },
+  {
+    "wilayah": "Germany",
+    "sembuh": {
+      "terakhir": 3366432,
+      "sebelumnya": 3365227,
+      "penambahan": 1205
+    },
+    "meninggal": {
+      "terakhir": 99124,
+      "sebelumnya": 99062,
+      "penambahan": 62
+    },
+    "vaksin": {
+      "terakhir": 117286226,
+      "sebelumnya": 116200713,
+      "penambahan": 1085513
+    }
+  },
+  {
+    "wilayah": "Turkey",
+    "sembuh": {
+      "terakhir": 3600788,
+      "sebelumnya": 3594252,
+      "penambahan": 6536
+    },
+    "meninggal": {
+      "terakhir": 75007,
+      "sebelumnya": 74812,
+      "penambahan": 195
+    },
+    "vaksin": {
+      "terakhir": 119272284,
+      "sebelumnya": 119200467,
+      "penambahan": 71817
+    }
+  },
+  {
+    "wilayah": "Argentina",
+    "sembuh": {
+      "terakhir": 4062245,
+      "sebelumnya": 4046308,
+      "penambahan": 15937
+    },
+    "meninggal": {
+      "terakhir": 116377,
+      "sebelumnya": 116374,
+      "penambahan": 3
+    },
+    "vaksin": {
+      "terakhir": 65879184,
+      "sebelumnya": 65665103,
+      "penambahan": 214081
+    }
+  },
+  {
+    "wilayah": "Italy",
+    "sembuh": {
+      "terakhir": 4081902,
+      "sebelumnya": 4078767,
+      "penambahan": 3135
+    },
+    "meninggal": {
+      "terakhir": 133177,
+      "sebelumnya": 133131,
+      "penambahan": 46
+    },
+    "vaksin": {
+      "terakhir": 93415792,
+      "sebelumnya": 93240834,
+      "penambahan": 174958
+    }
+  },
+  {
+    "wilayah": "Russia",
+    "sembuh": {
+      "terakhir": 5000393,
+      "sebelumnya": 4969340,
+      "penambahan": 31053
+    },
+    "meninggal": {
+      "terakhir": 261589,
+      "sebelumnya": 260335,
+      "penambahan": 1254
+    },
+    "vaksin": {
+      "terakhir": 119759585,
+      "sebelumnya": 118078630,
+      "penambahan": 1680955
+    }
+  },
+  {
+    "wilayah": "United States",
+    "sembuh": {
+      "terakhir": 16306656,
+      "sebelumnya": 16300705,
+      "penambahan": 5951
+    },
+    "meninggal": {
+      "terakhir": 771118,
+      "sebelumnya": 771013,
+      "penambahan": 105
+    },
+    "vaksin": {
+      "terakhir": 449955588,
+      "sebelumnya": 449955585,
+      "penambahan": 3
+    }
+  },
+  {
+    "wilayah": "Brazil",
+    "sembuh": {
+      "terakhir": 16779136,
+      "sebelumnya": 16673329,
+      "penambahan": 105807
+    },
+    "meninggal": {
+      "terakhir": 612659,
+      "sebelumnya": 612587,
+      "penambahan": 72
+    },
+    "vaksin": {
+      "terakhir": 297960460,
+      "sebelumnya": 297960460,
+      "penambahan": 0
+    }
+  },
+  {
+    "wilayah": "India",
+    "sembuh": {
+      "terakhir": 29427330,
+      "sebelumnya": 29366601,
+      "penambahan": 60729
+    },
+    "meninggal": {
+      "terakhir": 465082,
+      "sebelumnya": 464623,
+      "penambahan": 459
+    },
+    "vaksin": {
+      "terakhir": 1163685005,
+      "sebelumnya": 1153595556,
+      "penambahan": 10089449
+    }
+  }
+]

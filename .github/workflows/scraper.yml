@@ -1,5 +1,6 @@
 # This workflow will do a clean install of node dependencies, cache/restore them, build the source code and run tests across different versions of node
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+# Taken from https://github.com/fdciabdul/Tiktok-Trending-Data-Scraper/blob/main/.github/workflows/npm-publish.yml 
 
 name: update data
 
@@ -8,10 +9,11 @@ on:
     branches: [ master ]
   workflow_dispatch:
   schedule:
-  - cron: '*/60 */2 * * *'
+  - cron: '*/10 * * * *'
 
 jobs:
   build:
+    timeout-minutes: 10
 
     runs-on: ubuntu-latest
 
@@ -27,13 +29,23 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         #cache: 'npm'
-    - run: npm install --if-present
     - run: npm run scraper
     - name: Commit and push if it changed
       run: |-
+        timestamp=$(date '+%F %H:%M:%S %Z')
+        echo Time $timestamp
+        commitAuthor=$(git config --local user.name) || ""
+        echo "$commitAuthor as author!"
         git config user.name "BochilGaming"
         git config user.email "79433517+BochilGaming@users.noreply.github.com"
         git add -A
-        timestamp=$(date '+%F %H:%M:%S %Z')
         git commit -m "Update data ${timestamp}" || exit 0
         git push
+
+#if [ $commitAuthor = "BochilGaming"]; then 
+#  git config user.name "BochilGaming"
+#  git config user.email "79433517+BochilGaming@users.noreply.github.com"
+#  else 
+#    git config user.name "github-actions"
+#    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+# fi

@@ -5,7 +5,8 @@
   "main": ".",
   "scripts": {
     "test": "node test.js",
-    "scraper": "node scraper/index.js"
+    "scraper": "node scraper/index.js",
+    "test:author": "node scraper/_"
   },
   "keywords": [
     "Database",
@@ -28,6 +29,9 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.2"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^3.0.3"
   }
 }

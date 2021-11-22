@@ -1,0 +1,142 @@
+[
+  {
+    "provinsi": "Aceh",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=01&NamaProv=Aceh"
+  },
+  {
+    "provinsi": "Bali",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=02&NamaProv=Bali"
+  },
+  {
+    "provinsi": "Bangka Belitung",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=03&NamaProv=Bangka%20Belitung"
+  },
+  {
+    "provinsi": "Banten",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=04&NamaProv=Banten"
+  },
+  {
+    "provinsi": "Bengkulu",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=05&NamaProv=Bengkulu"
+  },
+  {
+    "provinsi": "DI Yogyakarta",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=06&NamaProv=DI%20Yogyakarta"
+  },
+  {
+    "provinsi": "DKI Jakarta",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=07&NamaProv=DKI%20Jakarta"
+  },
+  {
+    "provinsi": "Gorontalo",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=08&NamaProv=Gorontalo"
+  },
+  {
+    "provinsi": "Jambi",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=09&NamaProv=Jambi"
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=10&NamaProv=Jawa%20Barat"
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=11&NamaProv=Jawa%20Tengah"
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=12&NamaProv=Jawa%20Timur"
+  },
+  {
+    "provinsi": "Kalimantan Barat",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=13&NamaProv=Kalimantan%20Barat"
+  },
+  {
+    "provinsi": "Kalimantan Selatan",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=14&NamaProv=Kalimantan%20Selatan"
+  },
+  {
+    "provinsi": "Kalimantan Tengah",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=15&NamaProv=Kalimantan%20Tengah"
+  },
+  {
+    "provinsi": "Kalimantan Timur",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=16&NamaProv=Kalimantan%20Timur"
+  },
+  {
+    "provinsi": "Kalimantan Utara",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=17&NamaProv=Kalimantan%20Utara"
+  },
+  {
+    "provinsi": "Kepulauan Riau",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=18&NamaProv=Kepulauan%20Riau"
+  },
+  {
+    "provinsi": "Lampung",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=19&NamaProv=Lampung"
+  },
+  {
+    "provinsi": "Maluku",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=20&NamaProv=Maluku"
+  },
+  {
+    "provinsi": "Maluku Utara",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=21&NamaProv=Maluku%20Utara"
+  },
+  {
+    "provinsi": "Nusa Tenggara Barat",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=22&NamaProv=Nusa%20Tenggara%20Barat"
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=23&NamaProv=Nusa%20Tenggara%20Timur"
+  },
+  {
+    "provinsi": "Papua",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=24&NamaProv=Papua"
+  },
+  {
+    "provinsi": "Papua Barat",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=25&NamaProv=Papua%20Barat"
+  },
+  {
+    "provinsi": "Riau",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=26&NamaProv=Riau"
+  },
+  {
+    "provinsi": "Sulawesi Barat",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=27&NamaProv=Sulawesi%20Barat"
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=28&NamaProv=Sulawesi%20Selatan"
+  },
+  {
+    "provinsi": "Sulawesi Tengah",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=29&NamaProv=Sulawesi%20Tengah"
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=30&NamaProv=Sulawesi%20Tenggara"
+  },
+  {
+    "provinsi": "Sulawesi Utara",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=31&NamaProv=Sulawesi%20Utara"
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=32&NamaProv=Sumatera%20Barat"
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=33&NamaProv=Sumatera%20Selatan"
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=34&NamaProv=Sumatera%20Utara"
+  },
+  {
+    "provinsi": "Indonesia",
+    "url": "https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg?Prov=35&NamaProv=Indonesia"
+  }
+]

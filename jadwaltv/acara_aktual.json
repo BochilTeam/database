@@ -1,0 +1,162 @@
+{
+  "ANTV": [
+    {
+      "waktu": "16:30WIB",
+      "acara": "Cinta Di Dalam Perjodohan"
+    },
+    {
+      "waktu": "18:00WIB",
+      "acara": "Terpaksa Menikahi Tuan Muda"
+    }
+  ],
+  "GTV": [
+    {
+      "waktu": "16:30WIB",
+      "acara": "Kisah Viral"
+    },
+    {
+      "waktu": "18:30WIB",
+      "acara": "IPA & IPS"
+    }
+  ],
+  "INDOSIAR": [
+    {
+      "waktu": "16:00WIB",
+      "acara": "Istri Impian"
+    },
+    {
+      "waktu": "17:45WIB",
+      "acara": "PSS Sleman vs BHAYANGKARA FC - LIGA 1"
+    }
+  ],
+  "INEWS TV": [
+    {
+      "waktu": "16:00WIB",
+      "acara": "iNews Sore (L)"
+    },
+    {
+      "waktu": "18:00WIB",
+      "acara": "iNews Room (L)"
+    }
+  ],
+  "KOMPAS TV": [
+    {
+      "waktu": "16:00WIB",
+      "acara": "Kompas Petang"
+    },
+    {
+      "waktu": "17:30WIB",
+      "acara": "Sapa Indonesia Malam"
+    }
+  ],
+  "METRO TV": [
+    {
+      "waktu": "16:05WIB",
+      "acara": "Metro Hari Ini"
+    },
+    {
+      "waktu": "17:00WIB",
+      "acara": "Headline News"
+    }
+  ],
+  "MNCTV": [
+    {
+      "waktu": "16:30WIB",
+      "acara": "UANG KAGET LAGI"
+    },
+    {
+      "waktu": "17:45WIB",
+      "acara": "UPIN & IPIN BERMULA"
+    }
+  ],
+  "NET TV": [
+    {
+      "waktu": "15:00WIB",
+      "acara": "Movie"
+    },
+    {
+      "waktu": "17:00WIB",
+      "acara": "Net. Drakor Daebak"
+    }
+  ],
+  "OCHANNEL": [
+    {
+      "waktu": "15:00WIB",
+      "acara": "PSMS Medan vs PSPS Riau - LIGA 2"
+    },
+    {
+      "waktu": "17:15WIB",
+      "acara": "O Shop"
+    }
+  ],
+  "RCTI": [
+    {
+      "waktu": "16:30WIB",
+      "acara": "TUKANG OJEK PENGKOLAN"
+    },
+    {
+      "waktu": "18:00WIB",
+      "acara": "PUTRI UNTUK PANGERAN"
+    }
+  ],
+  "RTV": [
+    {
+      "waktu": "16:00WIB",
+      "acara": "Tayo The Little Bus"
+    },
+    {
+      "waktu": "17:30WIB",
+      "acara": "Riko The Series"
+    }
+  ],
+  "SCTV": [
+    {
+      "waktu": "15:15WIB",
+      "acara": "Love Story The Series"
+    },
+    {
+      "waktu": "17:30WIB",
+      "acara": "Dari Jendela SMP"
+    }
+  ],
+  "TRANS7": [
+    {
+      "waktu": "16:15WIB",
+      "acara": "Makan Receh"
+    },
+    {
+      "waktu": "17:15WIB",
+      "acara": "Selebrita Expose"
+    }
+  ],
+  "TRANSTV": [
+    {
+      "waktu": "16:00WIB",
+      "acara": "CNN News Update"
+    },
+    {
+      "waktu": "17:00WIB",
+      "acara": "Bikin Laper"
+    }
+  ],
+  "TVONE": [
+    {
+      "waktu": "16:00WIB",
+      "acara": "Kabar Petang Pilihan"
+    },
+    {
+      "waktu": "17:00WIB",
+      "acara": "Kabar Petang"
+    }
+  ],
+  "TVRI": [
+    {
+      "waktu": "16:00WIB",
+      "acara": "Info Covid 19 Terkini"
+    },
+    {
+      "waktu": "17:00WIB",
+      "acara": "Pesona Indonesia"
+    }
+  ]
+}
