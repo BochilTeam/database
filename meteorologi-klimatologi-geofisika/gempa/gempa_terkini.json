@@ -1,5 +1,45 @@
 [
   {
+    "waktu": "17-11-21 10:30:34 WIB",
+    "lintang": "-3.46",
+    "bujur": "101.61",
+    "magnitudo": "5.0",
+    "kedalaman": "22 Km",
+    "wilayah": "65 km BaratDaya BENGKULUUTARA"
+  },
+  {
+    "waktu": "13-11-21 20:42:51 WIB",
+    "lintang": "1.77",
+    "bujur": "127.35",
+    "magnitudo": "5.0",
+    "kedalaman": "118 Km",
+    "wilayah": "53 km BaratLaut HALMAHERABARAT-MALUT"
+  },
+  {
+    "waktu": "12-11-21 17:44:18 WIB",
+    "lintang": "1.32",
+    "bujur": "98.84",
+    "magnitudo": "5.1",
+    "kedalaman": "65 Km",
+    "wilayah": "41 km Tenggara TAPANULITENGAH-SUMUT"
+  },
+  {
+    "waktu": "11-11-21 00:46:41 WIB",
+    "lintang": "-4.29",
+    "bujur": "134.21",
+    "magnitudo": "6.1",
+    "kedalaman": "14 Km",
+    "wilayah": "115 km Tenggara KAIMANA-PAPUABRT"
+  },
+  {
+    "waktu": "10-11-21 09:50:09 WIB",
+    "lintang": "-7.60",
+    "bujur": "105.86",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "85 km BaratDaya MUARABINUANGEUN-BANTEN"
+  },
+  {
     "waktu": "08-11-21 12:05:59 WIB",
     "lintang": "-0.79",
     "bujur": "123.55",
@@ -198,45 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "22 Km",
     "wilayah": "56 km BaratLaut DOMPU-NTB"
-  },
-  {
-    "waktu": "29-09-21 22:48:53 WIB",
-    "lintang": "5.57",
-    "bujur": "124.87",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "228 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
-  },
-  {
-    "waktu": "26-09-21 16:32:48 WIB",
-    "lintang": "-2.27",
-    "bujur": "119.23",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "34 km BaratDaya MAMUJUTENGAH-SULBAR"
-  },
-  {
-    "waktu": "24-09-21 22:04:21 WIB",
-    "lintang": "8.67",
-    "bujur": "94.35",
-    "magnitudo": "5.2",
-    "kedalaman": "64 Km",
-    "wilayah": "326 km BaratLaut KOTA-SABANG-ACEH"
-  },
-  {
-    "waktu": "24-09-21 13:36:15 WIB",
-    "lintang": "2.19",
-    "bujur": "126.72",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "134 km BaratLaut HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "22-09-21 19:03:29 WIB",
-    "lintang": "1.85",
-    "bujur": "126.60",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "123 km BaratLaut HALMAHERABARAT-MALUT"
   }
 ]

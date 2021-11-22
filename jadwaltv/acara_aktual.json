@@ -1,162 +1,162 @@
 {
   "ANTV": [
     {
-      "waktu": "08:00WIB",
-      "acara": "Untaian Hikmah"
-    },
-    {
       "waktu": "09:30WIB",
       "acara": "Gopi"
+    },
+    {
+      "waktu": "12:00WIB",
+      "acara": "Bepannaah"
     }
   ],
   "GTV": [
     {
-      "waktu": "08:30WIB",
+      "waktu": "11:00WIB",
       "acara": "SpongeBob SquarePants Movie"
     },
     {
-      "waktu": "09:30WIB",
-      "acara": "Obsesi (L)"
+      "waktu": "12:30WIB",
+      "acara": "SpongeBob SquarePants Movie"
     }
   ],
   "INDOSIAR": [
     {
-      "waktu": "08:00WIB",
-      "acara": "Hot Kiss"
+      "waktu": "11:30WIB",
+      "acara": "Perjanjian Masa Lalu Yang Mengusik Rumah Tanggaku"
     },
     {
-      "waktu": "10:30WIB",
-      "acara": "Patroli"
+      "waktu": "13:00WIB",
+      "acara": "Pintu Berkah Siang"
     }
   ],
   "INEWS TV": [
     {
-      "waktu": "09:00WIB",
-      "acara": "Silet"
+      "waktu": "11:00WIB",
+      "acara": "iNews Siang (L)"
     },
     {
-      "waktu": "10:00WIB",
-      "acara": "Di Luar Nalar"
+      "waktu": "12:30WIB",
+      "acara": "Bizz Update (L)"
     }
   ],
   "KOMPAS TV": [
     {
-      "waktu": "07:00WIB",
-      "acara": "Sapa Indonesia Pagi"
+      "waktu": "11:00WIB",
+      "acara": "Kompas Siang"
     },
     {
-      "waktu": "09:30WIB",
-      "acara": "Bincang Kita"
+      "waktu": "13:00WIB",
+      "acara": "Sapa Indonesia Siang"
     }
   ],
   "METRO TV": [
     {
-      "waktu": "09:00WIB",
-      "acara": "Headline News"
+      "waktu": "11:05WIB",
+      "acara": "Metro Siang"
     },
     {
-      "waktu": "09:05WIB",
-      "acara": "Selamat Pagi Indonesia"
+      "waktu": "12:00WIB",
+      "acara": "Headline News"
     }
   ],
   "MNCTV": [
     {
-      "waktu": "09:00WIB",
-      "acara": "SERIAL PILIHAN - 1"
+      "waktu": "11:30WIB",
+      "acara": "LINTAS INEWS SIANG"
     },
     {
-      "waktu": "11:00WIB",
-      "acara": "1"
+      "waktu": "12:00WIB",
+      "acara": "KIKO"
     }
   ],
   "NET TV": [
     {
-      "waktu": "09:00WIB",
-      "acara": "Ipop"
+      "waktu": "11:30WIB",
+      "acara": "Tiktok Wow"
     },
     {
-      "waktu": "09:30WIB",
-      "acara": "Diary Bahagia"
+      "waktu": "12:00WIB",
+      "acara": "Penyekapan Di Kelas"
     }
   ],
   "OCHANNEL": [
     {
-      "waktu": "09:00WIB",
-      "acara": "Food Adventure"
+      "waktu": "11:00WIB",
+      "acara": "O Shop"
     },
     {
-      "waktu": "09:30WIB",
-      "acara": "Tastimony"
+      "waktu": "12:00WIB",
+      "acara": "O Shop"
     }
   ],
   "RCTI": [
     {
-      "waktu": "08:15WIB",
-      "acara": "DAHSYATNYA 2021"
+      "waktu": "11:30WIB",
+      "acara": "SEPUTAR INEWS SIANG"
     },
     {
-      "waktu": "10:00WIB",
-      "acara": "SILET"
+      "waktu": "12:30WIB",
+      "acara": "SI DOEL"
     }
   ],
   "RTV": [
     {
-      "waktu": "09:00WIB",
-      "acara": "Sinema Ceria"
+      "waktu": "11:30WIB",
+      "acara": "Boboiboy"
     },
     {
-      "waktu": "10:30WIB",
-      "acara": "CSI : Catatan Seputar Investigasi"
+      "waktu": "13:00WIB",
+      "acara": "Mega Hero"
     }
   ],
   "SCTV": [
     {
-      "waktu": "07:30WIB",
-      "acara": "FTV Pagi Spesial"
+      "waktu": "11:30WIB",
+      "acara": "Liputan 6 Siang"
     },
     {
-      "waktu": "09:30WIB",
-      "acara": "FTV Pagi"
+      "waktu": "12:00WIB",
+      "acara": "FTV Siang"
     }
   ],
   "TRANS7": [
     {
-      "waktu": "09:00WIB",
-      "acara": "Gantian Dong"
+      "waktu": "11:30WIB",
+      "acara": "Selebrita Siang"
     },
     {
-      "waktu": "10:30WIB",
-      "acara": "Warga +62"
+      "waktu": "12:00WIB",
+      "acara": "Juru Masak Cilik"
     }
   ],
   "TRANSTV": [
     {
-      "waktu": "08:30WIB",
-      "acara": "Pagi - Pagi Ambyar"
+      "waktu": "11:30WIB",
+      "acara": "Insert Siang"
     },
     {
-      "waktu": "10:00WIB",
-      "acara": "Kopi Viral"
+      "waktu": "12:30WIB",
+      "acara": "Brownis - Obrowlan Manis"
     }
   ],
   "TVONE": [
     {
-      "waktu": "09:00WIB",
-      "acara": "Hidup Sehat"
+      "waktu": "11:00WIB",
+      "acara": "Kabar Siang (L)"
     },
     {
-      "waktu": "10:00WIB",
-      "acara": "Coffee Break"
+      "waktu": "13:00WIB",
+      "acara": "Damai Indonesiaku"
     }
   ],
   "TVRI": [
     {
-      "waktu": "09:00WIB",
-      "acara": "Info Terkini"
+      "waktu": "11:30WIB",
+      "acara": "Inspirasi Indonesia"
     },
     {
-      "waktu": "09:03WIB",
-      "acara": "Arena 123"
+      "waktu": "12:00WIB",
+      "acara": "Klik Indonesia Malam"
     }
   ]
 }

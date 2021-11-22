@@ -1,5 +1,98 @@
 [
   {
+    "waktu": "21/11/2021 04:02:39 WIB",
+    "lintang": "8.21 LS",
+    "bujur": "112.33 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km Tenggara Kab. Blitar",
+    "warning": [
+      "II Karangkates"
+    ]
+  },
+  {
+    "waktu": "17/11/2021 10:30:34 WIB",
+    "lintang": "3.46 LS",
+    "bujur": "101.61 BT",
+    "magnitudo": "5",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 65 km barat daya Bengkulu Utara",
+    "warning": [
+      "III Bengkulu Utara",
+      "I-II  Kepahiang",
+      "III Ketahun"
+    ]
+  },
+  {
+    "waktu": "16/11/2021 10:42:29 WIB",
+    "lintang": "0.13 LS",
+    "bujur": "122.85 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "151 Km",
+    "wilayah": "Pusat gempa berada di Laut 80 km BaratDaya BONEBOLANGO",
+    "warning": [
+      "II-III Luwuk"
+    ]
+  },
+  {
+    "waktu": "16/11/2021 09:29:29 WIB",
+    "lintang": "3.42 LS",
+    "bujur": "135.4 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di darat 40 km Barat Laut Nabire",
+    "warning": [
+      "III Nabire"
+    ]
+  },
+  {
+    "waktu": "12/11/2021 17:44:18 WIB",
+    "lintang": "1.32 LU",
+    "bujur": "98.84 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "65 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km Tenggara TAPANULI TENGAH",
+    "warning": [
+      "III Padang Sidempuan",
+      "III Pinangsori",
+      "II Nias Selatan",
+      "II Nias"
+    ]
+  },
+  {
+    "waktu": "12/11/2021 15:32:30 WIB",
+    "lintang": "2.14 LU",
+    "bujur": "96.12 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 46 km baratdaya Sinabang",
+    "warning": [
+      "II Sinabang"
+    ]
+  },
+  {
+    "waktu": "10/11/2021 15:48:15 WIB",
+    "lintang": "4.72 LS",
+    "bujur": "101.98 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 76 km Barat laut Enggano",
+    "warning": [
+      "III Bengkulu"
+    ]
+  },
+  {
+    "waktu": "10/11/2021 09:50:09 WIB",
+    "lintang": "7.65 LS",
+    "bujur": "105.85 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 90 km barat daya Muarabinuangeun",
+    "warning": [
+      "III Cikakak"
+    ]
+  },
+  {
     "waktu": "09/11/2021 23:12:19 WIB",
     "lintang": "7.29 LS",
     "bujur": "110.42 BT",
@@ -157,98 +250,6 @@
       "III Morowali Utara",
       "II-III Parigi",
       "II-III Luwu Timur"
-    ]
-  },
-  {
-    "waktu": "06/11/2021 06:33:04 WIB",
-    "lintang": "9.48 LS",
-    "bujur": "115.69 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 91 km Tenggara Kuta Selatan",
-    "warning": [
-      "II Kuta Utara"
-    ]
-  },
-  {
-    "waktu": "05/11/2021 20:17:25 WIB",
-    "lintang": "9.63 LS",
-    "bujur": "117.55 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "46 Km",
-    "wilayah": "Pusat gempa berada di laut 124 km Tenggara Sumbawa Barat",
-    "warning": [
-      "III Sumbawa barat"
-    ]
-  },
-  {
-    "waktu": "05/11/2021 09:00:53 WIB",
-    "lintang": "7.35 LS",
-    "bujur": "110.49 BT",
-    "magnitudo": "3",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km Barat daya Salatiga",
-    "warning": [
-      "II Ambarawa"
-    ]
-  },
-  {
-    "waktu": "05/11/2021 02:34:35 WIB",
-    "lintang": "2.79 LS",
-    "bujur": "129.22 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 21 km utara sawai",
-    "warning": [
-      "III Sawai"
-    ]
-  },
-  {
-    "waktu": "04/11/2021 13:14:15 WIB",
-    "lintang": "2.01 LS",
-    "bujur": "125.87 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 14 km Barat Sanana",
-    "warning": [
-      "III Sanana"
-    ]
-  },
-  {
-    "waktu": "04/11/2021 09:42:44 WIB",
-    "lintang": "2.81 LS",
-    "bujur": "129.34 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 16 Km Barat Wahai",
-    "warning": [
-      "V Sawai",
-      "IV Wahai",
-      "III Ambon",
-      "III Masohi",
-      "III Saparua"
-    ]
-  },
-  {
-    "waktu": "04/11/2021 05:17:46 WIB",
-    "lintang": "7.28 LS",
-    "bujur": "110.36 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km Barat Laut Ambarawa",
-    "warning": [
-      "II Ambarawa"
-    ]
-  },
-  {
-    "waktu": "04/11/2021 05:01:08 WIB",
-    "lintang": "7.32 LS",
-    "bujur": "110.37 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km Barat Daya Ambarawa",
-    "warning": [
-      "II Ambarawa"
     ]
   }
 ]

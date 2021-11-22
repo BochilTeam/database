@@ -2,188 +2,222 @@
   {
     "kota": "Baturaja",
     "prakiraan_cuaca": {
+      "siang": "Hujan Petir",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-am.png",
       "malam": "Hujan Sedang",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
-      "dini_hari": "Berawan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
     "suhu": "23 - 32 °C",
-    "kelembapan": "60 - 100%"
+    "kelembapan": "65 - 100%"
   },
   {
     "kota": "Indralaya",
     "prakiraan_cuaca": {
+      "siang": "Berawan Tebal",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan%20tebal-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
-      "dini_hari": "Hujan Lebat",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20lebat-pm.png"
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "23 - 32 °C",
+    "suhu": "24 - 33 °C",
     "kelembapan": "60 - 100%"
   },
   {
     "kota": "Kayu Agung",
     "prakiraan_cuaca": {
+      "siang": "Hujan Ringan",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
-      "dini_hari": "Hujan Ringan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "23 - 32 °C",
-    "kelembapan": "60 - 100%"
+    "suhu": "23 - 33 °C",
+    "kelembapan": "65 - 100%"
   },
   {
     "kota": "Lahat",
     "prakiraan_cuaca": {
-      "malam": "Hujan Petir",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-pm.png",
-      "dini_hari": "Berawan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+      "siang": "Hujan Petir",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-am.png",
+      "malam": "Hujan Ringan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "23 - 32 °C",
+    "suhu": "24 - 32 °C",
     "kelembapan": "60 - 100%"
   },
   {
     "kota": "Lubuk Linggau",
     "prakiraan_cuaca": {
-      "malam": "Hujan Ringan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
-      "dini_hari": "Hujan Ringan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
+      "siang": "Hujan Ringan",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
+      "malam": "Kabut",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/kabut-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "19 - 30 °C",
-    "kelembapan": "75 - 100%"
+    "suhu": "20 - 32 °C",
+    "kelembapan": "60 - 100%"
   },
   {
     "kota": "Martapura",
     "prakiraan_cuaca": {
-      "malam": "Hujan Petir",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-pm.png",
-      "dini_hari": "Berawan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
-    },
-    "suhu": "23 - 32 °C",
-    "kelembapan": "60 - 100%"
-  },
-  {
-    "kota": "Muaradua",
-    "prakiraan_cuaca": {
-      "malam": "Hujan Petir",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-pm.png",
-      "dini_hari": "Hujan Ringan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
-    },
-    "suhu": "23 - 32 °C",
-    "kelembapan": "60 - 100%"
-  },
-  {
-    "kota": "Muara Enim",
-    "prakiraan_cuaca": {
-      "malam": "Hujan Petir",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-pm.png",
-      "dini_hari": "Berawan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
-    },
-    "suhu": "23 - 32 °C",
-    "kelembapan": "60 - 100%"
-  },
-  {
-    "kota": "Muara Rumpit",
-    "prakiraan_cuaca": {
+      "siang": "Hujan Ringan",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
-      "dini_hari": "Hujan Ringan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
-    },
-    "suhu": "24 - 32 °C",
-    "kelembapan": "60 - 100%"
-  },
-  {
-    "kota": "Musirawas",
-    "prakiraan_cuaca": {
-      "malam": "Hujan Ringan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
-      "dini_hari": "Berawan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
     "suhu": "23 - 32 °C",
     "kelembapan": "65 - 100%"
   },
   {
-    "kota": "Pagar Alam",
+    "kota": "Muaradua",
     "prakiraan_cuaca": {
-      "malam": "Hujan Ringan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
-      "dini_hari": "Berawan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
+      "siang": "Hujan Ringan",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
     "suhu": "22 - 32 °C",
     "kelembapan": "60 - 100%"
   },
   {
-    "kota": "Palembang",
+    "kota": "Muara Enim",
     "prakiraan_cuaca": {
-      "malam": "Hujan Sedang",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
-      "dini_hari": "Hujan Petir",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-pm.png"
+      "siang": "Hujan Petir",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-am.png",
+      "malam": "Hujan Ringan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
     "suhu": "23 - 33 °C",
     "kelembapan": "60 - 100%"
   },
   {
-    "kota": "Pangkalan Balai",
+    "kota": "Muara Rumpit",
     "prakiraan_cuaca": {
+      "siang": "Hujan Ringan",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
-      "dini_hari": "Hujan Petir",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-pm.png"
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "24 - 32 °C",
+    "suhu": "24 - 33 °C",
+    "kelembapan": "60 - 100%"
+  },
+  {
+    "kota": "Musirawas",
+    "prakiraan_cuaca": {
+      "siang": "Hujan Petir",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-am.png",
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
+    },
+    "suhu": "23 - 33 °C",
+    "kelembapan": "60 - 100%"
+  },
+  {
+    "kota": "Pagar Alam",
+    "prakiraan_cuaca": {
+      "siang": "Hujan Petir",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-am.png",
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
+    },
+    "suhu": "22 - 32 °C",
+    "kelembapan": "65 - 100%"
+  },
+  {
+    "kota": "Palembang",
+    "prakiraan_cuaca": {
+      "siang": "Hujan Ringan",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
+      "malam": "Hujan Sedang",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
+    },
+    "suhu": "24 - 33 °C",
+    "kelembapan": "65 - 100%"
+  },
+  {
+    "kota": "Pangkalan Balai",
+    "prakiraan_cuaca": {
+      "siang": "Hujan Ringan",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
+      "malam": "Hujan Sedang",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
+    },
+    "suhu": "24 - 34 °C",
     "kelembapan": "60 - 100%"
   },
   {
     "kota": "Prabumulih",
     "prakiraan_cuaca": {
-      "malam": "Hujan Ringan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
-      "dini_hari": "Hujan Sedang",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png"
+      "siang": "Berawan Tebal",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan%20tebal-am.png",
+      "malam": "Hujan Sedang",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png",
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "23 - 32 °C",
-    "kelembapan": "60 - 100%"
+    "suhu": "23 - 33 °C",
+    "kelembapan": "65 - 100%"
   },
   {
     "kota": "Sekayu",
     "prakiraan_cuaca": {
+      "siang": "Berawan Tebal",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan%20tebal-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
-      "dini_hari": "Hujan Petir",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-pm.png"
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "23 - 32 °C",
+    "suhu": "24 - 33 °C",
     "kelembapan": "60 - 100%"
   },
   {
     "kota": "Talang Ubi",
     "prakiraan_cuaca": {
+      "siang": "Hujan Ringan",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Hujan Ringan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
-      "dini_hari": "Hujan Ringan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png"
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "23 - 32 °C",
+    "suhu": "23 - 33 °C",
     "kelembapan": "60 - 100%"
   },
   {
     "kota": "Tebing Tinggi",
     "prakiraan_cuaca": {
-      "malam": "Hujan Petir",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20petir-pm.png",
-      "dini_hari": "Hujan Sedang",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20sedang-pm.png"
+      "siang": "Hujan Ringan",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
+      "malam": "Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png",
+      "dini_hari": "Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
-    "suhu": "20 - 30 °C",
-    "kelembapan": "65 - 100%"
+    "suhu": "21 - 32 °C",
+    "kelembapan": "60 - 95%"
   }
 ]

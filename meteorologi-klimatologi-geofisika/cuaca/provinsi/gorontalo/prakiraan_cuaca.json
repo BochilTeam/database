@@ -2,30 +2,23 @@
   {
     "kota": "Gorontalo",
     "prakiraan_cuaca": {
-      "malam": "Hujan Ringan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
+      "siang": "Cerah Berawan",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-am.png",
+      "malam": "Cerah Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
     "suhu": "23 - 33 °C",
-    "kelembapan": "60 - 90%"
+    "kelembapan": "60 - 95%"
   },
   {
     "kota": "Kwandang",
     "prakiraan_cuaca": {
-      "malam": "Hujan Ringan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
-      "dini_hari": "Cerah Berawan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
-    },
-    "suhu": "22 - 33 °C",
-    "kelembapan": "60 - 100%"
-  },
-  {
-    "kota": "Limboto",
-    "prakiraan_cuaca": {
-      "malam": "Hujan Ringan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
+      "siang": "Cerah Berawan",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-am.png",
+      "malam": "Cerah Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
     },
@@ -33,36 +26,55 @@
     "kelembapan": "60 - 95%"
   },
   {
-    "kota": "Marisa",
+    "kota": "Limboto",
     "prakiraan_cuaca": {
+      "siang": "Hujan Ringan",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
     "suhu": "23 - 33 °C",
-    "kelembapan": "60 - 100%"
+    "kelembapan": "60 - 95%"
   },
   {
-    "kota": "Suwawa",
+    "kota": "Marisa",
     "prakiraan_cuaca": {
-      "malam": "Hujan Ringan",
-      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-pm.png",
-      "dini_hari": "Berawan",
-      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/berawan-pm.png"
-    },
-    "suhu": "21 - 33 °C",
-    "kelembapan": "60 - 100%"
-  },
-  {
-    "kota": "Tilamuta",
-    "prakiraan_cuaca": {
+      "siang": "Cerah Berawan",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-am.png",
       "malam": "Cerah Berawan",
       "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
       "dini_hari": "Cerah Berawan",
       "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
     },
-    "suhu": "24 - 33 °C",
+    "suhu": "23 - 33 °C",
+    "kelembapan": "60 - 95%"
+  },
+  {
+    "kota": "Suwawa",
+    "prakiraan_cuaca": {
+      "siang": "Hujan Ringan",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/hujan%20ringan-am.png",
+      "malam": "Cerah Berawan",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png",
+      "dini_hari": "Kabut",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/kabut-pm.png"
+    },
+    "suhu": "23 - 33 °C",
+    "kelembapan": "60 - 95%"
+  },
+  {
+    "kota": "Tilamuta",
+    "prakiraan_cuaca": {
+      "siang": "Cerah Berawan",
+      "icon_siang": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-am.png",
+      "malam": "Cerah",
+      "icon_malam": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah-pm.png",
+      "dini_hari": "Cerah Berawan",
+      "icon_dini_hari": "https://www.bmkg.go.id/asset/img/weather_icon/ID/cerah%20berawan-pm.png"
+    },
+    "suhu": "23 - 33 °C",
     "kelembapan": "60 - 95%"
   }
 ]
