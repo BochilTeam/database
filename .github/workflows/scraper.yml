@@ -29,15 +29,14 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         #cache: 'npm'
-    - run: npm run test:author
+    - run: npm run scraper
     - name: Commit and push if it changed
       run: |-
         timestamp=$(date '+%F %H:%M:%S %Z')
         echo Time $timestamp
         commitAuthor=$(git config --local user.name) || ""
         echo "$commitAuthor as author!"
-        if [[ $commitAuthor =~ [[Bb]ochil[Gg]aming] ]]; then 
-          echo "BochilGaming as author"
+        if [ $commitAuthor = "BochilGaming"]; then 
           git config user.name "BochilGaming"
           git config user.email "79433517+BochilGaming@users.noreply.github.com"
         else 
