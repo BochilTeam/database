@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/11/2021 19:10:53 WIB",
+    "lintang": "3.19 LU",
+    "bujur": "98.55 BT",
+    "magnitudo": "2",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km Timurlaut Kab. Karo",
+    "warning": [
+      "II Kab. Karo"
+    ]
+  },
+  {
     "waktu": "22/11/2021 16:59:08 WIB",
     "lintang": "0.64 LU",
     "bujur": "122.28 BT",
@@ -236,17 +247,6 @@
       "III Bitung",
       "II-III Manado",
       "II-III Tomohon"
-    ]
-  },
-  {
-    "waktu": "06/11/2021 12:30:22 WIB",
-    "lintang": "6.15 LS",
-    "bujur": "130.23 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "171 Km",
-    "wilayah": "Pusat gempa berada di laut 234 km Barat Laut Maluku Tenggara Barat",
-    "warning": [
-      "III Malaka"
     ]
   }
 ]
