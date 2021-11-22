@@ -5,7 +5,8 @@
   "main": ".",
   "scripts": {
     "test": "node test.js",
-    "scraper": "node scraper/index.js --trace-warnings"
+    "scraper": "node scraper/index.js",
+    "test:author": "node scraper/_"
   },
   "keywords": [
     "Database",
