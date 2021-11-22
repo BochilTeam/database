@@ -1,22 +1,22 @@
 {
   "ANTV": [
     {
-      "waktu": "14:00WIB",
-      "acara": "Balika Vadhu"
-    },
-    {
       "waktu": "16:30WIB",
       "acara": "Cinta Di Dalam Perjodohan"
+    },
+    {
+      "waktu": "18:00WIB",
+      "acara": "Terpaksa Menikahi Tuan Muda"
     }
   ],
   "GTV": [
     {
-      "waktu": "15:00WIB",
-      "acara": "SpongeBob SquarePants Movie"
-    },
-    {
       "waktu": "16:30WIB",
       "acara": "Kisah Viral"
+    },
+    {
+      "waktu": "18:30WIB",
+      "acara": "IPA & IPS"
     }
   ],
   "INDOSIAR": [
@@ -51,22 +51,22 @@
   ],
   "METRO TV": [
     {
-      "waktu": "16:00WIB",
-      "acara": "Headline News"
-    },
-    {
       "waktu": "16:05WIB",
       "acara": "Metro Hari Ini"
+    },
+    {
+      "waktu": "17:00WIB",
+      "acara": "Headline News"
     }
   ],
   "MNCTV": [
     {
-      "waktu": "15:00WIB",
-      "acara": "ZONA  JUARA"
-    },
-    {
       "waktu": "16:30WIB",
       "acara": "UANG KAGET LAGI"
+    },
+    {
+      "waktu": "17:45WIB",
+      "acara": "UPIN & IPIN BERMULA"
     }
   ],
   "NET TV": [
@@ -91,12 +91,12 @@
   ],
   "RCTI": [
     {
-      "waktu": "15:00WIB",
-      "acara": "TAMU TAK DIUNDANG"
-    },
-    {
       "waktu": "16:30WIB",
       "acara": "TUKANG OJEK PENGKOLAN"
+    },
+    {
+      "waktu": "18:00WIB",
+      "acara": "PUTRI UNTUK PANGERAN"
     }
   ],
   "RTV": [
@@ -121,12 +121,12 @@
   ],
   "TRANS7": [
     {
-      "waktu": "15:15WIB",
-      "acara": "Jejak Si Gundul"
-    },
-    {
       "waktu": "16:15WIB",
       "acara": "Makan Receh"
+    },
+    {
+      "waktu": "17:15WIB",
+      "acara": "Selebrita Expose"
     }
   ],
   "TRANSTV": [
