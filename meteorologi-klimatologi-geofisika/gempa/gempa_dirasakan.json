@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "25/11/2021 00:10:30 WIB",
+    "lintang": "7.3 LS",
+    "bujur": "110.41 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 10 Km Barat Laut Kota Salatiga",
+    "warning": [
+      "II Banyubiu",
+      "II Ambarawa",
+      "II Temenggungan",
+      "II Pojoksari",
+      "II Brongkol",
+      "II Kalipawon",
+      "II Tegalrejo",
+      "II Jambu",
+      "II Losari",
+      "II Gondorio",
+      "II Semilir",
+      "II Garung",
+      "II Bejalen"
+    ]
+  },
+  {
     "waktu": "22/11/2021 19:10:53 WIB",
     "lintang": "3.19 LU",
     "bujur": "98.55 BT",
@@ -229,24 +252,6 @@
     "wilayah": "Pusat gempa berada di laut 6 km Baratdaya Banda",
     "warning": [
       "III Banda"
-    ]
-  },
-  {
-    "waktu": "06/11/2021 21:37:37 WIB",
-    "lintang": "0.16 LS",
-    "bujur": "124.35 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada di laut 71 km tenggara Bolaang Mongondow Selatan",
-    "warning": [
-      "IV-V Bolaang Mongondow Timur",
-      "III-IV Kotamobagu",
-      "III Bolaang Mongondow",
-      "III Talibu",
-      "III Gorontalo",
-      "III Bitung",
-      "II-III Manado",
-      "II-III Tomohon"
     ]
   }
 ]
