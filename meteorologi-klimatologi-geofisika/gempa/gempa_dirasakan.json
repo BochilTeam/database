@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "25/11/2021 11:04:39 WIB",
+    "lintang": "8.32 LS",
+    "bujur": "116.04 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 13 km barat laut Lombok Utara",
+    "warning": [
+      "II-III Lombok Utara",
+      "II Karangasem"
+    ]
+  },
+  {
     "waktu": "25/11/2021 00:10:30 WIB",
     "lintang": "7.3 LS",
     "bujur": "110.41 BT",
@@ -241,17 +253,6 @@
     "wilayah": "Pusat gempa berada di laut 141 km BaratDaya Padang Sidempuan",
     "warning": [
       "II Padang Sidempuan"
-    ]
-  },
-  {
-    "waktu": "06/11/2021 22:28:13 WIB",
-    "lintang": "4.56 LS",
-    "bujur": "129.85 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 6 km Baratdaya Banda",
-    "warning": [
-      "III Banda"
     ]
   }
 ]
