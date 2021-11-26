@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/11/2021 05:05:52 WIB",
+    "lintang": "5.36 LS",
+    "bujur": "104.51 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 23 km BaratLaut Tanggamus",
+    "warning": [
+      "I-II Tanggamus"
+    ]
+  },
+  {
     "waktu": "25/11/2021 11:04:39 WIB",
     "lintang": "8.32 LS",
     "bujur": "116.04 BT",
@@ -242,17 +253,6 @@
     "wilayah": "Pusat gempa berada di darat 11 km Timur Sawai",
     "warning": [
       "II-III Sawai"
-    ]
-  },
-  {
-    "waktu": "07/11/2021 18:29:02 WIB",
-    "lintang": "0.32 LU",
-    "bujur": "98.58 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 141 km BaratDaya Padang Sidempuan",
-    "warning": [
-      "II Padang Sidempuan"
     ]
   }
 ]
