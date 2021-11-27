@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/11/2021 13:01:54 WIB",
+    "lintang": "4.67 LU",
+    "bujur": "126.42 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "57 Km",
+    "wilayah": "Pusat gempa berada di laut 79 km Baratlaut Melonguane",
+    "warning": [
+      "II Tahuna"
+    ]
+  },
+  {
     "waktu": "27/11/2021 07:32:44 WIB",
     "lintang": "5.89 LU",
     "bujur": "95.19 BT",
@@ -244,17 +255,6 @@
     "warning": [
       "III-IV Luwuk",
       "III Taliabu"
-    ]
-  },
-  {
-    "waktu": "08/11/2021 04:14:44 WIB",
-    "lintang": "4.37 LS",
-    "bujur": "129.6 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "77 Km",
-    "wilayah": "Pusat gempa berada di laut 37 km Baratlaut Banda",
-    "warning": [
-      "III Banda"
     ]
   }
 ]
