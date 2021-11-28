@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "29/11/2021 00:27:29 WIB",
+    "lintang": "2.49 LS",
+    "bujur": "140.53 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km baratlaut Kota Jayapura",
+    "warning": [
+      "III Jayapura",
+      "III Sentani"
+    ]
+  },
+  {
     "waktu": "27/11/2021 13:01:54 WIB",
     "lintang": "4.67 LU",
     "bujur": "126.42 BT",
@@ -243,18 +255,6 @@
       "III-IV Lasalimu Selatan",
       "III Pasarwajo",
       "II-III Bau-bau"
-    ]
-  },
-  {
-    "waktu": "08/11/2021 12:05:59 WIB",
-    "lintang": "0.79 LS",
-    "bujur": "123.55 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 81 km Timur Laut Banggai Kepulauan",
-    "warning": [
-      "III-IV Luwuk",
-      "III Taliabu"
     ]
   }
 ]
