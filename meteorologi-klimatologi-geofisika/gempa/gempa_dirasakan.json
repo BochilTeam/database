@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "29/11/2021 22:25:44 WIB",
+    "lintang": "1.25 LS",
+    "bujur": "99.79 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di laut 72 km Barat Daya Padang",
+    "warning": [
+      "II-III Padang",
+      "II Pariaman",
+      "I Padang Panjang"
+    ]
+  },
+  {
     "waktu": "29/11/2021 16:07:49 WIB",
     "lintang": "2.28 LS",
     "bujur": "104.14 BT",
@@ -238,22 +251,6 @@
       "II Losari",
       "II Kupang",
       "II Krangan"
-    ]
-  },
-  {
-    "waktu": "09/11/2021 22:56:58 WIB",
-    "lintang": "7.26 LS",
-    "bujur": "110.35 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km barat laut Ambarawa",
-    "warning": [
-      "II Ambarawa",
-      "II Jambu",
-      "II Banyubiru",
-      "II Rosari",
-      "II Sumber",
-      "II Kaliputih"
     ]
   }
 ]
