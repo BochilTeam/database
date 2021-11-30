@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/11/2021 06:03:17 WIB",
+    "lintang": "6.51 LS",
+    "bujur": "104.45 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 117 km BaratDaya Tanggamus",
+    "warning": [
+      "II Semaka"
+    ]
+  },
+  {
     "waktu": "29/11/2021 22:25:44 WIB",
     "lintang": "1.25 LS",
     "bujur": "99.79 BT",
@@ -228,22 +239,6 @@
     "magnitudo": "2.8",
     "kedalaman": "17 Km",
     "wilayah": "Pusat gempa berada di darat 4 km timur Ambarawa",
-    "warning": [
-      "II Ambarawa",
-      "II Pojoksari",
-      "II Brongkol",
-      "II Losari",
-      "II Kupang",
-      "II Krangan"
-    ]
-  },
-  {
-    "waktu": "09/11/2021 23:11:47 WIB",
-    "lintang": "7.28 LS",
-    "bujur": "110.56 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km timur laut kota Salatiga",
     "warning": [
       "II Ambarawa",
       "II Pojoksari",
