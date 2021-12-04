@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "04-12-21 22:29:33 WIB",
+    "lintang": "2.85",
+    "bujur": "95.29",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "126 km BaratLaut SINABANG-ACEH"
+  },
+  {
+    "waktu": "04-12-21 14:25:20 WIB",
+    "lintang": "-6.71",
+    "bujur": "130.52",
+    "magnitudo": "5.3",
+    "kedalaman": "141 Km",
+    "wilayah": "165 km BaratLaut MALUKUTENGGARABRT"
+  },
+  {
     "waktu": "27-11-21 13:01:54 WIB",
     "lintang": "4.67",
     "bujur": "126.42",
@@ -222,21 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "99 km TimurLaut TAMBRAUW-PAPUABRT"
-  },
-  {
-    "waktu": "11-10-21 19:34:35 WIB",
-    "lintang": "0.83",
-    "bujur": "126.15",
-    "magnitudo": "5.8",
-    "kedalaman": "10 Km",
-    "wilayah": "132 km Tenggara BITUNG-SULUT"
-  },
-  {
-    "waktu": "08-10-21 17:04:54 WIB",
-    "lintang": "4.42",
-    "bujur": "95.43",
-    "magnitudo": "5.6",
-    "kedalaman": "46 Km",
-    "wilayah": "29 km BaratDaya CALANG-ACEHJAYA"
   }
 ]
