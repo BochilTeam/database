@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/12/2021 12:19:49 WIB",
+    "lintang": "3.46 LS",
+    "bujur": "129.47 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 9 km Selatan Tehoru-Maluku Tengah",
+    "warning": [
+      "III Masohi"
+    ]
+  },
+  {
     "waktu": "05/12/2021 10:15:00 WIB",
     "lintang": "4.53 LU",
     "bujur": "96.51 BT",
@@ -238,17 +249,6 @@
       "III Bengkulu Utara",
       "I-II  Kepahiang",
       "III Ketahun"
-    ]
-  },
-  {
-    "waktu": "16/11/2021 10:42:29 WIB",
-    "lintang": "0.13 LS",
-    "bujur": "122.85 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "151 Km",
-    "wilayah": "Pusat gempa berada di Laut 80 km BaratDaya BONEBOLANGO",
-    "warning": [
-      "II-III Luwuk"
     ]
   }
 ]
