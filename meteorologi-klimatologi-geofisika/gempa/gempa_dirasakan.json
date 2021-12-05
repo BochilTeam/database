@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/12/2021 10:15:00 WIB",
+    "lintang": "4.53 LU",
+    "bujur": "96.51 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 38 km Barat Daya Takengon - Aceh",
+    "warning": [
+      "II-III Takengon - Aceh Tengah"
+    ]
+  },
+  {
     "waktu": "05/12/2021 08:10:56 WIB",
     "lintang": "1.8 LS",
     "bujur": "140.64 BT",
@@ -238,17 +249,6 @@
     "wilayah": "Pusat gempa berada di Laut 80 km BaratDaya BONEBOLANGO",
     "warning": [
       "II-III Luwuk"
-    ]
-  },
-  {
-    "waktu": "16/11/2021 09:29:29 WIB",
-    "lintang": "3.42 LS",
-    "bujur": "135.4 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "26 Km",
-    "wilayah": "Pusat gempa berada di darat 40 km Barat Laut Nabire",
-    "warning": [
-      "III Nabire"
     ]
   }
 ]
