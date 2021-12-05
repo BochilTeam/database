@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "05/12/2021 06:47:58 WIB",
+    "lintang": "3.99 LU",
+    "bujur": "128 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "156 Km",
+    "wilayah": "Pusat gempa berada di laut 147 km tenggara Melonguane",
+    "warning": [
+      "III Bitung",
+      "III Morotai",
+      "II Tobelo"
+    ]
+  },
+  {
     "waktu": "04/12/2021 14:00:29 WIB",
     "lintang": "7.25 LS",
     "bujur": "107.6 BT",
@@ -238,17 +251,6 @@
       "III Pinangsori",
       "II Nias Selatan",
       "II Nias"
-    ]
-  },
-  {
-    "waktu": "12/11/2021 15:32:30 WIB",
-    "lintang": "2.14 LU",
-    "bujur": "96.12 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 46 km baratdaya Sinabang",
-    "warning": [
-      "II Sinabang"
     ]
   }
 ]
