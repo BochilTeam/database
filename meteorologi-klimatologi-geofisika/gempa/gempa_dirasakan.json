@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "05/12/2021 08:10:56 WIB",
+    "lintang": "1.8 LS",
+    "bujur": "140.64 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 87 km Baratlaut Jayapura",
+    "warning": [
+      "II-III Jayapura",
+      "II Sentani"
+    ]
+  },
+  {
     "waktu": "05/12/2021 06:47:58 WIB",
     "lintang": "3.99 LU",
     "bujur": "128 BT",
@@ -237,20 +249,6 @@
     "wilayah": "Pusat gempa berada di darat 40 km Barat Laut Nabire",
     "warning": [
       "III Nabire"
-    ]
-  },
-  {
-    "waktu": "12/11/2021 17:44:18 WIB",
-    "lintang": "1.32 LU",
-    "bujur": "98.84 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "65 Km",
-    "wilayah": "Pusat gempa berada di laut 41 km Tenggara TAPANULI TENGAH",
-    "warning": [
-      "III Padang Sidempuan",
-      "III Pinangsori",
-      "II Nias Selatan",
-      "II Nias"
     ]
   }
 ]
