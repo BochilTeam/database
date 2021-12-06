@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "06/12/2021 21:24:11 WIB",
+    "lintang": "7.74 LS",
+    "bujur": "119.03 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 85 km TimurLaut Bima",
+    "warning": [
+      "III Bima"
+    ]
+  },
+  {
     "waktu": "06/12/2021 09:39:55 WIB",
     "lintang": "8.72 LS",
     "bujur": "118.36 BT",
@@ -237,17 +248,6 @@
     "wilayah": "Pusat gempa berada di darat, 15 km BaratLaut Tilamuta",
     "warning": [
       "II Kota Gorontalo"
-    ]
-  },
-  {
-    "waktu": "21/11/2021 04:02:39 WIB",
-    "lintang": "8.21 LS",
-    "bujur": "112.33 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km Tenggara Kab. Blitar",
-    "warning": [
-      "II Karangkates"
     ]
   }
 ]
