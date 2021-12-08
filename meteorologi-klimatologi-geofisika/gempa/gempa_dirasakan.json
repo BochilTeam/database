@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "08/12/2021 05:18:33 WIB",
+    "lintang": "6.71 LS",
+    "bujur": "107.35 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km Barat Daya Purwakarta",
+    "warning": [
+      "III Cipeundeuy",
+      "III Cirata",
+      "III Maniis",
+      "II Purwakarta"
+    ]
+  },
+  {
     "waktu": "07/12/2021 18:18:23 WIB",
     "lintang": "7.24 LS",
     "bujur": "107.64 BT",
@@ -237,17 +251,6 @@
       "II Semilir",
       "II Garung",
       "II Bejalen"
-    ]
-  },
-  {
-    "waktu": "22/11/2021 19:10:53 WIB",
-    "lintang": "3.19 LU",
-    "bujur": "98.55 BT",
-    "magnitudo": "2",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km Timurlaut Kab. Karo",
-    "warning": [
-      "II Kab. Karo"
     ]
   }
 ]
