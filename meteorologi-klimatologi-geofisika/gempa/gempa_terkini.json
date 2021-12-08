@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09-12-21 02:00:53 WIB",
+    "lintang": "-7.85",
+    "bujur": "123.44",
+    "magnitudo": "5.1",
+    "kedalaman": "249 Km",
+    "wilayah": "69 km BaratLaut LEMBATA-NTT"
+  },
+  {
     "waktu": "07-12-21 23:26:26 WIB",
     "lintang": "-8.01",
     "bujur": "123.07",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "17 Km",
     "wilayah": "46 km BaratDaya KAUR-BENGKULU"
-  },
-  {
-    "waktu": "14-10-21 22:16:28 WIB",
-    "lintang": "1.32",
-    "bujur": "126.19",
-    "magnitudo": "5.8",
-    "kedalaman": "10 Km",
-    "wilayah": "119 km Tenggara BITUNG-SULUT"
   }
 ]
