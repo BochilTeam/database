@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "11/12/2021 01:39:20 WIB",
+    "lintang": "0.1 LS",
+    "bujur": "122.96 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "141 Km",
+    "wilayah": "Pusat gempa berada di laut 72 km barat daya Gorontalo",
+    "warning": [
+      "III Kotamobagu",
+      "II-III Wakai",
+      "III Gorontalo"
+    ]
+  },
+  {
     "waktu": "08/12/2021 05:18:33 WIB",
     "lintang": "6.71 LS",
     "bujur": "107.35 BT",
@@ -228,29 +241,6 @@
     "warning": [
       "II-III Lombok Utara",
       "II Karangasem"
-    ]
-  },
-  {
-    "waktu": "25/11/2021 00:10:30 WIB",
-    "lintang": "7.3 LS",
-    "bujur": "110.41 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 10 Km Barat Laut Kota Salatiga",
-    "warning": [
-      "II Banyubiu",
-      "II Ambarawa",
-      "II Temenggungan",
-      "II Pojoksari",
-      "II Brongkol",
-      "II Kalipawon",
-      "II Tegalrejo",
-      "II Jambu",
-      "II Losari",
-      "II Gondorio",
-      "II Semilir",
-      "II Garung",
-      "II Bejalen"
     ]
   }
 ]

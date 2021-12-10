@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-12-21 01:39:20 WIB",
+    "lintang": "-0.10",
+    "bujur": "122.96",
+    "magnitudo": "5.1",
+    "kedalaman": "141 Km",
+    "wilayah": "72 km BaratDaya GORONTALO-GORONTALO"
+  },
+  {
     "waktu": "09-12-21 02:00:53 WIB",
     "lintang": "-7.85",
     "bujur": "123.44",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "53 km TimurLaut SARMI-PAPUA"
-  },
-  {
-    "waktu": "16-10-21 06:17:27 WIB",
-    "lintang": "-4.92",
-    "bujur": "102.95",
-    "magnitudo": "5.0",
-    "kedalaman": "17 Km",
-    "wilayah": "46 km BaratDaya KAUR-BENGKULU"
   }
 ]
