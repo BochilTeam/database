@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-12-21 22:29:47 WIB",
+    "lintang": "-6.98",
+    "bujur": "128.68",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "163 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "11-12-21 01:39:20 WIB",
     "lintang": "-0.10",
     "bujur": "122.96",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "33 Km",
     "wilayah": "78 km BaratDaya KAB-MALANG-JATIM"
-  },
-  {
-    "waktu": "20-10-21 13:10:48 WIB",
-    "lintang": "-2.00",
-    "bujur": "139.30",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "53 km TimurLaut SARMI-PAPUA"
   }
 ]
