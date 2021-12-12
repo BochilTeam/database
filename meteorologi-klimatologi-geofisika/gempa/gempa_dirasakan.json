@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "12/12/2021 07:03:01 WIB",
+    "lintang": "2.94 LS",
+    "bujur": "118.82 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 13 km TimurLaut Majene",
+    "warning": [
+      "III Mekkatta"
+    ]
+  },
+  {
+    "waktu": "12/12/2021 06:33:28 WIB",
+    "lintang": "2.92 LS",
+    "bujur": "118.93 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km TimurLaut Majene",
+    "warning": [
+      "II-III Mekkatta"
+    ]
+  },
+  {
     "waktu": "11/12/2021 01:39:20 WIB",
     "lintang": "0.1 LS",
     "bujur": "122.96 BT",
@@ -216,31 +238,6 @@
     "wilayah": "Pusat gempa berada di laut 14 km barat daya Kota Sabang",
     "warning": [
       "II Sabang"
-    ]
-  },
-  {
-    "waktu": "26/11/2021 05:05:52 WIB",
-    "lintang": "5.36 LS",
-    "bujur": "104.51 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 23 km BaratLaut Tanggamus",
-    "warning": [
-      "I-II Tanggamus",
-      "III Ulu Belu",
-      "II Semangka"
-    ]
-  },
-  {
-    "waktu": "25/11/2021 11:04:39 WIB",
-    "lintang": "8.32 LS",
-    "bujur": "116.04 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 13 km barat laut Lombok Utara",
-    "warning": [
-      "II-III Lombok Utara",
-      "II Karangasem"
     ]
   }
 ]
