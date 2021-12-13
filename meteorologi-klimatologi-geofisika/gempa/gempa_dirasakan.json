@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "13/12/2021 12:46:56 WIB",
+    "lintang": "9.81 LS",
+    "bujur": "113.67 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 179 km Tenggara Jember",
+    "warning": [
+      "III Kuta",
+      "II Denpasar",
+      "II Kuta Utara",
+      "II Karangasem",
+      "II Pacitan",
+      "II Trenggalek",
+      "II Lumajang"
+    ]
+  },
+  {
     "waktu": "13/12/2021 05:36:58 WIB",
     "lintang": "4.18 LS",
     "bujur": "101.22 BT",
@@ -226,18 +243,6 @@
     "warning": [
       "II-III Jambi",
       "III-IV Musi Banyuasin"
-    ]
-  },
-  {
-    "waktu": "29/11/2021 00:27:29 WIB",
-    "lintang": "2.49 LS",
-    "bujur": "140.53 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km baratlaut Kota Jayapura",
-    "warning": [
-      "III Jayapura",
-      "III Sentani"
     ]
   }
 ]

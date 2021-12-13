@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-12-21 12:46:56 WIB",
+    "lintang": "-9.81",
+    "bujur": "113.67",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "179 km Tenggara JEMBER-JATIM"
+  },
+  {
     "waktu": "13-12-21 05:36:58 WIB",
     "lintang": "-4.18",
     "bujur": "101.22",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "76 km TimurLaut KEEROM-PAPUA"
-  },
-  {
-    "waktu": "24-10-21 06:34:22 WIB",
-    "lintang": "-4.91",
-    "bujur": "101.80",
-    "magnitudo": "5.4",
-    "kedalaman": "11 Km",
-    "wilayah": "71 km BaratLaut ENGGANO-BENGKULU"
   }
 ]
