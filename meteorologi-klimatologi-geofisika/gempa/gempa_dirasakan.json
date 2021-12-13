@@ -11,6 +11,17 @@
     ]
   },
   {
+    "waktu": "12/12/2021 23:54:27 WIB",
+    "lintang": "6.95 LS",
+    "bujur": "129.15 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "191 Km",
+    "wilayah": "Pusat gempa berada di laut 95 km Timurlaut Tiakur",
+    "warning": [
+      "III Damer"
+    ]
+  },
+  {
     "waktu": "12/12/2021 07:03:01 WIB",
     "lintang": "2.94 LS",
     "bujur": "118.82 BT",
@@ -227,17 +238,6 @@
     "warning": [
       "III Jayapura",
       "III Sentani"
-    ]
-  },
-  {
-    "waktu": "27/11/2021 13:01:54 WIB",
-    "lintang": "4.67 LU",
-    "bujur": "126.42 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "57 Km",
-    "wilayah": "Pusat gempa berada di laut 79 km Baratlaut Melonguane",
-    "warning": [
-      "II Tahuna"
     ]
   }
 ]
