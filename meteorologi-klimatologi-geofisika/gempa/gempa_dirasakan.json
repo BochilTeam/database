@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "14/12/2021 10:20:22 WIB",
+    "lintang": "7.59 LS",
+    "bujur": "122.26 BT",
+    "magnitudo": "7.5",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 112 km BaratLaut Larantuka",
+    "warning": [
+      "IV Ruteng",
+      "IV Labuan Bajo",
+      "IV Larantuka",
+      "IV Maumere",
+      "IV Adonara",
+      "IV Lembata",
+      "III Tambolaka",
+      "III Waikabubak",
+      "III Waingapu",
+      "II-III Makassar",
+      "II-III Takalar",
+      "II-III Pangkep"
+    ]
+  },
+  {
     "waktu": "13/12/2021 12:46:56 WIB",
     "lintang": "9.81 LS",
     "bujur": "113.67 BT",
@@ -231,18 +253,6 @@
       "II-III Padang",
       "II Pariaman",
       "I Padang Panjang"
-    ]
-  },
-  {
-    "waktu": "29/11/2021 16:07:49 WIB",
-    "lintang": "2.28 LS",
-    "bujur": "104.14 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 54 km Timur Laut Musi Banyuasin",
-    "warning": [
-      "II-III Jambi",
-      "III-IV Musi Banyuasin"
     ]
   }
 ]
