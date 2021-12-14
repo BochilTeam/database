@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "14/12/2021 15:31:31 WIB",
+    "lintang": "7.59 LS",
+    "bujur": "122.4 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 201 km BaratLaut Larantuka",
+    "warning": [
+      "III Larantuka",
+      "II ende",
+      "II Maumere"
+    ]
+  },
+  {
     "waktu": "14/12/2021 10:20:22 WIB",
     "lintang": "7.59 LS",
     "bujur": "122.26 BT",
@@ -240,19 +253,6 @@
     "wilayah": "Pusat gempa berada di laut 117 km BaratDaya Tanggamus",
     "warning": [
       "II Semaka"
-    ]
-  },
-  {
-    "waktu": "29/11/2021 22:25:44 WIB",
-    "lintang": "1.25 LS",
-    "bujur": "99.79 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di laut 72 km Barat Daya Padang",
-    "warning": [
-      "II-III Padang",
-      "II Pariaman",
-      "I Padang Panjang"
     ]
   }
 ]
