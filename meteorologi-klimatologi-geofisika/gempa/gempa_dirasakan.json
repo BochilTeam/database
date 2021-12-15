@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/12/2021 22:27:37 WIB",
+    "lintang": "8.3 LS",
+    "bujur": "122.98 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km Timur Laut Larantuka",
+    "warning": [
+      "II Larantuka"
+    ]
+  },
+  {
     "waktu": "15/12/2021 17:27:47 WIB",
     "lintang": "9.71 LS",
     "bujur": "119.44 BT",
@@ -237,17 +248,6 @@
     "warning": [
       "2 Pengalengan",
       "2 Kertasari"
-    ]
-  },
-  {
-    "waktu": "02/12/2021 10:28:20 WIB",
-    "lintang": "7.21 LS",
-    "bujur": "106.1 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 63 km barat daya Lebak",
-    "warning": [
-      "I Bayah"
     ]
   }
 ]
