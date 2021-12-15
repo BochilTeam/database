@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "15/12/2021 11:53:11 WIB",
+    "lintang": "7.88 LS",
+    "bujur": "121.63 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 95 km Timur Laut Mbay-Nagekeo",
+    "warning": [
+      "III-IV Larantuka",
+      "III  Selayar",
+      "II-III Ende"
+    ]
+  },
+  {
     "waktu": "14/12/2021 15:31:31 WIB",
     "lintang": "7.59 LS",
     "bujur": "122.4 BT",
@@ -242,17 +255,6 @@
       "III Cikajang",
       "III Samarang",
       "III Ciparay"
-    ]
-  },
-  {
-    "waktu": "30/11/2021 06:03:17 WIB",
-    "lintang": "6.51 LS",
-    "bujur": "104.45 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 117 km BaratDaya Tanggamus",
-    "warning": [
-      "II Semaka"
     ]
   }
 ]
