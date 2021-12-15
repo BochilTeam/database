@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "15/12/2021 23:12:41 WIB",
+    "lintang": "8.31 LS",
+    "bujur": "116.94 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 13 Barat Laut Pulau Sarang",
+    "warning": [
+      "III Lombok Utara",
+      "III Lombok Timur",
+      "III Sumbawa"
+    ]
+  },
+  {
     "waktu": "15/12/2021 22:27:37 WIB",
     "lintang": "8.3 LS",
     "bujur": "122.98 BT",
@@ -236,18 +249,6 @@
       "III Bitung",
       "III Morotai",
       "II Tobelo"
-    ]
-  },
-  {
-    "waktu": "04/12/2021 14:00:29 WIB",
-    "lintang": "7.25 LS",
-    "bujur": "107.6 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 26 km Tenggara Kab.Bandung",
-    "warning": [
-      "2 Pengalengan",
-      "2 Kertasari"
     ]
   }
 ]
