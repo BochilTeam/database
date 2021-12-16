@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "16-12-21 18:03:31 WIB",
+    "lintang": "-6.21",
+    "bujur": "128.00",
+    "magnitudo": "5.3",
+    "kedalaman": "385 Km",
+    "wilayah": "217 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
+    "waktu": "16-12-21 18:03:31 WIB",
+    "lintang": "-6.21",
+    "bujur": "128.00",
+    "magnitudo": "5.3",
+    "kedalaman": "385 Km",
+    "wilayah": "217 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "16-12-21 11:26:08 WIB",
     "lintang": "-6.95",
     "bujur": "128.64",
@@ -222,21 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "11 Km",
     "wilayah": "81 km TimurLaut BANGGAIKEP-SULTENG"
-  },
-  {
-    "waktu": "06-11-21 21:37:37 WIB",
-    "lintang": "-0.16",
-    "bujur": "124.35",
-    "magnitudo": "6.2",
-    "kedalaman": "20 Km",
-    "wilayah": "71 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
-  },
-  {
-    "waktu": "06-11-21 10:56:19 WIB",
-    "lintang": "-1.36",
-    "bujur": "120.48",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "30 km BaratLaut POSO-SULTENG"
   }
 ]
