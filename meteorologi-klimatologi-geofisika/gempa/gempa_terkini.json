@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16-12-21 11:26:08 WIB",
+    "lintang": "-6.95",
+    "bujur": "128.64",
+    "magnitudo": "5.6",
+    "kedalaman": "26 Km",
+    "wilayah": "163 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "16-12-21 06:01:33 WIB",
     "lintang": "-8.55",
     "bujur": "113.49",
@@ -30,14 +38,6 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "129 km BaratLaut MAUMERE-SIKKA-NTT"
-  },
-  {
-    "waktu": "14-12-21 10:20:23 WIB",
-    "lintang": "-7.59",
-    "bujur": "122.24",
-    "magnitudo": "7.4",
-    "kedalaman": "10 Km",
-    "wilayah": "113 km BaratLaut LARANTUKA-NTT"
   },
   {
     "waktu": "14-12-21 10:20:23 WIB",
