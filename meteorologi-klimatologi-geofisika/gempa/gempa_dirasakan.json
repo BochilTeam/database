@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/12/2021 21:40:20 WIB",
+    "lintang": "0.72 LS",
+    "bujur": "135.66 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km timur laut Supiori",
+    "warning": [
+      "III-IV Supiori"
+    ]
+  },
+  {
     "waktu": "16/12/2021 18:03:31 WIB",
     "lintang": "6.21 LS",
     "bujur": "128 BT",
@@ -242,18 +253,6 @@
     "kedalaman": "15 Km",
     "wilayah": "Pusat gempa berada di laut 85 km TimurLaut Bima",
     "warning": [
-      "III Bima"
-    ]
-  },
-  {
-    "waktu": "06/12/2021 09:39:55 WIB",
-    "lintang": "8.72 LS",
-    "bujur": "118.36 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 23 Km Barat Daya Dompu",
-    "warning": [
-      "III Dompu",
       "III Bima"
     ]
   }
