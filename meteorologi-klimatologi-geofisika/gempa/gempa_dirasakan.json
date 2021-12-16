@@ -1,5 +1,24 @@
 [
   {
+    "waktu": "16/12/2021 06:01:33 WIB",
+    "lintang": "8.55 LS",
+    "bujur": "113.49 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 42 km baratdaya Jember",
+    "warning": [
+      "III Denpasar",
+      "III Kuta",
+      "III Legian",
+      "II-III Banyuwangi",
+      "II Jimbaran",
+      "II Puger",
+      "II Karangkates",
+      "I-II Lumajang",
+      "I-II Bondowoso"
+    ]
+  },
+  {
     "waktu": "15/12/2021 23:12:41 WIB",
     "lintang": "8.31 LS",
     "bujur": "116.94 BT",
@@ -236,19 +255,6 @@
     "warning": [
       "II-III Jayapura",
       "II Sentani"
-    ]
-  },
-  {
-    "waktu": "05/12/2021 06:47:58 WIB",
-    "lintang": "3.99 LU",
-    "bujur": "128 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "156 Km",
-    "wilayah": "Pusat gempa berada di laut 147 km tenggara Melonguane",
-    "warning": [
-      "III Bitung",
-      "III Morotai",
-      "II Tobelo"
     ]
   }
 ]

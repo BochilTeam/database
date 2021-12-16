@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16-12-21 06:01:33 WIB",
+    "lintang": "-8.55",
+    "bujur": "113.49",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "42 km BaratDaya JEMBER-JATIM"
+  },
+  {
     "waktu": "14-12-21 15:57:34 WIB",
     "lintang": "-7.70",
     "bujur": "122.03",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 Km",
     "wilayah": "30 km BaratLaut POSO-SULTENG"
-  },
-  {
-    "waktu": "04-11-21 09:42:44 WIB",
-    "lintang": "-2.81",
-    "bujur": "129.34",
-    "magnitudo": "5.9",
-    "kedalaman": "10 Km",
-    "wilayah": "69 km TimurLaut MALUKUTENGAH"
   }
 ]
