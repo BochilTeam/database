@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/12/2021 18:03:31 WIB",
+    "lintang": "6.21 LS",
+    "bujur": "128 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "385 Km",
+    "wilayah": "Pusat gempa berada di laut 210 km Timurlaut Maluku Baratdaya",
+    "warning": [
+      "IV Damer"
+    ]
+  },
+  {
     "waktu": "16/12/2021 11:26:08 WIB",
     "lintang": "6.95 LS",
     "bujur": "128.64 BT",
@@ -244,17 +255,6 @@
     "warning": [
       "III Dompu",
       "III Bima"
-    ]
-  },
-  {
-    "waktu": "05/12/2021 12:19:49 WIB",
-    "lintang": "3.46 LS",
-    "bujur": "129.47 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 9 km Selatan Tehoru-Maluku Tengah",
-    "warning": [
-      "III Masohi"
     ]
   }
 ]
