@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "17/12/2021 07:40:31 WIB",
+    "lintang": "0.82 LS",
+    "bujur": "121.51 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 10 km Barat Laut Ampana",
+    "warning": [
+      "III Ampana"
+    ]
+  },
+  {
+    "waktu": "17/12/2021 03:12:44 WIB",
+    "lintang": "7.26 LS",
+    "bujur": "121.11 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 127 km tenggara Selayar",
+    "warning": [
+      "II-III Pasir Lambena"
+    ]
+  },
+  {
     "waktu": "16/12/2021 21:40:20 WIB",
     "lintang": "0.72 LS",
     "bujur": "135.66 BT",
@@ -232,28 +254,6 @@
       "III Cirata",
       "III Maniis",
       "II Purwakarta"
-    ]
-  },
-  {
-    "waktu": "07/12/2021 18:18:23 WIB",
-    "lintang": "7.24 LS",
-    "bujur": "107.64 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km Tenggara Bandung",
-    "warning": [
-      "II Pengalengan"
-    ]
-  },
-  {
-    "waktu": "06/12/2021 21:24:11 WIB",
-    "lintang": "7.74 LS",
-    "bujur": "119.03 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 85 km TimurLaut Bima",
-    "warning": [
-      "III Bima"
     ]
   }
 ]
