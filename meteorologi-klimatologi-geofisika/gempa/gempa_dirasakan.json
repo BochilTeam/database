@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "17/12/2021 21:38:36 WIB",
+    "lintang": "1.06 LU",
+    "bujur": "97.82 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km Tenggara Nias",
+    "warning": [
+      "II-III Gunungsitoli",
+      "II-III Kabupaten Nias",
+      "II-III Kabupaten Nias Barat"
+    ]
+  },
+  {
     "waktu": "17/12/2021 07:40:31 WIB",
     "lintang": "0.82 LS",
     "bujur": "121.51 BT",
@@ -240,20 +253,6 @@
       "III Kotamobagu",
       "II-III Wakai",
       "III Gorontalo"
-    ]
-  },
-  {
-    "waktu": "08/12/2021 05:18:33 WIB",
-    "lintang": "6.71 LS",
-    "bujur": "107.35 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 18 km Barat Daya Purwakarta",
-    "warning": [
-      "III Cipeundeuy",
-      "III Cirata",
-      "III Maniis",
-      "II Purwakarta"
     ]
   }
 ]
