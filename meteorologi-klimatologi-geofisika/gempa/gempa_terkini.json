@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19-12-21 01:26:01 WIB",
+    "lintang": "-0.63",
+    "bujur": "131.49",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "35 km TimurLaut KOTA-SORONG-PAPUABRT"
+  },
+  {
     "waktu": "16-12-21 18:03:31 WIB",
     "lintang": "-6.21",
     "bujur": "128.00",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "85 km BaratDaya MUARABINUANGEUN-BANTEN"
-  },
-  {
-    "waktu": "08-11-21 12:05:59 WIB",
-    "lintang": "-0.79",
-    "bujur": "123.55",
-    "magnitudo": "5.3",
-    "kedalaman": "11 Km",
-    "wilayah": "81 km TimurLaut BANGGAIKEP-SULTENG"
   }
 ]
