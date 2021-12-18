@@ -1,5 +1,52 @@
 [
   {
+    "waktu": "19/12/2021 03:27:32 WIB",
+    "lintang": "8.03 LS",
+    "bujur": "122.42 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 68 km Barat Laut Larantuka",
+    "warning": [
+      "II-III Larantuka"
+    ]
+  },
+  {
+    "waktu": "19/12/2021 02:26:16 WIB",
+    "lintang": "0.63 LS",
+    "bujur": "131.51 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di laut 37 km Timur Laut Kota Sorong",
+    "warning": [
+      "II-III Sorong"
+    ]
+  },
+  {
+    "waktu": "19/12/2021 02:06:05 WIB",
+    "lintang": "0.64 LS",
+    "bujur": "131.48 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 36 km Timur Laut Kota Sorong",
+    "warning": [
+      "III Sorong"
+    ]
+  },
+  {
+    "waktu": "19/12/2021 01:26:01 WIB",
+    "lintang": "0.63 LS",
+    "bujur": "131.49 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 35 km Timur Laut Kota Sorong",
+    "warning": [
+      "IV Sorong",
+      "IV Sorong Selatan",
+      "III Raja Ampat",
+      "II-III Tambrauw"
+    ]
+  },
+  {
     "waktu": "18/12/2021 23:30:50 WIB",
     "lintang": "3.92 LS",
     "bujur": "133.56 BT",
@@ -188,69 +235,6 @@
       "III-IV Larantuka",
       "III  Selayar",
       "II-III Ende"
-    ]
-  },
-  {
-    "waktu": "14/12/2021 15:31:31 WIB",
-    "lintang": "7.59 LS",
-    "bujur": "122.4 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 201 km BaratLaut Larantuka",
-    "warning": [
-      "III Larantuka",
-      "II ende",
-      "II Maumere"
-    ]
-  },
-  {
-    "waktu": "14/12/2021 10:20:22 WIB",
-    "lintang": "7.59 LS",
-    "bujur": "122.26 BT",
-    "magnitudo": "7.5",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 112 km BaratLaut Larantuka",
-    "warning": [
-      "IV Ruteng",
-      "IV Labuan Bajo",
-      "IV Larantuka",
-      "IV Maumere",
-      "IV Adonara",
-      "IV Lembata",
-      "III Tambolaka",
-      "III Waikabubak",
-      "III Waingapu",
-      "II-III Makassar",
-      "II-III Takalar",
-      "II-III Pangkep"
-    ]
-  },
-  {
-    "waktu": "13/12/2021 12:46:56 WIB",
-    "lintang": "9.81 LS",
-    "bujur": "113.67 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 179 km Tenggara Jember",
-    "warning": [
-      "III Kuta",
-      "II Denpasar",
-      "II Kuta Utara",
-      "II Karangasem",
-      "II Pacitan",
-      "II Trenggalek",
-      "II Lumajang"
-    ]
-  },
-  {
-    "waktu": "13/12/2021 05:36:58 WIB",
-    "lintang": "4.18 LS",
-    "bujur": "101.22 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 123 km BaratDaya BENGKULU",
-    "warning": [
-      "II Kota Bengkulu"
     ]
   }
 ]
