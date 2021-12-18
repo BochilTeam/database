@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/12/2021 23:30:50 WIB",
+    "lintang": "3.92 LS",
+    "bujur": "133.56 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 36 km Barat Daya Kaimana",
+    "warning": [
+      "III Kaimana"
+    ]
+  },
+  {
     "waktu": "18/12/2021 08:12:31 WIB",
     "lintang": "4.03 LS",
     "bujur": "122.59 BT",
@@ -240,17 +251,6 @@
     "wilayah": "Pusat gempa berada di laut 123 km BaratDaya BENGKULU",
     "warning": [
       "II Kota Bengkulu"
-    ]
-  },
-  {
-    "waktu": "12/12/2021 23:54:27 WIB",
-    "lintang": "6.95 LS",
-    "bujur": "129.15 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "191 Km",
-    "wilayah": "Pusat gempa berada di laut 95 km Timurlaut Tiakur",
-    "warning": [
-      "III Damer"
     ]
   }
 ]
