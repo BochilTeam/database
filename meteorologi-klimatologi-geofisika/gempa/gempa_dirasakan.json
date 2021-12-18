@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "18/12/2021 06:56:53 WIB",
+    "lintang": "8.29 LS",
+    "bujur": "115.62 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 12 km TimurLaut Karangasem",
+    "warning": [
+      "II Karangasem"
+    ]
+  },
+  {
+    "waktu": "18/12/2021 05:59:55 WIB",
+    "lintang": "8.29 LS",
+    "bujur": "115.65 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 15 km TimurLaut Karangasem",
+    "warning": [
+      "II Karangasem"
+    ]
+  },
+  {
     "waktu": "17/12/2021 21:38:36 WIB",
     "lintang": "1.06 LU",
     "bujur": "97.82 BT",
@@ -229,30 +251,6 @@
     "wilayah": "Pusat gempa berada di laut 13 km TimurLaut Majene",
     "warning": [
       "III Mekkatta"
-    ]
-  },
-  {
-    "waktu": "12/12/2021 06:33:28 WIB",
-    "lintang": "2.92 LS",
-    "bujur": "118.93 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km TimurLaut Majene",
-    "warning": [
-      "II-III Mekkatta"
-    ]
-  },
-  {
-    "waktu": "11/12/2021 01:39:20 WIB",
-    "lintang": "0.1 LS",
-    "bujur": "122.96 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "141 Km",
-    "wilayah": "Pusat gempa berada di laut 72 km barat daya Gorontalo",
-    "warning": [
-      "III Kotamobagu",
-      "II-III Wakai",
-      "III Gorontalo"
     ]
   }
 ]
