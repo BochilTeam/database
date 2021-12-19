@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "19/12/2021 22:49:54 WIB",
+    "lintang": "8.17 LS",
+    "bujur": "116.48 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km timur laut Lombok Utara",
+    "warning": [
+      "III Lombok Utara",
+      "II Mataram"
+    ]
+  },
+  {
+    "waktu": "19/12/2021 21:34:57 WIB",
+    "lintang": "4.59 LU",
+    "bujur": "96.4 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 40 km timur laut Kab Nagan Raya",
+    "warning": [
+      "II Takengon - Aceh Tengah"
+    ]
+  },
+  {
     "waktu": "19/12/2021 13:58:00 WIB",
     "lintang": "0.62 LS",
     "bujur": "131.53 BT",
@@ -202,38 +225,6 @@
     "wilayah": "Pusat gempa berada di darat 16 km barat laut Tana Toraja",
     "warning": [
       "II Toraja"
-    ]
-  },
-  {
-    "waktu": "16/12/2021 06:01:33 WIB",
-    "lintang": "8.55 LS",
-    "bujur": "113.49 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 42 km baratdaya Jember",
-    "warning": [
-      "III Denpasar",
-      "III Kuta",
-      "III Legian",
-      "II-III Banyuwangi",
-      "II Jimbaran",
-      "II Puger",
-      "II Karangkates",
-      "I-II Lumajang",
-      "I-II Bondowoso"
-    ]
-  },
-  {
-    "waktu": "15/12/2021 23:12:41 WIB",
-    "lintang": "8.31 LS",
-    "bujur": "116.94 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 13 Barat Laut Pulau Sarang",
-    "warning": [
-      "III Lombok Utara",
-      "III Lombok Timur",
-      "III Sumbawa"
     ]
   }
 ]
