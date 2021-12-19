@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "19/12/2021 06:36:58 WIB",
+    "lintang": "0.69 LS",
+    "bujur": "131.49 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 30 km Timur Laut Kota Sorong",
+    "warning": [
+      "III Sorong"
+    ]
+  },
+  {
     "waktu": "19/12/2021 03:27:32 WIB",
     "lintang": "8.03 LS",
     "bujur": "122.42 BT",
@@ -7,7 +18,8 @@
     "kedalaman": "11 Km",
     "wilayah": "Pusat gempa berada di laut 68 km Barat Laut Larantuka",
     "warning": [
-      "II-III Larantuka"
+      "II-III Larantuka",
+      "II Maumere"
     ]
   },
   {
@@ -222,19 +234,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km Tenggara Waikabubak",
     "warning": [
       "II-III Sumba"
-    ]
-  },
-  {
-    "waktu": "15/12/2021 11:53:11 WIB",
-    "lintang": "7.88 LS",
-    "bujur": "121.63 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 95 km Timur Laut Mbay-Nagekeo",
-    "warning": [
-      "III-IV Larantuka",
-      "III  Selayar",
-      "II-III Ende"
     ]
   }
 ]
