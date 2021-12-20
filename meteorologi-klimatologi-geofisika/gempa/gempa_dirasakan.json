@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/12/2021 07:41:30 WIB",
+    "lintang": "6.99 LS",
+    "bujur": "107.16 BT",
+    "magnitudo": "3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km Tenggara Kab. Cianjur",
+    "warning": [
+      "II Cibeber"
+    ]
+  },
+  {
     "waktu": "20/12/2021 05:07:18 WIB",
     "lintang": "7.37 LS",
     "bujur": "121.86 BT",
@@ -213,17 +224,6 @@
     "wilayah": "Pusat gempa berada di darat 3 km timur laut Supiori",
     "warning": [
       "III-IV Supiori"
-    ]
-  },
-  {
-    "waktu": "16/12/2021 18:03:31 WIB",
-    "lintang": "6.21 LS",
-    "bujur": "128 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "385 Km",
-    "wilayah": "Pusat gempa berada di laut 210 km Timurlaut Maluku Baratdaya",
-    "warning": [
-      "IV Damer"
     ]
   }
 ]
