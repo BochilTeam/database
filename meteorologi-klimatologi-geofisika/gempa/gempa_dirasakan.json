@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/12/2021 11:17:48 WIB",
+    "lintang": "7.79 LS",
+    "bujur": "120.34 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di laut 92 km barat laut Ruteng",
+    "warning": [
+      "II-III Ruteng"
+    ]
+  },
+  {
     "waktu": "20/12/2021 07:41:30 WIB",
     "lintang": "6.99 LS",
     "bujur": "107.16 BT",
@@ -213,17 +224,6 @@
     "wilayah": "Pusat gempa berada di laut 127 km tenggara Selayar",
     "warning": [
       "II-III Pasir Lambena"
-    ]
-  },
-  {
-    "waktu": "16/12/2021 21:40:20 WIB",
-    "lintang": "0.72 LS",
-    "bujur": "135.66 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km timur laut Supiori",
-    "warning": [
-      "III-IV Supiori"
     ]
   }
 ]
