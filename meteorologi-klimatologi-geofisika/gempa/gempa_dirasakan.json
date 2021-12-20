@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "20/12/2021 05:07:18 WIB",
+    "lintang": "7.37 LS",
+    "bujur": "121.86 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di 144 km baratlaut Maumere",
+    "warning": [
+      "II Pulau Kalaota"
+    ]
+  },
+  {
+    "waktu": "20/12/2021 05:01:32 WIB",
+    "lintang": "7.43 LS",
+    "bujur": "121.88 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 137 km Baratlaut Maumere",
+    "warning": [
+      "II Pulau Kalaota"
+    ]
+  },
+  {
     "waktu": "19/12/2021 22:49:54 WIB",
     "lintang": "8.17 LS",
     "bujur": "116.48 BT",
@@ -202,29 +224,6 @@
     "wilayah": "Pusat gempa berada di laut 210 km Timurlaut Maluku Baratdaya",
     "warning": [
       "IV Damer"
-    ]
-  },
-  {
-    "waktu": "16/12/2021 11:26:08 WIB",
-    "lintang": "6.95 LS",
-    "bujur": "128.64 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "26 Km",
-    "wilayah": "Pusat gempa berada di laut 134km Baratlaut Tepa-Maluku Barat Daya",
-    "warning": [
-      "IV-V Damer",
-      "II-III Tepa"
-    ]
-  },
-  {
-    "waktu": "16/12/2021 09:09:44 WIB",
-    "lintang": "2.94 LS",
-    "bujur": "119.68 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km barat laut Tana Toraja",
-    "warning": [
-      "II Toraja"
     ]
   }
 ]
