@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/12/2021 18:14:58 WIB",
+    "lintang": "7.26 LS",
+    "bujur": "121.12 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 127 km Tenggara Selayar",
+    "warning": [
+      "II-III Bonerate"
+    ]
+  },
+  {
     "waktu": "21/12/2021 11:31:29 WIB",
     "lintang": "7.27 LS",
     "bujur": "107.55 BT",
@@ -212,19 +223,6 @@
     "wilayah": "Pusat gempa berada di laut 15 km TimurLaut Karangasem",
     "warning": [
       "II Karangasem"
-    ]
-  },
-  {
-    "waktu": "17/12/2021 21:38:36 WIB",
-    "lintang": "1.06 LU",
-    "bujur": "97.82 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km Tenggara Nias",
-    "warning": [
-      "II-III Gunungsitoli",
-      "II-III Kabupaten Nias",
-      "II-III Kabupaten Nias Barat"
     ]
   }
 ]
