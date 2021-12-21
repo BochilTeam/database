@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "21/12/2021 11:31:29 WIB",
+    "lintang": "7.27 LS",
+    "bujur": "107.55 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km Tenggara Kab. Bandung",
+    "warning": [
+      "II Talegong",
+      "II Pangalengan"
+    ]
+  },
+  {
     "waktu": "20/12/2021 21:41:50 WIB",
     "lintang": "2.58 LU",
     "bujur": "98.86 BT",
@@ -213,17 +225,6 @@
       "II-III Gunungsitoli",
       "II-III Kabupaten Nias",
       "II-III Kabupaten Nias Barat"
-    ]
-  },
-  {
-    "waktu": "17/12/2021 07:40:31 WIB",
-    "lintang": "0.82 LS",
-    "bujur": "121.51 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 10 km Barat Laut Ampana",
-    "warning": [
-      "III Ampana"
     ]
   }
 ]
