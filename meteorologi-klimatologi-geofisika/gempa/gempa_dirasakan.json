@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/12/2021 09:54:54 WIB",
+    "lintang": "8.36 LS",
+    "bujur": "117.5 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km timur laut Sumbawa",
+    "warning": [
+      "III-IV Sumbawa"
+    ]
+  },
+  {
     "waktu": "21/12/2021 18:14:58 WIB",
     "lintang": "7.26 LS",
     "bujur": "121.12 BT",
@@ -210,17 +221,6 @@
     "magnitudo": "3.2",
     "kedalaman": "14 Km",
     "wilayah": "Pusat gempa berada di laut 12 km TimurLaut Karangasem",
-    "warning": [
-      "II Karangasem"
-    ]
-  },
-  {
-    "waktu": "18/12/2021 05:59:55 WIB",
-    "lintang": "8.29 LS",
-    "bujur": "115.65 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 15 km TimurLaut Karangasem",
     "warning": [
       "II Karangasem"
     ]
