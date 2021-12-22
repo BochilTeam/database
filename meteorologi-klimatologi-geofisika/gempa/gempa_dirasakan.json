@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "22/12/2021 21:35:09 WIB",
+    "lintang": "0.66 LS",
+    "bujur": "131.55 BT",
+    "magnitudo": "4",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 38 km Timur Laut Kota Sorong",
+    "warning": [
+      "III Sorong"
+    ]
+  },
+  {
+    "waktu": "22/12/2021 21:33:06 WIB",
+    "lintang": "0.65 LS",
+    "bujur": "131.54 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 37 km Timur Laut Kota Sorong",
+    "warning": [
+      "III Sorong"
+    ]
+  },
+  {
     "waktu": "22/12/2021 09:54:54 WIB",
     "lintang": "8.36 LS",
     "bujur": "117.5 BT",
@@ -201,28 +223,6 @@
     "wilayah": "Pusat gempa berada di laut 36 km Barat Daya Kaimana",
     "warning": [
       "III Kaimana"
-    ]
-  },
-  {
-    "waktu": "18/12/2021 08:12:31 WIB",
-    "lintang": "4.03 LS",
-    "bujur": "122.59 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 4km Barataya Abeli-Kendari",
-    "warning": [
-      "II-III Kendari"
-    ]
-  },
-  {
-    "waktu": "18/12/2021 06:56:53 WIB",
-    "lintang": "8.29 LS",
-    "bujur": "115.62 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 12 km TimurLaut Karangasem",
-    "warning": [
-      "II Karangasem"
     ]
   }
 ]
