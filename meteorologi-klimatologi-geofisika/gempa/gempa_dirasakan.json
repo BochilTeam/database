@@ -1,5 +1,53 @@
 [
   {
+    "waktu": "23/12/2021 14:44:18 WIB",
+    "lintang": "8.24 LS",
+    "bujur": "116.47 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 36 km TimurLaut Lombok Utara",
+    "warning": [
+      "III Lombok Utara",
+      "III Lombok Timur",
+      "II Mataram"
+    ]
+  },
+  {
+    "waktu": "23/12/2021 13:33:59 WIB",
+    "lintang": "7.02 LS",
+    "bujur": "105.49 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km barat daya Sumur",
+    "warning": [
+      "III Sumur",
+      "III Pandeglang",
+      "III Labuan",
+      "III Muarabinuangeun",
+      "III Bayah",
+      "III Wanasalam",
+      "III Malingping",
+      "III Cimanyangray",
+      "III Rangkasbitung",
+      "II Sukabumi",
+      "II Pelabuhanratu",
+      "II Cipamingkis",
+      "II Ujung Genteng",
+      "II Panimbang"
+    ]
+  },
+  {
+    "waktu": "23/12/2021 11:13:18 WIB",
+    "lintang": "0.66 LS",
+    "bujur": "131.58 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di Laut 40 km TimurLaut Kota Sorong",
+    "warning": [
+      "III Sorong"
+    ]
+  },
+  {
     "waktu": "22/12/2021 21:35:09 WIB",
     "lintang": "0.66 LS",
     "bujur": "131.55 BT",
@@ -187,42 +235,6 @@
     "wilayah": "Pusat gempa berada di laut 37 km Timur Laut Kota Sorong",
     "warning": [
       "II-III Sorong"
-    ]
-  },
-  {
-    "waktu": "19/12/2021 02:06:05 WIB",
-    "lintang": "0.64 LS",
-    "bujur": "131.48 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di laut 36 km Timur Laut Kota Sorong",
-    "warning": [
-      "III Sorong"
-    ]
-  },
-  {
-    "waktu": "19/12/2021 01:26:01 WIB",
-    "lintang": "0.63 LS",
-    "bujur": "131.49 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 35 km Timur Laut Kota Sorong",
-    "warning": [
-      "IV Sorong",
-      "IV Sorong Selatan",
-      "III Raja Ampat",
-      "II-III Tambrauw"
-    ]
-  },
-  {
-    "waktu": "18/12/2021 23:30:50 WIB",
-    "lintang": "3.92 LS",
-    "bujur": "133.56 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 36 km Barat Daya Kaimana",
-    "warning": [
-      "III Kaimana"
     ]
   }
 ]
