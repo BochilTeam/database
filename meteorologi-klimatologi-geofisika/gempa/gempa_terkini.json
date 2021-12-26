@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26-12-21 22:01:31 WIB",
+    "lintang": "-0.06",
+    "bujur": "123.49",
+    "magnitudo": "5.5",
+    "kedalaman": "90 Km",
+    "wilayah": "73 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
+  },
+  {
     "waktu": "26-12-21 09:22:53 WIB",
     "lintang": "2.21",
     "bujur": "126.79",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "65 Km",
     "wilayah": "41 km Tenggara TAPANULITENGAH-SUMUT"
-  },
-  {
-    "waktu": "11-11-21 00:46:41 WIB",
-    "lintang": "-4.29",
-    "bujur": "134.21",
-    "magnitudo": "6.1",
-    "kedalaman": "14 Km",
-    "wilayah": "115 km Tenggara KAIMANA-PAPUABRT"
   }
 ]

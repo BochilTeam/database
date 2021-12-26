@@ -1,5 +1,33 @@
 [
   {
+    "waktu": "26/12/2021 22:01:31 WIB",
+    "lintang": "0.06 LS",
+    "bujur": "123.49 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "90 Km",
+    "wilayah": "Pusat gempa berada di laut 73 Bolaang Mongondow Selatan",
+    "warning": [
+      "III Kotamobagu",
+      "II-III Gorontalo",
+      "II-III Luwuk",
+      "II-III Malili",
+      "II Poso",
+      "II Morowali"
+    ]
+  },
+  {
+    "waktu": "26/12/2021 21:09:13 WIB",
+    "lintang": "4.57 LS",
+    "bujur": "102.09 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 77 km barat daya Seluma",
+    "warning": [
+      "II Arga Makmur",
+      "II Kota Bengkulu"
+    ]
+  },
+  {
     "waktu": "26/12/2021 04:48:55 WIB",
     "lintang": "2.69 LS",
     "bujur": "129.39 BT",
@@ -212,28 +240,6 @@
     "wilayah": "Pusat gempa berada di darat 40 km timur laut Kab Nagan Raya",
     "warning": [
       "II Takengon - Aceh Tengah"
-    ]
-  },
-  {
-    "waktu": "19/12/2021 13:58:00 WIB",
-    "lintang": "0.62 LS",
-    "bujur": "131.53 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 39 km TimurLaut Kota Sorong",
-    "warning": [
-      "II Sorong"
-    ]
-  },
-  {
-    "waktu": "19/12/2021 13:48:10 WIB",
-    "lintang": "0.66 LS",
-    "bujur": "131.53 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 35 km TimurLaut Kota Sorong",
-    "warning": [
-      "III Kota Sorong"
     ]
   }
 ]
