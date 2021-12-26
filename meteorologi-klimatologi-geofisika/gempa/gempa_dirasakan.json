@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/12/2021 04:48:55 WIB",
+    "lintang": "2.69 LS",
+    "bujur": "129.39 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 17 km baratlaut Wahai",
+    "warning": [
+      "III Wahai"
+    ]
+  },
+  {
     "waktu": "24/12/2021 20:19:13 WIB",
     "lintang": "1.17 LS",
     "bujur": "126.84 BT",
@@ -223,17 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 35 km TimurLaut Kota Sorong",
     "warning": [
       "III Kota Sorong"
-    ]
-  },
-  {
-    "waktu": "19/12/2021 06:36:58 WIB",
-    "lintang": "0.69 LS",
-    "bujur": "131.49 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 30 km Timur Laut Kota Sorong",
-    "warning": [
-      "III Sorong"
     ]
   }
 ]
