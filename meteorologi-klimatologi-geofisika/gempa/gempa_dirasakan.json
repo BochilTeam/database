@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "27/12/2021 15:32:19 WIB",
+    "lintang": "6.72 LS",
+    "bujur": "104.24 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 146 km Barat Daya Tanggamus",
+    "warning": [
+      "II Liwa",
+      "II Panjang",
+      "II Panimbang",
+      "II Labuan"
+    ]
+  },
+  {
     "waktu": "26/12/2021 22:01:31 WIB",
     "lintang": "0.06 LS",
     "bujur": "123.49 BT",
@@ -229,17 +243,6 @@
     "warning": [
       "III Lombok Utara",
       "II Mataram"
-    ]
-  },
-  {
-    "waktu": "19/12/2021 21:34:57 WIB",
-    "lintang": "4.59 LU",
-    "bujur": "96.4 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 40 km timur laut Kab Nagan Raya",
-    "warning": [
-      "II Takengon - Aceh Tengah"
     ]
   }
 ]

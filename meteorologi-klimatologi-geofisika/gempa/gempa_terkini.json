@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27-12-21 15:32:19 WIB",
+    "lintang": "-6.72",
+    "bujur": "104.24",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "146 km BaratDaya TANGGAMUS-LAMPUNG"
+  },
+  {
     "waktu": "26-12-21 22:01:31 WIB",
     "lintang": "-0.06",
     "bujur": "123.49",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "118 Km",
     "wilayah": "53 km BaratLaut HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "12-11-21 17:44:18 WIB",
-    "lintang": "1.32",
-    "bujur": "98.84",
-    "magnitudo": "5.1",
-    "kedalaman": "65 Km",
-    "wilayah": "41 km Tenggara TAPANULITENGAH-SUMUT"
   }
 ]
