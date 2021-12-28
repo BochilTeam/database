@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/12/2021 22:50:18 WIB",
+    "lintang": "3.21 LS",
+    "bujur": "135.21 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 69 km BaratLaut Nabire",
+    "warning": [
+      "II Nabire"
+    ]
+  },
+  {
     "waktu": "27/12/2021 15:32:19 WIB",
     "lintang": "6.72 LS",
     "bujur": "104.24 BT",
@@ -231,18 +242,6 @@
     "wilayah": "Pusat gempa berada di laut 137 km Baratlaut Maumere",
     "warning": [
       "II Pulau Kalaota"
-    ]
-  },
-  {
-    "waktu": "19/12/2021 22:49:54 WIB",
-    "lintang": "8.17 LS",
-    "bujur": "116.48 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 41 km timur laut Lombok Utara",
-    "warning": [
-      "III Lombok Utara",
-      "II Mataram"
     ]
   }
 ]
