@@ -2,80 +2,80 @@
   {
     "mata_uang": "AUD",
     "nama_mata_uang": "AUSTRALIAN DOLLAR",
-    "kurs_beli": "10.346,03",
-    "kurs_jual": "10.241,67"
+    "kurs_beli": "10.323,24",
+    "kurs_jual": "10.212,02"
   },
   {
     "mata_uang": "BND",
     "nama_mata_uang": "BRUNEI DOLLAR",
-    "kurs_beli": "10.538,42",
-    "kurs_jual": "10.427,41"
+    "kurs_beli": "10.533,55",
+    "kurs_jual": "10.423,36"
   },
   {
     "mata_uang": "CAD",
     "nama_mata_uang": "CANADIAN DOLLAR",
-    "kurs_beli": "11.142,38",
-    "kurs_jual": "11.025,49"
+    "kurs_beli": "11.147,08",
+    "kurs_jual": "11.034,44"
   },
   {
     "mata_uang": "CHF",
     "nama_mata_uang": "SWISS FRANC",
-    "kurs_beli": "15.573,34",
-    "kurs_jual": "15.404,95"
+    "kurs_beli": "15.547,72",
+    "kurs_jual": "15.391,34"
   },
   {
     "mata_uang": "CNH",
     "nama_mata_uang": "",
-    "kurs_beli": "2.242,01",
-    "kurs_jual": "2.219,21"
+    "kurs_beli": "2.243,55",
+    "kurs_jual": "2.220,77"
   },
   {
     "mata_uang": "CNY",
     "nama_mata_uang": "CHINA YUAN",
-    "kurs_beli": "2.243,94",
-    "kurs_jual": "2.221,34"
+    "kurs_beli": "2.243,76",
+    "kurs_jual": "2.221,19"
   },
   {
     "mata_uang": "DKK",
     "nama_mata_uang": "DANISH KRONE",
-    "kurs_beli": "2.178,70",
-    "kurs_jual": "2.156,69"
+    "kurs_beli": "2.174,78",
+    "kurs_jual": "2.152,81"
   },
   {
     "mata_uang": "EUR",
     "nama_mata_uang": "EURO",
-    "kurs_beli": "16.202,12",
-    "kurs_jual": "16.035,24"
+    "kurs_beli": "16.174,64",
+    "kurs_jual": "16.008,04"
   },
   {
     "mata_uang": "GBP",
     "nama_mata_uang": "BRITISH POUND",
-    "kurs_beli": "19.144,45",
-    "kurs_jual": "18.951,13"
+    "kurs_beli": "19.158,24",
+    "kurs_jual": "18.966,20"
   },
   {
     "mata_uang": "HKD",
     "nama_mata_uang": "HONGKONG DOLLAR",
-    "kurs_beli": "1.832,37",
-    "kurs_jual": "1.814,04"
+    "kurs_beli": "1.832,77",
+    "kurs_jual": "1.814,48"
   },
   {
     "mata_uang": "JPY",
     "nama_mata_uang": "JAPANESE YEN",
-    "kurs_beli": "12.493,53",
-    "kurs_jual": "12.367,05"
+    "kurs_beli": "12.471,54",
+    "kurs_jual": "12.345,29"
   },
   {
     "mata_uang": "KRW",
     "nama_mata_uang": "KOREAN WON",
-    "kurs_beli": "12,04",
-    "kurs_jual": "11,92"
+    "kurs_beli": "12,05",
+    "kurs_jual": "11,93"
   },
   {
     "mata_uang": "KWD",
     "nama_mata_uang": "KUWAITI DINAR",
-    "kurs_beli": "47.285,33",
-    "kurs_jual": "46.722,07"
+    "kurs_beli": "47.291,20",
+    "kurs_jual": "46.700,15"
   },
   {
     "mata_uang": "LAK",
@@ -86,62 +86,62 @@
   {
     "mata_uang": "MYR",
     "nama_mata_uang": "MALAYSIAN RINGGIT",
-    "kurs_beli": "3.410,53",
-    "kurs_jual": "3.371,76"
+    "kurs_beli": "3.418,49",
+    "kurs_jual": "3.382,05"
   },
   {
     "mata_uang": "NOK",
     "nama_mata_uang": "NORWEGIAN KRONE",
-    "kurs_beli": "1.622,05",
-    "kurs_jual": "1.600,70"
+    "kurs_beli": "1.607,90",
+    "kurs_jual": "1.591,52"
   },
   {
     "mata_uang": "NZD",
     "nama_mata_uang": "NEW ZEALAND DOLLAR",
-    "kurs_beli": "9.752,99",
-    "kurs_jual": "9.650,29"
+    "kurs_beli": "9.721,37",
+    "kurs_jual": "9.618,98"
   },
   {
     "mata_uang": "PGK",
     "nama_mata_uang": "PAPUA N.G. KINA",
-    "kurs_beli": "4.194,14",
-    "kurs_jual": "3.911,90"
+    "kurs_beli": "4.195,91",
+    "kurs_jual": "3.913,55"
   },
   {
     "mata_uang": "PHP",
     "nama_mata_uang": "PHILIPPINES PESO",
-    "kurs_beli": "285,69",
-    "kurs_jual": "282,73"
+    "kurs_beli": "284,64",
+    "kurs_jual": "281,64"
   },
   {
     "mata_uang": "SAR",
     "nama_mata_uang": "SAUDI ARABIAN RIYAL",
-    "kurs_beli": "3.806,02",
-    "kurs_jual": "3.767,35"
+    "kurs_beli": "3.807,23",
+    "kurs_jual": "3.768,34"
   },
   {
     "mata_uang": "SEK",
     "nama_mata_uang": "SWEDISH KRONA",
-    "kurs_beli": "1.577,73",
-    "kurs_jual": "1.559,17"
+    "kurs_beli": "1.566,54",
+    "kurs_jual": "1.550,63"
   },
   {
     "mata_uang": "SGD",
     "nama_mata_uang": "SINGAPORE DOLLAR",
-    "kurs_beli": "10.538,42",
-    "kurs_jual": "10.427,41"
+    "kurs_beli": "10.533,55",
+    "kurs_jual": "10.423,36"
   },
   {
     "mata_uang": "THB",
     "nama_mata_uang": "THAI BATH",
-    "kurs_beli": "427,34",
-    "kurs_jual": "422,83"
+    "kurs_beli": "425,99",
+    "kurs_jual": "421,50"
   },
   {
     "mata_uang": "USD",
     "nama_mata_uang": "US DOLLAR",
-    "kurs_beli": "14.290,10",
-    "kurs_jual": "14.147,91"
+    "kurs_beli": "14.296,13",
+    "kurs_jual": "14.153,88"
   },
   {
     "mata_uang": "VND",
