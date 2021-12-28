@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28-12-21 17:51:50 WIB",
+    "lintang": "-7.80",
+    "bujur": "127.60",
+    "magnitudo": "5.2",
+    "kedalaman": "174 Km",
+    "wilayah": "44 km BaratLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "27-12-21 15:32:19 WIB",
     "lintang": "-6.72",
     "bujur": "104.24",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "22 Km",
     "wilayah": "65 km BaratDaya BENGKULUUTARA"
-  },
-  {
-    "waktu": "13-11-21 20:42:51 WIB",
-    "lintang": "1.77",
-    "bujur": "127.35",
-    "magnitudo": "5.0",
-    "kedalaman": "118 Km",
-    "wilayah": "53 km BaratLaut HALMAHERABARAT-MALUT"
   }
 ]
