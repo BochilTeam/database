@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "30-12-21 02:21:13 WIB",
+    "lintang": "-7.81",
+    "bujur": "127.69",
+    "magnitudo": "5.2",
+    "kedalaman": "167 Km",
+    "wilayah": "35 km BaratLaut MALUKUBRTDAYA"
+  },
+  {
+    "waktu": "30-12-21 01:25:52 WIB",
+    "lintang": "-7.76",
+    "bujur": "127.66",
+    "magnitudo": "7.4",
+    "kedalaman": "210 Km",
+    "wilayah": "45 km BaratLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "28-12-21 17:51:50 WIB",
     "lintang": "-7.80",
     "bujur": "127.60",
@@ -222,21 +238,5 @@
     "magnitudo": "5.8",
     "kedalaman": "57 Km",
     "wilayah": "79 km BaratLaut MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "23-11-21 04:13:53 WIB",
-    "lintang": "0.36",
-    "bujur": "96.58",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "118 km BaratDaya NIASBARAT-SUMUT"
-  },
-  {
-    "waktu": "17-11-21 10:30:34 WIB",
-    "lintang": "-3.46",
-    "bujur": "101.61",
-    "magnitudo": "5.0",
-    "kedalaman": "22 Km",
-    "wilayah": "65 km BaratDaya BENGKULUUTARA"
   }
 ]

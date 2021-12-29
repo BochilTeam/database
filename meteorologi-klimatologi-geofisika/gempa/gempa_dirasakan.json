@@ -1,5 +1,39 @@
 [
   {
+    "waktu": "30/12/2021 01:25:52 WIB",
+    "lintang": "7.76 LS",
+    "bujur": "127.66 BT",
+    "magnitudo": "7.4",
+    "kedalaman": "210 Km",
+    "wilayah": "Pusat gempa berada di Laut 45 km BaratLaut Maluku Barat Daya",
+    "warning": [
+      "V-VI Tiakur",
+      "IV-V Tepa",
+      "IV Saumlaki",
+      "III Tual",
+      "II Raja Ampat",
+      "II Kota Sorong",
+      "III-IV Darwin",
+      "Australia",
+      "III-IV Waingapu",
+      "III Rote",
+      "II Sabu"
+    ]
+  },
+  {
+    "waktu": "30/12/2021 01:09:24 WIB",
+    "lintang": "2.78 LU",
+    "bujur": "118.58 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 126 km Tenggara Tarakan",
+    "warning": [
+      "III Tarakan",
+      "III Tanjung Selor",
+      "III Nunukan"
+    ]
+  },
+  {
     "waktu": "28/12/2021 22:50:18 WIB",
     "lintang": "3.21 LS",
     "bujur": "135.21 BT",
@@ -220,28 +254,6 @@
     "wilayah": "Pusat gempa berada di darat 18 km Tenggara Kab. Cianjur",
     "warning": [
       "II Cibeber"
-    ]
-  },
-  {
-    "waktu": "20/12/2021 05:07:18 WIB",
-    "lintang": "7.37 LS",
-    "bujur": "121.86 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di 144 km baratlaut Maumere",
-    "warning": [
-      "II Pulau Kalaota"
-    ]
-  },
-  {
-    "waktu": "20/12/2021 05:01:32 WIB",
-    "lintang": "7.43 LS",
-    "bujur": "121.88 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di laut 137 km Baratlaut Maumere",
-    "warning": [
-      "II Pulau Kalaota"
     ]
   }
 ]
