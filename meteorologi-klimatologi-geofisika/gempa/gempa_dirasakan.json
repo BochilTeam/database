@@ -34,6 +34,17 @@
     ]
   },
   {
+    "waktu": "30/12/2021 00:31:52 WIB",
+    "lintang": "4.02 LS",
+    "bujur": "122.63 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 2,8 km BaratLaut Moramo Utara, Kab. Konawe",
+    "warning": [
+      "II Kendari"
+    ]
+  },
+  {
     "waktu": "28/12/2021 22:50:18 WIB",
     "lintang": "3.21 LS",
     "bujur": "135.21 BT",
@@ -243,17 +254,6 @@
     "wilayah": "Pusat gempa berada di laut 92 km barat laut Ruteng",
     "warning": [
       "II-III Ruteng"
-    ]
-  },
-  {
-    "waktu": "20/12/2021 07:41:30 WIB",
-    "lintang": "6.99 LS",
-    "bujur": "107.16 BT",
-    "magnitudo": "3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 18 km Tenggara Kab. Cianjur",
-    "warning": [
-      "II Cibeber"
     ]
   }
 ]
