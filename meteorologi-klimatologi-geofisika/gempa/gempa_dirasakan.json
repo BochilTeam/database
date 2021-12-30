@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "31/12/2021 02:05:12 WIB",
+    "lintang": "3.53 LS",
+    "bujur": "128.79 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 16 km utara Nusalaut-Maluku Tengah",
+    "warning": [
+      "III Saparua"
+    ]
+  },
+  {
     "waktu": "30/12/2021 23:02:13 WIB",
     "lintang": "3.54 LU",
     "bujur": "117.53 BT",
@@ -249,17 +260,6 @@
     "magnitudo": "4",
     "kedalaman": "4 Km",
     "wilayah": "Pusat gempa berada di laut 38 km Timur Laut Kota Sorong",
-    "warning": [
-      "III Sorong"
-    ]
-  },
-  {
-    "waktu": "22/12/2021 21:33:06 WIB",
-    "lintang": "0.65 LS",
-    "bujur": "131.54 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 37 km Timur Laut Kota Sorong",
     "warning": [
       "III Sorong"
     ]
