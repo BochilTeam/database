@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "30/12/2021 20:13:16 WIB",
+    "lintang": "0.16 LS",
+    "bujur": "125.31 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 128 km tenggara Boltim",
+    "warning": [
+      "III Boltim",
+      "III Kabupaten Gorontalo",
+      "III Kota Gorontalo",
+      "III Poso",
+      "II Gorontalo Utara",
+      "II Tomohon",
+      "II Kotamobagu"
+    ]
+  },
+  {
     "waktu": "30/12/2021 05:05:36 WIB",
     "lintang": "7.78 LS",
     "bujur": "106.9 BT",
@@ -243,18 +260,6 @@
     "wilayah": "Pusat gempa berada di laut 127 km Tenggara Selayar",
     "warning": [
       "II-III Bonerate"
-    ]
-  },
-  {
-    "waktu": "21/12/2021 11:31:29 WIB",
-    "lintang": "7.27 LS",
-    "bujur": "107.55 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 27 km Tenggara Kab. Bandung",
-    "warning": [
-      "II Talegong",
-      "II Pangalengan"
     ]
   }
 ]
