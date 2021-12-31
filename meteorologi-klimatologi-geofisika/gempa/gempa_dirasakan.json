@@ -1,15 +1,48 @@
 [
   {
+    "waktu": "31/12/2021 14:27:06 WIB",
+    "lintang": "1.39 LS",
+    "bujur": "127.35 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 33 km Barat Obi",
+    "warning": [
+      "III Kawasi"
+    ]
+  },
+  {
     "waktu": "31/12/2021 12:53:41 WIB",
     "lintang": "0.05 LU",
     "bujur": "120.36 BT",
     "magnitudo": "5",
     "kedalaman": "87 Km",
-    "wilayah": "Pusat gempa berada di laut 76 km Barat Daya Parigi Moutong",
+    "wilayah": "Pusat gempa berada di laut 76 km BaratDaya Parigimoutong",
     "warning": [
+      "III Toli-toli",
       "III Kotaraya",
-      "III Toli-Toli",
       "II Kalukubula"
+    ]
+  },
+  {
+    "waktu": "31/12/2021 11:50:48 WIB",
+    "lintang": "1.47 LS",
+    "bujur": "127.32 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 39 km barat Obi",
+    "warning": [
+      "III Kawasi"
+    ]
+  },
+  {
+    "waktu": "31/12/2021 10:55:41 WIB",
+    "lintang": "1.46 LS",
+    "bujur": "127.35 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 35 km Barat Obi",
+    "warning": [
+      "III Kawasi"
     ]
   },
   {
@@ -216,54 +249,6 @@
     "wilayah": "Pusat gempa berada di laut 91 km Barat Obi",
     "warning": [
       "II Sanana"
-    ]
-  },
-  {
-    "waktu": "24/12/2021 20:04:15 WIB",
-    "lintang": "2.54 LS",
-    "bujur": "121.11 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km Baratlaut Luwu Timur",
-    "warning": [
-      "III Malili"
-    ]
-  },
-  {
-    "waktu": "23/12/2021 14:44:18 WIB",
-    "lintang": "8.24 LS",
-    "bujur": "116.47 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 36 km TimurLaut Lombok Utara",
-    "warning": [
-      "III Lombok Utara",
-      "III Lombok Timur",
-      "II Mataram"
-    ]
-  },
-  {
-    "waktu": "23/12/2021 13:33:59 WIB",
-    "lintang": "7.02 LS",
-    "bujur": "105.49 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 41 km barat daya Sumur",
-    "warning": [
-      "III Sumur",
-      "III Pandeglang",
-      "III Labuan",
-      "III Muarabinuangeun",
-      "III Bayah",
-      "III Wanasalam",
-      "III Malingping",
-      "III Cimanyangray",
-      "III Rangkasbitung",
-      "II Sukabumi",
-      "II Pelabuhanratu",
-      "II Cipamingkis",
-      "II Ujung Genteng",
-      "II Panimbang"
     ]
   }
 ]
