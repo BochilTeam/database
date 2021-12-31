@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "31/12/2021 12:53:41 WIB",
+    "lintang": "0.05 LU",
+    "bujur": "120.36 BT",
+    "magnitudo": "5",
+    "kedalaman": "87 Km",
+    "wilayah": "Pusat gempa berada di laut 76 km Barat Daya Parigi Moutong",
+    "warning": [
+      "III Kotaraya",
+      "III Toli-Toli",
+      "II Kalukubula"
+    ]
+  },
+  {
     "waktu": "31/12/2021 08:54:57 WIB",
     "lintang": "3.82 LS",
     "bujur": "103.73 BT",
@@ -251,17 +264,6 @@
       "II Cipamingkis",
       "II Ujung Genteng",
       "II Panimbang"
-    ]
-  },
-  {
-    "waktu": "23/12/2021 11:13:18 WIB",
-    "lintang": "0.66 LS",
-    "bujur": "131.58 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di Laut 40 km TimurLaut Kota Sorong",
-    "warning": [
-      "III Sorong"
     ]
   }
 ]
