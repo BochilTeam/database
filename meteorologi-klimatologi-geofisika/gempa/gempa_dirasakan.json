@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/01/2022 20:45:27 WIB",
+    "lintang": "8.82 LS",
+    "bujur": "118.33 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "100 Km",
+    "wilayah": "Pusat gempa berada di laut 35 km barat daya Dompu",
+    "warning": [
+      "III Bima"
+    ]
+  },
+  {
     "waktu": "02/01/2022 09:41:22 WIB",
     "lintang": "8.59 LS",
     "bujur": "116.72 BT",
@@ -239,17 +250,6 @@
     "warning": [
       "II Arga Makmur",
       "II Kota Bengkulu"
-    ]
-  },
-  {
-    "waktu": "26/12/2021 04:48:55 WIB",
-    "lintang": "2.69 LS",
-    "bujur": "129.39 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 17 km baratlaut Wahai",
-    "warning": [
-      "III Wahai"
     ]
   }
 ]
