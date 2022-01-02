@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "02/01/2022 09:41:22 WIB",
+    "lintang": "8.59 LS",
+    "bujur": "116.72 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di laut 22 km timur laut Lombok Timur",
+    "warning": [
+      "III Lombok Timur",
+      "II Sumbawa Barat"
+    ]
+  },
+  {
     "waktu": "31/12/2021 14:27:06 WIB",
     "lintang": "1.39 LS",
     "bujur": "127.35 BT",
@@ -238,17 +250,6 @@
     "wilayah": "Pusat gempa berada di laut 17 km baratlaut Wahai",
     "warning": [
       "III Wahai"
-    ]
-  },
-  {
-    "waktu": "24/12/2021 20:19:13 WIB",
-    "lintang": "1.17 LS",
-    "bujur": "126.84 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 91 km Barat Obi",
-    "warning": [
-      "II Sanana"
     ]
   }
 ]
