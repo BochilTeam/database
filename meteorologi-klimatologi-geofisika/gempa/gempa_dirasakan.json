@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/01/2022 22:57:42 WIB",
+    "lintang": "0.71 LS",
+    "bujur": "131.48 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di laut 28 km timur laut Kota Sorong",
+    "warning": [
+      "III Sorong"
+    ]
+  },
+  {
     "waktu": "02/01/2022 20:45:27 WIB",
     "lintang": "8.82 LS",
     "bujur": "118.33 BT",
@@ -238,18 +249,6 @@
       "II-III Malili",
       "II Poso",
       "II Morowali"
-    ]
-  },
-  {
-    "waktu": "26/12/2021 21:09:13 WIB",
-    "lintang": "4.57 LS",
-    "bujur": "102.09 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di laut 77 km barat daya Seluma",
-    "warning": [
-      "II Arga Makmur",
-      "II Kota Bengkulu"
     ]
   }
 ]
