@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/01/2022 10:11:10 WIB",
+    "lintang": "1.34 LS",
+    "bujur": "120.48 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 20 km barat daya Tambarana-Kab. Poso",
+    "warning": [
+      "II-III Poso"
+    ]
+  },
+  {
     "waktu": "05/01/2022 03:55:46 WIB",
     "lintang": "4.91 LS",
     "bujur": "125.18 BT",
@@ -230,20 +241,6 @@
     "wilayah": "Pusat gempa berada di laut 69 km BaratLaut Nabire",
     "warning": [
       "II Nabire"
-    ]
-  },
-  {
-    "waktu": "27/12/2021 15:32:19 WIB",
-    "lintang": "6.72 LS",
-    "bujur": "104.24 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 146 km Barat Daya Tanggamus",
-    "warning": [
-      "II Liwa",
-      "II Panjang",
-      "II Panimbang",
-      "II Labuan"
     ]
   }
 ]
