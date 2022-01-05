@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/01/2022 03:55:46 WIB",
+    "lintang": "4.91 LS",
+    "bujur": "125.18 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "569 Km",
+    "wilayah": "Pusat gempa berada di Laut 182km TimurLaut Wakatobi",
+    "warning": [
+      "II Ambon"
+    ]
+  },
+  {
     "waktu": "03/01/2022 22:57:42 WIB",
     "lintang": "0.71 LS",
     "bujur": "131.48 BT",
@@ -233,22 +244,6 @@
       "II Panjang",
       "II Panimbang",
       "II Labuan"
-    ]
-  },
-  {
-    "waktu": "26/12/2021 22:01:31 WIB",
-    "lintang": "0.06 LS",
-    "bujur": "123.49 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "90 Km",
-    "wilayah": "Pusat gempa berada di laut 73 Bolaang Mongondow Selatan",
-    "warning": [
-      "III Kotamobagu",
-      "II-III Gorontalo",
-      "II-III Luwuk",
-      "II-III Malili",
-      "II Poso",
-      "II Morowali"
     ]
   }
 ]
