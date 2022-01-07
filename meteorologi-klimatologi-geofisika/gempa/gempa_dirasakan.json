@@ -1,5 +1,26 @@
 [
   {
+    "waktu": "07/01/2022 04:59:26 WIB",
+    "lintang": "9.4 LS",
+    "bujur": "113.3 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 139 km BaratDaya Jember",
+    "warning": [
+      "II Jember",
+      "II Blitar",
+      "III Puger",
+      "II Malang",
+      "II Wuluhan",
+      "II Ambulu",
+      "I Wonotirto",
+      "I Karangrejo",
+      "I Tulungagung",
+      "I Boyolangu",
+      "I Kedungwaru"
+    ]
+  },
+  {
     "waktu": "06/01/2022 12:36:10 WIB",
     "lintang": "7.18 LS",
     "bujur": "109.8 BT",
@@ -230,17 +251,6 @@
       "III Tarakan",
       "III Tanjung Selor",
       "III Nunukan"
-    ]
-  },
-  {
-    "waktu": "30/12/2021 00:31:52 WIB",
-    "lintang": "4.02 LS",
-    "bujur": "122.63 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 2,8 km BaratLaut Moramo Utara, Kab. Konawe",
-    "warning": [
-      "II Kendari"
     ]
   }
 ]
