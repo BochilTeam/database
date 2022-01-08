@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/01/2022 00:07:10 WIB",
+    "lintang": "1.44 LU",
+    "bujur": "127.91 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 33 km Barat Daya Tobelo",
+    "warning": [
+      "III Tobelo"
+    ]
+  },
+  {
     "waktu": "08/01/2022 16:53:42 WIB",
     "lintang": "1.54 LU",
     "bujur": "127.83 BT",
@@ -233,27 +244,6 @@
     "wilayah": "Pusat gempa berada di laut 36 km BaratLaut Maluku Barat Daya",
     "warning": [
       "III Larat"
-    ]
-  },
-  {
-    "waktu": "30/12/2021 01:25:52 WIB",
-    "lintang": "7.76 LS",
-    "bujur": "127.66 BT",
-    "magnitudo": "7.4",
-    "kedalaman": "210 Km",
-    "wilayah": "Pusat gempa berada di Laut 45 km BaratLaut Maluku Barat Daya",
-    "warning": [
-      "V-VI Tiakur",
-      "IV-V Tepa",
-      "IV Saumlaki",
-      "III Tual",
-      "II Raja Ampat",
-      "II Kota Sorong",
-      "III-IV Darwin",
-      "Australia",
-      "III-IV Waingapu",
-      "III Rote",
-      "II Sabu"
     ]
   }
 ]
