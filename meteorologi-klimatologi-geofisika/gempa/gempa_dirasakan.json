@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "08/01/2022 16:53:42 WIB",
+    "lintang": "1.54 LU",
+    "bujur": "127.83 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km Barat laut Halmahera Utara",
+    "warning": [
+      "III Tobelo",
+      "III Ternate",
+      "III Jailolo",
+      "III Weda",
+      "II Daruba"
+    ]
+  },
+  {
     "waktu": "07/01/2022 04:59:26 WIB",
     "lintang": "9.4 LS",
     "bujur": "113.3 BT",
@@ -238,19 +253,6 @@
       "III-IV Waingapu",
       "III Rote",
       "II Sabu"
-    ]
-  },
-  {
-    "waktu": "30/12/2021 01:09:24 WIB",
-    "lintang": "2.78 LU",
-    "bujur": "118.58 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 126 km Tenggara Tarakan",
-    "warning": [
-      "III Tarakan",
-      "III Tanjung Selor",
-      "III Nunukan"
     ]
   }
 ]
