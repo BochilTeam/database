@@ -1,5 +1,35 @@
 [
   {
+    "waktu": "10/01/2022 04:59:07 WIB",
+    "lintang": "1.49 LU",
+    "bujur": "127.85 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km barat daya Halmahera Utara",
+    "warning": [
+      "IV Tobelo",
+      "III-IV Sofifi",
+      "III-IV Galela",
+      "II-III Morotai"
+    ]
+  },
+  {
+    "waktu": "10/01/2022 04:27:51 WIB",
+    "lintang": "1.52 LU",
+    "bujur": "127.86 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km BaratLaut HalmaheraUtara",
+    "warning": [
+      "III Ternate",
+      "III Tobelo",
+      "III Wasile",
+      "III Halmahera Timur",
+      "IV Tobelo Barat",
+      "IV Halmahera Barat"
+    ]
+  },
+  {
     "waktu": "09/01/2022 00:07:10 WIB",
     "lintang": "1.44 LU",
     "bujur": "127.91 BT",
@@ -221,29 +251,6 @@
       "II Gorontalo Utara",
       "II Kotamobagu",
       "II Tomohon"
-    ]
-  },
-  {
-    "waktu": "30/12/2021 05:05:36 WIB",
-    "lintang": "7.78 LS",
-    "bujur": "106.9 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "21 Km",
-    "wilayah": "Pusat gempa berada di laut 95 km BaratDaya Kota Sukabumi",
-    "warning": [
-      "II-III Simpenan",
-      "Sukabumi"
-    ]
-  },
-  {
-    "waktu": "30/12/2021 03:32:53 WIB",
-    "lintang": "7.82 LS",
-    "bujur": "127.78 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "170 Km",
-    "wilayah": "Pusat gempa berada di laut 36 km BaratLaut Maluku Barat Daya",
-    "warning": [
-      "III Larat"
     ]
   }
 ]
