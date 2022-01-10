@@ -1,5 +1,31 @@
 [
   {
+    "waktu": "10/01/2022 18:13:07 WIB",
+    "lintang": "0.96 LS",
+    "bujur": "119.89 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km selatan Palu",
+    "warning": [
+      "II Palu"
+    ]
+  },
+  {
+    "waktu": "10/01/2022 17:28:13 WIB",
+    "lintang": "9.13 LS",
+    "bujur": "112.73 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 111 Km Tenggara Kabupaten Malang",
+    "warning": [
+      "II-III Malang",
+      "II-III Blitar",
+      "II-III Lumajang",
+      "II-III Tulungagung",
+      "II-III Jember"
+    ]
+  },
+  {
     "waktu": "10/01/2022 04:59:07 WIB",
     "lintang": "1.49 LU",
     "bujur": "127.85 BT",
@@ -221,36 +247,6 @@
     "wilayah": "Pusat gempa berada di laut 25 km barat laut Tarakan",
     "warning": [
       "II-III Tarakan"
-    ]
-  },
-  {
-    "waktu": "30/12/2021 22:20:56 WIB",
-    "lintang": "3.57 LS",
-    "bujur": "128.82 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 13 km Timur Laut Nusalaut-Maluku Tengah",
-    "warning": [
-      "III Saparua"
-    ]
-  },
-  {
-    "waktu": "30/12/2021 20:13:16 WIB",
-    "lintang": "0.16 LS",
-    "bujur": "125.31 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 128 km tenggara Boltim",
-    "warning": [
-      "III Bolaang Mongondow Timur",
-      "III Kabupaten Gorontalo",
-      "III Kota Gorontalo",
-      "III Poso",
-      "III Minahasa Selatan",
-      "III Minahasa",
-      "II Gorontalo Utara",
-      "II Kotamobagu",
-      "II Tomohon"
     ]
   }
 ]
