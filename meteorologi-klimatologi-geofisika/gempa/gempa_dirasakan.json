@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/01/2022 13:58:10 WIB",
+    "lintang": "1.36 LU",
+    "bujur": "126.83 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "97 Km",
+    "wilayah": "Pusat gempa berada di Laut 78 km Barat Laut Jailolo",
+    "warning": [
+      "II-III Ternate"
+    ]
+  },
+  {
     "waktu": "11/01/2022 04:35:56 WIB",
     "lintang": "2.48 LS",
     "bujur": "121.19 BT",
@@ -236,17 +247,6 @@
     "wilayah": "Pusat gempa berada di darat 20 km baratdaya Muara Enim",
     "warning": [
       "II Muara Enim"
-    ]
-  },
-  {
-    "waktu": "31/12/2021 02:05:12 WIB",
-    "lintang": "3.53 LS",
-    "bujur": "128.79 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 16 km utara Nusalaut-Maluku Tengah",
-    "warning": [
-      "III Saparua"
     ]
   }
 ]
