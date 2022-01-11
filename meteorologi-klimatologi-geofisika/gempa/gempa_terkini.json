@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-01-22 07:26:31 WIB",
+    "lintang": "0.28",
+    "bujur": "96.70",
+    "magnitudo": "5.2",
+    "kedalaman": "14 Km",
+    "wilayah": "113 km BaratDaya NIASBARAT-SUMUT"
+  },
+  {
     "waktu": "10-01-22 04:59:07 WIB",
     "lintang": "1.49",
     "bujur": "127.85",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "123 km BaratDaya BENGKULU-BENGKULU"
-  },
-  {
-    "waktu": "11-12-21 22:29:47 WIB",
-    "lintang": "-6.98",
-    "bujur": "128.68",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "163 km TimurLaut MALUKUBRTDAYA"
   }
 ]
