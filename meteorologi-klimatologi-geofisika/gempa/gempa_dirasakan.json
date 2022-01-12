@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "12/01/2022 10:06:13 WIB",
+    "lintang": "3.45 LS",
+    "bujur": "128.84 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 16 km Barat Daya Masohi",
+    "warning": [
+      "III Masohi",
+      "III Tehoru",
+      "III Saparua",
+      "II Ambon"
+    ]
+  },
+  {
     "waktu": "12/01/2022 05:02:36 WIB",
     "lintang": "8.08 LS",
     "bujur": "122.4 BT",
@@ -235,17 +249,6 @@
     "magnitudo": "4.8",
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di laut 39 km barat Obi",
-    "warning": [
-      "III Kawasi"
-    ]
-  },
-  {
-    "waktu": "31/12/2021 10:55:41 WIB",
-    "lintang": "1.46 LS",
-    "bujur": "127.35 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 35 km Barat Obi",
     "warning": [
       "III Kawasi"
     ]
