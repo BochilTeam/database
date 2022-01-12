@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/01/2022 18:10:31 WIB",
+    "lintang": "7.67 LS",
+    "bujur": "106.97 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "31 Km",
+    "wilayah": "Pusat gempa berada di laut 82 km tenggara Kota Sukabumi",
+    "warning": [
+      "I-II Kec. Jampang"
+    ]
+  },
+  {
     "waktu": "12/01/2022 10:06:13 WIB",
     "lintang": "3.45 LS",
     "bujur": "128.84 BT",
@@ -240,17 +251,6 @@
       "III Toli-toli",
       "III Kotaraya",
       "II Kalukubula"
-    ]
-  },
-  {
-    "waktu": "31/12/2021 11:50:48 WIB",
-    "lintang": "1.47 LS",
-    "bujur": "127.32 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 39 km barat Obi",
-    "warning": [
-      "III Kawasi"
     ]
   }
 ]
