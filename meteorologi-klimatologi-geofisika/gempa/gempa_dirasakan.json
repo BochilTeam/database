@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "12/01/2022 20:57:57 WIB",
+    "lintang": "1.51 LU",
+    "bujur": "127.85 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 29 km Barat Daya Tobelo",
+    "warning": [
+      "III Halmahera Utara"
+    ]
+  },
+  {
+    "waktu": "12/01/2022 20:46:21 WIB",
+    "lintang": "1.49 LU",
+    "bujur": "127.86 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 30 km Barat Daya Tobelo",
+    "warning": [
+      "II Halmahera Utara"
+    ]
+  },
+  {
     "waktu": "12/01/2022 18:10:31 WIB",
     "lintang": "7.67 LS",
     "bujur": "106.97 BT",
@@ -227,30 +249,6 @@
     "warning": [
       "III Lombok Timur",
       "II Sumbawa Barat"
-    ]
-  },
-  {
-    "waktu": "31/12/2021 14:27:06 WIB",
-    "lintang": "1.39 LS",
-    "bujur": "127.35 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 33 km Barat Obi",
-    "warning": [
-      "III Kawasi"
-    ]
-  },
-  {
-    "waktu": "31/12/2021 12:53:41 WIB",
-    "lintang": "0.05 LU",
-    "bujur": "120.36 BT",
-    "magnitudo": "5",
-    "kedalaman": "87 Km",
-    "wilayah": "Pusat gempa berada di laut 76 km BaratDaya Parigimoutong",
-    "warning": [
-      "III Toli-toli",
-      "III Kotaraya",
-      "II Kalukubula"
     ]
   }
 ]
