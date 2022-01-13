@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "13/01/2022 19:40:21 WIB",
+    "lintang": "1.47 LU",
+    "bujur": "127.94 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 29 km barat daya Tobelo",
+    "warning": [
+      "III Tobelo"
+    ]
+  },
+  {
+    "waktu": "13/01/2022 19:29:10 WIB",
+    "lintang": "1.48 LU",
+    "bujur": "127.86 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 31 km barat daya Tobelo",
+    "warning": [
+      "III Tobelo"
+    ]
+  },
+  {
     "waktu": "13/01/2022 17:01:21 WIB",
     "lintang": "1.59 LU",
     "bujur": "123.07 BT",
@@ -228,28 +250,6 @@
     "wilayah": "Pusat gempa berada di darat 20 km barat daya Tambarana-Kab. Poso",
     "warning": [
       "II-III Poso"
-    ]
-  },
-  {
-    "waktu": "05/01/2022 03:55:46 WIB",
-    "lintang": "4.91 LS",
-    "bujur": "125.18 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "569 Km",
-    "wilayah": "Pusat gempa berada di Laut 182km TimurLaut Wakatobi",
-    "warning": [
-      "II Ambon"
-    ]
-  },
-  {
-    "waktu": "03/01/2022 22:57:42 WIB",
-    "lintang": "0.71 LS",
-    "bujur": "131.48 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di laut 28 km timur laut Kota Sorong",
-    "warning": [
-      "III Sorong"
     ]
   }
 ]
