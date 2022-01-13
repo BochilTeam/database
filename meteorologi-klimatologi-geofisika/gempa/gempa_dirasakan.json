@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/01/2022 00:15:28 WIB",
+    "lintang": "3.35 LS",
+    "bujur": "128.82 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 10 km tenggara Elpaputih, Maluku tengah",
+    "warning": [
+      "II Amahai"
+    ]
+  },
+  {
     "waktu": "13/01/2022 19:40:21 WIB",
     "lintang": "1.47 LU",
     "bujur": "127.94 BT",
@@ -239,17 +250,6 @@
     "wilayah": "Pusat gempa berada di darat 23 km BaratLaut Wonosobo",
     "warning": [
       "II Kepakisan Dieng"
-    ]
-  },
-  {
-    "waktu": "05/01/2022 10:11:10 WIB",
-    "lintang": "1.34 LS",
-    "bujur": "120.48 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 20 km barat daya Tambarana-Kab. Poso",
-    "warning": [
-      "II-III Poso"
     ]
   }
 ]
