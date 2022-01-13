@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/01/2022 17:01:21 WIB",
+    "lintang": "1.59 LU",
+    "bujur": "123.07 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di laut 99 km TimurLaut Sumalata",
+    "warning": [
+      "II-III Gorontalo"
+    ]
+  },
+  {
     "waktu": "13/01/2022 14:23:24 WIB",
     "lintang": "1.45 LS",
     "bujur": "127.3 BT",
@@ -237,17 +248,6 @@
     "wilayah": "Pusat gempa berada di laut 28 km timur laut Kota Sorong",
     "warning": [
       "III Sorong"
-    ]
-  },
-  {
-    "waktu": "02/01/2022 20:45:27 WIB",
-    "lintang": "8.82 LS",
-    "bujur": "118.33 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "100 Km",
-    "wilayah": "Pusat gempa berada di laut 35 km barat daya Dompu",
-    "warning": [
-      "III Bima"
     ]
   }
 ]
