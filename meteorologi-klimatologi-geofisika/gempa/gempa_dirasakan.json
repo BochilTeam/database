@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/01/2022 14:23:24 WIB",
+    "lintang": "1.45 LS",
+    "bujur": "127.3 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 40 km barat Obi",
+    "warning": [
+      "II-III Obi"
+    ]
+  },
+  {
     "waktu": "12/01/2022 20:57:57 WIB",
     "lintang": "1.51 LU",
     "bujur": "127.85 BT",
@@ -237,18 +248,6 @@
     "wilayah": "Pusat gempa berada di laut 35 km barat daya Dompu",
     "warning": [
       "III Bima"
-    ]
-  },
-  {
-    "waktu": "02/01/2022 09:41:22 WIB",
-    "lintang": "8.59 LS",
-    "bujur": "116.72 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di laut 22 km timur laut Lombok Timur",
-    "warning": [
-      "III Lombok Timur",
-      "II Sumbawa Barat"
     ]
   }
 ]
