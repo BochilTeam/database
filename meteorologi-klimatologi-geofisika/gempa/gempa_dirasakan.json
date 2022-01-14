@@ -1,5 +1,31 @@
 [
   {
+    "waktu": "14/01/2022 23:43:26 WIB",
+    "lintang": "7.98 LS",
+    "bujur": "118.62 BT",
+    "magnitudo": "5",
+    "kedalaman": "33 Km",
+    "wilayah": "Pusat gempa berada di laut 53 km Barat laut BIMA",
+    "warning": [
+      "III Bima",
+      "III Dompu",
+      "III Sumbawa",
+      "III Sumbawa barat"
+    ]
+  },
+  {
+    "waktu": "14/01/2022 23:33:54 WIB",
+    "lintang": "6.38 LS",
+    "bujur": "107.14 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km BaratDaya Kab. Bekasi",
+    "warning": [
+      "II Cikarang",
+      "II Bekasi"
+    ]
+  },
+  {
     "waktu": "14/01/2022 16:49:21 WIB",
     "lintang": "7.03 LS",
     "bujur": "105.25 BT",
@@ -228,33 +254,6 @@
       "III-IV Sofifi",
       "III-IV Galela",
       "II-III Morotai"
-    ]
-  },
-  {
-    "waktu": "10/01/2022 04:27:51 WIB",
-    "lintang": "1.52 LU",
-    "bujur": "127.86 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km BaratLaut HalmaheraUtara",
-    "warning": [
-      "III Ternate",
-      "III Tobelo",
-      "III Wasile",
-      "III Halmahera Timur",
-      "IV Tobelo Barat",
-      "IV Halmahera Barat"
-    ]
-  },
-  {
-    "waktu": "09/01/2022 00:07:10 WIB",
-    "lintang": "1.44 LU",
-    "bujur": "127.91 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 33 km Barat Daya Tobelo",
-    "warning": [
-      "III Tobelo"
     ]
   }
 ]
