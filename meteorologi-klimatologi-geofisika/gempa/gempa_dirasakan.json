@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "14/01/2022 16:49:21 WIB",
+    "lintang": "7.03 LS",
+    "bujur": "105.25 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 54 km BaratDaya Sumur",
+    "warning": [
+      "II Tangerang Selatan",
+      "II Pelabuhanratu",
+      "II Bandar Lampung",
+      "II-III Kota Tangerang"
+    ]
+  },
+  {
     "waktu": "14/01/2022 16:05:41 WIB",
     "lintang": "7.01 LS",
     "bujur": "105.26 BT",
@@ -14,7 +28,7 @@
       "III-IV Tangerang Selatan",
       "III-IV Lembang",
       "III-IV Kota Bogor",
-      "III-IV Pelabuhan Ratu",
+      "III-IV Pelabuhanratu",
       "III-IV Kalianda",
       "III-IV Bandar Lampung",
       "III Anyer",
@@ -241,22 +255,6 @@
     "wilayah": "Pusat gempa berada di darat 33 km Barat Daya Tobelo",
     "warning": [
       "III Tobelo"
-    ]
-  },
-  {
-    "waktu": "08/01/2022 16:53:42 WIB",
-    "lintang": "1.54 LU",
-    "bujur": "127.83 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km Barat laut Halmahera Utara",
-    "warning": [
-      "III Tobelo",
-      "III Ternate",
-      "III Jailolo",
-      "III Weda",
-      "II Daruba",
-      "II Tidore"
     ]
   }
 ]
