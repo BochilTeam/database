@@ -1,5 +1,33 @@
 [
   {
+    "waktu": "14/01/2022 16:05:41 WIB",
+    "lintang": "7.01 LS",
+    "bujur": "105.26 BT",
+    "magnitudo": "6.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 52 km BaratDaya Sumur",
+    "warning": [
+      "VI Cikeusik",
+      "VI Panimbang",
+      "IV Labuan",
+      "IV Sumur",
+      "III-IV Tangerang Selatan",
+      "III-IV Lembang",
+      "III-IV Kota Bogor",
+      "III-IV Pelabuhan Ratu",
+      "III-IV Kalianda",
+      "III-IV Bandar Lampung",
+      "III Anyer",
+      "II-III Jakarta",
+      "II-III Kota Tangerang",
+      "II-III Ciracas",
+      "II-III Bekasi",
+      "II-III Kota Bandung",
+      "II-III Kab. Bogor",
+      "II-III Kotabumi"
+    ]
+  },
+  {
     "waktu": "14/01/2022 04:06:45 WIB",
     "lintang": "7.28 LS",
     "bujur": "110.36 BT",
@@ -229,27 +257,6 @@
       "III Weda",
       "II Daruba",
       "II Tidore"
-    ]
-  },
-  {
-    "waktu": "07/01/2022 04:59:26 WIB",
-    "lintang": "9.4 LS",
-    "bujur": "113.3 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 139 km BaratDaya Jember",
-    "warning": [
-      "II Jember",
-      "II Blitar",
-      "III Puger",
-      "II Malang",
-      "II Wuluhan",
-      "II Ambulu",
-      "I Wonotirto",
-      "I Karangrejo",
-      "I Tulungagung",
-      "I Boyolangu",
-      "I Kedungwaru"
     ]
   }
 ]
