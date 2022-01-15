@@ -1,5 +1,26 @@
 [
   {
+    "waktu": "15/01/2022 09:29:38 WIB",
+    "lintang": "6.96 LS",
+    "bujur": "105.26 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di laut 48 Km Barat Daya Sumur",
+    "warning": [
+      "III Sumur",
+      "III Panggarangan",
+      "III Cibeber",
+      "III Malingping",
+      "III Bayah",
+      "III Cihara",
+      "III Muarabinuangeun",
+      "III Cigemblong",
+      "III Panimbang",
+      "III Sobang",
+      "III Labuan"
+    ]
+  },
+  {
     "waktu": "15/01/2022 03:34:28 WIB",
     "lintang": "7.01 LS",
     "bujur": "105.28 BT",
@@ -238,21 +259,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km selatan Palu",
     "warning": [
       "II Palu"
-    ]
-  },
-  {
-    "waktu": "10/01/2022 17:28:13 WIB",
-    "lintang": "9.13 LS",
-    "bujur": "112.73 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 111 Km Tenggara Kabupaten Malang",
-    "warning": [
-      "II-III Malang",
-      "II-III Blitar",
-      "II-III Lumajang",
-      "II-III Tulungagung",
-      "II-III Jember"
     ]
   }
 ]
