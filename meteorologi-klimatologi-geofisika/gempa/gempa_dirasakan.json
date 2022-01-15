@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "15/01/2022 15:18:09 WIB",
+    "lintang": "7.25 LS",
+    "bujur": "112.92 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 23 km tenggara Bangkalan",
+    "warning": [
+      "II Juanda",
+      "II Surabaya",
+      "III Bangkalan",
+      "II Sumenep"
+    ]
+  },
+  {
     "waktu": "15/01/2022 09:29:38 WIB",
     "lintang": "6.96 LS",
     "bujur": "105.26 BT",
@@ -248,17 +262,6 @@
     "wilayah": "Pusat gempa berada di darat 11 km timur laut Luwu Timur",
     "warning": [
       "II-III Malili"
-    ]
-  },
-  {
-    "waktu": "10/01/2022 18:13:07 WIB",
-    "lintang": "0.96 LS",
-    "bujur": "119.89 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km selatan Palu",
-    "warning": [
-      "II Palu"
     ]
   }
 ]
