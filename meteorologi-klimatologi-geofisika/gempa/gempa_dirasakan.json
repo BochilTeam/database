@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "17/01/2022 07:25:56 WIB",
+    "lintang": "7.6 LS",
+    "bujur": "105.9 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 84 km BaratDaya Bayah",
+    "warning": [
+      "II-III Cikembar",
+      "II-III Cireunghas",
+      "Kab. Sukabumi",
+      "II-III Pelabuhanratu",
+      "II-III Sumur",
+      "II-III Bogor",
+      "III Bayah",
+      "III Pandeglang",
+      "III Cikeusik",
+      "III Panimbang",
+      "II-III Jakarta Barat",
+      "II-III Jakarta Selatan",
+      "II-III Tambun"
+    ]
+  },
+  {
     "waktu": "16/01/2022 13:52:32 WIB",
     "lintang": "3.52 LU",
     "bujur": "96.51 BT",
@@ -251,18 +274,6 @@
       "III Tehoru",
       "III Saparua",
       "II Ambon"
-    ]
-  },
-  {
-    "waktu": "12/01/2022 05:02:36 WIB",
-    "lintang": "8.08 LS",
-    "bujur": "122.4 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 63 km Timur Laut Maumere",
-    "warning": [
-      "II Maumere",
-      "II Wulanggitang"
     ]
   }
 ]
