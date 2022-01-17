@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-01-22 07:25:56 WIB",
+    "lintang": "-7.60",
+    "bujur": "105.90",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "84 km BaratDaya BAYAH-BANTEN"
+  },
+  {
     "waktu": "14-01-22 23:43:26 WIB",
     "lintang": "-7.98",
     "bujur": "118.62",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 Km",
     "wilayah": "129 km BaratLaut MAUMERE-SIKKA-NTT"
-  },
-  {
-    "waktu": "14-12-21 10:41:56 WIB",
-    "lintang": "-7.81",
-    "bujur": "122.34",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "89 km BaratLaut LARANTUKA-NTT"
   }
 ]
