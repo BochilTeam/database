@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/01/2022 09:08:06 WIB",
+    "lintang": "7.82 LS",
+    "bujur": "118.64 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di laut 70 km BaratLaut Bima",
+    "warning": [
+      "III Bima"
+    ]
+  },
+  {
     "waktu": "17/01/2022 07:25:56 WIB",
     "lintang": "7.6 LS",
     "bujur": "105.9 BT",
@@ -260,20 +271,6 @@
     "wilayah": "Pusat gempa berada di laut 82 km tenggara Kota Sukabumi",
     "warning": [
       "I-II Kec. Jampang"
-    ]
-  },
-  {
-    "waktu": "12/01/2022 10:06:13 WIB",
-    "lintang": "3.45 LS",
-    "bujur": "128.84 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 16 km Barat Daya Masohi",
-    "warning": [
-      "III Masohi",
-      "III Tehoru",
-      "III Saparua",
-      "II Ambon"
     ]
   }
 ]

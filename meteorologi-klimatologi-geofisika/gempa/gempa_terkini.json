@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18-01-22 10:20:40 WIB",
+    "lintang": "5.18",
+    "bujur": "126.33",
+    "magnitudo": "5.0",
+    "kedalaman": "94 Km",
+    "wilayah": "136 km BaratLaut MELONGUANE-SULUT"
+  },
+  {
     "waktu": "17-01-22 07:25:56 WIB",
     "lintang": "-7.60",
     "bujur": "105.90",
@@ -230,13 +238,5 @@
     "magnitudo": "7.4",
     "kedalaman": "10 Km",
     "wilayah": "113 km BaratLaut LARANTUKA-NTT"
-  },
-  {
-    "waktu": "14-12-21 10:47:02 WIB",
-    "lintang": "-7.55",
-    "bujur": "121.75",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "129 km BaratLaut MAUMERE-SIKKA-NTT"
   }
 ]
