@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "19/01/2022 15:16:26 WIB",
+    "lintang": "1.47 LU",
+    "bujur": "127.9 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 30 km baratdaya Tobelo",
+    "warning": [
+      "III Tobelo"
+    ]
+  },
+  {
     "waktu": "18/01/2022 09:08:06 WIB",
     "lintang": "7.82 LS",
     "bujur": "118.64 BT",
@@ -260,17 +271,6 @@
     "wilayah": "Pusat gempa berada di darat 30 km Barat Daya Tobelo",
     "warning": [
       "II Halmahera Utara"
-    ]
-  },
-  {
-    "waktu": "12/01/2022 18:10:31 WIB",
-    "lintang": "7.67 LS",
-    "bujur": "106.97 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "31 Km",
-    "wilayah": "Pusat gempa berada di laut 82 km tenggara Kota Sukabumi",
-    "warning": [
-      "I-II Kec. Jampang"
     ]
   }
 ]
