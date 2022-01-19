@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "19/01/2022 21:48:00 WIB",
+    "lintang": "7.88 LS",
+    "bujur": "118.59 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "37 Km",
+    "wilayah": "Pusat gempa berada di laut 64 Km Barat Laut Bima",
+    "warning": [
+      "III Bima",
+      "III Dompu"
+    ]
+  },
+  {
+    "waktu": "19/01/2022 21:29:48 WIB",
+    "lintang": "3.37 LS",
+    "bujur": "130.98 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "85 Km",
+    "wilayah": "Pusat gempa berada di laut 62 Km Tenggara Bula",
+    "warning": [
+      "III Bula",
+      "II Geser",
+      "II Sorong"
+    ]
+  },
+  {
     "waktu": "19/01/2022 15:16:26 WIB",
     "lintang": "1.47 LU",
     "bujur": "127.9 BT",
@@ -249,28 +274,6 @@
     "wilayah": "Pusat gempa berada di laut 40 km barat Obi",
     "warning": [
       "II-III Obi"
-    ]
-  },
-  {
-    "waktu": "12/01/2022 20:57:57 WIB",
-    "lintang": "1.51 LU",
-    "bujur": "127.85 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 29 km Barat Daya Tobelo",
-    "warning": [
-      "III Halmahera Utara"
-    ]
-  },
-  {
-    "waktu": "12/01/2022 20:46:21 WIB",
-    "lintang": "1.49 LU",
-    "bujur": "127.86 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 30 km Barat Daya Tobelo",
-    "warning": [
-      "II Halmahera Utara"
     ]
   }
 ]

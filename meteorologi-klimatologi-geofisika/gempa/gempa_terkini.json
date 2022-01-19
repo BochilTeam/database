@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19-01-22 21:29:48 WIB",
+    "lintang": "-3.37",
+    "bujur": "130.98",
+    "magnitudo": "5.7",
+    "kedalaman": "85 Km",
+    "wilayah": "62 km Tenggara SERAMBAGIANTIMUR-MALUKU"
+  },
+  {
     "waktu": "18-01-22 10:20:40 WIB",
     "lintang": "5.18",
     "bujur": "126.33",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "129 km BaratLaut MAUMERE-SIKKA-NTT"
-  },
-  {
-    "waktu": "14-12-21 10:20:23 WIB",
-    "lintang": "-7.59",
-    "bujur": "122.24",
-    "magnitudo": "7.4",
-    "kedalaman": "10 Km",
-    "wilayah": "113 km BaratLaut LARANTUKA-NTT"
   }
 ]
