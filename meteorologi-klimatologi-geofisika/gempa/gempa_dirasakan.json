@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "20/01/2022 18:06:36 WIB",
+    "lintang": "2.24 LS",
+    "bujur": "140.21 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 44 km Barat laut Kabupaten Jayapura-Papua",
+    "warning": [
+      "II Genyem",
+      "II Jayapura"
+    ]
+  },
+  {
+    "waktu": "20/01/2022 17:44:11 WIB",
+    "lintang": "2.04 LS",
+    "bujur": "140.37 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 119 km Timur laut Kab Jayapura",
+    "warning": [
+      "III Jayapura",
+      "III Sentani",
+      "III Keerom"
+    ]
+  },
+  {
     "waktu": "19/01/2022 21:48:00 WIB",
     "lintang": "7.88 LS",
     "bujur": "118.59 BT",
@@ -250,30 +275,6 @@
     "wilayah": "Pusat gempa berada di darat 31 km barat daya Tobelo",
     "warning": [
       "III Tobelo"
-    ]
-  },
-  {
-    "waktu": "13/01/2022 17:01:21 WIB",
-    "lintang": "1.59 LU",
-    "bujur": "123.07 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "29 Km",
-    "wilayah": "Pusat gempa berada di laut 99 km TimurLaut Sumalata",
-    "warning": [
-      "II-III Kota Gorontalo",
-      "II-III Bone Bolango",
-      "II-III Kabupaten Gorontalo"
-    ]
-  },
-  {
-    "waktu": "13/01/2022 14:23:24 WIB",
-    "lintang": "1.45 LS",
-    "bujur": "127.3 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 40 km barat Obi",
-    "warning": [
-      "II-III Obi"
     ]
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20-01-22 17:44:11 WIB",
+    "lintang": "-2.04",
+    "bujur": "140.37",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "69 km BaratLaut JAYAPURA-PAPUA"
+  },
+  {
     "waktu": "19-01-22 21:29:48 WIB",
     "lintang": "-3.37",
     "bujur": "130.98",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "12 Km",
     "wilayah": "102 km BaratLaut LARANTUKA-NTT"
-  },
-  {
-    "waktu": "14-12-21 12:46:41 WIB",
-    "lintang": "-7.54",
-    "bujur": "121.78",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "129 km BaratLaut MAUMERE-SIKKA-NTT"
   }
 ]
