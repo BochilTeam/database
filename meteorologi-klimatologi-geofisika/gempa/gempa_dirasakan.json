@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "21/01/2022 17:47:27 WIB",
+    "lintang": "0.5 LU",
+    "bujur": "99.61 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 41 km Tenggara Mandailing Natal",
+    "warning": [
+      "I-II Puncak Sorik Marapi",
+      "I-II Panyabungan"
+    ]
+  },
+  {
     "waktu": "20/01/2022 18:06:36 WIB",
     "lintang": "2.24 LS",
     "bujur": "140.21 BT",
@@ -262,17 +274,6 @@
     "magnitudo": "4.5",
     "kedalaman": "3 Km",
     "wilayah": "Pusat gempa berada di darat 29 km barat daya Tobelo",
-    "warning": [
-      "III Tobelo"
-    ]
-  },
-  {
-    "waktu": "13/01/2022 19:29:10 WIB",
-    "lintang": "1.48 LU",
-    "bujur": "127.86 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 31 km barat daya Tobelo",
     "warning": [
       "III Tobelo"
     ]
