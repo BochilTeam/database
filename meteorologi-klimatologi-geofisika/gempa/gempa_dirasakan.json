@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/01/2022 09:26:13 WIB",
+    "lintang": "3.67 LU",
+    "bujur": "126.82 BT",
+    "magnitudo": "6.1",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 39 km Tenggara Melonguane",
+    "warning": [
+      "III-IV Melonguane"
+    ]
+  },
+  {
     "waktu": "21/01/2022 17:47:27 WIB",
     "lintang": "0.5 LU",
     "bujur": "99.61 BT",
@@ -265,17 +276,6 @@
     "wilayah": "Pusat gempa berada di laut 10 km tenggara Elpaputih, Maluku tengah",
     "warning": [
       "II Amahai"
-    ]
-  },
-  {
-    "waktu": "13/01/2022 19:40:21 WIB",
-    "lintang": "1.47 LU",
-    "bujur": "127.94 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 29 km barat daya Tobelo",
-    "warning": [
-      "III Tobelo"
     ]
   }
 ]
