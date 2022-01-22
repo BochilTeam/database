@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/01/2022 14:08:11 WIB",
+    "lintang": "4.2 LU",
+    "bujur": "126.94 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "53 Km",
+    "wilayah": "Pusat gempa berada di laut 36 km TimurLaut Melonguane",
+    "warning": [
+      "II Talaud"
+    ]
+  },
+  {
     "waktu": "22/01/2022 09:26:13 WIB",
     "lintang": "3.67 LU",
     "bujur": "126.82 BT",
@@ -265,17 +276,6 @@
     "wilayah": "Pusat gempa berada di darat 16 km barat laut Kota Salatiga",
     "warning": [
       "II Ambarawa"
-    ]
-  },
-  {
-    "waktu": "14/01/2022 00:15:28 WIB",
-    "lintang": "3.35 LS",
-    "bujur": "128.82 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 10 km tenggara Elpaputih, Maluku tengah",
-    "warning": [
-      "II Amahai"
     ]
   }
 ]
