@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/01/2022 12:20:13 WIB",
+    "lintang": "7.41 LS",
+    "bujur": "121.87 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di laut 139 km Barat Laut Maumere",
+    "warning": [
+      "II Pulau Kalaotoa"
+    ]
+  },
+  {
     "waktu": "22/01/2022 15:34:38 WIB",
     "lintang": "7.49 LS",
     "bujur": "107.31 BT",
@@ -256,34 +267,6 @@
       "II Pelabuhanratu",
       "II Bandar Lampung",
       "II-III Kota Tangerang"
-    ]
-  },
-  {
-    "waktu": "14/01/2022 16:05:41 WIB",
-    "lintang": "7.01 LS",
-    "bujur": "105.26 BT",
-    "magnitudo": "6.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 52 km BaratDaya Sumur",
-    "warning": [
-      "VI Cikeusik",
-      "VI Panimbang",
-      "IV Labuan",
-      "IV Sumur",
-      "III-IV Tangerang Selatan",
-      "III-IV Lembang",
-      "III-IV Kota Bogor",
-      "III-IV Pelabuhanratu",
-      "III-IV Kalianda",
-      "III-IV Bandar Lampung",
-      "III Anyer",
-      "II-III Jakarta",
-      "II-III Kota Tangerang",
-      "II-III Ciracas",
-      "II-III Bekasi",
-      "II-III Kota Bandung",
-      "II-III Kab. Bogor",
-      "II-III Kotabumi"
     ]
   }
 ]
