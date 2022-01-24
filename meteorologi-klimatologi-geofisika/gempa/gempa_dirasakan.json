@@ -1,5 +1,24 @@
 [
   {
+    "waktu": "25/01/2022 04:14:14 WIB",
+    "lintang": "8.78 LS",
+    "bujur": "116.14 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km Tenggara Lombok Barat",
+    "warning": [
+      "IV Mataram",
+      "III Denpasar",
+      "III Badung",
+      "III Karangasem",
+      "III Padangbai",
+      "III Lombok Barat",
+      "III Lombok Tengah",
+      "III Lombok Utara",
+      "III Lombok Timur"
+    ]
+  },
+  {
     "waktu": "23/01/2022 12:20:13 WIB",
     "lintang": "7.41 LS",
     "bujur": "121.87 BT",
@@ -253,20 +272,6 @@
     "warning": [
       "II Cikarang",
       "II Bekasi"
-    ]
-  },
-  {
-    "waktu": "14/01/2022 16:49:21 WIB",
-    "lintang": "7.03 LS",
-    "bujur": "105.25 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 54 km BaratDaya Sumur",
-    "warning": [
-      "II Tangerang Selatan",
-      "II Pelabuhanratu",
-      "II Bandar Lampung",
-      "II-III Kota Tangerang"
     ]
   }
 ]
