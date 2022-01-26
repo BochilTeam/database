@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/01/2022 01:06:05 WIB",
+    "lintang": "1.05 LU",
+    "bujur": "127.51 BT",
+    "magnitudo": "3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km Tenggara Jailolo",
+    "warning": [
+      "II-III Jailolo"
+    ]
+  },
+  {
     "waktu": "25/01/2022 04:14:14 WIB",
     "lintang": "8.78 LS",
     "bujur": "116.14 BT",
@@ -260,18 +271,6 @@
       "III Dompu",
       "III Sumbawa",
       "III Sumbawa barat"
-    ]
-  },
-  {
-    "waktu": "14/01/2022 23:33:54 WIB",
-    "lintang": "6.38 LS",
-    "bujur": "107.14 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km BaratDaya Kab. Bekasi",
-    "warning": [
-      "II Cikarang",
-      "II Bekasi"
     ]
   }
 ]
