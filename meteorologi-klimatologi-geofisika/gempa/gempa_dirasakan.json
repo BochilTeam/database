@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/01/2022 11:45:26 WIB",
+    "lintang": "1.09 LU",
+    "bujur": "127.46 BT",
+    "magnitudo": "3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km BaratLaut Jailolo",
+    "warning": [
+      "II-III Jailolo"
+    ]
+  },
+  {
     "waktu": "26/01/2022 01:06:05 WIB",
     "lintang": "1.05 LU",
     "bujur": "127.51 BT",
@@ -257,20 +268,6 @@
       "II Pandeglang",
       "II Jiput",
       "II Muncul"
-    ]
-  },
-  {
-    "waktu": "14/01/2022 23:43:26 WIB",
-    "lintang": "7.98 LS",
-    "bujur": "118.62 BT",
-    "magnitudo": "5",
-    "kedalaman": "33 Km",
-    "wilayah": "Pusat gempa berada di laut 53 km Barat laut BIMA",
-    "warning": [
-      "III Bima",
-      "III Dompu",
-      "III Sumbawa",
-      "III Sumbawa barat"
     ]
   }
 ]
