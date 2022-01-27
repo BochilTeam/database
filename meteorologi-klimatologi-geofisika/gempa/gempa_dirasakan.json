@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/01/2022 20:20:02 WIB",
+    "lintang": "6.73 LS",
+    "bujur": "120.5 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 49 km baratdaya Selayar",
+    "warning": [
+      "II-III Benteng Selayar"
+    ]
+  },
+  {
     "waktu": "27/01/2022 04:26:12 WIB",
     "lintang": "2.73 LS",
     "bujur": "121.99 BT",
@@ -245,27 +256,6 @@
       "II Surabaya",
       "III Bangkalan",
       "II Sumenep"
-    ]
-  },
-  {
-    "waktu": "15/01/2022 09:29:38 WIB",
-    "lintang": "6.96 LS",
-    "bujur": "105.26 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "21 Km",
-    "wilayah": "Pusat gempa berada di laut 48 Km Barat Daya Sumur",
-    "warning": [
-      "III Sumur",
-      "III Panggarangan",
-      "III Cibeber",
-      "III Malingping",
-      "III Bayah",
-      "III Cihara",
-      "III Muarabinuangeun",
-      "III Cigemblong",
-      "III Panimbang",
-      "III Sobang",
-      "III Labuan"
     ]
   }
 ]
