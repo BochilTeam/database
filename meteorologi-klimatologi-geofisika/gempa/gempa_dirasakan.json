@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/01/2022 04:26:12 WIB",
+    "lintang": "2.73 LS",
+    "bujur": "121.99 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km selatan Kab.Morowali",
+    "warning": [
+      "II-III Bahodopi"
+    ]
+  },
+  {
     "waktu": "26/01/2022 11:45:26 WIB",
     "lintang": "1.09 LU",
     "bujur": "127.46 BT",
@@ -255,19 +266,6 @@
       "III Panimbang",
       "III Sobang",
       "III Labuan"
-    ]
-  },
-  {
-    "waktu": "15/01/2022 03:34:28 WIB",
-    "lintang": "7.01 LS",
-    "bujur": "105.28 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 50 km Barat Daya Sumur",
-    "warning": [
-      "II Pandeglang",
-      "II Jiput",
-      "II Muncul"
     ]
   }
 ]
