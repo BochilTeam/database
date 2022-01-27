@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "27/01/2022 23:03:03 WIB",
+    "lintang": "8.86 LS",
+    "bujur": "108.16 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 133 km Barat Daya Pangandaran",
+    "warning": [
+      "III-IV Pangandaran",
+      "III-IV Kebumen",
+      "III Tasikmalaya",
+      "III Banjar",
+      "III Ciamis",
+      "II Garut",
+      "II Periangan"
+    ]
+  },
+  {
     "waktu": "27/01/2022 20:20:02 WIB",
     "lintang": "6.73 LS",
     "bujur": "120.5 BT",
@@ -242,20 +259,6 @@
     "warning": [
       "II Bantul",
       "II Gunung Kidul"
-    ]
-  },
-  {
-    "waktu": "15/01/2022 15:18:09 WIB",
-    "lintang": "7.25 LS",
-    "bujur": "112.92 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 23 km tenggara Bangkalan",
-    "warning": [
-      "II Juanda",
-      "II Surabaya",
-      "III Bangkalan",
-      "II Sumenep"
     ]
   }
 ]
