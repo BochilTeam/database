@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27-01-22 23:03:03 WIB",
+    "lintang": "-8.86",
+    "bujur": "108.16",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "133 km BaratDaya KAB-PANGANDARAN-JABAR"
+  },
+  {
     "waktu": "22-01-22 09:26:13 WIB",
     "lintang": "3.67",
     "bujur": "126.82",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "42 km BaratDaya JEMBER-JATIM"
-  },
-  {
-    "waktu": "14-12-21 15:57:34 WIB",
-    "lintang": "-7.70",
-    "bujur": "122.03",
-    "magnitudo": "5.2",
-    "kedalaman": "97 Km",
-    "wilayah": "104 km BaratLaut MAUMERE-SIKKA-NTT"
   }
 ]
