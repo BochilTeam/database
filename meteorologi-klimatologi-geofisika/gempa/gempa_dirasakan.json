@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "28/01/2022 13:53:56 WIB",
+    "lintang": "0.22 LS",
+    "bujur": "124.49 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 86 km Tenggara Bolaanguki",
+    "warning": [
+      "II Manado",
+      "II Kotamobagu",
+      "II Lolak"
+    ]
+  },
+  {
     "waktu": "27/01/2022 23:03:03 WIB",
     "lintang": "8.86 LS",
     "bujur": "108.16 BT",
@@ -247,18 +260,6 @@
     "wilayah": "Pusat gempa berada di laut 61 Km Barat daya Blangpidie Aceh Barat",
     "warning": [
       "II-III Nagan Raya"
-    ]
-  },
-  {
-    "waktu": "16/01/2022 13:11:40 WIB",
-    "lintang": "9.01 LS",
-    "bujur": "110.82 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "55 Km",
-    "wilayah": "Pusat gempa berada di laut 97 km Barat Daya Pacitan",
-    "warning": [
-      "II Bantul",
-      "II Gunung Kidul"
     ]
   }
 ]
