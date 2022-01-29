@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/01/2022 04:17:13 WIB",
+    "lintang": "4.24 LS",
+    "bujur": "140.15 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di darat 33 km Barat Laut Kab. Jayapura",
+    "warning": [
+      "II Genyem"
+    ]
+  },
+  {
     "waktu": "28/01/2022 13:53:56 WIB",
     "lintang": "0.22 LS",
     "bujur": "124.49 BT",
@@ -249,17 +260,6 @@
       "II-III Jakarta Barat",
       "II-III Jakarta Selatan",
       "II-III Tambun"
-    ]
-  },
-  {
-    "waktu": "16/01/2022 13:52:32 WIB",
-    "lintang": "3.52 LU",
-    "bujur": "96.51 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di laut 61 Km Barat daya Blangpidie Aceh Barat",
-    "warning": [
-      "II-III Nagan Raya"
     ]
   }
 ]
