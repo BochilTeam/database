@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31-01-22 03:22:21 WIB",
+    "lintang": "-10.24",
+    "bujur": "122.35",
+    "magnitudo": "5.2",
+    "kedalaman": "40 Km",
+    "wilayah": "67 km TimurLaut SABURAIJUA-NTT"
+  },
+  {
     "waktu": "28-01-22 18:20:36 WIB",
     "lintang": "-12.14",
     "bujur": "112.86",
@@ -222,14 +230,6 @@
     "magnitudo": "5.5",
     "kedalaman": "10 Km",
     "wilayah": "35 km TimurLaut KOTA-SORONG-PAPUABRT"
-  },
-  {
-    "waktu": "16-12-21 18:03:31 WIB",
-    "lintang": "-6.21",
-    "bujur": "128.00",
-    "magnitudo": "5.3",
-    "kedalaman": "385 Km",
-    "wilayah": "217 km TimurLaut MALUKUBRTDAYA"
   },
   {
     "waktu": "16-12-21 18:03:31 WIB",
