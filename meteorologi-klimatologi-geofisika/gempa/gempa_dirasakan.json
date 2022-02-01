@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/02/2022 02:25:10 WIB",
+    "lintang": "7.75 LS",
+    "bujur": "128.46 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "131 Km",
+    "wilayah": "Pusat gempa berada di laut 86km TimurLaut MalukuBaratDAya",
+    "warning": [
+      "II-III Saumlaki"
+    ]
+  },
+  {
     "waktu": "01/02/2022 20:59:38 WIB",
     "lintang": "3.61 LS",
     "bujur": "120.92 BT",
@@ -231,18 +242,6 @@
     "warning": [
       "I-II Puncak Sorik Marapi",
       "I-II Panyabungan"
-    ]
-  },
-  {
-    "waktu": "20/01/2022 18:06:36 WIB",
-    "lintang": "2.24 LS",
-    "bujur": "140.21 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di laut 44 km Barat laut Kabupaten Jayapura-Papua",
-    "warning": [
-      "II Genyem",
-      "II Jayapura"
     ]
   }
 ]
