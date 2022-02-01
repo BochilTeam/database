@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/02/2022 14:50:43 WIB",
+    "lintang": "3.66 LS",
+    "bujur": "133.71 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 49 km barat daya Kaimana",
+    "warning": [
+      "II Kaimana"
+    ]
+  },
+  {
     "waktu": "01/02/2022 07:01:35 WIB",
     "lintang": "8.62 LS",
     "bujur": "118.39 BT",
@@ -235,19 +246,6 @@
     "warning": [
       "III Bima",
       "III Dompu"
-    ]
-  },
-  {
-    "waktu": "19/01/2022 21:29:48 WIB",
-    "lintang": "3.37 LS",
-    "bujur": "130.98 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "85 Km",
-    "wilayah": "Pusat gempa berada di laut 62 Km Tenggara Bula",
-    "warning": [
-      "III Bula",
-      "II Geser",
-      "II Sorong"
     ]
   }
 ]
