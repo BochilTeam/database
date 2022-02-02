@@ -1,5 +1,39 @@
 [
   {
+    "waktu": "02/02/2022 10:23:02 WIB",
+    "lintang": "8.16 LS",
+    "bujur": "107.91 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di laut 82 km BaratDaya Kabupaten Pangandaran",
+    "warning": [
+      "II-III Tasikmalaya",
+      "II-III Ciamis",
+      "II Pangandaran",
+      "II Cipatujah",
+      "II Cijulang",
+      "II Ciawitali",
+      "II Parigi",
+      "II Cikatomas",
+      "II Singajaya",
+      "II Cisompet"
+    ]
+  },
+  {
+    "waktu": "02/02/2022 06:59:38 WIB",
+    "lintang": "7.1 LS",
+    "bujur": "105.28 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di laut 58 km barat daya Sumur",
+    "warning": [
+      "II-III Cigeulis",
+      "II-III Cimanggu",
+      "II-III Sobang",
+      "II-III Sukaresmi"
+    ]
+  },
+  {
     "waktu": "02/02/2022 02:25:10 WIB",
     "lintang": "7.75 LS",
     "bujur": "128.46 BT",
@@ -219,29 +253,6 @@
     "wilayah": "Pusat gempa berada di laut 36 km TimurLaut Melonguane",
     "warning": [
       "II Talaud"
-    ]
-  },
-  {
-    "waktu": "22/01/2022 09:26:13 WIB",
-    "lintang": "3.67 LU",
-    "bujur": "126.82 BT",
-    "magnitudo": "6.1",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 39 km Tenggara Melonguane",
-    "warning": [
-      "III-IV Melonguane"
-    ]
-  },
-  {
-    "waktu": "21/01/2022 17:47:27 WIB",
-    "lintang": "0.5 LU",
-    "bujur": "99.61 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 41 km Tenggara Mandailing Natal",
-    "warning": [
-      "I-II Puncak Sorik Marapi",
-      "I-II Panyabungan"
     ]
   }
 ]
