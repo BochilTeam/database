@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/02/2022 18:37:44 WIB",
+    "lintang": "7.51 LS",
+    "bujur": "119.71 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 111 km Barat Laut Labuan Bajo",
+    "warning": [
+      "III Bima"
+    ]
+  },
+  {
     "waktu": "03/02/2022 02:29:18 WIB",
     "lintang": "0.83 LU",
     "bujur": "98.5 BT",
@@ -234,25 +245,6 @@
     "wilayah": "Pusat gempa berada di laut 139 km Barat Laut Maumere",
     "warning": [
       "II Pulau Kalaotoa"
-    ]
-  },
-  {
-    "waktu": "22/01/2022 15:34:38 WIB",
-    "lintang": "7.49 LS",
-    "bujur": "107.31 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 57 km BaratDaya Kab-Bandung",
-    "warning": [
-      "III Cidaun",
-      "III Cidora",
-      "III Cijayanti",
-      "III Rancabuaya",
-      "II Pamengpeuk",
-      "II Pakenjeng",
-      "II Bungbulang",
-      "II Cisompet",
-      "II Margaasih"
     ]
   }
 ]
