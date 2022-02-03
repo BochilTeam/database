@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/02/2022 02:29:18 WIB",
+    "lintang": "0.83 LU",
+    "bujur": "98.5 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "45 Km",
+    "wilayah": "Pusat gempa berada di laut 81 km Timur Laut Nias Selatan",
+    "warning": [
+      "II Pangautan"
+    ]
+  },
+  {
     "waktu": "02/02/2022 10:23:02 WIB",
     "lintang": "8.16 LS",
     "bujur": "107.91 BT",
@@ -242,17 +253,6 @@
       "II Bungbulang",
       "II Cisompet",
       "II Margaasih"
-    ]
-  },
-  {
-    "waktu": "22/01/2022 14:08:11 WIB",
-    "lintang": "4.2 LU",
-    "bujur": "126.94 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "53 Km",
-    "wilayah": "Pusat gempa berada di laut 36 km TimurLaut Melonguane",
-    "warning": [
-      "II Talaud"
     ]
   }
 ]
