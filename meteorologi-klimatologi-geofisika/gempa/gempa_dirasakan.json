@@ -1,5 +1,33 @@
 [
   {
+    "waktu": "04/02/2022 17:10:45 WIB",
+    "lintang": "7.48 LS",
+    "bujur": "105.92 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 71 Km Barat Daya Bayah",
+    "warning": [
+      "IV Pelabuhan Ratu",
+      "III Malingping",
+      "III Bayah",
+      "III Cihara",
+      "III Panggarangan",
+      "III Ciptagelar",
+      "III Wanasalam",
+      "III Sukabumi",
+      "III Rangkasbitung",
+      "III Cireunghas",
+      "III Cikeusik",
+      "II Sawarna",
+      "II Pengalengan",
+      "II Jakarta",
+      "II Kota Tangerang",
+      "II Kab. Tangerang",
+      "II Tangerang Selatan",
+      "II Parung Panjang"
+    ]
+  },
+  {
     "waktu": "03/02/2022 18:37:44 WIB",
     "lintang": "7.51 LS",
     "bujur": "119.71 BT",
@@ -234,17 +262,6 @@
       "III Lombok Tengah",
       "III Lombok Utara",
       "III Lombok Timur"
-    ]
-  },
-  {
-    "waktu": "23/01/2022 12:20:13 WIB",
-    "lintang": "7.41 LS",
-    "bujur": "121.87 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di laut 139 km Barat Laut Maumere",
-    "warning": [
-      "II Pulau Kalaotoa"
     ]
   }
 ]

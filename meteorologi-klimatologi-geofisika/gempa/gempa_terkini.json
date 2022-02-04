@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04-02-22 17:10:45 WIB",
+    "lintang": "-7.48",
+    "bujur": "105.92",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "71 km BaratDaya BAYAH-BANTEN"
+  },
+  {
     "waktu": "02-02-22 02:25:10 WIB",
     "lintang": "-7.75",
     "bujur": "128.46",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "130 km BaratLaut HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "19-12-21 01:26:01 WIB",
-    "lintang": "-0.63",
-    "bujur": "131.49",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "35 km TimurLaut KOTA-SORONG-PAPUABRT"
   }
 ]
