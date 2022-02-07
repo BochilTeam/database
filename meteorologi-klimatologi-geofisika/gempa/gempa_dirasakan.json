@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/02/2022 04:31:20 WIB",
+    "lintang": "0.32 LU",
+    "bujur": "122.35 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "114 Km",
+    "wilayah": "Pusat gempa berada di laut 23 km Tenggara Boalemo",
+    "warning": [
+      "III Boalemo"
+    ]
+  },
+  {
     "waktu": "04/02/2022 17:10:45 WIB",
     "lintang": "7.48 LS",
     "bujur": "105.92 BT",
@@ -243,25 +254,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km Tenggara Jailolo",
     "warning": [
       "II-III Jailolo"
-    ]
-  },
-  {
-    "waktu": "25/01/2022 04:14:14 WIB",
-    "lintang": "8.78 LS",
-    "bujur": "116.14 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km Tenggara Lombok Barat",
-    "warning": [
-      "IV Mataram",
-      "III Denpasar",
-      "III Badung",
-      "III Karangasem",
-      "III Padangbai",
-      "III Lombok Barat",
-      "III Lombok Tengah",
-      "III Lombok Utara",
-      "III Lombok Timur"
     ]
   }
 ]
