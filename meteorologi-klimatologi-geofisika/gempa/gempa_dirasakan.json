@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "08/02/2022 07:29:30 WIB",
+    "lintang": "2.52 LS",
+    "bujur": "140.55 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km barat laut Kota Jayapura",
+    "warning": [
+      "II-III Kabupaten Jayapura",
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "07/02/2022 04:31:20 WIB",
     "lintang": "0.32 LU",
     "bujur": "122.35 BT",
@@ -241,17 +253,6 @@
     "magnitudo": "3",
     "kedalaman": "5 Km",
     "wilayah": "Pusat gempa berada di darat 3 km BaratLaut Jailolo",
-    "warning": [
-      "II-III Jailolo"
-    ]
-  },
-  {
-    "waktu": "26/01/2022 01:06:05 WIB",
-    "lintang": "1.05 LU",
-    "bujur": "127.51 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km Tenggara Jailolo",
     "warning": [
       "II-III Jailolo"
     ]
