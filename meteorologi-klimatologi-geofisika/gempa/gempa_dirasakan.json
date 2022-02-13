@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "13/02/2022 14:14:15 WIB",
+    "lintang": "7.57 LS",
+    "bujur": "106.73 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di laut 67 km Tenggara Kab. Sukabumi",
+    "warning": [
+      "II Kab. Sukabumi"
+    ]
+  },
+  {
+    "waktu": "13/02/2022 13:50:50 WIB",
+    "lintang": "2.84 LU",
+    "bujur": "117.2 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 24 km Tenggara Bulungan",
+    "warning": [
+      "II-III Bulungan"
+    ]
+  },
+  {
     "waktu": "13/02/2022 07:24:49 WIB",
     "lintang": "8.47 LS",
     "bujur": "115.99 BT",
@@ -235,28 +257,6 @@
       "III Ciamis",
       "II Garut",
       "II Periangan"
-    ]
-  },
-  {
-    "waktu": "27/01/2022 20:20:02 WIB",
-    "lintang": "6.73 LS",
-    "bujur": "120.5 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 49 km baratdaya Selayar",
-    "warning": [
-      "II-III Benteng Selayar"
-    ]
-  },
-  {
-    "waktu": "27/01/2022 04:26:12 WIB",
-    "lintang": "2.73 LS",
-    "bujur": "121.99 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km selatan Kab.Morowali",
-    "warning": [
-      "II-III Bahodopi"
     ]
   }
 ]
