@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-02-22 15:21:46 WIB",
+    "lintang": "0.89",
+    "bujur": "126.23",
+    "magnitudo": "5.7",
+    "kedalaman": "10 Km",
+    "wilayah": "127 km BaratLaut TERNATE-MALUT"
+  },
+  {
     "waktu": "11-02-22 21:25:16 WIB",
     "lintang": "5.77",
     "bujur": "124.43",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "146 km BaratDaya TANGGAMUS-LAMPUNG"
-  },
-  {
-    "waktu": "26-12-21 22:01:31 WIB",
-    "lintang": "-0.06",
-    "bujur": "123.49",
-    "magnitudo": "5.5",
-    "kedalaman": "90 Km",
-    "wilayah": "73 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
   }
 ]

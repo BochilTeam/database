@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "13/02/2022 15:21:46 WIB",
+    "lintang": "0.89 LU",
+    "bujur": "126.23 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 127 km BaratLaut Ternate",
+    "warning": [
+      "II-III Ternate",
+      "II Bitung",
+      "II Manado"
+    ]
+  },
+  {
+    "waktu": "13/02/2022 14:59:30 WIB",
+    "lintang": "8.05 LS",
+    "bujur": "122.4 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 66 km TimurLaut Maumere-Sikka",
+    "warning": [
+      "II Maumere"
+    ]
+  },
+  {
     "waktu": "13/02/2022 14:14:15 WIB",
     "lintang": "7.57 LS",
     "bujur": "106.73 BT",
@@ -227,36 +251,6 @@
     "wilayah": "Pusat gempa berada di darat 33 km Barat Laut Kab. Jayapura",
     "warning": [
       "II Genyem"
-    ]
-  },
-  {
-    "waktu": "28/01/2022 13:53:56 WIB",
-    "lintang": "0.22 LS",
-    "bujur": "124.49 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 86 km Tenggara Bolaanguki",
-    "warning": [
-      "II Manado",
-      "II Kotamobagu",
-      "II Lolak"
-    ]
-  },
-  {
-    "waktu": "27/01/2022 23:03:03 WIB",
-    "lintang": "8.86 LS",
-    "bujur": "108.16 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 133 km Barat Daya Pangandaran",
-    "warning": [
-      "III-IV Pangandaran",
-      "III-IV Kebumen",
-      "III Tasikmalaya",
-      "III Banjar",
-      "III Ciamis",
-      "II Garut",
-      "II Periangan"
     ]
   }
 ]
