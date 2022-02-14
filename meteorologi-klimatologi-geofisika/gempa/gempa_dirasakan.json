@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/02/2022 23:11:34 WIB",
+    "lintang": "7.86 LS",
+    "bujur": "118.57 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "32 Km",
+    "wilayah": "Pusat gempa berada di laut 67 km barat laut Bima",
+    "warning": [
+      "III Bima"
+    ]
+  },
+  {
     "waktu": "14/02/2022 12:57:47 WIB",
     "lintang": "4.52 LS",
     "bujur": "100.93 BT",
@@ -240,17 +251,6 @@
     "wilayah": "Pusat gempa berada di Laut 67 km Timurlaut Saburaijua",
     "warning": [
       "II Maumere"
-    ]
-  },
-  {
-    "waktu": "30/01/2022 16:37:55 WIB",
-    "lintang": "3.26 LU",
-    "bujur": "98.45 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 18 km barat laut Kab. Karo",
-    "warning": [
-      "III Brastagi"
     ]
   }
 ]
