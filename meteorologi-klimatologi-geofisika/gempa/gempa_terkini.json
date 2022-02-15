@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15-02-22 06:56:29 WIB",
+    "lintang": "-8.53",
+    "bujur": "134.94",
+    "magnitudo": "5.1",
+    "kedalaman": "129 Km",
+    "wilayah": "317 km Tenggara KEP.ARU-MALUKU"
+  },
+  {
     "waktu": "13-02-22 17:12:16 WIB",
     "lintang": "5.94",
     "bujur": "125.59",
@@ -230,13 +238,5 @@
     "magnitudo": "7.4",
     "kedalaman": "210 Km",
     "wilayah": "45 km BaratLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "28-12-21 17:51:50 WIB",
-    "lintang": "-7.80",
-    "bujur": "127.60",
-    "magnitudo": "5.2",
-    "kedalaman": "174 Km",
-    "wilayah": "44 km BaratLaut MALUKUBRTDAYA"
   }
 ]
