@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/02/2022 16:51:43 WIB",
+    "lintang": "0.72 LS",
+    "bujur": "131.51 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 29 km Timur Laut Kota Sorong",
+    "warning": [
+      "II Kota Sorong"
+    ]
+  },
+  {
     "waktu": "14/02/2022 23:11:34 WIB",
     "lintang": "7.86 LS",
     "bujur": "118.57 BT",
@@ -240,17 +251,6 @@
     "wilayah": "Pusat gempa berada di laut 12 km barat daya Dompu",
     "warning": [
       "III Bima"
-    ]
-  },
-  {
-    "waktu": "31/01/2022 03:22:21 WIB",
-    "lintang": "10.2 LS",
-    "bujur": "122.35 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "40 Km",
-    "wilayah": "Pusat gempa berada di Laut 67 km Timurlaut Saburaijua",
-    "warning": [
-      "II Maumere"
     ]
   }
 ]
