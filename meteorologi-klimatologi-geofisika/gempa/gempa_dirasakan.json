@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "19/02/2022 02:32:28 WIB",
+    "lintang": "8.28 LS",
+    "bujur": "114.79 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km timur laut Jembrana",
+    "warning": [
+      "II Buleleng"
+    ]
+  },
+  {
     "waktu": "18/02/2022 02:42:01 WIB",
     "lintang": "2.38 LS",
     "bujur": "120.89 BT",
@@ -242,17 +253,6 @@
     "wilayah": "Pusat gempa berada di laut 86km TimurLaut MalukuBaratDAya",
     "warning": [
       "II-III Saumlaki"
-    ]
-  },
-  {
-    "waktu": "01/02/2022 20:59:38 WIB",
-    "lintang": "3.61 LS",
-    "bujur": "120.92 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di laut 6.7km BaratLaut Kolaka Utara",
-    "warning": [
-      "II-III Lasusua"
     ]
   }
 ]
