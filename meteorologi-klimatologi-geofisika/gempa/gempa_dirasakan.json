@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "20/02/2022 00:26:15 WIB",
+    "lintang": "7.19 LS",
+    "bujur": "106.08 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 34 km barat daya Bayah",
+    "warning": [
+      "II-III Pandeglang",
+      "II Cibadak"
+    ]
+  },
+  {
     "waktu": "19/02/2022 02:32:28 WIB",
     "lintang": "8.28 LS",
     "bujur": "114.79 BT",
@@ -242,17 +254,6 @@
       "II-III Cimanggu",
       "II-III Sobang",
       "II-III Sukaresmi"
-    ]
-  },
-  {
-    "waktu": "02/02/2022 02:25:10 WIB",
-    "lintang": "7.75 LS",
-    "bujur": "128.46 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "131 Km",
-    "wilayah": "Pusat gempa berada di laut 86km TimurLaut MalukuBaratDAya",
-    "warning": [
-      "II-III Saumlaki"
     ]
   }
 ]
