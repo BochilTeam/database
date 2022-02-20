@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/02/2022 19:37:59 WIB",
+    "lintang": "9.77 LS",
+    "bujur": "124.8 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "42 Km",
+    "wilayah": "Pusat gempa berada di darat 29 km BaratDaya Malaka",
+    "warning": [
+      "II Kefamenanu"
+    ]
+  },
+  {
     "waktu": "20/02/2022 16:37:24 WIB",
     "lintang": "8.58 LS",
     "bujur": "120.44 BT",
@@ -231,26 +242,6 @@
     "wilayah": "Pusat gempa berada di laut 81 km Timur Laut Nias Selatan",
     "warning": [
       "II Pangautan"
-    ]
-  },
-  {
-    "waktu": "02/02/2022 10:23:02 WIB",
-    "lintang": "8.16 LS",
-    "bujur": "107.91 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di laut 82 km BaratDaya Kabupaten Pangandaran",
-    "warning": [
-      "II-III Tasikmalaya",
-      "II-III Ciamis",
-      "II Pangandaran",
-      "II Cipatujah",
-      "II Cijulang",
-      "II Ciawitali",
-      "II Parigi",
-      "II Cikatomas",
-      "II Singajaya",
-      "II Cisompet"
     ]
   }
 ]
