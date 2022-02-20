@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/02/2022 16:37:24 WIB",
+    "lintang": "8.58 LS",
+    "bujur": "120.44 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km barat laut Ruteng, Manggarai",
+    "warning": [
+      "III Ruteng"
+    ]
+  },
+  {
     "waktu": "20/02/2022 00:26:15 WIB",
     "lintang": "7.19 LS",
     "bujur": "106.08 BT",
@@ -240,20 +251,6 @@
       "II Cikatomas",
       "II Singajaya",
       "II Cisompet"
-    ]
-  },
-  {
-    "waktu": "02/02/2022 06:59:38 WIB",
-    "lintang": "7.1 LS",
-    "bujur": "105.28 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di laut 58 km barat daya Sumur",
-    "warning": [
-      "II-III Cigeulis",
-      "II-III Cimanggu",
-      "II-III Sobang",
-      "II-III Sukaresmi"
     ]
   }
 ]
