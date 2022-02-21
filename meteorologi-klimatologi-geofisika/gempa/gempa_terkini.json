@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "21-02-22 20:06:57 WIB",
+    "lintang": "-8.02",
+    "bujur": "120.90",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "81 km TimurLaut RUTENG-MANGGARAI-NTT"
+  },
+  {
+    "waktu": "21-02-22 19:35:59 WIB",
+    "lintang": "-8.12",
+    "bujur": "120.70",
+    "magnitudo": "5.8",
+    "kedalaman": "10 Km",
+    "wilayah": "60 km TimurLaut RUTENG-MANGGARAI-NTT"
+  },
+  {
     "waktu": "19-02-22 07:44:57 WIB",
     "lintang": "-6.31",
     "bujur": "131.08",
@@ -222,21 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "87 Km",
     "wilayah": "76 km BaratDaya PARIGIMOUTONG-SULTENG"
-  },
-  {
-    "waktu": "30-12-21 20:13:16 WIB",
-    "lintang": "-0.16",
-    "bujur": "125.31",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "128 km Tenggara TUTUYAN-BOLTIM-SULUT"
-  },
-  {
-    "waktu": "30-12-21 03:32:53 WIB",
-    "lintang": "-7.82",
-    "bujur": "127.78",
-    "magnitudo": "5.1",
-    "kedalaman": "170 Km",
-    "wilayah": "36 km BaratLaut MALUKUBRTDAYA"
   }
 ]
