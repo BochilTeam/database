@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/02/2022 10:26:01 WIB",
+    "lintang": "7.98 LS",
+    "bujur": "120.65 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 73 km timur laut Ruteng-Manggarai",
+    "warning": [
+      "III Ruteng"
+    ]
+  },
+  {
     "waktu": "21/02/2022 23:22:35 WIB",
     "lintang": "8.03 LS",
     "bujur": "120.73 BT",
@@ -223,19 +234,6 @@
     "wilayah": "Pusat gempa berada di darat 24 km Tenggara Bulungan",
     "warning": [
       "II-III Bulungan"
-    ]
-  },
-  {
-    "waktu": "13/02/2022 07:24:49 WIB",
-    "lintang": "8.47 LS",
-    "bujur": "115.99 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada dilaut 22 km BaratDaya Lombok Utara",
-    "warning": [
-      "III Lombok Utara",
-      "III Mataram",
-      "III Lombok Barat"
     ]
   }
 ]
