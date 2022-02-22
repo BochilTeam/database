@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/02/2022 13:18:49 WIB",
+    "lintang": "8 LS",
+    "bujur": "120.68 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 72 km Timur Laut Ruteng",
+    "warning": [
+      "II-III Ruteng"
+    ]
+  },
+  {
     "waktu": "22/02/2022 10:26:01 WIB",
     "lintang": "7.98 LS",
     "bujur": "120.65 BT",
@@ -223,17 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 67 km Tenggara Kab. Sukabumi",
     "warning": [
       "II Kab. Sukabumi"
-    ]
-  },
-  {
-    "waktu": "13/02/2022 13:50:50 WIB",
-    "lintang": "2.84 LU",
-    "bujur": "117.2 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 24 km Tenggara Bulungan",
-    "warning": [
-      "II-III Bulungan"
     ]
   }
 ]
