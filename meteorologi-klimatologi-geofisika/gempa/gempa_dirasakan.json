@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/02/2022 13:45:05 WIB",
+    "lintang": "3.28 LS",
+    "bujur": "135.21 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di darat 65 km BaratLaut NABIRE",
+    "warning": [
+      "II-III Nabire"
+    ]
+  },
+  {
     "waktu": "22/02/2022 13:18:49 WIB",
     "lintang": "8 LS",
     "bujur": "120.68 BT",
@@ -223,17 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 66 km TimurLaut Maumere-Sikka",
     "warning": [
       "II Maumere"
-    ]
-  },
-  {
-    "waktu": "13/02/2022 14:14:15 WIB",
-    "lintang": "7.57 LS",
-    "bujur": "106.73 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada di laut 67 km Tenggara Kab. Sukabumi",
-    "warning": [
-      "II Kab. Sukabumi"
     ]
   }
 ]
