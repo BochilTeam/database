@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "25/02/2022 10:42:06 WIB",
+    "lintang": "0.16 LU",
+    "bujur": "100 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km Tenggara Talu-Pasaman Barat",
+    "warning": [
+      "III-IV Simpang Empat",
+      "II Padang"
+    ]
+  },
+  {
     "waktu": "25/02/2022 08:39:29 WIB",
     "lintang": "0.15 LU",
     "bujur": "99.98 BT",
@@ -7,6 +19,7 @@
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di darat 17 km TimurLaut Pasaman Barat",
     "warning": [
+      "VI Pasaman Barat",
       "V Pasaman",
       "IV Agam",
       "IV Bukit Tinggi",
@@ -234,19 +247,6 @@
     "wilayah": "Pusat gempa berada di laut 174 km barat laut Enggano",
     "warning": [
       "II Kota Bengkulu"
-    ]
-  },
-  {
-    "waktu": "13/02/2022 15:21:46 WIB",
-    "lintang": "0.89 LU",
-    "bujur": "126.23 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 127 km BaratLaut Ternate",
-    "warning": [
-      "II-III Ternate",
-      "II Bitung",
-      "II Manado"
     ]
   }
 ]
