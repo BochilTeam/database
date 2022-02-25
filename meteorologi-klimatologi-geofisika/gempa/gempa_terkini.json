@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25-02-22 16:22:50 WIB",
+    "lintang": "-8.24",
+    "bujur": "118.65",
+    "magnitudo": "5.2",
+    "kedalaman": "172 Km",
+    "wilayah": "24 km BaratLaut BIMA-NTB"
+  },
+  {
     "waktu": "25-02-22 11:06:38 WIB",
     "lintang": "0.12",
     "bujur": "99.98",
@@ -230,13 +238,5 @@
     "magnitudo": "5.7",
     "kedalaman": "10 Km",
     "wilayah": "54 km BaratDaya SUMUR-BANTEN"
-  },
-  {
-    "waktu": "14-01-22 16:05:41 WIB",
-    "lintang": "-7.01",
-    "bujur": "105.26",
-    "magnitudo": "6.7",
-    "kedalaman": "10 Km",
-    "wilayah": "52 km BaratDaya SUMUR-BANTEN"
   }
 ]
