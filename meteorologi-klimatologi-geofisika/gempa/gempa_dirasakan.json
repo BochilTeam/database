@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/02/2022 18:44:59 WIB",
+    "lintang": "7.97 LS",
+    "bujur": "120.72 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 76 km timur laut Ruteng",
+    "warning": [
+      "II-III Ruteng"
+    ]
+  },
+  {
     "waktu": "25/02/2022 10:42:06 WIB",
     "lintang": "0.16 LU",
     "bujur": "100 BT",
@@ -236,17 +247,6 @@
     "wilayah": "Pusat gempa berada di laut 67 km barat laut Bima",
     "warning": [
       "III Bima"
-    ]
-  },
-  {
-    "waktu": "14/02/2022 12:57:47 WIB",
-    "lintang": "4.52 LS",
-    "bujur": "100.93 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 174 km barat laut Enggano",
-    "warning": [
-      "II Kota Bengkulu"
     ]
   }
 ]
