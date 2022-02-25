@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "25/02/2022 22:17:21 WIB",
+    "lintang": "0.16 LU",
+    "bujur": "100.01 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Talu, Pasaman Barat",
+    "warning": [
+      "II Padang Panjang",
+      "II Lubuk Sikaping",
+      "II Lima Puluh Kota",
+      "II Payakumbuh"
+    ]
+  },
+  {
+    "waktu": "25/02/2022 21:28:15 WIB",
+    "lintang": "0.79 LS",
+    "bujur": "121.55 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 10 km Utara Ampana-Kab. Tojo Unauna",
+    "warning": [
+      "II-III Ampana"
+    ]
+  },
+  {
     "waktu": "25/02/2022 18:44:59 WIB",
     "lintang": "7.97 LS",
     "bujur": "120.72 BT",
@@ -225,28 +250,6 @@
     "wilayah": "Pusat gempa berada di laut 69 km Barat Daya Bolaanguki - Bolsel",
     "warning": [
       "II Kotamobagu"
-    ]
-  },
-  {
-    "waktu": "15/02/2022 16:51:43 WIB",
-    "lintang": "0.72 LS",
-    "bujur": "131.51 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 29 km Timur Laut Kota Sorong",
-    "warning": [
-      "II Kota Sorong"
-    ]
-  },
-  {
-    "waktu": "14/02/2022 23:11:34 WIB",
-    "lintang": "7.86 LS",
-    "bujur": "118.57 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "32 Km",
-    "wilayah": "Pusat gempa berada di laut 67 km barat laut Bima",
-    "warning": [
-      "III Bima"
     ]
   }
 ]
