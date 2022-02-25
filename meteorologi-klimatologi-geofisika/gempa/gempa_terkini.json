@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "25-02-22 08:39:29 WIB",
+    "lintang": "0.15",
+    "bujur": "99.98",
+    "magnitudo": "6.2",
+    "kedalaman": "10 Km",
+    "wilayah": "17 km TimurLaut PASAMANBARAT-SUMBAR"
+  },
+  {
+    "waktu": "25-02-22 08:35:51 WIB",
+    "lintang": "0.14",
+    "bujur": "99.99",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "18 km TimurLaut PASAMANBARAT-SUMBAR"
+  },
+  {
     "waktu": "22-02-22 05:15:19 WIB",
     "lintang": "-8.08",
     "bujur": "120.79",
@@ -222,21 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 Km",
     "wilayah": "5 km BaratDaya HALMAHERAUTARA-MALUT"
-  },
-  {
-    "waktu": "10-01-22 04:27:51 WIB",
-    "lintang": "1.52",
-    "bujur": "127.86",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "4 km BaratLaut HALMAHERAUTARA-MALUT"
-  },
-  {
-    "waktu": "08-01-22 16:53:42 WIB",
-    "lintang": "1.54",
-    "bujur": "127.83",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "8 km BaratLaut HALMAHERAUTARA-MALUT"
   }
 ]

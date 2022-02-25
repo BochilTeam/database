@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "25/02/2022 08:39:29 WIB",
+    "lintang": "0.15 LU",
+    "bujur": "99.98 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km TimurLaut Pasaman Barat",
+    "warning": [
+      "V Pasaman",
+      "IV Agam",
+      "IV Bukit Tinggi",
+      "IV Padang Panjang",
+      "III Padang",
+      "III Payakumbuh",
+      "III Aek Godang",
+      "III Gunungsitoli",
+      "II Pesisir Selatan",
+      "II Rantau Parapat",
+      "II Nias Selatan",
+      "II Bangkinang",
+      "II Malaysia",
+      "II Singapura"
+    ]
+  },
+  {
     "waktu": "24/02/2022 13:45:05 WIB",
     "lintang": "3.28 LS",
     "bujur": "135.21 BT",
@@ -223,17 +247,6 @@
       "II-III Ternate",
       "II Bitung",
       "II Manado"
-    ]
-  },
-  {
-    "waktu": "13/02/2022 14:59:30 WIB",
-    "lintang": "8.05 LS",
-    "bujur": "122.4 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 66 km TimurLaut Maumere-Sikka",
-    "warning": [
-      "II Maumere"
     ]
   }
 ]
