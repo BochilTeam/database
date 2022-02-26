@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26-02-22 06:58:07 WIB",
+    "lintang": "-4.92",
+    "bujur": "101.72",
+    "magnitudo": "5.1",
+    "kedalaman": "18 Km",
+    "wilayah": "77 km BaratLaut ENGGANO-BENGKULU"
+  },
+  {
     "waktu": "25-02-22 16:22:50 WIB",
     "lintang": "-8.24",
     "bujur": "118.65",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "149 Km",
     "wilayah": "108 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "14-01-22 16:49:21 WIB",
-    "lintang": "-7.03",
-    "bujur": "105.25",
-    "magnitudo": "5.7",
-    "kedalaman": "10 Km",
-    "wilayah": "54 km BaratDaya SUMUR-BANTEN"
   }
 ]
