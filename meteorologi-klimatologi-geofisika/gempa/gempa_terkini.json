@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26-02-22 13:15:53 WIB",
+    "lintang": "5.73",
+    "bujur": "126.37",
+    "magnitudo": "5.8",
+    "kedalaman": "122 Km",
+    "wilayah": "195 km BaratLaut MELONGUANE-SULUT"
+  },
+  {
     "waktu": "26-02-22 06:58:07 WIB",
     "lintang": "-4.92",
     "bujur": "101.72",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "33 Km",
     "wilayah": "53 km BaratLaut BIMA-NTB"
-  },
-  {
-    "waktu": "14-01-22 17:07:35 WIB",
-    "lintang": "-7.61",
-    "bujur": "128.60",
-    "magnitudo": "5.1",
-    "kedalaman": "149 Km",
-    "wilayah": "108 km TimurLaut MALUKUBRTDAYA"
   }
 ]
