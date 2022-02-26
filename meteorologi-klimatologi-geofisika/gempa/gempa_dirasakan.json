@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/02/2022 06:58:07 WIB",
+    "lintang": "4.92 LS",
+    "bujur": "101.72 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di laut 77 km arah BaratLaut Enggano",
+    "warning": [
+      "II-III Bengkulu"
+    ]
+  },
+  {
     "waktu": "25/02/2022 22:17:21 WIB",
     "lintang": "0.16 LU",
     "bujur": "100.01 BT",
@@ -239,17 +250,6 @@
     "wilayah": "Pusat gempa berada di darat 30 km BaratDaya Kab. Garut",
     "warning": [
       "II Kertasari"
-    ]
-  },
-  {
-    "waktu": "16/02/2022 09:46:50 WIB",
-    "lintang": "0.25 LS",
-    "bujur": "123.95 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "84 Km",
-    "wilayah": "Pusat gempa berada di laut 69 km Barat Daya Bolaanguki - Bolsel",
-    "warning": [
-      "II Kotamobagu"
     ]
   }
 ]
