@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/02/2022 06:04:29 WIB",
+    "lintang": "5.15 LU",
+    "bujur": "94.73 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 98 km BaratDaya Jantho-Aceh Besar",
+    "warning": [
+      "II Banda Aceh"
+    ]
+  },
+  {
     "waktu": "27/02/2022 04:55:49 WIB",
     "lintang": "2.55 LS",
     "bujur": "126.15 BT",
@@ -237,17 +248,6 @@
     "warning": [
       "II-III Pandeglang",
       "II Cibadak"
-    ]
-  },
-  {
-    "waktu": "19/02/2022 02:32:28 WIB",
-    "lintang": "8.28 LS",
-    "bujur": "114.79 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 22 km timur laut Jembrana",
-    "warning": [
-      "II Buleleng"
     ]
   }
 ]
