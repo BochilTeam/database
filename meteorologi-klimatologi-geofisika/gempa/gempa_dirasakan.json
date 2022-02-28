@@ -1,5 +1,47 @@
 [
   {
+    "waktu": "28/02/2022 22:38:11 WIB",
+    "lintang": "7.34 LS",
+    "bujur": "106.08 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "28 Km",
+    "wilayah": "Pusat gempa berada di laut 49 Km Barat Daya Bayah",
+    "warning": [
+      "II-III Jiput",
+      "II-III Cimanggu",
+      "II-III Carita",
+      "II-III Labuan",
+      "II-III Bayah",
+      "II Cisolok"
+    ]
+  },
+  {
+    "waktu": "28/02/2022 21:42:07 WIB",
+    "lintang": "8.1 LS",
+    "bujur": "120.6 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 58 Km Timur Laut Ruteng, Manggarai",
+    "warning": [
+      "II-III Ruteng",
+      "II Labuan Bajo"
+    ]
+  },
+  {
+    "waktu": "28/02/2022 21:16:58 WIB",
+    "lintang": "8.12 LS",
+    "bujur": "120.56 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 55 km Timur Laut Ruteng, Manggarai",
+    "warning": [
+      "III-IV Ruteng",
+      "III Labuan Bajo",
+      "III Reo",
+      "II Waingapu"
+    ]
+  },
+  {
     "waktu": "28/02/2022 06:04:29 WIB",
     "lintang": "5.15 LU",
     "bujur": "94.73 BT",
@@ -214,40 +256,6 @@
       "II-III Waingapu",
       "II-III Bima",
       "II-III Dompu"
-    ]
-  },
-  {
-    "waktu": "20/02/2022 19:37:59 WIB",
-    "lintang": "9.77 LS",
-    "bujur": "124.8 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "42 Km",
-    "wilayah": "Pusat gempa berada di darat 29 km BaratDaya Malaka",
-    "warning": [
-      "II Kefamenanu"
-    ]
-  },
-  {
-    "waktu": "20/02/2022 16:37:24 WIB",
-    "lintang": "8.58 LS",
-    "bujur": "120.44 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km barat laut Ruteng, Manggarai",
-    "warning": [
-      "III Ruteng"
-    ]
-  },
-  {
-    "waktu": "20/02/2022 00:26:15 WIB",
-    "lintang": "7.19 LS",
-    "bujur": "106.08 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 34 km barat daya Bayah",
-    "warning": [
-      "II-III Pandeglang",
-      "II Cibadak"
     ]
   }
 ]
