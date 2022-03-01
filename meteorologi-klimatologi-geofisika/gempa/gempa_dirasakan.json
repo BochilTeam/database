@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/03/2022 14:16:30 WIB",
+    "lintang": "1.94 LS",
+    "bujur": "115.81 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 46 Km Barat Laut Paser",
+    "warning": [
+      "II-III Paser"
+    ]
+  },
+  {
     "waktu": "01/03/2022 05:59:06 WIB",
     "lintang": "8.06 LS",
     "bujur": "120.49 BT",
@@ -238,17 +249,6 @@
     "warning": [
       "II Ruteng",
       "II Labuan Bajo"
-    ]
-  },
-  {
-    "waktu": "21/02/2022 20:28:13 WIB",
-    "lintang": "8.02 LS",
-    "bujur": "120.75 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 73km TimurLaut Ruteng-Manggarai",
-    "warning": [
-      "II Ruteng"
     ]
   }
 ]
