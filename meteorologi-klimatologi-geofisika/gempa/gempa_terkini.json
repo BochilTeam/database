@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01-03-22 22:12:26 WIB",
+    "lintang": "-8.48",
+    "bujur": "107.57",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "134 km BaratDaya KAB-PANGANDARAN-JABAR"
+  },
+  {
     "waktu": "01-03-22 18:04:11 WIB",
     "lintang": "3.97",
     "bujur": "95.96",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "94 Km",
     "wilayah": "136 km BaratLaut MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "17-01-22 07:25:56 WIB",
-    "lintang": "-7.60",
-    "bujur": "105.90",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "84 km BaratDaya BAYAH-BANTEN"
   }
 ]
