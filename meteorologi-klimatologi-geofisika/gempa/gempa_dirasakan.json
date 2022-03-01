@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "01/03/2022 18:04:11 WIB",
+    "lintang": "3.97 LU",
+    "bujur": "95.96 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "28 Km",
+    "wilayah": "Pusat gempa berada di laut 26 Km Barat Daya Meulaboh",
+    "warning": [
+      "III Meulaboh",
+      "II-III Banda Aceh",
+      "II-III Takengon",
+      "III Aceh Jaya",
+      "II Balng Pidie",
+      "II Pidie Jaya"
+    ]
+  },
+  {
     "waktu": "01/03/2022 14:16:30 WIB",
     "lintang": "1.94 LS",
     "bujur": "115.81 BT",
@@ -237,18 +253,6 @@
       "III Ruteng",
       "III Labuan Bajo",
       "II Waingapu"
-    ]
-  },
-  {
-    "waktu": "21/02/2022 22:05:15 WIB",
-    "lintang": "8.08 LS",
-    "bujur": "120.74 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 66 km TimurLaut Ruteng-Manggarai",
-    "warning": [
-      "II Ruteng",
-      "II Labuan Bajo"
     ]
   }
 ]
