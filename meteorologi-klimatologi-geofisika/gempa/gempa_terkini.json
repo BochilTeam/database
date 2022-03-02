@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-03-22 13:40:38 WIB",
+    "lintang": "-3.10",
+    "bujur": "139.10",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "71 km BaratDaya SARMI-PAPUA"
+  },
+  {
     "waktu": "01-03-22 22:12:26 WIB",
     "lintang": "-8.48",
     "bujur": "107.57",
@@ -230,13 +238,5 @@
     "magnitudo": "5.7",
     "kedalaman": "85 Km",
     "wilayah": "62 km Tenggara SERAMBAGIANTIMUR-MALUKU"
-  },
-  {
-    "waktu": "18-01-22 10:20:40 WIB",
-    "lintang": "5.18",
-    "bujur": "126.33",
-    "magnitudo": "5.0",
-    "kedalaman": "94 Km",
-    "wilayah": "136 km BaratLaut MELONGUANE-SULUT"
   }
 ]
