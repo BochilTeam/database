@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/03/2022 02:08:16 WIB",
+    "lintang": "3.34 LS",
+    "bujur": "128.38 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km Timur Kairatu",
+    "warning": [
+      "II Kairatu"
+    ]
+  },
+  {
     "waktu": "01/03/2022 22:37:03 WIB",
     "lintang": "0.22 LU",
     "bujur": "99.93 BT",
@@ -258,17 +269,6 @@
     "wilayah": "Pusat gempa berada di darat 65 km BaratLaut NABIRE",
     "warning": [
       "II-III Nabire"
-    ]
-  },
-  {
-    "waktu": "22/02/2022 13:18:49 WIB",
-    "lintang": "8 LS",
-    "bujur": "120.68 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 72 km Timur Laut Ruteng",
-    "warning": [
-      "II-III Ruteng"
     ]
   }
 ]
