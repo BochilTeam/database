@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/03/2022 11:41:14 WIB",
+    "lintang": "0.26 LU",
+    "bujur": "99.89 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km barat laut Talu-Pasaman Barat",
+    "warning": [
+      "III Talu"
+    ]
+  },
+  {
     "waktu": "02/03/2022 02:08:16 WIB",
     "lintang": "3.34 LS",
     "bujur": "128.38 BT",
@@ -258,17 +269,6 @@
       "II Bangkinang",
       "II Malaysia",
       "II Singapura"
-    ]
-  },
-  {
-    "waktu": "24/02/2022 13:45:05 WIB",
-    "lintang": "3.28 LS",
-    "bujur": "135.21 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada di darat 65 km BaratLaut NABIRE",
-    "warning": [
-      "II-III Nabire"
     ]
   }
 ]
