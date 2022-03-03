@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "03/03/2022 13:37:04 WIB",
+    "lintang": "0.15 LU",
+    "bujur": "100 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km tenggara Talu",
+    "warning": [
+      "III Pasaman Barat",
+      "I-II Padang Panjang",
+      "I-II Pariaman"
+    ]
+  },
+  {
     "waktu": "03/03/2022 06:25:22 WIB",
     "lintang": "0.59 LS",
     "bujur": "131.38 BT",
@@ -245,17 +258,6 @@
     "wilayah": "Pusat gempa berada di laut 10 km Utara Ampana-Kab. Tojo Unauna",
     "warning": [
       "II-III Ampana"
-    ]
-  },
-  {
-    "waktu": "25/02/2022 18:44:59 WIB",
-    "lintang": "7.97 LS",
-    "bujur": "120.72 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 76 km timur laut Ruteng",
-    "warning": [
-      "II-III Ruteng"
     ]
   }
 ]
