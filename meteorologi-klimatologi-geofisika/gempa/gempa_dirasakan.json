@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "03/03/2022 06:25:22 WIB",
+    "lintang": "0.59 LS",
+    "bujur": "131.38 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 33 km timur laut Sorong",
+    "warning": [
+      "III-IV Sorong",
+      "III-IV Aimas",
+      "III-IV Waisai"
+    ]
+  },
+  {
+    "waktu": "03/03/2022 02:14:43 WIB",
+    "lintang": "3.88 LS",
+    "bujur": "135.56 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di darat 46 km baratdaya Nabire",
+    "warning": [
+      "II-III Nabire"
+    ]
+  },
+  {
     "waktu": "02/03/2022 11:41:14 WIB",
     "lintang": "0.26 LU",
     "bujur": "99.89 BT",
@@ -232,43 +256,6 @@
     "wilayah": "Pusat gempa berada di laut 76 km timur laut Ruteng",
     "warning": [
       "II-III Ruteng"
-    ]
-  },
-  {
-    "waktu": "25/02/2022 10:42:06 WIB",
-    "lintang": "0.16 LU",
-    "bujur": "100 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km Tenggara Talu-Pasaman Barat",
-    "warning": [
-      "III-IV Simpang Empat",
-      "II Padang"
-    ]
-  },
-  {
-    "waktu": "25/02/2022 08:39:29 WIB",
-    "lintang": "0.15 LU",
-    "bujur": "99.98 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km TimurLaut Pasaman Barat",
-    "warning": [
-      "VI Pasaman Barat",
-      "V Pasaman",
-      "IV Agam",
-      "IV Bukit Tinggi",
-      "IV Padang Panjang",
-      "III Padang",
-      "III Payakumbuh",
-      "III Aek Godang",
-      "III Gunungsitoli",
-      "II Pesisir Selatan",
-      "II Rantau Parapat",
-      "II Nias Selatan",
-      "II Bangkinang",
-      "II Malaysia",
-      "II Singapura"
     ]
   }
 ]
