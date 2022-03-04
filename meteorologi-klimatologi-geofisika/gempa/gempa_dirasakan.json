@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "04/03/2022 14:00:33 WIB",
+    "lintang": "9.72 LS",
+    "bujur": "120.26 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 6 Km Barat Daya Waingapu",
+    "warning": [
+      "III Labuan Bajo",
+      "II Tambolaka"
+    ]
+  },
+  {
     "waktu": "03/03/2022 13:37:04 WIB",
     "lintang": "0.15 LU",
     "bujur": "100 BT",
@@ -247,17 +259,6 @@
       "II Lubuk Sikaping",
       "II Lima Puluh Kota",
       "II Payakumbuh"
-    ]
-  },
-  {
-    "waktu": "25/02/2022 21:28:15 WIB",
-    "lintang": "0.79 LS",
-    "bujur": "121.55 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 10 km Utara Ampana-Kab. Tojo Unauna",
-    "warning": [
-      "II-III Ampana"
     ]
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04-03-22 14:00:33 WIB",
+    "lintang": "-9.72",
+    "bujur": "120.26",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "6 km BaratDaya WAINGAPU-NTT"
+  },
+  {
     "waktu": "02-03-22 13:40:38 WIB",
     "lintang": "-3.10",
     "bujur": "139.10",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 Km",
     "wilayah": "69 km BaratLaut JAYAPURA-PAPUA"
-  },
-  {
-    "waktu": "19-01-22 21:29:48 WIB",
-    "lintang": "-3.37",
-    "bujur": "130.98",
-    "magnitudo": "5.7",
-    "kedalaman": "85 Km",
-    "wilayah": "62 km Tenggara SERAMBAGIANTIMUR-MALUKU"
   }
 ]
