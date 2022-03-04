@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04-03-22 22:01:41 WIB",
+    "lintang": "-7.53",
+    "bujur": "128.50",
+    "magnitudo": "5.1",
+    "kedalaman": "124 Km",
+    "wilayah": "104 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "04-03-22 14:00:33 WIB",
     "lintang": "-9.72",
     "bujur": "120.26",
@@ -230,13 +238,5 @@
     "magnitudo": "6.1",
     "kedalaman": "12 Km",
     "wilayah": "39 km Tenggara MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "20-01-22 17:44:11 WIB",
-    "lintang": "-2.04",
-    "bujur": "140.37",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "69 km BaratLaut JAYAPURA-PAPUA"
   }
 ]
