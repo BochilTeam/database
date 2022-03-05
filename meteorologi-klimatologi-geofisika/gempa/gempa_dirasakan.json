@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "05/03/2022 19:02:39 WIB",
+    "lintang": "4.56 LU",
+    "bujur": "94.84 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 82 km barat daya Aceh Jaya",
+    "warning": [
+      "V Aceh Jaya",
+      "V Meulaboh",
+      "IV Banda Aceh",
+      "IV Aceh Besar",
+      "II-III Pidie"
+    ]
+  },
+  {
     "waktu": "04/03/2022 20:46:19 WIB",
     "lintang": "4.08 LS",
     "bujur": "121.98 BT",
@@ -257,17 +272,6 @@
     "wilayah": "Pusat gempa berada di laut 58 km selatan Sanana",
     "warning": [
       "III Sanana"
-    ]
-  },
-  {
-    "waktu": "27/02/2022 02:08:18 WIB",
-    "lintang": "0.23 LU",
-    "bujur": "99.91 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 7km BaratLaut Talu Pasaman Barat",
-    "warning": [
-      "IV Pasaman Barat"
     ]
   }
 ]
