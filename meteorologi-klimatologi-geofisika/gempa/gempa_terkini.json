@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06-03-22 05:40:28 WIB",
+    "lintang": "3.55",
+    "bujur": "126.10",
+    "magnitudo": "5.0",
+    "kedalaman": "43 Km",
+    "wilayah": "67 km Tenggara TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
     "waktu": "05-03-22 19:02:39 WIB",
     "lintang": "4.56",
     "bujur": "94.84",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "86 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
-  },
-  {
-    "waktu": "27-01-22 23:03:03 WIB",
-    "lintang": "-8.86",
-    "bujur": "108.16",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "133 km BaratDaya KAB-PANGANDARAN-JABAR"
   }
 ]
