@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "07/03/2022 10:47:23 WIB",
+    "lintang": "7.98 LS",
+    "bujur": "122.47 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 66 km BaratLaut Larantukan",
+    "warning": [
+      "I-II Larantuka",
+      "I-II Lembata"
+    ]
+  },
+  {
     "waktu": "05/03/2022 19:02:39 WIB",
     "lintang": "4.56 LU",
     "bujur": "94.84 BT",
@@ -261,17 +273,6 @@
     "wilayah": "Pusat gempa berada di laut 98 km BaratDaya Jantho-Aceh Besar",
     "warning": [
       "II Banda Aceh"
-    ]
-  },
-  {
-    "waktu": "27/02/2022 04:55:49 WIB",
-    "lintang": "2.55 LS",
-    "bujur": "126.15 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 58 km selatan Sanana",
-    "warning": [
-      "III Sanana"
     ]
   }
 ]
