@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "08/03/2022 01:13:15 WIB",
+    "lintang": "2.57 LU",
+    "bujur": "125.92 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "32 Km",
+    "wilayah": "Pusat gempa berada di laut 65 km Tenggara Ondong",
+    "warning": [
+      "III Manado",
+      "III Siau",
+      "III Minahasa Utara",
+      "II Tondano",
+      "II Bitung"
+    ]
+  },
+  {
     "waktu": "07/03/2022 14:04:56 WIB",
     "lintang": "0.43 LS",
     "bujur": "131.92 BT",
@@ -259,18 +274,6 @@
       "II-III Labuan",
       "II-III Bayah",
       "II Cisolok"
-    ]
-  },
-  {
-    "waktu": "28/02/2022 21:42:07 WIB",
-    "lintang": "8.1 LS",
-    "bujur": "120.6 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 58 Km Timur Laut Ruteng, Manggarai",
-    "warning": [
-      "II-III Ruteng",
-      "II Labuan Bajo"
     ]
   }
 ]
