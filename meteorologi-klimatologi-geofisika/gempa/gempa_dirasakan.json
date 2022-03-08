@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "08/03/2022 18:39:51 WIB",
+    "lintang": "8.43 LS",
+    "bujur": "116.01 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 18 km barat daya Lombok Utara",
+    "warning": [
+      "III Lombok Utara",
+      "II Lombok Barat"
+    ]
+  },
+  {
     "waktu": "08/03/2022 01:13:15 WIB",
     "lintang": "2.57 LU",
     "bujur": "125.92 BT",
@@ -258,22 +270,6 @@
     "warning": [
       "II-III Ruteng",
       "II Labuan Bajo"
-    ]
-  },
-  {
-    "waktu": "28/02/2022 22:38:11 WIB",
-    "lintang": "7.34 LS",
-    "bujur": "106.08 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "28 Km",
-    "wilayah": "Pusat gempa berada di laut 49 Km Barat Daya Bayah",
-    "warning": [
-      "II-III Jiput",
-      "II-III Cimanggu",
-      "II-III Carita",
-      "II-III Labuan",
-      "II-III Bayah",
-      "II Cisolok"
     ]
   }
 ]
