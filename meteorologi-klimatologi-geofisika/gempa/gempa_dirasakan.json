@@ -5,7 +5,7 @@
     "bujur": "128.43 BT",
     "magnitudo": "5.2",
     "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di Laut 60 km TimurLaut Daruba",
+    "wilayah": "Pusat gempa berada di laut 60 km TimurLaut Daruba",
     "warning": [
       "II-III Morotai"
     ]
@@ -16,7 +16,7 @@
     "bujur": "116.01 BT",
     "magnitudo": "3.4",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 18 km barat daya Lombok Utara",
+    "wilayah": "Pusat gempa berada di laut 18 km baratdaya Lombok Utara",
     "warning": [
       "III Lombok Utara",
       "II Lombok Barat"
@@ -78,7 +78,7 @@
     "bujur": "94.84 BT",
     "magnitudo": "5.9",
     "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 82 km barat daya Aceh Jaya",
+    "wilayah": "Pusat gempa berada di laut 82 km baratdaya Aceh Jaya",
     "warning": [
       "IV Aceh Jaya",
       "IV Meulaboh",
@@ -93,7 +93,7 @@
     "bujur": "121.98 BT",
     "magnitudo": "2.8",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km barat daya Onembute",
+    "wilayah": "Pusat gempa berada di darat 5 km baratdaya Onembute",
     "warning": [
       "II-III Onembute",
       "II-III Rate-rate"
@@ -105,7 +105,7 @@
     "bujur": "105.38 BT",
     "magnitudo": "4.9",
     "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 49 km barat daya Sumur",
+    "wilayah": "Pusat gempa berada di laut 49 km baratdaya Sumur",
     "warning": [
       "III Sumur",
       "III Cibaliung",
@@ -127,7 +127,7 @@
     "bujur": "120.26 BT",
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 6 Km Barat Daya Waingapu",
+    "wilayah": "Pusat gempa berada di darat 6 Km baratdaya Waingapu",
     "warning": [
       "III Labuan Bajo",
       "II Tambolaka"
@@ -198,7 +198,7 @@
     "bujur": "99.93 BT",
     "magnitudo": "4.5",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5km BaratDaya Talu-Pasaman Barat",
+    "wilayah": "Pusat gempa berada di darat 5km baratdaya Talu-Pasaman Barat",
     "warning": [
       "II-III Padang",
       "III-IV Pasaman Barat",
@@ -212,7 +212,7 @@
     "bujur": "107.57 BT",
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 134km BaratDaya Kab-Pangandaran",
+    "wilayah": "Pusat gempa berada di laut 134km baratdaya Kab-Pangandaran",
     "warning": [
       "III Bayongbong",
       "III Garut",
@@ -238,7 +238,7 @@
     "bujur": "95.96 BT",
     "magnitudo": "5.3",
     "kedalaman": "28 Km",
-    "wilayah": "Pusat gempa berada di laut 26 Km Barat Daya Meulaboh",
+    "wilayah": "Pusat gempa berada di laut 26 Km baratdaya Meulaboh",
     "warning": [
       "III Meulaboh",
       "II-III Banda Aceh",
