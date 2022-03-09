@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/03/2022 08:49:18 WIB",
+    "lintang": "2.57 LU",
+    "bujur": "128.43 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di Laut 60 km TimurLaut Daruba",
+    "warning": [
+      "II-III Morotai"
+    ]
+  },
+  {
     "waktu": "08/03/2022 18:39:51 WIB",
     "lintang": "8.43 LS",
     "bujur": "116.01 BT",
@@ -257,18 +268,6 @@
     "wilayah": "Pusat gempa berada di laut 61 km TimurLaut Ruteng-Manggarai",
     "warning": [
       "III Ruteng",
-      "II Labuan Bajo"
-    ]
-  },
-  {
-    "waktu": "01/03/2022 00:10:42 WIB",
-    "lintang": "8.1 LS",
-    "bujur": "120.56 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 57 km Timur Laut Ruteng, Manggarai",
-    "warning": [
-      "II-III Ruteng",
       "II Labuan Bajo"
     ]
   }

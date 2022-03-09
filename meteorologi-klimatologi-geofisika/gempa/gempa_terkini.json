@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09-03-22 08:49:18 WIB",
+    "lintang": "2.57",
+    "bujur": "128.43",
+    "magnitudo": "5.2",
+    "kedalaman": "14 Km",
+    "wilayah": "60 km TimurLaut DARUBA-MALUT"
+  },
+  {
     "waktu": "08-03-22 01:13:15 WIB",
     "lintang": "2.57",
     "bujur": "125.92",
@@ -230,13 +238,5 @@
     "magnitudo": "6.2",
     "kedalaman": "131 Km",
     "wilayah": "86 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "31-01-22 03:22:21 WIB",
-    "lintang": "-10.24",
-    "bujur": "122.35",
-    "magnitudo": "5.2",
-    "kedalaman": "40 Km",
-    "wilayah": "67 km TimurLaut SABURAIJUA-NTT"
   }
 ]
