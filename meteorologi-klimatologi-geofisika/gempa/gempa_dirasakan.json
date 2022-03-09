@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/03/2022 14:09:29 WIB",
+    "lintang": "2.25 LS",
+    "bujur": "140.56 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 35 km BaratLaut Kota Jayapura",
+    "warning": [
+      "II Angkasapura"
+    ]
+  },
+  {
     "waktu": "09/03/2022 08:49:18 WIB",
     "lintang": "2.57 LU",
     "bujur": "128.43 BT",
@@ -257,18 +268,6 @@
     "wilayah": "Pusat gempa berada di darat 46 Km Barat Laut Paser",
     "warning": [
       "II-III Paser"
-    ]
-  },
-  {
-    "waktu": "01/03/2022 05:59:06 WIB",
-    "lintang": "8.06 LS",
-    "bujur": "120.49 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 61 km TimurLaut Ruteng-Manggarai",
-    "warning": [
-      "III Ruteng",
-      "II Labuan Bajo"
     ]
   }
 ]
