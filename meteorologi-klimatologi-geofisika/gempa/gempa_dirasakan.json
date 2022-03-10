@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "10/03/2022 11:26:52 WIB",
+    "lintang": "3.86 LU",
+    "bujur": "95.89 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km Barat Daya Meulaboh",
+    "warning": [
+      "III-IV Meulaboh",
+      "III Calang",
+      "II Banda Aceh",
+      "II Tapak Tuan",
+      "II Sigli"
+    ]
+  },
+  {
     "waktu": "09/03/2022 14:09:29 WIB",
     "lintang": "2.25 LS",
     "bujur": "140.56 BT",
@@ -257,17 +272,6 @@
       "III Aceh Jaya",
       "II Balng Pidie",
       "II Pidie Jaya"
-    ]
-  },
-  {
-    "waktu": "01/03/2022 14:16:30 WIB",
-    "lintang": "1.94 LS",
-    "bujur": "115.81 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 46 Km Barat Laut Paser",
-    "warning": [
-      "II-III Paser"
     ]
   }
 ]

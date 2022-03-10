@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10-03-22 11:26:52 WIB",
+    "lintang": "3.86",
+    "bujur": "95.89",
+    "magnitudo": "5.2",
+    "kedalaman": "15 Km",
+    "wilayah": "41 km BaratDaya MEULABOH-ACEHBARAT"
+  },
+  {
     "waktu": "09-03-22 08:49:18 WIB",
     "lintang": "2.57",
     "bujur": "128.43",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 Km",
     "wilayah": "71 km BaratDaya BAYAH-BANTEN"
-  },
-  {
-    "waktu": "02-02-22 02:25:10 WIB",
-    "lintang": "-7.75",
-    "bujur": "128.46",
-    "magnitudo": "6.2",
-    "kedalaman": "131 Km",
-    "wilayah": "86 km TimurLaut MALUKUBRTDAYA"
   }
 ]
