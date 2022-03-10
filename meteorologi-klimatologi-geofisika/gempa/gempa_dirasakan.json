@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "10/03/2022 14:42:12 WIB",
+    "lintang": "2.96 LS",
+    "bujur": "119.34 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km tenggara Mamasa",
+    "warning": [
+      "II Mamasa"
+    ]
+  },
+  {
     "waktu": "10/03/2022 11:26:52 WIB",
     "lintang": "3.86 LU",
     "bujur": "95.89 BT",
@@ -256,22 +267,6 @@
       "III Cipatujah",
       "III Pameungpeuk",
       "III Cipamingkis"
-    ]
-  },
-  {
-    "waktu": "01/03/2022 18:04:11 WIB",
-    "lintang": "3.97 LU",
-    "bujur": "95.96 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "28 Km",
-    "wilayah": "Pusat gempa berada di laut 26 Km baratdaya Meulaboh",
-    "warning": [
-      "III Meulaboh",
-      "II-III Banda Aceh",
-      "II-III Takengon",
-      "III Aceh Jaya",
-      "II Balng Pidie",
-      "II Pidie Jaya"
     ]
   }
 ]
