@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/03/2022 18:49:52 WIB",
+    "lintang": "4.06 LS",
+    "bujur": "133.51 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 98 Km Barat Daya Kaimana",
+    "warning": [
+      "II Kaimana"
+    ]
+  },
+  {
     "waktu": "11/03/2022 14:09:54 WIB",
     "lintang": "3.73 LS",
     "bujur": "138.66 BT",
@@ -238,20 +249,6 @@
     "wilayah": "Pusat gempa berada di darat 3 km Timur Kairatu",
     "warning": [
       "II Kairatu"
-    ]
-  },
-  {
-    "waktu": "01/03/2022 22:37:03 WIB",
-    "lintang": "0.22 LU",
-    "bujur": "99.93 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5km baratdaya Talu-Pasaman Barat",
-    "warning": [
-      "II-III Padang",
-      "III-IV Pasaman Barat",
-      "I-II Padang Panjang",
-      "I-II Bukit Tinggi"
     ]
   }
 ]
