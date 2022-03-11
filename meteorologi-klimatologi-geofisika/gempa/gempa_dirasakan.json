@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/03/2022 14:09:54 WIB",
+    "lintang": "3.73 LS",
+    "bujur": "138.66 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km Barat laut Jayawijaya",
+    "warning": [
+      "II-III Wamena"
+    ]
+  },
+  {
     "waktu": "10/03/2022 14:42:12 WIB",
     "lintang": "2.96 LS",
     "bujur": "119.34 BT",
@@ -241,32 +252,6 @@
       "III-IV Pasaman Barat",
       "I-II Padang Panjang",
       "I-II Bukit Tinggi"
-    ]
-  },
-  {
-    "waktu": "01/03/2022 22:12:26 WIB",
-    "lintang": "8.48 LS",
-    "bujur": "107.57 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 134km baratdaya Kab-Pangandaran",
-    "warning": [
-      "III Bayongbong",
-      "III Garut",
-      "III Pasirwangi",
-      "III Karangpawitan",
-      "III Singajaya",
-      "III Bungbulang",
-      "III Pangelangan",
-      "III Cikajang",
-      "III Cisurupan",
-      "III Pakenjeng",
-      "III Banyuresmi",
-      "III Tasikmalaya",
-      "III Pangandaran",
-      "III Cipatujah",
-      "III Pameungpeuk",
-      "III Cipamingkis"
     ]
   }
 ]
