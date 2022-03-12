@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/03/2022 01:13:42 WIB",
+    "lintang": "1.53 LS",
+    "bujur": "134.22 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di laut 8 km Tenggara Ransiki",
+    "warning": [
+      "II-III Ransiki"
+    ]
+  },
+  {
     "waktu": "12/03/2022 12:31:07 WIB",
     "lintang": "7.19 LS",
     "bujur": "105.98 BT",
@@ -252,17 +263,6 @@
       "III-IV Sorong",
       "III-IV Aimas",
       "III-IV Waisai"
-    ]
-  },
-  {
-    "waktu": "03/03/2022 02:14:43 WIB",
-    "lintang": "3.88 LS",
-    "bujur": "135.56 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada di darat 46 km baratdaya Nabire",
-    "warning": [
-      "II-III Nabire"
     ]
   }
 ]
