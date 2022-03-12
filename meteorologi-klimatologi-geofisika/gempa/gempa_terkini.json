@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-03-22 12:31:07 WIB",
+    "lintang": "-7.19",
+    "bujur": "105.98",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "41 km BaratDaya BAYAH-BANTEN"
+  },
+  {
     "waktu": "10-03-22 11:26:52 WIB",
     "lintang": "3.86",
     "bujur": "95.89",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "267 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
-  },
-  {
-    "waktu": "04-02-22 17:10:45 WIB",
-    "lintang": "-7.48",
-    "bujur": "105.92",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "71 km BaratDaya BAYAH-BANTEN"
   }
 ]
