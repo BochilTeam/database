@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "13/03/2022 10:11:50 WIB",
+    "lintang": "6.95 LS",
+    "bujur": "107.21 BT",
+    "magnitudo": "3",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km Tenggara Kabupaten Cianjur",
+    "warning": [
+      "III Cibeber",
+      "III Bojongpicung",
+      "III Ciranjang",
+      "II Cianjur"
+    ]
+  },
+  {
     "waktu": "13/03/2022 01:13:42 WIB",
     "lintang": "1.53 LS",
     "bujur": "134.22 BT",
@@ -250,19 +264,6 @@
       "III Pasaman Barat",
       "I-II Padang Panjang",
       "I-II Pariaman"
-    ]
-  },
-  {
-    "waktu": "03/03/2022 06:25:22 WIB",
-    "lintang": "0.59 LS",
-    "bujur": "131.38 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 33 km timur laut Sorong",
-    "warning": [
-      "III-IV Sorong",
-      "III-IV Aimas",
-      "III-IV Waisai"
     ]
   }
 ]
