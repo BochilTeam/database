@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/03/2022 19:46:37 WIB",
+    "lintang": "7.22 LS",
+    "bujur": "107.6 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 23 km Tenggara Kabupaten Bandung",
+    "warning": [
+      "II Pangalengan"
+    ]
+  },
+  {
     "waktu": "13/03/2022 10:11:50 WIB",
     "lintang": "6.95 LS",
     "bujur": "107.21 BT",
@@ -251,19 +262,6 @@
     "warning": [
       "III Labuan Bajo",
       "II Tambolaka"
-    ]
-  },
-  {
-    "waktu": "03/03/2022 13:37:04 WIB",
-    "lintang": "0.15 LU",
-    "bujur": "100 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km tenggara Talu",
-    "warning": [
-      "III Pasaman Barat",
-      "I-II Padang Panjang",
-      "I-II Pariaman"
     ]
   }
 ]
