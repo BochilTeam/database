@@ -1,5 +1,32 @@
 [
   {
+    "waktu": "14/03/2022 04:09:21 WIB",
+    "lintang": "0.71 LS",
+    "bujur": "98.5 BT",
+    "magnitudo": "6.9",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 161 km Tenggara NiasSelatan",
+    "warning": [
+      "IV Padang",
+      "IV Siberut",
+      "IV Nias Selatan",
+      "IV Gunungsitoli",
+      "III Padang Panjang",
+      "III Bukit Tinggi",
+      "III Pasaman Barat",
+      "III Tua Pejat",
+      "III Pariaman",
+      "II Dhamasraya",
+      "II Payakumbuh",
+      "II Kerinci",
+      "II Tapanuli Selatan",
+      "II Pesisir Selatan",
+      "II Batusangkar",
+      "II Padang Pariaman",
+      "II Solok"
+    ]
+  },
+  {
     "waktu": "13/03/2022 19:46:37 WIB",
     "lintang": "7.22 LS",
     "bujur": "107.6 BT",
@@ -250,18 +277,6 @@
       "II-III Malimping",
       "II-III Panggarangan",
       "II-III Sajira"
-    ]
-  },
-  {
-    "waktu": "04/03/2022 14:00:33 WIB",
-    "lintang": "9.72 LS",
-    "bujur": "120.26 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 6 Km baratdaya Waingapu",
-    "warning": [
-      "III Labuan Bajo",
-      "II Tambolaka"
     ]
   }
 ]

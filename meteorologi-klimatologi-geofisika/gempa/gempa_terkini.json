@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "14-03-22 04:38:43 WIB",
+    "lintang": "-0.66",
+    "bujur": "98.45",
+    "magnitudo": "6.0",
+    "kedalaman": "26 Km",
+    "wilayah": "154 km Tenggara NIASSELATAN-SUMUT"
+  },
+  {
+    "waktu": "14-03-22 04:09:21 WIB",
+    "lintang": "-0.71",
+    "bujur": "98.50",
+    "magnitudo": "6.9",
+    "kedalaman": "25 Km",
+    "wilayah": "161 km Tenggara NIASSELATAN-SUMUT"
+  },
+  {
     "waktu": "12-03-22 12:31:07 WIB",
     "lintang": "-7.19",
     "bujur": "105.98",
@@ -222,21 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "247 km BaratLaut MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "13-02-22 15:21:46 WIB",
-    "lintang": "0.89",
-    "bujur": "126.23",
-    "magnitudo": "5.7",
-    "kedalaman": "10 Km",
-    "wilayah": "127 km BaratLaut TERNATE-MALUT"
-  },
-  {
-    "waktu": "11-02-22 21:25:16 WIB",
-    "lintang": "5.77",
-    "bujur": "124.43",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "267 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
