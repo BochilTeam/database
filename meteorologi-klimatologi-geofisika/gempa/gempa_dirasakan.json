@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/03/2022 10:08:46 WIB",
+    "lintang": "0.02 LU",
+    "bujur": "126.7 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 110 km Barat Daya Tidore",
+    "warning": [
+      "II Ternate"
+    ]
+  },
+  {
     "waktu": "14/03/2022 04:38:43 WIB",
     "lintang": "0.66 LS",
     "bujur": "98.45 BT",
@@ -265,18 +276,6 @@
       "IV Banda Aceh",
       "IV Aceh Besar",
       "II-III Pidie"
-    ]
-  },
-  {
-    "waktu": "04/03/2022 20:46:19 WIB",
-    "lintang": "4.08 LS",
-    "bujur": "121.98 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km baratdaya Onembute",
-    "warning": [
-      "II-III Onembute",
-      "II-III Rate-rate"
     ]
   }
 ]
