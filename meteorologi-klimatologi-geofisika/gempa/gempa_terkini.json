@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14-03-22 21:12:10 WIB",
+    "lintang": "-0.56",
+    "bujur": "98.54",
+    "magnitudo": "5.4",
+    "kedalaman": "16 Km",
+    "wilayah": "149 km Tenggara NIASSELATAN-SUMUT"
+  },
+  {
     "waktu": "14-03-22 04:38:43 WIB",
     "lintang": "-0.66",
     "bujur": "98.45",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "129 Km",
     "wilayah": "317 km Tenggara KEP.ARU-MALUKU"
-  },
-  {
-    "waktu": "13-02-22 17:12:16 WIB",
-    "lintang": "5.94",
-    "bujur": "125.59",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "247 km BaratLaut MELONGUANE-SULUT"
   }
 ]

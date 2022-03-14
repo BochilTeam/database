@@ -1,5 +1,36 @@
 [
   {
+    "waktu": "14/03/2022 21:15:18 WIB",
+    "lintang": "8.12 LS",
+    "bujur": "107.82 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di laut 88 km Barat daya Kab.Pangandaran",
+    "warning": [
+      "III Pangandaran",
+      "III Cijulang",
+      "III Bungbulang",
+      "III Garut",
+      "II Tasikmalaya"
+    ]
+  },
+  {
+    "waktu": "14/03/2022 21:12:10 WIB",
+    "lintang": "0.56 LS",
+    "bujur": "98.54 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di laut 149 km Tenggara Nias Selatan",
+    "warning": [
+      "II-III Simpang Empat",
+      "II-III Pasaman Barat",
+      "II Padang",
+      "III Siberut",
+      "III-IV Nias Selatan",
+      "II-III Nias Barat"
+    ]
+  },
+  {
     "waktu": "14/03/2022 10:08:46 WIB",
     "lintang": "0.02 LU",
     "bujur": "126.7 BT",
@@ -249,33 +280,6 @@
     "warning": [
       "III Lombok Barat",
       "III Lombok Timur"
-    ]
-  },
-  {
-    "waktu": "07/03/2022 10:47:23 WIB",
-    "lintang": "7.98 LS",
-    "bujur": "122.47 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 66 km BaratLaut Larantukan",
-    "warning": [
-      "I-II Larantuka",
-      "I-II Lembata"
-    ]
-  },
-  {
-    "waktu": "05/03/2022 19:02:39 WIB",
-    "lintang": "4.56 LU",
-    "bujur": "94.84 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 82 km baratdaya Aceh Jaya",
-    "warning": [
-      "IV Aceh Jaya",
-      "IV Meulaboh",
-      "IV Banda Aceh",
-      "IV Aceh Besar",
-      "II-III Pidie"
     ]
   }
 ]
