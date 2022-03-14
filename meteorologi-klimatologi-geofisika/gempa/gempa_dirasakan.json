@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "14/03/2022 04:38:43 WIB",
+    "lintang": "0.66 LS",
+    "bujur": "98.45 BT",
+    "magnitudo": "6",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di laut 154 km tenggara Nias Selatan",
+    "warning": [
+      "IV Nias Selatan",
+      "III Padang",
+      "III Siberut",
+      "III Gunungsitoli",
+      "II Padang Panjang",
+      "II Pariaman"
+    ]
+  },
+  {
     "waktu": "14/03/2022 04:09:21 WIB",
     "lintang": "0.71 LS",
     "bujur": "98.5 BT",
@@ -255,28 +271,6 @@
     "warning": [
       "II-III Onembute",
       "II-III Rate-rate"
-    ]
-  },
-  {
-    "waktu": "04/03/2022 20:14:19 WIB",
-    "lintang": "7.06 LS",
-    "bujur": "105.38 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 49 km baratdaya Sumur",
-    "warning": [
-      "III Sumur",
-      "III Cibaliung",
-      "III Cimanggu",
-      "III Panimbang",
-      "III Cikuesik",
-      "III Muarabinuangeun",
-      "III Jiput",
-      "III Picung",
-      "III Munjul",
-      "II-III Malimping",
-      "II-III Panggarangan",
-      "II-III Sajira"
     ]
   }
 ]
