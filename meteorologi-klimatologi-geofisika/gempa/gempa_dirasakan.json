@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "16/03/2022 11:06:43 WIB",
+    "lintang": "7.9 LS",
+    "bujur": "107.04 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di laut 109 km Tenggara Kota Sukabumi",
+    "warning": [
+      "II Singajaya",
+      "II Cidaun",
+      "II Agrabinta",
+      "II Cidora"
+    ]
+  },
+  {
     "waktu": "16/03/2022 10:00:01 WIB",
     "lintang": "7.94 LS",
     "bujur": "106.94 BT",
@@ -281,17 +295,6 @@
     "wilayah": "Pusat gempa berada di laut 35 km BaratLaut Kota Jayapura",
     "warning": [
       "II Angkasapura"
-    ]
-  },
-  {
-    "waktu": "09/03/2022 08:49:18 WIB",
-    "lintang": "2.57 LU",
-    "bujur": "128.43 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 60 km TimurLaut Daruba",
-    "warning": [
-      "II-III Morotai"
     ]
   }
 ]
