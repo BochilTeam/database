@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/03/2022 17:06:14 WIB",
+    "lintang": "3.69 LS",
+    "bujur": "128.13 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 6 km Barat Ambon",
+    "warning": [
+      "II Ambon"
+    ]
+  },
+  {
     "waktu": "16/03/2022 14:14:28 WIB",
     "lintang": "3.7 LS",
     "bujur": "128.12 BT",
@@ -280,21 +291,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km tenggara Mamasa",
     "warning": [
       "II Mamasa"
-    ]
-  },
-  {
-    "waktu": "10/03/2022 11:26:52 WIB",
-    "lintang": "3.86 LU",
-    "bujur": "95.89 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 41 km Barat Daya Meulaboh",
-    "warning": [
-      "III-IV Meulaboh",
-      "III Calang",
-      "II Banda Aceh",
-      "II Tapak Tuan",
-      "II Sigli"
     ]
   }
 ]
