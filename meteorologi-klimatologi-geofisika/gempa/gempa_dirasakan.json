@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/03/2022 14:14:28 WIB",
+    "lintang": "3.7 LS",
+    "bujur": "128.12 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 7 km Barat Ambon",
+    "warning": [
+      "III Ambon"
+    ]
+  },
+  {
     "waktu": "16/03/2022 11:06:43 WIB",
     "lintang": "7.9 LS",
     "bujur": "107.04 BT",
@@ -284,17 +295,6 @@
       "II Banda Aceh",
       "II Tapak Tuan",
       "II Sigli"
-    ]
-  },
-  {
-    "waktu": "09/03/2022 14:09:29 WIB",
-    "lintang": "2.25 LS",
-    "bujur": "140.56 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 35 km BaratLaut Kota Jayapura",
-    "warning": [
-      "II Angkasapura"
     ]
   }
 ]
