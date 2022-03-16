@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16-03-22 10:00:01 WIB",
+    "lintang": "-7.94",
+    "bujur": "106.94",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "113 km Tenggara KOTA-SUKABUMI-JABAR"
+  },
+  {
     "waktu": "15-03-22 19:12:30 WIB",
     "lintang": "-0.55",
     "bujur": "98.47",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "126 Km",
     "wilayah": "186 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
-    "waktu": "18-02-22 02:50:58 WIB",
-    "lintang": "-9.41",
-    "bujur": "107.03",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "249 km BaratDaya KAB-PANGANDARAN-JABAR"
   }
 ]

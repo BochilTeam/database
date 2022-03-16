@@ -1,5 +1,33 @@
 [
   {
+    "waktu": "16/03/2022 10:00:01 WIB",
+    "lintang": "7.94 LS",
+    "bujur": "106.94 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 113 km Tenggara Kota Sukabumi",
+    "warning": [
+      "III Garut",
+      "IV Cianjur",
+      "II-III Lebak Selatan",
+      "II Jakarta",
+      "II Banjar",
+      "II Bandung Barat",
+      "II Bekasi",
+      "III Bayah",
+      "III Panimbang",
+      "III Pandeglang",
+      "II-III Cilegon",
+      "II Tangerang Selatan",
+      "IV Pelabuhan Ratu",
+      "II-III Sukabumi",
+      "II Bandung",
+      "II Depok",
+      "II Serang",
+      "II Purwakarta"
+    ]
+  },
+  {
     "waktu": "15/03/2022 23:53:22 WIB",
     "lintang": "7.26 LS",
     "bujur": "107.72 BT",
@@ -264,18 +292,6 @@
     "wilayah": "Pusat gempa berada di laut 60 km TimurLaut Daruba",
     "warning": [
       "II-III Morotai"
-    ]
-  },
-  {
-    "waktu": "08/03/2022 18:39:51 WIB",
-    "lintang": "8.43 LS",
-    "bujur": "116.01 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 18 km baratdaya Lombok Utara",
-    "warning": [
-      "III Lombok Utara",
-      "II Lombok Barat"
     ]
   }
 ]
