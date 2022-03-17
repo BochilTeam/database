@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "18/03/2022 03:53:30 WIB",
+    "lintang": "6.75 LS",
+    "bujur": "106.21 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "137 Km",
+    "wilayah": "Pusat gempa berada di darat 20 km baratlaut Bayah",
+    "warning": [
+      "II-III Cibaliung",
+      "I-II Bogor",
+      "I-II Depok",
+      "I-II Karawaci",
+      "I-II Tangerang",
+      "I-II Tangerang Selatan",
+      "I-II Pandeglang"
+    ]
+  },
+  {
     "waktu": "16/03/2022 21:12:00 WIB",
     "lintang": "3.7 LS",
     "bujur": "128.12 BT",
@@ -280,17 +297,6 @@
     "wilayah": "Pusat gempa berada di darat 98 Km Barat Daya Kaimana",
     "warning": [
       "II Kaimana"
-    ]
-  },
-  {
-    "waktu": "11/03/2022 14:09:54 WIB",
-    "lintang": "3.73 LS",
-    "bujur": "138.66 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "21 Km",
-    "wilayah": "Pusat gempa berada di darat 34 km Barat laut Jayawijaya",
-    "warning": [
-      "II-III Wamena"
     ]
   }
 ]
