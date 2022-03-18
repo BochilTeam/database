@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/03/2022 23:45:31 WIB",
+    "lintang": "3.63 LS",
+    "bujur": "128.37 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 31 km barat Saparua",
+    "warning": [
+      "II Ambon"
+    ]
+  },
+  {
     "waktu": "18/03/2022 22:04:03 WIB",
     "lintang": "8.33 LS",
     "bujur": "106.83 BT",
@@ -273,29 +284,6 @@
     "wilayah": "Pusat gempa berada di laut 8 km Tenggara Ransiki",
     "warning": [
       "II-III Ransiki"
-    ]
-  },
-  {
-    "waktu": "12/03/2022 12:31:07 WIB",
-    "lintang": "7.19 LS",
-    "bujur": "105.98 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 41 km Barat Daya Bayah",
-    "warning": [
-      "III-IV Pelabuhan Ratu",
-      "II Kota Tangerang",
-      "II-III Kota Sukabumi",
-      "II-III Munjul",
-      "III-IV Malingping",
-      "III-IV Cinangka",
-      "III-IV Bayah",
-      "III Lebak",
-      "III Panggarangan",
-      "II-III Tanara",
-      "II-III Anyer",
-      "II-III Cianjur",
-      "II Serpong"
     ]
   }
 ]
