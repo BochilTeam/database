@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/03/2022 11:33:01 WIB",
+    "lintang": "9.91 LS",
+    "bujur": "120.56 BT",
+    "magnitudo": "4",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di darat 35 km Timurlaut Wula-Waijelu",
+    "warning": [
+      "II-III Waingapu"
+    ]
+  },
+  {
     "waktu": "18/03/2022 03:53:30 WIB",
     "lintang": "6.75 LS",
     "bujur": "106.21 BT",
@@ -286,17 +297,6 @@
       "III Ruteng",
       "II Nagekeo",
       "II Reok"
-    ]
-  },
-  {
-    "waktu": "11/03/2022 18:49:52 WIB",
-    "lintang": "4.06 LS",
-    "bujur": "133.51 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 98 Km Barat Daya Kaimana",
-    "warning": [
-      "II Kaimana"
     ]
   }
 ]
