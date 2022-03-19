@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "19/03/2022 21:10:16 WIB",
+    "lintang": "6.93 LS",
+    "bujur": "105.37 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 37 km barat daya Sumur",
+    "warning": [
+      "III-IV Bayah",
+      "III-IV Pandeglang",
+      "II Anyer",
+      "II Lebak"
+    ]
+  },
+  {
     "waktu": "19/03/2022 11:26:26 WIB",
     "lintang": "1.93 LS",
     "bujur": "133.32 BT",
@@ -273,17 +287,6 @@
       "V Tanah masa",
       "V Siberut utara",
       "V Siberut barat"
-    ]
-  },
-  {
-    "waktu": "13/03/2022 19:46:37 WIB",
-    "lintang": "7.22 LS",
-    "bujur": "107.6 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 23 km Tenggara Kabupaten Bandung",
-    "warning": [
-      "II Pangalengan"
     ]
   }
 ]
