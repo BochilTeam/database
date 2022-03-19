@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "19/03/2022 11:26:26 WIB",
+    "lintang": "1.93 LS",
+    "bujur": "133.32 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km Barat Daya Teluk Bintuni",
+    "warning": [
+      "III-IV Teluk Bintuni"
+    ]
+  },
+  {
     "waktu": "19/03/2022 08:03:40 WIB",
     "lintang": "3.38 LS",
     "bujur": "102.17 BT",
@@ -273,20 +284,6 @@
     "wilayah": "Pusat gempa berada di darat 23 km Tenggara Kabupaten Bandung",
     "warning": [
       "II Pangalengan"
-    ]
-  },
-  {
-    "waktu": "13/03/2022 10:11:50 WIB",
-    "lintang": "6.95 LS",
-    "bujur": "107.21 BT",
-    "magnitudo": "3",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km Tenggara Kabupaten Cianjur",
-    "warning": [
-      "III Cibeber",
-      "III Bojongpicung",
-      "III Ciranjang",
-      "II Cianjur"
     ]
   }
 ]
