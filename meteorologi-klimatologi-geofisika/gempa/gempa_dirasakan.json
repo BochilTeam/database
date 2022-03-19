@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "19/03/2022 08:03:40 WIB",
+    "lintang": "3.38 LS",
+    "bujur": "102.17 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "94 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km BaratLaut BENGKULU UTARA",
+    "warning": [
+      "III Bengkulu Utara",
+      "II-III Lebong",
+      "II-III Kota Bengkulu",
+      "II Kepahiang"
+    ]
+  },
+  {
     "waktu": "18/03/2022 23:45:31 WIB",
     "lintang": "3.63 LS",
     "bujur": "128.37 BT",
@@ -273,17 +287,6 @@
       "III Bojongpicung",
       "III Ciranjang",
       "II Cianjur"
-    ]
-  },
-  {
-    "waktu": "13/03/2022 01:13:42 WIB",
-    "lintang": "1.53 LS",
-    "bujur": "134.22 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada di laut 8 km Tenggara Ransiki",
-    "warning": [
-      "II-III Ransiki"
     ]
   }
 ]
