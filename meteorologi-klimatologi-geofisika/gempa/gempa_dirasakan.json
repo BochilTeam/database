@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/03/2022 19:13:42 WIB",
+    "lintang": "4.71 LS",
+    "bujur": "129.89 BT",
+    "magnitudo": "4",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 20 km Selatan Banda-MALTENG",
+    "warning": [
+      "III Banda"
+    ]
+  },
+  {
     "waktu": "21/03/2022 07:11:54 WIB",
     "lintang": "7.26 LS",
     "bujur": "107.67 BT",
@@ -251,22 +262,6 @@
     "wilayah": "Pusat gempa berada di Laut 110 km Barat Daya Tidore",
     "warning": [
       "II Ternate"
-    ]
-  },
-  {
-    "waktu": "14/03/2022 04:38:43 WIB",
-    "lintang": "0.66 LS",
-    "bujur": "98.45 BT",
-    "magnitudo": "6",
-    "kedalaman": "26 Km",
-    "wilayah": "Pusat gempa berada di laut 154 km tenggara Nias Selatan",
-    "warning": [
-      "IV Nias Selatan",
-      "III Padang",
-      "III Siberut",
-      "III Gunungsitoli",
-      "II Padang Panjang",
-      "II Pariaman"
     ]
   }
 ]
