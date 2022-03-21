@@ -2,11 +2,12 @@
     {
         "soal": "Hotel Bintang 5 Jakarta",
         "jawaban": [
-            "hilton",
-            "mandarin",
-            "aryaduta",
+            "sheraton",
+            "the westin",
+            "kempinski",
+            "the langham",
             "borobudur",
-            "sahid"
+            "hilton"
         ]
     },
     {
@@ -16,7 +17,8 @@
             "botol minum",
             "pensil warna",
             "sapu tangan",
-            "hapusan"
+            "hapusan",
+            "buku"
         ]
     },
     {
@@ -56,18 +58,24 @@
     {
         "soal": "Jenis Anjing Terkenal",
         "jawaban": [
-            "dalmation",
-            "buldog",
-            "pom"
+            "bulldog",
+            "husky",
+            "beagle",
+            "akita",
+            "poodle"
         ]
     },
     {
         "soal": "Film Komedi Televisi",
         "jawaban": [
-            "ngelaba",
+            "cek toko sebelah",
+            "my stupid boss",
             "warkop dki",
-            "ketoprak humor",
-            "kanan kiri ok"
+            "warkop dki reborn",
+            "imperfect",
+            "koala kumal",
+            "terlalu tampan",
+            "hangout"
         ]
     },
     {
@@ -80,6 +88,9 @@
         "soal": "Siapakah Tokoh Terkenal Nyata/Fiksi Yang Berhubungan Dengan Cinta",
         "jawaban": [
             "romeo dan juliet",
+            "paris dan helen",
+            "cleoparta dan mark",
+            "dante dan beatrice",
             "rama sinta",
             "arjuna"
         ]
@@ -110,14 +121,12 @@
     {
         "soal": "Film Drama Korea Terkenal",
         "jawaban": [
-            "winter sonata",
-            "my sassy girl",
-            "pop corn",
-            "endless love",
-            "a wish upon a star",
-            "hotelier",
-            "my love patsy",
-            "all about eve"
+            "squid game",
+            "vincenzo",
+            "hometown cha-cha-cha",
+            "nevertheless",
+            "youth of may",
+            "move to heaven"
         ]
     },
     {
@@ -127,7 +136,8 @@
             "ada petir",
             "basah",
             "banjir",
-            "becek"
+            "becek",
+            "sange"
         ]
     },
     {
@@ -138,7 +148,8 @@
             "tempe",
             "pisang",
             "cireng",
-            "bakwan"
+            "bakwan",
+            "singkong"
         ]
     },
     {
@@ -175,7 +186,8 @@
             "olahraga",
             "otomotif",
             "elektronik",
-            "komputer"
+            "komputer",
+            "bela diri"
         ]
     },
     {
@@ -27447,8 +27459,7 @@
             "teh hangat",
             "es kelapa muda",
             "gorengan",
-            "kolak",
-            ""
+            "kolak"
         ]
     },
     {
@@ -27492,8 +27503,7 @@
             "denial",
             "coding",
             "antispam",
-            "scripting",
-            ""
+            "scripting"
         ]
     },
     {
@@ -27883,8 +27893,7 @@
             "sunflower",
             "water lily",
             "orchid",
-            "jasmine",
-            ""
+            "jasmine"
         ]
     },
     {
@@ -27949,8 +27958,7 @@
             "terima kasih",
             "jangan repot",
             "wah",
-            "asik",
-            ""
+            "asik"
         ]
     },
     {
@@ -27960,8 +27968,7 @@
             "conello",
             "magnum",
             "paddle pop",
-            "feast",
-            ""
+            "feast"
         ]
     },
     {
@@ -28548,8 +28555,7 @@
             "mimpi",
             "internet",
             "neraka",
-            "surga",
-            ""
+            "surga"
         ]
     },
     {
@@ -28761,8 +28767,7 @@
             "indonesia",
             "mandarin",
             "india",
-            "melayu",
-            ""
+            "melayu"
         ]
     },
     {
@@ -29223,8 +29228,7 @@
             "69",
             "berdiri",
             "berdiri",
-            "anjing",
-            ""
+            "anjing"
         ]
     },
     {
@@ -29328,8 +29332,7 @@
             "sepatu",
             "tanduk",
             "mas",
-            "molen",
-            ""
+            "molen"
         ]
     },
     {
@@ -30198,8 +30201,7 @@
             "roy jones jr",
             "oscar dela hoya",
             "naseem hamed",
-            "felix trinidad",
-            ""
+            "felix trinidad"
         ]
     },
     {
@@ -31174,8 +31176,7 @@
             "sepatu",
             "tanduk",
             "mas",
-            "molen",
-            ""
+            "molen"
         ]
     },
     {
@@ -31243,8 +31244,7 @@
             "olahraga",
             "otomotif",
             "elektronik",
-            "komputer",
-            ""
+            "komputer"
         ]
     },
     {
@@ -31961,8 +31961,7 @@
             "klause meine",
             "matthias jabs",
             "rudolf schenker",
-            "james kottak",
-            ""
+            "james kottak"
         ]
     },
     {
@@ -33627,8 +33626,7 @@
             "sunflower",
             "water lily",
             "orchid",
-            "jasmine",
-            ""
+            "jasmine"
         ]
     },
     {
@@ -34336,8 +34334,7 @@
             "tiga r",
             "tiga x empat",
             "empat x enam",
-            "tiga x tiga",
-            ""
+            "tiga x tiga"
         ]
     },
     {
@@ -34578,8 +34575,7 @@
             "musha",
             "si",
             "mononofu",
-            "tsuwamono",
-            ""
+            "tsuwamono"
         ]
     },
     {
@@ -34610,8 +34606,7 @@
             "musha",
             "si",
             "mononofu",
-            "tsuwamono",
-            ""
+            "tsuwamono"
         ]
     },
     {
@@ -35545,8 +35540,7 @@
             "jaket",
             "masker",
             "jas hujan",
-            "sarung tangan",
-            ""
+            "sarung tangan"
         ]
     },
     {
@@ -37085,8 +37079,7 @@
             "banteng",
             "buaya",
             "hiu",
-            "beruang",
-            ""
+            "beruang"
         ]
     },
     {
@@ -37244,8 +37237,7 @@
             "gajah",
             "onta",
             "keledai",
-            "kerbau",
-            ""
+            "kerbau"
         ]
     },
     {
@@ -38124,8 +38116,7 @@
             "nissan",
             "mercedez benz",
             "honda",
-            "suzuki",
-            ""
+            "suzuki"
         ]
     },
     {
@@ -38223,8 +38214,7 @@
             "conello",
             "magnum",
             "paddle pop",
-            "feast",
-            ""
+            "feast"
         ]
     },
     {
@@ -38253,8 +38243,7 @@
             "jaket",
             "masker",
             "jas hujan",
-            "sarung tangan",
-            ""
+            "sarung tangan"
         ]
     },
     {
@@ -38283,8 +38272,7 @@
             "tiga r",
             "tiga x empat",
             "empat x enam",
-            "tiga x tiga",
-            ""
+            "tiga x tiga"
         ]
     },
     {
@@ -38678,8 +38666,7 @@
             "teriak",
             "cuek",
             "bertanya",
-            "nonton",
-            ""
+            "nonton"
         ]
     },
     {
@@ -39212,8 +39199,7 @@
             "imlek",
             "libur sendiri",
             "liburan sekolah",
-            "natal",
-            ""
+            "natal"
         ]
     },
     {
@@ -39526,8 +39512,7 @@
             "house music",
             "pop",
             "rock",
-            "rnb",
-            ""
+            "rnb"
         ]
     },
     {
@@ -39777,8 +39762,7 @@
             "kimia",
             "biologi",
             "ekonomi",
-            "seni rupa",
-            ""
+            "seni rupa"
         ]
     },
     {
@@ -40282,8 +40266,7 @@
             "klause meine",
             "matthias jabs",
             "rudolf schenker",
-            "james kottak",
-            ""
+            "james kottak"
         ]
     },
     {
@@ -40338,8 +40321,7 @@
             "lwp-download",
             "ps -ax",
             "find",
-            "mkdir",
-            ""
+            "mkdir"
         ]
     },
     {
@@ -41072,8 +41054,7 @@
             "google talk",
             "google mars",
             "google search",
-            "google video",
-            ""
+            "google video"
         ]
     },
     {
@@ -41600,8 +41581,7 @@
             "cemara",
             "singkong",
             "kelapa",
-            "selada",
-            ""
+            "selada"
         ]
     },
     {
@@ -41714,8 +41694,7 @@
             "teriak",
             "cuek",
             "bertanya",
-            "nonton",
-            ""
+            "nonton"
         ]
     },
     {
@@ -42529,8 +42508,7 @@
             "sepatu",
             "tanduk",
             "mas",
-            "molen",
-            ""
+            "molen"
         ]
     },
     {
@@ -42994,8 +42972,7 @@
             "kacang",
             "kubis",
             "tomat",
-            "kacang panjang",
-            ""
+            "kacang panjang"
         ]
     },
     {
@@ -43081,8 +43058,7 @@
             "nissan",
             "mercedez benz",
             "honda",
-            "suzuki",
-            ""
+            "suzuki"
         ]
     },
     {
@@ -43094,8 +43070,7 @@
             "imlek",
             "libur sendiri",
             "liburan sekolah",
-            "natal",
-            ""
+            "natal"
         ]
     },
     {
@@ -43563,8 +43538,7 @@
             "flexi",
             "esia",
             "fren",
-            "starone",
-            ""
+            "starone"
         ]
     },
     {
@@ -43662,8 +43636,7 @@
             "tiga r",
             "tiga x empat",
             "empat x enam",
-            "tiga x tiga",
-            ""
+            "tiga x tiga"
         ]
     },
     {
@@ -43776,8 +43749,7 @@
             "bird",
             "rabbit",
             "hamster",
-            "panda",
-            ""
+            "panda"
         ]
     },
     {
@@ -44261,8 +44233,7 @@
             "banteng",
             "buaya",
             "hiu",
-            "beruang",
-            ""
+            "beruang"
         ]
     },
     {
@@ -44282,8 +44253,7 @@
             "roy jones jr",
             "oscar dela hoya",
             "naseem hamed",
-            "felix trinidad",
-            ""
+            "felix trinidad"
         ]
     },
     {
@@ -44316,8 +44286,7 @@
             "banteng",
             "buaya",
             "hiu",
-            "beruang",
-            ""
+            "beruang"
         ]
     },
     {
@@ -44999,8 +44968,7 @@
             "tidur",
             "masturbasi",
             "belajar",
-            "nonton tv",
-            ""
+            "nonton tv"
         ]
     },
     {
@@ -45684,8 +45652,7 @@
             "tidur",
             "masturbasi",
             "belajar",
-            "nonton tv",
-            ""
+            "nonton tv"
         ]
     },
     {
@@ -46287,8 +46254,7 @@
             "musha",
             "si",
             "mononofu",
-            "tsuwamono",
-            ""
+            "tsuwamono"
         ]
     },
     {
@@ -46567,8 +46533,7 @@
             "cemara",
             "singkong",
             "kelapa",
-            "selada",
-            ""
+            "selada"
         ]
     },
     {
@@ -46649,8 +46614,7 @@
             "nissan",
             "mercedez benz",
             "honda",
-            "suzuki",
-            ""
+            "suzuki"
         ]
     },
     {
@@ -47110,8 +47074,7 @@
             "tidur",
             "masturbasi",
             "belajar",
-            "nonton tv",
-            ""
+            "nonton tv"
         ]
     },
     {
@@ -47369,8 +47332,7 @@
     {
         "soal": "Jangan Kamu …. Orang Jatuh Soalnya…",
         "jawaban": [
-            "ketawai saja",
-            ""
+            "ketawai saja"
         ]
     },
     {
@@ -48412,8 +48374,7 @@
             "bird",
             "rabbit",
             "hamster",
-            "panda",
-            ""
+            "panda"
         ]
     },
     {
@@ -49244,8 +49205,7 @@
             "surabaya",
             "medan",
             "jakarta",
-            "yogyakarta",
-            ""
+            "yogyakarta"
         ]
     },
     {
@@ -49311,8 +49271,7 @@
             "cemara",
             "singkong",
             "kelapa",
-            "selada",
-            ""
+            "selada"
         ]
     },
     {
@@ -49764,8 +49723,7 @@
             "sunflower",
             "water lily",
             "orchid",
-            "jasmine",
-            ""
+            "jasmine"
         ]
     },
     {
@@ -49826,8 +49784,7 @@
             "roy jones jr",
             "oscar dela hoya",
             "naseem hamed",
-            "felix trinidad",
-            ""
+            "felix trinidad"
         ]
     },
     {
@@ -50193,8 +50150,7 @@
             "sunflower",
             "water lily",
             "orchid",
-            "jasmine",
-            ""
+            "jasmine"
         ]
     },
     {
@@ -50704,8 +50660,7 @@
             "conello",
             "magnum",
             "paddle pop",
-            "feast",
-            ""
+            "feast"
         ]
     },
     {
@@ -50837,8 +50792,7 @@
             "google talk",
             "google mars",
             "google search",
-            "google video",
-            ""
+            "google video"
         ]
     },
     {
@@ -50925,8 +50879,7 @@
             "mr sunshine",
             "winslow oddfellow",
             "lube",
-            "tancid rabbit",
-            ""
+            "tancid rabbit"
         ]
     },
     {
@@ -51232,8 +51185,7 @@
             "topik",
             "klik !",
             "tawa sutra xl",
-            "gema rohani",
-            ""
+            "gema rohani"
         ]
     },
     {
@@ -51536,8 +51488,7 @@
             "mr sunshine",
             "winslow oddfellow",
             "lube",
-            "tancid rabbit",
-            ""
+            "tancid rabbit"
         ]
     },
     {
@@ -51946,8 +51897,7 @@
             "sepatu",
             "tanduk",
             "mas",
-            "molen",
-            ""
+            "molen"
         ]
     },
     {
@@ -52214,8 +52164,7 @@
             "kacang",
             "kubis",
             "tomat",
-            "kacang panjang",
-            ""
+            "kacang panjang"
         ]
     },
     {
@@ -52807,8 +52756,7 @@
             "kimia",
             "biologi",
             "ekonomi",
-            "seni rupa",
-            ""
+            "seni rupa"
         ]
     },
     {
@@ -53178,8 +53126,7 @@
             "injil",
             "taurat",
             "tripitaka",
-            "zabur",
-            ""
+            "zabur"
         ]
     },
     {
@@ -53798,8 +53745,7 @@
             "indonesia",
             "mandarin",
             "india",
-            "melayu",
-            ""
+            "melayu"
         ]
     },
     {
@@ -53861,8 +53807,7 @@
             "jacky",
             "sam",
             "matthew",
-            "johnny",
-            ""
+            "johnny"
         ]
     },
     {
@@ -53941,8 +53886,7 @@
             "indonesia",
             "mandarin",
             "india",
-            "melayu",
-            ""
+            "melayu"
         ]
     },
     {
@@ -54022,8 +53966,7 @@
             "mr sunshine",
             "winslow oddfellow",
             "lube",
-            "tancid rabbit",
-            ""
+            "tancid rabbit"
         ]
     },
     {
@@ -54505,8 +54448,7 @@
             "mimpi",
             "internet",
             "neraka",
-            "surga",
-            ""
+            "surga"
         ]
     },
     {
@@ -54803,8 +54745,7 @@
             "injil",
             "taurat",
             "tripitaka",
-            "zabur",
-            ""
+            "zabur"
         ]
     },
     {
@@ -55365,8 +55306,7 @@
             "ekspedisi alam gaib",
             "dunia lain",
             "uka uka",
-            "percaya nggak percaya",
-            ""
+            "percaya nggak percaya"
         ]
     },
     {
@@ -55598,8 +55538,7 @@
             "chinese cabage",
             "watercress",
             "coleslaw",
-            "bean sprouts",
-            ""
+            "bean sprouts"
         ]
     },
     {
@@ -55668,8 +55607,7 @@
             "mr sunshine",
             "winslow oddfellow",
             "lube",
-            "tancid rabbit",
-            ""
+            "tancid rabbit"
         ]
     },
     {
@@ -56316,8 +56254,7 @@
             "ekspedisi alam gaib",
             "dunia lain",
             "uka uka",
-            "percaya nggak percaya",
-            ""
+            "percaya nggak percaya"
         ]
     },
     {
@@ -56877,8 +56814,7 @@
             "house music",
             "pop",
             "rock",
-            "rnb",
-            ""
+            "rnb"
         ]
     },
     {
@@ -57054,8 +56990,7 @@
             "kimia",
             "biologi",
             "ekonomi",
-            "seni rupa",
-            ""
+            "seni rupa"
         ]
     },
     {
@@ -57392,8 +57327,7 @@
             "rob van dam",
             "rhino",
             "super crazy",
-            "dreamer",
-            ""
+            "dreamer"
         ]
     },
     {
@@ -58117,8 +58051,7 @@
             "kimia",
             "biologi",
             "ekonomi",
-            "seni rupa",
-            ""
+            "seni rupa"
         ]
     },
     {
@@ -59861,8 +59794,7 @@
             "sunflower",
             "water lily",
             "orchid",
-            "jasmine",
-            ""
+            "jasmine"
         ]
     },
     {
@@ -60670,8 +60602,7 @@
             "indonesia",
             "mandarin",
             "india",
-            "melayu",
-            ""
+            "melayu"
         ]
     },
     {
@@ -61482,8 +61413,7 @@
             "terima kasih",
             "jangan repot",
             "wah",
-            "asik",
-            ""
+            "asik"
         ]
     },
     {
@@ -62680,8 +62610,7 @@
             "sunflower",
             "water lily",
             "orchid",
-            "jasmine",
-            ""
+            "jasmine"
         ]
     },
     {
@@ -62910,8 +62839,7 @@
     {
         "soal": "Jangan Kamu …. Orang Jatuh Soalnya…",
         "jawaban": [
-            "ketawai saja",
-            ""
+            "ketawai saja"
         ]
     },
     {
@@ -63752,8 +63680,7 @@
     {
         "soal": "Jangan Kamu …. Orang Jatuh Soalnya…",
         "jawaban": [
-            "ketawai saja",
-            ""
+            "ketawai saja"
         ]
     },
     {
@@ -63969,8 +63896,7 @@
             "lwp-download",
             "ps -ax",
             "find",
-            "mkdir",
-            ""
+            "mkdir"
         ]
     },
     {
@@ -64262,8 +64188,7 @@
             "terima kasih",
             "jangan repot",
             "wah",
-            "asik",
-            ""
+            "asik"
         ]
     },
     {
@@ -64774,8 +64699,7 @@
             "terima kasih",
             "jangan repot",
             "wah",
-            "asik",
-            ""
+            "asik"
         ]
     },
     {
@@ -65062,8 +64986,7 @@
             "tarif menurut trayek",
             "traif local",
             "tarif diferensial",
-            "tarif peti kemas",
-            ""
+            "tarif peti kemas"
         ]
     },
     {
@@ -65296,8 +65219,7 @@
             "teriak",
             "cuek",
             "bertanya",
-            "nonton",
-            ""
+            "nonton"
         ]
     },
     {
@@ -66066,8 +65988,7 @@
             "banteng",
             "buaya",
             "hiu",
-            "beruang",
-            ""
+            "beruang"
         ]
     },
     {
@@ -66603,8 +66524,7 @@
             "gajah",
             "onta",
             "keledai",
-            "kerbau",
-            ""
+            "kerbau"
         ]
     },
     {
@@ -66977,8 +66897,7 @@
             "klause meine",
             "matthias jabs",
             "rudolf schenker",
-            "james kottak",
-            ""
+            "james kottak"
         ]
     },
     {
@@ -67149,8 +67068,7 @@
             "jaket",
             "masker",
             "jas hujan",
-            "sarung tangan",
-            ""
+            "sarung tangan"
         ]
     },
     {
@@ -67522,8 +67440,7 @@
             "house music",
             "pop",
             "rock",
-            "rnb",
-            ""
+            "rnb"
         ]
     },
     {
@@ -67533,8 +67450,7 @@
             "conello",
             "magnum",
             "paddle pop",
-            "feast",
-            ""
+            "feast"
         ]
     },
     {
@@ -67894,8 +67810,7 @@
             "chinese cabage",
             "watercress",
             "coleslaw",
-            "bean sprouts",
-            ""
+            "bean sprouts"
         ]
     },
     {
@@ -68107,8 +68022,7 @@
             "tidur",
             "masturbasi",
             "belajar",
-            "nonton tv",
-            ""
+            "nonton tv"
         ]
     },
     {
@@ -68234,8 +68148,7 @@
             "gajah",
             "onta",
             "keledai",
-            "kerbau",
-            ""
+            "kerbau"
         ]
     },
     {
@@ -68277,8 +68190,7 @@
             "roy jones jr",
             "oscar dela hoya",
             "naseem hamed",
-            "felix trinidad",
-            ""
+            "felix trinidad"
         ]
     },
     {
@@ -68338,8 +68250,7 @@
             "kacang",
             "kubis",
             "tomat",
-            "kacang panjang",
-            ""
+            "kacang panjang"
         ]
     },
     {
@@ -68750,8 +68661,7 @@
             "tarif menurut trayek",
             "traif local",
             "tarif diferensial",
-            "tarif peti kemas",
-            ""
+            "tarif peti kemas"
         ]
     },
     {
@@ -68985,8 +68895,7 @@
             "tarif menurut trayek",
             "traif local",
             "tarif diferensial",
-            "tarif peti kemas",
-            ""
+            "tarif peti kemas"
         ]
     },
     {
@@ -69111,8 +69020,7 @@
             "klause meine",
             "matthias jabs",
             "rudolf schenker",
-            "james kottak",
-            ""
+            "james kottak"
         ]
     },
     {
@@ -69167,8 +69075,7 @@
             "google talk",
             "google mars",
             "google search",
-            "google video",
-            ""
+            "google video"
         ]
     },
     {
@@ -69416,8 +69323,7 @@
             "mr sunshine",
             "winslow oddfellow",
             "lube",
-            "tancid rabbit",
-            ""
+            "tancid rabbit"
         ]
     },
     {
@@ -69850,8 +69756,7 @@
             "flexi",
             "esia",
             "fren",
-            "starone",
-            ""
+            "starone"
         ]
     },
     {
@@ -70356,8 +70261,7 @@
             "tidur",
             "masturbasi",
             "belajar",
-            "nonton tv",
-            ""
+            "nonton tv"
         ]
     },
     {
@@ -71231,8 +71135,7 @@
             "gajah",
             "onta",
             "keledai",
-            "kerbau",
-            ""
+            "kerbau"
         ]
     },
     {
@@ -71590,8 +71493,7 @@
             "tarif menurut trayek",
             "traif local",
             "tarif diferensial",
-            "tarif peti kemas",
-            ""
+            "tarif peti kemas"
         ]
     },
     {
@@ -73365,8 +73267,7 @@
             "jacky",
             "sam",
             "matthew",
-            "johnny",
-            ""
+            "johnny"
         ]
     },
     {
@@ -73437,8 +73338,7 @@
             "jaket",
             "masker",
             "jas hujan",
-            "sarung tangan",
-            ""
+            "sarung tangan"
         ]
     },
     {
@@ -73456,8 +73356,7 @@
             "topik",
             "klik !",
             "tawa sutra xl",
-            "gema rohani",
-            ""
+            "gema rohani"
         ]
     },
     {
@@ -73648,8 +73547,7 @@
             "denial",
             "coding",
             "antispam",
-            "scripting",
-            ""
+            "scripting"
         ]
     },
     {
@@ -74110,8 +74008,7 @@
             "69",
             "berdiri",
             "berdiri",
-            "anjing",
-            ""
+            "anjing"
         ]
     },
     {
@@ -74601,8 +74498,7 @@
             "conello",
             "magnum",
             "paddle pop",
-            "feast",
-            ""
+            "feast"
         ]
     },
     {
