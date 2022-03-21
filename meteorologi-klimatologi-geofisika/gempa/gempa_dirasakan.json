@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "21/03/2022 07:11:54 WIB",
+    "lintang": "7.26 LS",
+    "bujur": "107.67 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 25 Km Barat Daya Garut",
+    "warning": [
+      "II-III Kertasari",
+      "II Pacet",
+      "II Pangalengan"
+    ]
+  },
+  {
     "waktu": "19/03/2022 21:10:16 WIB",
     "lintang": "6.93 LS",
     "bujur": "105.37 BT",
@@ -254,39 +267,6 @@
       "III Gunungsitoli",
       "II Padang Panjang",
       "II Pariaman"
-    ]
-  },
-  {
-    "waktu": "14/03/2022 04:09:21 WIB",
-    "lintang": "0.71 LS",
-    "bujur": "98.5 BT",
-    "magnitudo": "6.9",
-    "kedalaman": "25 Km",
-    "wilayah": "Pusat gempa berada di laut 161 km Tenggara NiasSelatan",
-    "warning": [
-      "IV Padang",
-      "IV Siberut",
-      "IV Nias Selatan",
-      "IV Gunungsitoli",
-      "III Padang Panjang",
-      "III Bukit Tinggi",
-      "III Pasaman Barat",
-      "III Tua Pejat",
-      "III Pariaman",
-      "II Dhamasraya",
-      "II Payakumbuh",
-      "II Kerinci",
-      "II Tapanuli Selatan",
-      "II Pesisir Selatan",
-      "II Batusangkar",
-      "II Padang Pariaman",
-      "II Solok",
-      "VI Hibala",
-      "V Pulau-pulau batu",
-      "V Pulau-pulau batu barat",
-      "V Tanah masa",
-      "V Siberut utara",
-      "V Siberut barat"
     ]
   }
 ]
