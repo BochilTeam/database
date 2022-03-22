@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "23/03/2022 04:16:29 WIB",
+    "lintang": "8.64 LS",
+    "bujur": "120.47 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km tenggara RUTENG-MANGGARAI",
+    "warning": [
+      "II Ruteng"
+    ]
+  },
+  {
+    "waktu": "23/03/2022 04:06:59 WIB",
+    "lintang": "8.67 LS",
+    "bujur": "120.47 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km tenggara RUTENG-MANGGARAI",
+    "warning": [
+      "IV Ruteng"
+    ]
+  },
+  {
     "waktu": "22/03/2022 08:52:08 WIB",
     "lintang": "6.95 LS",
     "bujur": "107.06 BT",
@@ -231,33 +253,6 @@
     "wilayah": "Pusat gempa berada di darat 21 km Barat Daya Kab. Garut",
     "warning": [
       "III Ciparay"
-    ]
-  },
-  {
-    "waktu": "15/03/2022 19:12:30 WIB",
-    "lintang": "0.55 LS",
-    "bujur": "98.47 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "25 Km",
-    "wilayah": "Pusat gempa berada di laut 144 Km Tenggara Nias Selatan",
-    "warning": [
-      "II Pasaman",
-      "II Nias Selatan"
-    ]
-  },
-  {
-    "waktu": "14/03/2022 21:15:18 WIB",
-    "lintang": "8.12 LS",
-    "bujur": "107.82 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada di laut 88 km Barat daya Kab.Pangandaran",
-    "warning": [
-      "III Pangandaran",
-      "III Cijulang",
-      "III Bungbulang",
-      "III Garut",
-      "II Tasikmalaya"
     ]
   }
 ]
