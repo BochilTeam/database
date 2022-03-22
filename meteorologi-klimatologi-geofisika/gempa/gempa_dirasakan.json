@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "22/03/2022 08:52:08 WIB",
+    "lintang": "6.95 LS",
+    "bujur": "107.06 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km tenggara Kota Sukabumi",
+    "warning": [
+      "II Kebonpedes",
+      "II Cireunghas"
+    ]
+  },
+  {
     "waktu": "22/03/2022 02:26:20 WIB",
     "lintang": "8.21 LS",
     "bujur": "119.84 BT",
@@ -246,22 +258,6 @@
       "III Bungbulang",
       "III Garut",
       "II Tasikmalaya"
-    ]
-  },
-  {
-    "waktu": "14/03/2022 21:12:10 WIB",
-    "lintang": "0.56 LS",
-    "bujur": "98.54 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di laut 149 km Tenggara Nias Selatan",
-    "warning": [
-      "II-III Simpang Empat",
-      "II-III Pasaman Barat",
-      "II Padang",
-      "III Siberut",
-      "III-IV Nias Selatan",
-      "II-III Nias Barat"
     ]
   }
 ]
