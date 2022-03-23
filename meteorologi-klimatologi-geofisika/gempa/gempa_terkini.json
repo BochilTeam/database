@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23-03-22 23:29:35 WIB",
+    "lintang": "1.86",
+    "bujur": "127.23",
+    "magnitudo": "5.1",
+    "kedalaman": "102 Km",
+    "wilayah": "68 km BaratLaut HALMAHERABARAT-MALUT"
+  },
+  {
     "waktu": "23-03-22 17:10:39 WIB",
     "lintang": "-0.65",
     "bujur": "133.55",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "66 km TimurLaut RUTENG-MANGGARAI-NTT"
-  },
-  {
-    "waktu": "21-02-22 23:22:35 WIB",
-    "lintang": "-8.03",
-    "bujur": "120.73",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "71 km TimurLaut RUTENG-MANGGARAI-NTT"
   }
 ]

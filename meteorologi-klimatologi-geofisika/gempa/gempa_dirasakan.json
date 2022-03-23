@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/03/2022 23:29:35 WIB",
+    "lintang": "1.86 LU",
+    "bujur": "127.23 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "102 Km",
+    "wilayah": "Pusat gempa berada di laut 68 km barat laut Halmahera Barat",
+    "warning": [
+      "II Siau"
+    ]
+  },
+  {
     "waktu": "23/03/2022 17:15:32 WIB",
     "lintang": "0.49 LS",
     "bujur": "133.46 BT",
@@ -225,34 +236,6 @@
       "II Cidaun",
       "II Agrabinta",
       "II Cidora"
-    ]
-  },
-  {
-    "waktu": "16/03/2022 10:00:01 WIB",
-    "lintang": "7.94 LS",
-    "bujur": "106.94 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 113 km Tenggara Kota Sukabumi",
-    "warning": [
-      "III Garut",
-      "IV Cianjur",
-      "II-III Lebak Selatan",
-      "II Jakarta",
-      "II Banjar",
-      "II Bandung Barat",
-      "II Bekasi",
-      "III Bayah",
-      "III Panimbang",
-      "III Pandeglang",
-      "II-III Cilegon",
-      "II Tangerang Selatan",
-      "IV Pelabuhan Ratu",
-      "II-III Sukabumi",
-      "II Bandung",
-      "II Depok",
-      "II Serang",
-      "II Purwakarta"
     ]
   }
 ]
