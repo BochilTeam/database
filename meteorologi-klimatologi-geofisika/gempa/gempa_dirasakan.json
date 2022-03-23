@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "23/03/2022 17:15:32 WIB",
+    "lintang": "0.49 LS",
+    "bujur": "133.46 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 66 km barat laut Pegunungan Arfak",
+    "warning": [
+      "II-III Manokwari"
+    ]
+  },
+  {
+    "waktu": "23/03/2022 17:10:39 WIB",
+    "lintang": "0.65 LS",
+    "bujur": "133.55 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 46 km barat laut Pegunungan Arfak",
+    "warning": [
+      "III Manokwari"
+    ]
+  },
+  {
     "waktu": "23/03/2022 04:16:29 WIB",
     "lintang": "8.64 LS",
     "bujur": "120.47 BT",
@@ -231,28 +253,6 @@
       "II Depok",
       "II Serang",
       "II Purwakarta"
-    ]
-  },
-  {
-    "waktu": "15/03/2022 23:53:22 WIB",
-    "lintang": "7.26 LS",
-    "bujur": "107.72 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km Tenggara Kab. Bandung",
-    "warning": [
-      "III Ciparay"
-    ]
-  },
-  {
-    "waktu": "15/03/2022 23:51:18 WIB",
-    "lintang": "7.3 LS",
-    "bujur": "107.72 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km Barat Daya Kab. Garut",
-    "warning": [
-      "III Ciparay"
     ]
   }
 ]

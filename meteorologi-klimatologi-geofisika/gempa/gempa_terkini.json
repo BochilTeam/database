@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23-03-22 17:10:39 WIB",
+    "lintang": "-0.65",
+    "bujur": "133.55",
+    "magnitudo": "5.1",
+    "kedalaman": "12 Km",
+    "wilayah": "46 km BaratLaut PEGUNUNGANARFAK-PAPUABRT"
+  },
+  {
     "waktu": "19-03-22 11:26:26 WIB",
     "lintang": "-1.93",
     "bujur": "133.32",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 Km",
     "wilayah": "71 km TimurLaut RUTENG-MANGGARAI-NTT"
-  },
-  {
-    "waktu": "21-02-22 20:06:57 WIB",
-    "lintang": "-8.02",
-    "bujur": "120.90",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "81 km TimurLaut RUTENG-MANGGARAI-NTT"
   }
 ]
