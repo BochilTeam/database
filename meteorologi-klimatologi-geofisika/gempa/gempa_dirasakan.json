@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/03/2022 06:54:46 WIB",
+    "lintang": "0.73 LS",
+    "bujur": "133.6 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 53 Km baratlaut Manokwari",
+    "warning": [
+      "II-III Manokwari"
+    ]
+  },
+  {
     "waktu": "23/03/2022 23:29:35 WIB",
     "lintang": "1.86 LU",
     "bujur": "127.23 BT",
@@ -222,20 +233,6 @@
     "wilayah": "Pusat gempa berada di laut 7 km Barat Ambon",
     "warning": [
       "III Ambon"
-    ]
-  },
-  {
-    "waktu": "16/03/2022 11:06:43 WIB",
-    "lintang": "7.9 LS",
-    "bujur": "107.04 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di laut 109 km Tenggara Kota Sukabumi",
-    "warning": [
-      "II Singajaya",
-      "II Cidaun",
-      "II Agrabinta",
-      "II Cidora"
     ]
   }
 ]
