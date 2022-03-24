@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "24/03/2022 20:51:53 WIB",
+    "lintang": "3.44 LS",
+    "bujur": "128.4 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 12 km Tenggara Kairatu",
+    "warning": [
+      "IV Kairatu",
+      "III Ambon"
+    ]
+  },
+  {
     "waktu": "24/03/2022 06:54:46 WIB",
     "lintang": "0.73 LS",
     "bujur": "133.6 BT",
@@ -222,17 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 6 km Barat Ambon",
     "warning": [
       "II Ambon"
-    ]
-  },
-  {
-    "waktu": "16/03/2022 14:14:28 WIB",
-    "lintang": "3.7 LS",
-    "bujur": "128.12 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 7 km Barat Ambon",
-    "warning": [
-      "III Ambon"
     ]
   }
 ]
