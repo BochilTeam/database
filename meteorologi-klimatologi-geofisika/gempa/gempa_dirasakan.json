@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "25/03/2022 20:20:13 WIB",
+    "lintang": "3.87 LS",
+    "bujur": "122.76 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di laut, 11.9km Timur Laut Soropia",
+    "warning": [
+      "III-IV Kendari",
+      "III Ranomeeto",
+      "III Moramo",
+      "II-III Besulutu"
+    ]
+  },
+  {
     "waktu": "24/03/2022 21:56:11 WIB",
     "lintang": "3.39 LS",
     "bujur": "128.34 BT",
@@ -225,17 +239,6 @@
       "I-II Tangerang",
       "I-II Tangerang Selatan",
       "I-II Pandeglang"
-    ]
-  },
-  {
-    "waktu": "16/03/2022 21:12:00 WIB",
-    "lintang": "3.7 LS",
-    "bujur": "128.12 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 47 km Baratdaya Kairatu",
-    "warning": [
-      "II-III Ambon"
     ]
   }
 ]
