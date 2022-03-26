@@ -1,5 +1,42 @@
 [
   {
+    "waktu": "26/03/2022 22:31:01 WIB",
+    "lintang": "2.49 LS",
+    "bujur": "121.23 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km Timur laut Luwu Timur",
+    "warning": [
+      "II Malili"
+    ]
+  },
+  {
+    "waktu": "26/03/2022 21:01:45 WIB",
+    "lintang": "3.96 LS",
+    "bujur": "122.62 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Timur laut Kendari, Kota kendari",
+    "warning": [
+      "II-III Kendari",
+      "II Kolaka",
+      "II Unaaha"
+    ]
+  },
+  {
+    "waktu": "26/03/2022 20:55:22 WIB",
+    "lintang": "3.82 LS",
+    "bujur": "122.64 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di laut 10 km Barat laut Soropia",
+    "warning": [
+      "III Kendari",
+      "II-III Kolaka",
+      "II-III Unaaha"
+    ]
+  },
+  {
     "waktu": "26/03/2022 20:16:40 WIB",
     "lintang": "3.83 LS",
     "bujur": "122.69 BT",
@@ -200,44 +237,6 @@
     "wilayah": "Pusat gempa berada di laut 32 km Barat Laut Labuan Bajo",
     "warning": [
       "III Labuan Bajo"
-    ]
-  },
-  {
-    "waktu": "21/03/2022 19:13:42 WIB",
-    "lintang": "4.71 LS",
-    "bujur": "129.89 BT",
-    "magnitudo": "4",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 20 km Selatan Banda-MALTENG",
-    "warning": [
-      "III Banda"
-    ]
-  },
-  {
-    "waktu": "21/03/2022 07:11:54 WIB",
-    "lintang": "7.26 LS",
-    "bujur": "107.67 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di darat 25 Km Barat Daya Garut",
-    "warning": [
-      "II-III Kertasari",
-      "II Pacet",
-      "II Pangalengan"
-    ]
-  },
-  {
-    "waktu": "19/03/2022 21:10:16 WIB",
-    "lintang": "6.93 LS",
-    "bujur": "105.37 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 37 km barat daya Sumur",
-    "warning": [
-      "III-IV Bayah",
-      "III-IV Pandeglang",
-      "II Anyer",
-      "II Lebak"
     ]
   }
 ]
