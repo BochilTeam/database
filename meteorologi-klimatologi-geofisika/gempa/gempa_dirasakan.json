@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "26/03/2022 20:16:40 WIB",
+    "lintang": "3.83 LS",
+    "bujur": "122.69 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 27 km Timur Laut Kendari",
+    "warning": [
+      "IV Kendari",
+      "III Kolaka",
+      "III-IV Konawe",
+      "III-IV Konawe Selatan"
+    ]
+  },
+  {
     "waktu": "26/03/2022 16:54:31 WIB",
     "lintang": "3.83 LS",
     "bujur": "122.72 BT",
@@ -224,17 +238,6 @@
       "III-IV Pandeglang",
       "II Anyer",
       "II Lebak"
-    ]
-  },
-  {
-    "waktu": "19/03/2022 11:26:26 WIB",
-    "lintang": "1.93 LS",
-    "bujur": "133.32 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km Barat Daya Teluk Bintuni",
-    "warning": [
-      "III-IV Teluk Bintuni"
     ]
   }
 ]

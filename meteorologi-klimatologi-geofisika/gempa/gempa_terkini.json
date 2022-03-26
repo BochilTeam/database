@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26-03-22 20:16:40 WIB",
+    "lintang": "-3.83",
+    "bujur": "122.69",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "27 km TimurLaut KENDARI-SULTRA"
+  },
+  {
     "waktu": "26-03-22 11:01:38 WIB",
     "lintang": "3.46",
     "bujur": "126.96",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "18 km TimurLaut PASAMANBARAT-SUMBAR"
-  },
-  {
-    "waktu": "22-02-22 05:15:19 WIB",
-    "lintang": "-8.08",
-    "bujur": "120.79",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "69 km TimurLaut RUTENG-MANGGARAI-NTT"
   }
 ]
