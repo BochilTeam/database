@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "27/03/2022 00:59:40 WIB",
+    "lintang": "3.88 LS",
+    "bujur": "122.69 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 5 km timur laut Soropia, Kab. Konawe",
+    "warning": [
+      "II-III Kendari",
+      "II Unaaha"
+    ]
+  },
+  {
     "waktu": "26/03/2022 22:31:01 WIB",
     "lintang": "2.49 LS",
     "bujur": "121.23 BT",
@@ -225,18 +237,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km tenggara RUTENG-MANGGARAI",
     "warning": [
       "IV Ruteng"
-    ]
-  },
-  {
-    "waktu": "22/03/2022 08:52:08 WIB",
-    "lintang": "6.95 LS",
-    "bujur": "107.06 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km tenggara Kota Sukabumi",
-    "warning": [
-      "II Kebonpedes",
-      "II Cireunghas"
     ]
   }
 ]
