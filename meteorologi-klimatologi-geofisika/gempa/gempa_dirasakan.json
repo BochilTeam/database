@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "26/03/2022 16:54:31 WIB",
+    "lintang": "3.83 LS",
+    "bujur": "122.72 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 11 km Timur Laut Soropia, Kab. Konawe",
+    "warning": [
+      "II-III Kendari",
+      "II Konawe Selatan"
+    ]
+  },
+  {
+    "waktu": "26/03/2022 15:23:48 WIB",
+    "lintang": "1.79 LS",
+    "bujur": "133.36 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 39 km Barat Laut Teluk Bintuni",
+    "warning": [
+      "II-III Bintuni"
+    ]
+  },
+  {
     "waktu": "26/03/2022 12:25:56 WIB",
     "lintang": "6.33 LS",
     "bujur": "105.96 BT",
@@ -211,31 +234,6 @@
     "wilayah": "Pusat gempa berada di darat 2 km Barat Daya Teluk Bintuni",
     "warning": [
       "III-IV Teluk Bintuni"
-    ]
-  },
-  {
-    "waktu": "19/03/2022 08:03:40 WIB",
-    "lintang": "3.38 LS",
-    "bujur": "102.17 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "94 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km BaratLaut BENGKULU UTARA",
-    "warning": [
-      "III Bengkulu Utara",
-      "II-III Lebong",
-      "II-III Kota Bengkulu",
-      "II Kepahiang"
-    ]
-  },
-  {
-    "waktu": "18/03/2022 23:45:31 WIB",
-    "lintang": "3.63 LS",
-    "bujur": "128.37 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 31 km barat Saparua",
-    "warning": [
-      "II Ambon"
     ]
   }
 ]
