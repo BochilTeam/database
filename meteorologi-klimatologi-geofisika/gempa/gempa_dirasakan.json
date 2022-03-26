@@ -11,6 +11,17 @@
     ]
   },
   {
+    "waktu": "26/03/2022 21:18:34 WIB",
+    "lintang": "7.56 LS",
+    "bujur": "121.69 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 130 km Timur laut Mbay-Nagekeo",
+    "warning": [
+      "II-III Pasilambena"
+    ]
+  },
+  {
     "waktu": "26/03/2022 21:01:45 WIB",
     "lintang": "3.96 LS",
     "bujur": "122.62 BT",
@@ -226,17 +237,6 @@
     "warning": [
       "II Kebonpedes",
       "II Cireunghas"
-    ]
-  },
-  {
-    "waktu": "22/03/2022 02:26:20 WIB",
-    "lintang": "8.21 LS",
-    "bujur": "119.84 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 32 km Barat Laut Labuan Bajo",
-    "warning": [
-      "III Labuan Bajo"
     ]
   }
 ]
