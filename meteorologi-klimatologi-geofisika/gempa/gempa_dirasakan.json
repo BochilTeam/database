@@ -1,5 +1,42 @@
 [
   {
+    "waktu": "26/03/2022 12:25:56 WIB",
+    "lintang": "6.33 LS",
+    "bujur": "105.96 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km timur laut Labuan",
+    "warning": [
+      "II-III Pulosari",
+      "II-III Mandalawangi",
+      "II Pandeglang",
+      "II Labuhan"
+    ]
+  },
+  {
+    "waktu": "26/03/2022 12:23:22 WIB",
+    "lintang": "6.33 LS",
+    "bujur": "105.95 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km timur laut Labuan",
+    "warning": [
+      "II Mandalawangi"
+    ]
+  },
+  {
+    "waktu": "26/03/2022 10:03:51 WIB",
+    "lintang": "0.5 LS",
+    "bujur": "100.24 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km barat laut Padang Pariaman",
+    "warning": [
+      "III Padang Pariaman",
+      "III Padang Panjang"
+    ]
+  },
+  {
     "waktu": "25/03/2022 20:20:13 WIB",
     "lintang": "3.87 LS",
     "bujur": "122.76 BT",
@@ -199,46 +236,6 @@
     "wilayah": "Pusat gempa berada di laut 31 km barat Saparua",
     "warning": [
       "II Ambon"
-    ]
-  },
-  {
-    "waktu": "18/03/2022 22:04:03 WIB",
-    "lintang": "8.33 LS",
-    "bujur": "106.83 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di laut 152 km Tenggara Kab. Sukabumi",
-    "warning": [
-      "II Simpenan",
-      "Sukabumi"
-    ]
-  },
-  {
-    "waktu": "18/03/2022 11:33:01 WIB",
-    "lintang": "9.91 LS",
-    "bujur": "120.56 BT",
-    "magnitudo": "4",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di darat 35 km Timurlaut Wula-Waijelu",
-    "warning": [
-      "II-III Waingapu"
-    ]
-  },
-  {
-    "waktu": "18/03/2022 03:53:30 WIB",
-    "lintang": "6.75 LS",
-    "bujur": "106.21 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "137 Km",
-    "wilayah": "Pusat gempa berada di darat 20 km baratlaut Bayah",
-    "warning": [
-      "II-III Cibaliung",
-      "I-II Bogor",
-      "I-II Depok",
-      "I-II Karawaci",
-      "I-II Tangerang",
-      "I-II Tangerang Selatan",
-      "I-II Pandeglang"
     ]
   }
 ]

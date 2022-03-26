@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26-03-22 11:01:38 WIB",
+    "lintang": "3.46",
+    "bujur": "126.96",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "67 km Tenggara MELONGUANE-SULUT"
+  },
+  {
     "waktu": "23-03-22 23:29:35 WIB",
     "lintang": "1.86",
     "bujur": "127.23",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "69 km TimurLaut RUTENG-MANGGARAI-NTT"
-  },
-  {
-    "waktu": "22-02-22 01:16:56 WIB",
-    "lintang": "-8.05",
-    "bujur": "120.66",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "66 km TimurLaut RUTENG-MANGGARAI-NTT"
   }
 ]
