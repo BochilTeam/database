@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/03/2022 12:53:53 WIB",
+    "lintang": "6.56 LS",
+    "bujur": "106.06 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "134 Km",
+    "wilayah": "Pusat gempa berada di darat 21 km barat laut Rangkasbitung",
+    "warning": [
+      "II Malingping"
+    ]
+  },
+  {
     "waktu": "27/03/2022 00:59:40 WIB",
     "lintang": "3.88 LS",
     "bujur": "122.69 BT",
@@ -226,17 +237,6 @@
     "wilayah": "Pusat gempa berada di darat 3 km tenggara RUTENG-MANGGARAI",
     "warning": [
       "II Ruteng"
-    ]
-  },
-  {
-    "waktu": "23/03/2022 04:06:59 WIB",
-    "lintang": "8.67 LS",
-    "bujur": "120.47 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km tenggara RUTENG-MANGGARAI",
-    "warning": [
-      "IV Ruteng"
     ]
   }
 ]
