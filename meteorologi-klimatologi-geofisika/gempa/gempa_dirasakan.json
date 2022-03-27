@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/03/2022 23:34:56 WIB",
+    "lintang": "1.31 LS",
+    "bujur": "120.5 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km barat daya Tambarana Kab. Poso",
+    "warning": [
+      "III Poso"
+    ]
+  },
+  {
     "waktu": "27/03/2022 15:58:33 WIB",
     "lintang": "1.19 LU",
     "bujur": "120.98 BT",
@@ -226,17 +237,6 @@
     "wilayah": "Pusat gempa berada di laut 66 km barat laut Pegunungan Arfak",
     "warning": [
       "II-III Manokwari"
-    ]
-  },
-  {
-    "waktu": "23/03/2022 17:10:39 WIB",
-    "lintang": "0.65 LS",
-    "bujur": "133.55 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 46 km barat laut Pegunungan Arfak",
-    "warning": [
-      "III Manokwari"
     ]
   }
 ]
