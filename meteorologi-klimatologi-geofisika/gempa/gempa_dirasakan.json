@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/03/2022 00:18:30 WIB",
+    "lintang": "2.17 LU",
+    "bujur": "128.61 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 37 km Timur laut Daruba",
+    "warning": [
+      "II Daruba"
+    ]
+  },
+  {
     "waktu": "27/03/2022 23:34:56 WIB",
     "lintang": "1.31 LS",
     "bujur": "120.5 BT",
@@ -226,17 +237,6 @@
     "wilayah": "Pusat gempa berada di laut 68 km barat laut Halmahera Barat",
     "warning": [
       "II Siau"
-    ]
-  },
-  {
-    "waktu": "23/03/2022 17:15:32 WIB",
-    "lintang": "0.49 LS",
-    "bujur": "133.46 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 66 km barat laut Pegunungan Arfak",
-    "warning": [
-      "II-III Manokwari"
     ]
   }
 ]
