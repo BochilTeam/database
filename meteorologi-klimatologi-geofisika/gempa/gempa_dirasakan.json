@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/03/2022 17:10:54 WIB",
+    "lintang": "2.38 LS",
+    "bujur": "140.59 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 105 Km TimurLaut Kab. Jayapura",
+    "warning": [
+      "III Jayapura"
+    ]
+  },
+  {
     "waktu": "29/03/2022 05:56:49 WIB",
     "lintang": "3.85 LS",
     "bujur": "122.83 BT",
@@ -227,17 +238,6 @@
     "warning": [
       "IV Kairatu",
       "III Ambon"
-    ]
-  },
-  {
-    "waktu": "24/03/2022 06:54:46 WIB",
-    "lintang": "0.73 LS",
-    "bujur": "133.6 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 53 Km baratlaut Manokwari",
-    "warning": [
-      "II-III Manokwari"
     ]
   }
 ]
