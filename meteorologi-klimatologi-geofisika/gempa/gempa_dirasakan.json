@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "29/03/2022 05:56:49 WIB",
+    "lintang": "3.85 LS",
+    "bujur": "122.83 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di laut 20 km Timur Laut Soropia, Kab. Konawe",
+    "warning": [
+      "II - III Kendari",
+      "II - III Konawe"
+    ]
+  },
+  {
     "waktu": "28/03/2022 00:18:30 WIB",
     "lintang": "2.17 LU",
     "bujur": "128.61 BT",
@@ -226,17 +238,6 @@
     "wilayah": "Pusat gempa berada di laut 53 Km baratlaut Manokwari",
     "warning": [
       "II-III Manokwari"
-    ]
-  },
-  {
-    "waktu": "23/03/2022 23:29:35 WIB",
-    "lintang": "1.86 LU",
-    "bujur": "127.23 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "102 Km",
-    "wilayah": "Pusat gempa berada di laut 68 km barat laut Halmahera Barat",
-    "warning": [
-      "II Siau"
     ]
   }
 ]
