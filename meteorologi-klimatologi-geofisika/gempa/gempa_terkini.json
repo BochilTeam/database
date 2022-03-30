@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "30-03-22 15:06:21 WIB",
+    "lintang": "-4.83",
+    "bujur": "133.83",
+    "magnitudo": "5.0",
+    "kedalaman": "12 Km",
+    "wilayah": "112 km BaratLaut KEP.ARU-MALUKU"
+  },
+  {
+    "waktu": "30-03-22 14:44:37 WIB",
+    "lintang": "-6.21",
+    "bujur": "104.35",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "89 km BaratDaya TANGGAMUS-LAMPUNG"
+  },
+  {
     "waktu": "26-03-22 20:16:40 WIB",
     "lintang": "-3.83",
     "bujur": "122.69",
@@ -222,21 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "16 km TimurLaut PASAMANBARAT-SUMBAR"
-  },
-  {
-    "waktu": "25-02-22 08:39:29 WIB",
-    "lintang": "0.15",
-    "bujur": "99.98",
-    "magnitudo": "6.2",
-    "kedalaman": "10 Km",
-    "wilayah": "17 km TimurLaut PASAMANBARAT-SUMBAR"
-  },
-  {
-    "waktu": "25-02-22 08:35:51 WIB",
-    "lintang": "0.14",
-    "bujur": "99.99",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "18 km TimurLaut PASAMANBARAT-SUMBAR"
   }
 ]

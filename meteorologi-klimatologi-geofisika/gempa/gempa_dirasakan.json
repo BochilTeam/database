@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "30/03/2022 14:44:37 WIB",
+    "lintang": "6.21 LS",
+    "bujur": "104.35 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 89 km Barat Daya Tanggamus",
+    "warning": [
+      "III Pesisir Barat",
+      "II - III Liwa",
+      "II Tanggamus"
+    ]
+  },
+  {
     "waktu": "30/03/2022 07:18:29 WIB",
     "lintang": "3.89 LS",
     "bujur": "122.64 BT",
@@ -222,20 +235,6 @@
     "warning": [
       "III Padang Pariaman",
       "III Padang Panjang"
-    ]
-  },
-  {
-    "waktu": "25/03/2022 20:20:13 WIB",
-    "lintang": "3.87 LS",
-    "bujur": "122.76 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di laut, 11.9km Timur Laut Soropia",
-    "warning": [
-      "III-IV Kendari",
-      "III Ranomeeto",
-      "III Moramo",
-      "II-III Besulutu"
     ]
   }
 ]
