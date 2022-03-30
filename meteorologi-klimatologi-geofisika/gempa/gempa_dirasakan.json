@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "30/03/2022 07:18:29 WIB",
+    "lintang": "3.89 LS",
+    "bujur": "122.64 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 3.1 km BaratLaut Soropia",
+    "warning": [
+      "II Kendari",
+      "II Konawe"
+    ]
+  },
+  {
     "waktu": "29/03/2022 19:48:26 WIB",
     "lintang": "6.7 LS",
     "bujur": "105.64 BT",
@@ -224,19 +236,6 @@
       "III Ranomeeto",
       "III Moramo",
       "II-III Besulutu"
-    ]
-  },
-  {
-    "waktu": "24/03/2022 21:56:11 WIB",
-    "lintang": "3.39 LS",
-    "bujur": "128.34 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 5 km Selatan Kairatu",
-    "warning": [
-      "III Kairatu",
-      "III Ambon",
-      "II Saparua"
     ]
   }
 ]
