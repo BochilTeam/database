@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/04/2022 19:22:15 WIB",
+    "lintang": "0.44 LS",
+    "bujur": "123.07 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "53 Km",
+    "wilayah": "Pusat gempa berada di laut 65 km TimurLaut Luwuk",
+    "warning": [
+      "II-III Luwuk"
+    ]
+  },
+  {
     "waktu": "01/04/2022 18:11:47 WIB",
     "lintang": "7.97 LS",
     "bujur": "110.45 BT",
@@ -234,17 +245,6 @@
       "II-III Kendari",
       "II Konawe Selatan",
       "II Konawe Kepulauan"
-    ]
-  },
-  {
-    "waktu": "26/03/2022 15:23:48 WIB",
-    "lintang": "1.79 LS",
-    "bujur": "133.36 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di darat 39 km Barat Laut Teluk Bintuni",
-    "warning": [
-      "II-III Bintuni"
     ]
   }
 ]
