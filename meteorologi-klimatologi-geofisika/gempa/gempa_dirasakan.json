@@ -1,5 +1,23 @@
 [
   {
+    "waktu": "01/04/2022 14:14:11 WIB",
+    "lintang": "7.14 LS",
+    "bujur": "106.01 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 35 Km Barat Daya Bayah",
+    "warning": [
+      "IV Pelabuhan Ratu",
+      "II-III Panggarangan",
+      "II-III Tanjung Lesung",
+      "II Jakarta",
+      "II Tangerang Selatan",
+      "II Tangerang",
+      "II Bogor",
+      "II Bandung"
+    ]
+  },
+  {
     "waktu": "01/04/2022 11:54:19 WIB",
     "lintang": "7.04 LS",
     "bujur": "106.1 BT",
@@ -229,17 +247,6 @@
       "II-III Mandalawangi",
       "II Pandeglang",
       "II Labuhan"
-    ]
-  },
-  {
-    "waktu": "26/03/2022 12:23:22 WIB",
-    "lintang": "6.33 LS",
-    "bujur": "105.95 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 13 km timur laut Labuan",
-    "warning": [
-      "II Mandalawangi"
     ]
   }
 ]

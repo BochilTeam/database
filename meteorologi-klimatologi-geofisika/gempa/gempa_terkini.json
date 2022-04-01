@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01-04-22 14:14:11 WIB",
+    "lintang": "-7.14",
+    "bujur": "106.01",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "35 km BaratDaya BAYAH-BANTEN"
+  },
+  {
     "waktu": "01-04-22 11:54:19 WIB",
     "lintang": "-7.04",
     "bujur": "106.10",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "18 Km",
     "wilayah": "77 km BaratLaut ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "25-02-22 16:22:50 WIB",
-    "lintang": "-8.24",
-    "bujur": "118.65",
-    "magnitudo": "5.2",
-    "kedalaman": "172 Km",
-    "wilayah": "24 km BaratLaut BIMA-NTB"
   }
 ]
