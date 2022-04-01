@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "01/04/2022 18:11:47 WIB",
+    "lintang": "7.97 LS",
+    "bujur": "110.45 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "19 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km Tenggara Bantul",
+    "warning": [
+      "II Imogiri",
+      "II Pundong-Bantul"
+    ]
+  },
+  {
     "waktu": "01/04/2022 14:14:11 WIB",
     "lintang": "7.14 LS",
     "bujur": "106.01 BT",
@@ -233,20 +245,6 @@
     "wilayah": "Pusat gempa berada di darat 39 km Barat Laut Teluk Bintuni",
     "warning": [
       "II-III Bintuni"
-    ]
-  },
-  {
-    "waktu": "26/03/2022 12:25:56 WIB",
-    "lintang": "6.33 LS",
-    "bujur": "105.96 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km timur laut Labuan",
-    "warning": [
-      "II-III Pulosari",
-      "II-III Mandalawangi",
-      "II Pandeglang",
-      "II Labuhan"
     ]
   }
 ]
