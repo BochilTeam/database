@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "01/04/2022 11:54:19 WIB",
+    "lintang": "7.04 LS",
+    "bujur": "106.1 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 20 km BaratDaya Bayah",
+    "warning": [
+      "II-III Pelabuhan Ratu",
+      "II-III Sumur",
+      "II-III Malingping",
+      "I-II Ciuyah",
+      "I-II Saketi",
+      "I-II Bekasi",
+      "I-II Bogor"
+    ]
+  },
+  {
     "waktu": "30/03/2022 14:44:37 WIB",
     "lintang": "6.21 LS",
     "bujur": "104.35 BT",
@@ -223,18 +240,6 @@
     "wilayah": "Pusat gempa berada di darat 13 km timur laut Labuan",
     "warning": [
       "II Mandalawangi"
-    ]
-  },
-  {
-    "waktu": "26/03/2022 10:03:51 WIB",
-    "lintang": "0.5 LS",
-    "bujur": "100.24 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km barat laut Padang Pariaman",
-    "warning": [
-      "III Padang Pariaman",
-      "III Padang Panjang"
     ]
   }
 ]
