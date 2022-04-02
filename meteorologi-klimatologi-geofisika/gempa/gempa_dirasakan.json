@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/04/2022 13:37:18 WIB",
+    "lintang": "3.87 LS",
+    "bujur": "122.65 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 5 km Baratlaut Konawe",
+    "warning": [
+      "II - III Kendari"
+    ]
+  },
+  {
     "waktu": "01/04/2022 19:22:15 WIB",
     "lintang": "0.44 LS",
     "bujur": "123.07 BT",
@@ -232,19 +243,6 @@
       "III Kolaka",
       "III-IV Konawe",
       "III-IV Konawe Selatan"
-    ]
-  },
-  {
-    "waktu": "26/03/2022 16:54:31 WIB",
-    "lintang": "3.83 LS",
-    "bujur": "122.72 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 11 km Timur Laut Soropia, Kab. Konawe",
-    "warning": [
-      "II-III Kendari",
-      "II Konawe Selatan",
-      "II Konawe Kepulauan"
     ]
   }
 ]
