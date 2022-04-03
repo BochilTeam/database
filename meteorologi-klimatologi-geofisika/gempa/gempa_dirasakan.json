@@ -1,5 +1,23 @@
 [
   {
+    "waktu": "04/04/2022 01:14:37 WIB",
+    "lintang": "0.2 LS",
+    "bujur": "100.34 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada didarat 12 km Barat Laut Bukit Tinggi",
+    "warning": [
+      "III-IV Bukit Tinggi",
+      "III-IV Payakumbuh",
+      "III-IV Agam",
+      "III Padang Panjang",
+      "III Tanah datar",
+      "II Pasaman",
+      "II Solok",
+      "II Pariaman"
+    ]
+  },
+  {
     "waktu": "03/04/2022 08:10:04 WIB",
     "lintang": "3.88 LS",
     "bujur": "122.69 BT",
@@ -225,19 +243,6 @@
     "wilayah": "Pusat gempa berada di laut 130 km Timur laut Mbay-Nagekeo",
     "warning": [
       "II-III Pasilambena"
-    ]
-  },
-  {
-    "waktu": "26/03/2022 21:01:45 WIB",
-    "lintang": "3.96 LS",
-    "bujur": "122.62 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km Timur laut Kendari, Kota kendari",
-    "warning": [
-      "II-III Kendari",
-      "II Kolaka",
-      "II Unaaha"
     ]
   }
 ]
