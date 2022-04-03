@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03-04-22 07:52:48 WIB",
+    "lintang": "5.39",
+    "bujur": "126.93",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "157 km TimurLaut MELONGUANE-SULUT"
+  },
+  {
     "waktu": "01-04-22 14:14:11 WIB",
     "lintang": "-7.14",
     "bujur": "106.01",
@@ -230,13 +238,5 @@
     "magnitudo": "5.8",
     "kedalaman": "122 Km",
     "wilayah": "195 km BaratLaut MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "26-02-22 06:58:07 WIB",
-    "lintang": "-4.92",
-    "bujur": "101.72",
-    "magnitudo": "5.1",
-    "kedalaman": "18 Km",
-    "wilayah": "77 km BaratLaut ENGGANO-BENGKULU"
   }
 ]
