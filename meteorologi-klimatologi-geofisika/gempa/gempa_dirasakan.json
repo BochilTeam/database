@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/04/2022 10:37:11 WIB",
+    "lintang": "2.92 LS",
+    "bujur": "119.37 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km tenggara Mamasa",
+    "warning": [
+      "II-III Mamasa"
+    ]
+  },
+  {
     "waktu": "04/04/2022 06:12:38 WIB",
     "lintang": "4.65 LS",
     "bujur": "129.46 BT",
@@ -231,18 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 21 km barat laut Rangkasbitung",
     "warning": [
       "II Malingping"
-    ]
-  },
-  {
-    "waktu": "27/03/2022 00:59:40 WIB",
-    "lintang": "3.88 LS",
-    "bujur": "122.69 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 5 km timur laut Soropia, Kab. Konawe",
-    "warning": [
-      "II-III Kendari",
-      "II Unaaha"
     ]
   }
 ]
