@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "04/04/2022 06:12:38 WIB",
+    "lintang": "4.65 LS",
+    "bujur": "129.46 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 50 km barat Banda",
+    "warning": [
+      "III-IV Banda"
+    ]
+  },
+  {
+    "waktu": "04/04/2022 05:58:43 WIB",
+    "lintang": "4.49 LS",
+    "bujur": "129.87 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 5 km barat laut Banda",
+    "warning": [
+      "III Banda"
+    ]
+  },
+  {
     "waktu": "04/04/2022 01:14:37 WIB",
     "lintang": "0.2 LS",
     "bujur": "100.34 BT",
@@ -221,28 +243,6 @@
     "warning": [
       "II-III Kendari",
       "II Unaaha"
-    ]
-  },
-  {
-    "waktu": "26/03/2022 22:31:01 WIB",
-    "lintang": "2.49 LS",
-    "bujur": "121.23 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km Timur laut Luwu Timur",
-    "warning": [
-      "II Malili"
-    ]
-  },
-  {
-    "waktu": "26/03/2022 21:18:34 WIB",
-    "lintang": "7.56 LS",
-    "bujur": "121.69 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 130 km Timur laut Mbay-Nagekeo",
-    "warning": [
-      "II-III Pasilambena"
     ]
   }
 ]
