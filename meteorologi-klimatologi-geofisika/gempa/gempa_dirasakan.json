@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "05/04/2022 05:46:59 WIB",
+    "lintang": "0.24 LS",
+    "bujur": "100.27 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km Baratlaut Bukit Tinggi",
+    "warning": [
+      "III-IV Bukit Tinggi",
+      "III-IV Agam",
+      "II Padang Panjang"
+    ]
+  },
+  {
     "waktu": "04/04/2022 10:37:11 WIB",
     "lintang": "2.92 LS",
     "bujur": "119.37 BT",
@@ -231,17 +244,6 @@
     "wilayah": "Pusat gempa berada di darat 42 km Timur Laut Toli-Toli",
     "warning": [
       "II Toli-Toli"
-    ]
-  },
-  {
-    "waktu": "27/03/2022 12:53:53 WIB",
-    "lintang": "6.56 LS",
-    "bujur": "106.06 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "134 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km barat laut Rangkasbitung",
-    "warning": [
-      "II Malingping"
     ]
   }
 ]
