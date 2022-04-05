@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/04/2022 20:28:21 WIB",
+    "lintang": "1.93 LS",
+    "bujur": "125.93 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "19 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km barat laut Sanana",
+    "warning": [
+      "III Sanana"
+    ]
+  },
+  {
     "waktu": "05/04/2022 15:37:15 WIB",
     "lintang": "7.36 LS",
     "bujur": "106.05 BT",
@@ -238,17 +249,6 @@
     "warning": [
       "II - III Kendari",
       "II - III Konawe"
-    ]
-  },
-  {
-    "waktu": "28/03/2022 00:18:30 WIB",
-    "lintang": "2.17 LU",
-    "bujur": "128.61 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 37 km Timur laut Daruba",
-    "warning": [
-      "II Daruba"
     ]
   }
 ]
