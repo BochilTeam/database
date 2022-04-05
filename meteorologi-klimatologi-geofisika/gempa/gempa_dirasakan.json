@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/04/2022 21:16:33 WIB",
+    "lintang": "3.96 LS",
+    "bujur": "122.61 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km Timur Laut Kendari",
+    "warning": [
+      "II Kendari"
+    ]
+  },
+  {
     "waktu": "05/04/2022 20:28:21 WIB",
     "lintang": "1.93 LS",
     "bujur": "125.93 BT",
@@ -237,18 +248,6 @@
     "wilayah": "Pusat gempa berada di laut 105 Km TimurLaut Kab. Jayapura",
     "warning": [
       "III Jayapura"
-    ]
-  },
-  {
-    "waktu": "29/03/2022 05:56:49 WIB",
-    "lintang": "3.85 LS",
-    "bujur": "122.83 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di laut 20 km Timur Laut Soropia, Kab. Konawe",
-    "warning": [
-      "II - III Kendari",
-      "II - III Konawe"
     ]
   }
 ]
