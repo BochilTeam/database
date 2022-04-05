@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "05/04/2022 08:44:06 WIB",
+    "lintang": "2.11 LU",
+    "bujur": "126.97 BT",
+    "magnitudo": "6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 109 km Barat Laut Halmahera Barat",
+    "warning": [
+      "III-IV Galela",
+      "III Tobelo",
+      "II-III Bitung",
+      "II Siau",
+      "II Morotai",
+      "III Halmahera Barat"
+    ]
+  },
+  {
     "waktu": "05/04/2022 05:46:59 WIB",
     "lintang": "0.24 LS",
     "bujur": "100.27 BT",
@@ -233,17 +249,6 @@
     "wilayah": "Pusat gempa berada di darat 16 km barat daya Tambarana Kab. Poso",
     "warning": [
       "III Poso"
-    ]
-  },
-  {
-    "waktu": "27/03/2022 15:58:33 WIB",
-    "lintang": "1.19 LU",
-    "bujur": "120.98 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 42 km Timur Laut Toli-Toli",
-    "warning": [
-      "II Toli-Toli"
     ]
   }
 ]

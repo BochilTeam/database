@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05-04-22 08:44:06 WIB",
+    "lintang": "2.11",
+    "bujur": "126.97",
+    "magnitudo": "6.0",
+    "kedalaman": "10 Km",
+    "wilayah": "108 km BaratLaut HALMAHERABARAT-MALUT"
+  },
+  {
     "waktu": "03-04-22 07:52:48 WIB",
     "lintang": "5.39",
     "bujur": "126.93",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "28 Km",
     "wilayah": "26 km BaratDaya MEULABOH-ACEHBARAT"
-  },
-  {
-    "waktu": "26-02-22 13:15:53 WIB",
-    "lintang": "5.73",
-    "bujur": "126.37",
-    "magnitudo": "5.8",
-    "kedalaman": "122 Km",
-    "wilayah": "195 km BaratLaut MELONGUANE-SULUT"
   }
 ]
