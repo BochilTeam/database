@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "06/04/2022 10:03:36 WIB",
+    "lintang": "8.21 LS",
+    "bujur": "110.57 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "123 Km",
+    "wilayah": "Pusat gempa berada di laut 24 Km Barat Daya Gunung Kidul",
+    "warning": [
+      "II Gunung Kidul",
+      "II Bantul",
+      "II Sleman",
+      "II Trenggalek",
+      "II - III Pacitan"
+    ]
+  },
+  {
     "waktu": "05/04/2022 21:16:33 WIB",
     "lintang": "3.96 LS",
     "bujur": "122.61 BT",
@@ -237,17 +252,6 @@
     "wilayah": "Pusat gempa berada di darat 8 Km Tenggara Sumur",
     "warning": [
       "II Cibaliung"
-    ]
-  },
-  {
-    "waktu": "29/03/2022 17:10:54 WIB",
-    "lintang": "2.38 LS",
-    "bujur": "140.59 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 105 Km TimurLaut Kab. Jayapura",
-    "warning": [
-      "III Jayapura"
     ]
   }
 ]
