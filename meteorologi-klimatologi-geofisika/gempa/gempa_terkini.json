@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06-04-22 12:29:45 WIB",
+    "lintang": "7.39",
+    "bujur": "94.51",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "188 km BaratLaut KOTA-SABANG-ACEH"
+  },
+  {
     "waktu": "05-04-22 08:44:06 WIB",
     "lintang": "2.11",
     "bujur": "126.97",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "134 km BaratDaya KAB-PANGANDARAN-JABAR"
-  },
-  {
-    "waktu": "01-03-22 18:04:11 WIB",
-    "lintang": "3.97",
-    "bujur": "95.96",
-    "magnitudo": "5.3",
-    "kedalaman": "28 Km",
-    "wilayah": "26 km BaratDaya MEULABOH-ACEHBARAT"
   }
 ]
