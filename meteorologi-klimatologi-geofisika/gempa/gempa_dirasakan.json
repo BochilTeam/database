@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "06/04/2022 20:23:00 WIB",
+    "lintang": "4.01 LS",
+    "bujur": "122.51 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 1.5 km barat laut Kendari",
+    "warning": [
+      "II - III Kendari",
+      "II - III Konawe Selatan"
+    ]
+  },
+  {
     "waktu": "06/04/2022 10:03:36 WIB",
     "lintang": "8.21 LS",
     "bujur": "110.57 BT",
@@ -241,17 +253,6 @@
     "warning": [
       "II Kendari",
       "II Konawe"
-    ]
-  },
-  {
-    "waktu": "29/03/2022 19:48:26 WIB",
-    "lintang": "6.7 LS",
-    "bujur": "105.64 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 8 Km Tenggara Sumur",
-    "warning": [
-      "II Cibaliung"
     ]
   }
 ]
