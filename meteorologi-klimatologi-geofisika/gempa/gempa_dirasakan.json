@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/04/2022 13:36:41 WIB",
+    "lintang": "4.16 LS",
+    "bujur": "102.06 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "60 Km",
+    "wilayah": "Pusat gempa berada di laut 58 km BaratDaya Seluma",
+    "warning": [
+      "II - III Kota Bengkulu"
+    ]
+  },
+  {
     "waktu": "06/04/2022 20:23:00 WIB",
     "lintang": "4.01 LS",
     "bujur": "122.51 BT",
@@ -241,18 +252,6 @@
       "III Pesisir Barat",
       "II - III Liwa",
       "II Tanggamus"
-    ]
-  },
-  {
-    "waktu": "30/03/2022 07:18:29 WIB",
-    "lintang": "3.89 LS",
-    "bujur": "122.64 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di laut 3.1 km BaratLaut Soropia",
-    "warning": [
-      "II Kendari",
-      "II Konawe"
     ]
   }
 ]
