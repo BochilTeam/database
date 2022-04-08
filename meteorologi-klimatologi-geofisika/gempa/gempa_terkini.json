@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08-04-22 19:32:13 WIB",
+    "lintang": "-3.18",
+    "bujur": "139.01",
+    "magnitudo": "5.1",
+    "kedalaman": "68 Km",
+    "wilayah": "67 km TimurLaut TOLIKARA-PAPUA"
+  },
+  {
     "waktu": "07-04-22 16:52:58 WIB",
     "lintang": "6.01",
     "bujur": "125.79",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "6 km BaratDaya WAINGAPU-NTT"
-  },
-  {
-    "waktu": "02-03-22 13:40:38 WIB",
-    "lintang": "-3.10",
-    "bujur": "139.10",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "71 km BaratDaya SARMI-PAPUA"
   }
 ]

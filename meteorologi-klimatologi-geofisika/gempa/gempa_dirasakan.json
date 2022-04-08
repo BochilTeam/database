@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "08/04/2022 19:32:13 WIB",
+    "lintang": "3.18 LS",
+    "bujur": "139.01 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "68 Km",
+    "wilayah": "Pusat gempa berada di darat 67 km Timur Laut Tolikara",
+    "warning": [
+      "II Timika",
+      "III Wamena",
+      "II Mulia",
+      "III Tolikara"
+    ]
+  },
+  {
     "waktu": "08/04/2022 15:28:35 WIB",
     "lintang": "2.35 LS",
     "bujur": "121.02 BT",
@@ -226,24 +240,6 @@
     "warning": [
       "II Imogiri",
       "II Pundong-Bantul"
-    ]
-  },
-  {
-    "waktu": "01/04/2022 14:14:11 WIB",
-    "lintang": "7.14 LS",
-    "bujur": "106.01 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 35 Km Barat Daya Bayah",
-    "warning": [
-      "IV Pelabuhan Ratu",
-      "II-III Panggarangan",
-      "II-III Tanjung Lesung",
-      "II Jakarta",
-      "II Tangerang Selatan",
-      "II Tangerang",
-      "II Bogor",
-      "II Bandung"
     ]
   }
 ]
