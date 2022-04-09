@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "09/04/2022 16:41:07 WIB",
+    "lintang": "8.76 LS",
+    "bujur": "114.73 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "82 Km",
+    "wilayah": "Pusat gempa berada di laut 48 km tenggara Jembrana",
+    "warning": [
+      "III-IV Badung",
+      "II Denpasar",
+      "II Tabanan",
+      "II Gianyar",
+      "II Mataram",
+      "III Jembrana",
+      "II Karangasem"
+    ]
+  },
+  {
     "waktu": "08/04/2022 19:32:13 WIB",
     "lintang": "3.18 LS",
     "bujur": "139.01 BT",
@@ -228,18 +245,6 @@
     "wilayah": "Pusat gempa berada di laut 65 km TimurLaut Luwuk",
     "warning": [
       "II-III Luwuk"
-    ]
-  },
-  {
-    "waktu": "01/04/2022 18:11:47 WIB",
-    "lintang": "7.97 LS",
-    "bujur": "110.45 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "19 Km",
-    "wilayah": "Pusat gempa berada di darat 13 km Tenggara Bantul",
-    "warning": [
-      "II Imogiri",
-      "II Pundong-Bantul"
     ]
   }
 ]
