@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "10/04/2022 04:22:13 WIB",
+    "lintang": "3.12 LS",
+    "bujur": "139.98 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "53 Km",
+    "wilayah": "Pusat gempa berada di darat 20 km Tenggara Kab.Jayapura",
+    "warning": [
+      "III Jayapura",
+      "II - III Wamena"
+    ]
+  },
+  {
+    "waktu": "10/04/2022 03:00:05 WIB",
+    "lintang": "0.07 LS",
+    "bujur": "123.66 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "127 Km",
+    "wilayah": "Pusat gempa berada di laut 61 km baratdaya Bolaang Uki, Bolsel",
+    "warning": [
+      "II-III Luwuk"
+    ]
+  },
+  {
     "waktu": "09/04/2022 16:41:07 WIB",
     "lintang": "8.76 LS",
     "bujur": "114.73 BT",
@@ -223,28 +246,6 @@
     "wilayah": "Pusat gempa berada di laut 89 km TimurLaut Kab. Jayapura",
     "warning": [
       "III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "02/04/2022 13:37:18 WIB",
-    "lintang": "3.87 LS",
-    "bujur": "122.65 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 5 km Baratlaut Konawe",
-    "warning": [
-      "II - III Kendari"
-    ]
-  },
-  {
-    "waktu": "01/04/2022 19:22:15 WIB",
-    "lintang": "0.44 LS",
-    "bujur": "123.07 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "53 Km",
-    "wilayah": "Pusat gempa berada di laut 65 km TimurLaut Luwuk",
-    "warning": [
-      "II-III Luwuk"
     ]
   }
 ]

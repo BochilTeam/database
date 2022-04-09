@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10-04-22 04:22:13 WIB",
+    "lintang": "-3.12",
+    "bujur": "139.98",
+    "magnitudo": "5.2",
+    "kedalaman": "53 Km",
+    "wilayah": "20 km Tenggara KAB-JAYAPURA-PAPUA"
+  },
+  {
     "waktu": "08-04-22 19:32:13 WIB",
     "lintang": "-3.18",
     "bujur": "139.01",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "124 Km",
     "wilayah": "104 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "04-03-22 14:00:33 WIB",
-    "lintang": "-9.72",
-    "bujur": "120.26",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "6 km BaratDaya WAINGAPU-NTT"
   }
 ]
