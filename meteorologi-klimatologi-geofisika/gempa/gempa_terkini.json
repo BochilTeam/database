@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-04-22 03:56:50 WIB",
+    "lintang": "1.89",
+    "bujur": "127.38",
+    "magnitudo": "5.0",
+    "kedalaman": "94 Km",
+    "wilayah": "63 km BaratLaut HALMAHERABARAT-MALUT"
+  },
+  {
     "waktu": "10-04-22 21:17:20 WIB",
     "lintang": "8.03",
     "bujur": "93.87",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "32 Km",
     "wilayah": "65 km Tenggara ONDONG-KEP.SITARO-SULUT"
-  },
-  {
-    "waktu": "08-03-22 00:23:49 WIB",
-    "lintang": "-6.00",
-    "bujur": "130.65",
-    "magnitudo": "5.0",
-    "kedalaman": "147 Km",
-    "wilayah": "230 km BaratLaut MALUKUTENGGARABRT"
   }
 ]
