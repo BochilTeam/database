@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10-04-22 21:17:20 WIB",
+    "lintang": "8.03",
+    "bujur": "93.87",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "286 km BaratLaut KOTA-SABANG-ACEH"
+  },
+  {
     "waktu": "10-04-22 20:34:31 WIB",
     "lintang": "7.34",
     "bujur": "94.62",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "147 Km",
     "wilayah": "230 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
-    "waktu": "06-03-22 05:40:28 WIB",
-    "lintang": "3.55",
-    "bujur": "126.10",
-    "magnitudo": "5.0",
-    "kedalaman": "43 Km",
-    "wilayah": "67 km Tenggara TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "10/04/2022 21:33:58 WIB",
+    "lintang": "1.11 LU",
+    "bujur": "97.49 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "23 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km timurlaut Nias Barat",
+    "warning": [
+      "II Lahewa"
+    ]
+  },
+  {
     "waktu": "10/04/2022 04:22:13 WIB",
     "lintang": "3.12 LS",
     "bujur": "139.98 BT",
@@ -235,17 +246,6 @@
     "wilayah": "Pusat gempa berada di laut 5 km TimurLaut Soropia, Kab. Konawe",
     "warning": [
       "II-III Kendari"
-    ]
-  },
-  {
-    "waktu": "03/04/2022 08:01:42 WIB",
-    "lintang": "2.38 LS",
-    "bujur": "140.38 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 89 km TimurLaut Kab. Jayapura",
-    "warning": [
-      "III Kota Jayapura"
     ]
   }
 ]
