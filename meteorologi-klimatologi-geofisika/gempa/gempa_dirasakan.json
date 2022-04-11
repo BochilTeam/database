@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/04/2022 10:06:57 WIB",
+    "lintang": "5.26 LS",
+    "bujur": "103.86 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "55 Km",
+    "wilayah": "Pusat gempa berada di laut 11 km Barat daya Pesisir Barat",
+    "warning": [
+      "II Pesisir Barat"
+    ]
+  },
+  {
     "waktu": "10/04/2022 21:33:58 WIB",
     "lintang": "1.11 LU",
     "bujur": "97.49 BT",
@@ -235,17 +246,6 @@
       "II Pasaman",
       "II Solok",
       "II Pariaman"
-    ]
-  },
-  {
-    "waktu": "03/04/2022 08:10:04 WIB",
-    "lintang": "3.88 LS",
-    "bujur": "122.69 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 5 km TimurLaut Soropia, Kab. Konawe",
-    "warning": [
-      "II-III Kendari"
     ]
   }
 ]
