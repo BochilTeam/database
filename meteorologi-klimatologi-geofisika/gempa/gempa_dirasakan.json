@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/04/2022 00:45:31 WIB",
+    "lintang": "3.35 LS",
+    "bujur": "128.38 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km timur Kairatu,Seram Bagian Barat",
+    "warning": [
+      "II Kairatu"
+    ]
+  },
+  {
     "waktu": "11/04/2022 10:06:57 WIB",
     "lintang": "5.26 LS",
     "bujur": "103.86 BT",
@@ -228,24 +239,6 @@
     "wilayah": "Pusat gempa berada di laut 5 km barat laut Banda",
     "warning": [
       "III Banda"
-    ]
-  },
-  {
-    "waktu": "04/04/2022 01:14:37 WIB",
-    "lintang": "0.2 LS",
-    "bujur": "100.34 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada didarat 12 km Barat Laut Bukit Tinggi",
-    "warning": [
-      "III-IV Bukit Tinggi",
-      "III-IV Payakumbuh",
-      "III-IV Agam",
-      "III Padang Panjang",
-      "III Tanah datar",
-      "II Pasaman",
-      "II Solok",
-      "II Pariaman"
     ]
   }
 ]
