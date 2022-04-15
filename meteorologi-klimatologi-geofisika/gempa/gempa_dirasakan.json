@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "15/04/2022 18:27:29 WIB",
+    "lintang": "4.04 LU",
+    "bujur": "95.83 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "48 Km",
+    "wilayah": "Pusat gempa berada di laut 34 km Barat Daya Meulaboh",
+    "warning": [
+      "III Takengon",
+      "II Sigli Pidie"
+    ]
+  },
+  {
     "waktu": "14/04/2022 00:45:31 WIB",
     "lintang": "3.35 LS",
     "bujur": "128.38 BT",
@@ -228,17 +240,6 @@
     "wilayah": "Pusat gempa berada di laut 50 km barat Banda",
     "warning": [
       "III-IV Banda"
-    ]
-  },
-  {
-    "waktu": "04/04/2022 05:58:43 WIB",
-    "lintang": "4.49 LS",
-    "bujur": "129.87 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 5 km barat laut Banda",
-    "warning": [
-      "III Banda"
     ]
   }
 ]
