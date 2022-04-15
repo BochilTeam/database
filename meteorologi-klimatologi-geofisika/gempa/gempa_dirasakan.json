@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "15/04/2022 23:32:28 WIB",
+    "lintang": "7.73 LS",
+    "bujur": "106.43 BT",
+    "magnitudo": "4",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 83 km Barat Daya Kab. Sukabumi",
+    "warning": [
+      "II - III Cigaru",
+      "II - III Simpenan",
+      "II - III Kertajaya",
+      "II - III Pejampangan",
+      "II - III Ciaracap",
+      "II - III Surade"
+    ]
+  },
+  {
     "waktu": "15/04/2022 18:27:29 WIB",
     "lintang": "4.04 LU",
     "bujur": "95.83 BT",
@@ -229,17 +245,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km tenggara Mamasa",
     "warning": [
       "II-III Mamasa"
-    ]
-  },
-  {
-    "waktu": "04/04/2022 06:12:38 WIB",
-    "lintang": "4.65 LS",
-    "bujur": "129.46 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 50 km barat Banda",
-    "warning": [
-      "III-IV Banda"
     ]
   }
 ]
