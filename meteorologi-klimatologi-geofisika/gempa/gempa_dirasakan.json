@@ -1,5 +1,51 @@
 [
   {
+    "waktu": "17/04/2022 18:32:32 WIB",
+    "lintang": "1.29 LS",
+    "bujur": "137.01 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 106 km timur laut Kep. Yapen",
+    "warning": [
+      "II - III Biak"
+    ]
+  },
+  {
+    "waktu": "17/04/2022 18:17:41 WIB",
+    "lintang": "1.3 LS",
+    "bujur": "137.01 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 105 km timur laut Kep. Yapen",
+    "warning": [
+      "II - III Biak"
+    ]
+  },
+  {
+    "waktu": "17/04/2022 17:04:10 WIB",
+    "lintang": "9.95 LS",
+    "bujur": "117.95 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 121 km barat daya Kodi-Sumba Barat Daya",
+    "warning": [
+      "III Sumbawa",
+      "II-III Bima",
+      "II-III Mataram"
+    ]
+  },
+  {
+    "waktu": "17/04/2022 16:32:47 WIB",
+    "lintang": "1.3 LS",
+    "bujur": "137.02 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 105 km tenggara Biak",
+    "warning": [
+      "II-III Serui"
+    ]
+  },
+  {
     "waktu": "17/04/2022 12:49:29 WIB",
     "lintang": "1.24 LS",
     "bujur": "137.04 BT",
@@ -191,54 +237,6 @@
     "warning": [
       "II - III Kendari",
       "II - III Konawe Selatan"
-    ]
-  },
-  {
-    "waktu": "06/04/2022 10:03:36 WIB",
-    "lintang": "8.21 LS",
-    "bujur": "110.57 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "123 Km",
-    "wilayah": "Pusat gempa berada di laut 24 Km Barat Daya Gunung Kidul",
-    "warning": [
-      "II Gunung Kidul",
-      "II Bantul",
-      "II Sleman",
-      "II Trenggalek",
-      "II - III Pacitan"
-    ]
-  },
-  {
-    "waktu": "05/04/2022 21:16:33 WIB",
-    "lintang": "3.96 LS",
-    "bujur": "122.61 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km Timur Laut Kendari",
-    "warning": [
-      "II Kendari"
-    ]
-  },
-  {
-    "waktu": "05/04/2022 20:28:21 WIB",
-    "lintang": "1.93 LS",
-    "bujur": "125.93 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "19 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km barat laut Sanana",
-    "warning": [
-      "III Sanana"
-    ]
-  },
-  {
-    "waktu": "05/04/2022 15:37:15 WIB",
-    "lintang": "7.36 LS",
-    "bujur": "106.05 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "64 Km",
-    "wilayah": "Pusat gempa berada di laut 52 km Barat Daya Bayah",
-    "warning": [
-      "II-III Simpenan"
     ]
   }
 ]

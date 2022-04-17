@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "17-04-22 18:32:32 WIB",
+    "lintang": "-1.29",
+    "bujur": "137.01",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "106 km TimurLaut KEP-YAPEN-PAPUA"
+  },
+  {
+    "waktu": "17-04-22 18:17:41 WIB",
+    "lintang": "-1.30",
+    "bujur": "137.01",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "105 km TimurLaut KEP-YAPEN-PAPUA"
+  },
+  {
+    "waktu": "17-04-22 17:04:10 WIB",
+    "lintang": "-9.95",
+    "bujur": "117.95",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "121 km BaratDaya KODI-SUMBABARATDAYA-NTT"
+  },
+  {
     "waktu": "17-04-22 12:49:29 WIB",
     "lintang": "-1.24",
     "bujur": "137.04",
@@ -214,29 +238,5 @@
     "magnitudo": "6.9",
     "kedalaman": "25 Km",
     "wilayah": "161 km Tenggara NIASSELATAN-SUMUT"
-  },
-  {
-    "waktu": "12-03-22 12:31:07 WIB",
-    "lintang": "-7.19",
-    "bujur": "105.98",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "41 km BaratDaya BAYAH-BANTEN"
-  },
-  {
-    "waktu": "10-03-22 11:26:52 WIB",
-    "lintang": "3.86",
-    "bujur": "95.89",
-    "magnitudo": "5.2",
-    "kedalaman": "15 Km",
-    "wilayah": "41 km BaratDaya MEULABOH-ACEHBARAT"
-  },
-  {
-    "waktu": "09-03-22 08:49:18 WIB",
-    "lintang": "2.57",
-    "bujur": "128.43",
-    "magnitudo": "5.2",
-    "kedalaman": "14 Km",
-    "wilayah": "60 km TimurLaut DARUBA-MALUT"
   }
 ]
