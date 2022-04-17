@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "17/04/2022 12:49:29 WIB",
+    "lintang": "1.24 LS",
+    "bujur": "137.04 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 111 km timur laut Kep. Yapen",
+    "warning": [
+      "III Serui",
+      "II - III Biak"
+    ]
+  },
+  {
     "waktu": "17/04/2022 10:53:32 WIB",
     "lintang": "5.82 LS",
     "bujur": "103.38 BT",
@@ -227,22 +239,6 @@
     "wilayah": "Pusat gempa berada di laut 52 km Barat Daya Bayah",
     "warning": [
       "II-III Simpenan"
-    ]
-  },
-  {
-    "waktu": "05/04/2022 08:44:06 WIB",
-    "lintang": "2.11 LU",
-    "bujur": "126.97 BT",
-    "magnitudo": "6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 109 km Barat Laut Halmahera Barat",
-    "warning": [
-      "III-IV Galela",
-      "III Tobelo",
-      "II-III Bitung",
-      "II Siau",
-      "II Morotai",
-      "III Halmahera Barat"
     ]
   }
 ]
