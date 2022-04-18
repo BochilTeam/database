@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/04/2022 23:05:31 WIB",
+    "lintang": "1.71 LU",
+    "bujur": "127.8 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 21 km Barat Daya Tobelo",
+    "warning": [
+      "II Halmahera Utara"
+    ]
+  },
+  {
     "waktu": "18/04/2022 19:43:10 WIB",
     "lintang": "3.47 LS",
     "bujur": "128.81 BT",
@@ -217,23 +228,6 @@
     "wilayah": "Pusat gempa berada di laut 61 km baratdaya Bolaang Uki, Bolsel",
     "warning": [
       "II-III Luwuk"
-    ]
-  },
-  {
-    "waktu": "09/04/2022 16:41:07 WIB",
-    "lintang": "8.76 LS",
-    "bujur": "114.73 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "82 Km",
-    "wilayah": "Pusat gempa berada di laut 48 km tenggara Jembrana",
-    "warning": [
-      "III-IV Badung",
-      "II Denpasar",
-      "II Tabanan",
-      "II Gianyar",
-      "II Mataram",
-      "III Jembrana",
-      "II Karangasem"
     ]
   }
 ]
