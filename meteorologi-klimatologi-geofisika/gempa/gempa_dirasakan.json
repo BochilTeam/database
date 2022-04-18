@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/04/2022 12:46:47 WIB",
+    "lintang": "1.31 LS",
+    "bujur": "120.49 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km BaratDaya Tambarana kab. Poso",
+    "warning": [
+      "III Poso"
+    ]
+  },
+  {
     "waktu": "18/04/2022 10:04:58 WIB",
     "lintang": "1.9 LU",
     "bujur": "127.83 BT",
@@ -226,17 +237,6 @@
       "III Wamena",
       "II Mulia",
       "III Tolikara"
-    ]
-  },
-  {
-    "waktu": "08/04/2022 15:28:35 WIB",
-    "lintang": "2.35 LS",
-    "bujur": "121.02 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 30 km BaratLaut LuwuTimur",
-    "warning": [
-      "II-III Kalaena"
     ]
   }
 ]
