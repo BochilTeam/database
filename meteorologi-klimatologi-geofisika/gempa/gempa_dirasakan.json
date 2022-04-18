@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/04/2022 07:47:11 WIB",
+    "lintang": "9.73 LS",
+    "bujur": "118.93 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 16 km barat daya Sumba Barat Daya",
+    "warning": [
+      "III Tambolaka"
+    ]
+  },
+  {
     "waktu": "18/04/2022 03:37:20 WIB",
     "lintang": "0.04 LS",
     "bujur": "123.73 BT",
@@ -225,17 +236,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km tenggara Tarakan",
     "warning": [
       "III Tarakan"
-    ]
-  },
-  {
-    "waktu": "07/04/2022 13:36:41 WIB",
-    "lintang": "4.16 LS",
-    "bujur": "102.06 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "60 Km",
-    "wilayah": "Pusat gempa berada di laut 58 km BaratDaya Seluma",
-    "warning": [
-      "II - III Kota Bengkulu"
     ]
   }
 ]
