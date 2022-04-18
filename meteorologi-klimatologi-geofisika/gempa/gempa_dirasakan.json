@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "18/04/2022 10:04:58 WIB",
+    "lintang": "1.9 LU",
+    "bujur": "127.83 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 26 km BaratLaut TOBELO",
+    "warning": [
+      "IV Galela",
+      "II - III Tobelo"
+    ]
+  },
+  {
     "waktu": "18/04/2022 07:47:11 WIB",
     "lintang": "9.73 LS",
     "bujur": "118.93 BT",
@@ -225,17 +237,6 @@
     "wilayah": "Pusat gempa berada di darat 30 km BaratLaut LuwuTimur",
     "warning": [
       "II-III Kalaena"
-    ]
-  },
-  {
-    "waktu": "07/04/2022 15:40:51 WIB",
-    "lintang": "3.36 LU",
-    "bujur": "117.6 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km tenggara Tarakan",
-    "warning": [
-      "III Tarakan"
     ]
   }
 ]
