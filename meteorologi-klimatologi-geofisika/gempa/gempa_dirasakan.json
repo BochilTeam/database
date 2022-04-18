@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/04/2022 19:43:10 WIB",
+    "lintang": "3.47 LS",
+    "bujur": "128.81 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 21 km selatan Elpaputih",
+    "warning": [
+      "II Saparua"
+    ]
+  },
+  {
     "waktu": "18/04/2022 12:46:47 WIB",
     "lintang": "1.31 LS",
     "bujur": "120.49 BT",
@@ -223,20 +234,6 @@
       "II Mataram",
       "III Jembrana",
       "II Karangasem"
-    ]
-  },
-  {
-    "waktu": "08/04/2022 19:32:13 WIB",
-    "lintang": "3.18 LS",
-    "bujur": "139.01 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "68 Km",
-    "wilayah": "Pusat gempa berada di darat 67 km Timur Laut Tolikara",
-    "warning": [
-      "II Timika",
-      "III Wamena",
-      "II Mulia",
-      "III Tolikara"
     ]
   }
 ]
