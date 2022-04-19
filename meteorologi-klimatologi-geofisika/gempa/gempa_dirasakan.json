@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "19/04/2022 19:29:39 WIB",
+    "lintang": "7.27 LS",
+    "bujur": "107.61 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di Darat 29 km Tenggara Kab. Bandung",
+    "warning": [
+      "II Pangalengan"
+    ]
+  },
+  {
     "waktu": "19/04/2022 11:04:24 WIB",
     "lintang": "8.58 LS",
     "bujur": "118.4 BT",
@@ -216,18 +227,6 @@
     "wilayah": "Pusat gempa berada di darat 15 km timurlaut Nias Barat",
     "warning": [
       "II Lahewa"
-    ]
-  },
-  {
-    "waktu": "10/04/2022 04:22:13 WIB",
-    "lintang": "3.12 LS",
-    "bujur": "139.98 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "53 Km",
-    "wilayah": "Pusat gempa berada di darat 20 km Tenggara Kab.Jayapura",
-    "warning": [
-      "III Jayapura",
-      "II - III Wamena"
     ]
   }
 ]
