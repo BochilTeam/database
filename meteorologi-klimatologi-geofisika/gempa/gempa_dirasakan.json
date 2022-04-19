@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "19/04/2022 11:04:24 WIB",
+    "lintang": "8.58 LS",
+    "bujur": "118.4 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "111 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km barat daya Dompu",
+    "warning": [
+      "III Bima"
+    ]
+  },
+  {
     "waktu": "18/04/2022 23:05:31 WIB",
     "lintang": "1.71 LU",
     "bujur": "127.8 BT",
@@ -217,17 +228,6 @@
     "warning": [
       "III Jayapura",
       "II - III Wamena"
-    ]
-  },
-  {
-    "waktu": "10/04/2022 03:00:05 WIB",
-    "lintang": "0.07 LS",
-    "bujur": "123.66 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "127 Km",
-    "wilayah": "Pusat gempa berada di laut 61 km baratdaya Bolaang Uki, Bolsel",
-    "warning": [
-      "II-III Luwuk"
     ]
   }
 ]
