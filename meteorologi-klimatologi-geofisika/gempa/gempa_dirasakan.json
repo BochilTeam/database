@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/04/2022 04:20:04 WIB",
+    "lintang": "3.63 LU",
+    "bujur": "126.77 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 42 km Tenggara Melonguane",
+    "warning": [
+      "III-IV Melonguane"
+    ]
+  },
+  {
     "waktu": "19/04/2022 22:11:32 WIB",
     "lintang": "4.06 LS",
     "bujur": "122.46 BT",
@@ -217,17 +228,6 @@
     "wilayah": "Pusat gempa berada di darat 3 km timur Kairatu,Seram Bagian Barat",
     "warning": [
       "II Kairatu"
-    ]
-  },
-  {
-    "waktu": "11/04/2022 10:06:57 WIB",
-    "lintang": "5.26 LS",
-    "bujur": "103.86 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "55 Km",
-    "wilayah": "Pusat gempa berada di laut 11 km Barat daya Pesisir Barat",
-    "warning": [
-      "II Pesisir Barat"
     ]
   }
 ]
