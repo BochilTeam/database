@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "19/04/2022 22:11:32 WIB",
+    "lintang": "4.06 LS",
+    "bujur": "122.46 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km barat daya Ranomeeto, Kab. Konawe",
+    "warning": [
+      "II-III Kendari",
+      "II-III Konawe Selatan"
+    ]
+  },
+  {
     "waktu": "19/04/2022 19:29:39 WIB",
     "lintang": "7.27 LS",
     "bujur": "107.61 BT",
@@ -216,17 +228,6 @@
     "wilayah": "Pusat gempa berada di laut 11 km Barat daya Pesisir Barat",
     "warning": [
       "II Pesisir Barat"
-    ]
-  },
-  {
-    "waktu": "10/04/2022 21:33:58 WIB",
-    "lintang": "1.11 LU",
-    "bujur": "97.49 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km timurlaut Nias Barat",
-    "warning": [
-      "II Lahewa"
     ]
   }
 ]
