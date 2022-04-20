@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/04/2022 17:21:48 WIB",
+    "lintang": "1.8 LS",
+    "bujur": "122.48 BT",
+    "magnitudo": "5",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 82 km BaratDaya BanggaiKep",
+    "warning": [
+      "III Luwuk"
+    ]
+  },
+  {
     "waktu": "20/04/2022 04:20:04 WIB",
     "lintang": "3.63 LU",
     "bujur": "126.77 BT",
@@ -217,17 +228,6 @@
     "warning": [
       "III Takengon",
       "II Sigli Pidie"
-    ]
-  },
-  {
-    "waktu": "14/04/2022 00:45:31 WIB",
-    "lintang": "3.35 LS",
-    "bujur": "128.38 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km timur Kairatu,Seram Bagian Barat",
-    "warning": [
-      "II Kairatu"
     ]
   }
 ]

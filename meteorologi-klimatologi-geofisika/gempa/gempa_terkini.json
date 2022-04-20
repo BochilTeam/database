@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20-04-22 17:21:48 WIB",
+    "lintang": "-1.80",
+    "bujur": "122.48",
+    "magnitudo": "5.0",
+    "kedalaman": "11 Km",
+    "wilayah": "82 km BaratDaya BANGGAIKEP-SULTENG"
+  },
+  {
     "waktu": "20-04-22 04:20:04 WIB",
     "lintang": "3.63",
     "bujur": "126.77",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 Km",
     "wilayah": "113 km Tenggara KOTA-SUKABUMI-JABAR"
-  },
-  {
-    "waktu": "15-03-22 19:12:30 WIB",
-    "lintang": "-0.55",
-    "bujur": "98.47",
-    "magnitudo": "5.3",
-    "kedalaman": "25 Km",
-    "wilayah": "144 km Tenggara NIASSELATAN-SUMUT"
   }
 ]
