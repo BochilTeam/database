@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22-04-22 03:23:34 WIB",
+    "lintang": "0.41",
+    "bujur": "96.60",
+    "magnitudo": "5.0",
+    "kedalaman": "16 Km",
+    "wilayah": "113 km BaratDaya NIASBARAT-SUMUT"
+  },
+  {
     "waktu": "21-04-22 05:02:47 WIB",
     "lintang": "3.94",
     "bujur": "126.68",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "2 km BaratDaya TELUKBINTUNI-PAPUABRT"
-  },
-  {
-    "waktu": "18-03-22 03:53:30 WIB",
-    "lintang": "-6.75",
-    "bujur": "106.21",
-    "magnitudo": "5.1",
-    "kedalaman": "137 Km",
-    "wilayah": "20 km BaratLaut BAYAH-BANTEN"
   }
 ]
