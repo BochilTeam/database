@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "21/04/2022 19:28:04 WIB",
+    "lintang": "2.03 LU",
+    "bujur": "97.88 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di laut 35 km Tenggara Kabupaten Aceh Singkil",
+    "warning": [
+      "II - III Singkil",
+      "II - III Pinangsori",
+      "II Gunungsitoli"
+    ]
+  },
+  {
     "waktu": "21/04/2022 17:14:04 WIB",
     "lintang": "1.33 LS",
     "bujur": "120.48 BT",
@@ -212,17 +225,6 @@
     "warning": [
       "III Serui",
       "II - III Biak"
-    ]
-  },
-  {
-    "waktu": "17/04/2022 10:53:32 WIB",
-    "lintang": "5.82 LS",
-    "bujur": "103.38 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 93 Km Barat Daya Pesisir Barat",
-    "warning": [
-      "I-II Liwa"
     ]
   }
 ]
