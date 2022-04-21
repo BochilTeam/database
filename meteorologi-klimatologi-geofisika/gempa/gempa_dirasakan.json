@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/04/2022 17:14:04 WIB",
+    "lintang": "1.33 LS",
+    "bujur": "120.48 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 19 km Barat Daya Tambarana, Kab.Poso",
+    "warning": [
+      "III Poso"
+    ]
+  },
+  {
     "waktu": "21/04/2022 05:02:47 WIB",
     "lintang": "3.94 LU",
     "bujur": "126.68 BT",
@@ -212,17 +223,6 @@
     "wilayah": "Pusat gempa berada di laut 93 Km Barat Daya Pesisir Barat",
     "warning": [
       "I-II Liwa"
-    ]
-  },
-  {
-    "waktu": "16/04/2022 08:57:13 WIB",
-    "lintang": "2.69 LU",
-    "bujur": "125.95 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "49 Km",
-    "wilayah": "Pusat gempa berada di laut 65 km tenggara Ondong Kepulauan Sitaro",
-    "warning": [
-      "II Siau"
     ]
   }
 ]
