@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-04-22 05:02:47 WIB",
+    "lintang": "3.94",
+    "bujur": "126.68",
+    "magnitudo": "5.2",
+    "kedalaman": "24 Km",
+    "wilayah": "6 km Tenggara MELONGUANE-SULUT"
+  },
+  {
     "waktu": "20-04-22 17:21:48 WIB",
     "lintang": "-1.80",
     "bujur": "122.48",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "137 Km",
     "wilayah": "20 km BaratLaut BAYAH-BANTEN"
-  },
-  {
-    "waktu": "16-03-22 10:00:01 WIB",
-    "lintang": "-7.94",
-    "bujur": "106.94",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "113 km Tenggara KOTA-SUKABUMI-JABAR"
   }
 ]

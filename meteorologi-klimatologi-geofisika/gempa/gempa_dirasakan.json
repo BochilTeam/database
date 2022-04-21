@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "21/04/2022 05:02:47 WIB",
+    "lintang": "3.94 LU",
+    "bujur": "126.68 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km Tenggara Melonguane",
+    "warning": [
+      "III Melonguane",
+      "III Tahuna"
+    ]
+  },
+  {
     "waktu": "20/04/2022 22:55:59 WIB",
     "lintang": "4.63 LS",
     "bujur": "129.61 BT",
@@ -211,22 +223,6 @@
     "wilayah": "Pusat gempa berada di laut 65 km tenggara Ondong Kepulauan Sitaro",
     "warning": [
       "II Siau"
-    ]
-  },
-  {
-    "waktu": "15/04/2022 23:32:28 WIB",
-    "lintang": "7.73 LS",
-    "bujur": "106.43 BT",
-    "magnitudo": "4",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 83 km Barat Daya Kab. Sukabumi",
-    "warning": [
-      "II - III Cigaru",
-      "II - III Simpenan",
-      "II - III Kertajaya",
-      "II - III Pejampangan",
-      "II - III Ciaracap",
-      "II - III Surade"
     ]
   }
 ]
