@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/04/2022 02:49:26 WIB",
+    "lintang": "2.79 LS",
+    "bujur": "122.26 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada dilaut 41Km Tenggara Morowali",
+    "warning": [
+      "III Bahodopi"
+    ]
+  },
+  {
     "waktu": "21/04/2022 19:28:04 WIB",
     "lintang": "2.03 LU",
     "bujur": "97.88 BT",
@@ -9,7 +20,8 @@
     "warning": [
       "II - III Singkil",
       "II - III Pinangsori",
-      "II Gunungsitoli"
+      "II Gunungsitoli",
+      "III Bahodopi"
     ]
   },
   {
@@ -213,18 +225,6 @@
     "wilayah": "Pusat gempa berada di laut 105 km tenggara Biak",
     "warning": [
       "II-III Serui"
-    ]
-  },
-  {
-    "waktu": "17/04/2022 12:49:29 WIB",
-    "lintang": "1.24 LS",
-    "bujur": "137.04 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 111 km timur laut Kep. Yapen",
-    "warning": [
-      "III Serui",
-      "II - III Biak"
     ]
   }
 ]
