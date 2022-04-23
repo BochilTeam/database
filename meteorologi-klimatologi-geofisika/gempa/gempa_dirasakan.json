@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/04/2022 01:23:53 WIB",
+    "lintang": "5.35 LS",
+    "bujur": "104.6 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 17km Baratlaut Tanggamus",
+    "warning": [
+      "II Tanggamus"
+    ]
+  },
+  {
     "waktu": "23/04/2022 20:11:52 WIB",
     "lintang": "4.8 LS",
     "bujur": "140.76 BT",
@@ -212,19 +223,6 @@
     "wilayah": "Pusat gempa berada di laut 105 km timur laut Kep. Yapen",
     "warning": [
       "II - III Biak"
-    ]
-  },
-  {
-    "waktu": "17/04/2022 17:04:10 WIB",
-    "lintang": "9.95 LS",
-    "bujur": "117.95 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 121 km barat daya Kodi-Sumba Barat Daya",
-    "warning": [
-      "III Sumbawa",
-      "II-III Bima",
-      "II-III Mataram"
     ]
   }
 ]
