@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/04/2022 18:03:56 WIB",
+    "lintang": "8.57 LS",
+    "bujur": "115.29 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "19 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km Barat Daya Gianyar",
+    "warning": [
+      "II Gianyar"
+    ]
+  },
+  {
     "waktu": "24/04/2022 01:23:53 WIB",
     "lintang": "5.35 LS",
     "bujur": "104.6 BT",
@@ -210,17 +221,6 @@
     "magnitudo": "5",
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di laut 106 km timur laut Kep. Yapen",
-    "warning": [
-      "II - III Biak"
-    ]
-  },
-  {
-    "waktu": "17/04/2022 18:17:41 WIB",
-    "lintang": "1.3 LS",
-    "bujur": "137.01 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 105 km timur laut Kep. Yapen",
     "warning": [
       "II - III Biak"
     ]
