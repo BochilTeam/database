@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "25/04/2022 06:50:33 WIB",
+    "lintang": "3.67 LS",
+    "bujur": "140.55 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "87 Km",
+    "wilayah": "Pusat gempa berada di darat 43 km barat daya Keerom",
+    "warning": [
+      "III - IV Keerom",
+      "III - IV Jayapura",
+      "II Wamena"
+    ]
+  },
+  {
     "waktu": "24/04/2022 18:03:56 WIB",
     "lintang": "8.57 LS",
     "bujur": "115.29 BT",
@@ -212,17 +225,6 @@
     "wilayah": "Pusat gempa berada di 54 km barat daya Bolaang Mongondow Selatan",
     "warning": [
       "II - III Luwuk"
-    ]
-  },
-  {
-    "waktu": "17/04/2022 18:32:32 WIB",
-    "lintang": "1.29 LS",
-    "bujur": "137.01 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 106 km timur laut Kep. Yapen",
-    "warning": [
-      "II - III Biak"
     ]
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25-04-22 06:50:33 WIB",
+    "lintang": "-3.67",
+    "bujur": "140.55",
+    "magnitudo": "5.7",
+    "kedalaman": "87 Km",
+    "wilayah": "43 km BaratDaya KEEROM-PAPUA"
+  },
+  {
     "waktu": "22-04-22 03:23:34 WIB",
     "lintang": "0.41",
     "bujur": "96.60",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "12 Km",
     "wilayah": "46 km BaratLaut PEGUNUNGANARFAK-PAPUABRT"
-  },
-  {
-    "waktu": "19-03-22 11:26:26 WIB",
-    "lintang": "-1.93",
-    "bujur": "133.32",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "2 km BaratDaya TELUKBINTUNI-PAPUABRT"
   }
 ]
