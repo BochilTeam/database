@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "26/04/2022 00:01:06 WIB",
+    "lintang": "7.48 LS",
+    "bujur": "106.68 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 56 km tenggarakab. Sukabumi",
+    "warning": [
+      "II - III Sukabumi",
+      "II - III Cianjur selatan",
+      "II Garut",
+      "II Pangandaran"
+    ]
+  },
+  {
     "waktu": "25/04/2022 06:50:33 WIB",
     "lintang": "3.67 LS",
     "bujur": "140.55 BT",
@@ -214,17 +228,6 @@
     "wilayah": "Pusat gempa berada di laut 16 km barat daya Sumba Barat Daya",
     "warning": [
       "III Tambolaka"
-    ]
-  },
-  {
-    "waktu": "18/04/2022 03:37:20 WIB",
-    "lintang": "0.04 LS",
-    "bujur": "123.73 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "128 Km",
-    "wilayah": "Pusat gempa berada di 54 km barat daya Bolaang Mongondow Selatan",
-    "warning": [
-      "II - III Luwuk"
     ]
   }
 ]
