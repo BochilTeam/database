@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/04/2022 22:04:41 WIB",
+    "lintang": "7.26 LS",
+    "bujur": "107.57 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 26 km tenggara Kab. Bandung",
+    "warning": [
+      "II Pangalengan"
+    ]
+  },
+  {
     "waktu": "26/04/2022 00:01:06 WIB",
     "lintang": "7.48 LS",
     "bujur": "106.68 BT",
@@ -217,17 +228,6 @@
     "warning": [
       "IV Galela",
       "II - III Tobelo"
-    ]
-  },
-  {
-    "waktu": "18/04/2022 07:47:11 WIB",
-    "lintang": "9.73 LS",
-    "bujur": "118.93 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 16 km barat daya Sumba Barat Daya",
-    "warning": [
-      "III Tambolaka"
     ]
   }
 ]
