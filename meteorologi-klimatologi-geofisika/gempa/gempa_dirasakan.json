@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "30/04/2022 01:25:25 WIB",
+    "lintang": "9.75 LS",
+    "bujur": "116.27 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 115 km selatan Lombok Tengah",
+    "warning": [
+      "III Lombok Timur",
+      "III Lombok Barat",
+      "III Mataram",
+      "II Lombok Utara",
+      "II Lombok Tengah",
+      "II Sumbawa Barat"
+    ]
+  },
+  {
     "waktu": "30/04/2022 00:05:36 WIB",
     "lintang": "4.17 LS",
     "bujur": "123.35 BT",
@@ -217,17 +233,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km barat daya Dompu",
     "warning": [
       "III Bima"
-    ]
-  },
-  {
-    "waktu": "18/04/2022 23:05:31 WIB",
-    "lintang": "1.71 LU",
-    "bujur": "127.8 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km Barat Daya Tobelo",
-    "warning": [
-      "II Halmahera Utara"
     ]
   }
 ]

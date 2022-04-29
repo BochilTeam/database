@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30-04-22 01:25:25 WIB",
+    "lintang": "-9.75",
+    "bujur": "116.27",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "115 km Selatan LOMBOKTENGAH-NTB"
+  },
+  {
     "waktu": "25-04-22 06:50:33 WIB",
     "lintang": "-3.67",
     "bujur": "140.55",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "102 Km",
     "wilayah": "68 km BaratLaut HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "23-03-22 17:10:39 WIB",
-    "lintang": "-0.65",
-    "bujur": "133.55",
-    "magnitudo": "5.1",
-    "kedalaman": "12 Km",
-    "wilayah": "46 km BaratLaut PEGUNUNGANARFAK-PAPUABRT"
   }
 ]
