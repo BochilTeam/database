@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/04/2022 18:35:03 WIB",
+    "lintang": "0.27 LS",
+    "bujur": "122.79 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "28 Km",
+    "wilayah": "Pusat gempa berada di laut 97 km barat daya Bonebolango",
+    "warning": [
+      "II - III Luwuk"
+    ]
+  },
+  {
     "waktu": "28/04/2022 22:04:41 WIB",
     "lintang": "7.26 LS",
     "bujur": "107.57 BT",
@@ -216,18 +227,6 @@
     "wilayah": "Pusat gempa berada di darat 17 km BaratDaya Tambarana kab. Poso",
     "warning": [
       "III Poso"
-    ]
-  },
-  {
-    "waktu": "18/04/2022 10:04:58 WIB",
-    "lintang": "1.9 LU",
-    "bujur": "127.83 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 26 km BaratLaut TOBELO",
-    "warning": [
-      "IV Galela",
-      "II - III Tobelo"
     ]
   }
 ]
