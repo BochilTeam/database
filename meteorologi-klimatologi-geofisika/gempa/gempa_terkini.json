@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30-04-22 20:04:59 WIB",
+    "lintang": "-6.67",
+    "bujur": "120.70",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "47 km Tenggara SELAYAR-SULSEL"
+  },
+  {
     "waktu": "30-04-22 01:25:25 WIB",
     "lintang": "-9.75",
     "bujur": "116.27",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "67 km Tenggara MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "23-03-22 23:29:35 WIB",
-    "lintang": "1.86",
-    "bujur": "127.23",
-    "magnitudo": "5.1",
-    "kedalaman": "102 Km",
-    "wilayah": "68 km BaratLaut HALMAHERABARAT-MALUT"
   }
 ]

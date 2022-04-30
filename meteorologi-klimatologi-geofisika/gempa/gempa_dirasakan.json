@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "30/04/2022 20:04:59 WIB",
+    "lintang": "6.67 LS",
+    "bujur": "120.7 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 47 km Tenggara Selayar",
+    "warning": [
+      "III-IV Selayar"
+    ]
+  },
+  {
+    "waktu": "30/04/2022 19:33:58 WIB",
+    "lintang": "6.7 LS",
+    "bujur": "120.61 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 47 km tenggara Selayar",
+    "warning": [
+      "III Selayar"
+    ]
+  },
+  {
     "waktu": "30/04/2022 01:25:25 WIB",
     "lintang": "9.75 LS",
     "bujur": "116.27 BT",
@@ -211,28 +233,6 @@
     "warning": [
       "II-III Kendari",
       "II-III Konawe Selatan"
-    ]
-  },
-  {
-    "waktu": "19/04/2022 19:29:39 WIB",
-    "lintang": "7.27 LS",
-    "bujur": "107.61 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di Darat 29 km Tenggara Kab. Bandung",
-    "warning": [
-      "II Pangalengan"
-    ]
-  },
-  {
-    "waktu": "19/04/2022 11:04:24 WIB",
-    "lintang": "8.58 LS",
-    "bujur": "118.4 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "111 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km barat daya Dompu",
-    "warning": [
-      "III Bima"
     ]
   }
 ]
