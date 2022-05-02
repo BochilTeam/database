@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/05/2022 08:41:40 WIB",
+    "lintang": "0.57 LS",
+    "bujur": "127.6 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km timur laut Labuha",
+    "warning": [
+      "III Labuha"
+    ]
+  },
+  {
     "waktu": "30/04/2022 20:04:59 WIB",
     "lintang": "6.67 LS",
     "bujur": "120.7 BT",
@@ -221,18 +232,6 @@
     "wilayah": "Pusat gempa berada di Laut 42 km Tenggara Melonguane",
     "warning": [
       "III-IV Melonguane"
-    ]
-  },
-  {
-    "waktu": "19/04/2022 22:11:32 WIB",
-    "lintang": "4.06 LS",
-    "bujur": "122.46 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km barat daya Ranomeeto, Kab. Konawe",
-    "warning": [
-      "II-III Kendari",
-      "II-III Konawe Selatan"
     ]
   }
 ]
