@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/05/2022 04:51:46 WIB",
+    "lintang": "2.44 LU",
+    "bujur": "128.48 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "23 Km",
+    "wilayah": "Pusat gempa berada di darat 48 km Timur laut Daruba",
+    "warning": [
+      "II - III Morotai Utara"
+    ]
+  },
+  {
     "waktu": "02/05/2022 08:41:40 WIB",
     "lintang": "0.57 LS",
     "bujur": "127.6 BT",
@@ -221,17 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 82 km BaratDaya BanggaiKep",
     "warning": [
       "III Luwuk"
-    ]
-  },
-  {
-    "waktu": "20/04/2022 04:20:04 WIB",
-    "lintang": "3.63 LU",
-    "bujur": "126.77 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 42 km Tenggara Melonguane",
-    "warning": [
-      "III-IV Melonguane"
     ]
   }
 ]
