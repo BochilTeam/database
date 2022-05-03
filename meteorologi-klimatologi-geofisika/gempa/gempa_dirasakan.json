@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/05/2022 23:44:08 WIB",
+    "lintang": "5.52 LS",
+    "bujur": "105.23 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km Tenggara Pesawaran",
+    "warning": [
+      "II - III Lempasing"
+    ]
+  },
+  {
     "waktu": "03/05/2022 21:44:58 WIB",
     "lintang": "5.73 LS",
     "bujur": "105.42 BT",
@@ -220,18 +231,6 @@
     "wilayah": "Pusat gempa berada di darat 19 km Barat Daya Tambarana, Kab.Poso",
     "warning": [
       "III Poso"
-    ]
-  },
-  {
-    "waktu": "21/04/2022 05:02:47 WIB",
-    "lintang": "3.94 LU",
-    "bujur": "126.68 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km Tenggara Melonguane",
-    "warning": [
-      "III Melonguane",
-      "III Tahuna"
     ]
   }
 ]
