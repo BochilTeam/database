@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/05/2022 21:44:58 WIB",
+    "lintang": "5.73 LS",
+    "bujur": "105.42 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 18 km Barat Daya Lampung Selatan",
+    "warning": [
+      "II Lempasing"
+    ]
+  },
+  {
     "waktu": "03/05/2022 20:20:46 WIB",
     "lintang": "5.4 LS",
     "bujur": "105.22 BT",
@@ -221,17 +232,6 @@
     "warning": [
       "III Melonguane",
       "III Tahuna"
-    ]
-  },
-  {
-    "waktu": "20/04/2022 22:55:59 WIB",
-    "lintang": "4.63 LS",
-    "bujur": "129.61 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 34 km Barat Banda",
-    "warning": [
-      "II Banda"
     ]
   }
 ]
