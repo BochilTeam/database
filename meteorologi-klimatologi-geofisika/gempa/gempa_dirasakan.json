@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/05/2022 20:20:46 WIB",
+    "lintang": "5.4 LS",
+    "bujur": "105.22 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km Tenggara Pesawaran",
+    "warning": [
+      "II Teluk Betung"
+    ]
+  },
+  {
     "waktu": "03/05/2022 04:51:46 WIB",
     "lintang": "2.44 LU",
     "bujur": "128.48 BT",
@@ -221,17 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 34 km Barat Banda",
     "warning": [
       "II Banda"
-    ]
-  },
-  {
-    "waktu": "20/04/2022 17:21:48 WIB",
-    "lintang": "1.8 LS",
-    "bujur": "122.48 BT",
-    "magnitudo": "5",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 82 km BaratDaya BanggaiKep",
-    "warning": [
-      "III Luwuk"
     ]
   }
 ]
