@@ -1,6 +1,17 @@
 [
   {
-    "waktu": "04/05/2022 23:44:08 WIB",
+    "waktu": "04/05/2022 08:45:31 WIB",
+    "lintang": "4.08 LS",
+    "bujur": "121.89 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 0.8 Km Timur Laut Loea",
+    "warning": [
+      "II-III Kolaka Timur"
+    ]
+  },
+  {
+    "waktu": "03/05/2022 23:44:08 WIB",
     "lintang": "5.52 LS",
     "bujur": "105.23 BT",
     "magnitudo": "2.2",
@@ -220,17 +231,6 @@
       "II - III Pinangsori",
       "II Gunungsitoli",
       "III Bahodopi"
-    ]
-  },
-  {
-    "waktu": "21/04/2022 17:14:04 WIB",
-    "lintang": "1.33 LS",
-    "bujur": "120.48 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 19 km Barat Daya Tambarana, Kab.Poso",
-    "warning": [
-      "III Poso"
     ]
   }
 ]
