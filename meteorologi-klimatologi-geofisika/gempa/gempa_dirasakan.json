@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "05/05/2022 14:14:20 WIB",
+    "lintang": "7.06 LS",
+    "bujur": "105.39 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di laut 48 Km Barat Daya Sumur",
+    "warning": [
+      "II-III Cibaliung",
+      "II Rangkasbitung",
+      "II Panimbang"
+    ]
+  },
+  {
     "waktu": "04/05/2022 08:45:31 WIB",
     "lintang": "4.08 LS",
     "bujur": "121.89 BT",
@@ -216,20 +229,6 @@
     "kedalaman": "2 Km",
     "wilayah": "Pusat gempa berada dilaut 41Km Tenggara Morowali",
     "warning": [
-      "III Bahodopi"
-    ]
-  },
-  {
-    "waktu": "21/04/2022 19:28:04 WIB",
-    "lintang": "2.03 LU",
-    "bujur": "97.88 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "21 Km",
-    "wilayah": "Pusat gempa berada di laut 35 km Tenggara Kabupaten Aceh Singkil",
-    "warning": [
-      "II - III Singkil",
-      "II - III Pinangsori",
-      "II Gunungsitoli",
       "III Bahodopi"
     ]
   }
