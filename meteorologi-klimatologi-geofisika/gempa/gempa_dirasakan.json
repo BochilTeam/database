@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/05/2022 20:56:39 WIB",
+    "lintang": "8.66 LS",
+    "bujur": "115.13 BT",
+    "magnitudo": "3",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 10 km barat daya Badung",
+    "warning": [
+      "II Denpasar"
+    ]
+  },
+  {
     "waktu": "05/05/2022 18:26:03 WIB",
     "lintang": "2.63 LS",
     "bujur": "119.16 BT",
@@ -219,17 +230,6 @@
     "wilayah": "Pusat gempa berada di darat 17km Baratlaut Tanggamus",
     "warning": [
       "II Tanggamus"
-    ]
-  },
-  {
-    "waktu": "23/04/2022 20:11:52 WIB",
-    "lintang": "4.8 LS",
-    "bujur": "140.76 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 38 km Tenggara Pegunungan Bintang",
-    "warning": [
-      "III Oksibil"
     ]
   }
 ]
