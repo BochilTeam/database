@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/05/2022 18:26:03 WIB",
+    "lintang": "2.63 LS",
+    "bujur": "119.16 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 36 km Barat Laut Mamasa",
+    "warning": [
+      "II Kalukku"
+    ]
+  },
+  {
     "waktu": "05/05/2022 14:14:20 WIB",
     "lintang": "7.06 LS",
     "bujur": "105.39 BT",
@@ -219,17 +230,6 @@
     "wilayah": "Pusat gempa berada di darat 38 km Tenggara Pegunungan Bintang",
     "warning": [
       "III Oksibil"
-    ]
-  },
-  {
-    "waktu": "23/04/2022 02:49:26 WIB",
-    "lintang": "2.79 LS",
-    "bujur": "122.26 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada dilaut 41Km Tenggara Morowali",
-    "warning": [
-      "III Bahodopi"
     ]
   }
 ]
