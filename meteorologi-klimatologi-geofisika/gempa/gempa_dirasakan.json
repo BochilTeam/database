@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "07/05/2022 00:21:45 WIB",
+    "lintang": "8.16 LS",
+    "bujur": "113.1 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km barat daya Lumajang",
+    "warning": [
+      "III-IV Pasirian",
+      "III-IV Pronojiwo",
+      "III-IV Sendupuro",
+      "III-IV Candipuro",
+      "III-IV Pasrujambe"
+    ]
+  },
+  {
     "waktu": "06/05/2022 14:23:16 WIB",
     "lintang": "7.87 LS",
     "bujur": "110.13 BT",
@@ -220,17 +235,6 @@
       "III - IV Keerom",
       "III - IV Jayapura",
       "II Wamena"
-    ]
-  },
-  {
-    "waktu": "24/04/2022 18:03:56 WIB",
-    "lintang": "8.57 LS",
-    "bujur": "115.29 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "19 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km Barat Daya Gianyar",
-    "warning": [
-      "II Gianyar"
     ]
   }
 ]
