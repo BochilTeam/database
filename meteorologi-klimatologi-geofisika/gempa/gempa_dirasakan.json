@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/05/2022 00:09:43 WIB",
+    "lintang": "5.52 LS",
+    "bujur": "105.21 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km barat daya Bandar Lampung",
+    "warning": [
+      "II Padang Cermin"
+    ]
+  },
+  {
     "waktu": "08/05/2022 19:52:04 WIB",
     "lintang": "5.53 LS",
     "bujur": "105.24 BT",
@@ -219,17 +230,6 @@
     "wilayah": "Pusat gempa berada di laut 97 km barat daya Bonebolango",
     "warning": [
       "II - III Luwuk"
-    ]
-  },
-  {
-    "waktu": "28/04/2022 22:04:41 WIB",
-    "lintang": "7.26 LS",
-    "bujur": "107.57 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 26 km tenggara Kab. Bandung",
-    "warning": [
-      "II Pangalengan"
     ]
   }
 ]
