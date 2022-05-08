@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09-05-22 04:51:39 WIB",
+    "lintang": "1.83",
+    "bujur": "127.15",
+    "magnitudo": "5.8",
+    "kedalaman": "10 Km",
+    "wilayah": "72 km BaratLaut HALMAHERABARAT-MALUT"
+  },
+  {
     "waktu": "08-05-22 09:29:04 WIB",
     "lintang": "3.63",
     "bujur": "127.01",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "89 km BaratDaya TANGGAMUS-LAMPUNG"
-  },
-  {
-    "waktu": "26-03-22 20:16:40 WIB",
-    "lintang": "-3.83",
-    "bujur": "122.69",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "27 km TimurLaut KENDARI-SULTRA"
   }
 ]

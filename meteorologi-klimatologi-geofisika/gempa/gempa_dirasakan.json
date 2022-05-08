@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "09/05/2022 04:51:39 WIB",
+    "lintang": "1.83 LU",
+    "bujur": "127.15 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 72 km Barat Laut Halmahera Barat",
+    "warning": [
+      "III Ternate",
+      "III Morotai",
+      "III-IV Galela",
+      "II - III Kao"
+    ]
+  },
+  {
     "waktu": "09/05/2022 00:09:43 WIB",
     "lintang": "5.52 LS",
     "bujur": "105.21 BT",
@@ -219,17 +233,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km Baratdaya Tambarana, Kab. Poso",
     "warning": [
       "II-III Poso"
-    ]
-  },
-  {
-    "waktu": "29/04/2022 18:35:03 WIB",
-    "lintang": "0.27 LS",
-    "bujur": "122.79 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "28 Km",
-    "wilayah": "Pusat gempa berada di laut 97 km barat daya Bonebolango",
-    "warning": [
-      "II - III Luwuk"
     ]
   }
 ]
