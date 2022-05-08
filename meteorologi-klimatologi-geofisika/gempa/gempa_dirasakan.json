@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/05/2022 19:52:04 WIB",
+    "lintang": "5.53 LS",
+    "bujur": "105.24 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km barat daya Bandar Lampung",
+    "warning": [
+      "II Padang Cermin"
+    ]
+  },
+  {
     "waktu": "08/05/2022 09:29:04 WIB",
     "lintang": "3.63 LU",
     "bujur": "127.01 BT",
@@ -219,20 +230,6 @@
     "wilayah": "Pusat gempa berada di darat 26 km tenggara Kab. Bandung",
     "warning": [
       "II Pangalengan"
-    ]
-  },
-  {
-    "waktu": "26/04/2022 00:01:06 WIB",
-    "lintang": "7.48 LS",
-    "bujur": "106.68 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "25 Km",
-    "wilayah": "Pusat gempa berada di laut 56 km tenggarakab. Sukabumi",
-    "warning": [
-      "II - III Sukabumi",
-      "II - III Cianjur selatan",
-      "II Garut",
-      "II Pangandaran"
     ]
   }
 ]
