@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08-05-22 09:29:04 WIB",
+    "lintang": "3.63",
+    "bujur": "127.01",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "55 km Tenggara MELONGUANE-SULUT"
+  },
+  {
     "waktu": "30-04-22 20:04:59 WIB",
     "lintang": "-6.67",
     "bujur": "120.70",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "27 km TimurLaut KENDARI-SULTRA"
-  },
-  {
-    "waktu": "26-03-22 11:01:38 WIB",
-    "lintang": "3.46",
-    "bujur": "126.96",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "67 km Tenggara MELONGUANE-SULUT"
   }
 ]

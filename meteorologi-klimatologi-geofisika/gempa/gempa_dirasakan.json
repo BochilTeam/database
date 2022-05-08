@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/05/2022 09:29:04 WIB",
+    "lintang": "3.63 LU",
+    "bujur": "127.01 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 55 km Tenggara Melonguane",
+    "warning": [
+      "III Melonguane"
+    ]
+  },
+  {
     "waktu": "07/05/2022 00:21:45 WIB",
     "lintang": "8.16 LS",
     "bujur": "113.1 BT",
@@ -222,19 +233,6 @@
       "II - III Cianjur selatan",
       "II Garut",
       "II Pangandaran"
-    ]
-  },
-  {
-    "waktu": "25/04/2022 06:50:33 WIB",
-    "lintang": "3.67 LS",
-    "bujur": "140.55 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "87 Km",
-    "wilayah": "Pusat gempa berada di darat 43 km barat daya Keerom",
-    "warning": [
-      "III - IV Keerom",
-      "III - IV Jayapura",
-      "II Wamena"
     ]
   }
 ]
