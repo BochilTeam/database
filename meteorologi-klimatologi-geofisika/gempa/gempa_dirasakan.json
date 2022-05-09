@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "10/05/2022 03:54:11 WIB",
+    "lintang": "0.64 LU",
+    "bujur": "122.15 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "58 Km",
+    "wilayah": "Pusat gempa berada di darat 25 km barat laut Boalemo",
+    "warning": [
+      "II Gorontalo",
+      "I - II Kab. Gorontalo",
+      "IV Kab. Gorontalo Utara",
+      "III Kab. Bone Bolango"
+    ]
+  },
+  {
+    "waktu": "10/05/2022 03:22:11 WIB",
+    "lintang": "4.55 LS",
+    "bujur": "138.57 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 40 km Tenggara Nduga",
+    "warning": [
+      "II Wamena"
+    ]
+  },
+  {
     "waktu": "09/05/2022 22:34:38 WIB",
     "lintang": "5.53 LS",
     "bujur": "105.25 BT",
@@ -211,28 +236,6 @@
     "wilayah": "Pusat gempa berada di darat 48 km Timur laut Daruba",
     "warning": [
       "II - III Morotai Utara"
-    ]
-  },
-  {
-    "waktu": "02/05/2022 08:41:40 WIB",
-    "lintang": "0.57 LS",
-    "bujur": "127.6 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km timur laut Labuha",
-    "warning": [
-      "III Labuha"
-    ]
-  },
-  {
-    "waktu": "30/04/2022 20:04:59 WIB",
-    "lintang": "6.67 LS",
-    "bujur": "120.7 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 47 km Tenggara Selayar",
-    "warning": [
-      "III-IV Selayar"
     ]
   }
 ]
