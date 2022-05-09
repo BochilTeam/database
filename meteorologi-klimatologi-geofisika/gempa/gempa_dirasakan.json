@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "09/05/2022 22:34:38 WIB",
+    "lintang": "5.53 LS",
+    "bujur": "105.25 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 9 km barat daya Bandar Lampung",
+    "warning": [
+      "III Teluk Betung Timur",
+      "III Lempasing",
+      "III Teluk Pandan"
+    ]
+  },
+  {
     "waktu": "09/05/2022 11:50:31 WIB",
     "lintang": "8.23 LS",
     "bujur": "108.28 BT",
@@ -220,17 +233,6 @@
     "wilayah": "Pusat gempa berada di laut 47 km Tenggara Selayar",
     "warning": [
       "III-IV Selayar"
-    ]
-  },
-  {
-    "waktu": "30/04/2022 19:33:58 WIB",
-    "lintang": "6.7 LS",
-    "bujur": "120.61 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di laut 47 km tenggara Selayar",
-    "warning": [
-      "III Selayar"
     ]
   }
 ]
