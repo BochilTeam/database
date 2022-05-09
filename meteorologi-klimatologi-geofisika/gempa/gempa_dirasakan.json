@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "09/05/2022 11:50:31 WIB",
+    "lintang": "8.23 LS",
+    "bujur": "108.28 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "32 Km",
+    "wilayah": "Pusat gempa berada di 63 Km Barat Daya Kabupaten Pangandaran",
+    "warning": [
+      "I-II Banjar",
+      "II Garut"
+    ]
+  },
+  {
+    "waktu": "09/05/2022 10:30:25 WIB",
+    "lintang": "3.77 LS",
+    "bujur": "133.71 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 60 km barat daya Kaimana",
+    "warning": [
+      "II Kaimana"
+    ]
+  },
+  {
     "waktu": "09/05/2022 07:14:46 WIB",
     "lintang": "5.67 LS",
     "bujur": "104.78 BT",
@@ -208,34 +231,6 @@
     "wilayah": "Pusat gempa berada di laut 47 km tenggara Selayar",
     "warning": [
       "III Selayar"
-    ]
-  },
-  {
-    "waktu": "30/04/2022 01:25:25 WIB",
-    "lintang": "9.75 LS",
-    "bujur": "116.27 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 115 km selatan Lombok Tengah",
-    "warning": [
-      "III Lombok Timur",
-      "III Lombok Barat",
-      "III Mataram",
-      "II Lombok Utara",
-      "II Lombok Tengah",
-      "II Sumbawa Barat"
-    ]
-  },
-  {
-    "waktu": "30/04/2022 00:05:36 WIB",
-    "lintang": "4.17 LS",
-    "bujur": "123.35 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 16 Km Tenggara Wawonii Timur",
-    "warning": [
-      "II-III Wawonii",
-      "II Kendari"
     ]
   }
 ]
