@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10-05-22 10:43:23 WIB",
+    "lintang": "-5.92",
+    "bujur": "128.36",
+    "magnitudo": "5.4",
+    "kedalaman": "340 Km",
+    "wilayah": "241 km Tenggara BURUSELATAN-MALUKU"
+  },
+  {
     "waktu": "09-05-22 04:51:39 WIB",
     "lintang": "1.83",
     "bujur": "127.15",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "12 Km",
     "wilayah": "112 km BaratLaut KEP.ARU-MALUKU"
-  },
-  {
-    "waktu": "30-03-22 14:44:37 WIB",
-    "lintang": "-6.21",
-    "bujur": "104.35",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "89 km BaratDaya TANGGAMUS-LAMPUNG"
   }
 ]
