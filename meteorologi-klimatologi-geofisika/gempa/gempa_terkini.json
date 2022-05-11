@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-05-22 21:08:46 WIB",
+    "lintang": "-6.61",
+    "bujur": "130.38",
+    "magnitudo": "5.2",
+    "kedalaman": "183 Km",
+    "wilayah": "182 km BaratLaut MALUKUTENGGARABRT"
+  },
+  {
     "waktu": "10-05-22 10:43:23 WIB",
     "lintang": "-5.92",
     "bujur": "128.36",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "12 Km",
     "wilayah": "28 km Tenggara YAHUKIMO-PAPUA"
-  },
-  {
-    "waktu": "30-03-22 15:06:21 WIB",
-    "lintang": "-4.83",
-    "bujur": "133.83",
-    "magnitudo": "5.0",
-    "kedalaman": "12 Km",
-    "wilayah": "112 km BaratLaut KEP.ARU-MALUKU"
   }
 ]
