@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-05-22 00:27:36 WIB",
+    "lintang": "4.60",
+    "bujur": "94.84",
+    "magnitudo": "5.2",
+    "kedalaman": "13 Km",
+    "wilayah": "82 km BaratDaya CALANG-ACEHJAYA"
+  },
+  {
     "waktu": "11-05-22 21:08:46 WIB",
     "lintang": "-6.61",
     "bujur": "130.38",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "20 km BaratDaya BAYAH-BANTEN"
-  },
-  {
-    "waktu": "01-04-22 06:18:18 WIB",
-    "lintang": "-4.74",
-    "bujur": "139.59",
-    "magnitudo": "5.3",
-    "kedalaman": "12 Km",
-    "wilayah": "28 km Tenggara YAHUKIMO-PAPUA"
   }
 ]

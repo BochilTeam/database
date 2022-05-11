@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "12/05/2022 00:27:36 WIB",
+    "lintang": "4.6 LU",
+    "bujur": "94.84 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 117 Km Barat Daya Banda Aceh",
+    "warning": [
+      "III Banda Aceh",
+      "III Aceh Besar",
+      "III Aceh Jaya"
+    ]
+  },
+  {
+    "waktu": "11/05/2022 23:20:12 WIB",
+    "lintang": "3.71 LU",
+    "bujur": "126.81 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di laut 36 km tenggara Melonguane",
+    "warning": [
+      "II - III Melonguane",
+      "II - III Naha Tahuna"
+    ]
+  },
+  {
     "waktu": "11/05/2022 09:18:55 WIB",
     "lintang": "3.78 LS",
     "bujur": "119.4 BT",
@@ -217,28 +242,6 @@
       "II-III Cibaliung",
       "II Rangkasbitung",
       "II Panimbang"
-    ]
-  },
-  {
-    "waktu": "04/05/2022 08:45:31 WIB",
-    "lintang": "4.08 LS",
-    "bujur": "121.89 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 0.8 Km Timur Laut Loea",
-    "warning": [
-      "II-III Kolaka Timur"
-    ]
-  },
-  {
-    "waktu": "03/05/2022 23:44:08 WIB",
-    "lintang": "5.52 LS",
-    "bujur": "105.23 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 22 km Tenggara Pesawaran",
-    "warning": [
-      "II - III Lempasing"
     ]
   }
 ]
