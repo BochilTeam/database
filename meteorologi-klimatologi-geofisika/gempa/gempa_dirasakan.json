@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "12/05/2022 14:22:12 WIB",
+    "lintang": "0.06 LS",
+    "bujur": "123.48 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "116 Km",
+    "wilayah": "Pusat gempa berada di laut 74 km Barat Daya Bolaanguki-BolSel",
+    "warning": [
+      "II-III Gorontalo",
+      "II - III Kab. Pulau Taliabu",
+      "II - III Luwuk"
+    ]
+  },
+  {
     "waktu": "12/05/2022 12:07:30 WIB",
     "lintang": "4.71 LS",
     "bujur": "122.79 BT",
@@ -230,17 +243,6 @@
     "warning": [
       "II-III Kulon Progo",
       "II-III Gunung Kidul"
-    ]
-  },
-  {
-    "waktu": "05/05/2022 20:56:39 WIB",
-    "lintang": "8.66 LS",
-    "bujur": "115.13 BT",
-    "magnitudo": "3",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 10 km barat daya Badung",
-    "warning": [
-      "II Denpasar"
     ]
   }
 ]

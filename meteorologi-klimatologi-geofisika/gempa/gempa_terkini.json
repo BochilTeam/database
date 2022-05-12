@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-05-22 14:22:12 WIB",
+    "lintang": "-0.06",
+    "bujur": "123.48",
+    "magnitudo": "5.2",
+    "kedalaman": "116 Km",
+    "wilayah": "74 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
+  },
+  {
     "waktu": "12-05-22 00:27:36 WIB",
     "lintang": "4.60",
     "bujur": "94.84",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "35 km BaratDaya BAYAH-BANTEN"
-  },
-  {
-    "waktu": "01-04-22 11:54:19 WIB",
-    "lintang": "-7.04",
-    "bujur": "106.10",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "20 km BaratDaya BAYAH-BANTEN"
   }
 ]
