@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "12/05/2022 12:07:30 WIB",
+    "lintang": "4.71 LS",
+    "bujur": "122.79 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di laut 6 km BaratLaut Maligano",
+    "warning": [
+      "III-IV Raha",
+      "II Lainea"
+    ]
+  },
+  {
     "waktu": "12/05/2022 00:43:03 WIB",
     "lintang": "6.89 LS",
     "bujur": "113.99 BT",
@@ -229,17 +241,6 @@
     "wilayah": "Pusat gempa berada di laut 10 km barat daya Badung",
     "warning": [
       "II Denpasar"
-    ]
-  },
-  {
-    "waktu": "05/05/2022 18:26:03 WIB",
-    "lintang": "2.63 LS",
-    "bujur": "119.16 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 36 km Barat Laut Mamasa",
-    "warning": [
-      "II Kalukku"
     ]
   }
 ]
