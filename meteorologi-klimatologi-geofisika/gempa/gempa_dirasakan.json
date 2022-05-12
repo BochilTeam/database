@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/05/2022 00:43:03 WIB",
+    "lintang": "6.89 LS",
+    "bujur": "113.99 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 21 km timur laut Sumenep",
+    "warning": [
+      "II-III Sumenep"
+    ]
+  },
+  {
     "waktu": "12/05/2022 00:27:36 WIB",
     "lintang": "4.6 LU",
     "bujur": "94.84 BT",
@@ -229,19 +240,6 @@
     "wilayah": "Pusat gempa berada di darat 36 km Barat Laut Mamasa",
     "warning": [
       "II Kalukku"
-    ]
-  },
-  {
-    "waktu": "05/05/2022 14:14:20 WIB",
-    "lintang": "7.06 LS",
-    "bujur": "105.39 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di laut 48 Km Barat Daya Sumur",
-    "warning": [
-      "II-III Cibaliung",
-      "II Rangkasbitung",
-      "II Panimbang"
     ]
   }
 ]
