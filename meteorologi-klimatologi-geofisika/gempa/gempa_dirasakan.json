@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "14/05/2022 09:25:20 WIB",
+    "lintang": "3.06 LS",
+    "bujur": "139.86 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "90 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km tenggara Kab. Jayapura",
+    "warning": [
+      "III - IV Jayapura",
+      "II Sentani",
+      "III Keerom"
+    ]
+  },
+  {
     "waktu": "12/05/2022 14:22:12 WIB",
     "lintang": "0.06 LS",
     "bujur": "123.48 BT",
@@ -231,18 +244,6 @@
       "III-IV Sendupuro",
       "III-IV Candipuro",
       "III-IV Pasrujambe"
-    ]
-  },
-  {
-    "waktu": "06/05/2022 14:23:16 WIB",
-    "lintang": "7.87 LS",
-    "bujur": "110.13 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat, 7 km barat daya Kulonprogo - DIY",
-    "warning": [
-      "II-III Kulon Progo",
-      "II-III Gunung Kidul"
     ]
   }
 ]
