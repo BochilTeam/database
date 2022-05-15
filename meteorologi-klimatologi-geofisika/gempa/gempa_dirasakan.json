@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "15/05/2022 06:40:27 WIB",
+    "lintang": "4.12 LS",
+    "bujur": "121.67 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 1.1 km barat daya Kolaka",
+    "warning": [
+      "II Kolaka"
+    ]
+  },
+  {
+    "waktu": "15/05/2022 05:42:04 WIB",
+    "lintang": "4.11 LS",
+    "bujur": "121.64 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 4.2 km barat laut Kolaka",
+    "warning": [
+      "III Kolaka",
+      "II Kolaka Timur"
+    ]
+  },
+  {
     "waktu": "14/05/2022 09:25:20 WIB",
     "lintang": "3.06 LS",
     "bujur": "139.86 BT",
@@ -218,32 +241,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km barat daya Bandar Lampung",
     "warning": [
       "II Padang Cermin"
-    ]
-  },
-  {
-    "waktu": "08/05/2022 09:29:04 WIB",
-    "lintang": "3.63 LU",
-    "bujur": "127.01 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 55 km Tenggara Melonguane",
-    "warning": [
-      "III Melonguane"
-    ]
-  },
-  {
-    "waktu": "07/05/2022 00:21:45 WIB",
-    "lintang": "8.16 LS",
-    "bujur": "113.1 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km barat daya Lumajang",
-    "warning": [
-      "III-IV Pasirian",
-      "III-IV Pronojiwo",
-      "III-IV Sendupuro",
-      "III-IV Candipuro",
-      "III-IV Pasrujambe"
     ]
   }
 ]
