@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16-05-22 18:43:25 WIB",
+    "lintang": "-0.77",
+    "bujur": "133.21",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "72 km BaratLaut PEGUNUNGANARFAK-PAPUABRT"
+  },
+  {
     "waktu": "14-05-22 09:25:20 WIB",
     "lintang": "-3.06",
     "bujur": "139.86",
@@ -230,13 +238,5 @@
     "magnitudo": "6.0",
     "kedalaman": "10 Km",
     "wilayah": "108 km BaratLaut HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "03-04-22 07:52:48 WIB",
-    "lintang": "5.39",
-    "bujur": "126.93",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "157 km TimurLaut MELONGUANE-SULUT"
   }
 ]

@@ -1,5 +1,42 @@
 [
   {
+    "waktu": "16/05/2022 18:43:25 WIB",
+    "lintang": "0.77 LS",
+    "bujur": "133.21 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 72 km barat laut Pegunungan Arfak",
+    "warning": [
+      "III-IV Manokwari"
+    ]
+  },
+  {
+    "waktu": "16/05/2022 18:30:24 WIB",
+    "lintang": "7.2 LS",
+    "bujur": "120.39 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 102 km barat daya Selayar",
+    "warning": [
+      "II Pulau Jampea"
+    ]
+  },
+  {
+    "waktu": "16/05/2022 17:13:48 WIB",
+    "lintang": "0.56 LU",
+    "bujur": "122.14 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "77 Km",
+    "wilayah": "Pusat gempa berada di darat 23 km Barat Laut Boalemo",
+    "warning": [
+      "II-III Kota Gorontalo",
+      "II - III Kab. Gorontalo",
+      "II-III Kab. Gorontalo Utara",
+      "II Kab. Boalemo",
+      "II Kab. Pohuwato"
+    ]
+  },
+  {
     "waktu": "15/05/2022 06:40:27 WIB",
     "lintang": "4.12 LS",
     "bujur": "121.67 BT",
@@ -202,45 +239,6 @@
     "wilayah": "Pusat gempa berada di laut 23 km tenggara Tanggamus",
     "warning": [
       "II Limau"
-    ]
-  },
-  {
-    "waktu": "09/05/2022 04:51:39 WIB",
-    "lintang": "1.83 LU",
-    "bujur": "127.15 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 72 km Barat Laut Halmahera Barat",
-    "warning": [
-      "III Ternate",
-      "III Morotai",
-      "III-IV Galela",
-      "II - III Kao",
-      "IV Ibu",
-      "IV Loloda",
-      "III Tidore"
-    ]
-  },
-  {
-    "waktu": "09/05/2022 00:09:43 WIB",
-    "lintang": "5.52 LS",
-    "bujur": "105.21 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km barat daya Bandar Lampung",
-    "warning": [
-      "II Padang Cermin"
-    ]
-  },
-  {
-    "waktu": "08/05/2022 19:52:04 WIB",
-    "lintang": "5.53 LS",
-    "bujur": "105.24 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km barat daya Bandar Lampung",
-    "warning": [
-      "II Padang Cermin"
     ]
   }
 ]
