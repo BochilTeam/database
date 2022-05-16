@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "17/05/2022 01:58:22 WIB",
+    "lintang": "5.4 LS",
+    "bujur": "101.81 BT",
+    "magnitudo": "6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 51 Km Barat Daya Enggano",
+    "warning": [
+      "III - IV Kota Bengkulu",
+      "III - IV Bengkulu Utara",
+      "III Kepahiang",
+      "III Rejang Lebong",
+      "IV-V Enggano"
+    ]
+  },
+  {
     "waktu": "16/05/2022 18:43:25 WIB",
     "lintang": "0.77 LS",
     "bujur": "133.21 BT",
@@ -228,17 +243,6 @@
     "wilayah": "Pusat gempa berada di laut 60 km barat daya Kaimana",
     "warning": [
       "II Kaimana"
-    ]
-  },
-  {
-    "waktu": "09/05/2022 07:14:46 WIB",
-    "lintang": "5.67 LS",
-    "bujur": "104.78 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 23 km tenggara Tanggamus",
-    "warning": [
-      "II Limau"
     ]
   }
 ]

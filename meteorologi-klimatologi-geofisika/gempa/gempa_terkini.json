@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-05-22 01:58:22 WIB",
+    "lintang": "-5.40",
+    "bujur": "101.81",
+    "magnitudo": "6.0",
+    "kedalaman": "10 Km",
+    "wilayah": "51 km BaratDaya ENGGANO-BENGKULU"
+  },
+  {
     "waktu": "16-05-22 18:43:25 WIB",
     "lintang": "-0.77",
     "bujur": "133.21",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 Km",
     "wilayah": "188 km BaratLaut KOTA-SABANG-ACEH"
-  },
-  {
-    "waktu": "05-04-22 08:44:06 WIB",
-    "lintang": "2.11",
-    "bujur": "126.97",
-    "magnitudo": "6.0",
-    "kedalaman": "10 Km",
-    "wilayah": "108 km BaratLaut HALMAHERABARAT-MALUT"
   }
 ]
