@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/05/2022 19:41:11 WIB",
+    "lintang": "8.73 LS",
+    "bujur": "128.35 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 89 km tenggara Maluku Baratdaya",
+    "warning": [
+      "III-IV Kalabahi"
+    ]
+  },
+  {
     "waktu": "17/05/2022 14:11:30 WIB",
     "lintang": "3.57 LS",
     "bujur": "140.46 BT",
@@ -231,18 +242,6 @@
       "III Teluk Betung Timur",
       "III Lempasing",
       "III Teluk Pandan"
-    ]
-  },
-  {
-    "waktu": "09/05/2022 11:50:31 WIB",
-    "lintang": "8.23 LS",
-    "bujur": "108.28 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "32 Km",
-    "wilayah": "Pusat gempa berada di 63 Km Barat Daya Kabupaten Pangandaran",
-    "warning": [
-      "I-II Banjar",
-      "II Garut"
     ]
   }
 ]
