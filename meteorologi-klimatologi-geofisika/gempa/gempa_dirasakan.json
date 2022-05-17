@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/05/2022 23:08:05 WIB",
+    "lintang": "5.79 LS",
+    "bujur": "110.42 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 92 km barat laut Jepara",
+    "warning": [
+      "II-III Karimun Jawa"
+    ]
+  },
+  {
     "waktu": "17/05/2022 19:41:11 WIB",
     "lintang": "8.73 LS",
     "bujur": "128.35 BT",
@@ -229,19 +240,6 @@
     "wilayah": "Pusat gempa berada di darat 40 km Tenggara Nduga",
     "warning": [
       "II Wamena"
-    ]
-  },
-  {
-    "waktu": "09/05/2022 22:34:38 WIB",
-    "lintang": "5.53 LS",
-    "bujur": "105.25 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 9 km barat daya Bandar Lampung",
-    "warning": [
-      "III Teluk Betung Timur",
-      "III Lempasing",
-      "III Teluk Pandan"
     ]
   }
 ]
