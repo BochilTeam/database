@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-05-22 14:11:30 WIB",
+    "lintang": "-3.57",
+    "bujur": "140.46",
+    "magnitudo": "5.1",
+    "kedalaman": "121 Km",
+    "wilayah": "41 km BaratDaya KEEROM-PAPUA"
+  },
+  {
     "waktu": "17-05-22 01:58:22 WIB",
     "lintang": "-5.40",
     "bujur": "101.81",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "118 Km",
     "wilayah": "244 km BaratLaut MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "06-04-22 12:29:45 WIB",
-    "lintang": "7.39",
-    "bujur": "94.51",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "188 km BaratLaut KOTA-SABANG-ACEH"
   }
 ]

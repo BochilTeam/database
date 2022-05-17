@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/05/2022 14:11:30 WIB",
+    "lintang": "3.57 LS",
+    "bujur": "140.46 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "121 Km",
+    "wilayah": "Pusat gempa berada di darat 41 km barat daya Keerom",
+    "warning": [
+      "II Jayapura"
+    ]
+  },
+  {
     "waktu": "17/05/2022 01:58:22 WIB",
     "lintang": "5.4 LS",
     "bujur": "101.81 BT",
@@ -232,17 +243,6 @@
     "warning": [
       "I-II Banjar",
       "II Garut"
-    ]
-  },
-  {
-    "waktu": "09/05/2022 10:30:25 WIB",
-    "lintang": "3.77 LS",
-    "bujur": "133.71 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 60 km barat daya Kaimana",
-    "warning": [
-      "II Kaimana"
     ]
   }
 ]
