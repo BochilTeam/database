@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "19/05/2022 22:29:16 WIB",
+    "lintang": "1.75 LU",
+    "bujur": "126.38 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 141 km baratLaut Halmahera barat",
+    "warning": [
+      "III Manado",
+      "III Tondano",
+      "III Bitung"
+    ]
+  },
+  {
     "waktu": "19/05/2022 04:12:08 WIB",
     "lintang": "3.63 LS",
     "bujur": "128.17 BT",
@@ -226,20 +239,6 @@
     "wilayah": "Pusat gempa berada di darat 1 km tenggara Ruteng, Manggarai",
     "warning": [
       "III-IV Ruteng"
-    ]
-  },
-  {
-    "waktu": "10/05/2022 03:54:11 WIB",
-    "lintang": "0.64 LU",
-    "bujur": "122.15 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "58 Km",
-    "wilayah": "Pusat gempa berada di darat 25 km barat laut Boalemo",
-    "warning": [
-      "II Gorontalo",
-      "I - II Kab. Gorontalo",
-      "IV Kab. Gorontalo Utara",
-      "III Kab. Bone Bolango"
     ]
   }
 ]

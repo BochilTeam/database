@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19-05-22 22:29:16 WIB",
+    "lintang": "1.75",
+    "bujur": "126.38",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "141 km BaratLaut HALMAHERABARAT-MALUT"
+  },
+  {
     "waktu": "17-05-22 14:11:30 WIB",
     "lintang": "-3.57",
     "bujur": "140.46",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "68 Km",
     "wilayah": "67 km TimurLaut TOLIKARA-PAPUA"
-  },
-  {
-    "waktu": "07-04-22 16:52:58 WIB",
-    "lintang": "6.01",
-    "bujur": "125.79",
-    "magnitudo": "5.1",
-    "kedalaman": "118 Km",
-    "wilayah": "244 km BaratLaut MELONGUANE-SULUT"
   }
 ]
