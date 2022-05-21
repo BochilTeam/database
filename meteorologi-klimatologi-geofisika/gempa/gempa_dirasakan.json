@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "21/05/2022 15:29:16 WIB",
+    "lintang": "4.61 LS",
+    "bujur": "102.77 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "31 Km",
+    "wilayah": "Pusat gempa berada di laut 23 km Barat Daya Bengkulu Selatan",
+    "warning": [
+      "II - III Kota Manna",
+      "II Kepahiang",
+      "II Krui",
+      "II Kemiling",
+      "II Liwa"
+    ]
+  },
+  {
     "waktu": "19/05/2022 22:29:16 WIB",
     "lintang": "1.75 LU",
     "bujur": "126.38 BT",
@@ -226,17 +241,6 @@
     "magnitudo": "3.6",
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di darat 3 km barat daya Ruteng",
-    "warning": [
-      "III-IV Ruteng"
-    ]
-  },
-  {
-    "waktu": "11/05/2022 08:34:27 WIB",
-    "lintang": "8.62 LS",
-    "bujur": "120.48 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 1 km tenggara Ruteng, Manggarai",
     "warning": [
       "III-IV Ruteng"
     ]
