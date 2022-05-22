@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "23/05/2022 00:38:14 WIB",
+    "lintang": "0.48 LS",
+    "bujur": "99.56 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "60 Km",
+    "wilayah": "Pusat gempa berada di laut 55 km Baratdaya Lubukbasung",
+    "warning": [
+      "III Pasaman Barat",
+      "III Lubuk Basung",
+      "III Padang",
+      "I-II Padang Pariaman"
+    ]
+  },
+  {
     "waktu": "21/05/2022 15:29:16 WIB",
     "lintang": "4.61 LS",
     "bujur": "102.77 BT",
@@ -232,17 +246,6 @@
       "II Pare-Pare",
       "II Majene",
       "II Polman"
-    ]
-  },
-  {
-    "waktu": "11/05/2022 08:37:55 WIB",
-    "lintang": "8.64 LS",
-    "bujur": "120.46 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km barat daya Ruteng",
-    "warning": [
-      "III-IV Ruteng"
     ]
   }
 ]
