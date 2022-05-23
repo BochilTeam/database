@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "23/05/2022 19:32:02 WIB",
+    "lintang": "4.61 LS",
+    "bujur": "102.75 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "41 Km",
+    "wilayah": "Pusat gempa berada di laut 25 km baratdaya Bengkulu Selatan",
+    "warning": [
+      "IV Manna",
+      "IV Argamakmur",
+      "IV Lampung Barat",
+      "III-IV Kepahiang",
+      "III-IV Kota Bengkulu"
+    ]
+  },
+  {
     "waktu": "23/05/2022 00:38:14 WIB",
     "lintang": "0.48 LS",
     "bujur": "99.56 BT",
@@ -232,20 +247,6 @@
     "warning": [
       "II - III Melonguane",
       "II - III Naha Tahuna"
-    ]
-  },
-  {
-    "waktu": "11/05/2022 09:18:55 WIB",
-    "lintang": "3.78 LS",
-    "bujur": "119.4 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di laut 22 km barat daya Pinrang",
-    "warning": [
-      "III-IV Pinrang",
-      "II Pare-Pare",
-      "II Majene",
-      "II Polman"
     ]
   }
 ]
