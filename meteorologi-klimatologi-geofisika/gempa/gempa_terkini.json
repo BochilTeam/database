@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25-05-22 04:18:18 WIB",
+    "lintang": "-5.76",
+    "bujur": "103.73",
+    "magnitudo": "5.1",
+    "kedalaman": "25 Km",
+    "wilayah": "67 km BaratDaya PESISIRBARAT-LAMPUNG"
+  },
+  {
     "waktu": "19-05-22 22:29:16 WIB",
     "lintang": "1.75",
     "bujur": "126.38",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "53 Km",
     "wilayah": "20 km Tenggara KAB-JAYAPURA-PAPUA"
-  },
-  {
-    "waktu": "08-04-22 19:32:13 WIB",
-    "lintang": "-3.18",
-    "bujur": "139.01",
-    "magnitudo": "5.1",
-    "kedalaman": "68 Km",
-    "wilayah": "67 km TimurLaut TOLIKARA-PAPUA"
   }
 ]

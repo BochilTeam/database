@@ -1,5 +1,31 @@
 [
   {
+    "waktu": "25/05/2022 04:18:56 WIB",
+    "lintang": "9.5 LS",
+    "bujur": "115.89 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di laut 94 km barat daya Lombok Barat",
+    "warning": [
+      "II - III Denpasar",
+      "II - III Lombok Barat",
+      "II Mataram"
+    ]
+  },
+  {
+    "waktu": "25/05/2022 04:18:18 WIB",
+    "lintang": "5.76 LS",
+    "bujur": "103.73 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 67 km barat daya Pesisir Barat",
+    "warning": [
+      "II - III Liwa",
+      "II Pringsewu",
+      "II Tanggamus"
+    ]
+  },
+  {
     "waktu": "23/05/2022 19:32:02 WIB",
     "lintang": "4.61 LS",
     "bujur": "102.75 BT",
@@ -222,31 +248,6 @@
     "wilayah": "Pusat gempa berada di darat 21 km timur laut Sumenep",
     "warning": [
       "II-III Sumenep"
-    ]
-  },
-  {
-    "waktu": "12/05/2022 00:27:36 WIB",
-    "lintang": "4.6 LU",
-    "bujur": "94.84 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 117 Km Barat Daya Banda Aceh",
-    "warning": [
-      "III Banda Aceh",
-      "III Aceh Besar",
-      "III Aceh Jaya"
-    ]
-  },
-  {
-    "waktu": "11/05/2022 23:20:12 WIB",
-    "lintang": "3.71 LU",
-    "bujur": "126.81 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada di laut 36 km tenggara Melonguane",
-    "warning": [
-      "II - III Melonguane",
-      "II - III Naha Tahuna"
     ]
   }
 ]
