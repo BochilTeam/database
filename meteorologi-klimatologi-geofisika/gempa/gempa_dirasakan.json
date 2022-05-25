@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "25/05/2022 20:20:49 WIB",
+    "lintang": "8.4 LS",
+    "bujur": "118.55 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km timur laut Dompu",
+    "warning": [
+      "III Bima",
+      "II Dompu"
+    ]
+  },
+  {
     "waktu": "25/05/2022 04:18:56 WIB",
     "lintang": "9.5 LS",
     "bujur": "115.89 BT",
@@ -237,17 +249,6 @@
     "warning": [
       "III-IV Raha",
       "II Lainea"
-    ]
-  },
-  {
-    "waktu": "12/05/2022 00:43:03 WIB",
-    "lintang": "6.89 LS",
-    "bujur": "113.99 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km timur laut Sumenep",
-    "warning": [
-      "II-III Sumenep"
     ]
   }
 ]
