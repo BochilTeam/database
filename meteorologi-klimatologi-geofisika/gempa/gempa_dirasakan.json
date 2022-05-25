@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/05/2022 22:05:06 WIB",
+    "lintang": "4.71 LS",
+    "bujur": "92.67 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 819 km BaratDaya Nias Selatan",
+    "warning": [
+      "II - III Nias Selatan"
+    ]
+  },
+  {
     "waktu": "25/05/2022 21:15:51 WIB",
     "lintang": "3.38 LS",
     "bujur": "128.32 BT",
@@ -235,19 +246,6 @@
       "III - IV Jayapura",
       "II Sentani",
       "III Keerom"
-    ]
-  },
-  {
-    "waktu": "12/05/2022 14:22:12 WIB",
-    "lintang": "0.06 LS",
-    "bujur": "123.48 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "116 Km",
-    "wilayah": "Pusat gempa berada di laut 74 km Barat Daya Bolaanguki-BolSel",
-    "warning": [
-      "II-III Gorontalo",
-      "II - III Kab. Pulau Taliabu",
-      "II - III Luwuk"
     ]
   }
 ]
