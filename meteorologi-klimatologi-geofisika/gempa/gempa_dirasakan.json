@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/05/2022 21:15:51 WIB",
+    "lintang": "3.38 LS",
+    "bujur": "128.32 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 6 km barat daya Kairatu-Seram Bagian Barat",
+    "warning": [
+      "II Kairatu"
+    ]
+  },
+  {
     "waktu": "25/05/2022 20:20:49 WIB",
     "lintang": "8.4 LS",
     "bujur": "118.55 BT",
@@ -237,18 +248,6 @@
       "II-III Gorontalo",
       "II - III Kab. Pulau Taliabu",
       "II - III Luwuk"
-    ]
-  },
-  {
-    "waktu": "12/05/2022 12:07:30 WIB",
-    "lintang": "4.71 LS",
-    "bujur": "122.79 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di laut 6 km BaratLaut Maligano",
-    "warning": [
-      "III-IV Raha",
-      "II Lainea"
     ]
   }
 ]

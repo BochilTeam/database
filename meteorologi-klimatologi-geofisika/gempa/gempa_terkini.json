@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25-05-22 22:05:06 WIB",
+    "lintang": "-4.71",
+    "bujur": "92.67",
+    "magnitudo": "6.2",
+    "kedalaman": "10 Km",
+    "wilayah": "819 km BaratDaya NIASSELATAN-SUMUT"
+  },
+  {
     "waktu": "25-05-22 04:18:18 WIB",
     "lintang": "-5.76",
     "bujur": "103.73",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "13 Km",
     "wilayah": "178 km BaratLaut KOTA-SABANG-ACEH"
-  },
-  {
-    "waktu": "10-04-22 04:22:13 WIB",
-    "lintang": "-3.12",
-    "bujur": "139.98",
-    "magnitudo": "5.2",
-    "kedalaman": "53 Km",
-    "wilayah": "20 km Tenggara KAB-JAYAPURA-PAPUA"
   }
 ]
