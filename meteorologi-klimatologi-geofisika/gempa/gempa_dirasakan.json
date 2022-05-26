@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "26/05/2022 20:53:21 WIB",
+    "lintang": "4.85 LU",
+    "bujur": "96.06 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 29 km barat daya Kab. Pidie Jaya",
+    "warning": [
+      "III Mane Pidie",
+      "II Tangse Pidie"
+    ]
+  },
+  {
     "waktu": "26/05/2022 03:24:45 WIB",
     "lintang": "5.89 LU",
     "bujur": "95.19 BT",
@@ -232,18 +244,6 @@
     "wilayah": "Pusat gempa berada di darat 1.1 km barat daya Kolaka",
     "warning": [
       "II Kolaka"
-    ]
-  },
-  {
-    "waktu": "15/05/2022 05:42:04 WIB",
-    "lintang": "4.11 LS",
-    "bujur": "121.64 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 4.2 km barat laut Kolaka",
-    "warning": [
-      "III Kolaka",
-      "II Kolaka Timur"
     ]
   }
 ]
