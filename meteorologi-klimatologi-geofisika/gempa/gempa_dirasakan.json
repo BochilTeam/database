@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/05/2022 03:24:45 WIB",
+    "lintang": "5.89 LU",
+    "bujur": "95.19 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di laut 14 km BaratDaya Kota Sabang",
+    "warning": [
+      "I-II Kota Sabang"
+    ]
+  },
+  {
     "waktu": "25/05/2022 22:05:06 WIB",
     "lintang": "4.71 LS",
     "bujur": "92.67 BT",
@@ -233,19 +244,6 @@
     "warning": [
       "III Kolaka",
       "II Kolaka Timur"
-    ]
-  },
-  {
-    "waktu": "14/05/2022 09:25:20 WIB",
-    "lintang": "3.06 LS",
-    "bujur": "139.86 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "90 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km tenggara Kab. Jayapura",
-    "warning": [
-      "III - IV Jayapura",
-      "II Sentani",
-      "III Keerom"
     ]
   }
 ]
