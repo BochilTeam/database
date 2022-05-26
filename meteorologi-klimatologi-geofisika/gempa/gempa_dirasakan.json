@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "26/05/2022 23:55:12 WIB",
+    "lintang": "0.91 LS",
+    "bujur": "119.94 BT",
+    "magnitudo": "3",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km Timur Palu",
+    "warning": [
+      "II - III Palu",
+      "II - III Sigi"
+    ]
+  },
+  {
     "waktu": "26/05/2022 20:53:21 WIB",
     "lintang": "4.85 LU",
     "bujur": "96.06 BT",
@@ -233,17 +245,6 @@
       "II-III Kab. Gorontalo Utara",
       "II Kab. Boalemo",
       "II Kab. Pohuwato"
-    ]
-  },
-  {
-    "waktu": "15/05/2022 06:40:27 WIB",
-    "lintang": "4.12 LS",
-    "bujur": "121.67 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 1.1 km barat daya Kolaka",
-    "warning": [
-      "II Kolaka"
     ]
   }
 ]
