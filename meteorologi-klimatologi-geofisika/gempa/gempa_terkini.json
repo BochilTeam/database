@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27-05-22 09:36:06 WIB",
+    "lintang": "-8.64",
+    "bujur": "127.20",
+    "magnitudo": "6.5",
+    "kedalaman": "104 Km",
+    "wilayah": "85 km BaratDaya MALUKUBRTDAYA"
+  },
+  {
     "waktu": "25-05-22 22:05:06 WIB",
     "lintang": "-4.71",
     "bujur": "92.67",
@@ -229,14 +237,6 @@
     "bujur": "94.62",
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
-    "wilayah": "178 km BaratLaut KOTA-SABANG-ACEH"
-  },
-  {
-    "waktu": "10-04-22 08:32:27 WIB",
-    "lintang": "7.35",
-    "bujur": "94.64",
-    "magnitudo": "5.3",
-    "kedalaman": "13 Km",
     "wilayah": "178 km BaratLaut KOTA-SABANG-ACEH"
   }
 ]
