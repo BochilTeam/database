@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "27/05/2022 07:38:50 WIB",
+    "lintang": "8.16 LS",
+    "bujur": "107.92 BT",
+    "magnitudo": "4",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 81 km BaratDaya Pangandaran",
+    "warning": [
+      "III Cipatujah",
+      "III Pangandaran",
+      "III Ciamis",
+      "III Karangnunggal",
+      "III Cikalong",
+      "II Singajaya",
+      "II cikajang"
+    ]
+  },
+  {
     "waktu": "26/05/2022 23:55:12 WIB",
     "lintang": "0.91 LS",
     "bujur": "119.94 BT",
@@ -230,21 +247,6 @@
     "wilayah": "Pusat gempa berada di laut 102 km barat daya Selayar",
     "warning": [
       "II Pulau Jampea"
-    ]
-  },
-  {
-    "waktu": "16/05/2022 17:13:48 WIB",
-    "lintang": "0.56 LU",
-    "bujur": "122.14 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "77 Km",
-    "wilayah": "Pusat gempa berada di darat 23 km Barat Laut Boalemo",
-    "warning": [
-      "II-III Kota Gorontalo",
-      "II - III Kab. Gorontalo",
-      "II-III Kab. Gorontalo Utara",
-      "II Kab. Boalemo",
-      "II Kab. Pohuwato"
     ]
   }
 ]
