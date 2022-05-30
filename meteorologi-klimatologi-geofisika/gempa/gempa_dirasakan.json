@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "30/05/2022 13:42:40 WIB",
+    "lintang": "1.75 LS",
+    "bujur": "100.29 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "23 Km",
+    "wilayah": "Pusat gempa berada di laut 55 km BaratDaya Painan-Pesisir Selatan",
+    "warning": [
+      "I - II Painan",
+      "I - II Padang"
+    ]
+  },
+  {
     "waktu": "27/05/2022 09:36:06 WIB",
     "lintang": "8.64 LS",
     "bujur": "127.2 BT",
@@ -241,17 +253,6 @@
       "III Kepahiang",
       "III Rejang Lebong",
       "IV-V Enggano"
-    ]
-  },
-  {
-    "waktu": "16/05/2022 18:43:25 WIB",
-    "lintang": "0.77 LS",
-    "bujur": "133.21 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 72 km barat laut Pegunungan Arfak",
-    "warning": [
-      "III-IV Manokwari"
     ]
   }
 ]
