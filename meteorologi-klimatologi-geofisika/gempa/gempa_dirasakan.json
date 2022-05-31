@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "31/05/2022 08:10:26 WIB",
+    "lintang": "3.86 LU",
+    "bujur": "97.33 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km baratdaya Gayo Lues",
+    "warning": [
+      "III Gayo Lues"
+    ]
+  },
+  {
     "waktu": "30/05/2022 13:42:40 WIB",
     "lintang": "1.75 LS",
     "bujur": "100.29 BT",
@@ -238,21 +249,6 @@
     "wilayah": "Pusat gempa berada di darat 41 km barat daya Keerom",
     "warning": [
       "II Jayapura"
-    ]
-  },
-  {
-    "waktu": "17/05/2022 01:58:22 WIB",
-    "lintang": "5.4 LS",
-    "bujur": "101.81 BT",
-    "magnitudo": "6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 51 Km Barat Daya Enggano",
-    "warning": [
-      "III - IV Kota Bengkulu",
-      "III - IV Bengkulu Utara",
-      "III Kepahiang",
-      "III Rejang Lebong",
-      "IV-V Enggano"
     ]
   }
 ]
