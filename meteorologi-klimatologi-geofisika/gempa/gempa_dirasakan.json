@@ -1,5 +1,25 @@
 [
   {
+    "waktu": "31/05/2022 14:10:06 WIB",
+    "lintang": "6.18 LS",
+    "bujur": "104.11 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 100 km barat daya Tanggamus",
+    "warning": [
+      "II Kota Bengkulu",
+      "II Kepahiang",
+      "II Kota Agung",
+      "II Pesawaran",
+      "II - III Tanggamus",
+      "III-IV Lampung Barat",
+      "III Liwa",
+      "III Lemong",
+      "II Pringsewu",
+      "II OKU Selatan"
+    ]
+  },
+  {
     "waktu": "31/05/2022 08:10:26 WIB",
     "lintang": "3.86 LU",
     "bujur": "97.33 BT",
@@ -238,17 +258,6 @@
     "wilayah": "Pusat gempa berada di laut 89 km tenggara Maluku Baratdaya",
     "warning": [
       "III-IV Kalabahi"
-    ]
-  },
-  {
-    "waktu": "17/05/2022 14:11:30 WIB",
-    "lintang": "3.57 LS",
-    "bujur": "140.46 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "121 Km",
-    "wilayah": "Pusat gempa berada di darat 41 km barat daya Keerom",
-    "warning": [
-      "II Jayapura"
     ]
   }
 ]
