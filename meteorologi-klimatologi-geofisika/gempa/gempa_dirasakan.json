@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/06/2022 02:19:55 WIB",
+    "lintang": "0.62 LS",
+    "bujur": "124.42 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 120 km tenggara Bolaanguki-Bolaang Mongondow Selatan",
+    "warning": [
+      "III Kotamobagu"
+    ]
+  },
+  {
     "waktu": "03/06/2022 00:31:27 WIB",
     "lintang": "2.12 LS",
     "bujur": "120.55 BT",
@@ -243,20 +254,6 @@
       "IV Lampung Barat",
       "III-IV Kepahiang",
       "III-IV Kota Bengkulu"
-    ]
-  },
-  {
-    "waktu": "23/05/2022 00:38:14 WIB",
-    "lintang": "0.48 LS",
-    "bujur": "99.56 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "60 Km",
-    "wilayah": "Pusat gempa berada di laut 55 km Baratdaya Lubukbasung",
-    "warning": [
-      "III Pasaman Barat",
-      "III Lubuk Basung",
-      "III Padang",
-      "I-II Padang Pariaman"
     ]
   }
 ]
