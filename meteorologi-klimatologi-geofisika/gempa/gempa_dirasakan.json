@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "02/06/2022 07:26:40 WIB",
+    "lintang": "1.66 LU",
+    "bujur": "99.18 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km BaratLaut Tapanuli Selatan",
+    "warning": [
+      "III Pinangsori",
+      "III Sibolga"
+    ]
+  },
+  {
+    "waktu": "02/06/2022 05:55:45 WIB",
+    "lintang": "1.11 LS",
+    "bujur": "127.18 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 62 km BaratDaya Labuha",
+    "warning": [
+      "II Obi",
+      "II Labuha"
+    ]
+  },
+  {
     "waktu": "31/05/2022 14:10:06 WIB",
     "lintang": "6.18 LS",
     "bujur": "104.11 BT",
@@ -236,28 +260,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km Utara Ambon",
     "warning": [
       "III Ambon"
-    ]
-  },
-  {
-    "waktu": "17/05/2022 23:08:05 WIB",
-    "lintang": "5.79 LS",
-    "bujur": "110.42 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 92 km barat laut Jepara",
-    "warning": [
-      "II-III Karimun Jawa"
-    ]
-  },
-  {
-    "waktu": "17/05/2022 19:41:11 WIB",
-    "lintang": "8.73 LS",
-    "bujur": "128.35 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 89 km tenggara Maluku Baratdaya",
-    "warning": [
-      "III-IV Kalabahi"
     ]
   }
 ]

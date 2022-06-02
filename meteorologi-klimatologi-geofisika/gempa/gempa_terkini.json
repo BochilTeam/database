@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-06-22 05:55:45 WIB",
+    "lintang": "-1.11",
+    "bujur": "127.18",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "62 km BaratDaya LABUHA-MALUT"
+  },
+  {
     "waktu": "31-05-22 14:10:06 WIB",
     "lintang": "-6.18",
     "bujur": "104.11",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "94 Km",
     "wilayah": "63 km BaratLaut HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "10-04-22 21:17:20 WIB",
-    "lintang": "8.03",
-    "bujur": "93.87",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "286 km BaratLaut KOTA-SABANG-ACEH"
   }
 ]
