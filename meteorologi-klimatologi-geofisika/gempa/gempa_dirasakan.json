@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "03/06/2022 00:31:27 WIB",
+    "lintang": "2.12 LS",
+    "bujur": "120.55 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 66 km TimurLaut LUWU UTARA",
+    "warning": [
+      "IV Masamba",
+      "III Luwu Timur",
+      "II  Palopo"
+    ]
+  },
+  {
     "waktu": "02/06/2022 15:02:55 WIB",
     "lintang": "8.31 LS",
     "bujur": "120.58 BT",
@@ -244,21 +257,6 @@
       "III Lubuk Basung",
       "III Padang",
       "I-II Padang Pariaman"
-    ]
-  },
-  {
-    "waktu": "21/05/2022 15:29:16 WIB",
-    "lintang": "4.61 LS",
-    "bujur": "102.77 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "31 Km",
-    "wilayah": "Pusat gempa berada di laut 23 km Barat Daya Bengkulu Selatan",
-    "warning": [
-      "II - III Kota Manna",
-      "II Kepahiang",
-      "II Krui",
-      "II Kemiling",
-      "II Liwa"
     ]
   }
 ]
