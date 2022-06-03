@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/06/2022 07:04:47 WIB",
+    "lintang": "3.65 LS",
+    "bujur": "128.16 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km Baratlaut Ambon",
+    "warning": [
+      "II Paso"
+    ]
+  },
+  {
     "waktu": "03/06/2022 03:19:10 WIB",
     "lintang": "3.43 LS",
     "bujur": "128.83 BT",
@@ -238,19 +249,6 @@
       "II - III Denpasar",
       "II - III Lombok Barat",
       "II Mataram"
-    ]
-  },
-  {
-    "waktu": "25/05/2022 04:18:18 WIB",
-    "lintang": "5.76 LS",
-    "bujur": "103.73 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "25 Km",
-    "wilayah": "Pusat gempa berada di laut 67 km barat daya Pesisir Barat",
-    "warning": [
-      "II - III Liwa",
-      "II Pringsewu",
-      "II Tanggamus"
     ]
   }
 ]
