@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "06/06/2022 10:44:39 WIB",
+    "lintang": "8.66 LS",
+    "bujur": "118.39 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "104 Km",
+    "wilayah": "Pusat gempa berada di laut 16 km BaratDaya Dompu",
+    "warning": [
+      "III Dompu",
+      "III Bima"
+    ]
+  },
+  {
     "waktu": "03/06/2022 07:04:47 WIB",
     "lintang": "3.65 LS",
     "bujur": "128.16 BT",
@@ -236,19 +248,6 @@
     "warning": [
       "III Bima",
       "II Dompu"
-    ]
-  },
-  {
-    "waktu": "25/05/2022 04:18:56 WIB",
-    "lintang": "9.5 LS",
-    "bujur": "115.89 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada di laut 94 km barat daya Lombok Barat",
-    "warning": [
-      "II - III Denpasar",
-      "II - III Lombok Barat",
-      "II Mataram"
     ]
   }
 ]

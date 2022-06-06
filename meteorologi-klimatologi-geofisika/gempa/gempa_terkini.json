@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06-06-22 10:44:39 WIB",
+    "lintang": "-8.66",
+    "bujur": "118.39",
+    "magnitudo": "5.1",
+    "kedalaman": "104 Km",
+    "wilayah": "16 km BaratDaya DOMPU-NTB"
+  },
+  {
     "waktu": "03-06-22 02:19:55 WIB",
     "lintang": "-0.62",
     "bujur": "124.42",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "121 km BaratDaya KODI-SUMBABARATDAYA-NTT"
-  },
-  {
-    "waktu": "17-04-22 12:49:29 WIB",
-    "lintang": "-1.24",
-    "bujur": "137.04",
-    "magnitudo": "5.8",
-    "kedalaman": "10 Km",
-    "wilayah": "111 km TimurLaut KEP-YAPEN-PAPUA"
   }
 ]
