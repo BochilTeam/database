@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06-06-22 15:29:11 WIB",
+    "lintang": "-2.53",
+    "bujur": "139.35",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "17 km Tenggara SARMI-PAPUA"
+  },
+  {
     "waktu": "06-06-22 10:44:39 WIB",
     "lintang": "-8.66",
     "bujur": "118.39",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "105 km TimurLaut KEP-YAPEN-PAPUA"
-  },
-  {
-    "waktu": "17-04-22 17:04:10 WIB",
-    "lintang": "-9.95",
-    "bujur": "117.95",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "121 km BaratDaya KODI-SUMBABARATDAYA-NTT"
   }
 ]
