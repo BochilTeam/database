@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/06/2022 13:03:13 WIB",
+    "lintang": "8.17 LS",
+    "bujur": "117.31 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 37 km Barat Laut Sumbawa",
+    "warning": [
+      "II - III Sumbawa"
+    ]
+  },
+  {
     "waktu": "07/06/2022 09:06:48 WIB",
     "lintang": "3.37 LS",
     "bujur": "128.38 BT",
@@ -236,17 +247,6 @@
     "wilayah": "Pusat gempa berada di laut 14 km BaratDaya Kota Sabang",
     "warning": [
       "I-II Kota Sabang"
-    ]
-  },
-  {
-    "waktu": "25/05/2022 22:05:06 WIB",
-    "lintang": "4.71 LS",
-    "bujur": "92.67 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 819 km BaratDaya Nias Selatan",
-    "warning": [
-      "II - III Nias Selatan"
     ]
   }
 ]
