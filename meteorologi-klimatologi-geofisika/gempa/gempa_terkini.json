@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07-06-22 20:24:14 WIB",
+    "lintang": "0.08",
+    "bujur": "123.70",
+    "magnitudo": "5.8",
+    "kedalaman": "137 Km",
+    "wilayah": "45 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
+  },
+  {
     "waktu": "06-06-22 15:29:11 WIB",
     "lintang": "-2.53",
     "bujur": "139.35",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "106 km TimurLaut KEP-YAPEN-PAPUA"
-  },
-  {
-    "waktu": "17-04-22 18:17:41 WIB",
-    "lintang": "-1.30",
-    "bujur": "137.01",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "105 km TimurLaut KEP-YAPEN-PAPUA"
   }
 ]

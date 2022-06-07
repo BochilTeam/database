@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "07/06/2022 20:24:14 WIB",
+    "lintang": "0.08 LU",
+    "bujur": "123.7 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "137 Km",
+    "wilayah": "Pusat gempa berada di laut 45 km barat daya Bolaang Uki, Bolaang",
+    "warning": [
+      "III Kab. Gorontalo",
+      "III Kota Gorontalo",
+      "III Kab. Pulau Taliabu",
+      "III Kab. Kepulauan Sula",
+      "III Kab. Bangkep",
+      "III Kab. Banggai",
+      "II - III Bolaang Mongondow Timur",
+      "II Kab. Boalemo",
+      "II Kotamobagu",
+      "II Kota Manado",
+      "II Kab. Gorontalo Utara",
+      "II - III Kab. Minahasa Tenggara",
+      "II - III Kab. Minahasa Selatan"
+    ]
+  },
+  {
     "waktu": "07/06/2022 13:03:13 WIB",
     "lintang": "8.17 LS",
     "bujur": "117.31 BT",
@@ -236,17 +259,6 @@
     "warning": [
       "III Mane Pidie",
       "II Tangse Pidie"
-    ]
-  },
-  {
-    "waktu": "26/05/2022 03:24:45 WIB",
-    "lintang": "5.89 LU",
-    "bujur": "95.19 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di laut 14 km BaratDaya Kota Sabang",
-    "warning": [
-      "I-II Kota Sabang"
     ]
   }
 ]
