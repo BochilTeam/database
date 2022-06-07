@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "07/06/2022 09:06:48 WIB",
+    "lintang": "3.37 LS",
+    "bujur": "128.38 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Tenggara Kairatu",
+    "warning": [
+      "III Kairatu"
+    ]
+  },
+  {
+    "waktu": "07/06/2022 08:27:38 WIB",
+    "lintang": "0.82 LS",
+    "bujur": "119.96 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 46 km Tenggara Donggala",
+    "warning": [
+      "II-III Palu"
+    ]
+  },
+  {
     "waktu": "06/06/2022 10:44:39 WIB",
     "lintang": "8.66 LS",
     "bujur": "118.39 BT",
@@ -225,29 +247,6 @@
     "wilayah": "Pusat gempa berada di laut 819 km BaratDaya Nias Selatan",
     "warning": [
       "II - III Nias Selatan"
-    ]
-  },
-  {
-    "waktu": "25/05/2022 21:15:51 WIB",
-    "lintang": "3.38 LS",
-    "bujur": "128.32 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 6 km barat daya Kairatu-Seram Bagian Barat",
-    "warning": [
-      "II Kairatu"
-    ]
-  },
-  {
-    "waktu": "25/05/2022 20:20:49 WIB",
-    "lintang": "8.4 LS",
-    "bujur": "118.55 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km timur laut Dompu",
-    "warning": [
-      "III Bima",
-      "II Dompu"
     ]
   }
 ]
