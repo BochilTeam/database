@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/06/2022 21:25:20 WIB",
+    "lintang": "3.26 LS",
+    "bujur": "128.34 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km utara Kairatu",
+    "warning": [
+      "II Kairatu"
+    ]
+  },
+  {
     "waktu": "08/06/2022 19:47:59 WIB",
     "lintang": "2.75 LS",
     "bujur": "118.5 BT",
@@ -247,22 +258,6 @@
     "warning": [
       "I - II Painan",
       "I - II Padang"
-    ]
-  },
-  {
-    "waktu": "27/05/2022 09:36:06 WIB",
-    "lintang": "8.64 LS",
-    "bujur": "127.2 BT",
-    "magnitudo": "6.5",
-    "kedalaman": "104 Km",
-    "wilayah": "Pusat gempa berada di laut 85 km BaratDaya Maluku Barat Daya",
-    "warning": [
-      "III-IV Alor",
-      "II Kupang",
-      "IV-V Timor Leste",
-      "IV Tiakur",
-      "IV Kisar",
-      "III Damer"
     ]
   }
 ]
