@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "08/06/2022 19:47:59 WIB",
+    "lintang": "2.75 LS",
+    "bujur": "118.5 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 54 km BaratLaut Majene",
+    "warning": [
+      "IV Mamuju",
+      "II-III Majene"
+    ]
+  },
+  {
     "waktu": "08/06/2022 12:32:36 WIB",
     "lintang": "2.74 LS",
     "bujur": "118.54 BT",
@@ -251,23 +263,6 @@
       "IV Tiakur",
       "IV Kisar",
       "III Damer"
-    ]
-  },
-  {
-    "waktu": "27/05/2022 07:38:50 WIB",
-    "lintang": "8.16 LS",
-    "bujur": "107.92 BT",
-    "magnitudo": "4",
-    "kedalaman": "25 Km",
-    "wilayah": "Pusat gempa berada di laut 81 km BaratDaya Pangandaran",
-    "warning": [
-      "III Cipatujah",
-      "III Pangandaran",
-      "III Ciamis",
-      "III Karangnunggal",
-      "III Cikalong",
-      "II Singajaya",
-      "II cikajang"
     ]
   }
 ]
