@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "08/06/2022 12:32:36 WIB",
+    "lintang": "2.74 LS",
+    "bujur": "118.54 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 43 km Barat Daya Mamuju",
+    "warning": [
+      "V Mamuju",
+      "IV Majene",
+      "III Pinrang",
+      "II Palopo",
+      "II - III Palu",
+      "II-III Paser",
+      "II - III Samarinda",
+      "II Sidrap",
+      "II Pangkep",
+      "II Makassar",
+      "II Masamba"
+    ]
+  },
+  {
+    "waktu": "08/06/2022 10:54:42 WIB",
+    "lintang": "0.76 LS",
+    "bujur": "133.81 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km barat laut Pegunungan Arfak",
+    "warning": [
+      "II - III Manokwari"
+    ]
+  },
+  {
     "waktu": "07/06/2022 20:24:14 WIB",
     "lintang": "0.08 LU",
     "bujur": "123.7 BT",
@@ -236,30 +268,6 @@
       "III Cikalong",
       "II Singajaya",
       "II cikajang"
-    ]
-  },
-  {
-    "waktu": "26/05/2022 23:55:12 WIB",
-    "lintang": "0.91 LS",
-    "bujur": "119.94 BT",
-    "magnitudo": "3",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km Timur Palu",
-    "warning": [
-      "II - III Palu",
-      "II - III Sigi"
-    ]
-  },
-  {
-    "waktu": "26/05/2022 20:53:21 WIB",
-    "lintang": "4.85 LU",
-    "bujur": "96.06 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 29 km barat daya Kab. Pidie Jaya",
-    "warning": [
-      "III Mane Pidie",
-      "II Tangse Pidie"
     ]
   }
 ]
