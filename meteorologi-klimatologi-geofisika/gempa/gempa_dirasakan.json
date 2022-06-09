@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "09/06/2022 18:33:37 WIB",
+    "lintang": "9.19 LS",
+    "bujur": "125.03 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km tenggara Belu",
+    "warning": [
+      "II - III Malaka"
+    ]
+  },
+  {
+    "waktu": "09/06/2022 18:21:49 WIB",
+    "lintang": "9.38 LS",
+    "bujur": "125.65 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 84 km TimurLaut Malaka",
+    "warning": [
+      "II - III Malaka"
+    ]
+  },
+  {
     "waktu": "09/06/2022 16:01:21 WIB",
     "lintang": "3.47 LS",
     "bujur": "128.82 BT",
@@ -227,37 +249,6 @@
     "warning": [
       "II Obi",
       "II Labuha"
-    ]
-  },
-  {
-    "waktu": "31/05/2022 14:10:06 WIB",
-    "lintang": "6.18 LS",
-    "bujur": "104.11 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 100 km barat daya Tanggamus",
-    "warning": [
-      "II Kota Bengkulu",
-      "II Kepahiang",
-      "II Kota Agung",
-      "II Pesawaran",
-      "II - III Tanggamus",
-      "III-IV Lampung Barat",
-      "III Liwa",
-      "III Lemong",
-      "II Pringsewu",
-      "II OKU Selatan"
-    ]
-  },
-  {
-    "waktu": "31/05/2022 08:10:26 WIB",
-    "lintang": "3.86 LU",
-    "bujur": "97.33 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km baratdaya Gayo Lues",
-    "warning": [
-      "III Gayo Lues"
     ]
   }
 ]
