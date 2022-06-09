@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "09/06/2022 16:01:21 WIB",
+    "lintang": "3.47 LS",
+    "bujur": "128.82 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 19 km BaratDaya Masohi-MALTENG",
+    "warning": [
+      "III Saparua",
+      "III Masohi"
+    ]
+  },
+  {
     "waktu": "08/06/2022 21:25:20 WIB",
     "lintang": "3.26 LS",
     "bujur": "128.34 BT",
@@ -246,18 +258,6 @@
     "wilayah": "Pusat gempa berada di darat 15 km baratdaya Gayo Lues",
     "warning": [
       "III Gayo Lues"
-    ]
-  },
-  {
-    "waktu": "30/05/2022 13:42:40 WIB",
-    "lintang": "1.75 LS",
-    "bujur": "100.29 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di laut 55 km BaratDaya Painan-Pesisir Selatan",
-    "warning": [
-      "I - II Painan",
-      "I - II Padang"
     ]
   }
 ]
