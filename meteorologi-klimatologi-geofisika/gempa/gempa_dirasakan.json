@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "10/06/2022 19:08:02 WIB",
+    "lintang": "0.21 LS",
+    "bujur": "122.95 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "64 Km",
+    "wilayah": "Pusat gempa berada di laut 85 km barat daya Bonebolango",
+    "warning": [
+      "II Kab. Pohuwato",
+      "II Kab. Gorontalo",
+      "II Kab. Gorontalo Utara",
+      "II Kota Gorontalo"
+    ]
+  },
+  {
     "waktu": "09/06/2022 18:33:37 WIB",
     "lintang": "9.19 LS",
     "bujur": "125.03 BT",
@@ -237,18 +251,6 @@
     "warning": [
       "III Pinangsori",
       "III Sibolga"
-    ]
-  },
-  {
-    "waktu": "02/06/2022 05:55:45 WIB",
-    "lintang": "1.11 LS",
-    "bujur": "127.18 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 62 km BaratDaya Labuha",
-    "warning": [
-      "II Obi",
-      "II Labuha"
     ]
   }
 ]
