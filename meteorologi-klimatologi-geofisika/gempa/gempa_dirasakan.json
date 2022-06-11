@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/06/2022 22:03:16 WIB",
+    "lintang": "6.97 LS",
+    "bujur": "107.16 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km tenggara Kab-Cianjur",
+    "warning": [
+      "I-II Cianjur"
+    ]
+  },
+  {
     "waktu": "10/06/2022 19:08:02 WIB",
     "lintang": "0.21 LS",
     "bujur": "122.95 BT",
@@ -239,18 +250,6 @@
     "wilayah": "Pusat gempa berada di darat 2 km BaratDaya RUTENG-MANGGARAI",
     "warning": [
       "II - III Ruteng"
-    ]
-  },
-  {
-    "waktu": "02/06/2022 07:26:40 WIB",
-    "lintang": "1.66 LU",
-    "bujur": "99.18 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km BaratLaut Tapanuli Selatan",
-    "warning": [
-      "III Pinangsori",
-      "III Sibolga"
     ]
   }
 ]
