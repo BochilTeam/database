@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-06-22 06:55:32 WIB",
+    "lintang": "-8.67",
+    "bujur": "111.42",
+    "magnitudo": "5.3",
+    "kedalaman": "79 Km",
+    "wilayah": "64 km Tenggara PACITAN-JATIM"
+  },
+  {
     "waktu": "08-06-22 12:32:36 WIB",
     "lintang": "-2.74",
     "bujur": "118.54",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "26 km BaratLaut TOBELO-MALUT"
-  },
-  {
-    "waktu": "18-04-22 03:37:20 WIB",
-    "lintang": "-0.04",
-    "bujur": "123.73",
-    "magnitudo": "5.2",
-    "kedalaman": "128 Km",
-    "wilayah": "54 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
   }
 ]

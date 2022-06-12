@@ -1,5 +1,42 @@
 [
   {
+    "waktu": "12/06/2022 06:55:32 WIB",
+    "lintang": "8.67 LS",
+    "bujur": "111.42 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "79 Km",
+    "wilayah": "Pusat gempa berada di laut 64 km tenggara Pacitan",
+    "warning": [
+      "II-III Kulon Progo",
+      "II-III Bantul",
+      "II - III Wonogiri",
+      "II-III Gunung Kidul",
+      "II - III Pacitan",
+      "II-III Cilacap",
+      "II - III Karangkates",
+      "II - III Ponorogo",
+      "II - III Nganjuk",
+      "II - III Blitar",
+      "II - III Trenggalek",
+      "II - III Klaten",
+      "II - III karanganyar",
+      "II Lumajang",
+      "II Madiun",
+      "II Kepanjen"
+    ]
+  },
+  {
+    "waktu": "12/06/2022 05:18:27 WIB",
+    "lintang": "2.39 LS",
+    "bujur": "121.35 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 15 Km Utara Soroako Kabupaten Luwu Timur",
+    "warning": [
+      "II - III Malili"
+    ]
+  },
+  {
     "waktu": "11/06/2022 22:03:16 WIB",
     "lintang": "6.97 LS",
     "bujur": "107.16 BT",
@@ -227,29 +264,6 @@
       "IV Masamba",
       "III Luwu Timur",
       "II  Palopo"
-    ]
-  },
-  {
-    "waktu": "02/06/2022 15:02:55 WIB",
-    "lintang": "8.31 LS",
-    "bujur": "120.58 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 35 km timur laut Ruteng",
-    "warning": [
-      "III Manggarai Timur",
-      "II-III Ruteng"
-    ]
-  },
-  {
-    "waktu": "02/06/2022 14:04:47 WIB",
-    "lintang": "8.62 LS",
-    "bujur": "120.44 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km BaratDaya RUTENG-MANGGARAI",
-    "warning": [
-      "II - III Ruteng"
     ]
   }
 ]
