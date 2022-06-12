@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/06/2022 16:08:45 WIB",
+    "lintang": "3.8 LS",
+    "bujur": "128.26 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 15 km Tenggara Ambon",
+    "warning": [
+      "III Ambon"
+    ]
+  },
+  {
     "waktu": "12/06/2022 10:25:26 WIB",
     "lintang": "9.72 LS",
     "bujur": "119.08 BT",
@@ -252,17 +263,6 @@
     "warning": [
       "II-III Amahai",
       "II-III Saparua"
-    ]
-  },
-  {
-    "waktu": "03/06/2022 02:19:55 WIB",
-    "lintang": "0.62 LS",
-    "bujur": "124.42 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 120 km tenggara Bolaanguki-Bolaang Mongondow Selatan",
-    "warning": [
-      "III Kotamobagu"
     ]
   }
 ]
