@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/06/2022 21:04:54 WIB",
+    "lintang": "7.06 LS",
+    "bujur": "120.97 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 100 km tenggara Selayar",
+    "warning": [
+      "III Pulau Madu"
+    ]
+  },
+  {
     "waktu": "12/06/2022 17:20:14 WIB",
     "lintang": "8.39 LS",
     "bujur": "117.24 BT",
@@ -253,17 +264,6 @@
     "warning": [
       "III Dompu",
       "III Bima"
-    ]
-  },
-  {
-    "waktu": "03/06/2022 07:04:47 WIB",
-    "lintang": "3.65 LS",
-    "bujur": "128.16 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km Baratlaut Ambon",
-    "warning": [
-      "II Paso"
     ]
   }
 ]
