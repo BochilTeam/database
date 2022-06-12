@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "12/06/2022 10:25:26 WIB",
+    "lintang": "9.72 LS",
+    "bujur": "119.08 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 17 km Tenggara KODI-SUMBA BARAT DAYA",
+    "warning": [
+      "II - III Tambolaka",
+      "II Waikabubak"
+    ]
+  },
+  {
     "waktu": "12/06/2022 06:55:32 WIB",
     "lintang": "8.67 LS",
     "bujur": "111.42 BT",
@@ -251,19 +263,6 @@
     "wilayah": "Pusat gempa berada di laut 120 km tenggara Bolaanguki-Bolaang Mongondow Selatan",
     "warning": [
       "III Kotamobagu"
-    ]
-  },
-  {
-    "waktu": "03/06/2022 00:31:27 WIB",
-    "lintang": "2.12 LS",
-    "bujur": "120.55 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 66 km TimurLaut LUWU UTARA",
-    "warning": [
-      "IV Masamba",
-      "III Luwu Timur",
-      "II  Palopo"
     ]
   }
 ]
