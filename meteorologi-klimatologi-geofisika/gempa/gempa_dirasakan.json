@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "12/06/2022 17:20:14 WIB",
+    "lintang": "8.39 LS",
+    "bujur": "117.24 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 22 km barat laut Sumbawa",
+    "warning": [
+      "III Sumbawa",
+      "II - III Sumbawa Barat",
+      "II Lombok Timur"
+    ]
+  },
+  {
     "waktu": "12/06/2022 16:08:45 WIB",
     "lintang": "3.8 LS",
     "bujur": "128.26 BT",
@@ -251,18 +264,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km Baratlaut Ambon",
     "warning": [
       "II Paso"
-    ]
-  },
-  {
-    "waktu": "03/06/2022 03:19:10 WIB",
-    "lintang": "3.43 LS",
-    "bujur": "128.83 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 15 km baratdaya Masohi",
-    "warning": [
-      "II-III Amahai",
-      "II-III Saparua"
     ]
   }
 ]
