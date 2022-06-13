@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/06/2022 19:25:36 WIB",
+    "lintang": "4.68 LS",
+    "bujur": "123.32 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 12.5 km Timur laut Kulisusu Utara Buton",
+    "warning": [
+      "II - III Kulisusu"
+    ]
+  },
+  {
     "waktu": "13/06/2022 14:38:42 WIB",
     "lintang": "2.74 LS",
     "bujur": "135.88 BT",
@@ -253,17 +264,6 @@
     "wilayah": "Pusat gempa berada di laut 37 km Barat Laut Sumbawa",
     "warning": [
       "II - III Sumbawa"
-    ]
-  },
-  {
-    "waktu": "07/06/2022 09:06:48 WIB",
-    "lintang": "3.37 LS",
-    "bujur": "128.38 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km Tenggara Kairatu",
-    "warning": [
-      "III Kairatu"
     ]
   }
 ]
