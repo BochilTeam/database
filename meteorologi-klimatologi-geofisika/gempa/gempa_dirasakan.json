@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "19/06/2022 01:31:54 WIB",
+    "lintang": "7.27 LS",
+    "bujur": "110.22 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km TimurLaut Temanggung",
+    "warning": [
+      "II Ambarawa"
+    ]
+  },
+  {
     "waktu": "18/06/2022 18:22:19 WIB",
     "lintang": "4.93 LS",
     "bujur": "102.98 BT",
@@ -249,30 +260,6 @@
     "wilayah": "Pusat gempa berada di darat 22 km barat laut Pegunungan Arfak",
     "warning": [
       "II - III Manokwari"
-    ]
-  },
-  {
-    "waktu": "07/06/2022 20:24:14 WIB",
-    "lintang": "0.08 LU",
-    "bujur": "123.7 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "137 Km",
-    "wilayah": "Pusat gempa berada di laut 45 km barat daya Bolaang Uki, Bolaang",
-    "warning": [
-      "III Kab. Gorontalo",
-      "III Kota Gorontalo",
-      "III Kab. Pulau Taliabu",
-      "III Kab. Kepulauan Sula",
-      "III Kab. Bangkep",
-      "III Kab. Banggai",
-      "II Kab. Bolaang Mongondow",
-      "II - III Bolaang Mongondow Timur",
-      "II Kab. Boalemo",
-      "II Kotamobagu",
-      "II Kota Manado",
-      "II Kab. Gorontalo Utara",
-      "II - III Kab. Minahasa Tenggara",
-      "II - III Kab. Minahasa Selatan"
     ]
   }
 ]
