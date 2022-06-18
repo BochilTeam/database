@@ -1,5 +1,25 @@
 [
   {
+    "waktu": "18/06/2022 18:22:19 WIB",
+    "lintang": "4.93 LS",
+    "bujur": "102.98 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di laut 43 km Barat Daya Kaur",
+    "warning": [
+      "IV-V Kepahiang",
+      "IV Kota Bengkulu",
+      "IV Seluma",
+      "IV Rejang Lebong",
+      "III-IV Kaur",
+      "III Liwa",
+      "III Muko-muko",
+      "II Sekincau",
+      "II Pesisir Barat",
+      "II Limau"
+    ]
+  },
+  {
     "waktu": "13/06/2022 19:25:36 WIB",
     "lintang": "4.68 LS",
     "bujur": "123.32 BT",
@@ -253,17 +273,6 @@
       "II Kab. Gorontalo Utara",
       "II - III Kab. Minahasa Tenggara",
       "II - III Kab. Minahasa Selatan"
-    ]
-  },
-  {
-    "waktu": "07/06/2022 13:03:13 WIB",
-    "lintang": "8.17 LS",
-    "bujur": "117.31 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 37 km Barat Laut Sumbawa",
-    "warning": [
-      "II - III Sumbawa"
     ]
   }
 ]

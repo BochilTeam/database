@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18-06-22 18:22:19 WIB",
+    "lintang": "-4.93",
+    "bujur": "102.98",
+    "magnitudo": "5.4",
+    "kedalaman": "26 Km",
+    "wilayah": "43 km BaratDaya KAUR-BENGKULU"
+  },
+  {
     "waktu": "17-06-22 23:45:01 WIB",
     "lintang": "-7.39",
     "bujur": "129.38",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "11 Km",
     "wilayah": "82 km BaratDaya BANGGAIKEP-SULTENG"
-  },
-  {
-    "waktu": "20-04-22 04:20:04 WIB",
-    "lintang": "3.63",
-    "bujur": "126.77",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "44 km Tenggara MELONGUANE-SULUT"
   }
 ]
