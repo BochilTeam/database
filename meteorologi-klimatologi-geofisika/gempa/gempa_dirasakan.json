@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "19/06/2022 22:51:49 WIB",
+    "lintang": "2.98 LS",
+    "bujur": "118.86 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km barat laut Majene",
+    "warning": [
+      "III Malunda",
+      "III Tapalang"
+    ]
+  },
+  {
     "waktu": "19/06/2022 01:31:54 WIB",
     "lintang": "7.27 LS",
     "bujur": "110.22 BT",
@@ -249,17 +261,6 @@
       "II Pangkep",
       "II Makassar",
       "II Masamba"
-    ]
-  },
-  {
-    "waktu": "08/06/2022 10:54:42 WIB",
-    "lintang": "0.76 LS",
-    "bujur": "133.81 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 22 km barat laut Pegunungan Arfak",
-    "warning": [
-      "II - III Manokwari"
     ]
   }
 ]
