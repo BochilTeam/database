@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "20/06/2022 12:01:37 WIB",
+    "lintang": "2.2 LU",
+    "bujur": "96.23 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "77 Km",
+    "wilayah": "Pusat gempa berada di laut 33 km barat daya Sinabang",
+    "warning": [
+      "III Lasikin Simeulue",
+      "III Sinabang"
+    ]
+  },
+  {
     "waktu": "19/06/2022 22:51:49 WIB",
     "lintang": "2.98 LS",
     "bujur": "118.86 BT",
@@ -240,27 +252,6 @@
     "warning": [
       "IV Mamuju",
       "II-III Majene"
-    ]
-  },
-  {
-    "waktu": "08/06/2022 12:32:36 WIB",
-    "lintang": "2.74 LS",
-    "bujur": "118.54 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 43 km Barat Daya Mamuju",
-    "warning": [
-      "V Mamuju",
-      "IV Majene",
-      "III Pinrang",
-      "II Palopo",
-      "II - III Palu",
-      "II-III Paser",
-      "II - III Samarinda",
-      "II Sidrap",
-      "II Pangkep",
-      "II Makassar",
-      "II Masamba"
     ]
   }
 ]
