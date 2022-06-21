@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22-06-22 02:08:17 WIB",
+    "lintang": "2.08",
+    "bujur": "96.35",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "43 km BaratDaya SINABANG-ACEH"
+  },
+  {
     "waktu": "18-06-22 18:22:19 WIB",
     "lintang": "-4.93",
     "bujur": "102.98",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "24 Km",
     "wilayah": "6 km Tenggara MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "20-04-22 17:21:48 WIB",
-    "lintang": "-1.80",
-    "bujur": "122.48",
-    "magnitudo": "5.0",
-    "kedalaman": "11 Km",
-    "wilayah": "82 km BaratDaya BANGGAIKEP-SULTENG"
   }
 ]

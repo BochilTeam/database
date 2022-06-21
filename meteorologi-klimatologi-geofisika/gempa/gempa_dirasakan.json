@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/06/2022 02:08:17 WIB",
+    "lintang": "2.08 LU",
+    "bujur": "96.35 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 43 km baratdaya Sinabang",
+    "warning": [
+      "IV Sinabang"
+    ]
+  },
+  {
     "waktu": "20/06/2022 12:01:37 WIB",
     "lintang": "2.2 LU",
     "bujur": "96.23 BT",
@@ -240,18 +251,6 @@
     "wilayah": "Pusat gempa berada di darat 9 km utara Kairatu",
     "warning": [
       "II Kairatu"
-    ]
-  },
-  {
-    "waktu": "08/06/2022 19:47:59 WIB",
-    "lintang": "2.75 LS",
-    "bujur": "118.5 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 54 km BaratLaut Majene",
-    "warning": [
-      "IV Mamuju",
-      "II-III Majene"
     ]
   }
 ]
