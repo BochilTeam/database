@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22-06-22 12:01:20 WIB",
+    "lintang": "-7.50",
+    "bujur": "120.49",
+    "magnitudo": "5.6",
+    "kedalaman": "497 Km",
+    "wilayah": "123 km TimurLaut RUTENG-MANGGARAI-NTT"
+  },
+  {
     "waktu": "22-06-22 02:08:17 WIB",
     "lintang": "2.08",
     "bujur": "96.35",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "16 Km",
     "wilayah": "113 km BaratDaya NIASBARAT-SUMUT"
-  },
-  {
-    "waktu": "21-04-22 05:02:47 WIB",
-    "lintang": "3.94",
-    "bujur": "126.68",
-    "magnitudo": "5.2",
-    "kedalaman": "24 Km",
-    "wilayah": "6 km Tenggara MELONGUANE-SULUT"
   }
 ]
