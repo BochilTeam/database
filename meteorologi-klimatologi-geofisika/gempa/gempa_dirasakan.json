@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/06/2022 13:48:08 WIB",
+    "lintang": "2.1 LU",
+    "bujur": "96.46 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 42 km tenggara Sinabang",
+    "warning": [
+      "II - III Sinabang"
+    ]
+  },
+  {
     "waktu": "22/06/2022 02:08:17 WIB",
     "lintang": "2.08 LU",
     "bujur": "96.35 BT",
@@ -240,17 +251,6 @@
     "warning": [
       "III Saparua",
       "III Masohi"
-    ]
-  },
-  {
-    "waktu": "08/06/2022 21:25:20 WIB",
-    "lintang": "3.26 LS",
-    "bujur": "128.34 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km utara Kairatu",
-    "warning": [
-      "II Kairatu"
     ]
   }
 ]
