@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23-06-22 21:59:00 WIB",
+    "lintang": "-6.18",
+    "bujur": "130.32",
+    "magnitudo": "5.1",
+    "kedalaman": "21 Km",
+    "wilayah": "227 km BaratLaut MALUKUTENGGARABRT"
+  },
+  {
     "waktu": "22-06-22 12:01:20 WIB",
     "lintang": "-7.50",
     "bujur": "120.49",
@@ -230,13 +238,5 @@
     "magnitudo": "5.7",
     "kedalaman": "87 Km",
     "wilayah": "43 km BaratDaya KEEROM-PAPUA"
-  },
-  {
-    "waktu": "22-04-22 03:23:34 WIB",
-    "lintang": "0.41",
-    "bujur": "96.60",
-    "magnitudo": "5.0",
-    "kedalaman": "16 Km",
-    "wilayah": "113 km BaratDaya NIASBARAT-SUMUT"
   }
 ]
