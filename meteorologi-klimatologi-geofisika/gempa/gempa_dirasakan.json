@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/06/2022 11:03:47 WIB",
+    "lintang": "3.33 LS",
+    "bujur": "135.64 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 23 km BaratLaut Nabire",
+    "warning": [
+      "I-II Nabire"
+    ]
+  },
+  {
     "waktu": "23/06/2022 10:49:45 WIB",
     "lintang": "3.39 LS",
     "bujur": "135.56 BT",
@@ -237,17 +248,6 @@
     "magnitudo": "4.2",
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di darat 14 km tenggara Belu",
-    "warning": [
-      "II - III Malaka"
-    ]
-  },
-  {
-    "waktu": "09/06/2022 18:21:49 WIB",
-    "lintang": "9.38 LS",
-    "bujur": "125.65 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 84 km TimurLaut Malaka",
     "warning": [
       "II - III Malaka"
     ]
