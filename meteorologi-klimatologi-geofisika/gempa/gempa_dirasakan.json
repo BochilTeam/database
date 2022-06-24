@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "25/06/2022 01:56:34 WIB",
+    "lintang": "1.86 LS",
+    "bujur": "100.36 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di laut 60 km BaratLaut Airhaji-Pesisir Selatan",
+    "warning": [
+      "III Painan",
+      "II-III Padang"
+    ]
+  },
+  {
     "waktu": "24/06/2022 21:22:54 WIB",
     "lintang": "4.74 LU",
     "bujur": "94.89 BT",
@@ -220,17 +232,6 @@
       "III Sumbawa",
       "II - III Sumbawa Barat",
       "II Lombok Timur"
-    ]
-  },
-  {
-    "waktu": "12/06/2022 16:08:45 WIB",
-    "lintang": "3.8 LS",
-    "bujur": "128.26 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 15 km Tenggara Ambon",
-    "warning": [
-      "III Ambon"
     ]
   }
 ]
