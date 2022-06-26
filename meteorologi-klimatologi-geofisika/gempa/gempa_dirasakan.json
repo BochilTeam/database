@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "26/06/2022 19:25:36 WIB",
+    "lintang": "8.76 LS",
+    "bujur": "115.32 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "81 Km",
+    "wilayah": "Pusat gempa berada di laut 11 km timur laut Kuta Selatan",
+    "warning": [
+      "III Mataram",
+      "III Gianyar",
+      "III Nusa Dua",
+      "III Kuta",
+      "III Lombok Barat",
+      "II Karangasem"
+    ]
+  },
+  {
     "waktu": "26/06/2022 12:43:47 WIB",
     "lintang": "3.63 LS",
     "bujur": "135.7 BT",
@@ -218,18 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 87 Km Timur laut Nabire",
     "warning": [
       "II Nabire"
-    ]
-  },
-  {
-    "waktu": "13/06/2022 11:51:21 WIB",
-    "lintang": "2.78 LS",
-    "bujur": "118.55 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 48 Km Barat laut Majene",
-    "warning": [
-      "II Mamuju",
-      "II Malunda"
     ]
   }
 ]
