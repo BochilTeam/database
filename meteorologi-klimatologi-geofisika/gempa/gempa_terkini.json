@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28-06-22 22:52:12 WIB",
+    "lintang": "-9.41",
+    "bujur": "123.67",
+    "magnitudo": "5.0",
+    "kedalaman": "78 Km",
+    "wilayah": "68 km BaratLaut KAB-KUPANG-NTT"
+  },
+  {
     "waktu": "23-06-22 21:59:00 WIB",
     "lintang": "-6.18",
     "bujur": "130.32",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "115 km Selatan LOMBOKTENGAH-NTB"
-  },
-  {
-    "waktu": "25-04-22 06:50:33 WIB",
-    "lintang": "-3.67",
-    "bujur": "140.55",
-    "magnitudo": "5.7",
-    "kedalaman": "87 Km",
-    "wilayah": "43 km BaratDaya KEEROM-PAPUA"
   }
 ]
