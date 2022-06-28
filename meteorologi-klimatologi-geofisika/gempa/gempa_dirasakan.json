@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/06/2022 02:42:15 WIB",
+    "lintang": "3.65 LS",
+    "bujur": "128.19 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km Utara Ambon",
+    "warning": [
+      "II Ambon"
+    ]
+  },
+  {
     "waktu": "28/06/2022 22:52:12 WIB",
     "lintang": "9.41 LS",
     "bujur": "123.67 BT",
@@ -215,26 +226,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km TimurLaut Temanggung",
     "warning": [
       "II Ambarawa"
-    ]
-  },
-  {
-    "waktu": "18/06/2022 18:22:19 WIB",
-    "lintang": "4.93 LS",
-    "bujur": "102.98 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "26 Km",
-    "wilayah": "Pusat gempa berada di laut 43 km Barat Daya Kaur",
-    "warning": [
-      "IV-V Kepahiang",
-      "IV Kota Bengkulu",
-      "IV Seluma",
-      "IV Rejang Lebong",
-      "III-IV Kaur",
-      "III Liwa",
-      "III Muko-muko",
-      "II Sekincau",
-      "II Pesisir Barat",
-      "II Limau"
     ]
   }
 ]
