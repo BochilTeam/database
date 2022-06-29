@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/06/2022 07:41:32 WIB",
+    "lintang": "0.73 LU",
+    "bujur": "125 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 42 km Tenggara Ratahan-Mitra",
+    "warning": [
+      "II Kab. Minahasa Selatan"
+    ]
+  },
+  {
     "waktu": "29/06/2022 02:42:15 WIB",
     "lintang": "3.65 LS",
     "bujur": "128.19 BT",
@@ -215,17 +226,6 @@
     "warning": [
       "III Malunda",
       "III Tapalang"
-    ]
-  },
-  {
-    "waktu": "19/06/2022 01:31:54 WIB",
-    "lintang": "7.27 LS",
-    "bujur": "110.22 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km TimurLaut Temanggung",
-    "warning": [
-      "II Ambarawa"
     ]
   }
 ]
