@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/06/2022 22:22:43 WIB",
+    "lintang": "2.42 LS",
+    "bujur": "140.43 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km timur laut Kab. Jayapura",
+    "warning": [
+      "II Sentani"
+    ]
+  },
+  {
     "waktu": "29/06/2022 07:41:32 WIB",
     "lintang": "0.73 LU",
     "bujur": "125 BT",
@@ -214,18 +225,6 @@
     "warning": [
       "III Lasikin Simeulue",
       "III Sinabang"
-    ]
-  },
-  {
-    "waktu": "19/06/2022 22:51:49 WIB",
-    "lintang": "2.98 LS",
-    "bujur": "118.86 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km barat laut Majene",
-    "warning": [
-      "III Malunda",
-      "III Tapalang"
     ]
   }
 ]
