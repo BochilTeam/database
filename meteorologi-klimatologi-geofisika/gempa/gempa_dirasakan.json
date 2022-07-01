@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/07/2022 08:54:58 WIB",
+    "lintang": "4.88 LU",
+    "bujur": "96.04 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 29 km BaratDaya Kab. PidieJaya",
+    "warning": [
+      "II Mane Pidie"
+    ]
+  },
+  {
     "waktu": "30/06/2022 22:22:43 WIB",
     "lintang": "2.42 LS",
     "bujur": "140.43 BT",
@@ -213,18 +224,6 @@
     "wilayah": "Pusat gempa berada di laut 43 km baratdaya Sinabang",
     "warning": [
       "IV Sinabang"
-    ]
-  },
-  {
-    "waktu": "20/06/2022 12:01:37 WIB",
-    "lintang": "2.2 LU",
-    "bujur": "96.23 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "77 Km",
-    "wilayah": "Pusat gempa berada di laut 33 km barat daya Sinabang",
-    "warning": [
-      "III Lasikin Simeulue",
-      "III Sinabang"
     ]
   }
 ]
