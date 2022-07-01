@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01-07-22 05:09:42 WIB",
+    "lintang": "-2.57",
+    "bujur": "109.98",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "126 km BaratDaya KETAPANG-KALBAR"
+  },
+  {
     "waktu": "28-06-22 22:52:12 WIB",
     "lintang": "-9.41",
     "bujur": "123.67",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "47 km Tenggara SELAYAR-SULSEL"
-  },
-  {
-    "waktu": "30-04-22 01:25:25 WIB",
-    "lintang": "-9.75",
-    "bujur": "116.27",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "115 km Selatan LOMBOKTENGAH-NTB"
   }
 ]
