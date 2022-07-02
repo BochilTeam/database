@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/07/2022 02:05:28 WIB",
+    "lintang": "8.05 LS",
+    "bujur": "116.81 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 44 km baratlaut Pulau Panjang",
+    "warning": [
+      "II Sumbawa"
+    ]
+  },
+  {
     "waktu": "01/07/2022 08:54:58 WIB",
     "lintang": "4.88 LU",
     "bujur": "96.04 BT",
@@ -213,17 +224,6 @@
     "wilayah": "Pusat gempa berada di laut 42 km tenggara Sinabang",
     "warning": [
       "II - III Sinabang"
-    ]
-  },
-  {
-    "waktu": "22/06/2022 02:08:17 WIB",
-    "lintang": "2.08 LU",
-    "bujur": "96.35 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 43 km baratdaya Sinabang",
-    "warning": [
-      "IV Sinabang"
     ]
   }
 ]
