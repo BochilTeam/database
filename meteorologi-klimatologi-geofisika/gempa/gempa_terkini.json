@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "03-07-22 07:10:37 WIB",
+    "lintang": "4.46",
+    "bujur": "96.55",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "36 km TimurLaut KAB-NAGANRAYA-ACEH"
+  },
+  {
+    "waktu": "03-07-22 06:49:13 WIB",
+    "lintang": "1.05",
+    "bujur": "126.12",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "119 km Tenggara BITUNG-SULUT"
+  },
+  {
     "waktu": "01-07-22 05:09:42 WIB",
     "lintang": "-2.57",
     "bujur": "109.98",
@@ -222,21 +238,5 @@
     "magnitudo": "5.8",
     "kedalaman": "10 Km",
     "wilayah": "72 km BaratLaut HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "08-05-22 09:29:04 WIB",
-    "lintang": "3.63",
-    "bujur": "127.01",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "55 km Tenggara MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "30-04-22 20:04:59 WIB",
-    "lintang": "-6.67",
-    "bujur": "120.70",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "47 km Tenggara SELAYAR-SULSEL"
   }
 ]

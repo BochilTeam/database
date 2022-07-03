@@ -1,5 +1,40 @@
 [
   {
+    "waktu": "03/07/2022 07:28:44 WIB",
+    "lintang": "4.42 LU",
+    "bujur": "96.59 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 36 km Baratdaya Takengon-Aceh Tengah",
+    "warning": [
+      "II Aceh Tengah"
+    ]
+  },
+  {
+    "waktu": "03/07/2022 07:10:37 WIB",
+    "lintang": "4.46 LU",
+    "bujur": "96.55 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 36 km timur laut Kab. Nagan Raya",
+    "warning": [
+      "III Aceh Tengah",
+      "II - III Bener Meriah"
+    ]
+  },
+  {
+    "waktu": "03/07/2022 06:49:13 WIB",
+    "lintang": "1.05 LU",
+    "bujur": "126.12 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 119 km tenggara Bitung",
+    "warning": [
+      "II Manado",
+      "II Tondano"
+    ]
+  },
+  {
     "waktu": "03/07/2022 02:05:28 WIB",
     "lintang": "8.05 LS",
     "bujur": "116.81 BT",
@@ -191,39 +226,6 @@
     "wilayah": "Pusat gempa berada di darat 34 km BaratLaut Nabire",
     "warning": [
       "III-IV Nabire"
-    ]
-  },
-  {
-    "waktu": "23/06/2022 11:03:47 WIB",
-    "lintang": "3.33 LS",
-    "bujur": "135.64 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 23 km BaratLaut Nabire",
-    "warning": [
-      "I-II Nabire"
-    ]
-  },
-  {
-    "waktu": "23/06/2022 10:49:45 WIB",
-    "lintang": "3.39 LS",
-    "bujur": "135.56 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 25 km BaratLaut Nabire",
-    "warning": [
-      "II Nabire"
-    ]
-  },
-  {
-    "waktu": "22/06/2022 13:48:08 WIB",
-    "lintang": "2.1 LU",
-    "bujur": "96.46 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 42 km tenggara Sinabang",
-    "warning": [
-      "II - III Sinabang"
     ]
   }
 ]
