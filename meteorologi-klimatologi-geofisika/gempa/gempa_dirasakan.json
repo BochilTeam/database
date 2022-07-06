@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "06/07/2022 06:27:08 WIB",
+    "lintang": "0.87 LU",
+    "bujur": "126.89 BT",
+    "magnitudo": "5",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 54 km barat laut Ternate",
+    "warning": [
+      "II-III Ternate",
+      "II - III Halmahera Barat",
+      "II Halmahera Tengah"
+    ]
+  },
+  {
     "waktu": "03/07/2022 07:28:44 WIB",
     "lintang": "4.42 LU",
     "bujur": "96.59 BT",
@@ -215,17 +228,6 @@
     "wilayah": "Pusat gempa berada di darat 30 km BaratLaut Nabire",
     "warning": [
       "III Nabire"
-    ]
-  },
-  {
-    "waktu": "23/06/2022 17:56:40 WIB",
-    "lintang": "3.46 LS",
-    "bujur": "135.45 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 34 km BaratLaut Nabire",
-    "warning": [
-      "III-IV Nabire"
     ]
   }
 ]

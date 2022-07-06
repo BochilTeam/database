@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06-07-22 06:27:08 WIB",
+    "lintang": "0.87",
+    "bujur": "126.89",
+    "magnitudo": "5.0",
+    "kedalaman": "13 Km",
+    "wilayah": "54 km BaratLaut TERNATE-MALUT"
+  },
+  {
     "waktu": "05-07-22 21:56:25 WIB",
     "lintang": "-5.40",
     "bujur": "131.11",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "183 Km",
     "wilayah": "182 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
-    "waktu": "10-05-22 10:43:23 WIB",
-    "lintang": "-5.92",
-    "bujur": "128.36",
-    "magnitudo": "5.4",
-    "kedalaman": "340 Km",
-    "wilayah": "241 km Tenggara BURUSELATAN-MALUKU"
   }
 ]
