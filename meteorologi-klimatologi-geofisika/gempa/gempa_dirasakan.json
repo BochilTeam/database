@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "06/07/2022 18:53:50 WIB",
+    "lintang": "8.75 LS",
+    "bujur": "121.6 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km BaratLaut ENDE",
+    "warning": [
+      "III Ende"
+    ]
+  },
+  {
     "waktu": "06/07/2022 06:27:08 WIB",
     "lintang": "0.87 LU",
     "bujur": "126.89 BT",
@@ -217,17 +228,6 @@
     "wilayah": "Pusat gempa berada di laut 32 km BaratLaut Kab-Jayapura",
     "warning": [
       "II - III Genyem"
-    ]
-  },
-  {
-    "waktu": "23/06/2022 17:57:09 WIB",
-    "lintang": "3.43 LS",
-    "bujur": "135.49 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 30 km BaratLaut Nabire",
-    "warning": [
-      "III Nabire"
     ]
   }
 ]
