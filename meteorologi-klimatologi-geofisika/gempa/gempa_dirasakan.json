@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/07/2022 21:35:20 WIB",
+    "lintang": "8.13 LS",
+    "bujur": "120.55 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "30 Km",
+    "wilayah": "Pusat gempa berada di laut 54 km Timur laut Ruteng - Manggarai",
+    "warning": [
+      "II - III Ruteng"
+    ]
+  },
+  {
     "waktu": "06/07/2022 18:53:50 WIB",
     "lintang": "8.75 LS",
     "bujur": "121.6 BT",
@@ -217,17 +228,6 @@
     "wilayah": "Pusat gempa berada di darat 25 km BaratDaya Nabire",
     "warning": [
       "II Nabire"
-    ]
-  },
-  {
-    "waktu": "23/06/2022 17:59:39 WIB",
-    "lintang": "2.31 LS",
-    "bujur": "140.3 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 32 km BaratLaut Kab-Jayapura",
-    "warning": [
-      "II - III Genyem"
     ]
   }
 ]
