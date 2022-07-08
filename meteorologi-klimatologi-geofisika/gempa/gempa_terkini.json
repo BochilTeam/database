@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09-07-22 03:27:07 WIB",
+    "lintang": "-9.64",
+    "bujur": "112.91",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "171 km BaratDaya LUMAJANG-JATIM"
+  },
+  {
     "waktu": "06-07-22 12:10:19 WIB",
     "lintang": "-5.08",
     "bujur": "101.01",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "116 Km",
     "wilayah": "74 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
-  },
-  {
-    "waktu": "12-05-22 00:27:36 WIB",
-    "lintang": "4.60",
-    "bujur": "94.84",
-    "magnitudo": "5.2",
-    "kedalaman": "13 Km",
-    "wilayah": "82 km BaratDaya CALANG-ACEHJAYA"
   }
 ]

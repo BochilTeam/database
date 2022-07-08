@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "09/07/2022 03:27:07 WIB",
+    "lintang": "9.64 LS",
+    "bujur": "112.91 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 171 km Barat Daya Lumajang",
+    "warning": [
+      "II Karangkates",
+      "II Kepanjen",
+      "II Lumajang",
+      "II Blitar"
+    ]
+  },
+  {
     "waktu": "07/07/2022 21:35:20 WIB",
     "lintang": "8.13 LS",
     "bujur": "120.55 BT",
@@ -215,17 +229,6 @@
     "magnitudo": "3.4",
     "kedalaman": "13 Km",
     "wilayah": "Pusat gempa berada di darat 24 km BaratLaut Nabire",
-    "warning": [
-      "II Nabire"
-    ]
-  },
-  {
-    "waktu": "23/06/2022 18:26:47 WIB",
-    "lintang": "3.63 LS",
-    "bujur": "135.56 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 25 km BaratDaya Nabire",
     "warning": [
       "II Nabire"
     ]
