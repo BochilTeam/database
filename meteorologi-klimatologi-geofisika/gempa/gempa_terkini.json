@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "09-07-22 09:53:44 WIB",
+    "lintang": "-9.61",
+    "bujur": "112.91",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "167 km BaratDaya LUMAJANG-JATIM"
+  },
+  {
+    "waktu": "09-07-22 08:08:39 WIB",
+    "lintang": "5.51",
+    "bujur": "126.48",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "169 km BaratLaut MELONGUANE-SULUT"
+  },
+  {
+    "waktu": "09-07-22 05:50:16 WIB",
+    "lintang": "-9.57",
+    "bujur": "112.93",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "163 km BaratDaya LUMAJANG-JATIM"
+  },
+  {
     "waktu": "09-07-22 03:27:07 WIB",
     "lintang": "-9.64",
     "bujur": "112.91",
@@ -214,29 +238,5 @@
     "magnitudo": "6.0",
     "kedalaman": "10 Km",
     "wilayah": "51 km BaratDaya ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "16-05-22 18:43:25 WIB",
-    "lintang": "-0.77",
-    "bujur": "133.21",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "72 km BaratLaut PEGUNUNGANARFAK-PAPUABRT"
-  },
-  {
-    "waktu": "14-05-22 09:25:20 WIB",
-    "lintang": "-3.06",
-    "bujur": "139.86",
-    "magnitudo": "5.3",
-    "kedalaman": "90 Km",
-    "wilayah": "8 km Tenggara KAB-JAYAPURA-PAPUA"
-  },
-  {
-    "waktu": "12-05-22 14:22:12 WIB",
-    "lintang": "-0.06",
-    "bujur": "123.48",
-    "magnitudo": "5.2",
-    "kedalaman": "116 Km",
-    "wilayah": "74 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
   }
 ]

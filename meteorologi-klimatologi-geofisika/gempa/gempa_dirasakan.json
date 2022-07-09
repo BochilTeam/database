@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "09/07/2022 09:53:44 WIB",
+    "lintang": "9.61 LS",
+    "bujur": "112.91 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 167 km BaratDaya Lumajang",
+    "warning": [
+      "II - III Pasirian",
+      "II - III Lumajang",
+      "II Kepanjen",
+      "II Kota Malang"
+    ]
+  },
+  {
     "waktu": "09/07/2022 03:27:07 WIB",
     "lintang": "9.64 LS",
     "bujur": "112.91 BT",
@@ -220,17 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 77 km Barat laut Calang - Aceh",
     "warning": [
       "II Aceh Jaya"
-    ]
-  },
-  {
-    "waktu": "23/06/2022 19:04:55 WIB",
-    "lintang": "3.46 LS",
-    "bujur": "135.54 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di darat 24 km BaratLaut Nabire",
-    "warning": [
-      "II Nabire"
     ]
   }
 ]
