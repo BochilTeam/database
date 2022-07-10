@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "10/07/2022 15:53:56 WIB",
+    "lintang": "1.24 LU",
+    "bujur": "99.42 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 21 km tenggara Padang Sidempuan",
+    "warning": [
+      "II - III Aek Godang",
+      "II - III Padang Sidempuan"
+    ]
+  },
+  {
     "waktu": "09/07/2022 09:53:44 WIB",
     "lintang": "9.61 LS",
     "bujur": "112.91 BT",
@@ -223,17 +235,6 @@
     "warning": [
       "III Painan",
       "II-III Padang"
-    ]
-  },
-  {
-    "waktu": "24/06/2022 21:22:54 WIB",
-    "lintang": "4.74 LU",
-    "bujur": "94.89 BT",
-    "magnitudo": "3",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 77 km Barat laut Calang - Aceh",
-    "warning": [
-      "II Aceh Jaya"
     ]
   }
 ]
