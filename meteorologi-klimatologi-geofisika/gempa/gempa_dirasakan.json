@@ -1,5 +1,24 @@
 [
   {
+    "waktu": "12/07/2022 09:52:07 WIB",
+    "lintang": "6.06 LS",
+    "bujur": "104.22 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 82 km barat daya Tanggamus",
+    "warning": [
+      "II Tanggamus",
+      "II Limau",
+      "II Piabung",
+      "II Padang Cermin",
+      "II Kab. Pesawaran",
+      "II Liwa",
+      "II Kec. Ngaras",
+      "II Kec. Semaka",
+      "II Kec. Wonosobo"
+    ]
+  },
+  {
     "waktu": "10/07/2022 17:55:15 WIB",
     "lintang": "4.28 LS",
     "bujur": "136.03 BT",
@@ -223,17 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 15 km baratdaya Nabire",
     "warning": [
       "II Nabire"
-    ]
-  },
-  {
-    "waktu": "25/06/2022 15:25:26 WIB",
-    "lintang": "6.91 LS",
-    "bujur": "106.23 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km Barat Laut Bayah",
-    "warning": [
-      "II - III Panggarangan"
     ]
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-07-22 09:52:07 WIB",
+    "lintang": "-6.06",
+    "bujur": "104.22",
+    "magnitudo": "5.1",
+    "kedalaman": "13 Km",
+    "wilayah": "82 km BaratDaya TANGGAMUS-LAMPUNG"
+  },
+  {
     "waktu": "09-07-22 09:53:44 WIB",
     "lintang": "-9.61",
     "bujur": "112.91",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "121 Km",
     "wilayah": "41 km BaratDaya KEEROM-PAPUA"
-  },
-  {
-    "waktu": "17-05-22 01:58:22 WIB",
-    "lintang": "-5.40",
-    "bujur": "101.81",
-    "magnitudo": "6.0",
-    "kedalaman": "10 Km",
-    "wilayah": "51 km BaratDaya ENGGANO-BENGKULU"
   }
 ]
