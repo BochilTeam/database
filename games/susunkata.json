@@ -1,9 +1,9 @@
 [
   {
     "index": 0,
-    "soal": "O-D-T-R-E-K",
+    "soal": "P-L-A-N-Y-E-A",
     "tipe": "Profesi",
-    "jawaban": "DOKTER"
+    "jawaban": "PELAYAN"
   },
   {
     "index": 1,
@@ -2116,5 +2116,22 @@
     "soal": "A-N-T-R-O-R-S-E",
     "tipe": "Tempat",
     "jawaban": "RESTORAN"
-  }
-]
+  },
+  {
+    "index": 353,
+    "soal": "R-B-A",
+    "tipe": "Tempat",
+    "jawaban": "BAR"
+  },
+  {
+    "index": 354,
+    "soal": "G-D-Z-I-L-L-A-O
+    "tipe": "Monster"
+    "jawaban": "GODZILLA"
+  },
+  {
+    "index": 355,
+    "soal": "O-D-T-R-E-K",
+    "tipe": "Profesi",
+    "jawaban": "DOKTER"
+  },
