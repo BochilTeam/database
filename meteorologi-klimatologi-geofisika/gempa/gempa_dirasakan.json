@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "13/07/2022 06:18:51 WIB",
+    "lintang": "2.47 LS",
+    "bujur": "140.72 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 8 km timur laut Kota Jayapura",
+    "warning": [
+      "III Jayapura",
+      "III Sentani",
+      "II Keerom"
+    ]
+  },
+  {
     "waktu": "12/07/2022 09:52:07 WIB",
     "lintang": "6.06 LS",
     "bujur": "104.22 BT",
@@ -231,17 +244,6 @@
       "III Kuta",
       "III Lombok Barat",
       "II Karangasem"
-    ]
-  },
-  {
-    "waktu": "26/06/2022 12:43:47 WIB",
-    "lintang": "3.63 LS",
-    "bujur": "135.7 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km baratdaya Nabire",
-    "warning": [
-      "II Nabire"
     ]
   }
 ]
