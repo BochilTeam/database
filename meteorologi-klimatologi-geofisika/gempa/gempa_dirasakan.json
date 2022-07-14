@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/07/2022 18:37:40 WIB",
+    "lintang": "0.69 LU",
+    "bujur": "117.71 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di darat 65 km TimurLaut Bontang",
+    "warning": [
+      "II Bontang"
+    ]
+  },
+  {
     "waktu": "14/07/2022 13:30:59 WIB",
     "lintang": "6.88 LS",
     "bujur": "106.84 BT",
@@ -232,18 +243,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km Utara Ambon",
     "warning": [
       "II Ambon"
-    ]
-  },
-  {
-    "waktu": "28/06/2022 22:52:12 WIB",
-    "lintang": "9.41 LS",
-    "bujur": "123.67 BT",
-    "magnitudo": "5",
-    "kedalaman": "78 Km",
-    "wilayah": "Pusat gempa berada di laut 68 km Baratlaut Kupang",
-    "warning": [
-      "II - III Maumere",
-      "II - III Lembata"
     ]
   }
 ]
