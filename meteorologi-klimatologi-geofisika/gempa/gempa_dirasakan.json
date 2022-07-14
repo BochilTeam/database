@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/07/2022 13:30:59 WIB",
+    "lintang": "6.88 LS",
+    "bujur": "106.84 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km BaratLaut Kota Sukabumi",
+    "warning": [
+      "II - III Cibadak"
+    ]
+  },
+  {
     "waktu": "14/07/2022 09:58:49 WIB",
     "lintang": "0.07 LS",
     "bujur": "124.41 BT",
@@ -233,17 +244,6 @@
     "warning": [
       "II - III Maumere",
       "II - III Lembata"
-    ]
-  },
-  {
-    "waktu": "28/06/2022 22:16:29 WIB",
-    "lintang": "2.65 LS",
-    "bujur": "129.5 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 17 km Utara Wahai Maluku tengah",
-    "warning": [
-      "III Wahai"
     ]
   }
 ]
