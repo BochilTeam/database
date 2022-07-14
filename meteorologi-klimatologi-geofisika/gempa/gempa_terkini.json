@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14-07-22 09:58:49 WIB",
+    "lintang": "-0.07",
+    "bujur": "124.41",
+    "magnitudo": "5.4",
+    "kedalaman": "25 Km",
+    "wilayah": "68 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
+  },
+  {
     "waktu": "12-07-22 09:52:07 WIB",
     "lintang": "-6.06",
     "bujur": "104.22",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 Km",
     "wilayah": "141 km BaratLaut HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "17-05-22 14:11:30 WIB",
-    "lintang": "-3.57",
-    "bujur": "140.46",
-    "magnitudo": "5.1",
-    "kedalaman": "121 Km",
-    "wilayah": "41 km BaratDaya KEEROM-PAPUA"
   }
 ]
