@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "15/07/2022 22:47:39 WIB",
+    "lintang": "0.41 LS",
+    "bujur": "100.3 BT",
+    "magnitudo": "3",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km Barat Laut Padang Panjang",
+    "warning": [
+      "II Padang Panjang",
+      "II Bukittinggi"
+    ]
+  },
+  {
     "waktu": "15/07/2022 19:18:00 WIB",
     "lintang": "0.4 LS",
     "bujur": "100.27 BT",
@@ -237,17 +249,6 @@
     "wilayah": "Pusat gempa berada di darat 29 km BaratDaya Kab. PidieJaya",
     "warning": [
       "II Mane Pidie"
-    ]
-  },
-  {
-    "waktu": "30/06/2022 22:22:43 WIB",
-    "lintang": "2.42 LS",
-    "bujur": "140.43 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 18 km timur laut Kab. Jayapura",
-    "warning": [
-      "II Sentani"
     ]
   }
 ]
