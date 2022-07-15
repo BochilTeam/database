@@ -1,5 +1,32 @@
 [
   {
+    "waktu": "15/07/2022 19:18:00 WIB",
+    "lintang": "0.4 LS",
+    "bujur": "100.27 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km barat daya Bukittinggi",
+    "warning": [
+      "III Padang Panjang",
+      "III Bukittinggi",
+      "II Payakumbuh",
+      "II Agam",
+      "II Tanah datar"
+    ]
+  },
+  {
+    "waktu": "15/07/2022 19:03:13 WIB",
+    "lintang": "5.13 LU",
+    "bujur": "96.81 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km Tenggara Kab. Bireuen",
+    "warning": [
+      "II-III Sigli",
+      "II-III Bireuen"
+    ]
+  },
+  {
     "waktu": "14/07/2022 18:37:40 WIB",
     "lintang": "0.69 LU",
     "bujur": "117.71 BT",
@@ -221,28 +248,6 @@
     "wilayah": "Pusat gempa berada di darat 18 km timur laut Kab. Jayapura",
     "warning": [
       "II Sentani"
-    ]
-  },
-  {
-    "waktu": "29/06/2022 07:41:32 WIB",
-    "lintang": "0.73 LU",
-    "bujur": "125 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 42 km Tenggara Ratahan-Mitra",
-    "warning": [
-      "II Kab. Minahasa Selatan"
-    ]
-  },
-  {
-    "waktu": "29/06/2022 02:42:15 WIB",
-    "lintang": "3.65 LS",
-    "bujur": "128.19 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km Utara Ambon",
-    "warning": [
-      "II Ambon"
     ]
   }
 ]
