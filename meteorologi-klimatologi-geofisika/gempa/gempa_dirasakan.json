@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/07/2022 16:36:35 WIB",
+    "lintang": "2.4 LS",
+    "bujur": "140.74 BT",
+    "magnitudo": "3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 16 km timurlaut Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "15/07/2022 22:47:39 WIB",
     "lintang": "0.41 LS",
     "bujur": "100.3 BT",
@@ -238,17 +249,6 @@
     "wilayah": "Pusat gempa berada di laut 44 km baratlaut Pulau Panjang",
     "warning": [
       "II Sumbawa"
-    ]
-  },
-  {
-    "waktu": "01/07/2022 08:54:58 WIB",
-    "lintang": "4.88 LU",
-    "bujur": "96.04 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 29 km BaratDaya Kab. PidieJaya",
-    "warning": [
-      "II Mane Pidie"
     ]
   }
 ]
