@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "16/07/2022 22:05:15 WIB",
+    "lintang": "8.17 LS",
+    "bujur": "107.89 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "28 Km",
+    "wilayah": "Pusat gempa berada di laut 84 km BaratDaya Pangandaran",
+    "warning": [
+      "IV Ciamis",
+      "III Pangandaran",
+      "III Garut",
+      "III Tasikmalaya"
+    ]
+  },
+  {
+    "waktu": "16/07/2022 21:41:13 WIB",
+    "lintang": "8.27 LS",
+    "bujur": "107.83 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di laut 97 km BaratDaya Pangandaran",
+    "warning": [
+      "II - III Tasikmalaya"
+    ]
+  },
+  {
     "waktu": "16/07/2022 16:36:35 WIB",
     "lintang": "2.4 LS",
     "bujur": "140.74 BT",
@@ -226,29 +251,6 @@
     "warning": [
       "III Aceh Tengah",
       "II - III Bener Meriah"
-    ]
-  },
-  {
-    "waktu": "03/07/2022 06:49:13 WIB",
-    "lintang": "1.05 LU",
-    "bujur": "126.12 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 119 km tenggara Bitung",
-    "warning": [
-      "II Manado",
-      "II Tondano"
-    ]
-  },
-  {
-    "waktu": "03/07/2022 02:05:28 WIB",
-    "lintang": "8.05 LS",
-    "bujur": "116.81 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 44 km baratlaut Pulau Panjang",
-    "warning": [
-      "II Sumbawa"
     ]
   }
 ]
