@@ -5,7 +5,7 @@
   "main": ".",
   "scripts": {
     "test": "node test.js",
-    "scraper": "node --unhandled-rejections=warn-with-error-code scraper/index.js"
+    "scraper": "node --unhandled-rejections=strict scraper/index.js"
   },
   "keywords": [
     "Database",
