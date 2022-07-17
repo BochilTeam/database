@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-07-22 19:58:37 WIB",
+    "lintang": "-0.10",
+    "bujur": "123.12",
+    "magnitudo": "5.3",
+    "kedalaman": "104 Km",
+    "wilayah": "70 km BaratDaya BONEBOLANGO-GORONTALO"
+  },
+  {
     "waktu": "17-07-22 16:13:05 WIB",
     "lintang": "-9.14",
     "bujur": "110.83",
@@ -230,13 +238,5 @@
     "magnitudo": "6.2",
     "kedalaman": "10 Km",
     "wilayah": "819 km BaratDaya NIASSELATAN-SUMUT"
-  },
-  {
-    "waktu": "25-05-22 04:18:18 WIB",
-    "lintang": "-5.76",
-    "bujur": "103.73",
-    "magnitudo": "5.1",
-    "kedalaman": "25 Km",
-    "wilayah": "67 km BaratDaya PESISIRBARAT-LAMPUNG"
   }
 ]

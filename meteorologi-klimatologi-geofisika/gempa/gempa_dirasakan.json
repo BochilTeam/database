@@ -1,5 +1,23 @@
 [
   {
+    "waktu": "17/07/2022 19:58:37 WIB",
+    "lintang": "0.1 LS",
+    "bujur": "123.12 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "104 Km",
+    "wilayah": "Pusat gempa berada di laut 70 km Baratdaya Bonebolango",
+    "warning": [
+      "III-IV Kota Gorontalo",
+      "III Kab. Bone Bolango",
+      "II-III Luwuk",
+      "II Morowali",
+      "III Kab. Gorontalo Utara",
+      "III Kab. Gorontalo",
+      "III Kab. Boalemo",
+      "II Kab. Pulau Taliabu"
+    ]
+  },
+  {
     "waktu": "17/07/2022 16:13:05 WIB",
     "lintang": "9.14 LS",
     "bujur": "110.83 BT",
@@ -246,17 +264,6 @@
       "II-III Ternate",
       "II - III Halmahera Barat",
       "II Halmahera Tengah"
-    ]
-  },
-  {
-    "waktu": "03/07/2022 07:28:44 WIB",
-    "lintang": "4.42 LU",
-    "bujur": "96.59 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 36 km Baratdaya Takengon-Aceh Tengah",
-    "warning": [
-      "II Aceh Tengah"
     ]
   }
 ]
