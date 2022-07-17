@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "17/07/2022 22:50:06 WIB",
+    "lintang": "7.16 LS",
+    "bujur": "106.02 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 36 km barat daya Bayah",
+    "warning": [
+      "II Bayah",
+      "II Labuan"
+    ]
+  },
+  {
     "waktu": "17/07/2022 19:58:37 WIB",
     "lintang": "0.1 LS",
     "bujur": "123.12 BT",
@@ -251,19 +263,6 @@
     "wilayah": "Pusat gempa berada di darat 12 km BaratLaut ENDE",
     "warning": [
       "III Ende"
-    ]
-  },
-  {
-    "waktu": "06/07/2022 06:27:08 WIB",
-    "lintang": "0.87 LU",
-    "bujur": "126.89 BT",
-    "magnitudo": "5",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 54 km barat laut Ternate",
-    "warning": [
-      "II-III Ternate",
-      "II - III Halmahera Barat",
-      "II Halmahera Tengah"
     ]
   }
 ]
