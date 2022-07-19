@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19-07-22 20:40:28 WIB",
+    "lintang": "-4.40",
+    "bujur": "134.59",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "142 km Tenggara KAIMANA-PAPUABRT"
+  },
+  {
     "waktu": "17-07-22 19:58:37 WIB",
     "lintang": "-0.10",
     "bujur": "123.12",
@@ -230,13 +238,5 @@
     "magnitudo": "6.5",
     "kedalaman": "104 Km",
     "wilayah": "85 km BaratDaya MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "25-05-22 22:05:06 WIB",
-    "lintang": "-4.71",
-    "bujur": "92.67",
-    "magnitudo": "6.2",
-    "kedalaman": "10 Km",
-    "wilayah": "819 km BaratDaya NIASSELATAN-SUMUT"
   }
 ]
