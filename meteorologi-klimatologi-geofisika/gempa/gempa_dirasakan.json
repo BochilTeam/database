@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "20/07/2022 12:31:37 WIB",
+    "lintang": "0.25 LS",
+    "bujur": "122.83 BT",
+    "magnitudo": "5",
+    "kedalaman": "46 Km",
+    "wilayah": "Pusat gempa berada di laut 91 km barat daya Gorontalo",
+    "warning": [
+      "II Kab. Bolaang Mongondow",
+      "II-III Kab. Banggai",
+      "II - III Kab. Pohuwato",
+      "II-III Kab. Bone Bolango"
+    ]
+  },
+  {
     "waktu": "20/07/2022 06:46:50 WIB",
     "lintang": "4.33 LS",
     "bujur": "101.95 BT",
@@ -256,20 +270,6 @@
       "II - III Lumajang",
       "II Kepanjen",
       "II Kota Malang"
-    ]
-  },
-  {
-    "waktu": "09/07/2022 03:27:07 WIB",
-    "lintang": "9.64 LS",
-    "bujur": "112.91 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 171 km Barat Daya Lumajang",
-    "warning": [
-      "II Karangkates",
-      "II Kepanjen",
-      "II Lumajang",
-      "II Blitar"
     ]
   }
 ]
