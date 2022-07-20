@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/07/2022 21:30:02 WIB",
+    "lintang": "0.16 LS",
+    "bujur": "130.58 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km timur laut Raja Ampat",
+    "warning": [
+      "II - III Raja Ampat"
+    ]
+  },
+  {
     "waktu": "20/07/2022 12:31:37 WIB",
     "lintang": "0.25 LS",
     "bujur": "122.83 BT",
@@ -256,20 +267,6 @@
     "warning": [
       "II - III Aek Godang",
       "II - III Padang Sidempuan"
-    ]
-  },
-  {
-    "waktu": "09/07/2022 09:53:44 WIB",
-    "lintang": "9.61 LS",
-    "bujur": "112.91 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 167 km BaratDaya Lumajang",
-    "warning": [
-      "II - III Pasirian",
-      "II - III Lumajang",
-      "II Kepanjen",
-      "II Kota Malang"
     ]
   }
 ]
