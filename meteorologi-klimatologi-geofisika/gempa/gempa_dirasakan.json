@@ -1,5 +1,23 @@
 [
   {
+    "waktu": "20/07/2022 06:46:50 WIB",
+    "lintang": "4.33 LS",
+    "bujur": "101.95 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di laut 68 km BaratDaya Bengkulu",
+    "warning": [
+      "IV-V Kota Bengkulu",
+      "III-IV Kepahiang",
+      "III-IV Bengkulu Utara",
+      "III Muko-muko",
+      "III Krui",
+      "II Muara Dua",
+      "II Lubuk Linggau",
+      "II Musi Rawas"
+    ]
+  },
+  {
     "waktu": "18/07/2022 09:54:24 WIB",
     "lintang": "4.91 LS",
     "bujur": "129.62 BT",
@@ -252,17 +270,6 @@
       "II Kepanjen",
       "II Lumajang",
       "II Blitar"
-    ]
-  },
-  {
-    "waktu": "07/07/2022 21:35:20 WIB",
-    "lintang": "8.13 LS",
-    "bujur": "120.55 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "30 Km",
-    "wilayah": "Pusat gempa berada di laut 54 km Timur laut Ruteng - Manggarai",
-    "warning": [
-      "II - III Ruteng"
     ]
   }
 ]
