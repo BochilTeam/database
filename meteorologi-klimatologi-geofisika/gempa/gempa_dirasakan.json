@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/07/2022 16:57:48 WIB",
+    "lintang": "2.09 LS",
+    "bujur": "120.51 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 62 Km Timur Laut Luwu Utara",
+    "warning": [
+      "II - III Malili"
+    ]
+  },
+  {
     "waktu": "21/07/2022 04:38:59 WIB",
     "lintang": "2.14 LS",
     "bujur": "120.62 BT",
@@ -255,17 +266,6 @@
       "II Kec. Ngaras",
       "II Kec. Semaka",
       "II Kec. Wonosobo"
-    ]
-  },
-  {
-    "waktu": "10/07/2022 17:55:15 WIB",
-    "lintang": "4.28 LS",
-    "bujur": "136.03 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 30 km tenggara Dogiyai",
-    "warning": [
-      "III Dogiyai"
     ]
   }
 ]
