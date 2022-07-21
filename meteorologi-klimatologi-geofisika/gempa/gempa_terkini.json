@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22-07-22 04:41:01 WIB",
+    "lintang": "0.19",
+    "bujur": "98.29",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "67 km Tenggara NIASSELATAN-SUMUT"
+  },
+  {
     "waktu": "20-07-22 12:31:37 WIB",
     "lintang": "-0.25",
     "bujur": "122.83",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "120 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
-  },
-  {
-    "waktu": "02-06-22 05:55:45 WIB",
-    "lintang": "-1.11",
-    "bujur": "127.18",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "62 km BaratDaya LABUHA-MALUT"
   }
 ]

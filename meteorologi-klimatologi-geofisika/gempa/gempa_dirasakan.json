@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/07/2022 04:41:01 WIB",
+    "lintang": "0.19 LU",
+    "bujur": "98.29 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 67 km Tenggara Nias Selatan",
+    "warning": [
+      "III-IV Nias Selatan"
+    ]
+  },
+  {
     "waktu": "21/07/2022 16:57:48 WIB",
     "lintang": "2.09 LS",
     "bujur": "120.51 BT",
@@ -247,25 +258,6 @@
       "III Jayapura",
       "III Sentani",
       "II Keerom"
-    ]
-  },
-  {
-    "waktu": "12/07/2022 09:52:07 WIB",
-    "lintang": "6.06 LS",
-    "bujur": "104.22 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 82 km barat daya Tanggamus",
-    "warning": [
-      "II Tanggamus",
-      "II Limau",
-      "II Piabung",
-      "II Padang Cermin",
-      "II Kab. Pesawaran",
-      "II Liwa",
-      "II Kec. Ngaras",
-      "II Kec. Semaka",
-      "II Kec. Wonosobo"
     ]
   }
 ]
