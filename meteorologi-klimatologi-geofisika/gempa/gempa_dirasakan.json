@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/07/2022 04:38:59 WIB",
+    "lintang": "2.14 LS",
+    "bujur": "120.62 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 54 km barat laut Luwu Timur",
+    "warning": [
+      "II - III Malili"
+    ]
+  },
+  {
     "waktu": "20/07/2022 21:30:02 WIB",
     "lintang": "0.16 LS",
     "bujur": "130.58 BT",
@@ -255,18 +266,6 @@
     "wilayah": "Pusat gempa berada di darat 30 km tenggara Dogiyai",
     "warning": [
       "III Dogiyai"
-    ]
-  },
-  {
-    "waktu": "10/07/2022 15:53:56 WIB",
-    "lintang": "1.24 LU",
-    "bujur": "99.42 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km tenggara Padang Sidempuan",
-    "warning": [
-      "II - III Aek Godang",
-      "II - III Padang Sidempuan"
     ]
   }
 ]
