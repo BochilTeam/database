@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/07/2022 16:58:09 WIB",
+    "lintang": "3.65 LS",
+    "bujur": "128.03 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km barat Ambon",
+    "warning": [
+      "II Ambon"
+    ]
+  },
+  {
     "waktu": "22/07/2022 04:41:01 WIB",
     "lintang": "0.19 LU",
     "bujur": "98.29 BT",
@@ -245,19 +256,6 @@
       "II - III Gorontalo",
       "III-IV Kab. Minahasa Selatan",
       "II - III Kab. Gorontalo Utara"
-    ]
-  },
-  {
-    "waktu": "13/07/2022 06:18:51 WIB",
-    "lintang": "2.47 LS",
-    "bujur": "140.72 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di laut 8 km timur laut Kota Jayapura",
-    "warning": [
-      "III Jayapura",
-      "III Sentani",
-      "II Keerom"
     ]
   }
 ]
