@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "23-07-22 14:35:46 WIB",
+    "lintang": "-7.57",
+    "bujur": "122.45",
+    "magnitudo": "5.7",
+    "kedalaman": "13 Km",
+    "wilayah": "100 km BaratLaut LARANTUKA-NTT"
+  },
+  {
+    "waktu": "23-07-22 13:09:17 WIB",
+    "lintang": "-7.65",
+    "bujur": "122.43",
+    "magnitudo": "5.5",
+    "kedalaman": "17 Km",
+    "wilayah": "94 km BaratLaut LARANTUKA-NTT"
+  },
+  {
     "waktu": "22-07-22 04:41:01 WIB",
     "lintang": "0.19",
     "bujur": "98.29",
@@ -222,21 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "17 km Tenggara SARMI-PAPUA"
-  },
-  {
-    "waktu": "06-06-22 10:44:39 WIB",
-    "lintang": "-8.66",
-    "bujur": "118.39",
-    "magnitudo": "5.1",
-    "kedalaman": "104 Km",
-    "wilayah": "16 km BaratDaya DOMPU-NTB"
-  },
-  {
-    "waktu": "03-06-22 02:19:55 WIB",
-    "lintang": "-0.62",
-    "bujur": "124.42",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "120 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
   }
 ]
