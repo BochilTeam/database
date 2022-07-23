@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/07/2022 21:21:26 WIB",
+    "lintang": "4.32 LS",
+    "bujur": "121.66 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 30 km tenggara Kolaka",
+    "warning": [
+      "II - III Kolaka"
+    ]
+  },
+  {
     "waktu": "23/07/2022 14:35:46 WIB",
     "lintang": "7.57 LS",
     "bujur": "122.45 BT",
@@ -248,18 +259,6 @@
       "II Payakumbuh",
       "II Agam",
       "II Tanah datar"
-    ]
-  },
-  {
-    "waktu": "15/07/2022 19:03:13 WIB",
-    "lintang": "5.13 LU",
-    "bujur": "96.81 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km Tenggara Kab. Bireuen",
-    "warning": [
-      "II-III Sigli",
-      "II-III Bireuen"
     ]
   }
 ]
