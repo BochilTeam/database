@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24-07-22 13:46:41 WIB",
+    "lintang": "0.46",
+    "bujur": "126.35",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "118 km BaratDaya TERNATE-MALUT"
+  },
+  {
     "waktu": "23-07-22 14:35:46 WIB",
     "lintang": "-7.57",
     "bujur": "122.45",
@@ -230,13 +238,5 @@
     "magnitudo": "5.8",
     "kedalaman": "137 Km",
     "wilayah": "45 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
-  },
-  {
-    "waktu": "06-06-22 15:29:11 WIB",
-    "lintang": "-2.53",
-    "bujur": "139.35",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "17 km Tenggara SARMI-PAPUA"
   }
 ]
