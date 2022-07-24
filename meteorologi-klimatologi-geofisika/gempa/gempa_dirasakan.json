@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "24/07/2022 19:43:07 WIB",
+    "lintang": "7.59 LS",
+    "bujur": "122.48 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 96 km baratlaut Larantuka",
+    "warning": [
+      "II Ende",
+      "II-III Maumere"
+    ]
+  },
+  {
     "waktu": "24/07/2022 17:20:55 WIB",
     "lintang": "8.56 LS",
     "bujur": "116.08 BT",
@@ -244,17 +256,6 @@
     "wilayah": "Pusat gempa berada di laut 97 km BaratDaya Pangandaran",
     "warning": [
       "II - III Tasikmalaya"
-    ]
-  },
-  {
-    "waktu": "16/07/2022 16:36:35 WIB",
-    "lintang": "2.4 LS",
-    "bujur": "140.74 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 16 km timurlaut Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
