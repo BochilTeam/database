@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "25/07/2022 16:09:05 WIB",
+    "lintang": "8.76 LS",
+    "bujur": "115.28 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 7 km timur laut Kuta Selatan",
+    "warning": [
+      "III Denpasar",
+      "III Kuta",
+      "III Jimbaran",
+      "III Gianyar",
+      "I - II Klungkung"
+    ]
+  },
+  {
     "waktu": "25/07/2022 06:01:54 WIB",
     "lintang": "0.37 LU",
     "bujur": "122.58 BT",
@@ -242,20 +257,6 @@
       "II Pacitan",
       "II Sleman",
       "II Jember"
-    ]
-  },
-  {
-    "waktu": "16/07/2022 22:05:15 WIB",
-    "lintang": "8.17 LS",
-    "bujur": "107.89 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "28 Km",
-    "wilayah": "Pusat gempa berada di laut 84 km BaratDaya Pangandaran",
-    "warning": [
-      "IV Ciamis",
-      "III Pangandaran",
-      "III Garut",
-      "III Tasikmalaya"
     ]
   }
 ]
