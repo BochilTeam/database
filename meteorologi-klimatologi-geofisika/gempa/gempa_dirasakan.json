@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/07/2022 06:01:54 WIB",
+    "lintang": "0.37 LU",
+    "bujur": "122.58 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "105 Km",
+    "wilayah": "Pusat gempa berada dilaut 31 km Tenggara BOALEMO",
+    "warning": [
+      "II Gorontalo"
+    ]
+  },
+  {
     "waktu": "24/07/2022 19:43:07 WIB",
     "lintang": "7.59 LS",
     "bujur": "122.48 BT",
@@ -245,17 +256,6 @@
       "III Pangandaran",
       "III Garut",
       "III Tasikmalaya"
-    ]
-  },
-  {
-    "waktu": "16/07/2022 21:41:13 WIB",
-    "lintang": "8.27 LS",
-    "bujur": "107.83 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di laut 97 km BaratDaya Pangandaran",
-    "warning": [
-      "II - III Tasikmalaya"
     ]
   }
 ]
