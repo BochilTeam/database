@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/07/2022 06:11:01 WIB",
+    "lintang": "3.53 LS",
+    "bujur": "128.25 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 20 km timur laut Ambon",
+    "warning": [
+      "II - III Ambon"
+    ]
+  },
+  {
     "waktu": "25/07/2022 16:09:05 WIB",
     "lintang": "8.76 LS",
     "bujur": "115.28 BT",
@@ -239,24 +250,6 @@
       "III Kab. Gorontalo",
       "III Kab. Boalemo",
       "II Kab. Pulau Taliabu"
-    ]
-  },
-  {
-    "waktu": "17/07/2022 16:13:05 WIB",
-    "lintang": "9.14 LS",
-    "bujur": "110.83 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 111 km BaratDaya Pacitan",
-    "warning": [
-      "II Nganjuk",
-      "II Karangkates",
-      "II Bantul",
-      "II Wonogiri",
-      "II Trenggalek",
-      "II Pacitan",
-      "II Sleman",
-      "II Jember"
     ]
   }
 ]
