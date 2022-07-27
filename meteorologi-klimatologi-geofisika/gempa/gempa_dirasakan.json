@@ -1,5 +1,32 @@
 [
   {
+    "waktu": "27/07/2022 22:22:02 WIB",
+    "lintang": "8.28 LS",
+    "bujur": "115.47 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km barat laut Karangasem",
+    "warning": [
+      "II Karangasem"
+    ]
+  },
+  {
+    "waktu": "27/07/2022 21:14:55 WIB",
+    "lintang": "8.19 LS",
+    "bujur": "115.5 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 17 km barat laut Karangasem",
+    "warning": [
+      "III Buleleng",
+      "III Karangasem",
+      "II - III Bangli",
+      "II - III Klungkung",
+      "II - III Mataram",
+      "II Denpasar"
+    ]
+  },
+  {
     "waktu": "27/07/2022 14:22:29 WIB",
     "lintang": "2.04 LS",
     "bujur": "124.45 BT",
@@ -220,29 +247,6 @@
       "II Muara Dua",
       "II Lubuk Linggau",
       "II Musi Rawas"
-    ]
-  },
-  {
-    "waktu": "18/07/2022 09:54:24 WIB",
-    "lintang": "4.91 LS",
-    "bujur": "129.62 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 52 km BaratDaya Banda",
-    "warning": [
-      "III Banda"
-    ]
-  },
-  {
-    "waktu": "17/07/2022 22:50:06 WIB",
-    "lintang": "7.16 LS",
-    "bujur": "106.02 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 36 km barat daya Bayah",
-    "warning": [
-      "II Bayah",
-      "II Labuan"
     ]
   }
 ]
