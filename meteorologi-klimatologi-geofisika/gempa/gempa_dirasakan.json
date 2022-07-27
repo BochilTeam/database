@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/07/2022 14:22:29 WIB",
+    "lintang": "2.04 LS",
+    "bujur": "124.45 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 171 km barat Sanana",
+    "warning": [
+      "II - III Taliabu"
+    ]
+  },
+  {
     "waktu": "26/07/2022 06:11:01 WIB",
     "lintang": "3.53 LS",
     "bujur": "128.25 BT",
@@ -232,24 +243,6 @@
     "warning": [
       "II Bayah",
       "II Labuan"
-    ]
-  },
-  {
-    "waktu": "17/07/2022 19:58:37 WIB",
-    "lintang": "0.1 LS",
-    "bujur": "123.12 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "104 Km",
-    "wilayah": "Pusat gempa berada di laut 70 km Baratdaya Bonebolango",
-    "warning": [
-      "III-IV Kota Gorontalo",
-      "III Kab. Bone Bolango",
-      "II-III Luwuk",
-      "II Morowali",
-      "III Kab. Gorontalo Utara",
-      "III Kab. Gorontalo",
-      "III Kab. Boalemo",
-      "II Kab. Pulau Taliabu"
     ]
   }
 ]
