@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "29/07/2022 15:31:56 WIB",
+    "lintang": "4.06 LS",
+    "bujur": "122.25 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km timur laut Mowila, Kab. Konawe",
+    "warning": [
+      "II - III Konawe Selatan",
+      "II - III Kendari"
+    ]
+  },
+  {
     "waktu": "28/07/2022 02:17:36 WIB",
     "lintang": "8.2 LS",
     "bujur": "115.5 BT",
@@ -226,20 +238,6 @@
     "wilayah": "Pusat gempa berada di darat 11 km timur laut Raja Ampat",
     "warning": [
       "II - III Raja Ampat"
-    ]
-  },
-  {
-    "waktu": "20/07/2022 12:31:37 WIB",
-    "lintang": "0.25 LS",
-    "bujur": "122.83 BT",
-    "magnitudo": "5",
-    "kedalaman": "46 Km",
-    "wilayah": "Pusat gempa berada di laut 91 km barat daya Gorontalo",
-    "warning": [
-      "II Kab. Bolaang Mongondow",
-      "II-III Kab. Banggai",
-      "II - III Kab. Pohuwato",
-      "II-III Kab. Bone Bolango"
     ]
   }
 ]
