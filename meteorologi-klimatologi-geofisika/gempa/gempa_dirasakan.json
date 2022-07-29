@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "29/07/2022 22:32:10 WIB",
+    "lintang": "8.21 LS",
+    "bujur": "115.47 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km Baratlaut Karangasem",
+    "warning": [
+      "II Kubu"
+    ]
+  },
+  {
+    "waktu": "29/07/2022 22:11:39 WIB",
+    "lintang": "8.22 LS",
+    "bujur": "115.47 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km Baratlaut Karangasem",
+    "warning": [
+      "II Kubu"
+    ]
+  },
+  {
     "waktu": "29/07/2022 18:57:47 WIB",
     "lintang": "8.21 LS",
     "bujur": "115.49 BT",
@@ -14,6 +36,17 @@
       "III Mataram",
       "III Lombok Barat",
       "II Lombok Tengah"
+    ]
+  },
+  {
+    "waktu": "29/07/2022 16:13:38 WIB",
+    "lintang": "0.08 LU",
+    "bujur": "109.6 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 30 km Timurlaut Pontianak",
+    "warning": [
+      "II - III Jelimpo"
     ]
   },
   {
@@ -211,39 +244,6 @@
     "wilayah": "Pusat gempa berada di darat 17 km barat Ambon",
     "warning": [
       "II Ambon"
-    ]
-  },
-  {
-    "waktu": "22/07/2022 04:41:01 WIB",
-    "lintang": "0.19 LU",
-    "bujur": "98.29 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 67 km Tenggara Nias Selatan",
-    "warning": [
-      "III-IV Nias Selatan"
-    ]
-  },
-  {
-    "waktu": "21/07/2022 16:57:48 WIB",
-    "lintang": "2.09 LS",
-    "bujur": "120.51 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 62 Km Timur Laut Luwu Utara",
-    "warning": [
-      "II - III Malili"
-    ]
-  },
-  {
-    "waktu": "21/07/2022 04:38:59 WIB",
-    "lintang": "2.14 LS",
-    "bujur": "120.62 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 54 km barat laut Luwu Timur",
-    "warning": [
-      "II - III Malili"
     ]
   }
 ]
