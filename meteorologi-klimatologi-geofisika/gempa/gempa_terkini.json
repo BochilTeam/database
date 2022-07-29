@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29-07-22 23:31:15 WIB",
+    "lintang": "-2.45",
+    "bujur": "122.68",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "90 km TimurLaut MOROWALI-SULTENG"
+  },
+  {
     "waktu": "24-07-22 13:46:41 WIB",
     "lintang": "0.46",
     "bujur": "126.35",
@@ -230,13 +238,5 @@
     "magnitudo": "5.8",
     "kedalaman": "10 Km",
     "wilayah": "43 km BaratDaya MAMUJU-SULBAR"
-  },
-  {
-    "waktu": "07-06-22 20:24:14 WIB",
-    "lintang": "0.08",
-    "bujur": "123.70",
-    "magnitudo": "5.8",
-    "kedalaman": "137 Km",
-    "wilayah": "45 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
   }
 ]

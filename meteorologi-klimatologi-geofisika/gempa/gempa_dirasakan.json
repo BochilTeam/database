@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "29/07/2022 23:31:15 WIB",
+    "lintang": "2.45 LS",
+    "bujur": "122.68 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 87 km TimurLaut Morowali",
+    "warning": [
+      "III - IV Morowali",
+      "II - III Konawe Utara"
+    ]
+  },
+  {
     "waktu": "29/07/2022 22:32:10 WIB",
     "lintang": "8.21 LS",
     "bujur": "115.47 BT",
@@ -233,17 +245,6 @@
       "III Lewoleba",
       "III Adonara",
       "III Mbay-Nagekeo"
-    ]
-  },
-  {
-    "waktu": "22/07/2022 16:58:09 WIB",
-    "lintang": "3.65 LS",
-    "bujur": "128.03 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km barat Ambon",
-    "warning": [
-      "II Ambon"
     ]
   }
 ]
