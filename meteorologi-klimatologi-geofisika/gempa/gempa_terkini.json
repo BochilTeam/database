@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30-07-22 14:01:05 WIB",
+    "lintang": "0.33",
+    "bujur": "125.77",
+    "magnitudo": "5.1",
+    "kedalaman": "23 Km",
+    "wilayah": "134 km Tenggara RATAHAN-MITRA-SULUT"
+  },
+  {
     "waktu": "29-07-22 23:31:15 WIB",
     "lintang": "-2.45",
     "bujur": "122.68",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "79 Km",
     "wilayah": "64 km Tenggara PACITAN-JATIM"
-  },
-  {
-    "waktu": "08-06-22 12:32:36 WIB",
-    "lintang": "-2.74",
-    "bujur": "118.54",
-    "magnitudo": "5.8",
-    "kedalaman": "10 Km",
-    "wilayah": "43 km BaratDaya MAMUJU-SULBAR"
   }
 ]

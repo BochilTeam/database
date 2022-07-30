@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/07/2022 14:01:05 WIB",
+    "lintang": "0.33 LU",
+    "bujur": "125.77 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "23 Km",
+    "wilayah": "Pusat gempa berada di laut 134 km Tenggara Ratahan Mitra",
+    "warning": [
+      "II - III Bolaang Mongondow Selatan"
+    ]
+  },
+  {
     "waktu": "30/07/2022 07:40:49 WIB",
     "lintang": "3.54 LS",
     "bujur": "128.26 BT",
@@ -229,17 +240,6 @@
       "III Larantuka",
       "III Lewoleba",
       "II - III Pulau Kalaotoa"
-    ]
-  },
-  {
-    "waktu": "23/07/2022 13:45:03 WIB",
-    "lintang": "7.57 LS",
-    "bujur": "122.45 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 100 km Barat Laut Larantuka",
-    "warning": [
-      "I - II Ende"
     ]
   }
 ]
