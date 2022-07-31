@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31-07-22 10:03:16 WIB",
+    "lintang": "4.25",
+    "bujur": "95.70",
+    "magnitudo": "5.6",
+    "kedalaman": "56 Km",
+    "wilayah": "44 km Tenggara CALANG-ACEHJAYA"
+  },
+  {
     "waktu": "30-07-22 14:01:05 WIB",
     "lintang": "0.33",
     "bujur": "125.77",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "147 Km",
     "wilayah": "195 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "12-06-22 06:55:32 WIB",
-    "lintang": "-8.67",
-    "bujur": "111.42",
-    "magnitudo": "5.3",
-    "kedalaman": "79 Km",
-    "wilayah": "64 km Tenggara PACITAN-JATIM"
   }
 ]
