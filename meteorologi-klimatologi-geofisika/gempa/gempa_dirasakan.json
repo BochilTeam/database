@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "01/08/2022 19:59:52 WIB",
+    "lintang": "2.52 LS",
+    "bujur": "121.05 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km BaratLaut LuwuTimur",
+    "warning": [
+      "III - IV Malili",
+      "II Wotu"
+    ]
+  },
+  {
     "waktu": "01/08/2022 09:20:24 WIB",
     "lintang": "2.4 LS",
     "bujur": "140.68 BT",
@@ -231,17 +243,6 @@
     "warning": [
       "III Mataram",
       "III Lombok Barat"
-    ]
-  },
-  {
-    "waktu": "24/07/2022 12:28:51 WIB",
-    "lintang": "3.15 LU",
-    "bujur": "97.57 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada didarat 39 km Tenggara Kab. Aceh Selatan",
-    "warning": [
-      "II - III Tapaktuan"
     ]
   }
 ]
