@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/08/2022 09:20:24 WIB",
+    "lintang": "2.4 LS",
+    "bujur": "140.68 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di laut 15 km barat laut Kota Jayapura",
+    "warning": [
+      "III Jayapura"
+    ]
+  },
+  {
     "waktu": "31/07/2022 10:03:16 WIB",
     "lintang": "4.25 LU",
     "bujur": "95.7 BT",
@@ -231,17 +242,6 @@
     "wilayah": "Pusat gempa berada didarat 39 km Tenggara Kab. Aceh Selatan",
     "warning": [
       "II - III Tapaktuan"
-    ]
-  },
-  {
-    "waktu": "23/07/2022 21:21:26 WIB",
-    "lintang": "4.32 LS",
-    "bujur": "121.66 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 30 km tenggara Kolaka",
-    "warning": [
-      "II - III Kolaka"
     ]
   }
 ]
