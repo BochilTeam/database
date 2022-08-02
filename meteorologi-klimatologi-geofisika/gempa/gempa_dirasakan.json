@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/08/2022 04:17:12 WIB",
+    "lintang": "1.49 LU",
+    "bujur": "98.87 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "83 Km",
+    "wilayah": "Pusat gempa berada di darat 23 km tenggara Tapanuli Tengah",
+    "warning": [
+      "II-III Pinangsori"
+    ]
+  },
+  {
     "waktu": "01/08/2022 19:59:52 WIB",
     "lintang": "2.52 LS",
     "bujur": "121.05 BT",
@@ -231,18 +242,6 @@
     "warning": [
       "II Ende",
       "II-III Maumere"
-    ]
-  },
-  {
-    "waktu": "24/07/2022 17:20:55 WIB",
-    "lintang": "8.56 LS",
-    "bujur": "116.08 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada didarat 14 km BaratLaut Lombok Barat",
-    "warning": [
-      "III Mataram",
-      "III Lombok Barat"
     ]
   }
 ]
