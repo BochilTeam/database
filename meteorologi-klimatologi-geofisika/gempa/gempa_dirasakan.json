@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "03/08/2022 16:40:00 WIB",
+    "lintang": "0.31 LU",
+    "bujur": "121.96 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "155 Km",
+    "wilayah": "Pusat gempa berada di laut 18 km arah selatan Kab-Pahuwato",
+    "warning": [
+      "II-III Toli-Toli",
+      "II Bone Bolango",
+      "II Limboto"
+    ]
+  },
+  {
     "waktu": "02/08/2022 04:17:12 WIB",
     "lintang": "1.49 LU",
     "bujur": "98.87 BT",
@@ -230,18 +243,6 @@
     "wilayah": "Pusat gempa berada dilaut 31 km Tenggara BOALEMO",
     "warning": [
       "II Gorontalo"
-    ]
-  },
-  {
-    "waktu": "24/07/2022 19:43:07 WIB",
-    "lintang": "7.59 LS",
-    "bujur": "122.48 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 96 km baratlaut Larantuka",
-    "warning": [
-      "II Ende",
-      "II-III Maumere"
     ]
   }
 ]
