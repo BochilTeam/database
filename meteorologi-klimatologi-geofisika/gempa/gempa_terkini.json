@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03-08-22 14:51:56 WIB",
+    "lintang": "-9.21",
+    "bujur": "124.24",
+    "magnitudo": "5.1",
+    "kedalaman": "46 Km",
+    "wilayah": "47 km BaratLaut TIMORTENGAHUT-NTT"
+  },
+  {
     "waktu": "31-07-22 20:36:45 WIB",
     "lintang": "-6.76",
     "bujur": "130.05",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "43 km BaratDaya SINABANG-ACEH"
-  },
-  {
-    "waktu": "18-06-22 18:22:19 WIB",
-    "lintang": "-4.93",
-    "bujur": "102.98",
-    "magnitudo": "5.4",
-    "kedalaman": "26 Km",
-    "wilayah": "43 km BaratDaya KAUR-BENGKULU"
   }
 ]
