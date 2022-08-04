@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05-08-22 00:39:33 WIB",
+    "lintang": "-1.10",
+    "bujur": "97.27",
+    "magnitudo": "5.2",
+    "kedalaman": "37 Km",
+    "wilayah": "195 km BaratDaya NIASSELATAN-SUMUT"
+  },
+  {
     "waktu": "03-08-22 14:51:56 WIB",
     "lintang": "-9.21",
     "bujur": "124.24",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "497 Km",
     "wilayah": "123 km TimurLaut RUTENG-MANGGARAI-NTT"
-  },
-  {
-    "waktu": "22-06-22 02:08:17 WIB",
-    "lintang": "2.08",
-    "bujur": "96.35",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "43 km BaratDaya SINABANG-ACEH"
   }
 ]
