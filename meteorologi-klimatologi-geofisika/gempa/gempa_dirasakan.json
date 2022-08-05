@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "06/08/2022 00:01:15 WIB",
+    "lintang": "9.74 LS",
+    "bujur": "116.32 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di laut 115 km tenggara Lombok Tengah",
+    "warning": [
+      "III Lombok Tengah",
+      "II Lombok Barat"
+    ]
+  },
+  {
     "waktu": "03/08/2022 16:40:00 WIB",
     "lintang": "0.31 LU",
     "bujur": "121.96 BT",
@@ -232,17 +244,6 @@
       "III Jimbaran",
       "III Gianyar",
       "I - II Klungkung"
-    ]
-  },
-  {
-    "waktu": "25/07/2022 06:01:54 WIB",
-    "lintang": "0.37 LU",
-    "bujur": "122.58 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "105 Km",
-    "wilayah": "Pusat gempa berada dilaut 31 km Tenggara BOALEMO",
-    "warning": [
-      "II Gorontalo"
     ]
   }
 ]
