@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05-08-22 16:23:12 WIB",
+    "lintang": "-7.76",
+    "bujur": "104.95",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "140 km BaratDaya SUMUR-BANTEN"
+  },
+  {
     "waktu": "05-08-22 00:39:33 WIB",
     "lintang": "-1.10",
     "bujur": "97.27",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "21 Km",
     "wilayah": "227 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
-    "waktu": "22-06-22 12:01:20 WIB",
-    "lintang": "-7.50",
-    "bujur": "120.49",
-    "magnitudo": "5.6",
-    "kedalaman": "497 Km",
-    "wilayah": "123 km TimurLaut RUTENG-MANGGARAI-NTT"
   }
 ]
