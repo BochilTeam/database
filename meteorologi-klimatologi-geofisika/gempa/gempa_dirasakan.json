@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "06/08/2022 09:38:51 WIB",
+    "lintang": "4.58 LS",
+    "bujur": "138.19 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "89 Km",
+    "wilayah": "Pusat gempa berada di darat 77 km baratdaya Lanni Jaya",
+    "warning": [
+      "II Wamena"
+    ]
+  },
+  {
     "waktu": "06/08/2022 00:01:15 WIB",
     "lintang": "9.74 LS",
     "bujur": "116.32 BT",
@@ -229,21 +240,6 @@
     "wilayah": "Pusat gempa berada di darat 20 km timur laut Ambon",
     "warning": [
       "II - III Ambon"
-    ]
-  },
-  {
-    "waktu": "25/07/2022 16:09:05 WIB",
-    "lintang": "8.76 LS",
-    "bujur": "115.28 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 7 km timur laut Kuta Selatan",
-    "warning": [
-      "III Denpasar",
-      "III Kuta",
-      "III Jimbaran",
-      "III Gianyar",
-      "I - II Klungkung"
     ]
   }
 ]
