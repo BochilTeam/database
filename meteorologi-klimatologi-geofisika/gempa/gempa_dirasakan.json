@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/08/2022 14:05:37 WIB",
+    "lintang": "2.57 LS",
+    "bujur": "121.2 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km Timur Laut Luwu Timur",
+    "warning": [
+      "II - III Malili"
+    ]
+  },
+  {
     "waktu": "07/08/2022 09:28:24 WIB",
     "lintang": "4.41 LS",
     "bujur": "102.09 BT",
@@ -230,17 +241,6 @@
       "II - III Klungkung",
       "II - III Mataram",
       "II Denpasar"
-    ]
-  },
-  {
-    "waktu": "27/07/2022 14:22:29 WIB",
-    "lintang": "2.04 LS",
-    "bujur": "124.45 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 171 km barat Sanana",
-    "warning": [
-      "II - III Taliabu"
     ]
   }
 ]
