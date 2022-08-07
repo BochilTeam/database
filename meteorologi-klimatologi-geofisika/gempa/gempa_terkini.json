@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07-08-22 09:28:24 WIB",
+    "lintang": "-4.41",
+    "bujur": "102.09",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "65 km BaratDaya SELUMA-BENGKULU"
+  },
+  {
     "waktu": "05-08-22 16:23:12 WIB",
     "lintang": "-7.76",
     "bujur": "104.95",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "78 Km",
     "wilayah": "68 km BaratLaut KAB-KUPANG-NTT"
-  },
-  {
-    "waktu": "23-06-22 21:59:00 WIB",
-    "lintang": "-6.18",
-    "bujur": "130.32",
-    "magnitudo": "5.1",
-    "kedalaman": "21 Km",
-    "wilayah": "227 km BaratLaut MALUKUTENGGARABRT"
   }
 ]
