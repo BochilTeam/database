@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/08/2022 18:38:33 WIB",
+    "lintang": "0.54 LS",
+    "bujur": "131.43 BT",
+    "magnitudo": "4",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km Timur Laut Kota Sorong",
+    "warning": [
+      "III Kota Sorong"
+    ]
+  },
+  {
     "waktu": "07/08/2022 18:21:24 WIB",
     "lintang": "3.25 LS",
     "bujur": "128.36 BT",
@@ -223,17 +234,6 @@
     "magnitudo": "4.1",
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di darat 16 km barat laut Karangasem",
-    "warning": [
-      "II Karangasem"
-    ]
-  },
-  {
-    "waktu": "27/07/2022 22:22:02 WIB",
-    "lintang": "8.28 LS",
-    "bujur": "115.47 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km barat laut Karangasem",
     "warning": [
       "II Karangasem"
     ]
