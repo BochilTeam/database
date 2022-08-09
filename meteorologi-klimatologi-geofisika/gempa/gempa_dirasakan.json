@@ -1,5 +1,34 @@
 [
   {
+    "waktu": "09/08/2022 20:04:42 WIB",
+    "lintang": "8.37 LS",
+    "bujur": "117.14 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km TimurLaut Pernang",
+    "warning": [
+      "III Sumbawa",
+      "III Sumbawa Barat",
+      "II Lombok Barat",
+      "II Lombok Timur",
+      "II Lombok Tengah"
+    ]
+  },
+  {
+    "waktu": "09/08/2022 19:59:42 WIB",
+    "lintang": "6.87 LS",
+    "bujur": "130 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "176 Km",
+    "wilayah": "Pusat gempa berada di laut 189 Km BaratLaut Maluku Tenggara Barat",
+    "warning": [
+      "III - IV Saumlaki",
+      "III Dobo",
+      "II - III Sorong",
+      "II - III Kaimana"
+    ]
+  },
+  {
     "waktu": "09/08/2022 13:36:09 WIB",
     "lintang": "8.34 LS",
     "bujur": "117.15 BT",
@@ -211,34 +240,6 @@
     "wilayah": "Pusat gempa berada di darat 16 km Baratlaut Karangasem",
     "warning": [
       "II Kubu"
-    ]
-  },
-  {
-    "waktu": "29/07/2022 22:11:39 WIB",
-    "lintang": "8.22 LS",
-    "bujur": "115.47 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km Baratlaut Karangasem",
-    "warning": [
-      "II Kubu"
-    ]
-  },
-  {
-    "waktu": "29/07/2022 18:57:47 WIB",
-    "lintang": "8.21 LS",
-    "bujur": "115.49 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km BaratLaut Karangasem",
-    "warning": [
-      "III Karangasem",
-      "II-III Gianyar",
-      "II-III Denpasar",
-      "II Kuta",
-      "III Mataram",
-      "III Lombok Barat",
-      "II Lombok Tengah"
     ]
   }
 ]

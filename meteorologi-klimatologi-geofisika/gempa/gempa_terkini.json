@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09-08-22 19:59:42 WIB",
+    "lintang": "-6.87",
+    "bujur": "130.00",
+    "magnitudo": "5.9",
+    "kedalaman": "176 Km",
+    "wilayah": "189 km BaratLaut MALUKUTENGGARABRT"
+  },
+  {
     "waktu": "09-08-22 06:15:08 WIB",
     "lintang": "-6.28",
     "bujur": "104.42",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "119 km Tenggara BITUNG-SULUT"
-  },
-  {
-    "waktu": "01-07-22 05:09:42 WIB",
-    "lintang": "-2.57",
-    "bujur": "109.98",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "126 km BaratDaya KETAPANG-KALBAR"
   }
 ]
