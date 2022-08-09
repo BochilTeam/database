@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "09/08/2022 13:36:09 WIB",
+    "lintang": "8.34 LS",
+    "bujur": "117.15 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 17 km timur laut Pulau Saringi",
+    "warning": [
+      "III Kota Sumbawa",
+      "III Kab Sumbawa Barat",
+      "II Kab Lombok Timur"
+    ]
+  },
+  {
     "waktu": "09/08/2022 11:41:13 WIB",
     "lintang": "1.8 LS",
     "bujur": "100.39 BT",
@@ -226,17 +239,6 @@
       "III Mataram",
       "III Lombok Barat",
       "II Lombok Tengah"
-    ]
-  },
-  {
-    "waktu": "29/07/2022 16:13:38 WIB",
-    "lintang": "0.08 LU",
-    "bujur": "109.6 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 30 km Timurlaut Pontianak",
-    "warning": [
-      "II - III Jelimpo"
     ]
   }
 ]
