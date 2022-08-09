@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09-08-22 06:15:08 WIB",
+    "lintang": "-6.28",
+    "bujur": "104.42",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "93 km BaratDaya TANGGAMUS-LAMPUNG"
+  },
+  {
     "waktu": "07-08-22 09:28:24 WIB",
     "lintang": "-4.41",
     "bujur": "102.09",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "126 km BaratDaya KETAPANG-KALBAR"
-  },
-  {
-    "waktu": "28-06-22 22:52:12 WIB",
-    "lintang": "-9.41",
-    "bujur": "123.67",
-    "magnitudo": "5.0",
-    "kedalaman": "78 Km",
-    "wilayah": "68 km BaratLaut KAB-KUPANG-NTT"
   }
 ]

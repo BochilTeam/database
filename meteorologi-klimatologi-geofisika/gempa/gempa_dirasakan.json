@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/08/2022 06:15:08 WIB",
+    "lintang": "6.28 LS",
+    "bujur": "104.42 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 93 km baratdaya Tanggamus",
+    "warning": [
+      "III Liwa"
+    ]
+  },
+  {
     "waktu": "08/08/2022 18:38:33 WIB",
     "lintang": "0.54 LS",
     "bujur": "131.43 BT",
@@ -225,17 +236,6 @@
     "warning": [
       "II - III Konawe Selatan",
       "II - III Kendari"
-    ]
-  },
-  {
-    "waktu": "28/07/2022 02:17:36 WIB",
-    "lintang": "8.2 LS",
-    "bujur": "115.5 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km barat laut Karangasem",
-    "warning": [
-      "II Karangasem"
     ]
   }
 ]
