@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "09/08/2022 21:39:18 WIB",
+    "lintang": "4.08 LS",
+    "bujur": "122.63 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 6.7 km BaratDaya Moramo Utara, Kab. Konawe",
+    "warning": [
+      "II - III Kendari",
+      "II - III Konawe Selatan",
+      "II Konawe"
+    ]
+  },
+  {
     "waktu": "09/08/2022 20:04:42 WIB",
     "lintang": "8.37 LS",
     "bujur": "117.14 BT",
@@ -229,17 +242,6 @@
     "warning": [
       "III - IV Morowali",
       "II - III Konawe Utara"
-    ]
-  },
-  {
-    "waktu": "29/07/2022 22:32:10 WIB",
-    "lintang": "8.21 LS",
-    "bujur": "115.47 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km Baratlaut Karangasem",
-    "warning": [
-      "II Kubu"
     ]
   }
 ]
