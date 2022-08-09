@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "09/08/2022 11:41:13 WIB",
+    "lintang": "1.8 LS",
+    "bujur": "100.39 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di laut 54 km barat daya Painan, Pesisir Selatan",
+    "warning": [
+      "III Padang",
+      "III Pesisir Selatan",
+      "II - III Solok"
+    ]
+  },
+  {
     "waktu": "09/08/2022 06:15:08 WIB",
     "lintang": "6.28 LS",
     "bujur": "104.42 BT",
@@ -224,18 +237,6 @@
     "wilayah": "Pusat gempa berada di darat 30 km Timurlaut Pontianak",
     "warning": [
       "II - III Jelimpo"
-    ]
-  },
-  {
-    "waktu": "29/07/2022 15:31:56 WIB",
-    "lintang": "4.06 LS",
-    "bujur": "122.25 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km timur laut Mowila, Kab. Konawe",
-    "warning": [
-      "II - III Konawe Selatan",
-      "II - III Kendari"
     ]
   }
 ]
