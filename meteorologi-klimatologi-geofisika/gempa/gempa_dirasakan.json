@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/08/2022 21:53:50 WIB",
+    "lintang": "1.56 LU",
+    "bujur": "98.95 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "72 Km",
+    "wilayah": "Pusat gempa berada di darat 20 km Tenggara Tapanuli Tengah",
+    "warning": [
+      "II - III Tarutung"
+    ]
+  },
+  {
     "waktu": "11/08/2022 12:19:20 WIB",
     "lintang": "3.45 LS",
     "bujur": "101.84 BT",
@@ -230,17 +241,6 @@
       "III Nagan Raya",
       "II-III Bener Meriah",
       "II-III Pidie Jaya"
-    ]
-  },
-  {
-    "waktu": "30/07/2022 14:01:05 WIB",
-    "lintang": "0.33 LU",
-    "bujur": "125.77 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di laut 134 km Tenggara Ratahan Mitra",
-    "warning": [
-      "II - III Bolaang Mongondow Selatan"
     ]
   }
 ]
