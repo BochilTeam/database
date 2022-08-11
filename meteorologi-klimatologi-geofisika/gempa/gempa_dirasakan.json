@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/08/2022 12:19:20 WIB",
+    "lintang": "3.45 LS",
+    "bujur": "101.84 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "32 Km",
+    "wilayah": "Pusat gempa berada di laut 39 km Barat Daya Bengkulu Utara",
+    "warning": [
+      "II Kota Bengkulu"
+    ]
+  },
+  {
     "waktu": "10/08/2022 16:11:13 WIB",
     "lintang": "3.23 LS",
     "bujur": "128.17 BT",
@@ -230,17 +241,6 @@
     "wilayah": "Pusat gempa berada di laut 134 km Tenggara Ratahan Mitra",
     "warning": [
       "II - III Bolaang Mongondow Selatan"
-    ]
-  },
-  {
-    "waktu": "30/07/2022 07:40:49 WIB",
-    "lintang": "3.54 LS",
-    "bujur": "128.26 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 19 Km Timur Laut AMbon",
-    "warning": [
-      "II Suli"
     ]
   }
 ]
