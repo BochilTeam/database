@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/08/2022 12:25:02 WIB",
+    "lintang": "3.74 LS",
+    "bujur": "119.54 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km BaratDaya Pinrang",
+    "warning": [
+      "II-III Pinrang"
+    ]
+  },
+  {
     "waktu": "11/08/2022 21:53:50 WIB",
     "lintang": "1.56 LU",
     "bujur": "98.95 BT",
@@ -224,23 +235,6 @@
     "wilayah": "Pusat gempa berada di laut 15 km barat laut Kota Jayapura",
     "warning": [
       "III Jayapura"
-    ]
-  },
-  {
-    "waktu": "31/07/2022 10:03:16 WIB",
-    "lintang": "4.25 LU",
-    "bujur": "95.7 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "56 Km",
-    "wilayah": "Pusat gempa berada di laut 44 km Tenggara Calang-Aceh Jaya",
-    "warning": [
-      "III Aceh Besar",
-      "III Pidie",
-      "III Banda Aceh",
-      "III Aceh Jaya",
-      "III Nagan Raya",
-      "II-III Bener Meriah",
-      "II-III Pidie Jaya"
     ]
   }
 ]
