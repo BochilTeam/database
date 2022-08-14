@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14-08-22 09:47:47 WIB",
+    "lintang": "1.86",
+    "bujur": "126.44",
+    "magnitudo": "5.9",
+    "kedalaman": "10 Km",
+    "wilayah": "139 km BaratLaut HALMAHERABARAT-MALUT"
+  },
+  {
     "waktu": "13-08-22 07:18:33 WIB",
     "lintang": "-11.49",
     "bujur": "119.70",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "111 Km",
     "wilayah": "182 km BaratLaut MALUKUTENGGARA"
-  },
-  {
-    "waktu": "03-07-22 07:10:37 WIB",
-    "lintang": "4.46",
-    "bujur": "96.55",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "36 km TimurLaut KAB-NAGANRAYA-ACEH"
   }
 ]

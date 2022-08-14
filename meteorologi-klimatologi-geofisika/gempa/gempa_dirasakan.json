@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "14/08/2022 09:47:47 WIB",
+    "lintang": "1.86 LU",
+    "bujur": "126.44 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 139 km barat laut Halmahera Barat",
+    "warning": [
+      "II Minahasa",
+      "II - III Bitung",
+      "II - III Kab. Minahasa Tenggara",
+      "II - III Tomohon",
+      "II - III Manado",
+      "III Batang Dua"
+    ]
+  },
+  {
     "waktu": "12/08/2022 12:25:02 WIB",
     "lintang": "3.74 LS",
     "bujur": "119.54 BT",
@@ -224,17 +240,6 @@
     "warning": [
       "III - IV Malili",
       "II Wotu"
-    ]
-  },
-  {
-    "waktu": "01/08/2022 09:20:24 WIB",
-    "lintang": "2.4 LS",
-    "bujur": "140.68 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di laut 15 km barat laut Kota Jayapura",
-    "warning": [
-      "III Jayapura"
     ]
   }
 ]
