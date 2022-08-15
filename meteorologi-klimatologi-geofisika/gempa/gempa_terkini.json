@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15-08-22 18:10:05 WIB",
+    "lintang": "-5.93",
+    "bujur": "110.34",
+    "magnitudo": "5.3",
+    "kedalaman": "566 Km",
+    "wilayah": "81 km BaratLaut JEPARA-JATENG"
+  },
+  {
     "waktu": "15-08-22 11:34:49 WIB",
     "lintang": "2.54",
     "bujur": "128.18",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "142 km BaratLaut ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "06-07-22 06:27:08 WIB",
-    "lintang": "0.87",
-    "bujur": "126.89",
-    "magnitudo": "5.0",
-    "kedalaman": "13 Km",
-    "wilayah": "54 km BaratLaut TERNATE-MALUT"
   }
 ]

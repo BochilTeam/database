@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/08/2022 17:21:37 WIB",
+    "lintang": "3.99 LS",
+    "bujur": "122.8 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 16.6 km timur laut Moramo Utara, Kab.Konawe",
+    "warning": [
+      "II - III Kendari"
+    ]
+  },
+  {
     "waktu": "14/08/2022 18:40:05 WIB",
     "lintang": "2.54 LS",
     "bujur": "121.59 BT",
@@ -228,17 +239,6 @@
       "II-III Toli-Toli",
       "II Bone Bolango",
       "II Limboto"
-    ]
-  },
-  {
-    "waktu": "02/08/2022 04:17:12 WIB",
-    "lintang": "1.49 LU",
-    "bujur": "98.87 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "83 Km",
-    "wilayah": "Pusat gempa berada di darat 23 km tenggara Tapanuli Tengah",
-    "warning": [
-      "II-III Pinangsori"
     ]
   }
 ]
