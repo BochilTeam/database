@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15-08-22 23:35:14 WIB",
+    "lintang": "0.11",
+    "bujur": "96.53",
+    "magnitudo": "5.5",
+    "kedalaman": "25 Km",
+    "wilayah": "140 km BaratDaya NIASBARAT-SUMUT"
+  },
+  {
     "waktu": "15-08-22 18:10:05 WIB",
     "lintang": "-5.93",
     "bujur": "110.34",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 Km",
     "wilayah": "171 km BaratDaya LUMAJANG-JATIM"
-  },
-  {
-    "waktu": "06-07-22 12:10:19 WIB",
-    "lintang": "-5.08",
-    "bujur": "101.01",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "142 km BaratLaut ENGGANO-BENGKULU"
   }
 ]
