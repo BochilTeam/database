@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15-08-22 11:34:49 WIB",
+    "lintang": "2.54",
+    "bujur": "128.18",
+    "magnitudo": "5.2",
+    "kedalaman": "140 Km",
+    "wilayah": "56 km BaratLaut DARUBA-MALUT"
+  },
+  {
     "waktu": "14-08-22 09:47:47 WIB",
     "lintang": "1.86",
     "bujur": "126.44",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "13 Km",
     "wilayah": "54 km BaratLaut TERNATE-MALUT"
-  },
-  {
-    "waktu": "05-07-22 21:56:25 WIB",
-    "lintang": "-5.40",
-    "bujur": "131.11",
-    "magnitudo": "5.0",
-    "kedalaman": "111 Km",
-    "wilayah": "182 km BaratLaut MALUKUTENGGARA"
   }
 ]
