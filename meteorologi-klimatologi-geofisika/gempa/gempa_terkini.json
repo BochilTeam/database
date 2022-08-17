@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-08-22 19:56:32 WIB",
+    "lintang": "-7.17",
+    "bujur": "125.57",
+    "magnitudo": "5.6",
+    "kedalaman": "485 Km",
+    "wilayah": "168 km TimurLaut ALOR-NTT"
+  },
+  {
     "waktu": "15-08-22 23:35:14 WIB",
     "lintang": "0.11",
     "bujur": "96.53",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "163 km BaratDaya LUMAJANG-JATIM"
-  },
-  {
-    "waktu": "09-07-22 03:27:07 WIB",
-    "lintang": "-9.64",
-    "bujur": "112.91",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "171 km BaratDaya LUMAJANG-JATIM"
   }
 ]

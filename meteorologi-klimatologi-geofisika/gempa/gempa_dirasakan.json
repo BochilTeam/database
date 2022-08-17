@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/08/2022 19:01:14 WIB",
+    "lintang": "1.57 LS",
+    "bujur": "139.13 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 53 km timur Laut Sarmi",
+    "warning": [
+      "II Sarmi"
+    ]
+  },
+  {
     "waktu": "15/08/2022 23:35:14 WIB",
     "lintang": "0.11 LU",
     "bujur": "96.53 BT",
@@ -229,18 +240,6 @@
     "wilayah": "Pusat gempa berada di darat 77 km baratdaya Lanni Jaya",
     "warning": [
       "II Wamena"
-    ]
-  },
-  {
-    "waktu": "06/08/2022 00:01:15 WIB",
-    "lintang": "9.74 LS",
-    "bujur": "116.32 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada di laut 115 km tenggara Lombok Tengah",
-    "warning": [
-      "III Lombok Tengah",
-      "II Lombok Barat"
     ]
   }
 ]
