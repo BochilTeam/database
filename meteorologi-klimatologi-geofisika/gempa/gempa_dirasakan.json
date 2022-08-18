@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "18/08/2022 14:46:28 WIB",
+    "lintang": "0.31 LU",
+    "bujur": "124.41 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "155 Km",
+    "wilayah": "Pusat gempa berada di laut 47 km tenggara Bolaang Uki",
+    "warning": [
+      "III-IV Kota Gorontalo",
+      "III-IV Kab. Gorontalo",
+      "III-IV Kab. Bone Bolango",
+      "III-IV Bolaang Mongondow",
+      "II-III Luwuk",
+      "II-III Bitung",
+      "II-III Kotamobagu",
+      "II-III Unauna",
+      "II-III Minahasa Utara",
+      "II-III Taliabu",
+      "II Poso",
+      "II Ampana",
+      "II Masamba",
+      "III Luwu Timur"
+    ]
+  },
+  {
     "waktu": "17/08/2022 19:01:14 WIB",
     "lintang": "1.57 LS",
     "bujur": "139.13 BT",
@@ -229,17 +253,6 @@
     "warning": [
       "II - III Kota Bengkulu",
       "II-III Kepahiang"
-    ]
-  },
-  {
-    "waktu": "06/08/2022 09:38:51 WIB",
-    "lintang": "4.58 LS",
-    "bujur": "138.19 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "89 Km",
-    "wilayah": "Pusat gempa berada di darat 77 km baratdaya Lanni Jaya",
-    "warning": [
-      "II Wamena"
     ]
   }
 ]
