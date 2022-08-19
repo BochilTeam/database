@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "19/08/2022 14:55:22 WIB",
+    "lintang": "2.83 LS",
+    "bujur": "118.66 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di Laut 35 Km Barat Laut Majene",
+    "warning": [
+      "III Mamuju"
+    ]
+  },
+  {
     "waktu": "18/08/2022 14:46:28 WIB",
     "lintang": "0.31 LU",
     "bujur": "124.41 BT",
@@ -241,18 +252,6 @@
     "wilayah": "Pusat gempa berada di darat 3 km Timur Laut Luwu Timur",
     "warning": [
       "II - III Malili"
-    ]
-  },
-  {
-    "waktu": "07/08/2022 09:28:24 WIB",
-    "lintang": "4.41 LS",
-    "bujur": "102.09 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 65 km baratdaya Seluma",
-    "warning": [
-      "II - III Kota Bengkulu",
-      "II-III Kepahiang"
     ]
   }
 ]
