@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/08/2022 14:13:42 WIB",
+    "lintang": "9.16 LS",
+    "bujur": "120.2 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 56 km barat laut Waingapu",
+    "warning": [
+      "II - III Ruteng"
+    ]
+  },
+  {
     "waktu": "19/08/2022 14:55:22 WIB",
     "lintang": "2.83 LS",
     "bujur": "118.66 BT",
@@ -241,17 +252,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km Utara Kairatu",
     "warning": [
       "III Kairatu"
-    ]
-  },
-  {
-    "waktu": "07/08/2022 14:05:37 WIB",
-    "lintang": "2.57 LS",
-    "bujur": "121.2 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km Timur Laut Luwu Timur",
-    "warning": [
-      "II - III Malili"
     ]
   }
 ]
