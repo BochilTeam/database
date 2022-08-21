@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-08-22 12:08:33 WIB",
+    "lintang": "-0.24",
+    "bujur": "125.21",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "129 km Tenggara TUTUYAN-BOLTIM-SULUT"
+  },
+  {
     "waktu": "18-08-22 14:46:28 WIB",
     "lintang": "0.31",
     "bujur": "124.41",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "167 km BaratDaya LUMAJANG-JATIM"
-  },
-  {
-    "waktu": "09-07-22 08:08:39 WIB",
-    "lintang": "5.51",
-    "bujur": "126.48",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "169 km BaratLaut MELONGUANE-SULUT"
   }
 ]
