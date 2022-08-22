@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22-08-22 15:36:33 WIB",
+    "lintang": "-9.36",
+    "bujur": "115.59",
+    "magnitudo": "5.8",
+    "kedalaman": "124 Km",
+    "wilayah": "74 km Tenggara KUTASELATAN-BALI"
+  },
+  {
     "waktu": "21-08-22 12:08:33 WIB",
     "lintang": "-0.24",
     "bujur": "125.21",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "13 Km",
     "wilayah": "82 km BaratDaya TANGGAMUS-LAMPUNG"
-  },
-  {
-    "waktu": "09-07-22 09:53:44 WIB",
-    "lintang": "-9.61",
-    "bujur": "112.91",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "167 km BaratDaya LUMAJANG-JATIM"
   }
 ]
