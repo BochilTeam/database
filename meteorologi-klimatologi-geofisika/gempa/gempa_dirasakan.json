@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "22/08/2022 19:08:45 WIB",
+    "lintang": "1.85 LS",
+    "bujur": "120.88 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km TimurLaut Poso",
+    "warning": [
+      "II - III Tomata"
+    ]
+  },
+  {
+    "waktu": "22/08/2022 18:09:36 WIB",
+    "lintang": "0.49 LS",
+    "bujur": "123.39 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 44 km utara Balantak",
+    "warning": [
+      "II - III Balantak",
+      "II Luwuk",
+      "II Pagimana"
+    ]
+  },
+  {
     "waktu": "22/08/2022 16:26:54 WIB",
     "lintang": "1.12 LS",
     "bujur": "100.3 BT",
@@ -244,32 +268,6 @@
       "III Dobo",
       "II - III Sorong",
       "II - III Kaimana"
-    ]
-  },
-  {
-    "waktu": "09/08/2022 13:36:09 WIB",
-    "lintang": "8.34 LS",
-    "bujur": "117.15 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 17 km timur laut Pulau Saringi",
-    "warning": [
-      "III Kota Sumbawa",
-      "III Kab Sumbawa Barat",
-      "II Kab Lombok Timur"
-    ]
-  },
-  {
-    "waktu": "09/08/2022 11:41:13 WIB",
-    "lintang": "1.8 LS",
-    "bujur": "100.39 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada di laut 54 km barat daya Painan, Pesisir Selatan",
-    "warning": [
-      "III Padang",
-      "III Pesisir Selatan",
-      "II - III Solok"
     ]
   }
 ]
