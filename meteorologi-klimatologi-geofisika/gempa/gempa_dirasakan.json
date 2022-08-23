@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/08/2022 02:46:52 WIB",
+    "lintang": "6.34 LS",
+    "bujur": "103.67 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 131 km barat daya Pesisir Barat",
+    "warning": [
+      "II Liwa"
+    ]
+  },
+  {
     "waktu": "23/08/2022 23:45:11 WIB",
     "lintang": "4.05 LU",
     "bujur": "96 BT",
@@ -278,17 +289,6 @@
     "wilayah": "Pusat gempa berada di darat 20 km Tenggara Tapanuli Tengah",
     "warning": [
       "II - III Tarutung"
-    ]
-  },
-  {
-    "waktu": "11/08/2022 12:19:20 WIB",
-    "lintang": "3.45 LS",
-    "bujur": "101.84 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "32 Km",
-    "wilayah": "Pusat gempa berada di laut 39 km Barat Daya Bengkulu Utara",
-    "warning": [
-      "II Kota Bengkulu"
     ]
   }
 ]
