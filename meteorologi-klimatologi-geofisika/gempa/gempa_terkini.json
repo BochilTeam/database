@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23-08-22 20:39:13 WIB",
+    "lintang": "-5.39",
+    "bujur": "131.44",
+    "magnitudo": "5.4",
+    "kedalaman": "110 Km",
+    "wilayah": "147 km BaratLaut MALUKUTENGGARA"
+  },
+  {
     "waktu": "22-08-22 15:36:33 WIB",
     "lintang": "-9.36",
     "bujur": "115.59",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "25 Km",
     "wilayah": "68 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
-  },
-  {
-    "waktu": "12-07-22 09:52:07 WIB",
-    "lintang": "-6.06",
-    "bujur": "104.22",
-    "magnitudo": "5.1",
-    "kedalaman": "13 Km",
-    "wilayah": "82 km BaratDaya TANGGAMUS-LAMPUNG"
   }
 ]
