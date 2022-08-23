@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "23/08/2022 23:45:11 WIB",
+    "lintang": "4.05 LU",
+    "bujur": "96 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "39 Km",
+    "wilayah": "Pusat gempa berada di laut 17 km baratdaya Meulaboh",
+    "warning": [
+      "III Nagan Raya",
+      "III Meulaboh"
+    ]
+  },
+  {
+    "waktu": "23/08/2022 23:22:05 WIB",
+    "lintang": "2.39 LS",
+    "bujur": "140.48 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di laut 23 km Timur Laut Kab. Jayapura",
+    "warning": [
+      "III Jayapura"
+    ]
+  },
+  {
     "waktu": "23/08/2022 21:31:39 WIB",
     "lintang": "5.22 LS",
     "bujur": "102.95 BT",
@@ -266,30 +289,6 @@
     "wilayah": "Pusat gempa berada di laut 39 km Barat Daya Bengkulu Utara",
     "warning": [
       "II Kota Bengkulu"
-    ]
-  },
-  {
-    "waktu": "10/08/2022 16:11:13 WIB",
-    "lintang": "3.23 LS",
-    "bujur": "128.17 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 19 km selatan Piru",
-    "warning": [
-      "III Kairatu"
-    ]
-  },
-  {
-    "waktu": "09/08/2022 21:39:18 WIB",
-    "lintang": "4.08 LS",
-    "bujur": "122.63 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 6.7 km BaratDaya Moramo Utara, Kab. Konawe",
-    "warning": [
-      "II - III Kendari",
-      "II - III Konawe Selatan",
-      "II Konawe"
     ]
   }
 ]
