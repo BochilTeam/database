@@ -1,5 +1,56 @@
 [
   {
+    "waktu": "23/08/2022 21:31:39 WIB",
+    "lintang": "5.22 LS",
+    "bujur": "102.95 BT",
+    "magnitudo": "6.5",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 64 km BaratDaya KAUR-BENGKULU",
+    "warning": [
+      "III Martapura",
+      "III Panimbang",
+      "III Kec. Ngaras",
+      "III Bandar Lampung",
+      "III Muara Dua",
+      "III Semaka",
+      "III Pematang Sawah",
+      "II-III Bayah",
+      "II-III Malingping",
+      "II - III Ujung Kulon",
+      "II - III Kec. Pesisir Tengah",
+      "II Kerinci",
+      "II Padang",
+      "V Kaur",
+      "IV-V Liwa",
+      "IV Kepahiang",
+      "IV Rejang Lebong",
+      "IV Lebong",
+      "IV Enggano",
+      "III-IV Kota Bengkulu",
+      "III-IV Muko-muko",
+      "III-IV Argamakmur",
+      "III-IV Manna",
+      "III-IV Putri Hijau",
+      "III-IV Musi Rawas",
+      "III-IV Oku Selatan",
+      "III-IV Lubuk Linggau",
+      "III-IV Lahat",
+      "III-IV Pagar Alam"
+    ]
+  },
+  {
+    "waktu": "23/08/2022 20:39:13 WIB",
+    "lintang": "5.39 LS",
+    "bujur": "131.44 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "110 Km",
+    "wilayah": "Pusat gempa berada di laut 147 km Barat Laut Maluku Tenggara",
+    "warning": [
+      "III Tual",
+      "II Banda"
+    ]
+  },
+  {
     "waktu": "22/08/2022 19:08:45 WIB",
     "lintang": "1.85 LS",
     "bujur": "120.88 BT",
@@ -239,35 +290,6 @@
       "II - III Kendari",
       "II - III Konawe Selatan",
       "II Konawe"
-    ]
-  },
-  {
-    "waktu": "09/08/2022 20:04:42 WIB",
-    "lintang": "8.37 LS",
-    "bujur": "117.14 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km TimurLaut Pernang",
-    "warning": [
-      "III Sumbawa",
-      "III Sumbawa Barat",
-      "II Lombok Barat",
-      "II Lombok Timur",
-      "II Lombok Tengah"
-    ]
-  },
-  {
-    "waktu": "09/08/2022 19:59:42 WIB",
-    "lintang": "6.87 LS",
-    "bujur": "130 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "176 Km",
-    "wilayah": "Pusat gempa berada di laut 189 Km BaratLaut Maluku Tenggara Barat",
-    "warning": [
-      "III - IV Saumlaki",
-      "III Dobo",
-      "II - III Sorong",
-      "II - III Kaimana"
     ]
   }
 ]
