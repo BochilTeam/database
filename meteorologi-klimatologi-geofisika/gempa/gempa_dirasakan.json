@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/08/2022 07:03:47 WIB",
+    "lintang": "3.87 LS",
+    "bujur": "122.41 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 6.3 km barat daya Motui, Kab. Konawe",
+    "warning": [
+      "II-III Konawe"
+    ]
+  },
+  {
     "waktu": "24/08/2022 02:46:52 WIB",
     "lintang": "6.34 LS",
     "bujur": "103.67 BT",
@@ -278,17 +289,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km BaratDaya Pinrang",
     "warning": [
       "II-III Pinrang"
-    ]
-  },
-  {
-    "waktu": "11/08/2022 21:53:50 WIB",
-    "lintang": "1.56 LU",
-    "bujur": "98.95 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "72 Km",
-    "wilayah": "Pusat gempa berada di darat 20 km Tenggara Tapanuli Tengah",
-    "warning": [
-      "II - III Tarutung"
     ]
   }
 ]
