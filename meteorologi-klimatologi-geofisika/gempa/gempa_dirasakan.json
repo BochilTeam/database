@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/08/2022 10:21:32 WIB",
+    "lintang": "4.6 LS",
+    "bujur": "101.88 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 93 km BaratLaut Enggano",
+    "warning": [
+      "III Kota Bengkulu"
+    ]
+  },
+  {
     "waktu": "24/08/2022 07:03:47 WIB",
     "lintang": "3.87 LS",
     "bujur": "122.41 BT",
@@ -278,17 +289,6 @@
       "II - III Tomohon",
       "II - III Manado",
       "III Batang Dua"
-    ]
-  },
-  {
-    "waktu": "12/08/2022 12:25:02 WIB",
-    "lintang": "3.74 LS",
-    "bujur": "119.54 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km BaratDaya Pinrang",
-    "warning": [
-      "II-III Pinrang"
     ]
   }
 ]
