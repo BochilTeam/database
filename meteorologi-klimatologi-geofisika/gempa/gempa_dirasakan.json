@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "26/08/2022 04:55:24 WIB",
+    "lintang": "7.77 LS",
+    "bujur": "111.98 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km BaratLaut Kota Kediri",
+    "warning": [
+      "II Kediri",
+      "II Barong",
+      "II Nganjuk"
+    ]
+  },
+  {
     "waktu": "25/08/2022 10:21:32 WIB",
     "lintang": "4.6 LS",
     "bujur": "101.88 BT",
@@ -273,22 +286,6 @@
     "wilayah": "Pusat gempa berada di darat 45 km timur laut Luwu Timur",
     "warning": [
       "II - III Mahalona"
-    ]
-  },
-  {
-    "waktu": "14/08/2022 09:47:47 WIB",
-    "lintang": "1.86 LU",
-    "bujur": "126.44 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 139 km barat laut Halmahera Barat",
-    "warning": [
-      "II Minahasa",
-      "II - III Bitung",
-      "II - III Kab. Minahasa Tenggara",
-      "II - III Tomohon",
-      "II - III Manado",
-      "III Batang Dua"
     ]
   }
 ]
