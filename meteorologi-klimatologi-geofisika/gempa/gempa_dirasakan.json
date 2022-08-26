@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/08/2022 10:34:49 WIB",
+    "lintang": "7.79 LS",
+    "bujur": "112.95 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km Tenggara Pasuruan",
+    "warning": [
+      "II Pasuruan"
+    ]
+  },
+  {
     "waktu": "26/08/2022 04:55:24 WIB",
     "lintang": "7.77 LS",
     "bujur": "111.98 BT",
@@ -275,17 +286,6 @@
     "wilayah": "Pusat gempa berada di laut 16.6 km timur laut Moramo Utara, Kab.Konawe",
     "warning": [
       "II - III Kendari"
-    ]
-  },
-  {
-    "waktu": "14/08/2022 18:40:05 WIB",
-    "lintang": "2.54 LS",
-    "bujur": "121.59 BT",
-    "magnitudo": "3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 45 km timur laut Luwu Timur",
-    "warning": [
-      "II - III Mahalona"
     ]
   }
 ]
