@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "27/08/2022 19:57:09 WIB",
+    "lintang": "3.48 LS",
+    "bujur": "128.48 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di laut 21 Km Barat laut Saparua Maluku Tengah",
+    "warning": [
+      "II Saparua"
+    ]
+  },
+  {
+    "waktu": "27/08/2022 19:49:47 WIB",
+    "lintang": "3.52 LS",
+    "bujur": "128.17 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di laut 19 Km Utara Ambon",
+    "warning": [
+      "II Saparua"
+    ]
+  },
+  {
     "waktu": "26/08/2022 10:34:49 WIB",
     "lintang": "7.79 LS",
     "bujur": "112.95 BT",
@@ -260,32 +282,6 @@
     "wilayah": "Pusat gempa berada di laut 53 km timur Laut Sarmi",
     "warning": [
       "II Sarmi"
-    ]
-  },
-  {
-    "waktu": "15/08/2022 23:35:14 WIB",
-    "lintang": "0.11 LU",
-    "bujur": "96.53 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "25 Km",
-    "wilayah": "Pusat gempa berada di laut 140 km barat daya Nias Barat",
-    "warning": [
-      "III Gido",
-      "III Teluk Dalam",
-      "III Lahomi",
-      "III Nias Barat",
-      "II Gunung Sitoli"
-    ]
-  },
-  {
-    "waktu": "15/08/2022 17:21:37 WIB",
-    "lintang": "3.99 LS",
-    "bujur": "122.8 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 16.6 km timur laut Moramo Utara, Kab.Konawe",
-    "warning": [
-      "II - III Kendari"
     ]
   }
 ]
