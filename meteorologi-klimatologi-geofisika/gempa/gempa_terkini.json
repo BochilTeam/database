@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28-08-22 03:49:52 WIB",
+    "lintang": "-10.48",
+    "bujur": "109.44",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "303 km BaratDaya BANTUL-DIY"
+  },
+  {
     "waktu": "25-08-22 10:21:32 WIB",
     "lintang": "-4.60",
     "bujur": "101.88",
@@ -230,13 +238,5 @@
     "magnitudo": "5.8",
     "kedalaman": "16 Km",
     "wilayah": "68 km BaratDaya BENGKULU-BENGKULU"
-  },
-  {
-    "waktu": "19-07-22 20:40:28 WIB",
-    "lintang": "-4.40",
-    "bujur": "134.59",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "142 km Tenggara KAIMANA-PAPUABRT"
   }
 ]
