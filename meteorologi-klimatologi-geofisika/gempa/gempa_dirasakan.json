@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/08/2022 15:09:56 WIB",
+    "lintang": "9.49 LS",
+    "bujur": "117.14 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "33 Km",
+    "wilayah": "Pusat gempa berada dilaut 87 km Tenggara SumbawaBarat",
+    "warning": [
+      "II-III Sumbawa Barat"
+    ]
+  },
+  {
     "waktu": "27/08/2022 19:57:09 WIB",
     "lintang": "3.48 LS",
     "bujur": "128.48 BT",
@@ -271,17 +282,6 @@
       "II Ampana",
       "II Masamba",
       "III Luwu Timur"
-    ]
-  },
-  {
-    "waktu": "17/08/2022 19:01:14 WIB",
-    "lintang": "1.57 LS",
-    "bujur": "139.13 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di laut 53 km timur Laut Sarmi",
-    "warning": [
-      "II Sarmi"
     ]
   }
 ]
