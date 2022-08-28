@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28-08-22 11:58:57 WIB",
+    "lintang": "5.07",
+    "bujur": "125.48",
+    "magnitudo": "5.0",
+    "kedalaman": "115 Km",
+    "wilayah": "162 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
     "waktu": "28-08-22 03:49:52 WIB",
     "lintang": "-10.48",
     "bujur": "109.44",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "46 Km",
     "wilayah": "91 km BaratDaya GORONTALO-GORONTALO"
-  },
-  {
-    "waktu": "20-07-22 06:46:50 WIB",
-    "lintang": "-4.33",
-    "bujur": "101.95",
-    "magnitudo": "5.8",
-    "kedalaman": "16 Km",
-    "wilayah": "68 km BaratDaya BENGKULU-BENGKULU"
   }
 ]
