@@ -1,5 +1,23 @@
 [
   {
+    "waktu": "29/08/2022 10:29:14 WIB",
+    "lintang": "0.99 LS",
+    "bujur": "98.53 BT",
+    "magnitudo": "6.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 116 km barat laut Kep Mentawai",
+    "warning": [
+      "V-VI Siberut",
+      "III-IV Tuapejat",
+      "III-IV Painan",
+      "III Padang",
+      "II - III Padang Panjang",
+      "II - III Bukittinggi",
+      "II - III Kabupaten Solok",
+      "II - III Solok Selatan"
+    ]
+  },
+  {
     "waktu": "29/08/2022 05:34:35 WIB",
     "lintang": "1.04 LS",
     "bujur": "98.55 BT",
@@ -267,17 +285,6 @@
     "wilayah": "Pusat gempa berada di laut 56 km barat laut Waingapu",
     "warning": [
       "II - III Ruteng"
-    ]
-  },
-  {
-    "waktu": "19/08/2022 14:55:22 WIB",
-    "lintang": "2.83 LS",
-    "bujur": "118.66 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di Laut 35 Km Barat Laut Majene",
-    "warning": [
-      "III Mamuju"
     ]
   }
 ]

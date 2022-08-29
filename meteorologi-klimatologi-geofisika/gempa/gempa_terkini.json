@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29-08-22 10:29:14 WIB",
+    "lintang": "-0.99",
+    "bujur": "98.53",
+    "magnitudo": "6.4",
+    "kedalaman": "10 Km",
+    "wilayah": "161 km BaratLaut KEP-MENTAWAI-SUMBAR"
+  },
+  {
     "waktu": "29-08-22 05:34:35 WIB",
     "lintang": "-1.04",
     "bujur": "98.55",
@@ -230,13 +238,5 @@
     "magnitudo": "5.7",
     "kedalaman": "13 Km",
     "wilayah": "100 km BaratLaut LARANTUKA-NTT"
-  },
-  {
-    "waktu": "23-07-22 13:09:17 WIB",
-    "lintang": "-7.65",
-    "bujur": "122.43",
-    "magnitudo": "5.5",
-    "kedalaman": "17 Km",
-    "wilayah": "94 km BaratLaut LARANTUKA-NTT"
   }
 ]
