@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/08/2022 17:58:24 WIB",
+    "lintang": "0.92 LS",
+    "bujur": "99.23 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 48 km timur laut Pulau Siberut -",
+    "warning": [
+      "III Siberut Utara"
+    ]
+  },
+  {
     "waktu": "29/08/2022 10:29:14 WIB",
     "lintang": "0.99 LS",
     "bujur": "98.53 BT",
@@ -274,17 +285,6 @@
     "warning": [
       "II Bima",
       "II Dompu"
-    ]
-  },
-  {
-    "waktu": "20/08/2022 14:13:42 WIB",
-    "lintang": "9.16 LS",
-    "bujur": "120.2 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 56 km barat laut Waingapu",
-    "warning": [
-      "II - III Ruteng"
     ]
   }
 ]
