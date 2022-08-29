@@ -1,5 +1,25 @@
 [
   {
+    "waktu": "29/08/2022 05:34:35 WIB",
+    "lintang": "1.04 LS",
+    "bujur": "98.55 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 156 km barat laut Kepulauan Mentawai",
+    "warning": [
+      "IV Siberut Utara",
+      "III Tuapejat",
+      "II - III Pasaman Barat",
+      "II - III Padang",
+      "II - III Painan",
+      "II - III Nias Selatan",
+      "II Padang Panjang",
+      "II Bukittinggi",
+      "II Kabupaten Solok",
+      "II Solok Selatan"
+    ]
+  },
+  {
     "waktu": "28/08/2022 15:09:56 WIB",
     "lintang": "9.49 LS",
     "bujur": "117.14 BT",
@@ -258,30 +278,6 @@
     "wilayah": "Pusat gempa berada di Laut 35 Km Barat Laut Majene",
     "warning": [
       "III Mamuju"
-    ]
-  },
-  {
-    "waktu": "18/08/2022 14:46:28 WIB",
-    "lintang": "0.31 LU",
-    "bujur": "124.41 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "155 Km",
-    "wilayah": "Pusat gempa berada di laut 47 km tenggara Bolaang Uki",
-    "warning": [
-      "III-IV Kota Gorontalo",
-      "III-IV Kab. Gorontalo",
-      "III-IV Kab. Bone Bolango",
-      "III-IV Bolaang Mongondow",
-      "II-III Luwuk",
-      "II-III Bitung",
-      "II-III Kotamobagu",
-      "II-III Unauna",
-      "II-III Minahasa Utara",
-      "II-III Taliabu",
-      "II Poso",
-      "II Ampana",
-      "II Masamba",
-      "III Luwu Timur"
     ]
   }
 ]
