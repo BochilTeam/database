@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "31/08/2022 02:06:20 WIB",
+    "lintang": "3.66 LS",
+    "bujur": "128.82 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "128 Km",
+    "wilayah": "Pusat gempa berada di laut 5 km timur Nusa Laut",
+    "warning": [
+      "I - II Ambon"
+    ]
+  },
+  {
     "waktu": "30/08/2022 20:42:26 WIB",
     "lintang": "1.24 LS",
     "bujur": "134.34 BT",
@@ -256,18 +267,6 @@
       "II - III Balantak",
       "II Luwuk",
       "II Pagimana"
-    ]
-  },
-  {
-    "waktu": "22/08/2022 16:26:54 WIB",
-    "lintang": "1.12 LS",
-    "bujur": "100.3 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "44 Km",
-    "wilayah": "Pusat gempa berada di laut 21 km barat daya Padang",
-    "warning": [
-      "III Padang",
-      "III Pesisir Selatan"
     ]
   }
 ]
