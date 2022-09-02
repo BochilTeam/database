@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-09-22 10:34:23 WIB",
+    "lintang": "2.20",
+    "bujur": "97.82",
+    "magnitudo": "5.0",
+    "kedalaman": "20 Km",
+    "wilayah": "15 km Tenggara KAB-ACEHSINGKIL"
+  },
+  {
     "waktu": "01-09-22 23:23:44 WIB",
     "lintang": "-7.41",
     "bujur": "128.99",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 Km",
     "wilayah": "90 km TimurLaut MOROWALI-SULTENG"
-  },
-  {
-    "waktu": "24-07-22 13:46:41 WIB",
-    "lintang": "0.46",
-    "bujur": "126.35",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "118 km BaratDaya TERNATE-MALUT"
   }
 ]

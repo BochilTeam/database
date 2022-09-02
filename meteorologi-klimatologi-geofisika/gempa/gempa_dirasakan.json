@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "02/09/2022 10:34:23 WIB",
+    "lintang": "2.2 LU",
+    "bujur": "97.82 BT",
+    "magnitudo": "5",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada dilaut 15Km Tenggara Kabupaten Aceh Singkil",
+    "warning": [
+      "III-IV Singkil",
+      "III Brastagi",
+      "III Humbang Hasundutan"
+    ]
+  },
+  {
     "waktu": "31/08/2022 02:06:20 WIB",
     "lintang": "3.66 LS",
     "bujur": "128.82 BT",
@@ -254,19 +267,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km TimurLaut Poso",
     "warning": [
       "II - III Tomata"
-    ]
-  },
-  {
-    "waktu": "22/08/2022 18:09:36 WIB",
-    "lintang": "0.49 LS",
-    "bujur": "123.39 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 44 km utara Balantak",
-    "warning": [
-      "II - III Balantak",
-      "II Luwuk",
-      "II Pagimana"
     ]
   }
 ]
