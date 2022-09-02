@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "02/09/2022 19:27:04 WIB",
+    "lintang": "3.98 LS",
+    "bujur": "121.53 BT",
+    "magnitudo": "3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada didarat 4.9 km BaratLaut Kec. Latambaga-Kab. Kolaka",
+    "warning": [
+      "II Kolaka"
+    ]
+  },
+  {
+    "waktu": "02/09/2022 17:04:30 WIB",
+    "lintang": "2.15 LU",
+    "bujur": "97.84 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada dilaut 21 km Tenggara Singkil Kab.Aceh",
+    "warning": [
+      "II Singkil"
+    ]
+  },
+  {
     "waktu": "02/09/2022 10:34:23 WIB",
     "lintang": "2.2 LU",
     "bujur": "97.82 BT",
@@ -245,29 +267,6 @@
       "III-IV Lubuk Linggau",
       "III-IV Lahat",
       "III-IV Pagar Alam"
-    ]
-  },
-  {
-    "waktu": "23/08/2022 20:39:13 WIB",
-    "lintang": "5.39 LS",
-    "bujur": "131.44 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "110 Km",
-    "wilayah": "Pusat gempa berada di laut 147 km Barat Laut Maluku Tenggara",
-    "warning": [
-      "III Tual",
-      "II Banda"
-    ]
-  },
-  {
-    "waktu": "22/08/2022 19:08:45 WIB",
-    "lintang": "1.85 LS",
-    "bujur": "120.88 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km TimurLaut Poso",
-    "warning": [
-      "II - III Tomata"
     ]
   }
 ]
