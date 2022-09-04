@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "04/09/2022 04:10:14 WIB",
+    "lintang": "7.22 LS",
+    "bujur": "109.89 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km Barat Laut WONOSOBO",
+    "warning": [
+      "II Dieng",
+      "II Banjarnegara",
+      "II Bawang (Kab. Batang)"
+    ]
+  },
+  {
+    "waktu": "04/09/2022 01:02:01 WIB",
+    "lintang": "1.6 LS",
+    "bujur": "121.24 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km barat laut Lembah Sumara",
+    "warning": [
+      "II - III Morowali Utara"
+    ]
+  },
+  {
     "waktu": "02/09/2022 19:27:04 WIB",
     "lintang": "3.98 LS",
     "bujur": "121.53 BT",
@@ -217,56 +241,6 @@
     "warning": [
       "III Nagan Raya",
       "III Meulaboh"
-    ]
-  },
-  {
-    "waktu": "23/08/2022 23:22:05 WIB",
-    "lintang": "2.39 LS",
-    "bujur": "140.48 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di laut 23 km Timur Laut Kab. Jayapura",
-    "warning": [
-      "III Jayapura"
-    ]
-  },
-  {
-    "waktu": "23/08/2022 21:31:39 WIB",
-    "lintang": "5.22 LS",
-    "bujur": "102.95 BT",
-    "magnitudo": "6.5",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 64 km BaratDaya KAUR-BENGKULU",
-    "warning": [
-      "III Martapura",
-      "III Panimbang",
-      "III Kec. Ngaras",
-      "III Bandar Lampung",
-      "III Muara Dua",
-      "III Semaka",
-      "III Pematang Sawah",
-      "II-III Bayah",
-      "II-III Malingping",
-      "II - III Ujung Kulon",
-      "II - III Kec. Pesisir Tengah",
-      "II Kerinci",
-      "II Padang",
-      "V Kaur",
-      "IV-V Liwa",
-      "IV Kepahiang",
-      "IV Rejang Lebong",
-      "IV Lebong",
-      "IV Enggano",
-      "III-IV Kota Bengkulu",
-      "III-IV Muko-muko",
-      "III-IV Argamakmur",
-      "III-IV Manna",
-      "III-IV Putri Hijau",
-      "III-IV Musi Rawas",
-      "III-IV Oku Selatan",
-      "III-IV Lubuk Linggau",
-      "III-IV Lahat",
-      "III-IV Pagar Alam"
     ]
   }
 ]
