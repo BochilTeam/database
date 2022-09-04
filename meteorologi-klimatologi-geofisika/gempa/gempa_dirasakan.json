@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/09/2022 00:21:54 WIB",
+    "lintang": "3.25 LS",
+    "bujur": "135.77 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 29 km Timurlaut Nabire",
+    "warning": [
+      "III Nabire"
+    ]
+  },
+  {
     "waktu": "04/09/2022 17:28:20 WIB",
     "lintang": "7.28 LS",
     "bujur": "106.12 BT",
@@ -27,6 +38,17 @@
       "II OKU Selatan",
       "III Liwa",
       "II Krui"
+    ]
+  },
+  {
+    "waktu": "04/09/2022 12:08:24 WIB",
+    "lintang": "6.85 LS",
+    "bujur": "128.58 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "117 Km",
+    "wilayah": "Pusat gempa berada di laut 146 km Baratlaut Tepa-MBD",
+    "warning": [
+      "III Damer"
     ]
   },
   {
@@ -226,28 +248,6 @@
       "II Kediri",
       "II Barong",
       "II Nganjuk"
-    ]
-  },
-  {
-    "waktu": "25/08/2022 10:21:32 WIB",
-    "lintang": "4.6 LS",
-    "bujur": "101.88 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 93 km BaratLaut Enggano",
-    "warning": [
-      "III Kota Bengkulu"
-    ]
-  },
-  {
-    "waktu": "24/08/2022 07:03:47 WIB",
-    "lintang": "3.87 LS",
-    "bujur": "122.41 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 6.3 km barat daya Motui, Kab. Konawe",
-    "warning": [
-      "II-III Konawe"
     ]
   }
 ]
