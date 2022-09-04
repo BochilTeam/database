@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "04/09/2022 15:52:16 WIB",
+    "lintang": "4.91 LS",
+    "bujur": "102.92 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di laut 49 km Barat daya Kaur",
+    "warning": [
+      "II - III Kaur",
+      "II Kota Bengkulu",
+      "II Kepahiang",
+      "II OKU Selatan",
+      "III Liwa",
+      "II Krui"
+    ]
+  },
+  {
     "waktu": "04/09/2022 04:10:14 WIB",
     "lintang": "7.22 LS",
     "bujur": "109.89 BT",
@@ -229,18 +245,6 @@
     "wilayah": "Pusat gempa berada di laut 131 km barat daya Pesisir Barat",
     "warning": [
       "II Liwa"
-    ]
-  },
-  {
-    "waktu": "23/08/2022 23:45:11 WIB",
-    "lintang": "4.05 LU",
-    "bujur": "96 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "39 Km",
-    "wilayah": "Pusat gempa berada di laut 17 km baratdaya Meulaboh",
-    "warning": [
-      "III Nagan Raya",
-      "III Meulaboh"
     ]
   }
 ]

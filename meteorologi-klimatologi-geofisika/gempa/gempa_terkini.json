@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04-09-22 15:52:16 WIB",
+    "lintang": "-4.91",
+    "bujur": "102.92",
+    "magnitudo": "5.1",
+    "kedalaman": "20 Km",
+    "wilayah": "49 km BaratDaya KAUR-BENGKULU"
+  },
+  {
     "waktu": "02-09-22 10:34:23 WIB",
     "lintang": "2.20",
     "bujur": "97.82",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "23 Km",
     "wilayah": "134 km Tenggara RATAHAN-MITRA-SULUT"
-  },
-  {
-    "waktu": "29-07-22 23:31:15 WIB",
-    "lintang": "-2.45",
-    "bujur": "122.68",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "90 km TimurLaut MOROWALI-SULTENG"
   }
 ]
