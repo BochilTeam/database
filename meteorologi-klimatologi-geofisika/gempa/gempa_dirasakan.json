@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "05/09/2022 10:17:29 WIB",
+    "lintang": "5.76 LS",
+    "bujur": "103.91 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "31 Km",
+    "wilayah": "Pusat gempa berada di laut 63 km baratdaya Pesisir Barat",
+    "warning": [
+      "II-III Liwa",
+      "II Pesisir Barat"
+    ]
+  },
+  {
+    "waktu": "05/09/2022 09:46:02 WIB",
+    "lintang": "0.86 LS",
+    "bujur": "134.37 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "59 Km",
+    "wilayah": "Pusat gempa berada di laut 33 km timur Manokwari",
+    "warning": [
+      "III Manokwari"
+    ]
+  },
+  {
     "waktu": "05/09/2022 00:21:54 WIB",
     "lintang": "3.25 LS",
     "bujur": "135.77 BT",
@@ -224,30 +247,6 @@
     "wilayah": "Pusat gempa berada di laut 19 Km Utara Ambon",
     "warning": [
       "II Saparua"
-    ]
-  },
-  {
-    "waktu": "26/08/2022 10:34:49 WIB",
-    "lintang": "7.79 LS",
-    "bujur": "112.95 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 13 km Tenggara Pasuruan",
-    "warning": [
-      "II Pasuruan"
-    ]
-  },
-  {
-    "waktu": "26/08/2022 04:55:24 WIB",
-    "lintang": "7.77 LS",
-    "bujur": "111.98 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km BaratLaut Kota Kediri",
-    "warning": [
-      "II Kediri",
-      "II Barong",
-      "II Nganjuk"
     ]
   }
 ]
