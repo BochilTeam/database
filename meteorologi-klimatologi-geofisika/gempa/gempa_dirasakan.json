@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "06/09/2022 20:41:47 WIB",
+    "lintang": "3.97 LS",
+    "bujur": "122.43 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km BaratDaya Kab. Konawe",
+    "warning": [
+      "II Kendari",
+      "II Konawe Selatan"
+    ]
+  },
+  {
+    "waktu": "06/09/2022 20:28:38 WIB",
+    "lintang": "2.56 LS",
+    "bujur": "140.65 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Timurlaut Kota Jayapura",
+    "warning": [
+      "II - III Kota Jayapura",
+      "II Keerom"
+    ]
+  },
+  {
     "waktu": "06/09/2022 09:31:23 WIB",
     "lintang": "2.67 LS",
     "bujur": "118.48 BT",
@@ -225,28 +249,6 @@
       "II Bukittinggi",
       "II Kabupaten Solok",
       "II Solok Selatan"
-    ]
-  },
-  {
-    "waktu": "28/08/2022 15:09:56 WIB",
-    "lintang": "9.49 LS",
-    "bujur": "117.14 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "33 Km",
-    "wilayah": "Pusat gempa berada dilaut 87 km Tenggara SumbawaBarat",
-    "warning": [
-      "II-III Sumbawa Barat"
-    ]
-  },
-  {
-    "waktu": "27/08/2022 19:57:09 WIB",
-    "lintang": "3.48 LS",
-    "bujur": "128.48 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di laut 21 Km Barat laut Saparua Maluku Tengah",
-    "warning": [
-      "II Saparua"
     ]
   }
 ]
