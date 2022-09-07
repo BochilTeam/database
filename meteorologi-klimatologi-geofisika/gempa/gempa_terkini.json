@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "08-09-22 01:11:40 WIB",
+    "lintang": "-0.01",
+    "bujur": "123.80",
+    "magnitudo": "5.3",
+    "kedalaman": "138 Km",
+    "wilayah": "47 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
+  },
+  {
+    "waktu": "08-09-22 01:09:35 WIB",
+    "lintang": "-3.37",
+    "bujur": "101.26",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "89 km Tenggara MUKOMUKO-BENGKULU"
+  },
+  {
     "waktu": "04-09-22 15:52:16 WIB",
     "lintang": "-4.91",
     "bujur": "102.92",
@@ -222,21 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "196 Km",
     "wilayah": "193 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
-    "waktu": "31-07-22 10:03:16 WIB",
-    "lintang": "4.25",
-    "bujur": "95.70",
-    "magnitudo": "5.6",
-    "kedalaman": "56 Km",
-    "wilayah": "44 km Tenggara CALANG-ACEHJAYA"
-  },
-  {
-    "waktu": "30-07-22 14:01:05 WIB",
-    "lintang": "0.33",
-    "bujur": "125.77",
-    "magnitudo": "5.1",
-    "kedalaman": "23 Km",
-    "wilayah": "134 km Tenggara RATAHAN-MITRA-SULUT"
   }
 ]
