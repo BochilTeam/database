@@ -11,6 +11,18 @@
     ]
   },
   {
+    "waktu": "08/09/2022 09:52:55 WIB",
+    "lintang": "2.86 LS",
+    "bujur": "139.86 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada didarat 68 km BaratDaya Kab. Jayapura",
+    "warning": [
+      "II - III Kab",
+      "Jayapura"
+    ]
+  },
+  {
     "waktu": "08/09/2022 05:26:33 WIB",
     "lintang": "1.23 LU",
     "bujur": "96.86 BT",
@@ -229,17 +241,6 @@
     "wilayah": "Pusat gempa berada di laut 5 km timur Nusa Laut",
     "warning": [
       "I - II Ambon"
-    ]
-  },
-  {
-    "waktu": "30/08/2022 20:42:26 WIB",
-    "lintang": "1.24 LS",
-    "bujur": "134.34 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di laut 34 km timur laut Ransiki",
-    "warning": [
-      "II - III Ransiki"
     ]
   }
 ]
