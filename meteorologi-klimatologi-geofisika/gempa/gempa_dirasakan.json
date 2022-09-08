@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "09/09/2022 00:52:49 WIB",
+    "lintang": "4.32 LS",
+    "bujur": "102.18 BT",
+    "magnitudo": "5",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di laut 51 Km Barat Daya Seluma",
+    "warning": [
+      "II Kepahiang",
+      "III Lampung",
+      "III Kota Bengkulu"
+    ]
+  },
+  {
     "waktu": "08/09/2022 14:58:55 WIB",
     "lintang": "1.47 LU",
     "bujur": "96.95 BT",
@@ -232,20 +245,6 @@
     "wilayah": "Pusat gempa berada dilaut 21 km Tenggara Singkil Kab.Aceh",
     "warning": [
       "II Singkil"
-    ]
-  },
-  {
-    "waktu": "02/09/2022 10:34:23 WIB",
-    "lintang": "2.2 LU",
-    "bujur": "97.82 BT",
-    "magnitudo": "5",
-    "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada dilaut 15Km Tenggara Kabupaten Aceh Singkil",
-    "warning": [
-      "III-IV Singkil",
-      "III Brastagi",
-      "III Humbang Hasundutan",
-      "II Pulau Banyak"
     ]
   }
 ]
