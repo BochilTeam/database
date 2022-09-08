@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "09/09/2022 02:36:40 WIB",
+    "lintang": "5.45 LS",
+    "bujur": "104.99 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km barat daya Pesawaran",
+    "warning": [
+      "III-IV Pringsewu",
+      "III-IV Pesawaran"
+    ]
+  },
+  {
     "waktu": "09/09/2022 00:52:49 WIB",
     "lintang": "4.32 LS",
     "bujur": "102.18 BT",
@@ -9,7 +21,9 @@
     "warning": [
       "II Kepahiang",
       "III Lampung",
-      "III Kota Bengkulu"
+      "III Kota Bengkulu",
+      "II Arga Makmur",
+      "III Seluma"
     ]
   },
   {
@@ -234,17 +248,6 @@
     "wilayah": "Pusat gempa berada didarat 4.9 km BaratLaut Kec. Latambaga-Kab. Kolaka",
     "warning": [
       "II Kolaka"
-    ]
-  },
-  {
-    "waktu": "02/09/2022 17:04:30 WIB",
-    "lintang": "2.15 LU",
-    "bujur": "97.84 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "26 Km",
-    "wilayah": "Pusat gempa berada dilaut 21 km Tenggara Singkil Kab.Aceh",
-    "warning": [
-      "II Singkil"
     ]
   }
 ]
