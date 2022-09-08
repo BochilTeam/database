@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/09/2022 10:25:14 WIB",
+    "lintang": "8.2 LS",
+    "bujur": "108.24 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "35 Km",
+    "wilayah": "Pusat gempa berada di laut 62 km BaratDaya KAB-PANGANDARAN",
+    "warning": [
+      "I-II Pangandaran"
+    ]
+  },
+  {
     "waktu": "08/09/2022 05:26:33 WIB",
     "lintang": "1.23 LU",
     "bujur": "96.86 BT",
@@ -229,17 +240,6 @@
     "wilayah": "Pusat gempa berada di laut 34 km timur laut Ransiki",
     "warning": [
       "II - III Ransiki"
-    ]
-  },
-  {
-    "waktu": "30/08/2022 20:09:54 WIB",
-    "lintang": "3.32 LU",
-    "bujur": "97.27 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km timurlaut Aceh Selatan",
-    "warning": [
-      "III Pasie Raja-Aceh Selatan"
     ]
   }
 ]
