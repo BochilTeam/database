@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "08-09-22 14:58:55 WIB",
+    "lintang": "1.47",
+    "bujur": "96.95",
+    "magnitudo": "5.2",
+    "kedalaman": "14 Km",
+    "wilayah": "45 km BaratLaut NIASUTARA-SUMUT"
+  },
+  {
+    "waktu": "08-09-22 14:01:22 WIB",
+    "lintang": "-10.53",
+    "bujur": "109.65",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "301 km BaratDaya GUNUNGKIDUL-DIY"
+  },
+  {
+    "waktu": "08-09-22 14:01:22 WIB",
+    "lintang": "-10.53",
+    "bujur": "109.65",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "301 km BaratDaya GUNUNGKIDUL-DIY"
+  },
+  {
     "waktu": "08-09-22 01:11:40 WIB",
     "lintang": "-0.01",
     "bujur": "123.80",
@@ -214,29 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "140 km BaratDaya SUMUR-BANTEN"
-  },
-  {
-    "waktu": "05-08-22 00:39:33 WIB",
-    "lintang": "-1.10",
-    "bujur": "97.27",
-    "magnitudo": "5.2",
-    "kedalaman": "37 Km",
-    "wilayah": "195 km BaratDaya NIASSELATAN-SUMUT"
-  },
-  {
-    "waktu": "03-08-22 14:51:56 WIB",
-    "lintang": "-9.21",
-    "bujur": "124.24",
-    "magnitudo": "5.1",
-    "kedalaman": "46 Km",
-    "wilayah": "47 km BaratLaut TIMORTENGAHUT-NTT"
-  },
-  {
-    "waktu": "31-07-22 20:36:45 WIB",
-    "lintang": "-6.76",
-    "bujur": "130.05",
-    "magnitudo": "5.1",
-    "kedalaman": "196 Km",
-    "wilayah": "193 km BaratLaut MALUKUTENGGARABRT"
   }
 ]

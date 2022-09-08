@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "08/09/2022 14:58:55 WIB",
+    "lintang": "1.47 LU",
+    "bujur": "96.95 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 45 km barat laut Nias Utara",
+    "warning": [
+      "III - IV Nias Barat",
+      "III Nias Utara",
+      "II - III Gunung Sitoli",
+      "II - III Aceh SIngkil",
+      "II Pasie Raja-Aceh Selatan",
+      "II Pulau Banyak"
+    ]
+  },
+  {
     "waktu": "08/09/2022 10:25:14 WIB",
     "lintang": "8.2 LS",
     "bujur": "108.24 BT",
@@ -230,17 +246,6 @@
       "III Brastagi",
       "III Humbang Hasundutan",
       "II Pulau Banyak"
-    ]
-  },
-  {
-    "waktu": "31/08/2022 02:06:20 WIB",
-    "lintang": "3.66 LS",
-    "bujur": "128.82 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "128 Km",
-    "wilayah": "Pusat gempa berada di laut 5 km timur Nusa Laut",
-    "warning": [
-      "I - II Ambon"
     ]
   }
 ]
