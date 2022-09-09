@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10-09-22 04:38:01 WIB",
+    "lintang": "-7.11",
+    "bujur": "129.71",
+    "magnitudo": "5.1",
+    "kedalaman": "191 Km",
+    "wilayah": "201 km BaratLaut MALUKUTENGGARABRT"
+  },
+  {
     "waktu": "10-09-22 00:20:18 WIB",
     "lintang": "2.06",
     "bujur": "126.64",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "141 km BaratDaya KARERA-SUMBATIMUR-NTT"
-  },
-  {
-    "waktu": "09-08-22 19:59:42 WIB",
-    "lintang": "-6.87",
-    "bujur": "130.00",
-    "magnitudo": "5.9",
-    "kedalaman": "176 Km",
-    "wilayah": "189 km BaratLaut MALUKUTENGGARABRT"
   }
 ]
