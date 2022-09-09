@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/09/2022 09:06:04 WIB",
+    "lintang": "3.79 LS",
+    "bujur": "133.64 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 65 km barat daya Kaimana",
+    "warning": [
+      "III Kaimana"
+    ]
+  },
+  {
     "waktu": "09/09/2022 02:36:40 WIB",
     "lintang": "5.45 LS",
     "bujur": "104.99 BT",
@@ -237,17 +248,6 @@
     "wilayah": "Pusat gempa berada di darat 16 km barat laut Lembah Sumara",
     "warning": [
       "II - III Morowali Utara"
-    ]
-  },
-  {
-    "waktu": "02/09/2022 19:27:04 WIB",
-    "lintang": "3.98 LS",
-    "bujur": "121.53 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada didarat 4.9 km BaratLaut Kec. Latambaga-Kab. Kolaka",
-    "warning": [
-      "II Kolaka"
     ]
   }
 ]
