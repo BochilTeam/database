@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09-09-22 16:17:36 WIB",
+    "lintang": "-9.10",
+    "bujur": "127.14",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "127 km BaratDaya MALUKUBRTDAYA"
+  },
+  {
     "waktu": "09-09-22 00:52:49 WIB",
     "lintang": "-4.32",
     "bujur": "102.18",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "93 km BaratDaya TANGGAMUS-LAMPUNG"
-  },
-  {
-    "waktu": "07-08-22 09:28:24 WIB",
-    "lintang": "-4.41",
-    "bujur": "102.09",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "65 km BaratDaya SELUMA-BENGKULU"
   }
 ]
