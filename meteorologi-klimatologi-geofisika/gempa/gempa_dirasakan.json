@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "10/09/2022 13:11:16 WIB",
+    "lintang": "8.37 LS",
+    "bujur": "116.08 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 8 km barat daya Lombok Utara",
+    "warning": [
+      "III Lombok Utara"
+    ]
+  },
+  {
     "waktu": "10/09/2022 08:27:15 WIB",
     "lintang": "1.97 LS",
     "bujur": "138.17 BT",
@@ -235,17 +246,6 @@
     "warning": [
       "II-III Liwa",
       "II Pesisir Barat"
-    ]
-  },
-  {
-    "waktu": "05/09/2022 09:46:02 WIB",
-    "lintang": "0.86 LS",
-    "bujur": "134.37 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "59 Km",
-    "wilayah": "Pusat gempa berada di laut 33 km timur Manokwari",
-    "warning": [
-      "III Manokwari"
     ]
   }
 ]
