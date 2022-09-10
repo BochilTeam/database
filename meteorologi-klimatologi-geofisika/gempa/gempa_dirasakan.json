@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "10/09/2022 20:49:31 WIB",
+    "lintang": "2.01 LS",
+    "bujur": "138.24 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 40 km timur laut Kasonaweja",
+    "warning": [
+      "III Kasonaweja",
+      "III Sarmi"
+    ]
+  },
+  {
     "waktu": "10/09/2022 13:11:16 WIB",
     "lintang": "8.37 LS",
     "bujur": "116.08 BT",
@@ -234,18 +246,6 @@
     "wilayah": "Pusat gempa berada di laut 45 km Barat Mamuju",
     "warning": [
       "II - III Mamuju"
-    ]
-  },
-  {
-    "waktu": "05/09/2022 10:17:29 WIB",
-    "lintang": "5.76 LS",
-    "bujur": "103.91 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "31 Km",
-    "wilayah": "Pusat gempa berada di laut 63 km baratdaya Pesisir Barat",
-    "warning": [
-      "II-III Liwa",
-      "II Pesisir Barat"
     ]
   }
 ]
