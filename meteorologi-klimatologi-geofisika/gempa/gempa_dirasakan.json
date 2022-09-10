@@ -1,5 +1,77 @@
 [
   {
+    "waktu": "10/09/2022 08:27:15 WIB",
+    "lintang": "1.97 LS",
+    "bujur": "138.17 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 40 km Timurlaut Kasonaweja",
+    "warning": [
+      "II Sarmi"
+    ]
+  },
+  {
+    "waktu": "10/09/2022 07:27:09 WIB",
+    "lintang": "2.06 LS",
+    "bujur": "138.24 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 36 km barat laut Mamberamo Tengah",
+    "warning": [
+      "II Sarmi",
+      "II Mamberamo"
+    ]
+  },
+  {
+    "waktu": "10/09/2022 07:05:14 WIB",
+    "lintang": "2.04 LS",
+    "bujur": "138.26 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di darat 37 km barat laut Mamberamo Tengah",
+    "warning": [
+      "IV Sarmi",
+      "IV Mamberamo"
+    ]
+  },
+  {
+    "waktu": "10/09/2022 06:51:22 WIB",
+    "lintang": "2.08 LS",
+    "bujur": "138.3 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di darat 32 km barat laut Mamberamo Tengah",
+    "warning": [
+      "III Sarmi",
+      "III Mamberamo"
+    ]
+  },
+  {
+    "waktu": "10/09/2022 06:44:11 WIB",
+    "lintang": "2.18 LS",
+    "bujur": "138.25 BT",
+    "magnitudo": "6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km barat laut Mamberamo Tengah",
+    "warning": [
+      "III Sarmi",
+      "III Mamberamo"
+    ]
+  },
+  {
+    "waktu": "10/09/2022 06:31:49 WIB",
+    "lintang": "2.02 LS",
+    "bujur": "138.32 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "106 Km",
+    "wilayah": "Pusat gempa berada di darat 39 km TimurLaut Mamberamo Tengah",
+    "warning": [
+      "IV Sarmi",
+      "III Mamberamo",
+      "II Jayapura"
+    ]
+  },
+  {
     "waktu": "09/09/2022 09:06:04 WIB",
     "lintang": "3.79 LS",
     "bujur": "133.64 BT",
@@ -172,82 +244,6 @@
     "wilayah": "Pusat gempa berada di laut 33 km timur Manokwari",
     "warning": [
       "III Manokwari"
-    ]
-  },
-  {
-    "waktu": "05/09/2022 00:21:54 WIB",
-    "lintang": "3.25 LS",
-    "bujur": "135.77 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di darat 29 km Timurlaut Nabire",
-    "warning": [
-      "III Nabire"
-    ]
-  },
-  {
-    "waktu": "04/09/2022 17:28:20 WIB",
-    "lintang": "7.28 LS",
-    "bujur": "106.12 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "25 Km",
-    "wilayah": "Pusat gempa berada di laut 41 km BaratDaya Bayah",
-    "warning": [
-      "II - III Banjarsari",
-      "II - III Bayah",
-      "II - III Cijaku",
-      "II - III Cibeber"
-    ]
-  },
-  {
-    "waktu": "04/09/2022 15:52:16 WIB",
-    "lintang": "4.91 LS",
-    "bujur": "102.92 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada di laut 49 km Barat daya Kaur",
-    "warning": [
-      "II - III Kaur",
-      "II Kota Bengkulu",
-      "II Kepahiang",
-      "II OKU Selatan",
-      "III Liwa",
-      "II Krui"
-    ]
-  },
-  {
-    "waktu": "04/09/2022 12:08:24 WIB",
-    "lintang": "6.85 LS",
-    "bujur": "128.58 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "117 Km",
-    "wilayah": "Pusat gempa berada di laut 146 km Baratlaut Tepa-MBD",
-    "warning": [
-      "III Damer"
-    ]
-  },
-  {
-    "waktu": "04/09/2022 04:10:14 WIB",
-    "lintang": "7.22 LS",
-    "bujur": "109.89 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km Barat Laut WONOSOBO",
-    "warning": [
-      "II Dieng",
-      "II Banjarnegara",
-      "II Bawang (Kab. Batang)"
-    ]
-  },
-  {
-    "waktu": "04/09/2022 01:02:01 WIB",
-    "lintang": "1.6 LS",
-    "bujur": "121.24 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km barat laut Lembah Sumara",
-    "warning": [
-      "II - III Morowali Utara"
     ]
   }
 ]

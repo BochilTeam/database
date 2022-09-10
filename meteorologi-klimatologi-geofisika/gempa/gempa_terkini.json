@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "10-09-22 07:05:14 WIB",
+    "lintang": "-2.04",
+    "bujur": "138.26",
+    "magnitudo": "6.2",
+    "kedalaman": "16 Km",
+    "wilayah": "37 km BaratLaut MAMBERAMOTENGAH-PAPUA"
+  },
+  {
+    "waktu": "10-09-22 06:51:22 WIB",
+    "lintang": "-2.08",
+    "bujur": "138.30",
+    "magnitudo": "5.5",
+    "kedalaman": "16 Km",
+    "wilayah": "32 km BaratLaut MAMBERAMOTENGAH-PAPUA"
+  },
+  {
+    "waktu": "10-09-22 06:44:11 WIB",
+    "lintang": "-2.18",
+    "bujur": "138.25",
+    "magnitudo": "6.0",
+    "kedalaman": "10 Km",
+    "wilayah": "22 km BaratLaut MAMBERAMOTENGAH-PAPUA"
+  },
+  {
+    "waktu": "10-09-22 06:31:49 WIB",
+    "lintang": "-2.02",
+    "bujur": "138.32",
+    "magnitudo": "5.9",
+    "kedalaman": "106 Km",
+    "wilayah": "39 km TimurLaut MAMBERAMOTENGAH-PAPUA"
+  },
+  {
     "waktu": "10-09-22 04:38:01 WIB",
     "lintang": "-7.11",
     "bujur": "129.71",
@@ -206,37 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "25 Km",
     "wilayah": "140 km BaratDaya NIASBARAT-SUMUT"
-  },
-  {
-    "waktu": "15-08-22 18:10:05 WIB",
-    "lintang": "-5.93",
-    "bujur": "110.34",
-    "magnitudo": "5.3",
-    "kedalaman": "566 Km",
-    "wilayah": "81 km BaratLaut JEPARA-JATENG"
-  },
-  {
-    "waktu": "15-08-22 11:34:49 WIB",
-    "lintang": "2.54",
-    "bujur": "128.18",
-    "magnitudo": "5.2",
-    "kedalaman": "140 Km",
-    "wilayah": "56 km BaratLaut DARUBA-MALUT"
-  },
-  {
-    "waktu": "14-08-22 09:47:47 WIB",
-    "lintang": "1.86",
-    "bujur": "126.44",
-    "magnitudo": "5.9",
-    "kedalaman": "10 Km",
-    "wilayah": "139 km BaratLaut HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "13-08-22 07:18:33 WIB",
-    "lintang": "-11.49",
-    "bujur": "119.70",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "141 km BaratDaya KARERA-SUMBATIMUR-NTT"
   }
 ]
