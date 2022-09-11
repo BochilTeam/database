@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-09-22 01:24:01 WIB",
+    "lintang": "-1.22",
+    "bujur": "98.50",
+    "magnitudo": "5.1",
+    "kedalaman": "13 Km",
+    "wilayah": "147 km BaratLaut KEP-MENTAWAI-SUMBAR"
+  },
+  {
     "waktu": "11-09-22 11:16:32 WIB",
     "lintang": "-11.01",
     "bujur": "110.77",
@@ -230,13 +238,5 @@
     "magnitudo": "5.8",
     "kedalaman": "124 Km",
     "wilayah": "74 km Tenggara KUTASELATAN-BALI"
-  },
-  {
-    "waktu": "21-08-22 12:08:33 WIB",
-    "lintang": "-0.24",
-    "bujur": "125.21",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "129 km Tenggara TUTUYAN-BOLTIM-SULUT"
   }
 ]

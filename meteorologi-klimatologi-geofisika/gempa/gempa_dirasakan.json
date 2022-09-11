@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "12/09/2022 01:24:01 WIB",
+    "lintang": "1.22 LS",
+    "bujur": "98.5 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 147 km Barat Laut Kep. Mentawai",
+    "warning": [
+      "IV-V Sagulubeg",
+      "III Padang",
+      "III Padang Panjang"
+    ]
+  },
+  {
+    "waktu": "11/09/2022 23:21:46 WIB",
+    "lintang": "1.95 LS",
+    "bujur": "138.26 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di darat 46km Timurlaut Kasonaweja",
+    "warning": [
+      "III Mamberamo Raya"
+    ]
+  },
+  {
     "waktu": "11/09/2022 17:52:34 WIB",
     "lintang": "2.01 LS",
     "bujur": "138.21 BT",
@@ -226,35 +250,6 @@
     "wilayah": "Pusat gempa berada di laut 60 Km BaratDaya Nias Utara",
     "warning": [
       "II Gunung Sitoli"
-    ]
-  },
-  {
-    "waktu": "08/09/2022 01:11:40 WIB",
-    "lintang": "0.01 LS",
-    "bujur": "123.8 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "138 Km",
-    "wilayah": "Pusat gempa berada di laut 47 km barat daya Bolaang Mongondow Selatan",
-    "warning": [
-      "II Kotamobagu"
-    ]
-  },
-  {
-    "waktu": "08/09/2022 01:09:35 WIB",
-    "lintang": "3.37 LS",
-    "bujur": "101.26 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 89 km Tenggara Mukomuko",
-    "warning": [
-      "III-IV Ketahun",
-      "III-IV Mukomuko",
-      "III-IV Kerinci",
-      "III Kepahiang",
-      "III Rejang Lebong",
-      "III Lebong",
-      "III Argamakmur",
-      "II - III Kepulauan Mentawai"
     ]
   }
 ]
