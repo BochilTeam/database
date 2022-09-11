@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-09-22 11:16:32 WIB",
+    "lintang": "-11.01",
+    "bujur": "110.77",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "316 km BaratDaya PACITAN-JATIM"
+  },
+  {
     "waktu": "11-09-22 06:24:01 WIB",
     "lintang": "-1.25",
     "bujur": "98.49",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "129 km Tenggara TUTUYAN-BOLTIM-SULUT"
-  },
-  {
-    "waktu": "18-08-22 14:46:28 WIB",
-    "lintang": "0.31",
-    "bujur": "124.41",
-    "magnitudo": "5.7",
-    "kedalaman": "155 Km",
-    "wilayah": "47 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
   }
 ]
