@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/09/2022 17:52:34 WIB",
+    "lintang": "2.01 LS",
+    "bujur": "138.21 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di darat 38Km Timurlaut Kasonaweja",
+    "warning": [
+      "II - III Mamberamo Raya"
+    ]
+  },
+  {
     "waktu": "11/09/2022 06:47:01 WIB",
     "lintang": "6.36 LS",
     "bujur": "146.55 BT",
@@ -244,18 +255,6 @@
       "III Lebong",
       "III Argamakmur",
       "II - III Kepulauan Mentawai"
-    ]
-  },
-  {
-    "waktu": "06/09/2022 20:41:47 WIB",
-    "lintang": "3.97 LS",
-    "bujur": "122.43 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km BaratDaya Kab. Konawe",
-    "warning": [
-      "II Kendari",
-      "II Konawe Selatan"
     ]
   }
 ]
