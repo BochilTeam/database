@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "11-09-22 06:24:01 WIB",
+    "lintang": "-1.25",
+    "bujur": "98.49",
+    "magnitudo": "5.4",
+    "kedalaman": "11 Km",
+    "wilayah": "146 km BaratLaut KEP-MENTAWAI-SUMBAR"
+  },
+  {
+    "waktu": "11-09-22 06:10:43 WIB",
+    "lintang": "-1.18",
+    "bujur": "98.53",
+    "magnitudo": "6.1",
+    "kedalaman": "10 Km",
+    "wilayah": "147 km BaratLaut KEP-MENTAWAI-SUMBAR"
+  },
+  {
     "waktu": "10-09-22 07:05:14 WIB",
     "lintang": "-2.04",
     "bujur": "138.26",
@@ -222,21 +238,5 @@
     "magnitudo": "5.7",
     "kedalaman": "155 Km",
     "wilayah": "47 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
-  },
-  {
-    "waktu": "17-08-22 19:56:32 WIB",
-    "lintang": "-7.17",
-    "bujur": "125.57",
-    "magnitudo": "5.6",
-    "kedalaman": "485 Km",
-    "wilayah": "168 km TimurLaut ALOR-NTT"
-  },
-  {
-    "waktu": "15-08-22 23:35:14 WIB",
-    "lintang": "0.11",
-    "bujur": "96.53",
-    "magnitudo": "5.5",
-    "kedalaman": "25 Km",
-    "wilayah": "140 km BaratDaya NIASBARAT-SUMUT"
   }
 ]
