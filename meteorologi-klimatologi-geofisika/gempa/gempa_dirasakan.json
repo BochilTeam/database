@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "13/09/2022 08:09:18 WIB",
+    "lintang": "1.7 LS",
+    "bujur": "139.06 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 38km timur laut Sarmi",
+    "warning": [
+      "II Sarmi"
+    ]
+  },
+  {
+    "waktu": "13/09/2022 06:34:47 WIB",
+    "lintang": "8.02 LS",
+    "bujur": "117.86 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di laut 71 km TimurLaut Sumbawa",
+    "warning": [
+      "III Bima"
+    ]
+  },
+  {
     "waktu": "12/09/2022 23:12:16 WIB",
     "lintang": "0.94 LS",
     "bujur": "119.85 BT",
@@ -223,33 +245,6 @@
       "III Kota Bengkulu",
       "II Arga Makmur",
       "III Seluma"
-    ]
-  },
-  {
-    "waktu": "08/09/2022 14:58:55 WIB",
-    "lintang": "1.47 LU",
-    "bujur": "96.95 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 45 km barat laut Nias Utara",
-    "warning": [
-      "III - IV Nias Barat",
-      "III Nias Utara",
-      "II - III Gunung Sitoli",
-      "II - III Aceh Singkil",
-      "II Pasie Raja-Aceh Selatan",
-      "II Pulau Banyak"
-    ]
-  },
-  {
-    "waktu": "08/09/2022 10:25:14 WIB",
-    "lintang": "8.2 LS",
-    "bujur": "108.24 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "35 Km",
-    "wilayah": "Pusat gempa berada di laut 62 km BaratDaya KAB-PANGANDARAN",
-    "warning": [
-      "I-II Pangandaran"
     ]
   }
 ]
