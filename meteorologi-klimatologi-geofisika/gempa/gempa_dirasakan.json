@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/09/2022 10:45:39 WIB",
+    "lintang": "0.85 LU",
+    "bujur": "110.04 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 56 km TimurLaut Kab. Ladak",
+    "warning": [
+      "II - III Kecamatan Air Besar"
+    ]
+  },
+  {
     "waktu": "13/09/2022 18:18:04 WIB",
     "lintang": "5.7 LS",
     "bujur": "104.25 BT",
@@ -231,18 +242,6 @@
     "wilayah": "Pusat gempa berada di laut 65 km barat daya Kaimana",
     "warning": [
       "III Kaimana"
-    ]
-  },
-  {
-    "waktu": "09/09/2022 02:36:40 WIB",
-    "lintang": "5.45 LS",
-    "bujur": "104.99 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km barat daya Pesawaran",
-    "warning": [
-      "III-IV Pringsewu",
-      "III-IV Pesawaran"
     ]
   }
 ]
