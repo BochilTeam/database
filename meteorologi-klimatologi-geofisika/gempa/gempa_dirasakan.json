@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "15/09/2022 22:24:51 WIB",
+    "lintang": "2.05 LS",
+    "bujur": "99.53 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 5 km barat daya Kep. Mentawai",
+    "warning": [
+      "III-IV Sipora",
+      "II - III Padang"
+    ]
+  },
+  {
     "waktu": "14/09/2022 10:45:39 WIB",
     "lintang": "0.85 LU",
     "bujur": "110.04 BT",
@@ -231,17 +243,6 @@
       "II Jayapura",
       "III Serui",
       "III Wamena"
-    ]
-  },
-  {
-    "waktu": "09/09/2022 09:06:04 WIB",
-    "lintang": "3.79 LS",
-    "bujur": "133.64 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 65 km barat daya Kaimana",
-    "warning": [
-      "III Kaimana"
     ]
   }
 ]

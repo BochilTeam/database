@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15-09-22 22:24:51 WIB",
+    "lintang": "-2.05",
+    "bujur": "99.53",
+    "magnitudo": "5.1",
+    "kedalaman": "25 Km",
+    "wilayah": "5 km BaratDaya KEP-MENTAWAI-SUMBAR"
+  },
+  {
     "waktu": "12-09-22 01:24:01 WIB",
     "lintang": "-1.22",
     "bujur": "98.50",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "110 Km",
     "wilayah": "147 km BaratLaut MALUKUTENGGARA"
-  },
-  {
-    "waktu": "22-08-22 15:36:33 WIB",
-    "lintang": "-9.36",
-    "bujur": "115.59",
-    "magnitudo": "5.8",
-    "kedalaman": "124 Km",
-    "wilayah": "74 km Tenggara KUTASELATAN-BALI"
   }
 ]
