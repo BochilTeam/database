@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/09/2022 15:17:02 WIB",
+    "lintang": "0.05 LS",
+    "bujur": "124.43 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 71 km tenggara Molibagu",
+    "warning": [
+      "I-II Bolaang Mongondow Selatan"
+    ]
+  },
+  {
     "waktu": "15/09/2022 22:24:51 WIB",
     "lintang": "2.05 LS",
     "bujur": "99.53 BT",
@@ -228,21 +239,6 @@
     "warning": [
       "III Sarmi",
       "III Mamberamo"
-    ]
-  },
-  {
-    "waktu": "10/09/2022 06:31:49 WIB",
-    "lintang": "2.02 LS",
-    "bujur": "138.32 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "106 Km",
-    "wilayah": "Pusat gempa berada di darat 39 km TimurLaut Mamberamo Tengah",
-    "warning": [
-      "IV Sarmi",
-      "IV Mamberamo",
-      "II Jayapura",
-      "III Serui",
-      "III Wamena"
     ]
   }
 ]
