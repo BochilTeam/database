@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/09/2022 23:54:23 WIB",
+    "lintang": "0.36 LS",
+    "bujur": "100.33 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km BaratDaya Bukittinggi",
+    "warning": [
+      "II - III Bukittinggi"
+    ]
+  },
+  {
     "waktu": "16/09/2022 18:45:41 WIB",
     "lintang": "2.46 LU",
     "bujur": "126.11 BT",
@@ -226,18 +237,6 @@
     "warning": [
       "IV Sarmi",
       "IV Mamberamo"
-    ]
-  },
-  {
-    "waktu": "10/09/2022 06:51:22 WIB",
-    "lintang": "2.08 LS",
-    "bujur": "138.3 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di darat 32 km barat laut Mamberamo Tengah",
-    "warning": [
-      "III Sarmi",
-      "III Mamberamo"
     ]
   }
 ]
