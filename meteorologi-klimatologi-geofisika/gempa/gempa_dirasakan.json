@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/09/2022 18:45:41 WIB",
+    "lintang": "2.46 LU",
+    "bujur": "126.11 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 89 km Tenggara Kep. Sitaro",
+    "warning": [
+      "II - III Pulaui Siau"
+    ]
+  },
+  {
     "waktu": "16/09/2022 15:17:02 WIB",
     "lintang": "0.05 LS",
     "bujur": "124.43 BT",
@@ -224,18 +235,6 @@
     "magnitudo": "5.5",
     "kedalaman": "16 Km",
     "wilayah": "Pusat gempa berada di darat 32 km barat laut Mamberamo Tengah",
-    "warning": [
-      "III Sarmi",
-      "III Mamberamo"
-    ]
-  },
-  {
-    "waktu": "10/09/2022 06:44:11 WIB",
-    "lintang": "2.18 LS",
-    "bujur": "138.25 BT",
-    "magnitudo": "6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 22 km barat laut Mamberamo Tengah",
     "warning": [
       "III Sarmi",
       "III Mamberamo"
