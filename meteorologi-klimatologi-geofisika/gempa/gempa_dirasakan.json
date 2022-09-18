@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/09/2022 13:46:45 WIB",
+    "lintang": "0.3 LS",
+    "bujur": "100.34 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km Barat Daya Bukittinggi",
+    "warning": [
+      "II - III Bukittinggi"
+    ]
+  },
+  {
     "waktu": "18/09/2022 02:38:25 WIB",
     "lintang": "7.64 LS",
     "bujur": "106.37 BT",
@@ -224,18 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 40 km Timurlaut Kasonaweja",
     "warning": [
       "II Sarmi"
-    ]
-  },
-  {
-    "waktu": "10/09/2022 07:27:09 WIB",
-    "lintang": "2.06 LS",
-    "bujur": "138.24 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 36 km barat laut Mamberamo Tengah",
-    "warning": [
-      "II Sarmi",
-      "II Mamberamo"
     ]
   }
 ]
