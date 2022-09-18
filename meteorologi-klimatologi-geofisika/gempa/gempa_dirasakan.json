@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/09/2022 02:38:25 WIB",
+    "lintang": "7.64 LS",
+    "bujur": "106.37 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "41 Km",
+    "wilayah": "Pusat gempa berada di laut 75 km barat daya Kab. Sukabumi",
+    "warning": [
+      "II-III Kab. Sukabumi"
+    ]
+  },
+  {
     "waktu": "16/09/2022 23:54:23 WIB",
     "lintang": "0.36 LS",
     "bujur": "100.33 BT",
@@ -225,18 +236,6 @@
     "warning": [
       "II Sarmi",
       "II Mamberamo"
-    ]
-  },
-  {
-    "waktu": "10/09/2022 07:05:14 WIB",
-    "lintang": "2.04 LS",
-    "bujur": "138.26 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di darat 37 km barat laut Mamberamo Tengah",
-    "warning": [
-      "IV Sarmi",
-      "IV Mamberamo"
     ]
   }
 ]
