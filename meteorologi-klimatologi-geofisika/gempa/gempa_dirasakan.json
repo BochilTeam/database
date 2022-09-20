@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "20/09/2022 17:09:58 WIB",
+    "lintang": "7.05 LS",
+    "bujur": "106.44 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 14 km barat daya Kab. Sukabumi",
+    "warning": [
+      "III Pelabuhan Ratu",
+      "III Pamumbulam",
+      "III Bayah",
+      "II - III Kab. Sukabumi",
+      "II Bogor"
+    ]
+  },
+  {
     "waktu": "19/09/2022 23:37:04 WIB",
     "lintang": "8.17 LS",
     "bujur": "109.56 BT",
@@ -222,25 +237,6 @@
       "II Jayapura",
       "II Wamena",
       "II Enarotali"
-    ]
-  },
-  {
-    "waktu": "11/09/2022 06:10:43 WIB",
-    "lintang": "1.18 LS",
-    "bujur": "98.53 BT",
-    "magnitudo": "6.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut laut 161 km Baratlaut Kep. Mentawai",
-    "warning": [
-      "V Siberut Utara",
-      "IV-V Sagulubeg",
-      "IV-V Siberut Barat",
-      "IV-V Sikabaluan",
-      "IV-V Tuapejat",
-      "III-IV Padang",
-      "III-IV Padang Panjang",
-      "III-IV Painan",
-      "III-IV Pasaman Barat"
     ]
   }
 ]
