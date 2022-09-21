@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-09-22 18:57:53 WIB",
+    "lintang": "-6.06",
+    "bujur": "131.18",
+    "magnitudo": "5.1",
+    "kedalaman": "59 Km",
+    "wilayah": "178 km BaratDaya MALUKUTENGGARA"
+  },
+  {
     "waktu": "21-09-22 05:25:01 WIB",
     "lintang": "-1.17",
     "bujur": "98.57",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "131 km BaratDaya PESISIRBARAT-LAMPUNG"
-  },
-  {
-    "waktu": "23-08-22 21:31:39 WIB",
-    "lintang": "-5.22",
-    "bujur": "102.95",
-    "magnitudo": "6.5",
-    "kedalaman": "12 Km",
-    "wilayah": "64 km BaratDaya KAUR-BENGKULU"
   }
 ]
