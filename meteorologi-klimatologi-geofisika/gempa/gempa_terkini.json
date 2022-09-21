@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-09-22 05:25:01 WIB",
+    "lintang": "-1.17",
+    "bujur": "98.57",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "144 km BaratLaut KEP-MENTAWAI-SUMBAR"
+  },
+  {
     "waktu": "15-09-22 22:24:51 WIB",
     "lintang": "-2.05",
     "bujur": "99.53",
@@ -230,13 +238,5 @@
     "magnitudo": "6.5",
     "kedalaman": "12 Km",
     "wilayah": "64 km BaratDaya KAUR-BENGKULU"
-  },
-  {
-    "waktu": "23-08-22 20:39:13 WIB",
-    "lintang": "-5.39",
-    "bujur": "131.44",
-    "magnitudo": "5.4",
-    "kedalaman": "110 Km",
-    "wilayah": "147 km BaratLaut MALUKUTENGGARA"
   }
 ]
