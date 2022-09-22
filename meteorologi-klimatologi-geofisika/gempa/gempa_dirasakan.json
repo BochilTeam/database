@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "23/09/2022 02:36:22 WIB",
+    "lintang": "4.44 LU",
+    "bujur": "96.6 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km BaratDaya Takengon-Aceh Tengah",
+    "warning": [
+      "IV Takengon",
+      "IV Bener Meriah",
+      "III Idi Rayeuk-Aceh Timur",
+      "III Aceh Barat Daya"
+    ]
+  },
+  {
     "waktu": "20/09/2022 17:09:58 WIB",
     "lintang": "7.05 LS",
     "bujur": "106.44 BT",
@@ -223,20 +237,6 @@
     "wilayah": "Pusat gempa berada di darat 38Km Timurlaut Kasonaweja",
     "warning": [
       "II - III Mamberamo Raya"
-    ]
-  },
-  {
-    "waktu": "11/09/2022 06:47:01 WIB",
-    "lintang": "6.36 LS",
-    "bujur": "146.55 BT",
-    "magnitudo": "7.5",
-    "kedalaman": "116 Km",
-    "wilayah": "Pusat gempa berada di darat 352 km Barat Laut PORTMORESBY-PNG",
-    "warning": [
-      "II - III Merauke",
-      "II Jayapura",
-      "II Wamena",
-      "II Enarotali"
     ]
   }
 ]

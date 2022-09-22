@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23-09-22 02:36:22 WIB",
+    "lintang": "4.44",
+    "bujur": "96.60",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "34 km BaratDaya TAKENGON-ACEHTENGAH"
+  },
+  {
     "waktu": "21-09-22 18:57:53 WIB",
     "lintang": "-6.06",
     "bujur": "131.18",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "93 km BaratLaut ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "24-08-22 02:46:52 WIB",
-    "lintang": "-6.34",
-    "bujur": "103.67",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "131 km BaratDaya PESISIRBARAT-LAMPUNG"
   }
 ]
