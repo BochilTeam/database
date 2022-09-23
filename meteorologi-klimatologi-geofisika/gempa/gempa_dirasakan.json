@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "23/09/2022 11:30:39 WIB",
+    "lintang": "0.78 LS",
+    "bujur": "100.01 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "67 Km",
+    "wilayah": "Pusat gempa berada di darat 20 km BaratDaya Pariaman",
+    "warning": [
+      "II - III Padang"
+    ]
+  },
+  {
+    "waktu": "23/09/2022 10:05:35 WIB",
+    "lintang": "8.6 LS",
+    "bujur": "119.3 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "109 Km",
+    "wilayah": "Pusat gempa berada di laut 63 km Tenggara Kota Bima",
+    "warning": [
+      "II - III Bima"
+    ]
+  },
+  {
     "waktu": "23/09/2022 02:36:22 WIB",
     "lintang": "4.44 LU",
     "bujur": "96.6 BT",
@@ -215,28 +237,6 @@
       "IV-V Sagulubeg",
       "III Padang",
       "III Padang Panjang"
-    ]
-  },
-  {
-    "waktu": "11/09/2022 23:21:46 WIB",
-    "lintang": "1.95 LS",
-    "bujur": "138.26 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di darat 46km Timurlaut Kasonaweja",
-    "warning": [
-      "III Mamberamo Raya"
-    ]
-  },
-  {
-    "waktu": "11/09/2022 17:52:34 WIB",
-    "lintang": "2.01 LS",
-    "bujur": "138.21 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di darat 38Km Timurlaut Kasonaweja",
-    "warning": [
-      "II - III Mamberamo Raya"
     ]
   }
 ]
