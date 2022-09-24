@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "24/09/2022 03:52:59 WIB",
+    "lintang": "3.77 LU",
+    "bujur": "95.97 BT",
+    "magnitudo": "6.4",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 45 km baratdaya Meulaboh",
+    "warning": [
+      "III Aceh Besar",
+      "III Banda Aceh",
+      "IV Meulaboh",
+      "II Pidie",
+      "IV Aceh Selatan",
+      "IV Nagan Raya",
+      "III Takengon",
+      "III Bener Meriah",
+      "III Simeulue",
+      "II Idi",
+      "II Bireun",
+      "II Aceh Tamiang",
+      "II Langsa"
+    ]
+  },
+  {
     "waktu": "23/09/2022 11:30:39 WIB",
     "lintang": "0.78 LS",
     "bujur": "100.01 BT",
@@ -224,19 +247,6 @@
     "wilayah": "Pusat gempa berada di darat 26 km Tenggara Luwu Timur",
     "warning": [
       "II - III Luwu Timur"
-    ]
-  },
-  {
-    "waktu": "12/09/2022 01:24:01 WIB",
-    "lintang": "1.22 LS",
-    "bujur": "98.5 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 147 km Barat Laut Kep. Mentawai",
-    "warning": [
-      "IV-V Sagulubeg",
-      "III Padang",
-      "III Padang Panjang"
     ]
   }
 ]
