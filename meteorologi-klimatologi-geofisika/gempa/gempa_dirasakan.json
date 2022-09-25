@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/09/2022 21:23:00 WIB",
+    "lintang": "0.29 LS",
+    "bujur": "100.42 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km timur laut Bukittinggi",
+    "warning": [
+      "II - III Bukittinggi"
+    ]
+  },
+  {
     "waktu": "25/09/2022 20:30:06 WIB",
     "lintang": "0.24 LS",
     "bujur": "100.32 BT",
@@ -239,17 +250,6 @@
       "II Tanggamus",
       "II Krui",
       "II Liwa"
-    ]
-  },
-  {
-    "waktu": "13/09/2022 08:09:18 WIB",
-    "lintang": "1.7 LS",
-    "bujur": "139.06 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 38km timur laut Sarmi",
-    "warning": [
-      "II Sarmi"
     ]
   }
 ]
