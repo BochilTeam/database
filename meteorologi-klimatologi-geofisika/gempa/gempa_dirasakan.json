@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "25/09/2022 03:32:27 WIB",
+    "lintang": "9.63 LS",
+    "bujur": "114.37 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 132 km BaratDaya Kuta Selatan",
+    "warning": [
+      "III Kuta",
+      "II Denpasar",
+      "II Gianyar"
+    ]
+  },
+  {
     "waktu": "24/09/2022 03:52:59 WIB",
     "lintang": "3.77 LU",
     "bujur": "95.97 BT",
@@ -236,17 +249,6 @@
     "warning": [
       "III Palu",
       "II - III Sigi"
-    ]
-  },
-  {
-    "waktu": "12/09/2022 05:42:37 WIB",
-    "lintang": "2.61 LS",
-    "bujur": "121.41 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 26 km Tenggara Luwu Timur",
-    "warning": [
-      "II - III Luwu Timur"
     ]
   }
 ]
