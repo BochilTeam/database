@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "26/09/2022 02:43:25 WIB",
+    "lintang": "1.94 LS",
+    "bujur": "118.9 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "19 Km",
+    "wilayah": "Pusat gempa berada di laut 67 km BaratLaut Mamuju Tengah",
+    "warning": [
+      "III Mamuju Tengah",
+      "II Mamuju"
+    ]
+  },
+  {
     "waktu": "25/09/2022 21:23:00 WIB",
     "lintang": "0.29 LS",
     "bujur": "100.42 BT",
@@ -237,19 +249,6 @@
     "wilayah": "Pusat gempa berada di darat 56 km TimurLaut Kab. Ladak",
     "warning": [
       "II - III Kecamatan Air Besar"
-    ]
-  },
-  {
-    "waktu": "13/09/2022 18:18:04 WIB",
-    "lintang": "5.7 LS",
-    "bujur": "104.25 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "41 Km",
-    "wilayah": "Pusat gempa berada di laut 53 km barat daya Tanggamus",
-    "warning": [
-      "II Tanggamus",
-      "II Krui",
-      "II Liwa"
     ]
   }
 ]
