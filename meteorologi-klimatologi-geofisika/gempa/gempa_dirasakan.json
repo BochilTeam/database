@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "25/09/2022 18:16:33 WIB",
+    "lintang": "4.33 LU",
+    "bujur": "126.14 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "113 Km",
+    "wilayah": "Pusat gempa berada di laut 70 km barat laut Melonguane",
+    "warning": [
+      "III Melonguane",
+      "III Tahuna",
+      "II Ondong"
+    ]
+  },
+  {
     "waktu": "25/09/2022 03:32:27 WIB",
     "lintang": "9.63 LS",
     "bujur": "114.37 BT",
@@ -237,18 +250,6 @@
     "wilayah": "Pusat gempa berada di laut 71 km TimurLaut Sumbawa",
     "warning": [
       "III Bima"
-    ]
-  },
-  {
-    "waktu": "12/09/2022 23:12:16 WIB",
-    "lintang": "0.94 LS",
-    "bujur": "119.85 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km baratdaya Palu",
-    "warning": [
-      "III Palu",
-      "II - III Sigi"
     ]
   }
 ]
