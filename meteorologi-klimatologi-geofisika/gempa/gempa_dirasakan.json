@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/09/2022 06:38:53 WIB",
+    "lintang": "5.45 LS",
+    "bujur": "104.98 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km barat daya Pesawaran",
+    "warning": [
+      "II Pesawaran"
+    ]
+  },
+  {
     "waktu": "26/09/2022 02:43:25 WIB",
     "lintang": "1.94 LS",
     "bujur": "118.9 BT",
@@ -238,17 +249,6 @@
     "warning": [
       "III-IV Sipora",
       "II - III Padang"
-    ]
-  },
-  {
-    "waktu": "14/09/2022 10:45:39 WIB",
-    "lintang": "0.85 LU",
-    "bujur": "110.04 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 56 km TimurLaut Kab. Ladak",
-    "warning": [
-      "II - III Kecamatan Air Besar"
     ]
   }
 ]
