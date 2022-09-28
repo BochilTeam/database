@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "28/09/2022 11:36:54 WIB",
+    "lintang": "8.51 LS",
+    "bujur": "111.28 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "103 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km tenggara Pacitan",
+    "warning": [
+      "II Pacitan"
+    ]
+  },
+  {
+    "waktu": "28/09/2022 10:46:35 WIB",
+    "lintang": "0.17 LU",
+    "bujur": "99.92 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km timur laut Pasaman Barat",
+    "warning": [
+      "II - III Pasaman Barat"
+    ]
+  },
+  {
     "waktu": "27/09/2022 04:27:09 WIB",
     "lintang": "4.62 LS",
     "bujur": "129.77 BT",
@@ -226,28 +248,6 @@
     "wilayah": "Pusat gempa berada di laut 75 km barat daya Kab. Sukabumi",
     "warning": [
       "II-III Kab. Sukabumi"
-    ]
-  },
-  {
-    "waktu": "16/09/2022 23:54:23 WIB",
-    "lintang": "0.36 LS",
-    "bujur": "100.33 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km BaratDaya Bukittinggi",
-    "warning": [
-      "II - III Bukittinggi"
-    ]
-  },
-  {
-    "waktu": "16/09/2022 18:45:41 WIB",
-    "lintang": "2.46 LU",
-    "bujur": "126.11 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 89 km Tenggara Kep. Sitaro",
-    "warning": [
-      "II - III Pulaui Siau"
     ]
   }
 ]
