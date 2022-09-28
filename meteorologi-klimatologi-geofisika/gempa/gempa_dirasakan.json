@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/09/2022 12:44:25 WIB",
+    "lintang": "5.25 LS",
+    "bujur": "122.03 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km Barat Laut Kabaena Timur",
+    "warning": [
+      "II - III Kabaena Timur"
+    ]
+  },
+  {
     "waktu": "28/09/2022 11:36:54 WIB",
     "lintang": "8.51 LS",
     "bujur": "111.28 BT",
@@ -237,17 +248,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km Barat Daya Bukittinggi",
     "warning": [
       "II - III Bukittinggi"
-    ]
-  },
-  {
-    "waktu": "18/09/2022 02:38:25 WIB",
-    "lintang": "7.64 LS",
-    "bujur": "106.37 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "41 Km",
-    "wilayah": "Pusat gempa berada di laut 75 km barat daya Kab. Sukabumi",
-    "warning": [
-      "II-III Kab. Sukabumi"
     ]
   }
 ]
