@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/09/2022 01:10:37 WIB",
+    "lintang": "5.7 LS",
+    "bujur": "105.11 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 33 km tenggara Pesawaran",
+    "warning": [
+      "II - III Pesawaran"
+    ]
+  },
+  {
     "waktu": "29/09/2022 18:34:43 WIB",
     "lintang": "2.23 LS",
     "bujur": "140.08 BT",
@@ -239,17 +250,6 @@
       "II - III Nagan Raya",
       "II - III Bener Meriah",
       "II - III Aceh Tengah"
-    ]
-  },
-  {
-    "waktu": "18/09/2022 20:37:58 WIB",
-    "lintang": "1.02 LU",
-    "bujur": "120.72 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 11 km barat Tolitoli",
-    "warning": [
-      "II - III Tolitoli"
     ]
   }
 ]
