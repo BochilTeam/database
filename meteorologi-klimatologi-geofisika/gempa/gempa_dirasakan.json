@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "29/09/2022 18:34:43 WIB",
+    "lintang": "2.23 LS",
+    "bujur": "140.08 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 76 km BaratLaut Jayapura",
+    "warning": [
+      "III Sentani",
+      "III Genyem",
+      "II - III Jayapura"
+    ]
+  },
+  {
     "waktu": "28/09/2022 12:44:25 WIB",
     "lintang": "5.25 LS",
     "bujur": "122.03 BT",
@@ -237,17 +250,6 @@
     "wilayah": "Pusat gempa berada di laut 11 km barat Tolitoli",
     "warning": [
       "II - III Tolitoli"
-    ]
-  },
-  {
-    "waktu": "18/09/2022 13:46:45 WIB",
-    "lintang": "0.3 LS",
-    "bujur": "100.34 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km Barat Daya Bukittinggi",
-    "warning": [
-      "II - III Bukittinggi"
     ]
   }
 ]

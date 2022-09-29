@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29-09-22 18:34:43 WIB",
+    "lintang": "-2.23",
+    "bujur": "140.08",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "76 km BaratLaut JAYAPURA-PAPUA"
+  },
+  {
     "waktu": "25-09-22 18:16:33 WIB",
     "lintang": "4.33",
     "bujur": "126.14",
@@ -230,13 +238,5 @@
     "magnitudo": "6.4",
     "kedalaman": "10 Km",
     "wilayah": "161 km BaratLaut KEP-MENTAWAI-SUMBAR"
-  },
-  {
-    "waktu": "29-08-22 05:34:35 WIB",
-    "lintang": "-1.04",
-    "bujur": "98.55",
-    "magnitudo": "5.9",
-    "kedalaman": "11 Km",
-    "wilayah": "156 km BaratLaut KEP-MENTAWAI-SUMBAR"
   }
 ]
