@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "01-10-22 02:50:35 WIB",
+    "lintang": "2.05",
+    "bujur": "98.99",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "4 km TimurLaut TAPANULIUTARA-SUMUT"
+  },
+  {
+    "waktu": "01-10-22 02:28:41 WIB",
+    "lintang": "2.13",
+    "bujur": "98.89",
+    "magnitudo": "6.0",
+    "kedalaman": "10 Km",
+    "wilayah": "15 km BaratLaut TAPANULIUTARA-SUMUT"
+  },
+  {
     "waktu": "29-09-22 18:34:43 WIB",
     "lintang": "-2.23",
     "bujur": "140.08",
@@ -222,21 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "20 Km",
     "wilayah": "15 km Tenggara KAB-ACEHSINGKIL"
-  },
-  {
-    "waktu": "01-09-22 23:23:44 WIB",
-    "lintang": "-7.41",
-    "bujur": "128.99",
-    "magnitudo": "5.1",
-    "kedalaman": "157 Km",
-    "wilayah": "156 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "29-08-22 10:29:14 WIB",
-    "lintang": "-0.99",
-    "bujur": "98.53",
-    "magnitudo": "6.4",
-    "kedalaman": "10 Km",
-    "wilayah": "161 km BaratLaut KEP-MENTAWAI-SUMBAR"
   }
 ]
