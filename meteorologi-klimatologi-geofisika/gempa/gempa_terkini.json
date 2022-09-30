@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01-10-22 03:37:40 WIB",
+    "lintang": "2.03",
+    "bujur": "98.97",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "1 km TimurLaut TAPANULIUTARA-SUMUT"
+  },
+  {
     "waktu": "01-10-22 02:50:35 WIB",
     "lintang": "2.05",
     "bujur": "98.99",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "20 Km",
     "wilayah": "49 km BaratDaya KAUR-BENGKULU"
-  },
-  {
-    "waktu": "02-09-22 10:34:23 WIB",
-    "lintang": "2.20",
-    "bujur": "97.82",
-    "magnitudo": "5.0",
-    "kedalaman": "20 Km",
-    "wilayah": "15 km Tenggara KAB-ACEHSINGKIL"
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/10/2022 04:03:16 WIB",
+    "lintang": "2.01 LU",
+    "bujur": "99 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km tenggara Tapanuli Utara",
+    "warning": [
+      "III Silangit"
+    ]
+  },
+  {
     "waktu": "01/10/2022 02:28:41 WIB",
     "lintang": "2.13 LU",
     "bujur": "98.89 BT",
@@ -233,20 +244,6 @@
     "wilayah": "Pusat gempa berada di laut 63 km Tenggara Kota Bima",
     "warning": [
       "II - III Bima"
-    ]
-  },
-  {
-    "waktu": "23/09/2022 02:36:22 WIB",
-    "lintang": "4.44 LU",
-    "bujur": "96.6 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 34 km BaratDaya Takengon-Aceh Tengah",
-    "warning": [
-      "IV Takengon",
-      "IV Bener Meriah",
-      "III Idi Rayeuk-Aceh Timur",
-      "III Aceh Barat Daya"
     ]
   }
 ]
