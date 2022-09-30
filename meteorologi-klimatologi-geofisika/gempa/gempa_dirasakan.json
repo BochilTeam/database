@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/09/2022 06:24:55 WIB",
+    "lintang": "0.59 LS",
+    "bujur": "100.42 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km Tenggara Padang Panjang",
+    "warning": [
+      "II - III Padang Panjang"
+    ]
+  },
+  {
     "waktu": "30/09/2022 01:10:37 WIB",
     "lintang": "5.7 LS",
     "bujur": "105.11 BT",
@@ -237,19 +248,6 @@
       "II Bantul",
       "II Sleman",
       "II Kebumen"
-    ]
-  },
-  {
-    "waktu": "19/09/2022 10:44:49 WIB",
-    "lintang": "4.42 LU",
-    "bujur": "96.6 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 35 km BaratDaya Takengon-Aceh Tengah",
-    "warning": [
-      "II - III Nagan Raya",
-      "II - III Bener Meriah",
-      "II - III Aceh Tengah"
     ]
   }
 ]
