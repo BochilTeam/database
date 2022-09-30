@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "30/09/2022 21:30:22 WIB",
+    "lintang": "2.46 LS",
+    "bujur": "121.25 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km timur laut Luwu Timur",
+    "warning": [
+      "III Sorowako",
+      "III Malili",
+      "III Nuha",
+      "II - III Luwu",
+      "III Towuti"
+    ]
+  },
+  {
     "waktu": "30/09/2022 06:24:55 WIB",
     "lintang": "0.59 LS",
     "bujur": "100.42 BT",
@@ -232,22 +247,6 @@
       "III Bayah",
       "II - III Kab. Sukabumi",
       "II Bogor"
-    ]
-  },
-  {
-    "waktu": "19/09/2022 23:37:04 WIB",
-    "lintang": "8.17 LS",
-    "bujur": "109.56 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "76 Km",
-    "wilayah": "Pusat gempa berada di laut 56 km Barat Daya Kebumen",
-    "warning": [
-      "II Yogyakarta",
-      "II Gunung Kidul",
-      "II Kulon Progo",
-      "II Bantul",
-      "II Sleman",
-      "II Kebumen"
     ]
   }
 ]
