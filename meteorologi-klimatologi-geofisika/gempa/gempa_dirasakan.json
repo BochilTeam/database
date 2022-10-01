@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "01/10/2022 20:50:17 WIB",
+    "lintang": "3.77 LS",
+    "bujur": "101.84 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "54 Km",
+    "wilayah": "Pusat gempa berada di laut 54 km Barat daya Bengkulu Utara",
+    "warning": [
+      "II - III Kota Bengkulu",
+      "II Kepahiang",
+      "III Bengkulu Utara"
+    ]
+  },
+  {
     "waktu": "01/10/2022 17:20:48 WIB",
     "lintang": "1.96 LU",
     "bujur": "99 BT",
@@ -222,29 +235,6 @@
       "III Kuta",
       "II Denpasar",
       "II Gianyar"
-    ]
-  },
-  {
-    "waktu": "24/09/2022 03:52:59 WIB",
-    "lintang": "3.77 LU",
-    "bujur": "95.97 BT",
-    "magnitudo": "6.4",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di laut 45 km baratdaya Meulaboh",
-    "warning": [
-      "III Aceh Besar",
-      "III Banda Aceh",
-      "IV Meulaboh",
-      "II Pidie",
-      "IV Aceh Selatan",
-      "IV Nagan Raya",
-      "III Takengon",
-      "III Bener Meriah",
-      "III Simeulue",
-      "II Idi",
-      "II Bireun",
-      "II Aceh Tamiang",
-      "II Langsa"
     ]
   }
 ]
