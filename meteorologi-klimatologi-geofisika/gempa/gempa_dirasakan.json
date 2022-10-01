@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/10/2022 17:20:48 WIB",
+    "lintang": "1.96 LU",
+    "bujur": "99 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km Tenggara Tapanuli Utara",
+    "warning": [
+      "II Paranginan"
+    ]
+  },
+  {
     "waktu": "01/10/2022 08:36:38 WIB",
     "lintang": "2.03 LU",
     "bujur": "98.97 BT",
@@ -234,17 +245,6 @@
       "II Bireun",
       "II Aceh Tamiang",
       "II Langsa"
-    ]
-  },
-  {
-    "waktu": "23/09/2022 11:30:39 WIB",
-    "lintang": "0.78 LS",
-    "bujur": "100.01 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "67 Km",
-    "wilayah": "Pusat gempa berada di darat 20 km BaratDaya Pariaman",
-    "warning": [
-      "II - III Padang"
     ]
   }
 ]
