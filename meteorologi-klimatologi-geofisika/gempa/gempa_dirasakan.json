@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "01/10/2022 08:36:38 WIB",
+    "lintang": "2.03 LU",
+    "bujur": "98.97 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 1 km TimurLaut TAPANULI UTARA",
+    "warning": [
+      "III Teluk Dalam",
+      "II Humbang Hasundutan"
+    ]
+  },
+  {
     "waktu": "01/10/2022 04:03:16 WIB",
     "lintang": "2.01 LU",
     "bujur": "99 BT",
@@ -233,17 +245,6 @@
     "wilayah": "Pusat gempa berada di darat 20 km BaratDaya Pariaman",
     "warning": [
       "II - III Padang"
-    ]
-  },
-  {
-    "waktu": "23/09/2022 10:05:35 WIB",
-    "lintang": "8.6 LS",
-    "bujur": "119.3 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "109 Km",
-    "wilayah": "Pusat gempa berada di laut 63 km Tenggara Kota Bima",
-    "warning": [
-      "II - III Bima"
     ]
   }
 ]
