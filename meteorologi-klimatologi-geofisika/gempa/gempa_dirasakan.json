@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/10/2022 23:47:51 WIB",
+    "lintang": "1.99 LU",
+    "bujur": "98.97 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km Tenggara Tapanuli Utara",
+    "warning": [
+      "II Tarutung"
+    ]
+  },
+  {
     "waktu": "02/10/2022 13:51:58 WIB",
     "lintang": "6.83 LS",
     "bujur": "107.92 BT",
@@ -219,17 +230,6 @@
     "magnitudo": "2.9",
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di darat 5 km timur laut Bukittinggi",
-    "warning": [
-      "II - III Bukittinggi"
-    ]
-  },
-  {
-    "waktu": "25/09/2022 20:30:06 WIB",
-    "lintang": "0.24 LS",
-    "bujur": "100.32 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km barat laut Bukittinggi",
     "warning": [
       "II - III Bukittinggi"
     ]
