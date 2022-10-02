@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "02/10/2022 08:35:36 WIB",
+    "lintang": "1.58 LU",
+    "bujur": "128.31 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "28 Km",
+    "wilayah": "Pusat gempa berada di laut 35 km BaratLaut Halmahera Timur",
+    "warning": [
+      "II-III Morotai",
+      "II - III Halmahera Utara"
+    ]
+  },
+  {
     "waktu": "01/10/2022 20:50:17 WIB",
     "lintang": "3.77 LS",
     "bujur": "101.84 BT",
@@ -222,19 +234,6 @@
       "III Melonguane",
       "III Tahuna",
       "II Ondong"
-    ]
-  },
-  {
-    "waktu": "25/09/2022 03:32:27 WIB",
-    "lintang": "9.63 LS",
-    "bujur": "114.37 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 132 km BaratDaya Kuta Selatan",
-    "warning": [
-      "III Kuta",
-      "II Denpasar",
-      "II Gianyar"
     ]
   }
 ]

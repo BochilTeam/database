@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-10-22 08:35:36 WIB",
+    "lintang": "1.58",
+    "bujur": "128.31",
+    "magnitudo": "5.2",
+    "kedalaman": "28 Km",
+    "wilayah": "35 km BaratLaut HALMAHERATIMUR-MALUT"
+  },
+  {
     "waktu": "01-10-22 03:37:40 WIB",
     "lintang": "2.03",
     "bujur": "98.97",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 Km",
     "wilayah": "89 km Tenggara MUKOMUKO-BENGKULU"
-  },
-  {
-    "waktu": "04-09-22 15:52:16 WIB",
-    "lintang": "-4.91",
-    "bujur": "102.92",
-    "magnitudo": "5.1",
-    "kedalaman": "20 Km",
-    "wilayah": "49 km BaratDaya KAUR-BENGKULU"
   }
 ]
