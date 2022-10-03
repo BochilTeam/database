@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "03/10/2022 12:18:40 WIB",
+    "lintang": "2.03 LU",
+    "bujur": "98.96 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 1 km baratlaut Tapanuli Utara",
+    "warning": [
+      "III Sipoholon",
+      "II-III Tarutung"
+    ]
+  },
+  {
+    "waktu": "03/10/2022 11:54:28 WIB",
+    "lintang": "2.1 LU",
+    "bujur": "98.93 BT",
+    "magnitudo": "3",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km BaratLaut Tapanuli Utara",
+    "warning": [
+      "II Sipoholon"
+    ]
+  },
+  {
     "waktu": "03/10/2022 09:48:57 WIB",
     "lintang": "2.06 LU",
     "bujur": "98.98 BT",
@@ -209,29 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 22 km baratlaut Karangasem",
     "warning": [
       "II Kubu-Karangasem"
-    ]
-  },
-  {
-    "waktu": "26/09/2022 06:38:53 WIB",
-    "lintang": "5.45 LS",
-    "bujur": "104.98 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km barat daya Pesawaran",
-    "warning": [
-      "II Pesawaran"
-    ]
-  },
-  {
-    "waktu": "26/09/2022 02:43:25 WIB",
-    "lintang": "1.94 LS",
-    "bujur": "118.9 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "19 Km",
-    "wilayah": "Pusat gempa berada di laut 67 km BaratLaut Mamuju Tengah",
-    "warning": [
-      "III Mamuju Tengah",
-      "II Mamuju"
     ]
   }
 ]
