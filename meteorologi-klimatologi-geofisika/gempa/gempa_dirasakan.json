@@ -1,5 +1,39 @@
 [
   {
+    "waktu": "03/10/2022 19:11:59 WIB",
+    "lintang": "5.35 LS",
+    "bujur": "102.57 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di laut 33 km tenggara Enggano",
+    "warning": [
+      "II Enggano"
+    ]
+  },
+  {
+    "waktu": "03/10/2022 18:10:00 WIB",
+    "lintang": "2.04 LU",
+    "bujur": "98.95 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada didarat 3 Km Barat Laut Tapanuli Utara",
+    "warning": [
+      "II-III Tarutung",
+      "II Sipoholon"
+    ]
+  },
+  {
+    "waktu": "03/10/2022 16:51:30 WIB",
+    "lintang": "1.05 LS",
+    "bujur": "123.58 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 28 km Tenggara Kabupaten Banggai",
+    "warning": [
+      "II Banggai Kepulauan"
+    ]
+  },
+  {
     "waktu": "03/10/2022 16:48:44 WIB",
     "lintang": "2.11 LU",
     "bujur": "98.94 BT",
@@ -200,39 +234,6 @@
       "III Sentani",
       "III Genyem",
       "II - III Jayapura"
-    ]
-  },
-  {
-    "waktu": "28/09/2022 12:44:25 WIB",
-    "lintang": "5.25 LS",
-    "bujur": "122.03 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km Barat Laut Kabaena Timur",
-    "warning": [
-      "II - III Kabaena Timur"
-    ]
-  },
-  {
-    "waktu": "28/09/2022 11:36:54 WIB",
-    "lintang": "8.51 LS",
-    "bujur": "111.28 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "103 Km",
-    "wilayah": "Pusat gempa berada di laut 41 km tenggara Pacitan",
-    "warning": [
-      "II Pacitan"
-    ]
-  },
-  {
-    "waktu": "28/09/2022 10:46:35 WIB",
-    "lintang": "0.17 LU",
-    "bujur": "99.92 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km timur laut Pasaman Barat",
-    "warning": [
-      "II - III Pasaman Barat"
     ]
   }
 ]
