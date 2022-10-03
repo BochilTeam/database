@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/10/2022 09:48:57 WIB",
+    "lintang": "2.06 LU",
+    "bujur": "98.98 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km TimurLaut Tapanuli Utara",
+    "warning": [
+      "III Sipoholon"
+    ]
+  },
+  {
     "waktu": "02/10/2022 23:47:51 WIB",
     "lintang": "1.99 LU",
     "bujur": "98.97 BT",
@@ -221,17 +232,6 @@
     "warning": [
       "III Mamuju Tengah",
       "II Mamuju"
-    ]
-  },
-  {
-    "waktu": "25/09/2022 21:23:00 WIB",
-    "lintang": "0.29 LS",
-    "bujur": "100.42 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km timur laut Bukittinggi",
-    "warning": [
-      "II - III Bukittinggi"
     ]
   }
 ]
