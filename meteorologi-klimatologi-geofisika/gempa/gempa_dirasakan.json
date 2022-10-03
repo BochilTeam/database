@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "03/10/2022 16:48:44 WIB",
+    "lintang": "2.11 LU",
+    "bujur": "98.94 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km BaratLaut Tapanuli Utara",
+    "warning": [
+      "III Sipoholon",
+      "III Tarutung"
+    ]
+  },
+  {
     "waktu": "03/10/2022 15:01:36 WIB",
     "lintang": "0.86 LS",
     "bujur": "119.89 BT",
@@ -221,17 +233,6 @@
     "wilayah": "Pusat gempa berada di darat 12 km timur laut Pasaman Barat",
     "warning": [
       "II - III Pasaman Barat"
-    ]
-  },
-  {
-    "waktu": "27/09/2022 04:27:09 WIB",
-    "lintang": "4.62 LS",
-    "bujur": "129.77 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di laut 17 km baratdaya Banda",
-    "warning": [
-      "III Banda"
     ]
   }
 ]
