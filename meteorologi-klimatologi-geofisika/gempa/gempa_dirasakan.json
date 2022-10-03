@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/10/2022 15:01:36 WIB",
+    "lintang": "0.86 LS",
+    "bujur": "119.89 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 5 Km Timur Laut Palu",
+    "warning": [
+      "II-III Palu"
+    ]
+  },
+  {
     "waktu": "03/10/2022 12:18:40 WIB",
     "lintang": "2.03 LU",
     "bujur": "98.96 BT",
@@ -221,17 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 17 km baratdaya Banda",
     "warning": [
       "III Banda"
-    ]
-  },
-  {
-    "waktu": "26/09/2022 15:55:49 WIB",
-    "lintang": "8.15 LS",
-    "bujur": "115.5 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 22 km baratlaut Karangasem",
-    "warning": [
-      "II Kubu-Karangasem"
     ]
   }
 ]
