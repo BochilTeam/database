@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05-10-22 05:11:53 WIB",
+    "lintang": "-7.80",
+    "bujur": "130.51",
+    "magnitudo": "5.0",
+    "kedalaman": "110 Km",
+    "wilayah": "90 km BaratLaut MALUKUTENGGARABRT"
+  },
+  {
     "waktu": "02-10-22 08:35:36 WIB",
     "lintang": "1.58",
     "bujur": "128.31",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "138 Km",
     "wilayah": "47 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
-  },
-  {
-    "waktu": "08-09-22 01:09:35 WIB",
-    "lintang": "-3.37",
-    "bujur": "101.26",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "89 km Tenggara MUKOMUKO-BENGKULU"
   }
 ]
