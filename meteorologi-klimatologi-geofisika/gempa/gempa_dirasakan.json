@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/10/2022 11:52:15 WIB",
+    "lintang": "8.01 LS",
+    "bujur": "120.51 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 67 km TimurLaut Ruteng-Manggarai",
+    "warning": [
+      "II Soa"
+    ]
+  },
+  {
     "waktu": "03/10/2022 19:11:59 WIB",
     "lintang": "5.35 LS",
     "bujur": "102.57 BT",
@@ -221,19 +232,6 @@
     "wilayah": "Pusat gempa berada di darat 33 km tenggara Pesawaran",
     "warning": [
       "II - III Pesawaran"
-    ]
-  },
-  {
-    "waktu": "29/09/2022 18:34:43 WIB",
-    "lintang": "2.23 LS",
-    "bujur": "140.08 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 76 km BaratLaut Jayapura",
-    "warning": [
-      "III Sentani",
-      "III Genyem",
-      "II - III Jayapura"
     ]
   }
 ]
