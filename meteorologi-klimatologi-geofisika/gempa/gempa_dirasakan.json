@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/10/2022 22:24:22 WIB",
+    "lintang": "1.01 LS",
+    "bujur": "120.41 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km BaratLaut Sausu, Kab. Parigi Moutong",
+    "warning": [
+      "II - III Torue"
+    ]
+  },
+  {
     "waktu": "04/10/2022 17:38:44 WIB",
     "lintang": "2.4 LS",
     "bujur": "120.88 BT",
@@ -221,17 +232,6 @@
       "III Nuha",
       "II - III Luwu",
       "III Towuti"
-    ]
-  },
-  {
-    "waktu": "30/09/2022 06:24:55 WIB",
-    "lintang": "0.59 LS",
-    "bujur": "100.42 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km Tenggara Padang Panjang",
-    "warning": [
-      "II - III Padang Panjang"
     ]
   }
 ]
