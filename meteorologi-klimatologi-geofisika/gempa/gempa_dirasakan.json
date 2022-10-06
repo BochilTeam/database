@@ -1,5 +1,24 @@
 [
   {
+    "waktu": "06/10/2022 15:30:59 WIB",
+    "lintang": "2.09 LU",
+    "bujur": "98.92 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 9 Km Baratlaut Tapanuli Utara",
+    "warning": [
+      "IV Tarutung",
+      "III Sibolga",
+      "III Silangit",
+      "III Sipahutar",
+      "II Humbang Hasundutan",
+      "II Toba",
+      "III Siborong-borong",
+      "III Pagaran",
+      "II Dolok Sanggul"
+    ]
+  },
+  {
     "waktu": "04/10/2022 22:24:22 WIB",
     "lintang": "1.01 LS",
     "bujur": "120.41 BT",
@@ -217,21 +236,6 @@
       "V Sipahutar",
       "III Tapaktuan",
       "III Gunung Sitoli"
-    ]
-  },
-  {
-    "waktu": "30/09/2022 21:30:22 WIB",
-    "lintang": "2.46 LS",
-    "bujur": "121.25 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km timur laut Luwu Timur",
-    "warning": [
-      "III Sorowako",
-      "III Malili",
-      "III Nuha",
-      "II - III Luwu",
-      "III Towuti"
     ]
   }
 ]
