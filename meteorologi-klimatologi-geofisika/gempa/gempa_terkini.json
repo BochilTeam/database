@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09-10-22 04:12:33 WIB",
+    "lintang": "-0.97",
+    "bujur": "128.91",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "144 km TimurLaut HALMAHERASELATAN-MALUT"
+  },
+  {
     "waktu": "07-10-22 03:00:42 WIB",
     "lintang": "2.02",
     "bujur": "99.01",
@@ -222,14 +230,6 @@
     "magnitudo": "5.2",
     "kedalaman": "14 Km",
     "wilayah": "45 km BaratLaut NIASUTARA-SUMUT"
-  },
-  {
-    "waktu": "08-09-22 14:01:22 WIB",
-    "lintang": "-10.53",
-    "bujur": "109.65",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "301 km BaratDaya GUNUNGKIDUL-DIY"
   },
   {
     "waktu": "08-09-22 14:01:22 WIB",

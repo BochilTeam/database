@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/10/2022 02:57:40 WIB",
+    "lintang": "2.21 LS",
+    "bujur": "119.4 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km Baratdaya Mamuju Tengah",
+    "warning": [
+      "III Mamuju Tengah"
+    ]
+  },
+  {
     "waktu": "08/10/2022 01:10:14 WIB",
     "lintang": "7.4 LS",
     "bujur": "106.44 BT",
@@ -223,17 +234,6 @@
       "II - III Kota Bengkulu",
       "II Kepahiang",
       "III Bengkulu Utara"
-    ]
-  },
-  {
-    "waktu": "01/10/2022 17:20:48 WIB",
-    "lintang": "1.96 LU",
-    "bujur": "99 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km Tenggara Tapanuli Utara",
-    "warning": [
-      "II Paranginan"
     ]
   }
 ]
