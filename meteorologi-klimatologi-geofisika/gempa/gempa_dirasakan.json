@@ -1,5 +1,54 @@
 [
   {
+    "waktu": "09/10/2022 17:33:17 WIB",
+    "lintang": "2.98 LS",
+    "bujur": "130.56 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 16 km TimurLaut Bula- Seram Bagian Timur",
+    "warning": [
+      "II Bula"
+    ]
+  },
+  {
+    "waktu": "09/10/2022 17:02:44 WIB",
+    "lintang": "7.09 LS",
+    "bujur": "106.08 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut, 26 km Barat Daya Bayah",
+    "warning": [
+      "III-IV Kab. Sukabumi",
+      "III Bayah",
+      "III Sukabumi",
+      "III Sagaranten",
+      "III Cianjur",
+      "III Panggarangan",
+      "III Ciptagelar",
+      "III Malingping",
+      "III Cihara",
+      "III Cibeber",
+      "III Cilograng",
+      "II-III Citeko",
+      "II-III Cisarua",
+      "II Pangandaran",
+      "II Ciputat",
+      "II Parung Panjang",
+      "II Pandeglang",
+      "II Majasari",
+      "II Serang",
+      "II Sawarna",
+      "II Tamanjaya",
+      "II Ujung Kulon",
+      "II Merak",
+      "II Tangerang",
+      "II Jakarta",
+      "II Depok",
+      "I-II Kab. Bandung",
+      "I-II Bandung"
+    ]
+  },
+  {
     "waktu": "09/10/2022 10:43:41 WIB",
     "lintang": "8.32 LS",
     "bujur": "109.02 BT",
@@ -211,29 +260,6 @@
     "wilayah": "Pusat gempa berada di darat 2 km Tenggara Tapanuli Utara",
     "warning": [
       "II Tarutung"
-    ]
-  },
-  {
-    "waktu": "02/10/2022 13:51:58 WIB",
-    "lintang": "6.83 LS",
-    "bujur": "107.92 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km Utara Kab. Sumedang",
-    "warning": [
-      "II - III Sumedang"
-    ]
-  },
-  {
-    "waktu": "02/10/2022 08:35:36 WIB",
-    "lintang": "1.58 LU",
-    "bujur": "128.31 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "28 Km",
-    "wilayah": "Pusat gempa berada di laut 35 km BaratLaut Halmahera Timur",
-    "warning": [
-      "II-III Morotai",
-      "II - III Halmahera Utara"
     ]
   }
 ]
