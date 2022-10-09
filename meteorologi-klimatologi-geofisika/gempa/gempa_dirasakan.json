@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "09/10/2022 10:43:41 WIB",
+    "lintang": "8.32 LS",
+    "bujur": "109.02 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "33 Km",
+    "wilayah": "Pusat gempa berada di laut 66 km tenggara Cilacap",
+    "warning": [
+      "II Cilacap",
+      "II Kebumen",
+      "II Pangandaran"
+    ]
+  },
+  {
     "waktu": "09/10/2022 02:57:40 WIB",
     "lintang": "2.21 LS",
     "bujur": "119.4 BT",
@@ -221,19 +234,6 @@
     "warning": [
       "II-III Morotai",
       "II - III Halmahera Utara"
-    ]
-  },
-  {
-    "waktu": "01/10/2022 20:50:17 WIB",
-    "lintang": "3.77 LS",
-    "bujur": "101.84 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "54 Km",
-    "wilayah": "Pusat gempa berada di laut 54 km Barat daya Bengkulu Utara",
-    "warning": [
-      "II - III Kota Bengkulu",
-      "II Kepahiang",
-      "III Bengkulu Utara"
     ]
   }
 ]
