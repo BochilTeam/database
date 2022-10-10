@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "10/10/2022 20:30:28 WIB",
+    "lintang": "7.56 LS",
+    "bujur": "106.01 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 74 km barat daya Bayah",
+    "warning": [
+      "II Bayah"
+    ]
+  },
+  {
+    "waktu": "10/10/2022 19:42:52 WIB",
+    "lintang": "3.38 LU",
+    "bujur": "96.65 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di laut 61 km baratdaya Blang Pidie-Aceh Baratdaya",
+    "warning": [
+      "II Aceh Selatan"
+    ]
+  },
+  {
     "waktu": "10/10/2022 17:18:39 WIB",
     "lintang": "1.94 LU",
     "bujur": "97.93 BT",
@@ -240,29 +262,6 @@
     "wilayah": "Pusat gempa berada di laut 28 km Tenggara Kabupaten Banggai",
     "warning": [
       "II Banggai Kepulauan"
-    ]
-  },
-  {
-    "waktu": "03/10/2022 16:48:44 WIB",
-    "lintang": "2.11 LU",
-    "bujur": "98.94 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km BaratLaut Tapanuli Utara",
-    "warning": [
-      "III Sipoholon",
-      "III Tarutung"
-    ]
-  },
-  {
-    "waktu": "03/10/2022 15:01:36 WIB",
-    "lintang": "0.86 LS",
-    "bujur": "119.89 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 5 Km Timur Laut Palu",
-    "warning": [
-      "II-III Palu"
     ]
   }
 ]
