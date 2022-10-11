@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "11/10/2022 11:56:24 WIB",
+    "lintang": "1.42 LU",
+    "bujur": "118.85 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 26.5 km TimurLaut Biduk-Biduk",
+    "warning": [
+      "II Batuputih",
+      "II Biduk-Biduk"
+    ]
+  },
+  {
     "waktu": "10/10/2022 20:30:28 WIB",
     "lintang": "7.56 LS",
     "bujur": "106.01 BT",
@@ -251,17 +263,6 @@
     "warning": [
       "II-III Tarutung",
       "II Sipoholon"
-    ]
-  },
-  {
-    "waktu": "03/10/2022 16:51:30 WIB",
-    "lintang": "1.05 LS",
-    "bujur": "123.58 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 28 km Tenggara Kabupaten Banggai",
-    "warning": [
-      "II Banggai Kepulauan"
     ]
   }
 ]
