@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "12/10/2022 16:55:55 WIB",
+    "lintang": "2.07 LU",
+    "bujur": "98.97 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km TimurLaut Tapanuli Utara",
+    "warning": [
+      "III Tarutung",
+      "III Parmonangan",
+      "II Silangit"
+    ]
+  },
+  {
+    "waktu": "12/10/2022 15:50:04 WIB",
+    "lintang": "2.87 LS",
+    "bujur": "136.98 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "62 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km Tenggara Waropen",
+    "warning": [
+      "III Waropen"
+    ]
+  },
+  {
     "waktu": "11/10/2022 20:22:39 WIB",
     "lintang": "2.57 LS",
     "bujur": "140.28 BT",
@@ -240,28 +264,6 @@
     "wilayah": "Pusat gempa berada di darat 38 km Barat laut Luwu Timur",
     "warning": [
       "II - III Mangkutana"
-    ]
-  },
-  {
-    "waktu": "04/10/2022 11:52:15 WIB",
-    "lintang": "8.01 LS",
-    "bujur": "120.51 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 67 km TimurLaut Ruteng-Manggarai",
-    "warning": [
-      "II Soa"
-    ]
-  },
-  {
-    "waktu": "03/10/2022 19:11:59 WIB",
-    "lintang": "5.35 LS",
-    "bujur": "102.57 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di laut 33 km tenggara Enggano",
-    "warning": [
-      "II Enggano"
     ]
   }
 ]
