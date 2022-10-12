@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-10-22 15:50:04 WIB",
+    "lintang": "-2.87",
+    "bujur": "136.98",
+    "magnitudo": "5.2",
+    "kedalaman": "62 Km",
+    "wilayah": "34 km Tenggara WAROPEN-PAPUA"
+  },
+  {
     "waktu": "11-10-22 14:53:24 WIB",
     "lintang": "0.17",
     "bujur": "98.62",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "127 km BaratDaya MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "09-09-22 00:52:49 WIB",
-    "lintang": "-4.32",
-    "bujur": "102.18",
-    "magnitudo": "5.0",
-    "kedalaman": "21 Km",
-    "wilayah": "51 km BaratDaya SELUMA-BENGKULU"
   }
 ]
