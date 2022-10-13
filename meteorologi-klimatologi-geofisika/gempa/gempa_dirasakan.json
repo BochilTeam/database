@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/10/2022 12:45:29 WIB",
+    "lintang": "0.58 LS",
+    "bujur": "127.51 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km TimurLaut Labuha",
+    "warning": [
+      "II - III Labuha"
+    ]
+  },
+  {
     "waktu": "13/10/2022 10:51:47 WIB",
     "lintang": "8.55 LS",
     "bujur": "116.07 BT",
@@ -246,18 +257,6 @@
     "warning": [
       "II Sipoholon",
       "II Tarutung"
-    ]
-  },
-  {
-    "waktu": "07/10/2022 03:00:42 WIB",
-    "lintang": "2.02 LU",
-    "bujur": "99.01 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km TimurLaut Tapanuli Utara",
-    "warning": [
-      "IV Tarutung",
-      "III Sipoholon"
     ]
   }
 ]
