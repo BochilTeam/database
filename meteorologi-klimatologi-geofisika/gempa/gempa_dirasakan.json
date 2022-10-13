@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/10/2022 05:12:18 WIB",
+    "lintang": "4.11 LS",
+    "bujur": "138.98 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km Tenggara Wamena",
+    "warning": [
+      "III Wamena"
+    ]
+  },
+  {
     "waktu": "12/10/2022 16:55:55 WIB",
     "lintang": "2.07 LU",
     "bujur": "98.97 BT",
@@ -253,17 +264,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km BaratLaut Sausu, Kab. Parigi Moutong",
     "warning": [
       "II - III Torue"
-    ]
-  },
-  {
-    "waktu": "04/10/2022 17:38:44 WIB",
-    "lintang": "2.4 LS",
-    "bujur": "120.88 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 38 km Barat laut Luwu Timur",
-    "warning": [
-      "II - III Mangkutana"
     ]
   }
 ]
