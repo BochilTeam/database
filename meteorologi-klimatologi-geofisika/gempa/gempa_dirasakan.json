@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "15/10/2022 00:40:44 WIB",
+    "lintang": "3.83 LS",
+    "bujur": "103.68 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km tenggara Lahat",
+    "warning": [
+      "III-IV Lahat",
+      "III-IV Muara Enim"
+    ]
+  },
+  {
     "waktu": "14/10/2022 08:22:02 WIB",
     "lintang": "3.81 LS",
     "bujur": "103.75 BT",
@@ -244,17 +256,6 @@
       "II Cilacap",
       "II Kebumen",
       "II Pangandaran"
-    ]
-  },
-  {
-    "waktu": "09/10/2022 02:57:40 WIB",
-    "lintang": "2.21 LS",
-    "bujur": "119.4 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km Baratdaya Mamuju Tengah",
-    "warning": [
-      "III Mamuju Tengah"
     ]
   }
 ]
