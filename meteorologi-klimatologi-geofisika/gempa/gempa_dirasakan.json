@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/10/2022 08:22:02 WIB",
+    "lintang": "3.81 LS",
+    "bujur": "103.75 BT",
+    "magnitudo": "4",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km BaratDaya Muara Enim",
+    "warning": [
+      "III Muara Enim"
+    ]
+  },
+  {
     "waktu": "14/10/2022 03:03:46 WIB",
     "lintang": "4.88 LS",
     "bujur": "122.43 BT",
@@ -244,18 +255,6 @@
     "wilayah": "Pusat gempa berada di darat 16 km Baratdaya Mamuju Tengah",
     "warning": [
       "III Mamuju Tengah"
-    ]
-  },
-  {
-    "waktu": "08/10/2022 01:10:14 WIB",
-    "lintang": "7.4 LS",
-    "bujur": "106.44 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "42 Km",
-    "wilayah": "Pusat gempa berada di laut 47 km BaratDaya Kab. Sukabumi",
-    "warning": [
-      "III Cigaru",
-      "II - III Cianjur selatan"
     ]
   }
 ]
