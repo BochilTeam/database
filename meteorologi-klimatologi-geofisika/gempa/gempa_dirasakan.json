@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "15/10/2022 14:00:09 WIB",
+    "lintang": "4.87 LS",
+    "bujur": "122.39 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di darat 1 km Timur Laut Muna Barat",
+    "warning": [
+      "III Muna Barat"
+    ]
+  },
+  {
+    "waktu": "15/10/2022 13:50:11 WIB",
+    "lintang": "4.9 LS",
+    "bujur": "122.38 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km Barat Daya Muna Barat",
+    "warning": [
+      "III-IV Muna Barat"
+    ]
+  },
+  {
     "waktu": "15/10/2022 00:40:44 WIB",
     "lintang": "3.83 LS",
     "bujur": "103.68 BT",
@@ -205,57 +227,6 @@
     "wilayah": "Pusat gempa berada di laut 16 km TimurLaut Bula- Seram Bagian Timur",
     "warning": [
       "II Bula"
-    ]
-  },
-  {
-    "waktu": "09/10/2022 17:02:44 WIB",
-    "lintang": "7.09 LS",
-    "bujur": "106.08 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut, 26 km Barat Daya Bayah",
-    "warning": [
-      "III-IV Kab. Sukabumi",
-      "III Bayah",
-      "III Sukabumi",
-      "III Sagaranten",
-      "III Cianjur",
-      "III Panggarangan",
-      "III Ciptagelar",
-      "III Malingping",
-      "III Cihara",
-      "III Cibeber",
-      "III Cilograng",
-      "II-III Citeko",
-      "II-III Cisarua",
-      "II Pangandaran",
-      "II Ciputat",
-      "II Parung Panjang",
-      "II Pandeglang",
-      "II Majasari",
-      "II Serang",
-      "II Sawarna",
-      "II Tamanjaya",
-      "II Ujung Kulon",
-      "II Merak",
-      "II Tangerang",
-      "II Jakarta",
-      "II Depok",
-      "I-II Kab. Bandung",
-      "I-II Bandung"
-    ]
-  },
-  {
-    "waktu": "09/10/2022 10:43:41 WIB",
-    "lintang": "8.32 LS",
-    "bujur": "109.02 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "33 Km",
-    "wilayah": "Pusat gempa berada di laut 66 km tenggara Cilacap",
-    "warning": [
-      "II Cilacap",
-      "II Kebumen",
-      "II Pangandaran"
     ]
   }
 ]
