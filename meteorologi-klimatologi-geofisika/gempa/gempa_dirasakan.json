@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "16/10/2022 04:22:49 WIB",
+    "lintang": "8.65 LS",
+    "bujur": "118.92 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "123 Km",
+    "wilayah": "Pusat gempa berada di laut 28 km tenggara Bima",
+    "warning": [
+      "III Bima",
+      "III Dompu"
+    ]
+  },
+  {
     "waktu": "15/10/2022 15:35:57 WIB",
     "lintang": "1.98 LU",
     "bujur": "99.01 BT",
@@ -216,18 +228,6 @@
     "warning": [
       "III Lombok Barat",
       "II Lombok Tengah"
-    ]
-  },
-  {
-    "waktu": "09/10/2022 22:10:12 WIB",
-    "lintang": "2.31 LS",
-    "bujur": "140.79 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 35 km TimurLaut Kota Jayapura",
-    "warning": [
-      "III Kota Jayapura",
-      "II Keerom"
     ]
   }
 ]

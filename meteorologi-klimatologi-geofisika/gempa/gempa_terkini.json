@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16-10-22 04:22:49 WIB",
+    "lintang": "-8.65",
+    "bujur": "118.92",
+    "magnitudo": "5.3",
+    "kedalaman": "123 Km",
+    "wilayah": "28 km Tenggara KOTA-BIMA-NTB"
+  },
+  {
     "waktu": "16-10-22 01:31:00 WIB",
     "lintang": "-7.61",
     "bujur": "128.97",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "191 Km",
     "wilayah": "201 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
-    "waktu": "10-09-22 00:20:18 WIB",
-    "lintang": "2.06",
-    "bujur": "126.64",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "131 km BaratLaut HALMAHERABARAT-MALUT"
   }
 ]
