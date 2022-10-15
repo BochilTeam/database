@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16-10-22 01:31:00 WIB",
+    "lintang": "-7.61",
+    "bujur": "128.97",
+    "magnitudo": "5.2",
+    "kedalaman": "170 Km",
+    "wilayah": "144 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "12-10-22 15:50:04 WIB",
     "lintang": "-2.87",
     "bujur": "136.98",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "131 km BaratLaut HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "09-09-22 16:17:36 WIB",
-    "lintang": "-9.10",
-    "bujur": "127.14",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "127 km BaratDaya MALUKUBRTDAYA"
   }
 ]
