@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "16/10/2022 08:13:24 WIB",
+    "lintang": "8.73 LS",
+    "bujur": "116.62 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 13 km Tenggara Lombok Timur",
+    "warning": [
+      "III-IV Lombok Timur",
+      "III Lombok Barat",
+      "III Mataram",
+      "III Lombok Tengah",
+      "III Sumbawa Barat"
+    ]
+  },
+  {
     "waktu": "16/10/2022 04:22:49 WIB",
     "lintang": "8.65 LS",
     "bujur": "118.92 BT",
@@ -216,18 +231,6 @@
     "wilayah": "Pusat gempa berada di laut 43 km barat laut Kab. Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "10/10/2022 12:27:49 WIB",
-    "lintang": "9.34 LS",
-    "bujur": "115.46 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "50 Km",
-    "wilayah": "Pusat gempa berada di laut 65 km tenggara Kuta Selatan",
-    "warning": [
-      "III Lombok Barat",
-      "II Lombok Tengah"
     ]
   }
 ]
