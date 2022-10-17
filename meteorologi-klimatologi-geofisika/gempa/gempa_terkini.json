@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-10-22 20:12:48 WIB",
+    "lintang": "-0.02",
+    "bujur": "123.50",
+    "magnitudo": "5.1",
+    "kedalaman": "122 Km",
+    "wilayah": "69 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
+  },
+  {
     "waktu": "17-10-22 15:13:49 WIB",
     "lintang": "-3.01",
     "bujur": "130.57",
@@ -230,13 +238,5 @@
     "magnitudo": "6.0",
     "kedalaman": "10 Km",
     "wilayah": "22 km BaratLaut MAMBERAMOTENGAH-PAPUA"
-  },
-  {
-    "waktu": "10-09-22 06:31:49 WIB",
-    "lintang": "-2.02",
-    "bujur": "138.32",
-    "magnitudo": "5.9",
-    "kedalaman": "106 Km",
-    "wilayah": "39 km TimurLaut MAMBERAMOTENGAH-PAPUA"
   }
 ]

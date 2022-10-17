@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "17/10/2022 20:12:48 WIB",
+    "lintang": "0.02 LS",
+    "bujur": "123.5 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "122 Km",
+    "wilayah": "Pusat gempa berada di laut 69 km BaratDaya Bolaanguki-BOLSEL",
+    "warning": [
+      "II - III Kab. Gorontalo",
+      "II Kota Gorontalo",
+      "II Kab. Gorontalo Utara",
+      "II Taliabu"
+    ]
+  },
+  {
     "waktu": "16/10/2022 08:13:24 WIB",
     "lintang": "8.73 LS",
     "bujur": "116.62 BT",
@@ -220,17 +234,6 @@
       "III - IV Pakpak Bharat",
       "III - IV Aceh Singkil",
       "II - III Gunung Sitoli"
-    ]
-  },
-  {
-    "waktu": "10/10/2022 15:25:32 WIB",
-    "lintang": "2.22 LS",
-    "bujur": "140.28 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 43 km barat laut Kab. Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
