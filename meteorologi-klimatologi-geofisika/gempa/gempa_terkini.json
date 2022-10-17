@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-10-22 15:13:49 WIB",
+    "lintang": "-3.01",
+    "bujur": "130.57",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "13 km TimurLaut SERAMBAGIANTIMUR-MALUKU"
+  },
+  {
     "waktu": "16-10-22 04:22:49 WIB",
     "lintang": "-8.65",
     "bujur": "118.92",
@@ -230,13 +238,5 @@
     "magnitudo": "5.9",
     "kedalaman": "106 Km",
     "wilayah": "39 km TimurLaut MAMBERAMOTENGAH-PAPUA"
-  },
-  {
-    "waktu": "10-09-22 04:38:01 WIB",
-    "lintang": "-7.11",
-    "bujur": "129.71",
-    "magnitudo": "5.1",
-    "kedalaman": "191 Km",
-    "wilayah": "201 km BaratLaut MALUKUTENGGARABRT"
   }
 ]
