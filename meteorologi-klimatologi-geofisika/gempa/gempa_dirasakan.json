@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/10/2022 16:34:55 WIB",
+    "lintang": "3.76 LS",
+    "bujur": "128.52 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 25 km BaratLaut Saparua",
+    "warning": [
+      "II Ambon"
+    ]
+  },
+  {
     "waktu": "17/10/2022 20:12:48 WIB",
     "lintang": "0.02 LS",
     "bujur": "123.5 BT",
@@ -221,19 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 61 km baratdaya Blang Pidie-Aceh Baratdaya",
     "warning": [
       "II Aceh Selatan"
-    ]
-  },
-  {
-    "waktu": "10/10/2022 17:18:39 WIB",
-    "lintang": "1.94 LU",
-    "bujur": "97.93 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "28 Km",
-    "wilayah": "Pusat gempa berada di laut 46 km Tenggara Kab. Aceh Singkil",
-    "warning": [
-      "III - IV Pakpak Bharat",
-      "III - IV Aceh Singkil",
-      "II - III Gunung Sitoli"
     ]
   }
 ]
