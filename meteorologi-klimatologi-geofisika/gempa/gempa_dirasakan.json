@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "18/10/2022 21:52:43 WIB",
+    "lintang": "4.8 LS",
+    "bujur": "121.98 BT",
+    "magnitudo": "4",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 8,2 km BaratDaya Rumbia",
+    "warning": [
+      "III-IV Kab. Bombana"
+    ]
+  },
+  {
+    "waktu": "18/10/2022 21:41:02 WIB",
+    "lintang": "3.82 LS",
+    "bujur": "103.72 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 20 km BaratDaya Muara Enim",
+    "warning": [
+      "III Tanjung Enim",
+      "II-III Muara Enim",
+      "II-III Lahat"
+    ]
+  },
+  {
     "waktu": "18/10/2022 17:57:37 WIB",
     "lintang": "3.78 LS",
     "bujur": "128.53 BT",
@@ -209,29 +233,6 @@
     "wilayah": "Pusat gempa berada di darat 14 km BaratLaut Kab. Jayapura",
     "warning": [
       "III Kab. Jayapura"
-    ]
-  },
-  {
-    "waktu": "11/10/2022 11:56:24 WIB",
-    "lintang": "1.42 LU",
-    "bujur": "118.85 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 26.5 km TimurLaut Biduk-Biduk",
-    "warning": [
-      "II Batuputih",
-      "II Biduk-Biduk"
-    ]
-  },
-  {
-    "waktu": "10/10/2022 20:30:28 WIB",
-    "lintang": "7.56 LS",
-    "bujur": "106.01 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 74 km barat daya Bayah",
-    "warning": [
-      "II Bayah"
     ]
   }
 ]
