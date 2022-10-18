@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/10/2022 17:57:37 WIB",
+    "lintang": "3.78 LS",
+    "bujur": "128.53 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 30 km Baratdaya Nusalaut",
+    "warning": [
+      "I-II Ambon"
+    ]
+  },
+  {
     "waktu": "18/10/2022 16:34:55 WIB",
     "lintang": "3.76 LS",
     "bujur": "128.52 BT",
@@ -221,17 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 74 km barat daya Bayah",
     "warning": [
       "II Bayah"
-    ]
-  },
-  {
-    "waktu": "10/10/2022 19:42:52 WIB",
-    "lintang": "3.38 LU",
-    "bujur": "96.65 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "29 Km",
-    "wilayah": "Pusat gempa berada di laut 61 km baratdaya Blang Pidie-Aceh Baratdaya",
-    "warning": [
-      "II Aceh Selatan"
     ]
   }
 ]

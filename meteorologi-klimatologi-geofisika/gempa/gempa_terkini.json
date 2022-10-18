@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18-10-22 18:46:05 WIB",
+    "lintang": "-4.32",
+    "bujur": "125.21",
+    "magnitudo": "5.0",
+    "kedalaman": "489 Km",
+    "wilayah": "211 km TimurLaut WAKATOBI-SULTRA"
+  },
+  {
     "waktu": "17-10-22 20:12:48 WIB",
     "lintang": "-0.02",
     "bujur": "123.50",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "16 Km",
     "wilayah": "32 km BaratLaut MAMBERAMOTENGAH-PAPUA"
-  },
-  {
-    "waktu": "10-09-22 06:44:11 WIB",
-    "lintang": "-2.18",
-    "bujur": "138.25",
-    "magnitudo": "6.0",
-    "kedalaman": "10 Km",
-    "wilayah": "22 km BaratLaut MAMBERAMOTENGAH-PAPUA"
   }
 ]
