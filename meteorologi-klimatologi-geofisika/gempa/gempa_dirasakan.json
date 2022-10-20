@@ -1,5 +1,34 @@
 [
   {
+    "waktu": "20/10/2022 20:34:25 WIB",
+    "lintang": "3.71 LS",
+    "bujur": "135.62 BT",
+    "magnitudo": "4",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km barat daya Nabire",
+    "warning": [
+      "II Nabire"
+    ]
+  },
+  {
+    "waktu": "20/10/2022 20:26:44 WIB",
+    "lintang": "7.18 LS",
+    "bujur": "107.78 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km Baratlaut Kab. Garut",
+    "warning": [
+      "III Pasirwangi",
+      "III Darajat",
+      "III Kamojang",
+      "III Paseh",
+      "III Samarang",
+      "III Majalaya",
+      "III Tarogong",
+      "I-II Kab. Bandung"
+    ]
+  },
+  {
     "waktu": "19/10/2022 13:27:28 WIB",
     "lintang": "2.06 LU",
     "bujur": "98.98 BT",
@@ -214,28 +243,6 @@
       "III Mataram",
       "II Lombok Tengah",
       "III Lombok Barat"
-    ]
-  },
-  {
-    "waktu": "13/10/2022 08:55:52 WIB",
-    "lintang": "2.42 LU",
-    "bujur": "95.95 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 46 km barat daya Sinabang",
-    "warning": [
-      "II - III Kec. Simeulue Timur"
-    ]
-  },
-  {
-    "waktu": "13/10/2022 05:12:18 WIB",
-    "lintang": "4.11 LS",
-    "bujur": "138.98 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km Tenggara Wamena",
-    "warning": [
-      "III Wamena"
     ]
   }
 ]
