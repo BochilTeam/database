@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "20/10/2022 23:02:04 WIB",
+    "lintang": "9.56 LS",
+    "bujur": "116.46 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "33 Km",
+    "wilayah": "Pusat gempa berada di laut 97 km tenggara Lombok Tengah",
+    "warning": [
+      "III Lombok Tengah"
+    ]
+  },
+  {
+    "waktu": "20/10/2022 21:13:21 WIB",
+    "lintang": "2 LU",
+    "bujur": "98.96 BT",
+    "magnitudo": "2",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 1 km barat daya Tapanuli Utara",
+    "warning": [
+      "II-III Tarutung"
+    ]
+  },
+  {
     "waktu": "20/10/2022 20:34:25 WIB",
     "lintang": "3.71 LS",
     "bujur": "135.62 BT",
@@ -219,30 +241,6 @@
     "wilayah": "Pusat gempa berada di darat 4.8 km Tenggara Kab. Muna Barat",
     "warning": [
       "II - III Muna Barat"
-    ]
-  },
-  {
-    "waktu": "13/10/2022 12:45:29 WIB",
-    "lintang": "0.58 LS",
-    "bujur": "127.51 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km TimurLaut Labuha",
-    "warning": [
-      "II - III Labuha"
-    ]
-  },
-  {
-    "waktu": "13/10/2022 10:51:47 WIB",
-    "lintang": "8.55 LS",
-    "bujur": "116.07 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km BaratLaut Lombok Barat",
-    "warning": [
-      "III Mataram",
-      "II Lombok Tengah",
-      "III Lombok Barat"
     ]
   }
 ]
