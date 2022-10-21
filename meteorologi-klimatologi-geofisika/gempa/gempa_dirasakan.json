@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/10/2022 18:54:39 WIB",
+    "lintang": "2.06 LU",
+    "bujur": "98.96 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km Baratlaut Tapanuli Utara",
+    "warning": [
+      "II Tarutung"
+    ]
+  },
+  {
     "waktu": "21/10/2022 05:59:08 WIB",
     "lintang": "0.76 LS",
     "bujur": "121.55 BT",
@@ -231,17 +242,6 @@
     "warning": [
       "III-IV Lahat",
       "III-IV Muara Enim"
-    ]
-  },
-  {
-    "waktu": "14/10/2022 08:22:02 WIB",
-    "lintang": "3.81 LS",
-    "bujur": "103.75 BT",
-    "magnitudo": "4",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 18 km BaratDaya Muara Enim",
-    "warning": [
-      "III Muara Enim"
     ]
   }
 ]
