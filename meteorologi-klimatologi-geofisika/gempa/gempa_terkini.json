@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-10-22 05:59:08 WIB",
+    "lintang": "-0.76",
+    "bujur": "121.55",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "37 km TimurLaut TOJOUNA-UNA-SULTENG"
+  },
+  {
     "waktu": "18-10-22 18:46:05 WIB",
     "lintang": "-4.32",
     "bujur": "125.21",
@@ -230,13 +238,5 @@
     "magnitudo": "6.2",
     "kedalaman": "16 Km",
     "wilayah": "37 km BaratLaut MAMBERAMOTENGAH-PAPUA"
-  },
-  {
-    "waktu": "10-09-22 06:51:22 WIB",
-    "lintang": "-2.08",
-    "bujur": "138.30",
-    "magnitudo": "5.5",
-    "kedalaman": "16 Km",
-    "wilayah": "32 km BaratLaut MAMBERAMOTENGAH-PAPUA"
   }
 ]
