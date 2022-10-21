@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "21/10/2022 22:17:56 WIB",
+    "lintang": "4.66 LU",
+    "bujur": "96.8 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km barat laut Takengon-Aceh Tengah",
+    "warning": [
+      "II-III Aceh Tengah",
+      "II Bener Meriah"
+    ]
+  },
+  {
     "waktu": "21/10/2022 18:54:39 WIB",
     "lintang": "2.06 LU",
     "bujur": "98.96 BT",
@@ -230,18 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 14 km Barat Daya Muna Barat",
     "warning": [
       "III-IV Muna Barat"
-    ]
-  },
-  {
-    "waktu": "15/10/2022 00:40:44 WIB",
-    "lintang": "3.83 LS",
-    "bujur": "103.68 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km tenggara Lahat",
-    "warning": [
-      "III-IV Lahat",
-      "III-IV Muara Enim"
     ]
   }
 ]
