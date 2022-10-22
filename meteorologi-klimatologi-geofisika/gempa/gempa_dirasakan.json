@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/10/2022 02:20:54 WIB",
+    "lintang": "4.45 LU",
+    "bujur": "96.57 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 36 km Baratdaya Takengon",
+    "warning": [
+      "II Takengon"
+    ]
+  },
+  {
     "waktu": "21/10/2022 22:17:56 WIB",
     "lintang": "4.66 LU",
     "bujur": "96.8 BT",
@@ -231,17 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 1 km Timur Laut Muna Barat",
     "warning": [
       "III Muna Barat"
-    ]
-  },
-  {
-    "waktu": "15/10/2022 13:50:11 WIB",
-    "lintang": "4.9 LS",
-    "bujur": "122.38 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km Barat Daya Muna Barat",
-    "warning": [
-      "III-IV Muna Barat"
     ]
   }
 ]
