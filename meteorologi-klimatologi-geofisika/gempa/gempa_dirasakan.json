@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/10/2022 19:03:53 WIB",
+    "lintang": "3.3 LS",
+    "bujur": "135.66 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di darat 25 km BaratLaut Nabire",
+    "warning": [
+      "II-III Nabire"
+    ]
+  },
+  {
     "waktu": "22/10/2022 02:20:54 WIB",
     "lintang": "4.45 LU",
     "bujur": "96.57 BT",
@@ -231,17 +242,6 @@
     "warning": [
       "III Tarutung",
       "III Sipoholon"
-    ]
-  },
-  {
-    "waktu": "15/10/2022 14:00:09 WIB",
-    "lintang": "4.87 LS",
-    "bujur": "122.39 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di darat 1 km Timur Laut Muna Barat",
-    "warning": [
-      "III Muna Barat"
     ]
   }
 ]
