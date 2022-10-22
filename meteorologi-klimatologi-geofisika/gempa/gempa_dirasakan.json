@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/10/2022 22:17:01 WIB",
+    "lintang": "0.89 LS",
+    "bujur": "133.82 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km baratlaut Pegunungan Arfak",
+    "warning": [
+      "III Manokwari"
+    ]
+  },
+  {
     "waktu": "22/10/2022 19:03:53 WIB",
     "lintang": "3.3 LS",
     "bujur": "135.66 BT",
@@ -230,18 +241,6 @@
     "warning": [
       "III Bima",
       "III Dompu"
-    ]
-  },
-  {
-    "waktu": "15/10/2022 15:35:57 WIB",
-    "lintang": "1.98 LU",
-    "bujur": "99.01 BT",
-    "magnitudo": "3",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km Tenggara Tapanuli Utara",
-    "warning": [
-      "III Tarutung",
-      "III Sipoholon"
     ]
   }
 ]
