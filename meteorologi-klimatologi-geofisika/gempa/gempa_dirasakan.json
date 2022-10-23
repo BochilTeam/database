@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/10/2022 09:15:42 WIB",
+    "lintang": "2.69 LU",
+    "bujur": "128.43 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "216 Km",
+    "wilayah": "Pusat gempa berada di laut 73 km Timur Laut Daruba",
+    "warning": [
+      "III Morotai Utara"
+    ]
+  },
+  {
     "waktu": "22/10/2022 22:17:01 WIB",
     "lintang": "0.89 LS",
     "bujur": "133.82 BT",
@@ -229,18 +240,6 @@
       "III Mataram",
       "III Lombok Tengah",
       "III Sumbawa Barat"
-    ]
-  },
-  {
-    "waktu": "16/10/2022 04:22:49 WIB",
-    "lintang": "8.65 LS",
-    "bujur": "118.92 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "123 Km",
-    "wilayah": "Pusat gempa berada di laut 28 km tenggara Bima",
-    "warning": [
-      "III Bima",
-      "III Dompu"
     ]
   }
 ]
