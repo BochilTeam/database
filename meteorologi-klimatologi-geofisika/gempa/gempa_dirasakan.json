@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "25/10/2022 19:12:19 WIB",
+    "lintang": "2.01 LU",
+    "bujur": "98.96 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 0 km barat daya Tapanuli Utara",
+    "warning": [
+      "III Tarutung",
+      "III Sipoholon",
+      "III Silangit",
+      "II-III Sipahutar",
+      "II-III Hutaraja"
+    ]
+  },
+  {
     "waktu": "25/10/2022 08:11:23 WIB",
     "lintang": "9.02 LS",
     "bujur": "117 BT",
@@ -222,20 +237,6 @@
     "wilayah": "Pusat gempa berada di laut 25 km BaratLaut Saparua",
     "warning": [
       "II Ambon"
-    ]
-  },
-  {
-    "waktu": "17/10/2022 20:12:48 WIB",
-    "lintang": "0.02 LS",
-    "bujur": "123.5 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "122 Km",
-    "wilayah": "Pusat gempa berada di laut 69 km BaratDaya Bolaanguki-BOLSEL",
-    "warning": [
-      "II - III Kab. Gorontalo",
-      "II Kota Gorontalo",
-      "II Kab. Gorontalo Utara",
-      "II Taliabu"
     ]
   }
 ]
