@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "26/10/2022 08:34:01 WIB",
+    "lintang": "7.27 LS",
+    "bujur": "107.69 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 23 km BaratDaya Kab. Garut",
+    "warning": [
+      "II Cibereum",
+      "II Pengalengan",
+      "II Kertasari",
+      "II Pasirwangi",
+      "II Darajat"
+    ]
+  },
+  {
     "waktu": "25/10/2022 19:12:19 WIB",
     "lintang": "2.01 LU",
     "bujur": "98.96 BT",
@@ -226,17 +241,6 @@
     "wilayah": "Pusat gempa berada di laut 30 km Baratdaya Nusalaut",
     "warning": [
       "I-II Ambon"
-    ]
-  },
-  {
-    "waktu": "18/10/2022 16:34:55 WIB",
-    "lintang": "3.76 LS",
-    "bujur": "128.52 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 25 km BaratLaut Saparua",
-    "warning": [
-      "II Ambon"
     ]
   }
 ]
