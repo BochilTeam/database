@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/10/2022 19:20:53 WIB",
+    "lintang": "3.42 LS",
+    "bujur": "129.51 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Selatan Tehoru",
+    "warning": [
+      "III Tehoru"
+    ]
+  },
+  {
     "waktu": "28/10/2022 00:41:43 WIB",
     "lintang": "7.24 LS",
     "bujur": "121.2 BT",
@@ -230,17 +241,6 @@
       "III-IV Tanjung Enim",
       "II-III Muara Enim",
       "II-III Lahat"
-    ]
-  },
-  {
-    "waktu": "18/10/2022 21:52:43 WIB",
-    "lintang": "4.8 LS",
-    "bujur": "121.98 BT",
-    "magnitudo": "4",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 8,2 km BaratDaya Rumbia",
-    "warning": [
-      "III-IV Kab. Bombana"
     ]
   }
 ]
