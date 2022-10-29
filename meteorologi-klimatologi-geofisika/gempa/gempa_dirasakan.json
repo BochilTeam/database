@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "29/10/2022 08:02:45 WIB",
+    "lintang": "8.33 LS",
+    "bujur": "109.09 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "19 Km",
+    "wilayah": "Pusat gempa berada di laut 67 km Tenggara Cilacap",
+    "warning": [
+      "II-III Cilacap",
+      "II-III Kebumen",
+      "II-III Yogyakarta"
+    ]
+  },
+  {
     "waktu": "28/10/2022 19:20:53 WIB",
     "lintang": "3.42 LS",
     "bujur": "129.51 BT",
@@ -228,19 +241,6 @@
       "III-IV Morotai Selatan",
       "III-IV Morotai Utara",
       "III-IV Tobelo"
-    ]
-  },
-  {
-    "waktu": "18/10/2022 23:47:40 WIB",
-    "lintang": "3.86 LS",
-    "bujur": "103.71 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 20 km Tenggara Lahat",
-    "warning": [
-      "III-IV Tanjung Enim",
-      "II-III Muara Enim",
-      "II-III Lahat"
     ]
   }
 ]
