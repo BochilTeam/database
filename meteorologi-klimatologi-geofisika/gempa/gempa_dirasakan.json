@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/10/2022 19:00:28 WIB",
+    "lintang": "3.55 LS",
+    "bujur": "121 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km timur laut Kab. Kolaka Utara",
+    "warning": [
+      "III Lasusua"
+    ]
+  },
+  {
     "waktu": "30/10/2022 12:26:04 WIB",
     "lintang": "8.27 LS",
     "bujur": "116.24 BT",
@@ -227,18 +238,6 @@
       "III Majalaya",
       "III Tarogong",
       "I-II Kab. Bandung"
-    ]
-  },
-  {
-    "waktu": "19/10/2022 13:27:28 WIB",
-    "lintang": "2.06 LU",
-    "bujur": "98.98 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km TimurLaut Tapanuli Utara",
-    "warning": [
-      "III Sipoholon",
-      "III Tarutung"
     ]
   }
 ]
