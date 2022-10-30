@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/10/2022 12:26:04 WIB",
+    "lintang": "8.27 LS",
+    "bujur": "116.24 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km timur laut Lombok Utara",
+    "warning": [
+      "III Lombok Utara"
+    ]
+  },
+  {
     "waktu": "29/10/2022 08:02:45 WIB",
     "lintang": "8.33 LS",
     "bujur": "109.09 BT",
@@ -228,19 +239,6 @@
     "warning": [
       "III Sipoholon",
       "III Tarutung"
-    ]
-  },
-  {
-    "waktu": "19/10/2022 11:19:10 WIB",
-    "lintang": "2.16 LU",
-    "bujur": "128.25 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 13 km BaratLaut Daruba",
-    "warning": [
-      "III-IV Morotai Selatan",
-      "III-IV Morotai Utara",
-      "III-IV Tobelo"
     ]
   }
 ]
