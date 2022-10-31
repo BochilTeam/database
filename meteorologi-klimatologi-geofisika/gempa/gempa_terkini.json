@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31-10-22 05:21:35 WIB",
+    "lintang": "1.79",
+    "bujur": "99.43",
+    "magnitudo": "5.3",
+    "kedalaman": "175 Km",
+    "wilayah": "27 km TimurLaut TAPANULISELATAN-SUMUT"
+  },
+  {
     "waktu": "21-10-22 05:59:08 WIB",
     "lintang": "-0.76",
     "bujur": "121.55",
@@ -230,13 +238,5 @@
     "magnitudo": "6.1",
     "kedalaman": "10 Km",
     "wilayah": "147 km BaratLaut KEP-MENTAWAI-SUMBAR"
-  },
-  {
-    "waktu": "10-09-22 07:05:14 WIB",
-    "lintang": "-2.04",
-    "bujur": "138.26",
-    "magnitudo": "6.2",
-    "kedalaman": "16 Km",
-    "wilayah": "37 km BaratLaut MAMBERAMOTENGAH-PAPUA"
   }
 ]
