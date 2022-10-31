@@ -1,5 +1,26 @@
 [
   {
+    "waktu": "31/10/2022 10:05:57 WIB",
+    "lintang": "7.7 LS",
+    "bujur": "106.88 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di laut 87 km BaratDaya Kota Sukabumi",
+    "warning": [
+      "III Garut Selatan",
+      "III Tasik",
+      "III Pangandaran",
+      "III Cianjur",
+      "III Panggarangan",
+      "II - III Bandung Barat",
+      "II - III Majalengka",
+      "II - III Sukabumi",
+      "II - III Bayah",
+      "II - III Gunung Kencana",
+      "II Kota Bandung"
+    ]
+  },
+  {
     "waktu": "30/10/2022 19:00:28 WIB",
     "lintang": "3.55 LS",
     "bujur": "121 BT",
@@ -220,24 +241,6 @@
     "wilayah": "Pusat gempa berada di darat 27 km barat daya Nabire",
     "warning": [
       "II Nabire"
-    ]
-  },
-  {
-    "waktu": "20/10/2022 20:26:44 WIB",
-    "lintang": "7.18 LS",
-    "bujur": "107.78 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 13 km Baratlaut Kab. Garut",
-    "warning": [
-      "III Pasirwangi",
-      "III Darajat",
-      "III Kamojang",
-      "III Paseh",
-      "III Samarang",
-      "III Majalaya",
-      "III Tarogong",
-      "I-II Kab. Bandung"
     ]
   }
 ]
