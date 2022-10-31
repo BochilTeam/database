@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "31/10/2022 18:46:23 WIB",
+    "lintang": "2.3 LS",
+    "bujur": "101.17 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "61 Km",
+    "wilayah": "Pusat gempa berada di darat 19 Km Tenggara Pesisir Selatan",
+    "warning": [
+      "II - III Muko-muko"
+    ]
+  },
+  {
     "waktu": "31/10/2022 10:05:57 WIB",
     "lintang": "7.7 LS",
     "bujur": "106.88 BT",
@@ -230,17 +241,6 @@
     "wilayah": "Pusat gempa berada di darat 1 km barat daya Tapanuli Utara",
     "warning": [
       "II-III Tarutung"
-    ]
-  },
-  {
-    "waktu": "20/10/2022 20:34:25 WIB",
-    "lintang": "3.71 LS",
-    "bujur": "135.62 BT",
-    "magnitudo": "4",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 27 km barat daya Nabire",
-    "warning": [
-      "II Nabire"
     ]
   }
 ]
