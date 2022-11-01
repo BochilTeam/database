@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/11/2022 18:12:01 WIB",
+    "lintang": "3.97 LS",
+    "bujur": "122.52 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 2.8 km Tenggara Mandonga, Kota Kendari",
+    "warning": [
+      "II - III Kendari"
+    ]
+  },
+  {
     "waktu": "01/11/2022 05:35:47 WIB",
     "lintang": "3.83 LS",
     "bujur": "128.55 BT",
@@ -229,18 +240,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km Baratlaut Tapanuli Utara",
     "warning": [
       "II Tarutung"
-    ]
-  },
-  {
-    "waktu": "21/10/2022 05:59:08 WIB",
-    "lintang": "0.76 LS",
-    "bujur": "121.55 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 37 km TimurLaut Tojouna-una",
-    "warning": [
-      "IV Ampana",
-      "III Luwuk"
     ]
   }
 ]
