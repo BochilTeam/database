@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/11/2022 01:46:46 WIB",
+    "lintang": "6.67 LS",
+    "bujur": "130.71 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "94 Km",
+    "wilayah": "Pusat gempa berada di laut 158 km Barat Laut Maluku Tenggara Barat",
+    "warning": [
+      "III-IV Saumlaki"
+    ]
+  },
+  {
     "waktu": "01/11/2022 18:12:01 WIB",
     "lintang": "3.97 LS",
     "bujur": "122.52 BT",
@@ -229,17 +240,6 @@
     "warning": [
       "II-III Aceh Tengah",
       "II Bener Meriah"
-    ]
-  },
-  {
-    "waktu": "21/10/2022 18:54:39 WIB",
-    "lintang": "2.06 LU",
-    "bujur": "98.96 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km Baratlaut Tapanuli Utara",
-    "warning": [
-      "II Tarutung"
     ]
   }
 ]
