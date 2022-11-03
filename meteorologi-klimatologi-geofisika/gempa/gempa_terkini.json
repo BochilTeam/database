@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04-11-22 04:29:49 WIB",
+    "lintang": "0.58",
+    "bujur": "126.68",
+    "magnitudo": "5.0",
+    "kedalaman": "35 Km",
+    "wilayah": "79 km BaratDaya TERNATE-MALUT"
+  },
+  {
     "waktu": "04-11-22 01:46:46 WIB",
     "lintang": "-6.67",
     "bujur": "130.71",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 Km",
     "wilayah": "316 km BaratDaya PACITAN-JATIM"
-  },
-  {
-    "waktu": "11-09-22 06:24:01 WIB",
-    "lintang": "-1.25",
-    "bujur": "98.49",
-    "magnitudo": "5.4",
-    "kedalaman": "11 Km",
-    "wilayah": "146 km BaratLaut KEP-MENTAWAI-SUMBAR"
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/11/2022 04:29:49 WIB",
+    "lintang": "0.58 LU",
+    "bujur": "126.68 BT",
+    "magnitudo": "5",
+    "kedalaman": "35 Km",
+    "wilayah": "Pusat gempa berada di laut 79 km baratdaya Ternate",
+    "warning": [
+      "II-III Ternate"
+    ]
+  },
+  {
     "waktu": "04/11/2022 01:46:46 WIB",
     "lintang": "6.67 LS",
     "bujur": "130.71 BT",
@@ -228,18 +239,6 @@
     "wilayah": "Pusat gempa berada di darat 36 km Baratdaya Takengon",
     "warning": [
       "II Takengon"
-    ]
-  },
-  {
-    "waktu": "21/10/2022 22:17:56 WIB",
-    "lintang": "4.66 LU",
-    "bujur": "96.8 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km barat laut Takengon-Aceh Tengah",
-    "warning": [
-      "II-III Aceh Tengah",
-      "II Bener Meriah"
     ]
   }
 ]
