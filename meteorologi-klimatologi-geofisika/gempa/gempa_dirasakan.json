@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/11/2022 18:30:05 WIB",
+    "lintang": "3.82 LS",
+    "bujur": "122.54 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 54 km timurlaut Konawe",
+    "warning": [
+      "II Kendari"
+    ]
+  },
+  {
     "waktu": "04/11/2022 09:58:39 WIB",
     "lintang": "2.08 LU",
     "bujur": "127.17 BT",
@@ -228,17 +239,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km baratlaut Pegunungan Arfak",
     "warning": [
       "III Manokwari"
-    ]
-  },
-  {
-    "waktu": "22/10/2022 19:03:53 WIB",
-    "lintang": "3.3 LS",
-    "bujur": "135.66 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di darat 25 km BaratLaut Nabire",
-    "warning": [
-      "II-III Nabire"
     ]
   }
 ]
