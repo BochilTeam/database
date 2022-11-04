@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "05/11/2022 00:03:33 WIB",
+    "lintang": "3.83 LS",
+    "bujur": "103.74 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada didarat 21 km baratdaya Muara Enim, Tanjung Enim",
+    "warning": [
+      "III Muara Enim",
+      "Tanjung Enim"
+    ]
+  },
+  {
     "waktu": "04/11/2022 18:30:05 WIB",
     "lintang": "3.82 LS",
     "bujur": "122.54 BT",
@@ -228,17 +240,6 @@
     "wilayah": "Pusat gempa berada di laut 73 km Timur Laut Daruba",
     "warning": [
       "III Morotai Utara"
-    ]
-  },
-  {
-    "waktu": "22/10/2022 22:17:01 WIB",
-    "lintang": "0.89 LS",
-    "bujur": "133.82 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km baratlaut Pegunungan Arfak",
-    "warning": [
-      "III Manokwari"
     ]
   }
 ]
