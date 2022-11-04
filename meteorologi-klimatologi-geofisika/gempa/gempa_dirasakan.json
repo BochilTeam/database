@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/11/2022 09:58:39 WIB",
+    "lintang": "2.08 LU",
+    "bujur": "127.17 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "49 Km",
+    "wilayah": "Pusat gempa berada di laut 99 km Baratlaut Tobelo",
+    "warning": [
+      "II-III Ibu"
+    ]
+  },
+  {
     "waktu": "04/11/2022 04:29:49 WIB",
     "lintang": "0.58 LU",
     "bujur": "126.68 BT",
@@ -228,17 +239,6 @@
     "wilayah": "Pusat gempa berada di darat 25 km BaratLaut Nabire",
     "warning": [
       "II-III Nabire"
-    ]
-  },
-  {
-    "waktu": "22/10/2022 02:20:54 WIB",
-    "lintang": "4.45 LU",
-    "bujur": "96.57 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 36 km Baratdaya Takengon",
-    "warning": [
-      "II Takengon"
     ]
   }
 ]
