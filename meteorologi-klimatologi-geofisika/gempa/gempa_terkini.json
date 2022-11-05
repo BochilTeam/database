@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05-11-22 14:42:13 WIB",
+    "lintang": "3.92",
+    "bujur": "126.39",
+    "magnitudo": "5.1",
+    "kedalaman": "58 Km",
+    "wilayah": "33 km BaratDaya MELONGUANE-SULUT"
+  },
+  {
     "waktu": "04-11-22 04:29:49 WIB",
     "lintang": "0.58",
     "bujur": "126.68",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "13 Km",
     "wilayah": "147 km BaratLaut KEP-MENTAWAI-SUMBAR"
-  },
-  {
-    "waktu": "11-09-22 11:16:32 WIB",
-    "lintang": "-11.01",
-    "bujur": "110.77",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "316 km BaratDaya PACITAN-JATIM"
   }
 ]
