@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/11/2022 22:35:10 WIB",
+    "lintang": "3.48 LU",
+    "bujur": "126.96 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 65 km Tenggara Melonguane",
+    "warning": [
+      "III Kepulauan Talaud"
+    ]
+  },
+  {
     "waktu": "05/11/2022 21:40:17 WIB",
     "lintang": "9.26 LS",
     "bujur": "121.52 BT",
@@ -225,21 +236,6 @@
       "II Kertasari",
       "II Pasirwangi",
       "II Darajat"
-    ]
-  },
-  {
-    "waktu": "25/10/2022 19:12:19 WIB",
-    "lintang": "2.01 LU",
-    "bujur": "98.96 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 0 km barat daya Tapanuli Utara",
-    "warning": [
-      "III Tarutung",
-      "III Sipoholon",
-      "III Silangit",
-      "II-III Sipahutar",
-      "II-III Hutaraja"
     ]
   }
 ]
