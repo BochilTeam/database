@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/11/2022 21:40:17 WIB",
+    "lintang": "9.26 LS",
+    "bujur": "121.52 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "69 Km",
+    "wilayah": "Pusat gempa berada di laut 48 km Barat Daya Ende",
+    "warning": [
+      "II Ende"
+    ]
+  },
+  {
     "waktu": "05/11/2022 12:44:15 WIB",
     "lintang": "1.25 LU",
     "bujur": "120.73 BT",
@@ -229,17 +240,6 @@
       "III Silangit",
       "II-III Sipahutar",
       "II-III Hutaraja"
-    ]
-  },
-  {
-    "waktu": "25/10/2022 08:11:23 WIB",
-    "lintang": "9.02 LS",
-    "bujur": "117 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 33 km Tenggara Sumbawa Barat",
-    "warning": [
-      "III Sumbawa Barat"
     ]
   }
 ]
