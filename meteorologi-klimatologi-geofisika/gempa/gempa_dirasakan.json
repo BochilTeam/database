@@ -1,5 +1,46 @@
 [
   {
+    "waktu": "06/11/2022 07:03:14 WIB",
+    "lintang": "2.46 LU",
+    "bujur": "124.8 BT",
+    "magnitudo": "6.1",
+    "kedalaman": "255 Km",
+    "wilayah": "Pusat gempa berada di laut 69 km BaratDaya Ondong- Kep.Sitaro",
+    "warning": [
+      "III Morotai Utara",
+      "II Ternate"
+    ]
+  },
+  {
+    "waktu": "06/11/2022 06:46:40 WIB",
+    "lintang": "8.6 LS",
+    "bujur": "115.27 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km BaratDaya Gianyar",
+    "warning": [
+      "II Seminyak",
+      "II Denpsar"
+    ]
+  },
+  {
+    "waktu": "06/11/2022 04:51:15 WIB",
+    "lintang": "7.76 LS",
+    "bujur": "106.91 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "37 Km",
+    "wilayah": "Pusat gempa berada di laut 93 km baratdaya Sukabumi",
+    "warning": [
+      "II-III Cigaru",
+      "II Sukabumi",
+      "II Pelabuhan Ratu",
+      "III Cipamingkis",
+      "III Sindangbarang",
+      "III Pameungpeuk",
+      "III Agrabinta"
+    ]
+  },
+  {
     "waktu": "05/11/2022 22:35:10 WIB",
     "lintang": "3.48 LU",
     "bujur": "126.96 BT",
@@ -197,45 +238,6 @@
     "wilayah": "Pusat gempa berada di darat 4 km Selatan Tehoru",
     "warning": [
       "III Tehoru"
-    ]
-  },
-  {
-    "waktu": "28/10/2022 00:41:43 WIB",
-    "lintang": "7.24 LS",
-    "bujur": "121.2 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di laut 131 km tenggara Selayar",
-    "warning": [
-      "III Pulau Jampea",
-      "III Takabonerate"
-    ]
-  },
-  {
-    "waktu": "28/10/2022 00:36:21 WIB",
-    "lintang": "7.2 LS",
-    "bujur": "121.22 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 128 km tenggara Selayar",
-    "warning": [
-      "III Pulau Jampea",
-      "III Takabonerate"
-    ]
-  },
-  {
-    "waktu": "26/10/2022 08:34:01 WIB",
-    "lintang": "7.27 LS",
-    "bujur": "107.69 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 23 km BaratDaya Kab. Garut",
-    "warning": [
-      "II Cibereum",
-      "II Pengalengan",
-      "II Kertasari",
-      "II Pasirwangi",
-      "II Darajat"
     ]
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06-11-22 07:03:14 WIB",
+    "lintang": "2.46",
+    "bujur": "124.80",
+    "magnitudo": "6.1",
+    "kedalaman": "255 Km",
+    "wilayah": "69 km BaratDaya ONDONG-KEP.SITARO-SULUT"
+  },
+  {
     "waktu": "05-11-22 22:35:10 WIB",
     "lintang": "3.48",
     "bujur": "126.96",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "144 km BaratLaut KEP-MENTAWAI-SUMBAR"
-  },
-  {
-    "waktu": "15-09-22 22:24:51 WIB",
-    "lintang": "-2.05",
-    "bujur": "99.53",
-    "magnitudo": "5.1",
-    "kedalaman": "25 Km",
-    "wilayah": "5 km BaratDaya KEP-MENTAWAI-SUMBAR"
   }
 ]
