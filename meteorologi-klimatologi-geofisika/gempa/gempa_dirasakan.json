@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "10/11/2022 12:56:30 WIB",
+    "lintang": "4.28 LU",
+    "bujur": "96.72 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 40 km BaratDaya Takengon",
+    "warning": [
+      "III Nagan Raya",
+      "III Benermeriah",
+      "I-II Pidie",
+      "I-II Lhokseumawe"
+    ]
+  },
+  {
     "waktu": "06/11/2022 07:03:14 WIB",
     "lintang": "2.46 LU",
     "bujur": "124.8 BT",
@@ -227,17 +241,6 @@
       "II-III Cilacap",
       "II-III Kebumen",
       "II-III Yogyakarta"
-    ]
-  },
-  {
-    "waktu": "28/10/2022 19:20:53 WIB",
-    "lintang": "3.42 LS",
-    "bujur": "129.51 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km Selatan Tehoru",
-    "warning": [
-      "III Tehoru"
     ]
   }
 ]
