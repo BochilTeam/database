@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-11-22 18:39:31 WIB",
+    "lintang": "-3.68",
+    "bujur": "100.60",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "135 km BaratDaya MUKOMUKO-BENGKULU"
+  },
+  {
     "waktu": "10-11-22 00:41:45 WIB",
     "lintang": "-11.23",
     "bujur": "113.36",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "34 km BaratDaya TAKENGON-ACEHTENGAH"
-  },
-  {
-    "waktu": "21-09-22 18:57:53 WIB",
-    "lintang": "-6.06",
-    "bujur": "131.18",
-    "magnitudo": "5.1",
-    "kedalaman": "59 Km",
-    "wilayah": "178 km BaratDaya MALUKUTENGGARA"
   }
 ]
