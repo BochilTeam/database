@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-11-22 20:18:45 WIB",
+    "lintang": "-8.18",
+    "bujur": "107.36",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "122 km BaratDaya KAB-GARUT-JABAR"
+  },
+  {
     "waktu": "12-11-22 18:01:40 WIB",
     "lintang": "1.35",
     "bujur": "123.26",
@@ -230,13 +238,5 @@
     "magnitudo": "6.4",
     "kedalaman": "22 Km",
     "wilayah": "45 km BaratDaya MEULABOH-ACEHBARAT"
-  },
-  {
-    "waktu": "24-09-22 03:51:26 WIB",
-    "lintang": "-5.19",
-    "bujur": "125.59",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "222 km TimurLaut WAKATOBI-SULTRA"
   }
 ]
