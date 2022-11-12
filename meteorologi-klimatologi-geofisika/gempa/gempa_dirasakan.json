@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "12/11/2022 18:01:40 WIB",
+    "lintang": "1.35 LU",
+    "bujur": "123.26 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 48 Km Barat laut Boroko Bolaang Mongondow",
+    "warning": [
+      "III Kota Gorontalo",
+      "III Kab. Gorontalo Utara",
+      "II - III Kab. Gorontalo",
+      "II Pohuwato"
+    ]
+  },
+  {
     "waktu": "11/11/2022 12:48:44 WIB",
     "lintang": "3.57 LS",
     "bujur": "128.22 BT",
@@ -228,17 +242,6 @@
       "II - III Bayah",
       "II - III Gunung Kencana",
       "II Kota Bandung"
-    ]
-  },
-  {
-    "waktu": "30/10/2022 19:00:28 WIB",
-    "lintang": "3.55 LS",
-    "bujur": "121 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km timur laut Kab. Kolaka Utara",
-    "warning": [
-      "III Lasusua"
     ]
   }
 ]
