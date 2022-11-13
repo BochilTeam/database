@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/11/2022 05:44:22 WIB",
+    "lintang": "5.15 LU",
+    "bujur": "95.36 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "59 Km",
+    "wilayah": "Pusat gempa berada di darat 29 Km Baratdaya Jantho AcehBesar",
+    "warning": [
+      "II Banda Aceh"
+    ]
+  },
+  {
     "waktu": "12/11/2022 20:18:45 WIB",
     "lintang": "8.18 LS",
     "bujur": "107.36 BT",
@@ -228,17 +239,6 @@
     "wilayah": "Pusat gempa berada di laut 30 km Selatan Saparua",
     "warning": [
       "I-II Ambon"
-    ]
-  },
-  {
-    "waktu": "01/11/2022 02:15:20 WIB",
-    "lintang": "2.04 LU",
-    "bujur": "98.91 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km Baratlaut Tapanuli Utara",
-    "warning": [
-      "II Sipoholon"
     ]
   }
 ]
