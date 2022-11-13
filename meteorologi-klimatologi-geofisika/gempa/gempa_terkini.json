@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-11-22 22:10:21 WIB",
+    "lintang": "-9.02",
+    "bujur": "108.69",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "148 km BaratDaya CILACAP-JATENG"
+  },
+  {
     "waktu": "12-11-22 20:18:45 WIB",
     "lintang": "-8.18",
     "bujur": "107.36",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "113 Km",
     "wilayah": "70 km BaratLaut MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "24-09-22 03:52:59 WIB",
-    "lintang": "3.77",
-    "bujur": "95.97",
-    "magnitudo": "6.4",
-    "kedalaman": "22 Km",
-    "wilayah": "45 km BaratDaya MEULABOH-ACEHBARAT"
   }
 ]

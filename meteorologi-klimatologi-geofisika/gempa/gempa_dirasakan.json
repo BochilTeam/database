@@ -1,5 +1,33 @@
 [
   {
+    "waktu": "13/11/2022 22:41:14 WIB",
+    "lintang": "6.73 LS",
+    "bujur": "107.35 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 21 km Baratdaya Kab. Purwakarta",
+    "warning": [
+      "III Purwakarta",
+      "III Cianjur",
+      "III Bandung Barat"
+    ]
+  },
+  {
+    "waktu": "13/11/2022 22:10:21 WIB",
+    "lintang": "9.02 LS",
+    "bujur": "108.69 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 148 km BaratDaya Cilacap",
+    "warning": [
+      "II-III Garut Selatan",
+      "II-III Tasikmalaya",
+      "I-II Pangandaran",
+      "II-III Cilacap",
+      "II-III Kebumen"
+    ]
+  },
+  {
     "waktu": "13/11/2022 05:44:22 WIB",
     "lintang": "5.15 LU",
     "bujur": "95.36 BT",
@@ -217,28 +245,6 @@
     "wilayah": "Pusat gempa berada di laut 158 km Barat Laut Maluku Tenggara Barat",
     "warning": [
       "III-IV Saumlaki"
-    ]
-  },
-  {
-    "waktu": "01/11/2022 18:12:01 WIB",
-    "lintang": "3.97 LS",
-    "bujur": "122.52 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 2.8 km Tenggara Mandonga, Kota Kendari",
-    "warning": [
-      "II - III Kendari"
-    ]
-  },
-  {
-    "waktu": "01/11/2022 05:35:47 WIB",
-    "lintang": "3.83 LS",
-    "bujur": "128.55 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 30 km Selatan Saparua",
-    "warning": [
-      "I-II Ambon"
     ]
   }
 ]
