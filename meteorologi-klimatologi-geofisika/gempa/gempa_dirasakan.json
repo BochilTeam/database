@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/11/2022 10:42:49 WIB",
+    "lintang": "4.88 LU",
+    "bujur": "96.07 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 26 km Barat Daya Kab. Pidie Jaya",
+    "warning": [
+      "II Pidie"
+    ]
+  },
+  {
     "waktu": "14/11/2022 02:41:30 WIB",
     "lintang": "6.74 LS",
     "bujur": "107.35 BT",
@@ -237,17 +248,6 @@
     "wilayah": "Pusat gempa berada di laut 54 km timurlaut Konawe",
     "warning": [
       "II Kendari"
-    ]
-  },
-  {
-    "waktu": "04/11/2022 09:58:39 WIB",
-    "lintang": "2.08 LU",
-    "bujur": "127.17 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "49 Km",
-    "wilayah": "Pusat gempa berada di laut 99 km Baratlaut Tobelo",
-    "warning": [
-      "II-III Ibu"
     ]
   }
 ]
