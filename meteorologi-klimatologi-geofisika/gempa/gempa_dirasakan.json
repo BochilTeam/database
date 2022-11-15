@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "16/11/2022 00:21:13 WIB",
+    "lintang": "6.84 LS",
+    "bujur": "105.49 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km BaratDaya Sumur",
+    "warning": [
+      "II-III Labuan",
+      "II - III Panimbang",
+      "II - III Cikaju",
+      "II - III Rangkasbitung",
+      "II - III Banjarsari",
+      "II-III Bayah"
+    ]
+  },
+  {
     "waktu": "15/11/2022 18:02:36 WIB",
     "lintang": "0.07 LS",
     "bujur": "124.38 BT",
@@ -236,18 +252,6 @@
     "wilayah": "Pusat gempa berada di laut 41 km baratlaut Toli-toli",
     "warning": [
       "II Toli-toli"
-    ]
-  },
-  {
-    "waktu": "05/11/2022 00:03:33 WIB",
-    "lintang": "3.83 LS",
-    "bujur": "103.74 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada didarat 21 km baratdaya Muara Enim, Tanjung Enim",
-    "warning": [
-      "III Muara Enim",
-      "Tanjung Enim"
     ]
   }
 ]
