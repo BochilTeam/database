@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/11/2022 18:02:36 WIB",
+    "lintang": "0.07 LS",
+    "bujur": "124.38 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "49 Km",
+    "wilayah": "Pusat gempa berada di laut 65 km Tenggara Bolaang Uki-Bolsel",
+    "warning": [
+      "II Bolaang Mongondow Selatan"
+    ]
+  },
+  {
     "waktu": "14/11/2022 10:42:49 WIB",
     "lintang": "4.88 LU",
     "bujur": "96.07 BT",
@@ -237,17 +248,6 @@
     "warning": [
       "III Muara Enim",
       "Tanjung Enim"
-    ]
-  },
-  {
-    "waktu": "04/11/2022 18:30:05 WIB",
-    "lintang": "3.82 LS",
-    "bujur": "122.54 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 54 km timurlaut Konawe",
-    "warning": [
-      "II Kendari"
     ]
   }
 ]

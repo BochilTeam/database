@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15-11-22 18:02:36 WIB",
+    "lintang": "-0.07",
+    "bujur": "124.38",
+    "magnitudo": "5.1",
+    "kedalaman": "49 Km",
+    "wilayah": "65 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
+  },
+  {
     "waktu": "15-11-22 14:03:19 WIB",
     "lintang": "-6.28",
     "bujur": "129.10",
@@ -230,13 +238,5 @@
     "magnitudo": "6.0",
     "kedalaman": "10 Km",
     "wilayah": "15 km BaratLaut TAPANULIUTARA-SUMUT"
-  },
-  {
-    "waktu": "29-09-22 18:34:43 WIB",
-    "lintang": "-2.23",
-    "bujur": "140.08",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "76 km BaratLaut JAYAPURA-PAPUA"
   }
 ]
