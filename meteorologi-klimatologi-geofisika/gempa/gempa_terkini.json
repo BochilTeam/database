@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16-11-22 16:22:45 WIB",
+    "lintang": "-5.38",
+    "bujur": "102.38",
+    "magnitudo": "5.3",
+    "kedalaman": "26 Km",
+    "wilayah": "12 km Tenggara ENGGANO-BENGKULU"
+  },
+  {
     "waktu": "16-11-22 13:01:32 WIB",
     "lintang": "-4.81",
     "bujur": "100.64",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "1 km TimurLaut TAPANULIUTARA-SUMUT"
-  },
-  {
-    "waktu": "01-10-22 02:50:35 WIB",
-    "lintang": "2.05",
-    "bujur": "98.99",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "4 km TimurLaut TAPANULIUTARA-SUMUT"
   }
 ]

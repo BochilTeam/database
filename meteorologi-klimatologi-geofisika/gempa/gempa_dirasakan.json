@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/11/2022 16:22:45 WIB",
+    "lintang": "5.38 LS",
+    "bujur": "102.38 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di laut 12 km Tenggara Enggano",
+    "warning": [
+      "II Enggano"
+    ]
+  },
+  {
     "waktu": "16/11/2022 00:21:13 WIB",
     "lintang": "6.84 LS",
     "bujur": "105.49 BT",
@@ -241,17 +252,6 @@
     "wilayah": "Pusat gempa berada di laut 48 km Barat Daya Ende",
     "warning": [
       "II Ende"
-    ]
-  },
-  {
-    "waktu": "05/11/2022 12:44:15 WIB",
-    "lintang": "1.25 LU",
-    "bujur": "120.73 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 41 km baratlaut Toli-toli",
-    "warning": [
-      "II Toli-toli"
     ]
   }
 ]
