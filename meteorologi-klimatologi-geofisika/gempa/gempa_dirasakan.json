@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/11/2022 15:00:21 WIB",
+    "lintang": "1.7 LU",
+    "bujur": "126.29 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di laut 132 km Timur Laut BITUNG",
+    "warning": [
+      "II Bitung"
+    ]
+  },
+  {
     "waktu": "17/11/2022 06:14:31 WIB",
     "lintang": "4.74 LS",
     "bujur": "121.98 BT",
@@ -241,17 +252,6 @@
       "III Sindangbarang",
       "III Pameungpeuk",
       "III Agrabinta"
-    ]
-  },
-  {
-    "waktu": "05/11/2022 22:35:10 WIB",
-    "lintang": "3.48 LU",
-    "bujur": "126.96 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 65 km Tenggara Melonguane",
-    "warning": [
-      "III Kepulauan Talaud"
     ]
   }
 ]
