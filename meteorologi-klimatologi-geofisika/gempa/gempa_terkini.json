@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-11-22 22:41:20 WIB",
+    "lintang": "-5.05",
+    "bujur": "134.06",
+    "magnitudo": "5.0",
+    "kedalaman": "31 Km",
+    "wilayah": "81 km BaratLaut KEP.ARU-MALUKU"
+  },
+  {
     "waktu": "16-11-22 16:22:45 WIB",
     "lintang": "-5.38",
     "bujur": "102.38",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "28 Km",
     "wilayah": "35 km BaratLaut HALMAHERATIMUR-MALUT"
-  },
-  {
-    "waktu": "01-10-22 03:37:40 WIB",
-    "lintang": "2.03",
-    "bujur": "98.97",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "1 km TimurLaut TAPANULIUTARA-SUMUT"
   }
 ]
