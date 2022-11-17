@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/11/2022 06:14:31 WIB",
+    "lintang": "4.74 LS",
+    "bujur": "121.98 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5.7 km Tenggara Rarowatu Kab. Bombana",
+    "warning": [
+      "III Bombana"
+    ]
+  },
+  {
     "waktu": "16/11/2022 16:22:45 WIB",
     "lintang": "5.38 LS",
     "bujur": "102.38 BT",
@@ -241,17 +252,6 @@
     "wilayah": "Pusat gempa berada di laut 65 km Tenggara Melonguane",
     "warning": [
       "III Kepulauan Talaud"
-    ]
-  },
-  {
-    "waktu": "05/11/2022 21:40:17 WIB",
-    "lintang": "9.26 LS",
-    "bujur": "121.52 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "69 Km",
-    "wilayah": "Pusat gempa berada di laut 48 km Barat Daya Ende",
-    "warning": [
-      "II Ende"
     ]
   }
 ]
