@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "18/11/2022 20:37:06 WIB",
+    "lintang": "4.88 LS",
+    "bujur": "100.65 BT",
+    "magnitudo": "6.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 187 km Baratlaut Enggano",
+    "warning": [
+      "IV Enggano",
+      "III-IV Muko-muko",
+      "III-IV Bengkulu Utara",
+      "III-IV Kota Bengkulu",
+      "II Liwa"
+    ]
+  },
+  {
     "waktu": "17/11/2022 15:00:21 WIB",
     "lintang": "1.7 LU",
     "bujur": "126.29 BT",
@@ -235,23 +250,6 @@
     "warning": [
       "II Seminyak",
       "II Denpsar"
-    ]
-  },
-  {
-    "waktu": "06/11/2022 04:51:15 WIB",
-    "lintang": "7.76 LS",
-    "bujur": "106.91 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "37 Km",
-    "wilayah": "Pusat gempa berada di laut 93 km baratdaya Sukabumi",
-    "warning": [
-      "II-III Cigaru",
-      "II Sukabumi",
-      "II Pelabuhan Ratu",
-      "III Cipamingkis",
-      "III Sindangbarang",
-      "III Pameungpeuk",
-      "III Agrabinta"
     ]
   }
 ]

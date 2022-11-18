@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "18-11-22 21:07:00 WIB",
+    "lintang": "-4.59",
+    "bujur": "100.50",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "213 km BaratLaut ENGGANO-BENGKULU"
+  },
+  {
+    "waktu": "18-11-22 20:37:06 WIB",
+    "lintang": "-4.88",
+    "bujur": "100.65",
+    "magnitudo": "6.8",
+    "kedalaman": "10 Km",
+    "wilayah": "187 km BaratLaut ENGGANO-BENGKULU"
+  },
+  {
     "waktu": "17-11-22 22:41:20 WIB",
     "lintang": "-5.05",
     "bujur": "134.06",
@@ -222,21 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "5 km TimurLaut TAPANULIUTARA-SUMUT"
-  },
-  {
-    "waktu": "05-10-22 05:11:53 WIB",
-    "lintang": "-7.80",
-    "bujur": "130.51",
-    "magnitudo": "5.0",
-    "kedalaman": "110 Km",
-    "wilayah": "90 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
-    "waktu": "02-10-22 08:35:36 WIB",
-    "lintang": "1.58",
-    "bujur": "128.31",
-    "magnitudo": "5.2",
-    "kedalaman": "28 Km",
-    "wilayah": "35 km BaratLaut HALMAHERATIMUR-MALUT"
   }
 ]
