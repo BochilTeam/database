@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "19/11/2022 07:38:23 WIB",
+    "lintang": "0.1 LS",
+    "bujur": "129.42 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 153 km Tenggara Maba",
+    "warning": [
+      "II - III Gebe"
+    ]
+  },
+  {
     "waktu": "18/11/2022 20:37:06 WIB",
     "lintang": "4.88 LS",
     "bujur": "100.65 BT",
@@ -238,18 +249,6 @@
     "warning": [
       "III Morotai Utara",
       "II Ternate"
-    ]
-  },
-  {
-    "waktu": "06/11/2022 06:46:40 WIB",
-    "lintang": "8.6 LS",
-    "bujur": "115.27 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km BaratDaya Gianyar",
-    "warning": [
-      "II Seminyak",
-      "II Denpsar"
     ]
   }
 ]
