@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20-11-22 01:28:28 WIB",
+    "lintang": "-8.11",
+    "bujur": "107.87",
+    "magnitudo": "5.3",
+    "kedalaman": "24 Km",
+    "wilayah": "82 km BaratDaya KAB-PANGANDARAN-JABAR"
+  },
+  {
     "waktu": "18-11-22 21:07:00 WIB",
     "lintang": "-4.59",
     "bujur": "100.50",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "144 km TimurLaut HALMAHERASELATAN-MALUT"
-  },
-  {
-    "waktu": "07-10-22 03:00:42 WIB",
-    "lintang": "2.02",
-    "bujur": "99.01",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "5 km TimurLaut TAPANULIUTARA-SUMUT"
   }
 ]

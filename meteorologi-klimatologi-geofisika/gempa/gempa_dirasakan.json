@@ -1,5 +1,23 @@
 [
   {
+    "waktu": "20/11/2022 01:28:28 WIB",
+    "lintang": "8.11 LS",
+    "bujur": "107.87 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di laut 82 km barat daya Kab. Pangandaran",
+    "warning": [
+      "IV Garut",
+      "III Pangandaran",
+      "III Tasikmalaya",
+      "II Bandung Barat",
+      "II Ciamis",
+      "II Cilacap",
+      "II Kota Bandung",
+      "II Kab. Bandung"
+    ]
+  },
+  {
     "waktu": "19/11/2022 16:37:26 WIB",
     "lintang": "3.66 LS",
     "bujur": "102.61 BT",
@@ -235,20 +253,6 @@
     "wilayah": "Pusat gempa berada di darat 15 km Timurlaut Ambon",
     "warning": [
       "III Ambon"
-    ]
-  },
-  {
-    "waktu": "10/11/2022 12:56:30 WIB",
-    "lintang": "4.28 LU",
-    "bujur": "96.72 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 40 km BaratDaya Takengon",
-    "warning": [
-      "III Nagan Raya",
-      "III Benermeriah",
-      "I-II Pidie",
-      "I-II Lhokseumawe"
     ]
   }
 ]
