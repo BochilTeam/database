@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "20/11/2022 20:49:22 WIB",
+    "lintang": "10.5 LS",
+    "bujur": "123.86 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "49 Km",
+    "wilayah": "Pusat gempa berada di laut 51 km Tenggara Kupang",
+    "warning": [
+      "II - III Kupang",
+      "II - III Rote"
+    ]
+  },
+  {
+    "waktu": "20/11/2022 20:21:56 WIB",
+    "lintang": "8.4 LS",
+    "bujur": "116.04 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 14 km BaratDaya Lombok Utara",
+    "warning": [
+      "III Lombok Utara",
+      "II Lombok Timur",
+      "II Mataram"
+    ]
+  },
+  {
     "waktu": "20/11/2022 01:28:28 WIB",
     "lintang": "8.11 LS",
     "bujur": "107.87 BT",
@@ -231,28 +256,6 @@
       "III Kab. Gorontalo Utara",
       "II - III Kab. Gorontalo",
       "II Pohuwato"
-    ]
-  },
-  {
-    "waktu": "11/11/2022 12:48:44 WIB",
-    "lintang": "3.57 LS",
-    "bujur": "128.22 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km Utara Ambon",
-    "warning": [
-      "II Ambon"
-    ]
-  },
-  {
-    "waktu": "11/11/2022 09:41:34 WIB",
-    "lintang": "3.59 LS",
-    "bujur": "128.27 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km Timurlaut Ambon",
-    "warning": [
-      "III Ambon"
     ]
   }
 ]

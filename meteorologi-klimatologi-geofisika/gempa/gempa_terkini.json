@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20-11-22 20:49:22 WIB",
+    "lintang": "-10.57",
+    "bujur": "123.86",
+    "magnitudo": "5.5",
+    "kedalaman": "49 Km",
+    "wilayah": "51 km Tenggara KUPANG-NTT"
+  },
+  {
     "waktu": "20-11-22 01:28:28 WIB",
     "lintang": "-8.11",
     "bujur": "107.87",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "12 Km",
     "wilayah": "26 km BaratDaya BAYAH-BANTEN"
-  },
-  {
-    "waktu": "09-10-22 04:12:33 WIB",
-    "lintang": "-0.97",
-    "bujur": "128.91",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "144 km TimurLaut HALMAHERASELATAN-MALUT"
   }
 ]
