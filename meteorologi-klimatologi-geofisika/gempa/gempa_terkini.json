@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-11-22 21:16:26 WIB",
+    "lintang": "-1.68",
+    "bujur": "135.95",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "25 km BaratLaut KEP-YAPEN-PAPUA"
+  },
+  {
     "waktu": "21-11-22 13:21:10 WIB",
     "lintang": "-6.84",
     "bujur": "107.05",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "170 Km",
     "wilayah": "144 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "12-10-22 15:50:04 WIB",
-    "lintang": "-2.87",
-    "bujur": "136.98",
-    "magnitudo": "5.2",
-    "kedalaman": "62 Km",
-    "wilayah": "34 km Tenggara WAROPEN-PAPUA"
   }
 ]

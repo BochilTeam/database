@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "21/11/2022 21:16:26 WIB",
+    "lintang": "1.68 LS",
+    "bujur": "135.95 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Darat 25 Km BaratLaut Kep. Yapen",
+    "warning": [
+      "III Biak",
+      "IV Serui"
+    ]
+  },
+  {
     "waktu": "21/11/2022 13:21:10 WIB",
     "lintang": "6.84 LS",
     "bujur": "107.05 BT",
@@ -255,17 +267,6 @@
       "I-II Pangandaran",
       "II-III Cilacap",
       "II-III Kebumen"
-    ]
-  },
-  {
-    "waktu": "13/11/2022 05:44:22 WIB",
-    "lintang": "5.15 LU",
-    "bujur": "95.36 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "59 Km",
-    "wilayah": "Pusat gempa berada di darat 29 Km Baratdaya Jantho AcehBesar",
-    "warning": [
-      "II Banda Aceh"
     ]
   }
 ]
