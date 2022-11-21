@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "21/11/2022 07:35:50 WIB",
+    "lintang": "0.93 LU",
+    "bujur": "122.89 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "32 Km",
+    "wilayah": "Pusat gempa berada di laut 15 km timur laut Gorontalo Utara",
+    "warning": [
+      "III Kab. Gorontalo Utara",
+      "II - III Kab.Bone Bolango",
+      "II - III Kota Gorontalo",
+      "II - III Kab. Gorontalo"
+    ]
+  },
+  {
     "waktu": "20/11/2022 20:49:22 WIB",
     "lintang": "10.5 LS",
     "bujur": "123.86 BT",
@@ -244,20 +258,6 @@
       "II Cianjur",
       "II Garut",
       "I-II Kab. Bandung"
-    ]
-  },
-  {
-    "waktu": "12/11/2022 18:01:40 WIB",
-    "lintang": "1.35 LU",
-    "bujur": "123.26 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 48 Km Barat laut Boroko Bolaang Mongondow",
-    "warning": [
-      "III Kota Gorontalo",
-      "III Kab. Gorontalo Utara",
-      "II - III Kab. Gorontalo",
-      "II Pohuwato"
     ]
   }
 ]
