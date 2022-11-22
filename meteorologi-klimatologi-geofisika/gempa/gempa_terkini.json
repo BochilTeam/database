@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22-11-22 12:13:03 WIB",
+    "lintang": "4.95",
+    "bujur": "127.42",
+    "magnitudo": "5.2",
+    "kedalaman": "89 Km",
+    "wilayah": "134 km TimurLaut MELONGUANE-SULUT"
+  },
+  {
     "waktu": "21-11-22 21:16:26 WIB",
     "lintang": "-1.68",
     "bujur": "135.95",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "123 Km",
     "wilayah": "28 km Tenggara KOTA-BIMA-NTB"
-  },
-  {
-    "waktu": "16-10-22 01:31:00 WIB",
-    "lintang": "-7.61",
-    "bujur": "128.97",
-    "magnitudo": "5.2",
-    "kedalaman": "170 Km",
-    "wilayah": "144 km TimurLaut MALUKUBRTDAYA"
   }
 ]
