@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "22/11/2022 23:24:46 WIB",
+    "lintang": "5.54 LS",
+    "bujur": "131.02 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "63 Km",
+    "wilayah": "Pusat gempa berada di laut 190 km baratlaut Maluku Tenggara",
+    "warning": [
+      "III Saumlaki",
+      "II Banda"
+    ]
+  },
+  {
     "waktu": "22/11/2022 21:54:04 WIB",
     "lintang": "7.93 LS",
     "bujur": "107.03 BT",
@@ -251,17 +263,6 @@
     "wilayah": "Pusat gempa berada di darat 5.7 km Tenggara Rarowatu Kab. Bombana",
     "warning": [
       "III Bombana"
-    ]
-  },
-  {
-    "waktu": "16/11/2022 16:22:45 WIB",
-    "lintang": "5.38 LS",
-    "bujur": "102.38 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "26 Km",
-    "wilayah": "Pusat gempa berada di laut 12 km Tenggara Enggano",
-    "warning": [
-      "II Enggano"
     ]
   }
 ]
