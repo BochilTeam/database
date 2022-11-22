@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "22/11/2022 21:54:04 WIB",
+    "lintang": "7.93 LS",
+    "bujur": "107.03 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 113 km tenggara Kota Sukabumi",
+    "warning": [
+      "II Kab Cianjur",
+      "II Kab Sukabumi",
+      "II Kab Garut",
+      "II Kota Sukabumi",
+      "II Kab Tasikmalaya"
+    ]
+  },
+  {
     "waktu": "22/11/2022 19:22:27 WIB",
     "lintang": "6.85 LS",
     "bujur": "107.06 BT",
@@ -247,22 +262,6 @@
     "wilayah": "Pusat gempa berada di laut 12 km Tenggara Enggano",
     "warning": [
       "II Enggano"
-    ]
-  },
-  {
-    "waktu": "16/11/2022 00:21:13 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "105.49 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di darat 22 km BaratDaya Sumur",
-    "warning": [
-      "II-III Labuan",
-      "II - III Panimbang",
-      "II - III Cikaju",
-      "II - III Rangkasbitung",
-      "II - III Banjarsari",
-      "II-III Bayah"
     ]
   }
 ]
