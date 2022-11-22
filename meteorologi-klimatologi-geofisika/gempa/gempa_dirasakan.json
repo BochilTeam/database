@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "22/11/2022 19:22:27 WIB",
+    "lintang": "6.85 LS",
+    "bujur": "107.06 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km BaratDaya Cianjur",
+    "warning": [
+      "III Cugenang",
+      "III Cilaku"
+    ]
+  },
+  {
     "waktu": "22/11/2022 18:39:38 WIB",
     "lintang": "6.87 LS",
     "bujur": "107.05 BT",
@@ -251,17 +263,6 @@
       "II - III Rangkasbitung",
       "II - III Banjarsari",
       "II-III Bayah"
-    ]
-  },
-  {
-    "waktu": "15/11/2022 18:02:36 WIB",
-    "lintang": "0.07 LS",
-    "bujur": "124.38 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "49 Km",
-    "wilayah": "Pusat gempa berada di laut 65 km Tenggara Bolaang Uki-Bolsel",
-    "warning": [
-      "II Bolaang Mongondow Selatan"
     ]
   }
 ]
