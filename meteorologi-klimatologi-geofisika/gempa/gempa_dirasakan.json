@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "23/11/2022 21:49:07 WIB",
+    "lintang": "6.79 LS",
+    "bujur": "107.11 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km BaratLaut Kab. Cianjur",
+    "warning": [
+      "II Cipanas",
+      "II Pacet"
+    ]
+  },
+  {
     "waktu": "23/11/2022 18:49:43 WIB",
     "lintang": "6.84 LS",
     "bujur": "107.06 BT",
@@ -244,20 +256,6 @@
     "wilayah": "Pusat gempa berada di Darat 19 Km Barat Bungku",
     "warning": [
       "II - III Morowali"
-    ]
-  },
-  {
-    "waktu": "21/11/2022 07:35:50 WIB",
-    "lintang": "0.93 LU",
-    "bujur": "122.89 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "32 Km",
-    "wilayah": "Pusat gempa berada di laut 15 km timur laut Gorontalo Utara",
-    "warning": [
-      "III Kab. Gorontalo Utara",
-      "II - III Kab.Bone Bolango",
-      "II - III Kota Gorontalo",
-      "II - III Kab. Gorontalo"
     ]
   }
 ]
