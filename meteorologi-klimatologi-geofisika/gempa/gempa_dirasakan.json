@@ -1,5 +1,65 @@
 [
   {
+    "waktu": "23/11/2022 12:34:27 WIB",
+    "lintang": "10.4 LS",
+    "bujur": "123.91 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 53 km Tenggara Kab. Kupang",
+    "warning": [
+      "II Kab. Kupang"
+    ]
+  },
+  {
+    "waktu": "23/11/2022 12:08:31 WIB",
+    "lintang": "6.87 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km BaratDaya Kab. Cianjur",
+    "warning": [
+      "II Warungkondang"
+    ]
+  },
+  {
+    "waktu": "23/11/2022 11:49:51 WIB",
+    "lintang": "0.9 LS",
+    "bujur": "121.65 BT",
+    "magnitudo": "3",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 25 km TimurLaut Tojo Una-Una",
+    "warning": [
+      "II - III Ampana"
+    ]
+  },
+  {
+    "waktu": "23/11/2022 11:41:43 WIB",
+    "lintang": "6.8 LS",
+    "bujur": "107.07 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Kab. Cianjur",
+    "warning": [
+      "IV Warungkondang",
+      "IV Sukaresmi",
+      "III Pacet",
+      "III Cugenang",
+      "III Ciherang",
+      "III Kota Cianjur"
+    ]
+  },
+  {
+    "waktu": "23/11/2022 11:01:07 WIB",
+    "lintang": "6.83 LS",
+    "bujur": "107.12 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 2k km Barat daya Kab. Cianjur",
+    "warning": [
+      "II Kab. Cianjur"
+    ]
+  },
+  {
     "waktu": "22/11/2022 23:24:46 WIB",
     "lintang": "5.54 LS",
     "bujur": "131.02 BT",
@@ -132,7 +192,8 @@
       "II - III DKI Jakarta",
       "II - III Depok",
       "II - III Tangerang",
-      "III Bakauheni"
+      "III Bakauheni",
+      "VII Kadudampit"
     ]
   },
   {
@@ -203,66 +264,6 @@
       "II Cilacap",
       "II Kota Bandung",
       "II Kab. Bandung"
-    ]
-  },
-  {
-    "waktu": "19/11/2022 16:37:26 WIB",
-    "lintang": "3.66 LS",
-    "bujur": "102.61 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km Tenggara Kepahiang",
-    "warning": [
-      "II-III Kepahiang",
-      "II - III Lebong"
-    ]
-  },
-  {
-    "waktu": "19/11/2022 07:38:23 WIB",
-    "lintang": "0.1 LS",
-    "bujur": "129.42 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 153 km Tenggara Maba",
-    "warning": [
-      "II - III Gebe"
-    ]
-  },
-  {
-    "waktu": "18/11/2022 20:37:06 WIB",
-    "lintang": "4.88 LS",
-    "bujur": "100.65 BT",
-    "magnitudo": "6.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 187 km Baratlaut Enggano",
-    "warning": [
-      "IV Enggano",
-      "III-IV Muko-muko",
-      "III-IV Bengkulu Utara",
-      "III-IV Kota Bengkulu",
-      "II Liwa"
-    ]
-  },
-  {
-    "waktu": "17/11/2022 15:00:21 WIB",
-    "lintang": "1.7 LU",
-    "bujur": "126.29 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di laut 132 km Timur Laut BITUNG",
-    "warning": [
-      "II Bitung"
-    ]
-  },
-  {
-    "waktu": "17/11/2022 06:14:31 WIB",
-    "lintang": "4.74 LS",
-    "bujur": "121.98 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5.7 km Tenggara Rarowatu Kab. Bombana",
-    "warning": [
-      "III Bombana"
     ]
   }
 ]
