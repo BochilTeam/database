@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/11/2022 04:48:21 WIB",
+    "lintang": "6.81 LS",
+    "bujur": "107.14 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 1 km TimurLaut Kab. Cianjur",
+    "warning": [
+      "II Cianjur"
+    ]
+  },
+  {
     "waktu": "23/11/2022 21:49:07 WIB",
     "lintang": "6.79 LS",
     "bujur": "107.11 BT",
@@ -245,17 +256,6 @@
       "II - III Tangerang",
       "III Bakauheni",
       "VII Kadudampit"
-    ]
-  },
-  {
-    "waktu": "21/11/2022 12:46:59 WIB",
-    "lintang": "2.52 LS",
-    "bujur": "121.8 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di Darat 19 Km Barat Bungku",
-    "warning": [
-      "II - III Morowali"
     ]
   }
 ]
