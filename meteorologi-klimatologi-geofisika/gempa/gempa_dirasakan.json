@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/11/2022 09:11:26 WIB",
+    "lintang": "4.3 LS",
+    "bujur": "100.41 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 207 km barat daya Mukomuko",
+    "warning": [
+      "I-II Mukomuko"
+    ]
+  },
+  {
     "waktu": "24/11/2022 04:48:21 WIB",
     "lintang": "6.81 LS",
     "bujur": "107.14 BT",
@@ -229,33 +240,6 @@
     "warning": [
       "III Biak",
       "IV Serui"
-    ]
-  },
-  {
-    "waktu": "21/11/2022 13:21:10 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "107.05 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Darat 10 Km Barat Daya Kab. Cianjur",
-    "warning": [
-      "V-VI Cianjur",
-      "IV - V Garut",
-      "IV - V Sukabumi",
-      "III Cimahi",
-      "III Lembang",
-      "III Kota Bandung",
-      "III Cikalong Wetan",
-      "III Rangkasbitung",
-      "III Bogor",
-      "III Bayah",
-      "II - III Rancaekek",
-      "II - III Tangerang Selatan",
-      "II - III DKI Jakarta",
-      "II - III Depok",
-      "II - III Tangerang",
-      "III Bakauheni",
-      "VII Kadudampit"
     ]
   }
 ]
