@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/11/2022 17:05:27 WIB",
+    "lintang": "6.78 LS",
+    "bujur": "107.11 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km barat laut Kab. Cianjur",
+    "warning": [
+      "II Cugenang"
+    ]
+  },
+  {
     "waktu": "24/11/2022 11:51:32 WIB",
     "lintang": "3.8 LS",
     "bujur": "128.5 BT",
@@ -227,18 +238,6 @@
     "warning": [
       "II-III Ciherang",
       "II - III Pacet"
-    ]
-  },
-  {
-    "waktu": "22/11/2022 13:43:27 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.09 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Cianjur",
-    "warning": [
-      "II - III Pacet",
-      "II - III Ciherang"
     ]
   }
 ]
