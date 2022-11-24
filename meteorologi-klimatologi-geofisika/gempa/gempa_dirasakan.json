@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/11/2022 18:07:55 WIB",
+    "lintang": "8.19 LS",
+    "bujur": "122.85 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 18 km BaratLaut Larantuka",
+    "warning": [
+      "II - III Flores Timur"
+    ]
+  },
+  {
     "waktu": "24/11/2022 17:05:27 WIB",
     "lintang": "6.78 LS",
     "bujur": "107.11 BT",
@@ -226,18 +237,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km BaratLaut Kab-Cianjur",
     "warning": [
       "II Kec. Cilaku"
-    ]
-  },
-  {
-    "waktu": "22/11/2022 14:52:47 WIB",
-    "lintang": "6.81 LS",
-    "bujur": "107.06 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Kab-Cianjur",
-    "warning": [
-      "II-III Ciherang",
-      "II - III Pacet"
     ]
   }
 ]
