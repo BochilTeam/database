@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "25/11/2022 03:51:00 WIB",
+    "lintang": "6.85 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km BaratDaya Kab-Cianjur",
+    "warning": [
+      "II - III Cipanas",
+      "II - III Cibeber"
+    ]
+  },
+  {
     "waktu": "25/11/2022 01:44:15 WIB",
     "lintang": "6.89 LS",
     "bujur": "107.05 BT",
@@ -227,18 +239,6 @@
     "warning": [
       "III Cianjur",
       "III Cilaku"
-    ]
-  },
-  {
-    "waktu": "22/11/2022 17:33:12 WIB",
-    "lintang": "6.81 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km baratlaut Kab. Cianjur",
-    "warning": [
-      "III Cibeber",
-      "III Pacet"
     ]
   }
 ]
