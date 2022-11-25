@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "26/11/2022 02:22:25 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.11 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km BaratLaut Cianjur",
+    "warning": [
+      "II Cilaku",
+      "II Cileber",
+      "II Cianjur",
+      "II Warungkondang"
+    ]
+  },
+  {
     "waktu": "25/11/2022 20:25:33 WIB",
     "lintang": "2.78 LS",
     "bujur": "101.12 BT",
@@ -222,21 +236,6 @@
     "warning": [
       "III Saumlaki",
       "II Banda"
-    ]
-  },
-  {
-    "waktu": "22/11/2022 21:54:04 WIB",
-    "lintang": "7.93 LS",
-    "bujur": "107.03 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 113 km tenggara Kota Sukabumi",
-    "warning": [
-      "II Kab Cianjur",
-      "II Kab Sukabumi",
-      "II Kab Garut",
-      "II Kota Sukabumi",
-      "II Kab Tasikmalaya"
     ]
   }
 ]
