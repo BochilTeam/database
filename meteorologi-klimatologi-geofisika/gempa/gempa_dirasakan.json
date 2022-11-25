@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/11/2022 15:54:42 WIB",
+    "lintang": "8.12 LS",
+    "bujur": "124.58 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di laut 19 km Timur Laut Alor",
+    "warning": [
+      "II Alor"
+    ]
+  },
+  {
     "waktu": "25/11/2022 03:51:00 WIB",
     "lintang": "6.85 LS",
     "bujur": "107.08 BT",
@@ -226,18 +237,6 @@
     "wilayah": "Pusat gempa berada di darat 9 km BaratDaya Cianjur",
     "warning": [
       "III Cugenang",
-      "III Cilaku"
-    ]
-  },
-  {
-    "waktu": "22/11/2022 18:39:38 WIB",
-    "lintang": "6.87 LS",
-    "bujur": "107.05 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km BaratDaya kab-Cianjur",
-    "warning": [
-      "III Cianjur",
       "III Cilaku"
     ]
   }
