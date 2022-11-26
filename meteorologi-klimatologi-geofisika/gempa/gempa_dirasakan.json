@@ -1,5 +1,55 @@
 [
   {
+    "waktu": "26/11/2022 18:43:36 WIB",
+    "lintang": "6.86 LS",
+    "bujur": "105.56 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di Laut 22 Km Barat Daya SUMUR-BANTEN",
+    "warning": [
+      "III Cibaliung",
+      "III Cikotok",
+      "III Panimbang",
+      "III Sumur",
+      "III Muarabinuangen",
+      "III Labuan",
+      "II Bayah"
+    ]
+  },
+  {
+    "waktu": "26/11/2022 18:40:01 WIB",
+    "lintang": "3.17 LU",
+    "bujur": "97.26 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di Laut 13 Km Tengara KAB-ACEHSELATAN",
+    "warning": [
+      "II-III Tapaktuan"
+    ]
+  },
+  {
+    "waktu": "26/11/2022 17:56:28 WIB",
+    "lintang": "4.75 LS",
+    "bujur": "121.94 BT",
+    "magnitudo": "3",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di Darat 7 Km Barat Laut BOMBANA-SULTRA",
+    "warning": [
+      "II-III Bombana"
+    ]
+  },
+  {
+    "waktu": "26/11/2022 16:59:38 WIB",
+    "lintang": "3.01 LS",
+    "bujur": "130.65 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di Laut 87 Km Timur Laut Kobisonta-MALTENG",
+    "warning": [
+      "III Bula"
+    ]
+  },
+  {
     "waktu": "26/11/2022 14:16:08 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.09 BT",
@@ -186,52 +236,6 @@
       "II - III Pacet",
       "II - III Sukabumi",
       "II - III Cipanas"
-    ]
-  },
-  {
-    "waktu": "23/11/2022 17:54:08 WIB",
-    "lintang": "6.69 LS",
-    "bujur": "106.7 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km Barat Daya Kota Bogor",
-    "warning": [
-      "II Sukabumi",
-      "II Kab. Bogor"
-    ]
-  },
-  {
-    "waktu": "23/11/2022 17:45:00 WIB",
-    "lintang": "7.81 LS",
-    "bujur": "113.59 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km Timur Laut Kab. Probolinggo",
-    "warning": [
-      "II - III Situbondo",
-      "I - II Bondowoso"
-    ]
-  },
-  {
-    "waktu": "23/11/2022 12:34:27 WIB",
-    "lintang": "10.4 LS",
-    "bujur": "123.91 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 53 km Tenggara Kab. Kupang",
-    "warning": [
-      "II Kab. Kupang"
-    ]
-  },
-  {
-    "waktu": "23/11/2022 12:08:31 WIB",
-    "lintang": "6.87 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km BaratDaya Kab. Cianjur",
-    "warning": [
-      "II Warungkondang"
     ]
   }
 ]
