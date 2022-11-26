@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "26/11/2022 14:16:08 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.09 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Kab. Cianjur",
+    "warning": [
+      "II - III Kec. Cianjur",
+      "II - III Pacet",
+      "II - III Cugenang"
+    ]
+  },
+  {
+    "waktu": "26/11/2022 12:35:56 WIB",
+    "lintang": "6.81 LS",
+    "bujur": "107.1 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Baratlaut Kab. Cianjur",
+    "warning": [
+      "II - III Cugenang"
+    ]
+  },
+  {
     "waktu": "26/11/2022 11:48:22 WIB",
     "lintang": "3.03 LU",
     "bujur": "97.33 BT",
@@ -208,33 +232,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km BaratDaya Kab. Cianjur",
     "warning": [
       "II Warungkondang"
-    ]
-  },
-  {
-    "waktu": "23/11/2022 11:49:51 WIB",
-    "lintang": "0.9 LS",
-    "bujur": "121.65 BT",
-    "magnitudo": "3",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 25 km TimurLaut Tojo Una-Una",
-    "warning": [
-      "II - III Ampana"
-    ]
-  },
-  {
-    "waktu": "23/11/2022 11:41:43 WIB",
-    "lintang": "6.8 LS",
-    "bujur": "107.07 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Kab. Cianjur",
-    "warning": [
-      "IV Warungkondang",
-      "IV Sukaresmi",
-      "III Pacet",
-      "III Cugenang",
-      "III Ciherang",
-      "III Kota Cianjur"
     ]
   }
 ]
