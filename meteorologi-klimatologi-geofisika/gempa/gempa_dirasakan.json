@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/11/2022 11:48:22 WIB",
+    "lintang": "3.03 LU",
+    "bujur": "97.33 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di laut 30 km Tenggara Kab. Aceh Selatan",
+    "warning": [
+      "II Kluet Selatan"
+    ]
+  },
+  {
     "waktu": "26/11/2022 02:22:25 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.11 BT",
@@ -224,17 +235,6 @@
       "III Cugenang",
       "III Ciherang",
       "III Kota Cianjur"
-    ]
-  },
-  {
-    "waktu": "23/11/2022 11:01:07 WIB",
-    "lintang": "6.83 LS",
-    "bujur": "107.12 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 2k km Barat daya Kab. Cianjur",
-    "warning": [
-      "II Kab. Cianjur"
     ]
   }
 ]
