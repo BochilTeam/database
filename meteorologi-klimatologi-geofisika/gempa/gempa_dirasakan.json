@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "27/11/2022 18:37:30 WIB",
+    "lintang": "1.56 LS",
+    "bujur": "100.08 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "35 Km",
+    "wilayah": "Pusat gempa berada di laut 60 km barat daya Painan-Pesisir Selatan",
+    "warning": [
+      "II Padang",
+      "II Pesisir Selatan"
+    ]
+  },
+  {
     "waktu": "27/11/2022 09:10:55 WIB",
     "lintang": "8.2 LS",
     "bujur": "108.26 BT",
@@ -236,17 +248,6 @@
     "wilayah": "Pusat gempa berada di laut 18 km BaratLaut Larantuka",
     "warning": [
       "II - III Flores Timur"
-    ]
-  },
-  {
-    "waktu": "24/11/2022 17:05:27 WIB",
-    "lintang": "6.78 LS",
-    "bujur": "107.11 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km barat laut Kab. Cianjur",
-    "warning": [
-      "II Cugenang"
     ]
   }
 ]
