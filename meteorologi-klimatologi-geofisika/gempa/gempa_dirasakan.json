@@ -1,14 +1,40 @@
 [
   {
+    "waktu": "27/11/2022 07:21:30 WIB",
+    "lintang": "6.92 LS",
+    "bujur": "106.79 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km Barat Daya kota Sukabumi",
+    "warning": [
+      "II - III Gubung Guruh",
+      "III Cibadak",
+      "II Bogor"
+    ]
+  },
+  {
+    "waktu": "27/11/2022 06:18:28 WIB",
+    "lintang": "6.79 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km Barat laut Kab. Cianjur",
+    "warning": [
+      "II - III Cianjur"
+    ]
+  },
+  {
     "waktu": "27/11/2022 04:20:01 WIB",
     "lintang": "6.84 LS",
     "bujur": "107.07 BT",
     "magnitudo": "2.4",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di...",
+    "wilayah": "Pusat gempa berada di darat 7 km Barat Daya Kab. Cianjur",
     "warning": [
       "II Cianjur",
-      "II Cilaku"
+      "II Cilaku",
+      "II Karangtengah",
+      "II Warungkondang"
     ]
   },
   {
@@ -216,28 +242,6 @@
     "wilayah": "Pusat gempa berada di laut 30 km barat daya Maluku Tengah",
     "warning": [
       "I-II Ambon"
-    ]
-  },
-  {
-    "waktu": "24/11/2022 09:11:26 WIB",
-    "lintang": "4.3 LS",
-    "bujur": "100.41 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 207 km barat daya Mukomuko",
-    "warning": [
-      "I-II Mukomuko"
-    ]
-  },
-  {
-    "waktu": "24/11/2022 04:48:21 WIB",
-    "lintang": "6.81 LS",
-    "bujur": "107.14 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 1 km TimurLaut Kab. Cianjur",
-    "warning": [
-      "II Cianjur"
     ]
   }
 ]

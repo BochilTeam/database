@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27-11-22 05:39:21 WIB",
+    "lintang": "-5.81",
+    "bujur": "130.68",
+    "magnitudo": "5.3",
+    "kedalaman": "90 Km",
+    "wilayah": "228 km BaratDaya MALUKUTENGGARA"
+  },
+  {
     "waktu": "24-11-22 09:11:26 WIB",
     "lintang": "-4.30",
     "bujur": "100.41",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "489 Km",
     "wilayah": "211 km TimurLaut WAKATOBI-SULTRA"
-  },
-  {
-    "waktu": "17-10-22 20:12:48 WIB",
-    "lintang": "-0.02",
-    "bujur": "123.50",
-    "magnitudo": "5.1",
-    "kedalaman": "122 Km",
-    "wilayah": "69 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
   }
 ]
