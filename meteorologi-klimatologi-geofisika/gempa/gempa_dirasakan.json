@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "27/11/2022 09:10:55 WIB",
+    "lintang": "8.2 LS",
+    "bujur": "108.26 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "38 Km",
+    "wilayah": "Pusat gempa berada di laut 61 km BaratDaya Kab. Pangandaran",
+    "warning": [
+      "II-III Pangandaran",
+      "II Garut",
+      "II-III Ciamis",
+      "II Tasikmalaya",
+      "II Majalengka",
+      "II Sukabumi"
+    ]
+  },
+  {
     "waktu": "27/11/2022 07:21:30 WIB",
     "lintang": "6.92 LS",
     "bujur": "106.79 BT",
@@ -7,7 +23,7 @@
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di darat 15 km Barat Daya kota Sukabumi",
     "warning": [
-      "II - III Gubung Guruh",
+      "II - III Gunung Guruh",
       "III Cibadak",
       "II Bogor"
     ]
@@ -231,17 +247,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km barat laut Kab. Cianjur",
     "warning": [
       "II Cugenang"
-    ]
-  },
-  {
-    "waktu": "24/11/2022 11:51:32 WIB",
-    "lintang": "3.8 LS",
-    "bujur": "128.5 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 30 km barat daya Maluku Tengah",
-    "warning": [
-      "I-II Ambon"
     ]
   }
 ]
