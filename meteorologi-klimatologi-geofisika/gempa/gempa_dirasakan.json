@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/11/2022 13:59:36 WIB",
+    "lintang": "5.35 LS",
+    "bujur": "102.41 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada dilaut 15Km Tenggara Enggano",
+    "warning": [
+      "3 Enggano"
+    ]
+  },
+  {
     "waktu": "28/11/2022 12:28:49 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.07 BT",
@@ -234,18 +245,6 @@
     "wilayah": "Pusat gempa berada di laut 19 km Timur Laut Alor",
     "warning": [
       "II Alor"
-    ]
-  },
-  {
-    "waktu": "25/11/2022 03:51:00 WIB",
-    "lintang": "6.85 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km BaratDaya Kab-Cianjur",
-    "warning": [
-      "II - III Cipanas",
-      "II - III Cibeber"
     ]
   }
 ]
