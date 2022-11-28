@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "28/11/2022 20:48:48 WIB",
+    "lintang": "8.36 LS",
+    "bujur": "116.8 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 14 km Baratlaut Pulaupanjang",
+    "warning": [
+      "II Lomok Utara",
+      "II Lombok Timur",
+      "II Sumbawa Barat"
+    ]
+  },
+  {
     "waktu": "28/11/2022 16:05:08 WIB",
     "lintang": "6.84 LS",
     "bujur": "107.08 BT",
@@ -21,7 +34,7 @@
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada dilaut 15Km Tenggara Enggano",
     "warning": [
-      "3 Enggano"
+      "III Enggano"
     ]
   },
   {
@@ -237,17 +250,6 @@
     "wilayah": "Pusat gempa berada di darat 15 km Timurlaut Kota Sukabumi",
     "warning": [
       "I-II Cireunghas"
-    ]
-  },
-  {
-    "waktu": "25/11/2022 20:25:33 WIB",
-    "lintang": "2.78 LS",
-    "bujur": "101.12 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "25 Km",
-    "wilayah": "Pusat gempa berada di laut 22 km Tenggara Mukomuko",
-    "warning": [
-      "III Mukomuko"
     ]
   }
 ]
