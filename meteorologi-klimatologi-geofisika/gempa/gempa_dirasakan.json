@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/11/2022 08:27:08 WIB",
+    "lintang": "6.79 LS",
+    "bujur": "107.1 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Kab-Cianjur",
+    "warning": [
+      "III Pacet"
+    ]
+  },
+  {
     "waktu": "27/11/2022 18:37:30 WIB",
     "lintang": "1.56 LS",
     "bujur": "100.08 BT",
@@ -237,17 +248,6 @@
       "IV Cianjur",
       "III Sukabumi",
       "II Bogor"
-    ]
-  },
-  {
-    "waktu": "24/11/2022 18:07:55 WIB",
-    "lintang": "8.19 LS",
-    "bujur": "122.85 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 18 km BaratLaut Larantuka",
-    "warning": [
-      "II - III Flores Timur"
     ]
   }
 ]
