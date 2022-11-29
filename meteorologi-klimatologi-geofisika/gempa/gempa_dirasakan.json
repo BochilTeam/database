@@ -1,5 +1,33 @@
 [
   {
+    "waktu": "29/11/2022 21:20:43 WIB",
+    "lintang": "2.21 LU",
+    "bujur": "96.31 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 29 km barat daya Sinabang",
+    "warning": [
+      "III Simeulue"
+    ]
+  },
+  {
+    "waktu": "29/11/2022 20:57:25 WIB",
+    "lintang": "6.83 LS",
+    "bujur": "107.11 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km BaratDaya Cianjur",
+    "warning": [
+      "III Cianjur",
+      "III Cugenang",
+      "III Cibeber",
+      "III Karangtengah",
+      "II Warungkondang",
+      "II Sukabumi",
+      "II Cilaku"
+    ]
+  },
+  {
     "waktu": "29/11/2022 18:18:17 WIB",
     "lintang": "5.33 LS",
     "bujur": "122.63 BT",
@@ -223,28 +251,6 @@
     "wilayah": "Pusat gempa berada di Laut 13 Km Tengara KAB-ACEHSELATAN",
     "warning": [
       "II-III Tapaktuan"
-    ]
-  },
-  {
-    "waktu": "26/11/2022 17:56:28 WIB",
-    "lintang": "4.75 LS",
-    "bujur": "121.94 BT",
-    "magnitudo": "3",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di Darat 7 Km Barat Laut BOMBANA-SULTRA",
-    "warning": [
-      "II-III Bombana"
-    ]
-  },
-  {
-    "waktu": "26/11/2022 16:59:38 WIB",
-    "lintang": "3.01 LS",
-    "bujur": "130.65 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di Laut 87 Km Timur Laut Kobisonta-MALTENG",
-    "warning": [
-      "III Bula"
     ]
   }
 ]
