@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/11/2022 05:26:42 WIB",
+    "lintang": "2.83 LS",
+    "bujur": "129.84 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 16 km Utara Kobisonta",
+    "warning": [
+      "II Seram Utara"
+    ]
+  },
+  {
     "waktu": "28/11/2022 20:48:48 WIB",
     "lintang": "8.36 LS",
     "bujur": "116.8 BT",
@@ -239,17 +250,6 @@
       "II Cileber",
       "II Cianjur",
       "II Warungkondang"
-    ]
-  },
-  {
-    "waktu": "26/11/2022 02:06:17 WIB",
-    "lintang": "6.78 LS",
-    "bujur": "106.95 BT",
-    "magnitudo": "1.3",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km Timurlaut Kota Sukabumi",
-    "warning": [
-      "I-II Cireunghas"
     ]
   }
 ]
