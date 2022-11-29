@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "29/11/2022 18:18:17 WIB",
+    "lintang": "5.33 LS",
+    "bujur": "122.63 BT",
+    "magnitudo": "3",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km Timurlaut Buton Tengah",
+    "warning": [
+      "III Buton Tengah"
+    ]
+  },
+  {
+    "waktu": "29/11/2022 17:28:01 WIB",
+    "lintang": "2.88 LS",
+    "bujur": "139.41 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 95 km timurlaut Kobakma",
+    "warning": [
+      "II-III Kobakma"
+    ]
+  },
+  {
     "waktu": "29/11/2022 10:43:24 WIB",
     "lintang": "1.94 LS",
     "bujur": "136.13 BT",
@@ -223,30 +245,6 @@
     "wilayah": "Pusat gempa berada di Laut 87 Km Timur Laut Kobisonta-MALTENG",
     "warning": [
       "III Bula"
-    ]
-  },
-  {
-    "waktu": "26/11/2022 14:16:08 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.09 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Kab. Cianjur",
-    "warning": [
-      "II - III Kec. Cianjur",
-      "II - III Pacet",
-      "II - III Cugenang"
-    ]
-  },
-  {
-    "waktu": "26/11/2022 12:35:56 WIB",
-    "lintang": "6.81 LS",
-    "bujur": "107.1 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km Baratlaut Kab. Cianjur",
-    "warning": [
-      "II - III Cugenang"
     ]
   }
 ]
