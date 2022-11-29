@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "29/11/2022 10:43:24 WIB",
+    "lintang": "1.94 LS",
+    "bujur": "136.13 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di laut 22 km barat daya Kep. Yapen",
+    "warning": [
+      "II - III Serui"
+    ]
+  },
+  {
+    "waktu": "29/11/2022 10:18:09 WIB",
+    "lintang": "4 LS",
+    "bujur": "121.79 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km timur laut Lalolae",
+    "warning": [
+      "II - III Kolaka Timur"
+    ]
+  },
+  {
     "waktu": "29/11/2022 05:26:42 WIB",
     "lintang": "2.83 LS",
     "bujur": "129.84 BT",
@@ -225,31 +247,6 @@
     "wilayah": "Pusat gempa berada di darat 4 km Baratlaut Kab. Cianjur",
     "warning": [
       "II - III Cugenang"
-    ]
-  },
-  {
-    "waktu": "26/11/2022 11:48:22 WIB",
-    "lintang": "3.03 LU",
-    "bujur": "97.33 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada di laut 30 km Tenggara Kab. Aceh Selatan",
-    "warning": [
-      "II Kluet Selatan"
-    ]
-  },
-  {
-    "waktu": "26/11/2022 02:22:25 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.11 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km BaratLaut Cianjur",
-    "warning": [
-      "II Cilaku",
-      "II Cileber",
-      "II Cianjur",
-      "II Warungkondang"
     ]
   }
 ]
