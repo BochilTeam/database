@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "30/11/2022 07:53:40 WIB",
+    "lintang": "6.83 LS",
+    "bujur": "107.09 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km BaratDaya Cianjur",
+    "warning": [
+      "III Cibodas",
+      "III Cimacan",
+      "III Bojongherang",
+      "II - III Cianjur",
+      "II Cibeureum",
+      "III-IV Cugenang"
+    ]
+  },
+  {
     "waktu": "29/11/2022 21:20:43 WIB",
     "lintang": "2.21 LU",
     "bujur": "96.31 BT",
@@ -240,17 +256,6 @@
       "III Muarabinuangen",
       "III Labuan",
       "II Bayah"
-    ]
-  },
-  {
-    "waktu": "26/11/2022 18:40:01 WIB",
-    "lintang": "3.17 LU",
-    "bujur": "97.26 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di Laut 13 Km Tengara KAB-ACEHSELATAN",
-    "warning": [
-      "II-III Tapaktuan"
     ]
   }
 ]
