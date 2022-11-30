@@ -1,5 +1,23 @@
 [
   {
+    "waktu": "30/11/2022 22:24:34 WIB",
+    "lintang": "6.84 LS",
+    "bujur": "107.09 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km baratdaya Kabupaten Cianjur",
+    "warning": [
+      "II-III Pacet",
+      "II Karangtengah",
+      "II Babakankaret",
+      "II Sukaresmi",
+      "II Cilaku",
+      "II Cipanas",
+      "II Cianjur",
+      "II Bojongherang"
+    ]
+  },
+  {
     "waktu": "30/11/2022 17:33:25 WIB",
     "lintang": "6.83 LS",
     "bujur": "107.08 BT",
@@ -233,23 +251,6 @@
       "II Cilaku",
       "II Karangtengah",
       "II Warungkondang"
-    ]
-  },
-  {
-    "waktu": "26/11/2022 19:44:10 WIB",
-    "lintang": "6.81 LS",
-    "bujur": "107.06 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Darat 8 Km Barat Laut Kab. Cianjur",
-    "warning": [
-      "III Kec. Cianjur",
-      "III Pacet",
-      "III Mekarsari",
-      "III Cijedil",
-      "III Cipanas",
-      "III Cugenang",
-      "III Ciherang"
     ]
   }
 ]
