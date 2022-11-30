@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30-11-22 20:30:11 WIB",
+    "lintang": "-2.27",
+    "bujur": "139.41",
+    "magnitudo": "5.0",
+    "kedalaman": "18 Km",
+    "wilayah": "31 km TimurLaut SARMI-PAPUA"
+  },
+  {
     "waktu": "29-11-22 05:26:42 WIB",
     "lintang": "-2.83",
     "bujur": "129.84",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "175 Km",
     "wilayah": "27 km TimurLaut TAPANULISELATAN-SUMUT"
-  },
-  {
-    "waktu": "21-10-22 05:59:08 WIB",
-    "lintang": "-0.76",
-    "bujur": "121.55",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "37 km TimurLaut TOJOUNA-UNA-SULTENG"
   }
 ]
