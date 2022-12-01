@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "01/12/2022 14:29:19 WIB",
+    "lintang": "6.83 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 6 Km Barat Daya Kab. Cianjur",
+    "warning": [
+      "III Cugenang",
+      "II-III Pamoyanan",
+      "II Warung Kondang"
+    ]
+  },
+  {
     "waktu": "01/12/2022 09:15:37 WIB",
     "lintang": "3.86 LS",
     "bujur": "122.66 BT",
@@ -239,17 +252,6 @@
       "II - III Gunung Guruh",
       "III Cibadak",
       "II Bogor"
-    ]
-  },
-  {
-    "waktu": "27/11/2022 06:18:28 WIB",
-    "lintang": "6.79 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km Barat laut Kab. Cianjur",
-    "warning": [
-      "II - III Cianjur"
     ]
   }
 ]
