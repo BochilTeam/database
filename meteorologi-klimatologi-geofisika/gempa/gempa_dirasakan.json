@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/12/2022 16:41:20 WIB",
+    "lintang": "8.37 LS",
+    "bujur": "116.57 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 31 km TimurLaut Lombok Timur",
+    "warning": [
+      "II - III Lombok Timur"
+    ]
+  },
+  {
     "waktu": "01/12/2022 14:29:19 WIB",
     "lintang": "6.83 LS",
     "bujur": "107.08 BT",
@@ -239,19 +250,6 @@
       "II Tasikmalaya",
       "II Majalengka",
       "II Sukabumi"
-    ]
-  },
-  {
-    "waktu": "27/11/2022 07:21:30 WIB",
-    "lintang": "6.92 LS",
-    "bujur": "106.79 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km Barat Daya kota Sukabumi",
-    "warning": [
-      "II - III Gunung Guruh",
-      "III Cibadak",
-      "II Bogor"
     ]
   }
 ]
