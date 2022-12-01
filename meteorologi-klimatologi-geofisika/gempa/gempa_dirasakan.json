@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "01/12/2022 09:15:37 WIB",
+    "lintang": "3.86 LS",
+    "bujur": "122.66 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 6 km barat laut Kab. Konawe",
+    "warning": [
+      "IV Kendari",
+      "IV Konawe",
+      "III-IV Konawe Selatan"
+    ]
+  },
+  {
     "waktu": "30/11/2022 22:24:34 WIB",
     "lintang": "6.84 LS",
     "bujur": "107.09 BT",
@@ -237,20 +250,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km Barat laut Kab. Cianjur",
     "warning": [
       "II - III Cianjur"
-    ]
-  },
-  {
-    "waktu": "27/11/2022 04:20:01 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "107.07 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km Barat Daya Kab. Cianjur",
-    "warning": [
-      "II Cianjur",
-      "II Cilaku",
-      "II Karangtengah",
-      "II Warungkondang"
     ]
   }
 ]
