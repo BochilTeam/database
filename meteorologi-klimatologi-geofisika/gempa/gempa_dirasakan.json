@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/12/2022 07:42:00 WIB",
+    "lintang": "6.84 LS",
+    "bujur": "107.1 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km barat daya Kab. Cianjur",
+    "warning": [
+      "II Pamoyanan"
+    ]
+  },
+  {
     "waktu": "01/12/2022 16:41:20 WIB",
     "lintang": "8.37 LS",
     "bujur": "116.57 BT",
@@ -234,22 +245,6 @@
     "warning": [
       "II Padang",
       "II Pesisir Selatan"
-    ]
-  },
-  {
-    "waktu": "27/11/2022 09:10:55 WIB",
-    "lintang": "8.2 LS",
-    "bujur": "108.26 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "38 Km",
-    "wilayah": "Pusat gempa berada di laut 61 km BaratDaya Kab. Pangandaran",
-    "warning": [
-      "II-III Pangandaran",
-      "II Garut",
-      "II-III Ciamis",
-      "II Tasikmalaya",
-      "II Majalengka",
-      "II Sukabumi"
     ]
   }
 ]
