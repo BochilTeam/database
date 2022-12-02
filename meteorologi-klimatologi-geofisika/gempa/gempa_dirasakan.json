@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "03/12/2022 03:37:21 WIB",
+    "lintang": "8.11 LS",
+    "bujur": "107.92 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di laut 78 km baratdaya Pangandaran",
+    "warning": [
+      "III Pangandaran",
+      "II-III Tasikmalaya",
+      "II-III Garut",
+      "II Ciamis",
+      "II Banjar"
+    ]
+  },
+  {
     "waktu": "02/12/2022 16:57:50 WIB",
     "lintang": "1.41 LS",
     "bujur": "134.19 BT",
@@ -233,17 +248,6 @@
     "wilayah": "Pusat gempa berada dilaut 15Km Tenggara Enggano",
     "warning": [
       "III Enggano"
-    ]
-  },
-  {
-    "waktu": "28/11/2022 12:28:49 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.07 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km Baratlaut Kab. Cianjur",
-    "warning": [
-      "III Cugenang"
     ]
   }
 ]
