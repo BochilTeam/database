@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/12/2022 16:57:50 WIB",
+    "lintang": "1.41 LS",
+    "bujur": "134.19 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada didarat 9 Km Timur Laut Ransiki",
+    "warning": [
+      "II Ransiki"
+    ]
+  },
+  {
     "waktu": "02/12/2022 15:55:17 WIB",
     "lintang": "0.14 LS",
     "bujur": "123.25 BT",
@@ -233,17 +244,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km Baratlaut Kab. Cianjur",
     "warning": [
       "III Cugenang"
-    ]
-  },
-  {
-    "waktu": "28/11/2022 08:27:08 WIB",
-    "lintang": "6.79 LS",
-    "bujur": "107.1 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Kab-Cianjur",
-    "warning": [
-      "III Pacet"
     ]
   }
 ]
