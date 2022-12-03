@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "03/12/2022 18:26:35 WIB",
+    "lintang": "6.84 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km BaratDaya Kab-Cianjur",
+    "warning": [
+      "II - III Cianjur",
+      "II - III Pamoyanan"
+    ]
+  },
+  {
     "waktu": "03/12/2022 16:49:41 WIB",
     "lintang": "7.51 LS",
     "bujur": "107.52 BT",
@@ -11,9 +23,32 @@
       "III Ciamis",
       "III Kalapanunggal",
       "III Sumur",
-      "III Tasik",
+      "III Tasikmalaya",
       "II - III Pamoyanan",
-      "II - III Panimbang"
+      "II - III Panimbang",
+      "III Soreang",
+      "III Kopo",
+      "II - III Sumedang",
+      "II - III Lembang",
+      "II - III Cikeusik",
+      "II - III Labuan",
+      "II - III Purworejo",
+      "II - III Bantul",
+      "II - III Kulon Progo",
+      "II - III Kebumen",
+      "II Cikembar",
+      "II Pelabuhan Ratu",
+      "II Cugenang",
+      "II Bandung",
+      "II Bogor",
+      "II Cilacap",
+      "II Sawarna",
+      "II Cireunghas",
+      "II Bojong",
+      "II Yogyakarta",
+      "II Wonosobo",
+      "II Karangkates",
+      "II Trenggalek"
     ]
   },
   {
@@ -240,20 +275,6 @@
       "II Lomok Utara",
       "II Lombok Timur",
       "II Sumbawa Barat"
-    ]
-  },
-  {
-    "waktu": "28/11/2022 16:05:08 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada didarat 6km Barat Daya KAB.Cianjur",
-    "warning": [
-      "III Nagrak",
-      "III Cugenang",
-      "II Cianjur",
-      "II - III Cilaku"
     ]
   }
 ]
