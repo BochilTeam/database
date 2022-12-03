@@ -1,5 +1,40 @@
 [
   {
+    "waktu": "04/12/2022 05:01:02 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.06 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Kab-Cianjur",
+    "warning": [
+      "III Cianjur",
+      "III Sukabumi",
+      "II - III Pamoyanan"
+    ]
+  },
+  {
+    "waktu": "04/12/2022 04:39:54 WIB",
+    "lintang": "7.38 LS",
+    "bujur": "108.23 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Kota Tasikmalaya",
+    "warning": [
+      "II Tasikmalaya"
+    ]
+  },
+  {
+    "waktu": "04/12/2022 04:34:49 WIB",
+    "lintang": "7.39 LS",
+    "bujur": "108.23 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km Tenggara Kota Tasikmalaya",
+    "warning": [
+      "II - III Tasikmalaya"
+    ]
+  },
+  {
     "waktu": "03/12/2022 18:26:35 WIB",
     "lintang": "6.84 LS",
     "bujur": "107.08 BT",
@@ -240,41 +275,6 @@
     "wilayah": "Pusat gempa berada di laut 22 km barat daya Kep. Yapen",
     "warning": [
       "II - III Serui"
-    ]
-  },
-  {
-    "waktu": "29/11/2022 10:18:09 WIB",
-    "lintang": "4 LS",
-    "bujur": "121.79 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km timur laut Lalolae",
-    "warning": [
-      "II - III Kolaka Timur"
-    ]
-  },
-  {
-    "waktu": "29/11/2022 05:26:42 WIB",
-    "lintang": "2.83 LS",
-    "bujur": "129.84 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 16 km Utara Kobisonta",
-    "warning": [
-      "II Seram Utara"
-    ]
-  },
-  {
-    "waktu": "28/11/2022 20:48:48 WIB",
-    "lintang": "8.36 LS",
-    "bujur": "116.8 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 14 km Baratlaut Pulaupanjang",
-    "warning": [
-      "II Lomok Utara",
-      "II Lombok Timur",
-      "II Sumbawa Barat"
     ]
   }
 ]
