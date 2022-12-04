@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "04/12/2022 09:25:13 WIB",
+    "lintang": "6.92 LS",
+    "bujur": "107.1 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km BaratDaya Kab. Cianjur",
+    "warning": [
+      "II Warungkondang",
+      "II Cibeber",
+      "II Gekbrong",
+      "II Cilaku"
+    ]
+  },
+  {
     "waktu": "04/12/2022 05:01:02 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.06 BT",
@@ -264,17 +278,6 @@
     "wilayah": "Pusat gempa berada di darat 95 km timurlaut Kobakma",
     "warning": [
       "II-III Kobakma"
-    ]
-  },
-  {
-    "waktu": "29/11/2022 10:43:24 WIB",
-    "lintang": "1.94 LS",
-    "bujur": "136.13 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di laut 22 km barat daya Kep. Yapen",
-    "warning": [
-      "II - III Serui"
     ]
   }
 ]
