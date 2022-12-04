@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/12/2022 14:44:44 WIB",
+    "lintang": "4.49 LU",
+    "bujur": "96.58 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 33 km BaratDaya Takengon",
+    "warning": [
+      "II Simeulue"
+    ]
+  },
+  {
     "waktu": "04/12/2022 09:57:36 WIB",
     "lintang": "7.35 LS",
     "bujur": "108.25 BT",
@@ -267,17 +278,6 @@
       "II Warungkondang",
       "II Sukabumi",
       "II Cilaku"
-    ]
-  },
-  {
-    "waktu": "29/11/2022 18:18:17 WIB",
-    "lintang": "5.33 LS",
-    "bujur": "122.63 BT",
-    "magnitudo": "3",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km Timurlaut Buton Tengah",
-    "warning": [
-      "III Buton Tengah"
     ]
   }
 ]
