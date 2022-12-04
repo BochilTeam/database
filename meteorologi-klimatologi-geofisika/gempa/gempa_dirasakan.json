@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/12/2022 15:15:34 WIB",
+    "lintang": "2.18 LS",
+    "bujur": "125.39 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "207 Km",
+    "wilayah": "Pusat gempa berada di laut 67 km BaratDaya Sanana",
+    "warning": [
+      "III Taliabu"
+    ]
+  },
+  {
     "waktu": "04/12/2022 14:44:44 WIB",
     "lintang": "4.49 LU",
     "bujur": "96.58 BT",
@@ -261,23 +272,6 @@
     "wilayah": "Pusat gempa berada di laut 29 km barat daya Sinabang",
     "warning": [
       "III Simeulue"
-    ]
-  },
-  {
-    "waktu": "29/11/2022 20:57:25 WIB",
-    "lintang": "6.83 LS",
-    "bujur": "107.11 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km BaratDaya Cianjur",
-    "warning": [
-      "III Cianjur",
-      "III Cugenang",
-      "III Cibeber",
-      "III Karangtengah",
-      "II Warungkondang",
-      "II Sukabumi",
-      "II Cilaku"
     ]
   }
 ]
