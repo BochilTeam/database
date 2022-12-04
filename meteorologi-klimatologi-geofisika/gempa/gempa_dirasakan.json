@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/12/2022 09:57:36 WIB",
+    "lintang": "7.35 LS",
+    "bujur": "108.25 BT",
+    "magnitudo": "3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km Tenggara Kota Tasikmalaya",
+    "warning": [
+      "II-III Tasikmalaya"
+    ]
+  },
+  {
     "waktu": "04/12/2022 09:25:13 WIB",
     "lintang": "6.92 LS",
     "bujur": "107.1 BT",
@@ -267,17 +278,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km Timurlaut Buton Tengah",
     "warning": [
       "III Buton Tengah"
-    ]
-  },
-  {
-    "waktu": "29/11/2022 17:28:01 WIB",
-    "lintang": "2.88 LS",
-    "bujur": "139.41 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 95 km timurlaut Kobakma",
-    "warning": [
-      "II-III Kobakma"
     ]
   }
 ]
