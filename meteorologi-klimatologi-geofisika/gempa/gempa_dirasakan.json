@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "06/12/2022 04:42:05 WIB",
+    "lintang": "2.04 LU",
+    "bujur": "98.89 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km baratlaut Tapanuli Utara",
+    "warning": [
+      "III Tarutung",
+      "III Sipoholon"
+    ]
+  },
+  {
     "waktu": "06/12/2022 00:36:55 WIB",
     "lintang": "3.49 LS",
     "bujur": "135.62 BT",
@@ -246,19 +258,6 @@
     "wilayah": "Pusat gempa berada di darat 31 km TimurLaut Lombok Timur",
     "warning": [
       "II - III Lombok Timur"
-    ]
-  },
-  {
-    "waktu": "01/12/2022 14:29:19 WIB",
-    "lintang": "6.83 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 6 Km Barat Daya Kab. Cianjur",
-    "warning": [
-      "III Cugenang",
-      "II-III Pamoyanan",
-      "II Warung Kondang"
     ]
   }
 ]
