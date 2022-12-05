@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "06/12/2022 00:36:55 WIB",
+    "lintang": "3.49 LS",
+    "bujur": "135.62 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Darat 15 Km Barat Laut Nabire",
+    "warning": [
+      "III Nabire"
+    ]
+  },
+  {
     "waktu": "05/12/2022 11:31:47 WIB",
     "lintang": "2.33 LS",
     "bujur": "120.99 BT",
@@ -248,19 +259,6 @@
       "III Cugenang",
       "II-III Pamoyanan",
       "II Warung Kondang"
-    ]
-  },
-  {
-    "waktu": "01/12/2022 09:15:37 WIB",
-    "lintang": "3.86 LS",
-    "bujur": "122.66 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 6 km barat laut Kab. Konawe",
-    "warning": [
-      "IV Kendari",
-      "IV Konawe",
-      "III-IV Konawe Selatan"
     ]
   }
 ]
