@@ -1,5 +1,39 @@
 [
   {
+    "waktu": "05/12/2022 11:31:47 WIB",
+    "lintang": "2.33 LS",
+    "bujur": "120.99 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 34 Km Baratlaut Luwu Timur",
+    "warning": [
+      "III Malili",
+      "III Angkona"
+    ]
+  },
+  {
+    "waktu": "05/12/2022 11:06:02 WIB",
+    "lintang": "8.33 LS",
+    "bujur": "117.52 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 20 km TimurLaut Sumbawa",
+    "warning": [
+      "II - III Sumbawa"
+    ]
+  },
+  {
+    "waktu": "05/12/2022 09:22:53 WIB",
+    "lintang": "8.51 LS",
+    "bujur": "114.17 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 38 km Baratdaya Banyuwangi",
+    "warning": [
+      "II - III Banyuwangi"
+    ]
+  },
+  {
     "waktu": "05/12/2022 04:27:10 WIB",
     "lintang": "1.1 LU",
     "bujur": "97.21 BT",
@@ -227,51 +261,6 @@
       "IV Kendari",
       "IV Konawe",
       "III-IV Konawe Selatan"
-    ]
-  },
-  {
-    "waktu": "30/11/2022 22:24:34 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "107.09 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km baratdaya Kabupaten Cianjur",
-    "warning": [
-      "II-III Pacet",
-      "II Karangtengah",
-      "II Babakankaret",
-      "II Sukaresmi",
-      "II Cilaku",
-      "II Cipanas",
-      "II Cianjur",
-      "II Bojongherang"
-    ]
-  },
-  {
-    "waktu": "30/11/2022 17:33:25 WIB",
-    "lintang": "6.83 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km Barat Daya Kabupaten Cianjur",
-    "warning": [
-      "III Cugenang"
-    ]
-  },
-  {
-    "waktu": "30/11/2022 07:53:40 WIB",
-    "lintang": "6.83 LS",
-    "bujur": "107.09 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km BaratDaya Cianjur",
-    "warning": [
-      "III Cibodas",
-      "III Cimacan",
-      "III Bojongherang",
-      "II - III Cianjur",
-      "II Cibeureum",
-      "III-IV Cugenang"
     ]
   }
 ]
