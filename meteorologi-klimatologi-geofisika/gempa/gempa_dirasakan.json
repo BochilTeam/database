@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "06/12/2022 15:01:32 WIB",
+    "lintang": "0.08 LS",
+    "bujur": "123.23 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "132 Km",
+    "wilayah": "Pusat gempa berada di laut 72 km Selatan Gorontalo",
+    "warning": [
+      "II - III Bangai Laut",
+      "II - III Kota Gorontalo",
+      "II - III Kab. Gorontalo",
+      "II - III Kab. Bone Bolango"
+    ]
+  },
+  {
     "waktu": "06/12/2022 13:07:48 WIB",
     "lintang": "10.7 LS",
     "bujur": "113.42 BT",
@@ -261,17 +275,6 @@
     "wilayah": "Pusat gempa berada dilaut 103 Km Timur Laut Salakan",
     "warning": [
       "II-III Banggai Laut"
-    ]
-  },
-  {
-    "waktu": "02/12/2022 07:42:00 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "107.1 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km barat daya Kab. Cianjur",
-    "warning": [
-      "II Pamoyanan"
     ]
   }
 ]
