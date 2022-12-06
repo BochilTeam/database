@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "06/12/2022 13:07:48 WIB",
+    "lintang": "10.7 LS",
+    "bujur": "113.42 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada dilaut 284km Barat Daya Jember",
+    "warning": [
+      "III Jember",
+      "III Gubuk Mas",
+      "III Mataram",
+      "III Kepanjen",
+      "III Sumberpucung",
+      "II Madiun",
+      "II Ponorogo",
+      "II - III Kuta",
+      "II - III Kuta Selatan",
+      "II Bantul",
+      "II Yogyakarta",
+      "II Sawahan",
+      "II Klaten",
+      "II Banyuwangi",
+      "II Karangasem"
+    ]
+  },
+  {
     "waktu": "06/12/2022 04:42:05 WIB",
     "lintang": "2.04 LU",
     "bujur": "98.89 BT",
@@ -247,17 +272,6 @@
     "wilayah": "Pusat gempa berada di darat 4 km barat daya Kab. Cianjur",
     "warning": [
       "II Pamoyanan"
-    ]
-  },
-  {
-    "waktu": "01/12/2022 16:41:20 WIB",
-    "lintang": "8.37 LS",
-    "bujur": "116.57 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 31 km TimurLaut Lombok Timur",
-    "warning": [
-      "II - III Lombok Timur"
     ]
   }
 ]

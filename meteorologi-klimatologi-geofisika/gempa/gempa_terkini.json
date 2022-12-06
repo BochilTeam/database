@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06-12-22 13:07:48 WIB",
+    "lintang": "-10.75",
+    "bujur": "113.42",
+    "magnitudo": "6.2",
+    "kedalaman": "10 Km",
+    "wilayah": "284 km BaratDaya JEMBER-JATIM"
+  },
+  {
     "waktu": "03-12-22 16:49:41 WIB",
     "lintang": "-7.51",
     "bujur": "107.52",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "58 Km",
     "wilayah": "33 km BaratDaya MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "04-11-22 04:29:49 WIB",
-    "lintang": "0.58",
-    "bujur": "126.68",
-    "magnitudo": "5.0",
-    "kedalaman": "35 Km",
-    "wilayah": "79 km BaratDaya TERNATE-MALUT"
   }
 ]
