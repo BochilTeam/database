@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/12/2022 17:24:33 WIB",
+    "lintang": "3.66 LS",
+    "bujur": "133.82 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 44 km BaratDaya Kaimana",
+    "warning": [
+      "II - III Kaimana"
+    ]
+  },
+  {
     "waktu": "06/12/2022 17:22:05 WIB",
     "lintang": "10.5 LS",
     "bujur": "113.41 BT",
@@ -267,17 +278,6 @@
       "II-III Garut",
       "II Ciamis",
       "II Banjar"
-    ]
-  },
-  {
-    "waktu": "02/12/2022 16:57:50 WIB",
-    "lintang": "1.41 LS",
-    "bujur": "134.19 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada didarat 9 Km Timur Laut Ransiki",
-    "warning": [
-      "II Ransiki"
     ]
   }
 ]
