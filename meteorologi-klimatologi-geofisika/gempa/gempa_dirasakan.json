@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/12/2022 15:56:16 WIB",
+    "lintang": "3.7 LS",
+    "bujur": "128.09 BT",
+    "magnitudo": "3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 49 km BaratDaya Kairatu",
+    "warning": [
+      "II Ambon"
+    ]
+  },
+  {
     "waktu": "08/12/2022 11:58:55 WIB",
     "lintang": "2.47 LS",
     "bujur": "139.33 BT",
@@ -252,17 +263,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km Tenggara Kota Tasikmalaya",
     "warning": [
       "II Tasikmalaya"
-    ]
-  },
-  {
-    "waktu": "04/12/2022 04:34:49 WIB",
-    "lintang": "7.39 LS",
-    "bujur": "108.23 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km Tenggara Kota Tasikmalaya",
-    "warning": [
-      "II - III Tasikmalaya"
     ]
   }
 ]
