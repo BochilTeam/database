@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08-12-22 07:50:57 WIB",
+    "lintang": "-7.11",
+    "bujur": "106.99",
+    "magnitudo": "5.8",
+    "kedalaman": "104 Km",
+    "wilayah": "22 km Tenggara KOTA-SUKABUMI-JABAR"
+  },
+  {
     "waktu": "06-12-22 17:22:05 WIB",
     "lintang": "-10.58",
     "bujur": "113.41",
@@ -230,13 +238,5 @@
     "magnitudo": "6.1",
     "kedalaman": "255 Km",
     "wilayah": "69 km BaratDaya ONDONG-KEP.SITARO-SULUT"
-  },
-  {
-    "waktu": "05-11-22 22:35:10 WIB",
-    "lintang": "3.48",
-    "bujur": "126.96",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "65 km Tenggara MELONGUANE-SULUT"
   }
 ]

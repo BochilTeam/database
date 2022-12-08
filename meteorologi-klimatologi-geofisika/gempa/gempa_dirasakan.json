@@ -1,5 +1,31 @@
 [
   {
+    "waktu": "08/12/2022 07:50:57 WIB",
+    "lintang": "7.11 LS",
+    "bujur": "106.99 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "104 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km Tenggara Kota Sukabumi",
+    "warning": [
+      "IV Rancaekek",
+      "III Lembang",
+      "III Bogor",
+      "III Bandung",
+      "III Pangandaran",
+      "III Padalarang",
+      "III Pamoyanan",
+      "III Sumedang",
+      "III Cianjur",
+      "II Cisolok",
+      "II Sumur",
+      "II Sukabumi",
+      "II Jakarta Selatan",
+      "II Garut",
+      "II Bekasi",
+      "II Tangerang Selatan"
+    ]
+  },
+  {
     "waktu": "07/12/2022 17:24:33 WIB",
     "lintang": "3.66 LS",
     "bujur": "133.82 BT",
@@ -263,21 +289,6 @@
       "II Wonosobo",
       "II Karangkates",
       "II Trenggalek"
-    ]
-  },
-  {
-    "waktu": "03/12/2022 03:37:21 WIB",
-    "lintang": "8.11 LS",
-    "bujur": "107.92 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "26 Km",
-    "wilayah": "Pusat gempa berada di laut 78 km baratdaya Pangandaran",
-    "warning": [
-      "III Pangandaran",
-      "II-III Tasikmalaya",
-      "II-III Garut",
-      "II Ciamis",
-      "II Banjar"
     ]
   }
 ]
