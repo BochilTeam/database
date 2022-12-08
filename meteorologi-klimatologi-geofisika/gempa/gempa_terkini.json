@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08-12-22 11:58:55 WIB",
+    "lintang": "-2.47",
+    "bujur": "139.33",
+    "magnitudo": "5.1",
+    "kedalaman": "11 Km",
+    "wilayah": "14 km Tenggara SARMI-PAPUA"
+  },
+  {
     "waktu": "08-12-22 07:50:57 WIB",
     "lintang": "-7.11",
     "bujur": "106.99",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "338 km BaratDaya JEMBER-JATIM"
-  },
-  {
-    "waktu": "06-11-22 07:03:14 WIB",
-    "lintang": "2.46",
-    "bujur": "124.80",
-    "magnitudo": "6.1",
-    "kedalaman": "255 Km",
-    "wilayah": "69 km BaratDaya ONDONG-KEP.SITARO-SULUT"
   }
 ]

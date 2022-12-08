@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "08/12/2022 11:58:55 WIB",
+    "lintang": "2.47 LS",
+    "bujur": "139.33 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km tenggara Sarmi",
+    "warning": [
+      "III Sarmi",
+      "II-III Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "08/12/2022 09:49:14 WIB",
     "lintang": "8.99 LS",
     "bujur": "110.73 BT",
@@ -251,18 +263,6 @@
     "wilayah": "Pusat gempa berada di darat 9 km Tenggara Kota Tasikmalaya",
     "warning": [
       "II - III Tasikmalaya"
-    ]
-  },
-  {
-    "waktu": "03/12/2022 18:26:35 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km BaratDaya Kab-Cianjur",
-    "warning": [
-      "II - III Cianjur",
-      "II - III Pamoyanan"
     ]
   }
 ]
