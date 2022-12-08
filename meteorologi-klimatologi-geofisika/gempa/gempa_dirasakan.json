@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "08/12/2022 09:49:14 WIB",
+    "lintang": "8.99 LS",
+    "bujur": "110.73 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "61 Km",
+    "wilayah": "Pusat gempa berada di laut 99 km BaratDaya Pacitan",
+    "warning": [
+      "II Pacitan",
+      "II Trenggalek",
+      "II Bantul"
+    ]
+  },
+  {
     "waktu": "08/12/2022 07:50:57 WIB",
     "lintang": "7.11 LS",
     "bujur": "106.99 BT",
@@ -250,46 +263,6 @@
     "warning": [
       "II - III Cianjur",
       "II - III Pamoyanan"
-    ]
-  },
-  {
-    "waktu": "03/12/2022 16:49:41 WIB",
-    "lintang": "7.51 LS",
-    "bujur": "107.52 BT",
-    "magnitudo": "6.4",
-    "kedalaman": "118 Km",
-    "wilayah": "Pusat gempa berada di darat 52 km BaratDaya Kab-Garut",
-    "warning": [
-      "IV Garut",
-      "III Ciamis",
-      "III Kalapanunggal",
-      "III Sumur",
-      "III Tasikmalaya",
-      "II - III Pamoyanan",
-      "II - III Panimbang",
-      "III Soreang",
-      "III Kopo",
-      "II - III Sumedang",
-      "II - III Lembang",
-      "II - III Cikeusik",
-      "II - III Labuan",
-      "II - III Purworejo",
-      "II - III Bantul",
-      "II - III Kulon Progo",
-      "II - III Kebumen",
-      "II Cikembar",
-      "II Pelabuhan Ratu",
-      "II Cugenang",
-      "II Bandung",
-      "II Bogor",
-      "II Cilacap",
-      "II Sawarna",
-      "II Cireunghas",
-      "II Bojong",
-      "II Yogyakarta",
-      "II Wonosobo",
-      "II Karangkates",
-      "II Trenggalek"
     ]
   }
 ]
