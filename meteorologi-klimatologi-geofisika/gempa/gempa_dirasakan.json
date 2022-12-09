@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "09/12/2022 13:55:31 WIB",
+    "lintang": "6.08 LS",
+    "bujur": "104.26 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "49 Km",
+    "wilayah": "Pusat gempa berada di laut 81 km BaratDaya Tanggamus",
+    "warning": [
+      "II - III Tanggamus",
+      "II Liwa"
+    ]
+  },
+  {
     "waktu": "09/12/2022 07:32:26 WIB",
     "lintang": "0.42 LU",
     "bujur": "122.17 BT",
@@ -248,20 +260,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km Tenggara Kota Tasikmalaya",
     "warning": [
       "II-III Tasikmalaya"
-    ]
-  },
-  {
-    "waktu": "04/12/2022 09:25:13 WIB",
-    "lintang": "6.92 LS",
-    "bujur": "107.1 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km BaratDaya Kab. Cianjur",
-    "warning": [
-      "II Warungkondang",
-      "II Cibeber",
-      "II Gekbrong",
-      "II Cilaku"
     ]
   }
 ]
