@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "09/12/2022 07:32:26 WIB",
+    "lintang": "0.42 LU",
+    "bujur": "122.17 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "98 Km",
+    "wilayah": "Pusat gempa berada di laut 23 km barat daya Boalemo",
+    "warning": [
+      "II Kota Gorontalo",
+      "II Kab. Gorontalo"
+    ]
+  },
+  {
+    "waktu": "09/12/2022 04:30:13 WIB",
+    "lintang": "4.72 LS",
+    "bujur": "122.07 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 6,5 km TimurLaut Rumbia, Kab. Bombana",
+    "warning": [
+      "II-III Bombana"
+    ]
+  },
+  {
     "waktu": "08/12/2022 15:56:16 WIB",
     "lintang": "3.7 LS",
     "bujur": "128.09 BT",
@@ -239,30 +262,6 @@
       "II Cibeber",
       "II Gekbrong",
       "II Cilaku"
-    ]
-  },
-  {
-    "waktu": "04/12/2022 05:01:02 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.06 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Kab-Cianjur",
-    "warning": [
-      "III Cianjur",
-      "III Sukabumi",
-      "II - III Pamoyanan"
-    ]
-  },
-  {
-    "waktu": "04/12/2022 04:39:54 WIB",
-    "lintang": "7.38 LS",
-    "bujur": "108.23 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Kota Tasikmalaya",
-    "warning": [
-      "II Tasikmalaya"
     ]
   }
 ]
