@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/12/2022 04:40:02 WIB",
+    "lintang": "2.09 LU",
+    "bujur": "98.97 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km TimurLaut Tapanuli Utara",
+    "warning": [
+      "IV - V Sipoholon"
+    ]
+  },
+  {
     "waktu": "10/12/2022 16:43:41 WIB",
     "lintang": "5.12 LU",
     "bujur": "95.98 BT",
@@ -250,17 +261,6 @@
     "wilayah": "Pusat gempa berada di laut 67 km BaratDaya Sanana",
     "warning": [
       "III Taliabu"
-    ]
-  },
-  {
-    "waktu": "04/12/2022 14:44:44 WIB",
-    "lintang": "4.49 LU",
-    "bujur": "96.58 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 33 km BaratDaya Takengon",
-    "warning": [
-      "II Simeulue"
     ]
   }
 ]
