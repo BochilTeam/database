@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "11/12/2022 09:28:44 WIB",
+    "lintang": "1.5 LU",
+    "bujur": "128.24 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 34 Km Barat Laut Halmahera Timur",
+    "warning": [
+      "II-III Halmahera Barat",
+      "II - III Halmahera Utara",
+      "II - III Morotai"
+    ]
+  },
+  {
     "waktu": "11/12/2022 06:39:21 WIB",
     "lintang": "6.8 LS",
     "bujur": "107.12 BT",
@@ -255,17 +268,6 @@
     "wilayah": "Pusat gempa berada di darat 38 km Baratdaya Banyuwangi",
     "warning": [
       "II - III Banyuwangi"
-    ]
-  },
-  {
-    "waktu": "05/12/2022 04:27:10 WIB",
-    "lintang": "1.1 LU",
-    "bujur": "97.21 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di laut 30 km barat laut Nias Barat",
-    "warning": [
-      "III Sirombu"
     ]
   }
 ]
