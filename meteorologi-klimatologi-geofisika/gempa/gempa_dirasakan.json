@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "11/12/2022 06:39:21 WIB",
+    "lintang": "6.8 LS",
+    "bujur": "107.12 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "28 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km BaratLaut Kab. Cianjur",
+    "warning": [
+      "II Pacet",
+      "II Cianjur",
+      "II Cugenang",
+      "II Sarampad",
+      "II Sukaresmi"
+    ]
+  },
+  {
     "waktu": "11/12/2022 04:40:02 WIB",
     "lintang": "2.09 LU",
     "bujur": "98.97 BT",
@@ -7,7 +22,8 @@
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di darat 8 km TimurLaut Tapanuli Utara",
     "warning": [
-      "IV - V Sipoholon"
+      "IV - V Sipoholon",
+      "IV Tarutung"
     ]
   },
   {
@@ -250,17 +266,6 @@
     "wilayah": "Pusat gempa berada di laut 30 km barat laut Nias Barat",
     "warning": [
       "III Sirombu"
-    ]
-  },
-  {
-    "waktu": "04/12/2022 15:15:34 WIB",
-    "lintang": "2.18 LS",
-    "bujur": "125.39 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "207 Km",
-    "wilayah": "Pusat gempa berada di laut 67 km BaratDaya Sanana",
-    "warning": [
-      "III Taliabu"
     ]
   }
 ]
