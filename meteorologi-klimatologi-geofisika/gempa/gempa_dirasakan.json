@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "11/12/2022 23:13:10 WIB",
+    "lintang": "8.88 LS",
+    "bujur": "111.44 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di Laut 86 Km Tenggara Pacitan",
+    "warning": [
+      "II Sleman",
+      "III Trenggalek",
+      "III Pacitan"
+    ]
+  },
+  {
     "waktu": "11/12/2022 09:28:44 WIB",
     "lintang": "1.5 LU",
     "bujur": "128.24 BT",
@@ -258,17 +271,6 @@
     "wilayah": "Pusat gempa berada di darat 20 km TimurLaut Sumbawa",
     "warning": [
       "II - III Sumbawa"
-    ]
-  },
-  {
-    "waktu": "05/12/2022 09:22:53 WIB",
-    "lintang": "8.51 LS",
-    "bujur": "114.17 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 38 km Baratdaya Banyuwangi",
-    "warning": [
-      "II - III Banyuwangi"
     ]
   }
 ]
