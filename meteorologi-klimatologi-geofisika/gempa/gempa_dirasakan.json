@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "13/12/2022 05:10:05 WIB",
+    "lintang": "3.16 LS",
+    "bujur": "129.1 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "40 Km",
+    "wilayah": "Pusat gempa berada di darat 16 Km Timurlaut Masohi Maluku Tenggara",
+    "warning": [
+      "III Ambon",
+      "III Masohi",
+      "III Saparua",
+      "III Amahai"
+    ]
+  },
+  {
     "waktu": "12/12/2022 15:38:15 WIB",
     "lintang": "1.07 LU",
     "bujur": "127.92 BT",
@@ -263,18 +277,6 @@
     "wilayah": "Pusat gempa berada di Darat 15 Km Barat Laut Nabire",
     "warning": [
       "III Nabire"
-    ]
-  },
-  {
-    "waktu": "05/12/2022 11:31:47 WIB",
-    "lintang": "2.33 LS",
-    "bujur": "120.99 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 34 Km Baratlaut Luwu Timur",
-    "warning": [
-      "III Malili",
-      "III Angkona"
     ]
   }
 ]

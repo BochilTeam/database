@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-12-22 05:10:05 WIB",
+    "lintang": "-3.16",
+    "bujur": "129.10",
+    "magnitudo": "5.1",
+    "kedalaman": "40 Km",
+    "wilayah": "22 km TimurLaut MALUKUTENGAH"
+  },
+  {
     "waktu": "11-12-22 09:28:44 WIB",
     "lintang": "1.50",
     "bujur": "128.24",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "105 km TimurLaut DARUBA-MALUT"
-  },
-  {
-    "waktu": "11-11-22 18:39:31 WIB",
-    "lintang": "-3.68",
-    "bujur": "100.60",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "135 km BaratDaya MUKOMUKO-BENGKULU"
   }
 ]
