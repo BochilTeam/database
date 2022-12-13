@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/12/2022 12:50:39 WIB",
+    "lintang": "4.36 LS",
+    "bujur": "129.9 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 117 km Selatan Tehoru",
+    "warning": [
+      "II Banda"
+    ]
+  },
+  {
     "waktu": "13/12/2022 08:56:26 WIB",
     "lintang": "4.8 LU",
     "bujur": "96.15 BT",
@@ -265,18 +276,6 @@
       "II Klaten",
       "II Banyuwangi",
       "II Karangasem"
-    ]
-  },
-  {
-    "waktu": "06/12/2022 04:42:05 WIB",
-    "lintang": "2.04 LU",
-    "bujur": "98.89 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km baratlaut Tapanuli Utara",
-    "warning": [
-      "III Tarutung",
-      "III Sipoholon"
     ]
   }
 ]
