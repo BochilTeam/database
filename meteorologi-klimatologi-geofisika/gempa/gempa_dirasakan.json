@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/12/2022 03:17:22 WIB",
+    "lintang": "8.18 LS",
+    "bujur": "115.59 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 20 km timurlaut Karangasem",
+    "warning": [
+      "II Karangasem"
+    ]
+  },
+  {
     "waktu": "13/12/2022 22:32:53 WIB",
     "lintang": "8.23 LS",
     "bujur": "115.58 BT",
@@ -252,17 +263,6 @@
     "wilayah": "Pusat gempa berada di laut 6,5 km TimurLaut Rumbia, Kab. Bombana",
     "warning": [
       "II-III Bombana"
-    ]
-  },
-  {
-    "waktu": "08/12/2022 15:56:16 WIB",
-    "lintang": "3.7 LS",
-    "bujur": "128.09 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 49 km BaratDaya Kairatu",
-    "warning": [
-      "II Ambon"
     ]
   }
 ]
