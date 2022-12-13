@@ -70,6 +70,17 @@
     ]
   },
   {
+    "waktu": "13/12/2022 16:28:49 WIB",
+    "lintang": "8.14 LS",
+    "bujur": "107.89 BT",
+    "magnitudo": "4",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di laut 82 km BaratDaya Pangandaran",
+    "warning": [
+      "I-II Pangandaran"
+    ]
+  },
+  {
     "waktu": "13/12/2022 12:50:39 WIB",
     "lintang": "4.36 LS",
     "bujur": "129.9 BT",
@@ -255,33 +266,6 @@
       "II Pacitan",
       "II Trenggalek",
       "II Bantul"
-    ]
-  },
-  {
-    "waktu": "08/12/2022 07:50:57 WIB",
-    "lintang": "7.11 LS",
-    "bujur": "106.99 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "104 Km",
-    "wilayah": "Pusat gempa berada di darat 22 km Tenggara Kota Sukabumi",
-    "warning": [
-      "IV Rancaekek",
-      "III Lembang",
-      "III Bogor",
-      "III Bandung",
-      "III Pangandaran",
-      "III Padalarang",
-      "III Pamoyanan",
-      "III Sumedang",
-      "III Cianjur",
-      "II Cisolok",
-      "II Sumur",
-      "II Sukabumi",
-      "II DKI Jakarta",
-      "II Garut",
-      "II Bekasi",
-      "II Tangerang Selatan",
-      "II Bandar Lampung"
     ]
   }
 ]
