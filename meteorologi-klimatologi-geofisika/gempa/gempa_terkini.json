@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-12-22 17:38:24 WIB",
+    "lintang": "-8.16",
+    "bujur": "115.62",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "23 km TimurLaut KARANGASEM-BALI"
+  },
+  {
     "waktu": "13-12-22 05:10:05 WIB",
     "lintang": "-3.16",
     "bujur": "129.10",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 Km",
     "wilayah": "48 km BaratLaut BOROKO-BOLMUT-SULUT"
-  },
-  {
-    "waktu": "12-11-22 17:48:01 WIB",
-    "lintang": "2.13",
-    "bujur": "129.24",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "105 km TimurLaut DARUBA-MALUT"
   }
 ]
