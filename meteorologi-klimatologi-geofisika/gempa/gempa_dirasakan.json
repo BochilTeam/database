@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/12/2022 08:56:26 WIB",
+    "lintang": "4.8 LU",
+    "bujur": "96.15 BT",
+    "magnitudo": "3",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 25 km BaratDaya Pidie Jaya",
+    "warning": [
+      "II Pidie"
+    ]
+  },
+  {
     "waktu": "13/12/2022 05:10:05 WIB",
     "lintang": "3.16 LS",
     "bujur": "129.1 BT",
@@ -266,17 +277,6 @@
     "warning": [
       "III Tarutung",
       "III Sipoholon"
-    ]
-  },
-  {
-    "waktu": "06/12/2022 00:36:55 WIB",
-    "lintang": "3.49 LS",
-    "bujur": "135.62 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Darat 15 Km Barat Laut Nabire",
-    "warning": [
-      "III Nabire"
     ]
   }
 ]
