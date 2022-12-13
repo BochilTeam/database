@@ -1,5 +1,24 @@
 [
   {
+    "waktu": "13/12/2022 16:56:41 WIB",
+    "lintang": "8.19 LS",
+    "bujur": "115.62 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 20 km TimurLaut Karangasem",
+    "warning": [
+      "IV Karangasem",
+      "IV Denpasar",
+      "III Tabanan",
+      "III Mataram",
+      "III Lombok Utara",
+      "III Lombok Tengah",
+      "III Lombok Barat",
+      "II Gianyar",
+      "II Kuta"
+    ]
+  },
+  {
     "waktu": "13/12/2022 12:50:39 WIB",
     "lintang": "4.36 LS",
     "bujur": "129.9 BT",
@@ -251,31 +270,6 @@
       "II - III Kota Gorontalo",
       "II - III Kab. Gorontalo",
       "II - III Kab. Bone Bolango"
-    ]
-  },
-  {
-    "waktu": "06/12/2022 13:07:48 WIB",
-    "lintang": "10.7 LS",
-    "bujur": "113.42 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada dilaut 284km Barat Daya Jember",
-    "warning": [
-      "III Jember",
-      "III Gubuk Mas",
-      "III Mataram",
-      "III Kepanjen",
-      "III Sumberpucung",
-      "II Madiun",
-      "II Ponorogo",
-      "II - III Kuta",
-      "II - III Kuta Selatan",
-      "II Bantul",
-      "II Yogyakarta",
-      "II Sawahan",
-      "II Klaten",
-      "II Banyuwangi",
-      "II Karangasem"
     ]
   }
 ]
