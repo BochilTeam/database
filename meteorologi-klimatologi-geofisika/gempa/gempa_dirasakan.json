@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "13/12/2022 22:32:53 WIB",
+    "lintang": "8.23 LS",
+    "bujur": "115.58 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 14 km timur laut Karangasem",
+    "warning": [
+      "II Karangasem"
+    ]
+  },
+  {
+    "waktu": "13/12/2022 20:09:22 WIB",
+    "lintang": "6.8 LS",
+    "bujur": "107.09 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km barat laut Kab. Cianjur",
+    "warning": [
+      "I-II Cianjur"
+    ]
+  },
+  {
     "waktu": "13/12/2022 18:23:47 WIB",
     "lintang": "8.22 LS",
     "bujur": "115.59 BT",
@@ -241,31 +263,6 @@
     "wilayah": "Pusat gempa berada di darat 49 km BaratDaya Kairatu",
     "warning": [
       "II Ambon"
-    ]
-  },
-  {
-    "waktu": "08/12/2022 11:58:55 WIB",
-    "lintang": "2.47 LS",
-    "bujur": "139.33 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km tenggara Sarmi",
-    "warning": [
-      "III Sarmi",
-      "II-III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "08/12/2022 09:49:14 WIB",
-    "lintang": "8.99 LS",
-    "bujur": "110.73 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "61 Km",
-    "wilayah": "Pusat gempa berada di laut 99 km BaratDaya Pacitan",
-    "warning": [
-      "II Pacitan",
-      "II Trenggalek",
-      "II Bantul"
     ]
   }
 ]
