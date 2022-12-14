@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/12/2022 19:58:22 WIB",
+    "lintang": "7.5 LS",
+    "bujur": "106.76 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di laut 61 km Tenggara Kab. Sukabumi",
+    "warning": [
+      "II - III Sukabumi"
+    ]
+  },
+  {
     "waktu": "14/12/2022 18:13:40 WIB",
     "lintang": "8.22 LS",
     "bujur": "115.59 BT",
@@ -262,21 +273,6 @@
       "II - III Halmahera Utara",
       "II - III Morotai",
       "III Halmahera Timur"
-    ]
-  },
-  {
-    "waktu": "11/12/2022 06:39:21 WIB",
-    "lintang": "6.8 LS",
-    "bujur": "107.12 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "28 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km BaratLaut Kab. Cianjur",
-    "warning": [
-      "II Pacet",
-      "II Cianjur",
-      "II Cugenang",
-      "II Sarampad",
-      "II Sukaresmi"
     ]
   }
 ]
