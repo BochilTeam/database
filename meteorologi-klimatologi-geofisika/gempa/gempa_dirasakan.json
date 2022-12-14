@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/12/2022 05:09:28 WIB",
+    "lintang": "9.44 LS",
+    "bujur": "120.47 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "59 Km",
+    "wilayah": "Pusat gempa berada di laut 33 km TimurLaut Waingapu",
+    "warning": [
+      "II Waingapu"
+    ]
+  },
+  {
     "waktu": "14/12/2022 03:17:22 WIB",
     "lintang": "8.18 LS",
     "bujur": "115.59 BT",
@@ -252,17 +263,6 @@
     "warning": [
       "II Kota Gorontalo",
       "II Kab. Gorontalo"
-    ]
-  },
-  {
-    "waktu": "09/12/2022 04:30:13 WIB",
-    "lintang": "4.72 LS",
-    "bujur": "122.07 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 6,5 km TimurLaut Rumbia, Kab. Bombana",
-    "warning": [
-      "II-III Bombana"
     ]
   }
 ]
