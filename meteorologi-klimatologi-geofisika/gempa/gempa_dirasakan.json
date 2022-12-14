@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/12/2022 23:13:38 WIB",
+    "lintang": "3.72 LS",
+    "bujur": "127.9 BT",
+    "magnitudo": "3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 31 km barat Ambon",
+    "warning": [
+      "II Hative Besar"
+    ]
+  },
+  {
     "waktu": "14/12/2022 19:58:22 WIB",
     "lintang": "7.5 LS",
     "bujur": "106.76 BT",
@@ -259,20 +270,6 @@
       "II Sleman",
       "III Trenggalek",
       "III Pacitan"
-    ]
-  },
-  {
-    "waktu": "11/12/2022 09:28:44 WIB",
-    "lintang": "1.5 LU",
-    "bujur": "128.24 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 34 Km Barat Laut Halmahera Timur",
-    "warning": [
-      "II-III Halmahera Barat",
-      "II - III Halmahera Utara",
-      "II - III Morotai",
-      "III Halmahera Timur"
     ]
   }
 ]
