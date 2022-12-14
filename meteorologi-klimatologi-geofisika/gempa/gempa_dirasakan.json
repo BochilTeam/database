@@ -1,5 +1,43 @@
 [
   {
+    "waktu": "14/12/2022 14:40:18 WIB",
+    "lintang": "8.24 LS",
+    "bujur": "115.58 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 13 km TimurLaut Karangasem",
+    "warning": [
+      "III Karangasem",
+      "II Denpasar",
+      "II Gianyar",
+      "II Kuta",
+      "II Klungkung",
+      "II Tejakula",
+      "II Mataram",
+      "II Lombok Barat",
+      "II Lombok Utara"
+    ]
+  },
+  {
+    "waktu": "14/12/2022 14:39:29 WIB",
+    "lintang": "8.22 LS",
+    "bujur": "115.57 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut TimurLaut Karangasem",
+    "warning": [
+      "III Karangasem",
+      "II - III Mataram",
+      "II - III Lombok Barat",
+      "II Denpasar",
+      "II Gianyar",
+      "II Klungkung",
+      "II Kuta",
+      "II Tejakula",
+      "II Lombok Utara"
+    ]
+  },
+  {
     "waktu": "14/12/2022 05:09:28 WIB",
     "lintang": "9.44 LS",
     "bujur": "120.47 BT",
@@ -239,30 +277,6 @@
     "warning": [
       "II - III Pidie",
       "II - III Pidie Jaya"
-    ]
-  },
-  {
-    "waktu": "09/12/2022 13:55:31 WIB",
-    "lintang": "6.08 LS",
-    "bujur": "104.26 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "49 Km",
-    "wilayah": "Pusat gempa berada di laut 81 km BaratDaya Tanggamus",
-    "warning": [
-      "II - III Tanggamus",
-      "II Liwa"
-    ]
-  },
-  {
-    "waktu": "09/12/2022 07:32:26 WIB",
-    "lintang": "0.42 LU",
-    "bujur": "122.17 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "98 Km",
-    "wilayah": "Pusat gempa berada di laut 23 km barat daya Boalemo",
-    "warning": [
-      "II Kota Gorontalo",
-      "II Kab. Gorontalo"
     ]
   }
 ]
