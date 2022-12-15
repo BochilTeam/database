@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "15/12/2022 16:45:54 WIB",
+    "lintang": "8.23 LS",
+    "bujur": "115.57 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 14 km Timurlaut Karangasem",
+    "warning": [
+      "II - III Karangasem",
+      "II Lombok Barat"
+    ]
+  },
+  {
+    "waktu": "15/12/2022 15:13:21 WIB",
+    "lintang": "8.22 LS",
+    "bujur": "115.61 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 17 km TimurLaut Karangasem",
+    "warning": [
+      "II Karangasem",
+      "II Tejakula"
+    ]
+  },
+  {
     "waktu": "15/12/2022 10:31:09 WIB",
     "lintang": "2.88 LU",
     "bujur": "127.5 BT",
@@ -239,35 +263,6 @@
     "wilayah": "Pusat gempa berada di darat 25 km BaratDaya Pidie Jaya",
     "warning": [
       "II Pidie"
-    ]
-  },
-  {
-    "waktu": "13/12/2022 05:10:05 WIB",
-    "lintang": "3.16 LS",
-    "bujur": "129.1 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "40 Km",
-    "wilayah": "Pusat gempa berada di darat 16 Km Timurlaut Masohi Maluku Tenggara",
-    "warning": [
-      "III Ambon",
-      "III Masohi",
-      "III Saparua",
-      "III Amahai"
-    ]
-  },
-  {
-    "waktu": "12/12/2022 15:38:15 WIB",
-    "lintang": "1.07 LU",
-    "bujur": "127.92 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 48 Km Tenggara Halmahera Barat",
-    "warning": [
-      "III Halmahera Tengah",
-      "III Halmahera Timur",
-      "III Halmahera Utara",
-      "II - III Halmahera Barat",
-      "II - III Ternate"
     ]
   }
 ]
