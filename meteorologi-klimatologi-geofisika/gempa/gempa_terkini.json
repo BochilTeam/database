@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15-12-22 10:31:09 WIB",
+    "lintang": "2.88",
+    "bujur": "127.50",
+    "magnitudo": "5.0",
+    "kedalaman": "13 Km",
+    "wilayah": "127 km BaratLaut DARUBA-MALUT"
+  },
+  {
     "waktu": "13-12-22 17:38:24 WIB",
     "lintang": "-8.16",
     "bujur": "115.62",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "122 km BaratDaya KAB-GARUT-JABAR"
-  },
-  {
-    "waktu": "12-11-22 18:01:40 WIB",
-    "lintang": "1.35",
-    "bujur": "123.26",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "48 km BaratLaut BOROKO-BOLMUT-SULUT"
   }
 ]
