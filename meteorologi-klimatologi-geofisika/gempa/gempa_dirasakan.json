@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/12/2022 10:00:35 WIB",
+    "lintang": "3.93 LS",
+    "bujur": "122.43 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 0.6 km TimurLaut Morosi",
+    "warning": [
+      "II Konawe Selatan"
+    ]
+  },
+  {
     "waktu": "16/12/2022 05:47:11 WIB",
     "lintang": "6.91 LS",
     "bujur": "105.35 BT",
@@ -253,17 +264,6 @@
     "wilayah": "Pusat gempa berada di laut 82 km BaratDaya Pangandaran",
     "warning": [
       "I-II Pangandaran"
-    ]
-  },
-  {
-    "waktu": "13/12/2022 12:50:39 WIB",
-    "lintang": "4.36 LS",
-    "bujur": "129.9 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 117 km Selatan Tehoru",
-    "warning": [
-      "II Banda"
     ]
   }
 ]
