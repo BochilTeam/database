@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16-12-22 12:02:17 WIB",
+    "lintang": "-7.39",
+    "bujur": "129.66",
+    "magnitudo": "5.0",
+    "kedalaman": "170 Km",
+    "wilayah": "194 km BaratLaut MALUKUTENGGARABRT"
+  },
+  {
     "waktu": "15-12-22 10:31:09 WIB",
     "lintang": "2.88",
     "bujur": "127.50",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 Km",
     "wilayah": "148 km BaratDaya CILACAP-JATENG"
-  },
-  {
-    "waktu": "12-11-22 20:18:45 WIB",
-    "lintang": "-8.18",
-    "bujur": "107.36",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "122 km BaratDaya KAB-GARUT-JABAR"
   }
 ]
