@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18-12-22 01:28:28 WIB",
+    "lintang": "-11.30",
+    "bujur": "117.82",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "229 km BaratDaya KODI-SUMBABARATDAYA-NTT"
+  },
+  {
     "waktu": "17-12-22 04:50:50 WIB",
     "lintang": "-6.25",
     "bujur": "105.04",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "49 Km",
     "wilayah": "65 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
-  },
-  {
-    "waktu": "15-11-22 14:03:19 WIB",
-    "lintang": "-6.28",
-    "bujur": "129.10",
-    "magnitudo": "5.2",
-    "kedalaman": "249 Km",
-    "wilayah": "253 km TimurLaut MALUKUBRTDAYA"
   }
 ]
