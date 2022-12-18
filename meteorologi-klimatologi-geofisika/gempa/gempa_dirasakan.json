@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "18/12/2022 23:55:23 WIB",
+    "lintang": "2.09 LU",
+    "bujur": "98.94 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Tapanuli Utara",
+    "warning": [
+      "III Sipoholon",
+      "III Tarutung"
+    ]
+  },
+  {
     "waktu": "18/12/2022 09:59:13 WIB",
     "lintang": "8.22 LS",
     "bujur": "116.47 BT",
@@ -240,25 +252,6 @@
       "II Denpasar",
       "II Gianyar",
       "II Lombok Tengah"
-    ]
-  },
-  {
-    "waktu": "13/12/2022 17:38:24 WIB",
-    "lintang": "8.16 LS",
-    "bujur": "115.62 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 23 km timur laut Karangasem",
-    "warning": [
-      "III-IV Karangasem",
-      "III Mataram",
-      "III Lombok Utara",
-      "III Lombok Tengah",
-      "III Lombok Barat",
-      "II Tabanan",
-      "II Kuta",
-      "II Buleleng",
-      "II Lombok Timur"
     ]
   }
 ]
