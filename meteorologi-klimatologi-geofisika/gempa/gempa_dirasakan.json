@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/12/2022 09:59:13 WIB",
+    "lintang": "8.22 LS",
+    "bujur": "116.47 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 37 km TimurLaut Lombok Utara",
+    "warning": [
+      "II-III Lombok Utara"
+    ]
+  },
+  {
     "waktu": "17/12/2022 04:50:50 WIB",
     "lintang": "6.25 LS",
     "bujur": "105.04 BT",
@@ -248,21 +259,6 @@
       "II Kuta",
       "II Buleleng",
       "II Lombok Timur"
-    ]
-  },
-  {
-    "waktu": "13/12/2022 17:00:42 WIB",
-    "lintang": "8.2 LS",
-    "bujur": "115.58 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 17 km TimurLaut Karangasem",
-    "warning": [
-      "II-III Kuta",
-      "II-III Karangasem",
-      "II-III Mataram",
-      "II-III Lombok Utara",
-      "II-III Lombok Barat"
     ]
   }
 ]
