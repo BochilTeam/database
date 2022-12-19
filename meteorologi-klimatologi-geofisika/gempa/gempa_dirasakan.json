@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "19/12/2022 08:45:14 WIB",
+    "lintang": "2.58 LS",
+    "bujur": "140.55 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km BaratDaya Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura",
+      "III Kab. Jayapura"
+    ]
+  },
+  {
     "waktu": "18/12/2022 23:55:23 WIB",
     "lintang": "2.09 LU",
     "bujur": "98.94 BT",
@@ -235,23 +247,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km barat laut Kab. Cianjur",
     "warning": [
       "I-II Cianjur"
-    ]
-  },
-  {
-    "waktu": "13/12/2022 18:23:47 WIB",
-    "lintang": "8.22 LS",
-    "bujur": "115.59 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 16 km TimurLaut Karangasem",
-    "warning": [
-      "III Karangasem",
-      "II-III Mataram",
-      "II - III Lombok Barat",
-      "II - III Lombok Utara",
-      "II Denpasar",
-      "II Gianyar",
-      "II Lombok Tengah"
     ]
   }
 ]
