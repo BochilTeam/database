@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "19/12/2022 12:50:14 WIB",
+    "lintang": "5.71 LS",
+    "bujur": "104.32 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "99 Km",
+    "wilayah": "Pusat gempa berada di laut 47 km barat daya Tanggamus",
+    "warning": [
+      "II Tanggamus",
+      "II Pesisir Barat"
+    ]
+  },
+  {
     "waktu": "19/12/2022 08:45:14 WIB",
     "lintang": "2.58 LS",
     "bujur": "140.55 BT",
@@ -236,17 +248,6 @@
     "wilayah": "Pusat gempa berada di laut 14 km timur laut Karangasem",
     "warning": [
       "II Karangasem"
-    ]
-  },
-  {
-    "waktu": "13/12/2022 20:09:22 WIB",
-    "lintang": "6.8 LS",
-    "bujur": "107.09 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km barat laut Kab. Cianjur",
-    "warning": [
-      "I-II Cianjur"
     ]
   }
 ]
