@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "21/12/2022 01:05:47 WIB",
+    "lintang": "8.89 LS",
+    "bujur": "112.46 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di laut 84 km BaratDaya Kabupaten Malang",
+    "warning": [
+      "II-III Trenggalek",
+      "II - III Karangkates",
+      "II - III Blitar",
+      "II Lumajang"
+    ]
+  },
+  {
     "waktu": "20/12/2022 12:45:43 WIB",
     "lintang": "6.8 LS",
     "bujur": "107.07 BT",
@@ -241,17 +255,6 @@
     "wilayah": "Pusat gempa berada di laut 33 km TimurLaut Waingapu",
     "warning": [
       "II Waingapu"
-    ]
-  },
-  {
-    "waktu": "14/12/2022 03:17:22 WIB",
-    "lintang": "8.18 LS",
-    "bujur": "115.59 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 20 km timurlaut Karangasem",
-    "warning": [
-      "II Karangasem"
     ]
   }
 ]
