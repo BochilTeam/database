@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/12/2022 12:18:27 WIB",
+    "lintang": "6.81 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km barat laut Cianjur",
+    "warning": [
+      "III Cugenang"
+    ]
+  },
+  {
     "waktu": "21/12/2022 01:05:47 WIB",
     "lintang": "8.89 LS",
     "bujur": "112.46 BT",
@@ -244,17 +255,6 @@
       "II Kuta",
       "II Tejakula",
       "II Lombok Utara"
-    ]
-  },
-  {
-    "waktu": "14/12/2022 05:09:28 WIB",
-    "lintang": "9.44 LS",
-    "bujur": "120.47 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "59 Km",
-    "wilayah": "Pusat gempa berada di laut 33 km TimurLaut Waingapu",
-    "warning": [
-      "II Waingapu"
     ]
   }
 ]
