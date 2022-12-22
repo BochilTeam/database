@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/12/2022 16:21:08 WIB",
+    "lintang": "1.55 LS",
+    "bujur": "120.12 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km timur laut Lawua, Kab. Sigi",
+    "warning": [
+      "II - III Kulawi"
+    ]
+  },
+  {
     "waktu": "22/12/2022 14:21:40 WIB",
     "lintang": "6.8 LS",
     "bujur": "107.1 BT",
@@ -237,17 +248,6 @@
     "wilayah": "Pusat gempa berada di laut 31 km barat Ambon",
     "warning": [
       "II Hative Besar"
-    ]
-  },
-  {
-    "waktu": "14/12/2022 19:58:22 WIB",
-    "lintang": "7.5 LS",
-    "bujur": "106.76 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada di laut 61 km Tenggara Kab. Sukabumi",
-    "warning": [
-      "II - III Sukabumi"
     ]
   }
 ]
