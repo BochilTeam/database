@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/12/2022 14:21:40 WIB",
+    "lintang": "6.8 LS",
+    "bujur": "107.1 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Barat Laut Cianjur",
+    "warning": [
+      "II Pacet"
+    ]
+  },
+  {
     "waktu": "22/12/2022 12:00:40 WIB",
     "lintang": "4.44 LS",
     "bujur": "122.61 BT",
@@ -237,17 +248,6 @@
     "wilayah": "Pusat gempa berada di laut 61 km Tenggara Kab. Sukabumi",
     "warning": [
       "II - III Sukabumi"
-    ]
-  },
-  {
-    "waktu": "14/12/2022 18:13:40 WIB",
-    "lintang": "8.22 LS",
-    "bujur": "115.59 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 16 km Timur Laut Karangasem",
-    "warning": [
-      "II Karangasem"
     ]
   }
 ]
