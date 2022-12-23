@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "23/12/2022 18:41:23 WIB",
+    "lintang": "6.77 LS",
+    "bujur": "107.1 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km Baratlaut Kab. Cianjur",
+    "warning": [
+      "III Cugenang",
+      "III Cipanas",
+      "II Kota Cianjur"
+    ]
+  },
+  {
     "waktu": "23/12/2022 08:42:20 WIB",
     "lintang": "2.08 LU",
     "bujur": "98.98 BT",
@@ -237,18 +250,6 @@
     "warning": [
       "II - III Karangasem",
       "II Lombok Barat"
-    ]
-  },
-  {
-    "waktu": "15/12/2022 15:13:21 WIB",
-    "lintang": "8.22 LS",
-    "bujur": "115.61 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 17 km TimurLaut Karangasem",
-    "warning": [
-      "II Karangasem",
-      "II Tejakula"
     ]
   }
 ]
