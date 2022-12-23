@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "23/12/2022 08:42:20 WIB",
+    "lintang": "2.08 LU",
+    "bujur": "98.98 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km timur laut Tapanuli Utara",
+    "warning": [
+      "III-IV Tarutung",
+      "III Sipoholon"
+    ]
+  },
+  {
+    "waktu": "23/12/2022 07:52:09 WIB",
+    "lintang": "2.74 LS",
+    "bujur": "127.81 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 55 km barat laut Seram Bagian Barat",
+    "warning": [
+      "II Kairatu"
+    ]
+  },
+  {
     "waktu": "22/12/2022 16:21:08 WIB",
     "lintang": "1.55 LS",
     "bujur": "120.12 BT",
@@ -226,28 +249,6 @@
     "warning": [
       "II Karangasem",
       "II Tejakula"
-    ]
-  },
-  {
-    "waktu": "15/12/2022 10:31:09 WIB",
-    "lintang": "2.88 LU",
-    "bujur": "127.5 BT",
-    "magnitudo": "5",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 127 km BaratLaut Daruba",
-    "warning": [
-      "II Morotai Selatan"
-    ]
-  },
-  {
-    "waktu": "14/12/2022 23:13:38 WIB",
-    "lintang": "3.72 LS",
-    "bujur": "127.9 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 31 km barat Ambon",
-    "warning": [
-      "II Hative Besar"
     ]
   }
 ]

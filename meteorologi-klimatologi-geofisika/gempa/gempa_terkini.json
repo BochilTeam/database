@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23-12-22 07:52:09 WIB",
+    "lintang": "-2.74",
+    "bujur": "127.81",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "55 km BaratLaut SERAMBAGIANBARAT-MALUKU"
+  },
+  {
     "waktu": "19-12-22 12:50:14 WIB",
     "lintang": "-5.71",
     "bujur": "104.32",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "26 Km",
     "wilayah": "12 km Tenggara ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "16-11-22 13:01:32 WIB",
-    "lintang": "-4.81",
-    "bujur": "100.64",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "190 km BaratLaut ENGGANO-BENGKULU"
   }
 ]
