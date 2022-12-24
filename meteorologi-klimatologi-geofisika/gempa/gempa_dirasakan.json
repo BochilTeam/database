@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/12/2022 19:07:26 WIB",
+    "lintang": "8.2 LS",
+    "bujur": "115.58 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 17 km timur laut Karangasem",
+    "warning": [
+      "II Kubu"
+    ]
+  },
+  {
     "waktu": "24/12/2022 12:43:05 WIB",
     "lintang": "6.79 LS",
     "bujur": "107.09 BT",
@@ -241,17 +252,6 @@
     "wilayah": "Pusat gempa berada didarat 6 km BaratLaut Kab. Cianjur",
     "warning": [
       "II Kab. Cianjur"
-    ]
-  },
-  {
-    "waktu": "16/12/2022 10:00:35 WIB",
-    "lintang": "3.93 LS",
-    "bujur": "122.43 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 0.6 km TimurLaut Morosi",
-    "warning": [
-      "II Konawe Selatan"
     ]
   }
 ]
