@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "24/12/2022 12:43:05 WIB",
+    "lintang": "6.79 LS",
+    "bujur": "107.09 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Darat 6 km BaratLaut Cianjur",
+    "warning": [
+      "III Cipanas",
+      "II Cugenang",
+      "II Ciseupan",
+      "II Sukaresmi"
+    ]
+  },
+  {
     "waktu": "23/12/2022 19:56:04 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.07 BT",
@@ -238,18 +252,6 @@
     "wilayah": "Pusat gempa berada di darat 0.6 km TimurLaut Morosi",
     "warning": [
       "II Konawe Selatan"
-    ]
-  },
-  {
-    "waktu": "16/12/2022 05:47:11 WIB",
-    "lintang": "6.91 LS",
-    "bujur": "105.35 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 37 km BaratDaya Sumur",
-    "warning": [
-      "II-III Sumur",
-      "II Lebak"
     ]
   }
 ]
