@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25-12-22 03:57:27 WIB",
+    "lintang": "-9.44",
+    "bujur": "109.16",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "191 km Tenggara CILACAP-JATENG"
+  },
+  {
     "waktu": "24-12-22 07:53:02 WIB",
     "lintang": "-7.07",
     "bujur": "129.96",
@@ -230,13 +238,5 @@
     "magnitudo": "6.8",
     "kedalaman": "10 Km",
     "wilayah": "187 km BaratLaut ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "17-11-22 22:41:20 WIB",
-    "lintang": "-5.05",
-    "bujur": "134.06",
-    "magnitudo": "5.0",
-    "kedalaman": "31 Km",
-    "wilayah": "81 km BaratLaut KEP.ARU-MALUKU"
   }
 ]
