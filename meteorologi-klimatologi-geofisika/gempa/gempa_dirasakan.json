@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/12/2022 03:57:27 WIB",
+    "lintang": "9.44 LS",
+    "bujur": "109.16 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 191 km Tenggara Cilacap",
+    "warning": [
+      "II Kebumen"
+    ]
+  },
+  {
     "waktu": "24/12/2022 19:07:26 WIB",
     "lintang": "8.2 LS",
     "bujur": "115.58 BT",
@@ -241,17 +252,6 @@
       "II Metro",
       "II Lampung Tengah",
       "II Cinangka"
-    ]
-  },
-  {
-    "waktu": "16/12/2022 23:05:37 WIB",
-    "lintang": "6.77 LS",
-    "bujur": "107.12 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada didarat 6 km BaratLaut Kab. Cianjur",
-    "warning": [
-      "II Kab. Cianjur"
     ]
   }
 ]
