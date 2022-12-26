@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/12/2022 05:38:54 WIB",
+    "lintang": "4.79 LU",
+    "bujur": "96.82 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Kab. Bener Meriah",
+    "warning": [
+      "II - III Bener Meriah"
+    ]
+  },
+  {
     "waktu": "25/12/2022 03:57:27 WIB",
     "lintang": "9.44 LS",
     "bujur": "109.16 BT",
@@ -234,24 +245,6 @@
     "wilayah": "Pusat gempa berada di laut 37 km TimurLaut Lombok Utara",
     "warning": [
       "II-III Lombok Utara"
-    ]
-  },
-  {
-    "waktu": "17/12/2022 04:50:50 WIB",
-    "lintang": "6.25 LS",
-    "bujur": "105.04 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 75 km BaratLaut SUMUR",
-    "warning": [
-      "III Lampung Selatan",
-      "II Bandar Lampung",
-      "II - III Pesawaran",
-      "II-III Kotabumi",
-      "II-III Pringsewu",
-      "II Metro",
-      "II Lampung Tengah",
-      "II Cinangka"
     ]
   }
 ]
