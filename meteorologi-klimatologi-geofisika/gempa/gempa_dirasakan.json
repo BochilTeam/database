@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/12/2022 01:45:45 WIB",
+    "lintang": "8.14 LS",
+    "bujur": "107.9 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 82 km Barat Daya Kabupaten Pangandaran",
+    "warning": [
+      "II - III Garut"
+    ]
+  },
+  {
     "waktu": "26/12/2022 05:38:54 WIB",
     "lintang": "4.79 LU",
     "bujur": "96.82 BT",
@@ -234,17 +245,6 @@
     "warning": [
       "III Sipoholon",
       "III Tarutung"
-    ]
-  },
-  {
-    "waktu": "18/12/2022 09:59:13 WIB",
-    "lintang": "8.22 LS",
-    "bujur": "116.47 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 37 km TimurLaut Lombok Utara",
-    "warning": [
-      "II-III Lombok Utara"
     ]
   }
 ]
