@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/12/2022 19:22:23 WIB",
+    "lintang": "2.68 LS",
+    "bujur": "141.06 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 51 km Tenggara Kota Jayapura",
+    "warning": [
+      "II - III Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "28/12/2022 01:45:45 WIB",
     "lintang": "8.14 LS",
     "bujur": "107.9 BT",
@@ -233,18 +244,6 @@
     "warning": [
       "II Kota Jayapura",
       "III Kab. Jayapura"
-    ]
-  },
-  {
-    "waktu": "18/12/2022 23:55:23 WIB",
-    "lintang": "2.09 LU",
-    "bujur": "98.94 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Tapanuli Utara",
-    "warning": [
-      "III Sipoholon",
-      "III Tarutung"
     ]
   }
 ]
