@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/12/2022 23:17:54 WIB",
+    "lintang": "3.41 LS",
+    "bujur": "119.15 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km barat Polewali Mandar",
+    "warning": [
+      "II Polewali Mandar"
+    ]
+  },
+  {
     "waktu": "29/12/2022 06:07:37 WIB",
     "lintang": "0.6 LS",
     "bujur": "127.43 BT",
@@ -227,22 +238,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Kab. Cianjur",
     "warning": [
       "II Cugenang"
-    ]
-  },
-  {
-    "waktu": "19/12/2022 12:50:14 WIB",
-    "lintang": "5.71 LS",
-    "bujur": "104.32 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "99 Km",
-    "wilayah": "Pusat gempa berada di laut 47 km barat daya Tanggamus",
-    "warning": [
-      "II Tanggamus",
-      "II Pesisir Barat",
-      "II Lampung Barat",
-      "II Lampung Selatan",
-      "II Bandar Lampung",
-      "II-III Pesawaran"
     ]
   }
 ]
