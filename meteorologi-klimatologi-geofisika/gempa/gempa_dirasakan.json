@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/12/2022 06:07:37 WIB",
+    "lintang": "0.6 LS",
+    "bujur": "127.43 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km BaratLaut Labuha",
+    "warning": [
+      "II-III Labuha"
+    ]
+  },
+  {
     "waktu": "28/12/2022 19:22:23 WIB",
     "lintang": "2.68 LS",
     "bujur": "141.06 BT",
@@ -232,18 +243,6 @@
       "II Lampung Selatan",
       "II Bandar Lampung",
       "II-III Pesawaran"
-    ]
-  },
-  {
-    "waktu": "19/12/2022 08:45:14 WIB",
-    "lintang": "2.58 LS",
-    "bujur": "140.55 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km BaratDaya Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura",
-      "III Kab. Jayapura"
     ]
   }
 ]
