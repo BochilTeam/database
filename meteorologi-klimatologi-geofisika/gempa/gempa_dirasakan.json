@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "30/12/2022 10:51:21 WIB",
+    "lintang": "7.24 LS",
+    "bujur": "107.75 BT",
+    "magnitudo": "3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 16 Km Baratdaya Garut",
+    "warning": [
+      "II Pangalengan",
+      "II Paseh",
+      "II Pasirwangi",
+      "II Darajat"
+    ]
+  },
+  {
     "waktu": "29/12/2022 23:17:54 WIB",
     "lintang": "3.41 LS",
     "bujur": "119.15 BT",
@@ -227,17 +241,6 @@
       "II - III Karangkates",
       "II - III Blitar",
       "II Lumajang"
-    ]
-  },
-  {
-    "waktu": "20/12/2022 12:45:43 WIB",
-    "lintang": "6.8 LS",
-    "bujur": "107.07 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Kab. Cianjur",
-    "warning": [
-      "II Cugenang"
     ]
   }
 ]
