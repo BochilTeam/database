@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/01/2023 00:22:07 WIB",
+    "lintang": "5.29 LU",
+    "bujur": "95.69 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada didarat 10 km TimurLaut Jantho-Aceh Besar",
+    "warning": [
+      "II - III Sigli"
+    ]
+  },
+  {
     "waktu": "31/12/2022 11:12:48 WIB",
     "lintang": "5.14 LU",
     "bujur": "94.75 BT",
@@ -227,17 +238,6 @@
       "II - III Cilaku",
       "II - III Warungkondang",
       "II - III Bayongbong"
-    ]
-  },
-  {
-    "waktu": "21/12/2022 12:18:27 WIB",
-    "lintang": "6.81 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km barat laut Cianjur",
-    "warning": [
-      "III Cugenang"
     ]
   }
 ]
