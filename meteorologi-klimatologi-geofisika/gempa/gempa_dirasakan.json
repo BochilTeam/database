@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "31/12/2022 11:12:48 WIB",
+    "lintang": "5.14 LU",
+    "bujur": "94.75 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 95 km BaratDaya Jantho-Aceh Besar",
+    "warning": [
+      "II Aceh Besar"
+    ]
+  },
+  {
     "waktu": "30/12/2022 10:51:21 WIB",
     "lintang": "7.24 LS",
     "bujur": "107.75 BT",
@@ -227,20 +238,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km barat laut Cianjur",
     "warning": [
       "III Cugenang"
-    ]
-  },
-  {
-    "waktu": "21/12/2022 01:05:47 WIB",
-    "lintang": "8.89 LS",
-    "bujur": "112.46 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "29 Km",
-    "wilayah": "Pusat gempa berada di laut 84 km BaratDaya Kabupaten Malang",
-    "warning": [
-      "II-III Trenggalek",
-      "II - III Karangkates",
-      "II - III Blitar",
-      "II Lumajang"
     ]
   }
 ]
