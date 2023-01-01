@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "01/01/2023 22:55:07 WIB",
+    "lintang": "2.07 LU",
+    "bujur": "98.91 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km Barat Laut Tapanuli Utara",
+    "warning": [
+      "III Tarutung",
+      "III Sipahutar"
+    ]
+  },
+  {
     "waktu": "01/01/2023 18:42:09 WIB",
     "lintang": "6.8 LS",
     "bujur": "107.08 BT",
@@ -218,19 +230,6 @@
     "wilayah": "Pusat gempa berada di darat 4 km Barat Laut Cianjur",
     "warning": [
       "II Pacet"
-    ]
-  },
-  {
-    "waktu": "22/12/2022 12:00:40 WIB",
-    "lintang": "4.44 LS",
-    "bujur": "122.61 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 5 km tenggara Lainea, Kab. Konawe Selatan",
-    "warning": [
-      "II - III Kendari",
-      "II - III Konawe Selatan",
-      "II Konawe Kepulauan"
     ]
   }
 ]
