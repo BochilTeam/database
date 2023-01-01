@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "02/01/2023 01:24:33 WIB",
+    "lintang": "2.53 LS",
+    "bujur": "140.74 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km Timur Laut Kota Jayapura",
+    "warning": [
+      "IV Kota Jayapura",
+      "IV Kabupaten Jayapura"
+    ]
+  },
+  {
     "waktu": "01/01/2023 22:55:07 WIB",
     "lintang": "2.07 LU",
     "bujur": "98.91 BT",
@@ -219,17 +231,6 @@
     "wilayah": "Pusat gempa berada di darat 11 km timur laut Lawua, Kab. Sigi",
     "warning": [
       "II - III Kulawi"
-    ]
-  },
-  {
-    "waktu": "22/12/2022 14:21:40 WIB",
-    "lintang": "6.8 LS",
-    "bujur": "107.1 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km Barat Laut Cianjur",
-    "warning": [
-      "II Pacet"
     ]
   }
 ]
