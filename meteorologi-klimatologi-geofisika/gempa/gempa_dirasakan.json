@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "05/01/2023 05:34:42 WIB",
+    "lintang": "6.83 LS",
+    "bujur": "107.07 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km BaratDaya Kab. Cianjur",
+    "warning": [
+      "III Cianjur"
+    ]
+  },
+  {
+    "waktu": "05/01/2023 05:15:22 WIB",
+    "lintang": "2.55 LS",
+    "bujur": "140.76 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 17 km TimurLaut Kota Jayapura",
+    "warning": [
+      "III Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "04/01/2023 20:54:29 WIB",
     "lintang": "2.36 LS",
     "bujur": "140.8 BT",
@@ -198,29 +220,6 @@
     "wilayah": "Pusat gempa berada di darat 24 km BaratDaya Teluk Wondama",
     "warning": [
       "II Nabire"
-    ]
-  },
-  {
-    "waktu": "03/01/2023 19:55:21 WIB",
-    "lintang": "2.27 LS",
-    "bujur": "140.65 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 33 km TimurLaut Kota Jayapura",
-    "warning": [
-      "III-IV Kota Jayapura",
-      "III-IV Kab. Jayapura"
-    ]
-  },
-  {
-    "waktu": "03/01/2023 19:29:05 WIB",
-    "lintang": "2.49 LS",
-    "bujur": "140.73 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 18 km Timurlaut Kota Jayapura",
-    "warning": [
-      "II - III Kota Jayapura"
     ]
   }
 ]
