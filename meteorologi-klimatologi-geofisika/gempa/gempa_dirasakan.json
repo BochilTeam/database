@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/01/2023 07:40:31 WIB",
+    "lintang": "8.27 LS",
+    "bujur": "115.51 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Karangasem",
+    "warning": [
+      "II Karangasem"
+    ]
+  },
+  {
     "waktu": "07/01/2023 23:40:26 WIB",
     "lintang": "3.75 LS",
     "bujur": "133.46 BT",
@@ -206,17 +217,6 @@
     "magnitudo": "3.9",
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di laut 22 km TimurLaut Kota Jayapura",
-    "warning": [
-      "II - III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "04/01/2023 09:53:17 WIB",
-    "lintang": "2.42 LS",
-    "bujur": "140.71 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 20 Km TimurLaut Kota Jayapura",
     "warning": [
       "II - III Kota Jayapura"
     ]
