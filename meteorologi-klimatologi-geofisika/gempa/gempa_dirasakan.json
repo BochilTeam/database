@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/01/2023 05:41:06 WIB",
+    "lintang": "8 LS",
+    "bujur": "110.42 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di Darat 13 km Tenggara Bantul",
+    "warning": [
+      "II Bantul"
+    ]
+  },
+  {
     "waktu": "08/01/2023 21:27:20 WIB",
     "lintang": "2.01 LS",
     "bujur": "140.79 BT",
@@ -206,17 +217,6 @@
     "magnitudo": "4.1",
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di laut 22 km Tmurlaut Kota Jayapura",
-    "warning": [
-      "III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "04/01/2023 15:18:23 WIB",
-    "lintang": "2.53 LS",
-    "bujur": "140.71 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km Timurlaut Kota jayapura",
     "warning": [
       "III Kota Jayapura"
     ]
