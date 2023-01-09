@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/01/2023 16:46:40 WIB",
+    "lintang": "6.93 LS",
+    "bujur": "105.26 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di laut 46 km barat daya Sumur",
+    "warning": [
+      "II-III Cibaliung"
+    ]
+  },
+  {
     "waktu": "09/01/2023 05:41:06 WIB",
     "lintang": "8 LS",
     "bujur": "110.42 BT",
@@ -208,17 +219,6 @@
     "wilayah": "Pusat gempa berada di laut 17 km TimurLaut Kota Jayapura",
     "warning": [
       "II-III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "04/01/2023 15:42:05 WIB",
-    "lintang": "2.39 LS",
-    "bujur": "140.71 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 22 km Tmurlaut Kota Jayapura",
-    "warning": [
-      "III Kota Jayapura"
     ]
   }
 ]
