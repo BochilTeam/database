@@ -1,5 +1,33 @@
 [
   {
+    "waktu": "09/01/2023 19:26:31 WIB",
+    "lintang": "8.99 LS",
+    "bujur": "111.16 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 90 km Tenggara Pacitan",
+    "warning": [
+      "II-III Pacitan",
+      "II-III Gunungkidul",
+      "II-III Bantul",
+      "II-III Kota Yogyakarta",
+      "II-III Sleman",
+      "II-III Kulonprogo",
+      "II-III Wonogiri",
+      "II-III Purworejo",
+      "II-III Cilacap",
+      "II - III Nganjuk",
+      "II - III Kediri",
+      "II - III Tulungagung",
+      "II - III Trenggalek",
+      "II Banjarnegara",
+      "II Wonosobo",
+      "II Karangkates",
+      "II Kebumen",
+      "II - III Blitar"
+    ]
+  },
+  {
     "waktu": "09/01/2023 16:46:40 WIB",
     "lintang": "6.93 LS",
     "bujur": "105.26 BT",
@@ -208,17 +236,6 @@
       "III-IV Kota Jayapura",
       "III-IV Kab. Keerom",
       "II Kab. Jayapura"
-    ]
-  },
-  {
-    "waktu": "04/01/2023 16:10:00 WIB",
-    "lintang": "2.45 LS",
-    "bujur": "140.71 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 17 km TimurLaut Kota Jayapura",
-    "warning": [
-      "II-III Kota Jayapura"
     ]
   }
 ]
