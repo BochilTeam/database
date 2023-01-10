@@ -1,13 +1,5 @@
 [
   {
-    "waktu": "10-01-23 00:47:33 WIB",
-    "lintang": "-7.37",
-    "bujur": "130.23",
-    "magnitudo": "7.5",
-    "kedalaman": "130 Km",
-    "wilayah": "136 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
     "waktu": "10-01-23 01:10:01 WIB",
     "lintang": "-6.47",
     "bujur": "130.36",
@@ -232,11 +224,19 @@
     "wilayah": "78 km BaratLaut SERAMBAGIANTIMUR-MALUKU"
   },
   {
-    "waktu": "",
-    "lintang": "",
-    "bujur": "",
-    "magnitudo": "",
-    "kedalaman": "",
-    "wilayah": ""
+    "waktu": "27-11-22 05:39:21 WIB",
+    "lintang": "-5.81",
+    "bujur": "130.68",
+    "magnitudo": "5.3",
+    "kedalaman": "90 Km",
+    "wilayah": "228 km BaratDaya MALUKUTENGGARA"
+  },
+  {
+    "waktu": "24-11-22 09:11:26 WIB",
+    "lintang": "-4.30",
+    "bujur": "100.41",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "207 km BaratDaya MUKOMUKO-BENGKULU"
   }
 ]
