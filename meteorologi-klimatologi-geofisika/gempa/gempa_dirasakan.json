@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "10/01/2023 07:35:51 WIB",
+    "lintang": "2.48 LS",
+    "bujur": "140.73 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 15 km TimurLaut Kota Jayapura",
+    "warning": [
+      "II - III Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "10/01/2023 05:41:26 WIB",
     "lintang": "6.51 LS",
     "bujur": "104.69 BT",
@@ -244,17 +255,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km BaratDaya Kab. Cianjur",
     "warning": [
       "III Cianjur"
-    ]
-  },
-  {
-    "waktu": "05/01/2023 05:15:22 WIB",
-    "lintang": "2.55 LS",
-    "bujur": "140.76 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 17 km TimurLaut Kota Jayapura",
-    "warning": [
-      "III Kota Jayapura"
     ]
   }
 ]
