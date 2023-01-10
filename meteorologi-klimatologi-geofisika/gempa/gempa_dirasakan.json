@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "10/01/2023 16:23:19 WIB",
+    "lintang": "8.11 LS",
+    "bujur": "107.95 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di laut 75 km BaratDaya Kab. Pangandaran",
+    "warning": [
+      "II - III Garut",
+      "II - III Pangandaran",
+      "II - III Tasikmalaya"
+    ]
+  },
+  {
     "waktu": "10/01/2023 13:35:32 WIB",
     "lintang": "2.44 LS",
     "bujur": "140.73 BT",
@@ -244,17 +257,6 @@
     "wilayah": "Pusat gempa berada di darat 81 km BaratDaya Kaimana",
     "warning": [
       "II Kaimana"
-    ]
-  },
-  {
-    "waktu": "05/01/2023 18:08:15 WIB",
-    "lintang": "2.38 LS",
-    "bujur": "140.72 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 24 km Timurlaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
