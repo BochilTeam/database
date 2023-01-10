@@ -16,14 +16,6 @@
     "wilayah": "197 km BaratLaut MALUKUTENGGARABRT"
   },
   {
-    "waktu": "10-01-23 00:47:34 WIB",
-    "lintang": "-7.25",
-    "bujur": "130.18",
-    "magnitudo": "7.9",
-    "kedalaman": "131 Km",
-    "wilayah": "148 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
     "waktu": "09-01-23 19:26:31 WIB",
     "lintang": "-8.99",
     "bujur": "111.16",
@@ -238,5 +230,13 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "78 km BaratLaut SERAMBAGIANTIMUR-MALUKU"
+  },
+  {
+    "waktu": "",
+    "lintang": "",
+    "bujur": "",
+    "magnitudo": "",
+    "kedalaman": "",
+    "wilayah": ""
   }
 ]
