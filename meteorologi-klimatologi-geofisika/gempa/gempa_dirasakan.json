@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/01/2023 18:53:30 WIB",
+    "lintang": "6.81 LS",
+    "bujur": "131.53 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "56 Km",
+    "wilayah": "Pusat gempa berada di laut 43 km Barat Laut Larat - Kep.",
+    "warning": [
+      "II-III Molu Maru"
+    ]
+  },
+  {
     "waktu": "11/01/2023 15:48:22 WIB",
     "lintang": "6.65 LS",
     "bujur": "107.01 BT",
@@ -250,17 +261,6 @@
     "wilayah": "Pusat gempa berada di laut 21 km TimurLaut Kota Jayapura",
     "warning": [
       "III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "07/01/2023 10:01:26 WIB",
-    "lintang": "3.77 LS",
-    "bujur": "133.41 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 74 km BaratDaya Kaimana",
-    "warning": [
-      "III Kaimana"
     ]
   }
 ]
