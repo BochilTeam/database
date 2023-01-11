@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/01/2023 14:59:23 WIB",
+    "lintang": "2.64 LS",
+    "bujur": "137.02 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "60 Km",
+    "wilayah": "Pusat gempa berada di darat 44 km Timur Laut Waropen",
+    "warning": [
+      "III Nabire"
+    ]
+  },
+  {
     "waktu": "10/01/2023 23:21:21 WIB",
     "lintang": "2.38 LS",
     "bujur": "140.67 BT",
@@ -246,17 +257,6 @@
     "wilayah": "Pusat gempa berada di laut 293 km BaratDaya Kab. Malang",
     "warning": [
       "II Dinoyo"
-    ]
-  },
-  {
-    "waktu": "06/01/2023 23:49:59 WIB",
-    "lintang": "2.45 LS",
-    "bujur": "140.73 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 18 km timur laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]

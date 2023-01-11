@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-01-23 14:59:23 WIB",
+    "lintang": "-2.64",
+    "bujur": "137.02",
+    "magnitudo": "5.1",
+    "kedalaman": "60 Km",
+    "wilayah": "44 km TimurLaut WAROPEN-PAPUA"
+  },
+  {
     "waktu": "10-01-23 01:10:01 WIB",
     "lintang": "-6.47",
     "bujur": "130.36",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "90 Km",
     "wilayah": "228 km BaratDaya MALUKUTENGGARA"
-  },
-  {
-    "waktu": "24-11-22 09:11:26 WIB",
-    "lintang": "-4.30",
-    "bujur": "100.41",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "207 km BaratDaya MUKOMUKO-BENGKULU"
   }
 ]
