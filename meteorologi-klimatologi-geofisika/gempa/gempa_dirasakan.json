@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/01/2023 06:25:00 WIB",
+    "lintang": "3.81 LS",
+    "bujur": "136.35 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km barat daya Paniai",
+    "warning": [
+      "II-III Enarotali"
+    ]
+  },
+  {
     "waktu": "11/01/2023 18:53:30 WIB",
     "lintang": "6.81 LS",
     "bujur": "131.53 BT",
@@ -250,17 +261,6 @@
     "wilayah": "Pusat gempa berada di laut 72 km BaratDaya Kaimana",
     "warning": [
       "II - III Kaimana"
-    ]
-  },
-  {
-    "waktu": "07/01/2023 15:49:01 WIB",
-    "lintang": "2.39 LS",
-    "bujur": "140.7 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 21 km TimurLaut Kota Jayapura",
-    "warning": [
-      "III Kota Jayapura"
     ]
   }
 ]
