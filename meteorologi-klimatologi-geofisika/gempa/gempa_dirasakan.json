@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "13/01/2023 04:48:19 WIB",
+    "lintang": "2.16 LU",
+    "bujur": "125.81 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 82 km Tenggara Ondong Siau",
+    "warning": [
+      "II-III Manado",
+      "II-III Bitung"
+    ]
+  },
+  {
+    "waktu": "13/01/2023 03:18:24 WIB",
+    "lintang": "2.35 LS",
+    "bujur": "140.75 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 28 km TimuLaut Kota Jayapura",
+    "warning": [
+      "III-IV Kota Jayapura",
+      "II Kab. Jayapura"
+    ]
+  },
+  {
     "waktu": "12/01/2023 06:25:00 WIB",
     "lintang": "3.81 LS",
     "bujur": "136.35 BT",
@@ -239,28 +263,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Karangasem",
     "warning": [
       "II Karangasem"
-    ]
-  },
-  {
-    "waktu": "07/01/2023 23:40:26 WIB",
-    "lintang": "3.75 LS",
-    "bujur": "133.46 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di laut 74 km BaratDaya Kaimana",
-    "warning": [
-      "II - III Kaimana"
-    ]
-  },
-  {
-    "waktu": "07/01/2023 18:54:31 WIB",
-    "lintang": "3.76 LS",
-    "bujur": "133.5 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 72 km BaratDaya Kaimana",
-    "warning": [
-      "II - III Kaimana"
     ]
   }
 ]
