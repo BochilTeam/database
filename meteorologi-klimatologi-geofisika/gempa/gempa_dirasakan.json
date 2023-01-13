@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/01/2023 22:41:45 WIB",
+    "lintang": "2.44 LS",
+    "bujur": "138.59 BT",
+    "magnitudo": "5",
+    "kedalaman": "54 Km",
+    "wilayah": "Pusat gempa berada di darat 31 km Tenggara Mamberotengah",
+    "warning": [
+      "III Sarmi"
+    ]
+  },
+  {
     "waktu": "13/01/2023 19:44:51 WIB",
     "lintang": "7.13 LS",
     "bujur": "130.5 BT",
@@ -220,17 +231,6 @@
     "wilayah": "Pusat gempa berada di laut 15 km TimurLaut Kota Jayapura",
     "warning": [
       "II - III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "10/01/2023 05:41:26 WIB",
-    "lintang": "6.51 LS",
-    "bujur": "104.69 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 99 km barat laut Sumur",
-    "warning": [
-      "II Liwa"
     ]
   }
 ]

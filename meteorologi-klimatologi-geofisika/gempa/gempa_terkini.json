@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-01-23 22:41:45 WIB",
+    "lintang": "-2.44",
+    "bujur": "138.59",
+    "magnitudo": "5.0",
+    "kedalaman": "54 Km",
+    "wilayah": "30 km Tenggara MAMBERAMOTENGAH-PAPUAPGNGN"
+  },
+  {
     "waktu": "13-01-23 19:44:51 WIB",
     "lintang": "-7.13",
     "bujur": "130.50",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "18 Km",
     "wilayah": "31 km TimurLaut SARMI-PAPUA"
-  },
-  {
-    "waktu": "29-11-22 05:26:42 WIB",
-    "lintang": "-2.83",
-    "bujur": "129.84",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "78 km BaratLaut SERAMBAGIANTIMUR-MALUKU"
   }
 ]
