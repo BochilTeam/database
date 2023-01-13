@@ -1,11 +1,46 @@
 [
   {
+    "waktu": "13/01/2023 19:44:51 WIB",
+    "lintang": "7.13 LS",
+    "bujur": "130.5 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "101 Km",
+    "wilayah": "Pusat gempa berada di laut 130 km BaratLaut Saumlaki",
+    "warning": [
+      "II - III Molomaru"
+    ]
+  },
+  {
+    "waktu": "13/01/2023 18:54:18 WIB",
+    "lintang": "3.78 LS",
+    "bujur": "133.55 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 70 km BaratDaya Kaimana",
+    "warning": [
+      "III Kaimana"
+    ]
+  },
+  {
+    "waktu": "13/01/2023 18:46:44 WIB",
+    "lintang": "7.24 LS",
+    "bujur": "109.81 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km BaratLaut Wonosobo",
+    "warning": [
+      "III Wonosobo",
+      "II - III Banjarnegara",
+      "II-III Batur"
+    ]
+  },
+  {
     "waktu": "13/01/2023 13:27:01 WIB",
     "lintang": "2.44 LS",
     "bujur": "140.72 BT",
     "magnitudo": "3.7",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 18 km TimurLaut Kota Jayapura",
+    "wilayah": "Pusat gempa berada di laut 18 km TimurLaut Kota Jayapura",
     "warning": [
       "III Kota Jayapura"
     ]
@@ -196,77 +231,6 @@
     "wilayah": "Pusat gempa berada di laut 99 km barat laut Sumur",
     "warning": [
       "II Liwa"
-    ]
-  },
-  {
-    "waktu": "10/01/2023 03:52:19 WIB",
-    "lintang": "7.2 LS",
-    "bujur": "109.81 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km BaratLaut Wonosobo",
-    "warning": [
-      "II Banjarnegara"
-    ]
-  },
-  {
-    "waktu": "10/01/2023 00:47:34 WIB",
-    "lintang": "7.25 LS",
-    "bujur": "130.18 BT",
-    "magnitudo": "7.9",
-    "kedalaman": "131 Km",
-    "wilayah": "Pusat gempa berada di laut 148 km BaratLaut MALUKUTENGGARABRT",
-    "warning": [
-      "V Saumlaki",
-      "III-IV Sorong",
-      "III-IV Kaimana",
-      "II-III Merauke",
-      "II-III Nabire",
-      "II-III Tanah Merah",
-      "II-III Wamena",
-      "II-III Bakunase",
-      "II-III Kolhua",
-      "II-III Sabu",
-      "II-III Rote",
-      "II-III Ende",
-      "II-III Amarasi Selatan",
-      "II-III Kota Kupang",
-      "III-IV Alor",
-      "III-IV Waingapu",
-      "III-IV Waijelu",
-      "III-IV Lembata",
-      "II Ambon",
-      "II Piru",
-      "IV Dobo",
-      "IV Tiakur"
-    ]
-  },
-  {
-    "waktu": "09/01/2023 19:26:31 WIB",
-    "lintang": "8.99 LS",
-    "bujur": "111.16 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 90 km Tenggara Pacitan",
-    "warning": [
-      "II-III Pacitan",
-      "II-III Gunungkidul",
-      "II-III Bantul",
-      "II-III Kota Yogyakarta",
-      "II-III Sleman",
-      "II-III Kulonprogo",
-      "II-III Wonogiri",
-      "II-III Purworejo",
-      "II-III Cilacap",
-      "II - III Nganjuk",
-      "II - III Kediri",
-      "II - III Tulungagung",
-      "II - III Trenggalek",
-      "II Banjarnegara",
-      "II Wonosobo",
-      "II Karangkates",
-      "II Kebumen",
-      "II - III Blitar"
     ]
   }
 ]
