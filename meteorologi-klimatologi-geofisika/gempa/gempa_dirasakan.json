@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "13/01/2023 11:14:53 WIB",
+    "lintang": "8.22 LS",
+    "bujur": "115.59 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 16 km TimurLaut Karangasem",
+    "warning": [
+      "II Karangasem",
+      "II Abang",
+      "II Kubu",
+      "II Bebandem",
+      "II Selat"
+    ]
+  },
+  {
     "waktu": "13/01/2023 08:19:30 WIB",
     "lintang": "0.29 LS",
     "bujur": "129.67 BT",
@@ -252,17 +267,6 @@
     "wilayah": "Pusat gempa berada di laut 46 km barat daya Sumur",
     "warning": [
       "II-III Cibaliung"
-    ]
-  },
-  {
-    "waktu": "09/01/2023 05:41:06 WIB",
-    "lintang": "8 LS",
-    "bujur": "110.42 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di Darat 13 km Tenggara Bantul",
-    "warning": [
-      "II Bantul"
     ]
   }
 ]
