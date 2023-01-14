@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14-01-23 05:41:00 WIB",
+    "lintang": "-5.14",
+    "bujur": "102.99",
+    "magnitudo": "5.3",
+    "kedalaman": "18 Km",
+    "wilayah": "55 km BaratDaya KAUR-BENGKULU"
+  },
+  {
     "waktu": "13-01-23 22:41:45 WIB",
     "lintang": "-2.44",
     "bujur": "138.59",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "172 km BaratLaut ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "30-11-22 20:30:11 WIB",
-    "lintang": "-2.27",
-    "bujur": "139.41",
-    "magnitudo": "5.0",
-    "kedalaman": "18 Km",
-    "wilayah": "31 km TimurLaut SARMI-PAPUA"
   }
 ]

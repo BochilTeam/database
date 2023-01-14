@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "14/01/2023 05:41:00 WIB",
+    "lintang": "5.14 LS",
+    "bujur": "102.99 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di laut 55 km BaratDaya Kaur",
+    "warning": [
+      "III-IV Kaur",
+      "III Kota Bengkulu",
+      "III Argamakmur",
+      "II - III Kepahiang",
+      "III Oku Selatan",
+      "III Liwa",
+      "II Sekincau"
+    ]
+  },
+  {
     "waktu": "13/01/2023 22:41:45 WIB",
     "lintang": "2.44 LS",
     "bujur": "138.59 BT",
@@ -220,17 +237,6 @@
     "wilayah": "Pusat gempa berada di laut 19 km TimurLaut Kota Jayapura",
     "warning": [
       "II-III Jayapura"
-    ]
-  },
-  {
-    "waktu": "10/01/2023 07:35:51 WIB",
-    "lintang": "2.48 LS",
-    "bujur": "140.73 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 15 km TimurLaut Kota Jayapura",
-    "warning": [
-      "II - III Kota Jayapura"
     ]
   }
 ]
