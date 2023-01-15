@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "15/01/2023 07:12:53 WIB",
+    "lintang": "2.48 LS",
+    "bujur": "140.69 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km TimurLaut Jayapura",
+    "warning": [
+      "II Jayapura"
+    ]
+  },
+  {
+    "waktu": "15/01/2023 06:51:21 WIB",
+    "lintang": "2.44 LS",
+    "bujur": "140.68 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 16 km Timurlaut Jayapura",
+    "warning": [
+      "III Jayapura"
+    ]
+  },
+  {
     "waktu": "14/01/2023 18:12:57 WIB",
     "lintang": "7.17 LS",
     "bujur": "109.79 BT",
@@ -213,30 +235,6 @@
     "wilayah": "Pusat gempa berada di laut 21 Km Timur Laut Kota Jayapura",
     "warning": [
       "III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "10/01/2023 19:51:18 WIB",
-    "lintang": "2.39 LS",
-    "bujur": "140.73 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada dilaut 24 Km Timur Laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "10/01/2023 16:23:19 WIB",
-    "lintang": "8.11 LS",
-    "bujur": "107.95 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "26 Km",
-    "wilayah": "Pusat gempa berada di laut 75 km BaratDaya Kab. Pangandaran",
-    "warning": [
-      "II - III Garut",
-      "II - III Pangandaran",
-      "II - III Tasikmalaya"
     ]
   }
 ]
