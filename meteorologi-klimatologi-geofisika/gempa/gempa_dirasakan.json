@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/01/2023 12:11:15 WIB",
+    "lintang": "2.48 LS",
+    "bujur": "140.71 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 15 Km Timur Laut Kota Jayapura",
+    "warning": [
+      "II Jayapura"
+    ]
+  },
+  {
     "waktu": "16/01/2023 05:30:01 WIB",
     "lintang": "1.91 LU",
     "bujur": "97.83 BT",
@@ -234,17 +245,6 @@
       "II Cisarua",
       "II Sukalarang",
       "II Kab. Sukabumi"
-    ]
-  },
-  {
-    "waktu": "11/01/2023 14:59:23 WIB",
-    "lintang": "2.64 LS",
-    "bujur": "137.02 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "60 Km",
-    "wilayah": "Pusat gempa berada di darat 44 km Timur Laut Waropen",
-    "warning": [
-      "III Nabire"
     ]
   }
 ]
