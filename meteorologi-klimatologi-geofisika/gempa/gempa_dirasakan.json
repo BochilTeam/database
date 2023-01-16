@@ -1,5 +1,24 @@
 [
   {
+    "waktu": "16/01/2023 20:10:04 WIB",
+    "lintang": "9.32 LS",
+    "bujur": "115.49 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "69 Km",
+    "wilayah": "Pusat gempa berada di laut 65 km Tenggara KUTASELATAN",
+    "warning": [
+      "II Denpasar",
+      "II Kuta Selatan",
+      "II Jimbaran",
+      "II Karangasem",
+      "II Gianyar",
+      "II Klungkung",
+      "II Lombok Utara",
+      "II Mataram",
+      "III Lombok Barat"
+    ]
+  },
+  {
     "waktu": "16/01/2023 12:11:15 WIB",
     "lintang": "2.48 LS",
     "bujur": "140.71 BT",
@@ -230,21 +249,6 @@
     "wilayah": "Pusat gempa berada di laut 43 km Barat Laut Larat - Kep.",
     "warning": [
       "II-III Molu Maru"
-    ]
-  },
-  {
-    "waktu": "11/01/2023 15:48:22 WIB",
-    "lintang": "6.65 LS",
-    "bujur": "107.01 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di 11 km Timur Laut Kota Sukabumi",
-    "warning": [
-      "II Sukabumi",
-      "II Sukaraja",
-      "II Cisarua",
-      "II Sukalarang",
-      "II Kab. Sukabumi"
     ]
   }
 ]
