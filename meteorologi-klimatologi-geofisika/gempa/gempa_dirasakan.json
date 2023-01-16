@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/01/2023 01:40:13 WIB",
+    "lintang": "2.56 LS",
+    "bujur": "140.78 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 19 km Timurlaut kota Jayapura",
+    "warning": [
+      "II-III Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "17/01/2023 00:16:45 WIB",
     "lintang": "6.85 LS",
     "bujur": "107.04 BT",
@@ -242,17 +253,6 @@
     "warning": [
       "III-IV Kota Jayapura",
       "II Kab. Jayapura"
-    ]
-  },
-  {
-    "waktu": "12/01/2023 06:25:00 WIB",
-    "lintang": "3.81 LS",
-    "bujur": "136.35 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km barat daya Paniai",
-    "warning": [
-      "II-III Enarotali"
     ]
   }
 ]
