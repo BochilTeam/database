@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "17/01/2023 00:16:45 WIB",
+    "lintang": "6.85 LS",
+    "bujur": "107.04 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km barat daya Kab. Cianjur",
+    "warning": [
+      "III Cugenang",
+      "III Pacet",
+      "III Warungkondang",
+      "III Panembong",
+      "II-III Kota Cianjur"
+    ]
+  },
+  {
     "waktu": "16/01/2023 20:10:04 WIB",
     "lintang": "9.32 LS",
     "bujur": "115.49 BT",
@@ -238,17 +253,6 @@
     "wilayah": "Pusat gempa berada di darat 3 km barat daya Paniai",
     "warning": [
       "II-III Enarotali"
-    ]
-  },
-  {
-    "waktu": "11/01/2023 18:53:30 WIB",
-    "lintang": "6.81 LS",
-    "bujur": "131.53 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "56 Km",
-    "wilayah": "Pusat gempa berada di laut 43 km Barat Laut Larat - Kep.",
-    "warning": [
-      "II-III Molu Maru"
     ]
   }
 ]
