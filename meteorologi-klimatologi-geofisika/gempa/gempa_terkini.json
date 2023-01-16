@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16-01-23 05:30:01 WIB",
+    "lintang": "1.91",
+    "bujur": "97.83",
+    "magnitudo": "6.2",
+    "kedalaman": "23 Km",
+    "wilayah": "47 km Tenggara KAB-ACEHSINGKIL"
+  },
+  {
     "waktu": "15-01-23 03:32:19 WIB",
     "lintang": "-6.52",
     "bujur": "106.58",
@@ -230,13 +238,5 @@
     "magnitudo": "6.2",
     "kedalaman": "10 Km",
     "wilayah": "284 km BaratDaya JEMBER-JATIM"
-  },
-  {
-    "waktu": "03-12-22 16:49:41 WIB",
-    "lintang": "-7.51",
-    "bujur": "107.52",
-    "magnitudo": "6.4",
-    "kedalaman": "118 Km",
-    "wilayah": "52 km BaratDaya KAB-GARUT-JABAR"
   }
 ]
