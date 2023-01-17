@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "17/01/2023 16:47:55 WIB",
+    "lintang": "2.4 LS",
+    "bujur": "140.4 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 20 km Baratlaut Kabupaten Jayapura",
+    "warning": [
+      "II Kota Jayapura",
+      "II Kabupaten Jayapura"
+    ]
+  },
+  {
     "waktu": "17/01/2023 13:58:42 WIB",
     "lintang": "7.16 LS",
     "bujur": "109.76 BT",
@@ -247,19 +259,6 @@
     "wilayah": "Pusat gempa berada di laut 70 km BaratDaya Kaimana",
     "warning": [
       "III Kaimana"
-    ]
-  },
-  {
-    "waktu": "13/01/2023 18:46:44 WIB",
-    "lintang": "7.24 LS",
-    "bujur": "109.81 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km BaratLaut Wonosobo",
-    "warning": [
-      "III Wonosobo",
-      "II - III Banjarnegara",
-      "II-III Batur"
     ]
   }
 ]
