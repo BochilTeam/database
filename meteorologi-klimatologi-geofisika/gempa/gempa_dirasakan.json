@@ -1,5 +1,42 @@
 [
   {
+    "waktu": "17/01/2023 13:58:42 WIB",
+    "lintang": "7.16 LS",
+    "bujur": "109.76 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di darat 24 km tenggara kab. Pekalongan",
+    "warning": [
+      "II - III Batur",
+      "II - III Dieng",
+      "II - III Wonosobo"
+    ]
+  },
+  {
+    "waktu": "17/01/2023 13:56:13 WIB",
+    "lintang": "7.15 LS",
+    "bujur": "109.77 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di darat 24 km tenggara kab. Pekalongan",
+    "warning": [
+      "III Batur",
+      "III Dieng"
+    ]
+  },
+  {
+    "waktu": "17/01/2023 13:54:53 WIB",
+    "lintang": "7.15 LS",
+    "bujur": "109.77 BT",
+    "magnitudo": "1.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 21 km tenggara kab-Pekalongan",
+    "warning": [
+      "III Batur",
+      "III Dieng"
+    ]
+  },
+  {
     "waktu": "17/01/2023 11:50:49 WIB",
     "lintang": "1.56 LS",
     "bujur": "99.85 BT",
@@ -223,43 +260,6 @@
       "III Wonosobo",
       "II - III Banjarnegara",
       "II-III Batur"
-    ]
-  },
-  {
-    "waktu": "13/01/2023 13:27:01 WIB",
-    "lintang": "2.44 LS",
-    "bujur": "140.72 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 18 km TimurLaut Kota Jayapura",
-    "warning": [
-      "III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "13/01/2023 11:14:53 WIB",
-    "lintang": "8.22 LS",
-    "bujur": "115.59 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 16 km TimurLaut Karangasem",
-    "warning": [
-      "II Karangasem",
-      "II Abang",
-      "II Kubu",
-      "II Bebandem",
-      "II Selat"
-    ]
-  },
-  {
-    "waktu": "13/01/2023 08:19:30 WIB",
-    "lintang": "0.29 LS",
-    "bujur": "129.67 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 188 km Tenggara Maba",
-    "warning": [
-      "II Halmahera Tengah"
     ]
   }
 ]
