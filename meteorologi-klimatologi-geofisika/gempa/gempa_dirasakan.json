@@ -1,5 +1,23 @@
 [
   {
+    "waktu": "17/01/2023 22:21:26 WIB",
+    "lintang": "8.41 LS",
+    "bujur": "120.6 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "30 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km TimurLaut Ruteng",
+    "warning": [
+      "IV Ruteng",
+      "III Nagekeo",
+      "II - III Labuan Bajo",
+      "II Congkar",
+      "II Reo",
+      "III Borong",
+      "II Bajawa",
+      "II Ende"
+    ]
+  },
+  {
     "waktu": "17/01/2023 16:47:55 WIB",
     "lintang": "2.4 LS",
     "bujur": "140.4 BT",
@@ -248,17 +266,6 @@
     "wilayah": "Pusat gempa berada di laut 130 km BaratLaut Saumlaki",
     "warning": [
       "II - III Molomaru"
-    ]
-  },
-  {
-    "waktu": "13/01/2023 18:54:18 WIB",
-    "lintang": "3.78 LS",
-    "bujur": "133.55 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di laut 70 km BaratDaya Kaimana",
-    "warning": [
-      "III Kaimana"
     ]
   }
 ]
