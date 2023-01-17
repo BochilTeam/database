@@ -1,5 +1,35 @@
 [
   {
+    "waktu": "18/01/2023 00:37:17 WIB",
+    "lintang": "6.84 LS",
+    "bujur": "107.1 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Baratdaya Kabupaten Cianjur",
+    "warning": [
+      "II - III Cilaku",
+      "II - III Cianjur",
+      "II - III Gekbrong",
+      "II - III Karangtengah",
+      "II - III Cugenang"
+    ]
+  },
+  {
+    "waktu": "17/01/2023 23:12:01 WIB",
+    "lintang": "6.78 LS",
+    "bujur": "107.1 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km Baratlaut Kabupaten Cianjur",
+    "warning": [
+      "II - III Cilaku",
+      "II - III Cugenang",
+      "II - III Cianjur",
+      "II - III Karangtengah",
+      "II - III Cipanas"
+    ]
+  },
+  {
     "waktu": "17/01/2023 22:21:26 WIB",
     "lintang": "8.41 LS",
     "bujur": "120.6 BT",
@@ -244,28 +274,6 @@
       "III Oku Selatan",
       "III Liwa",
       "II Sekincau"
-    ]
-  },
-  {
-    "waktu": "13/01/2023 22:41:45 WIB",
-    "lintang": "2.44 LS",
-    "bujur": "138.59 BT",
-    "magnitudo": "5",
-    "kedalaman": "54 Km",
-    "wilayah": "Pusat gempa berada di darat 31 km Tenggara Mamberotengah",
-    "warning": [
-      "III Sarmi"
-    ]
-  },
-  {
-    "waktu": "13/01/2023 19:44:51 WIB",
-    "lintang": "7.13 LS",
-    "bujur": "130.5 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "101 Km",
-    "wilayah": "Pusat gempa berada di laut 130 km BaratLaut Saumlaki",
-    "warning": [
-      "II - III Molomaru"
     ]
   }
 ]
