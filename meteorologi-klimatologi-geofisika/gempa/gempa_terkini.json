@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-01-23 11:36:12 WIB",
+    "lintang": "-9.26",
+    "bujur": "112.49",
+    "magnitudo": "5.1",
+    "kedalaman": "17 Km",
+    "wilayah": "125 km BaratDaya KAB-MALANG-JATIM"
+  },
+  {
     "waktu": "16-01-23 05:30:01 WIB",
     "lintang": "1.91",
     "bujur": "97.83",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "266 km BaratDaya JEMBER-JATIM"
-  },
-  {
-    "waktu": "06-12-22 13:07:48 WIB",
-    "lintang": "-10.75",
-    "bujur": "113.42",
-    "magnitudo": "6.2",
-    "kedalaman": "10 Km",
-    "wilayah": "284 km BaratDaya JEMBER-JATIM"
   }
 ]

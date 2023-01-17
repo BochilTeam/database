@@ -1,5 +1,36 @@
 [
   {
+    "waktu": "17/01/2023 11:50:49 WIB",
+    "lintang": "1.56 LS",
+    "bujur": "99.85 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 71 km Timurlaut Pulau Sipora, kep. Mentawai",
+    "warning": [
+      "II Tuapejat"
+    ]
+  },
+  {
+    "waktu": "17/01/2023 11:36:12 WIB",
+    "lintang": "9.26 LS",
+    "bujur": "112.49 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut, 125 km Barat Daya Kab. Malang",
+    "warning": [
+      "III-IV Karangkates",
+      "III-IV Sumbermanjing Wetan",
+      "II - III Kepanjen",
+      "II - III Lumajang",
+      "II - III Malang",
+      "II Badung",
+      "II Blitar",
+      "II Trenggalek",
+      "II Pacitan",
+      "II Bondowoso"
+    ]
+  },
+  {
     "waktu": "17/01/2023 09:14:04 WIB",
     "lintang": "2.45 LS",
     "bujur": "140.66 BT",
@@ -229,29 +260,6 @@
     "wilayah": "Pusat gempa berada di laut 188 km Tenggara Maba",
     "warning": [
       "II Halmahera Tengah"
-    ]
-  },
-  {
-    "waktu": "13/01/2023 06:56:44 WIB",
-    "lintang": "2.32 LS",
-    "bujur": "140.72 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 29 km TimurLaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "13/01/2023 04:48:19 WIB",
-    "lintang": "2.16 LU",
-    "bujur": "125.81 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di laut 82 km Tenggara Ondong Siau",
-    "warning": [
-      "II-III Manado",
-      "II-III Bitung"
     ]
   }
 ]
