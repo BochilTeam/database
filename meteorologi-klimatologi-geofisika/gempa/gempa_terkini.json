@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "18-01-23 15:01:24 WIB",
+    "lintang": "2.73",
+    "bujur": "127.14",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "146 km BaratLaut TOBELO-MALUT"
+  },
+  {
+    "waktu": "18-01-23 13:19:14 WIB",
+    "lintang": "2.81",
+    "bujur": "127.09",
+    "magnitudo": "5.3",
+    "kedalaman": "17 Km",
+    "wilayah": "139 km Tenggara MELONGUANE-SULUT"
+  },
+  {
+    "waktu": "18-01-23 13:06:14 WIB",
+    "lintang": "2.80",
+    "bujur": "127.11",
+    "magnitudo": "7.1",
+    "kedalaman": "64 Km",
+    "wilayah": "141 km Tenggara MELONGUANE-SULUT"
+  },
+  {
     "waktu": "18-01-23 07:34:46 WIB",
     "lintang": "-0.07",
     "bujur": "123.28",
@@ -214,29 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "40 Km",
     "wilayah": "22 km TimurLaut MALUKUTENGAH"
-  },
-  {
-    "waktu": "11-12-22 09:28:44 WIB",
-    "lintang": "1.50",
-    "bujur": "128.24",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "34 km BaratLaut HALMAHERATIMUR-MALUT"
-  },
-  {
-    "waktu": "08-12-22 11:58:55 WIB",
-    "lintang": "-2.47",
-    "bujur": "139.33",
-    "magnitudo": "5.1",
-    "kedalaman": "11 Km",
-    "wilayah": "14 km Tenggara SARMI-PAPUA"
-  },
-  {
-    "waktu": "08-12-22 07:50:57 WIB",
-    "lintang": "-7.11",
-    "bujur": "106.99",
-    "magnitudo": "5.8",
-    "kedalaman": "104 Km",
-    "wilayah": "22 km Tenggara KOTA-SUKABUMI-JABAR"
   }
 ]

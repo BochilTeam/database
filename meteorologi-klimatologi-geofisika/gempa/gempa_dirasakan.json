@@ -1,5 +1,38 @@
 [
   {
+    "waktu": "18/01/2023 13:06:14 WIB",
+    "lintang": "2.8 LU",
+    "bujur": "127.11 BT",
+    "magnitudo": "7.1",
+    "kedalaman": "64 Km",
+    "wilayah": "Pusat gempa berada di laut 141 km Tenggara Melonguane",
+    "warning": [
+      "III Minahasa",
+      "III Manado",
+      "III Minahasa Utara",
+      "III Bitung",
+      "III Ternate",
+      "III Sofifi",
+      "III Halmahera Timur",
+      "III - IV Talaud",
+      "III Minahasa Tenggara",
+      "III Minahasa Selatan",
+      "III Bolaang Mongondow Timur",
+      "III Bolaang Mongondow Selatan",
+      "III - IV Kepulauan Sangihe",
+      "II Kota Gorontalo",
+      "III Tomohon",
+      "III Bolaang Mongondow",
+      "III Halmahera Barat",
+      "III Halmahera Utara",
+      "III - IV Kepulauan Sitaro",
+      "III Banggai Kepulauan",
+      "III Halmahera Tengah",
+      "III-IV Tidore",
+      "IV Pulau Taliabu"
+    ]
+  },
+  {
     "waktu": "18/01/2023 07:34:46 WIB",
     "lintang": "0.07 LS",
     "bujur": "123.28 BT",
@@ -273,17 +306,6 @@
     "wilayah": "Pusat gempa berada di darat 13 km TimurLaut Jayapura",
     "warning": [
       "II Jayapura"
-    ]
-  },
-  {
-    "waktu": "15/01/2023 06:51:21 WIB",
-    "lintang": "2.44 LS",
-    "bujur": "140.68 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di laut 16 km Timurlaut Jayapura",
-    "warning": [
-      "III Jayapura"
     ]
   }
 ]
