@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "18/01/2023 23:27:52 WIB",
+    "lintang": "10.8 LS",
+    "bujur": "111.73 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 306 km tenggara Pacitan",
+    "warning": [
+      "II Trenggalek"
+    ]
+  },
+  {
+    "waktu": "18/01/2023 22:35:23 WIB",
+    "lintang": "2.25 LS",
+    "bujur": "1.39 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 78 km Baratlaut Jayapura",
+    "warning": [
+      "III Kabupaten Jayapura"
+    ]
+  },
+  {
     "waktu": "18/01/2023 13:06:14 WIB",
     "lintang": "2.8 LU",
     "bujur": "127.11 BT",
@@ -284,28 +306,6 @@
       "IV Aceh Singkil",
       "II Sibolga",
       "IV Kepulauan Banyak"
-    ]
-  },
-  {
-    "waktu": "15/01/2023 08:20:09 WIB",
-    "lintang": "5.45 LU",
-    "bujur": "97.01 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 32 km BaratLaut Kota Lhokseumawe",
-    "warning": [
-      "II - III Lhokseumawe"
-    ]
-  },
-  {
-    "waktu": "15/01/2023 07:12:53 WIB",
-    "lintang": "2.48 LS",
-    "bujur": "140.69 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 13 km TimurLaut Jayapura",
-    "warning": [
-      "II Jayapura"
     ]
   }
 ]

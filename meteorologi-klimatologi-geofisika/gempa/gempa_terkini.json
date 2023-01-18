@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "18-01-23 23:27:52 WIB",
+    "lintang": "-10.87",
+    "bujur": "111.73",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "306 km Tenggara PACITAN-JATIM"
+  },
+  {
+    "waktu": "18-01-23 23:10:51 WIB",
+    "lintang": "-10.69",
+    "bujur": "111.80",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "287 km BaratDaya KAB-BLITAR-JATIM"
+  },
+  {
     "waktu": "18-01-23 15:01:24 WIB",
     "lintang": "2.73",
     "bujur": "127.14",
@@ -222,21 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "13 Km",
     "wilayah": "127 km BaratLaut DARUBA-MALUT"
-  },
-  {
-    "waktu": "13-12-22 17:38:24 WIB",
-    "lintang": "-8.16",
-    "bujur": "115.62",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "23 km TimurLaut KARANGASEM-BALI"
-  },
-  {
-    "waktu": "13-12-22 05:10:05 WIB",
-    "lintang": "-3.16",
-    "bujur": "129.10",
-    "magnitudo": "5.1",
-    "kedalaman": "40 Km",
-    "wilayah": "22 km TimurLaut MALUKUTENGAH"
   }
 ]
