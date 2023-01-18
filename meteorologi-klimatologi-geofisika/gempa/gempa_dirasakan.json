@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "18/01/2023 07:34:46 WIB",
+    "lintang": "0.07 LS",
+    "bujur": "123.28 BT",
+    "magnitudo": "6.3",
+    "kedalaman": "138 Km",
+    "wilayah": "Pusat gempa berada di laut 69 km Tenggara Bone Bolango",
+    "warning": [
+      "III-IV Luwuk",
+      "III - IV Ampana",
+      "III Kabupaten Gorontalo",
+      "III Kota Gorontalo",
+      "III Taliabu",
+      "III Minahasa Tenggara",
+      "III Kabupaten Bone Bolango",
+      "II - III Kabupaten Pohuwato",
+      "II - III Kabupaten Gorontalo Utara",
+      "II - III Sanana",
+      "II - III Palu",
+      "II Ternate",
+      "II Labuha"
+    ]
+  },
+  {
     "waktu": "18/01/2023 03:47:03 WIB",
     "lintang": "2.45 LS",
     "bujur": "140.72 BT",
@@ -257,17 +280,6 @@
     "wilayah": "Pusat gempa berada di laut 16 km Timurlaut Jayapura",
     "warning": [
       "III Jayapura"
-    ]
-  },
-  {
-    "waktu": "14/01/2023 18:12:57 WIB",
-    "lintang": "7.17 LS",
-    "bujur": "109.79 BT",
-    "magnitudo": "1.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 25 km BaratLaut Wonosobo",
-    "warning": [
-      "II Banjarnegara"
     ]
   }
 ]

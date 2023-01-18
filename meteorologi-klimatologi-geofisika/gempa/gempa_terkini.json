@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18-01-23 07:34:46 WIB",
+    "lintang": "-0.07",
+    "bujur": "123.28",
+    "magnitudo": "6.3",
+    "kedalaman": "138 Km",
+    "wilayah": "69 km Tenggara BONEBOLANGO-GORONTALO"
+  },
+  {
     "waktu": "17-01-23 11:36:12 WIB",
     "lintang": "-9.26",
     "bujur": "112.49",
@@ -230,13 +238,5 @@
     "magnitudo": "5.8",
     "kedalaman": "104 Km",
     "wilayah": "22 km Tenggara KOTA-SUKABUMI-JABAR"
-  },
-  {
-    "waktu": "06-12-22 17:22:05 WIB",
-    "lintang": "-10.58",
-    "bujur": "113.41",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "266 km BaratDaya JEMBER-JATIM"
   }
 ]
