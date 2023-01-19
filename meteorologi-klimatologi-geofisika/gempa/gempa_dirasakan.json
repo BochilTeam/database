@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "19/01/2023 20:47:39 WIB",
+    "lintang": "2.26 LS",
+    "bujur": "140.79 BT",
+    "magnitudo": "4",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di laut 39 km TimurLaut Kota Jayapura",
+    "warning": [
+      "III Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "19/01/2023 20:37:28 WIB",
+    "lintang": "2.32 LS",
+    "bujur": "140.77 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 32 km TimurLaut Kota Jayapura",
+    "warning": [
+      "III Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "18/01/2023 23:27:52 WIB",
     "lintang": "10.8 LS",
     "bujur": "111.73 BT",
@@ -274,38 +296,6 @@
       "II Lombok Utara",
       "II Mataram",
       "III Lombok Barat"
-    ]
-  },
-  {
-    "waktu": "16/01/2023 12:11:15 WIB",
-    "lintang": "2.48 LS",
-    "bujur": "140.71 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 15 Km Timur Laut Kota Jayapura",
-    "warning": [
-      "II Jayapura"
-    ]
-  },
-  {
-    "waktu": "16/01/2023 05:30:01 WIB",
-    "lintang": "1.91 LU",
-    "bujur": "97.83 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di laut 47 km Tenggara Kab. Aceh Singkil",
-    "warning": [
-      "IV Gunung Sitoli",
-      "III Subulussalam",
-      "III Padang Sidempuan",
-      "III - IV Aceh Selatan",
-      "IV Nias Utara",
-      "IV Nias Barat",
-      "IV Nias Selatan",
-      "II Tapanuli Utara",
-      "IV Aceh Singkil",
-      "II Sibolga",
-      "IV Kepulauan Banyak"
     ]
   }
 ]
