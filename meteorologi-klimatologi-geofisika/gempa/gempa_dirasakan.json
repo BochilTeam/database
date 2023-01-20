@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/01/2023 06:55:33 WIB",
+    "lintang": "4.14 LS",
+    "bujur": "121.62 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Timurlaut Pomala, Kabupaten Kolaka",
+    "warning": [
+      "II - III Kabupaten Kolaka"
+    ]
+  },
+  {
     "waktu": "19/01/2023 20:47:39 WIB",
     "lintang": "2.26 LS",
     "bujur": "140.79 BT",
@@ -277,25 +288,6 @@
       "III Warungkondang",
       "III Panembong",
       "II-III Kota Cianjur"
-    ]
-  },
-  {
-    "waktu": "16/01/2023 20:10:04 WIB",
-    "lintang": "9.32 LS",
-    "bujur": "115.49 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "69 Km",
-    "wilayah": "Pusat gempa berada di laut 65 km Tenggara KUTASELATAN",
-    "warning": [
-      "II Denpasar",
-      "II Kuta Selatan",
-      "II Jimbaran",
-      "II Karangasem",
-      "II Gianyar",
-      "II Klungkung",
-      "II Lombok Utara",
-      "II Mataram",
-      "III Lombok Barat"
     ]
   }
 ]
