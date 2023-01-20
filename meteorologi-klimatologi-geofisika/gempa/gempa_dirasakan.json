@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "20/01/2023 20:19:56 WIB",
+    "lintang": "2.64 LS",
+    "bujur": "140.6 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km BaratDaya Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "20/01/2023 19:49:11 WIB",
+    "lintang": "7.19 LS",
+    "bujur": "109.81 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km BaratLaut Wonosobo",
+    "warning": [
+      "II Wonosobo",
+      "II Banjarnegara"
+    ]
+  },
+  {
     "waktu": "20/01/2023 06:55:33 WIB",
     "lintang": "4.14 LS",
     "bujur": "121.62 BT",
@@ -262,32 +285,6 @@
     "wilayah": "Pusat gempa berada di laut 14 km TimurLaut Jayapura",
     "warning": [
       "II Jayapura"
-    ]
-  },
-  {
-    "waktu": "17/01/2023 01:40:13 WIB",
-    "lintang": "2.56 LS",
-    "bujur": "140.78 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 19 km Timurlaut kota Jayapura",
-    "warning": [
-      "II-III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "17/01/2023 00:16:45 WIB",
-    "lintang": "6.85 LS",
-    "bujur": "107.04 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km barat daya Kab. Cianjur",
-    "warning": [
-      "III Cugenang",
-      "III Pacet",
-      "III Warungkondang",
-      "III Panembong",
-      "II-III Kota Cianjur"
     ]
   }
 ]
