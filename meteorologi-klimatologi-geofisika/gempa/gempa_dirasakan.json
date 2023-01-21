@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "21/01/2023 09:50:34 WIB",
+    "lintang": "3.33 LU",
+    "bujur": "96.25 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di Laut 91 km Tenggara Meulaboh",
+    "warning": [
+      "II Aceh Selatan",
+      "II Takengon",
+      "II Gayo Lues"
+    ]
+  },
+  {
     "waktu": "21/01/2023 06:23:59 WIB",
     "lintang": "6.8 LS",
     "bujur": "107.07 BT",
@@ -262,18 +275,6 @@
     "magnitudo": "2.2",
     "kedalaman": "17 Km",
     "wilayah": "Pusat gempa berada di darat 24 km tenggara kab. Pekalongan",
-    "warning": [
-      "III Batur",
-      "III Dieng"
-    ]
-  },
-  {
-    "waktu": "17/01/2023 13:54:53 WIB",
-    "lintang": "7.15 LS",
-    "bujur": "109.77 BT",
-    "magnitudo": "1.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km tenggara kab-Pekalongan",
     "warning": [
       "III Batur",
       "III Dieng"
