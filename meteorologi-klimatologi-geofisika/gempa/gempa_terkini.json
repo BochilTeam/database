@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22-01-23 03:06:52 WIB",
+    "lintang": "2.78",
+    "bujur": "127.09",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "143 km Tenggara MELONGUANE-SULUT"
+  },
+  {
     "waktu": "21-01-23 10:58:08 WIB",
     "lintang": "2.85",
     "bujur": "127.14",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "229 km BaratDaya KODI-SUMBABARATDAYA-NTT"
-  },
-  {
-    "waktu": "17-12-22 04:50:50 WIB",
-    "lintang": "-6.25",
-    "bujur": "105.04",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "75 km BaratLaut SUMUR-BANTEN"
   }
 ]
