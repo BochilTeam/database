@@ -1,5 +1,39 @@
 [
   {
+    "waktu": "21/01/2023 06:23:59 WIB",
+    "lintang": "6.8 LS",
+    "bujur": "107.07 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Kab. Cianjur",
+    "warning": [
+      "III Pacet",
+      "II - III Cianjur"
+    ]
+  },
+  {
+    "waktu": "21/01/2023 05:33:53 WIB",
+    "lintang": "2.29 LS",
+    "bujur": "140.78 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 36 km timur laut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "21/01/2023 05:22:47 WIB",
+    "lintang": "2.43 LS",
+    "bujur": "140.7 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 18 km timur laut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "20/01/2023 20:19:56 WIB",
     "lintang": "2.64 LS",
     "bujur": "140.6 BT",
@@ -243,48 +277,6 @@
     "warning": [
       "III Batur",
       "III Dieng"
-    ]
-  },
-  {
-    "waktu": "17/01/2023 11:50:49 WIB",
-    "lintang": "1.56 LS",
-    "bujur": "99.85 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 71 km Timurlaut Pulau Sipora, kep. Mentawai",
-    "warning": [
-      "II Tuapejat"
-    ]
-  },
-  {
-    "waktu": "17/01/2023 11:36:12 WIB",
-    "lintang": "9.26 LS",
-    "bujur": "112.49 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut, 125 km Barat Daya Kab. Malang",
-    "warning": [
-      "III-IV Karangkates",
-      "III-IV Sumbermanjing Wetan",
-      "II - III Kepanjen",
-      "II - III Lumajang",
-      "II - III Malang",
-      "II Badung",
-      "II Blitar",
-      "II Trenggalek",
-      "II Pacitan",
-      "II Bondowoso"
-    ]
-  },
-  {
-    "waktu": "17/01/2023 09:14:04 WIB",
-    "lintang": "2.45 LS",
-    "bujur": "140.66 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 14 km TimurLaut Jayapura",
-    "warning": [
-      "II Jayapura"
     ]
   }
 ]
