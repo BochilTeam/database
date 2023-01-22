@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "22/01/2023 16:44:45 WIB",
+    "lintang": "2.5 LS",
+    "bujur": "140.71 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km Timur Laut Kota Jayapura",
+    "warning": [
+      "III - IV Kota Jayapura",
+      "III Kab",
+      "Jayapura",
+      "III Kab. Keerom"
+    ]
+  },
+  {
     "waktu": "22/01/2023 11:58:36 WIB",
     "lintang": "6.73 LS",
     "bujur": "107.34 BT",
@@ -270,19 +284,6 @@
     "warning": [
       "II Kota Jayapura",
       "II Kabupaten Jayapura"
-    ]
-  },
-  {
-    "waktu": "17/01/2023 13:58:42 WIB",
-    "lintang": "7.16 LS",
-    "bujur": "109.76 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "21 Km",
-    "wilayah": "Pusat gempa berada di darat 24 km tenggara kab. Pekalongan",
-    "warning": [
-      "II - III Batur",
-      "II - III Dieng",
-      "II - III Wonosobo"
     ]
   }
 ]
