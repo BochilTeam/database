@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "22/01/2023 11:58:36 WIB",
+    "lintang": "6.73 LS",
+    "bujur": "107.34 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km Barat Daya Kabupaten Purwakarta",
+    "warning": [
+      "III Purwakarta",
+      "II - III Cikalong Wetan",
+      "II - III Cianjur",
+      "II - III Karangtengah",
+      "II - III Ciranjang",
+      "II - III Darangdan",
+      "II - III Cirata"
+    ]
+  },
+  {
     "waktu": "21/01/2023 09:50:34 WIB",
     "lintang": "3.33 LU",
     "bujur": "96.25 BT",
@@ -266,18 +283,6 @@
       "II - III Batur",
       "II - III Dieng",
       "II - III Wonosobo"
-    ]
-  },
-  {
-    "waktu": "17/01/2023 13:56:13 WIB",
-    "lintang": "7.15 LS",
-    "bujur": "109.77 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di darat 24 km tenggara kab. Pekalongan",
-    "warning": [
-      "III Batur",
-      "III Dieng"
     ]
   }
 ]
