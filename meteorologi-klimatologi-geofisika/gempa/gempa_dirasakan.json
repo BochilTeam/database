@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/01/2023 12:32:31 WIB",
+    "lintang": "8.13 LS",
+    "bujur": "124.93 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada dilaut 45 km Timur Laut Alor",
+    "warning": [
+      "III Alor"
+    ]
+  },
+  {
     "waktu": "22/01/2023 16:44:45 WIB",
     "lintang": "2.5 LS",
     "bujur": "140.71 BT",
@@ -272,18 +283,6 @@
       "III Borong",
       "II Bajawa",
       "II Ende"
-    ]
-  },
-  {
-    "waktu": "17/01/2023 16:47:55 WIB",
-    "lintang": "2.4 LS",
-    "bujur": "140.4 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 20 km Baratlaut Kabupaten Jayapura",
-    "warning": [
-      "II Kota Jayapura",
-      "II Kabupaten Jayapura"
     ]
   }
 ]
