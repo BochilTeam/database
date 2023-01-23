@@ -1,5 +1,24 @@
 [
   {
+    "waktu": "24/01/2023 02:45:01 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.07 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km Barat Laut Kab. Cianjur",
+    "warning": [
+      "III-IV Cianjur",
+      "III-IV Cikalongkulon",
+      "III-IV Cipanas",
+      "III-IV Sukabumi",
+      "III Purwakarta",
+      "II Jakarta Selatan",
+      "II Tangerang Selatan",
+      "II Bekasi",
+      "II Depok"
+    ]
+  },
+  {
     "waktu": "23/01/2023 12:32:31 WIB",
     "lintang": "8.13 LS",
     "bujur": "124.93 BT",
@@ -265,24 +284,6 @@
       "II - III Cianjur",
       "II - III Karangtengah",
       "II - III Cipanas"
-    ]
-  },
-  {
-    "waktu": "17/01/2023 22:21:26 WIB",
-    "lintang": "8.41 LS",
-    "bujur": "120.6 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "30 Km",
-    "wilayah": "Pusat gempa berada di darat 27 km TimurLaut Ruteng",
-    "warning": [
-      "IV Ruteng",
-      "III Nagekeo",
-      "II - III Labuan Bajo",
-      "II Congkar",
-      "II Reo",
-      "III Borong",
-      "II Bajawa",
-      "II Ende"
     ]
   }
 ]
