@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "24/01/2023 12:35:45 WIB",
+    "lintang": "6.76 LS",
+    "bujur": "107.1 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Kab. Cianjur",
+    "warning": [
+      "II Cijedil",
+      "II Rancagoong"
+    ]
+  },
+  {
     "waktu": "24/01/2023 05:55:22 WIB",
     "lintang": "5.62 LS",
     "bujur": "104.19 BT",
@@ -266,21 +278,6 @@
     "wilayah": "Pusat gempa berada di laut 18 km TimurLaut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "18/01/2023 00:37:17 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "107.1 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km Baratdaya Kabupaten Cianjur",
-    "warning": [
-      "II - III Cilaku",
-      "II - III Cianjur",
-      "II - III Gekbrong",
-      "II - III Karangtengah",
-      "II - III Cugenang"
     ]
   }
 ]
