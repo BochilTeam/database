@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24-01-23 23:10:22 WIB",
+    "lintang": "3.49",
+    "bujur": "128.62",
+    "magnitudo": "5.1",
+    "kedalaman": "50 Km",
+    "wilayah": "164 km TimurLaut DARUBA-MALUT"
+  },
+  {
     "waktu": "24-01-23 09:30:07 WIB",
     "lintang": "2.75",
     "bujur": "127.04",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "65 Km",
     "wilayah": "208 km BaratLaut MALUKUTENGGARA"
-  },
-  {
-    "waktu": "25-12-22 03:57:27 WIB",
-    "lintang": "-9.44",
-    "bujur": "109.16",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "191 km Tenggara CILACAP-JATENG"
   }
 ]

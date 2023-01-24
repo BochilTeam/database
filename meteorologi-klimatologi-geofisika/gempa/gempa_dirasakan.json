@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/01/2023 22:15:15 WIB",
+    "lintang": "7.14 LS",
+    "bujur": "110.02 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di darat 26 km BaratLaut Temanggung",
+    "warning": [
+      "II Dieng"
+    ]
+  },
+  {
     "waktu": "24/01/2023 12:35:44 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.09 BT",
@@ -267,17 +278,6 @@
       "III-IV Sorowako",
       "III Kotamobagu",
       "III Bolaang Mongondow Timur"
-    ]
-  },
-  {
-    "waktu": "18/01/2023 03:47:03 WIB",
-    "lintang": "2.45 LS",
-    "bujur": "140.72 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 18 km TimurLaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
