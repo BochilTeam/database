@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "24/01/2023 05:55:22 WIB",
+    "lintang": "5.62 LS",
+    "bujur": "104.19 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "46 Km",
+    "wilayah": "Pusat gempa berada di laut 55 km Tenggara Pesisir Barat",
+    "warning": [
+      "II Kota Agung",
+      "II Ngaras"
+    ]
+  },
+  {
     "waktu": "24/01/2023 02:45:01 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.07 BT",
@@ -269,21 +281,6 @@
       "II - III Gekbrong",
       "II - III Karangtengah",
       "II - III Cugenang"
-    ]
-  },
-  {
-    "waktu": "17/01/2023 23:12:01 WIB",
-    "lintang": "6.78 LS",
-    "bujur": "107.1 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km Baratlaut Kabupaten Cianjur",
-    "warning": [
-      "II - III Cilaku",
-      "II - III Cugenang",
-      "II - III Cianjur",
-      "II - III Karangtengah",
-      "II - III Cipanas"
     ]
   }
 ]
