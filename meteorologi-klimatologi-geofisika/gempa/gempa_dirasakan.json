@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "26/01/2023 19:56:33 WIB",
+    "lintang": "8 LS",
+    "bujur": "110.48 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km BaratDaya Gunungkidul",
+    "warning": [
+      "II Kretek",
+      "II Panggang"
+    ]
+  },
+  {
+    "waktu": "26/01/2023 19:20:12 WIB",
+    "lintang": "2.19 LU",
+    "bujur": "97.86 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di laut 17 km Tenggara Kabupaten Aceh Singkil",
+    "warning": [
+      "II - III Singkil"
+    ]
+  },
+  {
     "waktu": "24/01/2023 22:15:15 WIB",
     "lintang": "7.14 LS",
     "bujur": "110.02 BT",
@@ -218,66 +241,6 @@
     "wilayah": "Pusat gempa berada di laut 78 km Baratlaut Jayapura",
     "warning": [
       "III Kabupaten Jayapura"
-    ]
-  },
-  {
-    "waktu": "18/01/2023 13:06:14 WIB",
-    "lintang": "2.8 LU",
-    "bujur": "127.11 BT",
-    "magnitudo": "7.1",
-    "kedalaman": "64 Km",
-    "wilayah": "Pusat gempa berada di laut 141 km Tenggara Melonguane",
-    "warning": [
-      "III Minahasa",
-      "III Manado",
-      "III Minahasa Utara",
-      "III Bitung",
-      "III Ternate",
-      "III Sofifi",
-      "III Halmahera Timur",
-      "III - IV Talaud",
-      "III Minahasa Tenggara",
-      "III Minahasa Selatan",
-      "III Bolaang Mongondow Timur",
-      "III Bolaang Mongondow Selatan",
-      "III - IV Kepulauan Sangihe",
-      "II Kota Gorontalo",
-      "III Tomohon",
-      "III Bolaang Mongondow",
-      "III Halmahera Barat",
-      "III Halmahera Utara",
-      "III - IV Kepulauan Sitaro",
-      "III Banggai Kepulauan",
-      "III Halmahera Tengah",
-      "III-IV Tidore",
-      "IV Pulau Taliabu"
-    ]
-  },
-  {
-    "waktu": "18/01/2023 07:34:46 WIB",
-    "lintang": "0.07 LS",
-    "bujur": "123.28 BT",
-    "magnitudo": "6.3",
-    "kedalaman": "138 Km",
-    "wilayah": "Pusat gempa berada di laut 69 km Tenggara Bone Bolango",
-    "warning": [
-      "III-IV Luwuk",
-      "III - IV Ampana",
-      "III Kabupaten Gorontalo",
-      "III Kota Gorontalo",
-      "III Taliabu",
-      "III Minahasa Tenggara",
-      "III Kabupaten Bone Bolango",
-      "II - III Kabupaten Pohuwato",
-      "II - III Kabupaten Gorontalo Utara",
-      "II - III Sanana",
-      "II - III Palu",
-      "II Ternate",
-      "II Labuha",
-      "III-IV Malili",
-      "III-IV Sorowako",
-      "III Kotamobagu",
-      "III Bolaang Mongondow Timur"
     ]
   }
 ]
