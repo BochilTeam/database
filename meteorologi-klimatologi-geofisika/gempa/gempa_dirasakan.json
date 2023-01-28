@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "29/01/2023 02:15:19 WIB",
+    "lintang": "1.95 LU",
+    "bujur": "128.13 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "136 Km",
+    "wilayah": "Pusat gempa berada di laut 13 km barat daya Daruba",
+    "warning": [
+      "IV Morotai",
+      "III Halmahera Tengah",
+      "III Halmahera Utara"
+    ]
+  },
+  {
     "waktu": "28/01/2023 17:02:10 WIB",
     "lintang": "6.72 LS",
     "bujur": "107.3 BT",
@@ -237,17 +250,6 @@
     "magnitudo": "4",
     "kedalaman": "6 Km",
     "wilayah": "Pusat gempa berada di laut 39 km TimurLaut Kota Jayapura",
-    "warning": [
-      "III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "19/01/2023 20:37:28 WIB",
-    "lintang": "2.32 LS",
-    "bujur": "140.77 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 32 km TimurLaut Kota Jayapura",
     "warning": [
       "III Kota Jayapura"
     ]

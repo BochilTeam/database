@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29-01-23 02:15:19 WIB",
+    "lintang": "1.95",
+    "bujur": "128.13",
+    "magnitudo": "5.6",
+    "kedalaman": "136 Km",
+    "wilayah": "21 km BaratDaya DARUBA-MALUT"
+  },
+  {
     "waktu": "28-01-23 22:47:55 WIB",
     "lintang": "-6.69",
     "bujur": "129.96",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "28 Km",
     "wilayah": "197 km Tenggara ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "30-12-22 11:16:57 WIB",
-    "lintang": "-0.21",
-    "bujur": "97.22",
-    "magnitudo": "5.0",
-    "kedalaman": "38 Km",
-    "wilayah": "109 km BaratDaya NIASSELATAN-SUMUT"
   }
 ]
