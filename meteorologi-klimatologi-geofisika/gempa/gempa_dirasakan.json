@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/01/2023 03:33:03 WIB",
+    "lintang": "1.78 LU",
+    "bujur": "128.04 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di laut 8 km timur laut Tobelo",
+    "warning": [
+      "II - III Halmahera Timur"
+    ]
+  },
+  {
     "waktu": "29/01/2023 02:15:19 WIB",
     "lintang": "1.95 LU",
     "bujur": "128.13 BT",
@@ -241,17 +252,6 @@
     "wilayah": "Pusat gempa berada di darat 4 km Timurlaut Pomala, Kabupaten Kolaka",
     "warning": [
       "II - III Kabupaten Kolaka"
-    ]
-  },
-  {
-    "waktu": "19/01/2023 20:47:39 WIB",
-    "lintang": "2.26 LS",
-    "bujur": "140.79 BT",
-    "magnitudo": "4",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di laut 39 km TimurLaut Kota Jayapura",
-    "warning": [
-      "III Kota Jayapura"
     ]
   }
 ]
