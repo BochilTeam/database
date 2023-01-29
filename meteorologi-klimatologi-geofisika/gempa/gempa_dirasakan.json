@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/01/2023 21:28:04 WIB",
+    "lintang": "7.21 LS",
+    "bujur": "109.89 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km Barat Laut Wonosobo",
+    "warning": [
+      "II Banjarnegara"
+    ]
+  },
+  {
     "waktu": "29/01/2023 03:33:03 WIB",
     "lintang": "1.78 LU",
     "bujur": "128.04 BT",
@@ -241,17 +252,6 @@
     "warning": [
       "II Wonosobo",
       "II Banjarnegara"
-    ]
-  },
-  {
-    "waktu": "20/01/2023 06:55:33 WIB",
-    "lintang": "4.14 LS",
-    "bujur": "121.62 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km Timurlaut Pomala, Kabupaten Kolaka",
-    "warning": [
-      "II - III Kabupaten Kolaka"
     ]
   }
 ]
