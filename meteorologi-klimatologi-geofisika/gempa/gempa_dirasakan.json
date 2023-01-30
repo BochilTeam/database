@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "30/01/2023 10:58:56 WIB",
+    "lintang": "3.73 LS",
+    "bujur": "133.43 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 75 km BaratDaya Kaimana",
+    "warning": [
+      "II - III Kaimana"
+    ]
+  },
+  {
+    "waktu": "30/01/2023 10:42:31 WIB",
+    "lintang": "0.43 LS",
+    "bujur": "132.48 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 40 km TimurLaut Tambrauw",
+    "warning": [
+      "II - III Tambrauw"
+    ]
+  },
+  {
     "waktu": "30/01/2023 08:58:48 WIB",
     "lintang": "2.46 LS",
     "bujur": "140.68 BT",
@@ -228,29 +250,6 @@
       "II Aceh Selatan",
       "II Takengon",
       "II Gayo Lues"
-    ]
-  },
-  {
-    "waktu": "21/01/2023 06:23:59 WIB",
-    "lintang": "6.8 LS",
-    "bujur": "107.07 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Kab. Cianjur",
-    "warning": [
-      "III Pacet",
-      "II - III Cianjur"
-    ]
-  },
-  {
-    "waktu": "21/01/2023 05:33:53 WIB",
-    "lintang": "2.29 LS",
-    "bujur": "140.78 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 36 km timur laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
