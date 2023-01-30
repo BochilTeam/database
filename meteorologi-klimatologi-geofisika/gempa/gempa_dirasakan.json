@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "30/01/2023 22:10:21 WIB",
+    "lintang": "8.38 LS",
+    "bujur": "120.57 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 28 km Timur laut Ruteng",
+    "warning": [
+      "II - III Ruteng",
+      "II - III Borong"
+    ]
+  },
+  {
     "waktu": "30/01/2023 13:24:19 WIB",
     "lintang": "3.33 LS",
     "bujur": "128.35 BT",
@@ -231,23 +243,6 @@
       "III Kab",
       "Jayapura",
       "III Kab. Keerom"
-    ]
-  },
-  {
-    "waktu": "22/01/2023 11:58:36 WIB",
-    "lintang": "6.73 LS",
-    "bujur": "107.34 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 22 km Barat Daya Kabupaten Purwakarta",
-    "warning": [
-      "III Purwakarta",
-      "II - III Cikalong Wetan",
-      "II - III Cianjur",
-      "II - III Karangtengah",
-      "II - III Ciranjang",
-      "II - III Darangdan",
-      "II - III Cirata"
     ]
   }
 ]
