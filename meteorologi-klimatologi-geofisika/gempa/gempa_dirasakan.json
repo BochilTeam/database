@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "31/01/2023 17:31:42 WIB",
+    "lintang": "3.85 LS",
+    "bujur": "119.27 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di laut 38 Km Barat Daya Pinrang",
+    "warning": [
+      "II-III Majene",
+      "II-III Pinrang"
+    ]
+  },
+  {
     "waktu": "31/01/2023 10:29:47 WIB",
     "lintang": "2.42 LS",
     "bujur": "140.72 BT",
@@ -229,17 +241,6 @@
       "II Tangerang Selatan",
       "II Bekasi",
       "II Depok"
-    ]
-  },
-  {
-    "waktu": "23/01/2023 12:32:31 WIB",
-    "lintang": "8.13 LS",
-    "bujur": "124.93 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada dilaut 45 km Timur Laut Alor",
-    "warning": [
-      "III Alor"
     ]
   }
 ]
