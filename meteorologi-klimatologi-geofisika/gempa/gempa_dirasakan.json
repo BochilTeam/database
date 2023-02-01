@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/02/2023 08:10:16 WIB",
+    "lintang": "6.77 LS",
+    "bujur": "107.13 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Kab. Cianjur",
+    "warning": [
+      "II Cipanas"
+    ]
+  },
+  {
     "waktu": "01/02/2023 06:06:20 WIB",
     "lintang": "7.23 LS",
     "bujur": "109.89 BT",
@@ -221,18 +232,6 @@
     "warning": [
       "II Cijedil",
       "II Rancagoong"
-    ]
-  },
-  {
-    "waktu": "24/01/2023 05:55:22 WIB",
-    "lintang": "5.62 LS",
-    "bujur": "104.19 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "46 Km",
-    "wilayah": "Pusat gempa berada di laut 55 km Tenggara Pesisir Barat",
-    "warning": [
-      "II Kota Agung",
-      "II Ngaras"
     ]
   }
 ]
