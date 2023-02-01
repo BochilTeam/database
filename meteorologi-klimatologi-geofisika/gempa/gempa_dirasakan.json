@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/02/2023 06:06:20 WIB",
+    "lintang": "7.23 LS",
+    "bujur": "109.89 BT",
+    "magnitudo": "1.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km BaratLaut Wonosobo",
+    "warning": [
+      "II Dieng"
+    ]
+  },
+  {
     "waktu": "31/01/2023 17:31:42 WIB",
     "lintang": "3.85 LS",
     "bujur": "119.27 BT",
@@ -222,25 +233,6 @@
     "warning": [
       "II Kota Agung",
       "II Ngaras"
-    ]
-  },
-  {
-    "waktu": "24/01/2023 02:45:01 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.07 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km Barat Laut Kab. Cianjur",
-    "warning": [
-      "III-IV Cianjur",
-      "III-IV Cikalongkulon",
-      "III-IV Cipanas",
-      "III-IV Sukabumi",
-      "III Purwakarta",
-      "II Jakarta Selatan",
-      "II Tangerang Selatan",
-      "II Bekasi",
-      "II Depok"
     ]
   }
 ]
