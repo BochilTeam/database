@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "01/02/2023 16:33:47 WIB",
+    "lintang": "5.3 LS",
+    "bujur": "103.35 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "39 Km",
+    "wilayah": "Pusat gempa berada di laut 56 km Tenggara Kaur",
+    "warning": [
+      "II Sekincau"
+    ]
+  },
+  {
+    "waktu": "01/02/2023 15:04:51 WIB",
+    "lintang": "0.87 LS",
+    "bujur": "134.62 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 29 km BaratLaut Pulau Numfor",
+    "warning": [
+      "II-III Ransiki",
+      "II-III Oransbari"
+    ]
+  },
+  {
     "waktu": "01/02/2023 08:10:16 WIB",
     "lintang": "6.77 LS",
     "bujur": "107.13 BT",
@@ -209,29 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 17 km Tenggara Kabupaten Aceh Singkil",
     "warning": [
       "II - III Singkil"
-    ]
-  },
-  {
-    "waktu": "24/01/2023 22:15:15 WIB",
-    "lintang": "7.14 LS",
-    "bujur": "110.02 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "26 Km",
-    "wilayah": "Pusat gempa berada di darat 26 km BaratLaut Temanggung",
-    "warning": [
-      "II Dieng"
-    ]
-  },
-  {
-    "waktu": "24/01/2023 12:35:44 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.09 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Kab. Cianjur",
-    "warning": [
-      "II Cijedil",
-      "II Rancagoong"
     ]
   }
 ]
