@@ -1,5 +1,38 @@
 [
   {
+    "waktu": "02/02/2023 19:45:55 WIB",
+    "lintang": "7.28 LS",
+    "bujur": "106.14 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 40 km barat daya Bayah",
+    "warning": [
+      "III Bayah",
+      "III Malingping",
+      "III Ciracap",
+      "III Surade",
+      "II Sukabumi",
+      "II Cianjur",
+      "II Pelabuhan Ratu",
+      "II Cipanas",
+      "II Lebak"
+    ]
+  },
+  {
+    "waktu": "02/02/2023 19:19:12 WIB",
+    "lintang": "5.71 LS",
+    "bujur": "103.94 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "34 Km",
+    "wilayah": "Pusat gempa berada di laut 57 km Tenggara Pesisir Barat",
+    "warning": [
+      "III Pesisir Barat",
+      "III Tanggamus",
+      "II Liwa",
+      "II Lampung Barat"
+    ]
+  },
+  {
     "waktu": "01/02/2023 22:57:21 WIB",
     "lintang": "7.27 LS",
     "bujur": "107.73 BT",
@@ -211,37 +244,6 @@
       "IV Morotai",
       "III Halmahera Tengah",
       "III Halmahera Utara"
-    ]
-  },
-  {
-    "waktu": "28/01/2023 17:02:10 WIB",
-    "lintang": "6.72 LS",
-    "bujur": "107.3 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km Timur Laut Kabupaten Cianjur",
-    "warning": [
-      "II - III Cirata",
-      "II - III Tegalwaru",
-      "II - III Cianjur",
-      "II - III Gekbrong",
-      "II - III Cugenang",
-      "II - III Bojongpicung",
-      "II - III Karangtengah",
-      "II - III Mande",
-      "II Padalarang"
-    ]
-  },
-  {
-    "waktu": "28/01/2023 01:00:33 WIB",
-    "lintang": "7.22 LS",
-    "bujur": "107.59 BT",
-    "magnitudo": "4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 23 km tenggara Kab. Bandung",
-    "warning": [
-      "II - III Soreang",
-      "II - III Bandung"
     ]
   }
 ]
