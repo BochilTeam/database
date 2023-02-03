@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/02/2023 20:42:56 WIB",
+    "lintang": "2.49 LS",
+    "bujur": "140.69 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "30 Km",
+    "wilayah": "Pusat gempa berada di darat 12 Km TimurLaut Kota Jayapura",
+    "warning": [
+      "II - III Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "03/02/2023 06:05:05 WIB",
     "lintang": "2.61 LU",
     "bujur": "128.18 BT",
@@ -231,17 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 11 km Timur Laut Wonosobo",
     "warning": [
       "II-III Banjarnegara"
-    ]
-  },
-  {
-    "waktu": "29/01/2023 21:28:04 WIB",
-    "lintang": "7.21 LS",
-    "bujur": "109.89 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km Barat Laut Wonosobo",
-    "warning": [
-      "II Banjarnegara"
     ]
   }
 ]
