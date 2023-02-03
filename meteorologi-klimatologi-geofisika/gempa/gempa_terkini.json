@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03-02-23 06:05:05 WIB",
+    "lintang": "2.61",
+    "bujur": "128.18",
+    "magnitudo": "5.0",
+    "kedalaman": "19 Km",
+    "wilayah": "63 km BaratLaut DARUBA-MALUT"
+  },
+  {
     "waktu": "30-01-23 03:18:58 WIB",
     "lintang": "5.43",
     "bujur": "126.31",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "68 km BaratDaya KAIMANA-PAPUABRT"
-  },
-  {
-    "waktu": "30-12-22 19:10:47 WIB",
-    "lintang": "-8.24",
-    "bujur": "129.07",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "142 km Tenggara MALUKUBRTDAYA"
   }
 ]

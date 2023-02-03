@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/02/2023 06:05:05 WIB",
+    "lintang": "2.61 LU",
+    "bujur": "128.18 BT",
+    "magnitudo": "5",
+    "kedalaman": "19 Km",
+    "wilayah": "Pusat gempa berada di laut 63 km barat laut Daruba",
+    "warning": [
+      "II - III Morotai"
+    ]
+  },
+  {
     "waktu": "02/02/2023 20:45:35 WIB",
     "lintang": "4.07 LS",
     "bujur": "128.09 BT",
@@ -231,17 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 17 km Barat Laut Wonosobo",
     "warning": [
       "II Banjarnegara"
-    ]
-  },
-  {
-    "waktu": "29/01/2023 03:33:03 WIB",
-    "lintang": "1.78 LU",
-    "bujur": "128.04 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di laut 8 km timur laut Tobelo",
-    "warning": [
-      "II - III Halmahera Timur"
     ]
   }
 ]
