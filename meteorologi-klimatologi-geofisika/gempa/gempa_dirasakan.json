@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "04/02/2023 19:22:17 WIB",
+    "lintang": "7.18 LS",
+    "bujur": "109.83 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km BaratLaut Wonosobo",
+    "warning": [
+      "II Batur",
+      "II Kepakisan"
+    ]
+  },
+  {
     "waktu": "04/02/2023 11:39:24 WIB",
     "lintang": "2.54 LS",
     "bujur": "140.69 BT",
@@ -231,17 +243,6 @@
     "wilayah": "Pusat gempa berada di darat 1 km Utara Kairatu",
     "warning": [
       "III Kairatu"
-    ]
-  },
-  {
-    "waktu": "30/01/2023 10:58:56 WIB",
-    "lintang": "3.73 LS",
-    "bujur": "133.43 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 75 km BaratDaya Kaimana",
-    "warning": [
-      "II - III Kaimana"
     ]
   }
 ]
