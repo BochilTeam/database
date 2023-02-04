@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/02/2023 21:02:02 WIB",
+    "lintang": "8.36 LS",
+    "bujur": "116.14 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km Barat Daya Lombok Utara",
+    "warning": [
+      "III Lombok Utara"
+    ]
+  },
+  {
     "waktu": "04/02/2023 19:22:17 WIB",
     "lintang": "7.18 LS",
     "bujur": "109.83 BT",
@@ -232,17 +243,6 @@
     "warning": [
       "II - III Ruteng",
       "II - III Borong"
-    ]
-  },
-  {
-    "waktu": "30/01/2023 13:24:19 WIB",
-    "lintang": "3.33 LS",
-    "bujur": "128.35 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 1 km Utara Kairatu",
-    "warning": [
-      "III Kairatu"
     ]
   }
 ]
