@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/02/2023 11:39:24 WIB",
+    "lintang": "2.54 LS",
+    "bujur": "140.69 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km TimurLaut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "04/02/2023 09:48:46 WIB",
     "lintang": "2.56 LS",
     "bujur": "140.62 BT",
@@ -231,17 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 75 km BaratDaya Kaimana",
     "warning": [
       "II - III Kaimana"
-    ]
-  },
-  {
-    "waktu": "30/01/2023 10:42:31 WIB",
-    "lintang": "0.43 LS",
-    "bujur": "132.48 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 40 km TimurLaut Tambrauw",
-    "warning": [
-      "II - III Tambrauw"
     ]
   }
 ]
