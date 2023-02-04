@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "04/02/2023 09:48:46 WIB",
+    "lintang": "2.56 LS",
+    "bujur": "140.62 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 1 km Timurlaut Kota Jayapura",
+    "warning": [
+      "III - IV Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "04/02/2023 09:47:24 WIB",
+    "lintang": "2.57 LS",
+    "bujur": "140.65 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km tenggara kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "04/02/2023 06:15:37 WIB",
     "lintang": "4.92 LU",
     "bujur": "96.04 BT",
@@ -220,28 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 40 km TimurLaut Tambrauw",
     "warning": [
       "II - III Tambrauw"
-    ]
-  },
-  {
-    "waktu": "30/01/2023 08:58:48 WIB",
-    "lintang": "2.46 LS",
-    "bujur": "140.68 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 13 km Timurlaut Kota Jayapura",
-    "warning": [
-      "II-III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "30/01/2023 08:04:50 WIB",
-    "lintang": "2.59 LS",
-    "bujur": "121.05 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 13km BaratDaya Luwu Timur",
-    "warning": [
-      "III-IV Malili"
     ]
   }
 ]
