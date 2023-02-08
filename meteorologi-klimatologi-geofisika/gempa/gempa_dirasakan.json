@@ -1,5 +1,71 @@
 [
   {
+    "waktu": "09/02/2023 02:58:27 WIB",
+    "lintang": "2.43 LS",
+    "bujur": "140.68 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 12 Km BaratLaut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "09/02/2023 02:56:32 WIB",
+    "lintang": "2.46 LS",
+    "bujur": "140.68 BT",
+    "magnitudo": "3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 9 km Barat Laut Kota Jayapura",
+    "warning": [
+      "II Jayapura"
+    ]
+  },
+  {
+    "waktu": "09/02/2023 02:42:03 WIB",
+    "lintang": "2.43 LS",
+    "bujur": "140.67 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di laut Barat Laut Kota Jayapura",
+    "warning": [
+      "II Jayapura"
+    ]
+  },
+  {
+    "waktu": "09/02/2023 02:36:13 WIB",
+    "lintang": "2.51 LS",
+    "bujur": "140.69 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Barat Laut Kota Jayapura",
+    "warning": [
+      "II Jayapura"
+    ]
+  },
+  {
+    "waktu": "09/02/2023 01:26:34 WIB",
+    "lintang": "2.45 LS",
+    "bujur": "140.68 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 10 km Baratlaut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "09/02/2023 01:09:23 WIB",
+    "lintang": "2.46 LS",
+    "bujur": "140.68 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km Baratlaut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "09/02/2023 00:49:16 WIB",
     "lintang": "2.43 LS",
     "bujur": "140.68 BT",
@@ -154,75 +220,6 @@
     "wilayah": "Pusat gempa berada di laut 15 Km Baratlaut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "08/02/2023 19:34:08 WIB",
-    "lintang": "2.46 LS",
-    "bujur": "140.67 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 10 Km Baratlaut Kota Jayapura",
-    "warning": [
-      "III - IV Kota Jayapura",
-      "III Kabupaten Jayapura"
-    ]
-  },
-  {
-    "waktu": "08/02/2023 18:54:34 WIB",
-    "lintang": "2.48 LS",
-    "bujur": "140.68 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 7 Km BaratLaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "08/02/2023 18:52:47 WIB",
-    "lintang": "2.47 LS",
-    "bujur": "140.66 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 10 Km BaratLaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "08/02/2023 18:42:55 WIB",
-    "lintang": "2.51 LS",
-    "bujur": "140.68 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 Km BaratLaut Kota Jayapura",
-    "warning": [
-      "II - III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "08/02/2023 18:35:35 WIB",
-    "lintang": "2.5 LS",
-    "bujur": "140.71 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km Baratlaut Kota Jayapura",
-    "warning": [
-      "III - IV Kota Jayapura",
-      "III Kabupaten Jayapura",
-      "II - III Kab. Keerom"
-    ]
-  },
-  {
-    "waktu": "08/02/2023 14:42:01 WIB",
-    "lintang": "8.17 LS",
-    "bujur": "114.78 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 28 Km TimurLaut Jembrana",
-    "warning": [
-      "II-III Gerokgak"
     ]
   }
 ]
