@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "07-02-23 07:35:50 WIB",
+    "lintang": "-7.43",
+    "bujur": "105.88",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "66 km Tenggara MUARABINUANGEUN-BANTEN"
+  },
+  {
+    "waktu": "06-02-23 14:11:33 WIB",
+    "lintang": "-7.81",
+    "bujur": "117.21",
+    "magnitudo": "5.4",
+    "kedalaman": "318 Km",
+    "wilayah": "70 km TimurLaut PULAUSARINGI-NTB"
+  },
+  {
     "waktu": "03-02-23 06:05:05 WIB",
     "lintang": "2.61",
     "bujur": "128.18",
@@ -222,21 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 Km",
     "wilayah": "90 km Tenggara PACITAN-JATIM"
-  },
-  {
-    "waktu": "03-01-23 19:55:21 WIB",
-    "lintang": "-2.27",
-    "bujur": "140.65",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "33 km TimurLaut KOTA-JAYAPURA-PAPUA"
-  },
-  {
-    "waktu": "03-01-23 16:32:26 WIB",
-    "lintang": "-3.67",
-    "bujur": "133.46",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "68 km BaratDaya KAIMANA-PAPUABRT"
   }
 ]
