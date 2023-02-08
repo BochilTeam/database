@@ -1,5 +1,73 @@
 [
   {
+    "waktu": "08/02/2023 20:36:45 WIB",
+    "lintang": "2.47 LS",
+    "bujur": "140.69 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 8 Km BaratLaut Kota Jayapura",
+    "warning": [
+      "Kota Jayapura II"
+    ]
+  },
+  {
+    "waktu": "08/02/2023 20:34:27 WIB",
+    "lintang": "2.48 LS",
+    "bujur": "140.71 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 6 Km BaratLaut Kota Jayapura",
+    "warning": [
+      "II-III Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "08/02/2023 20:21:15 WIB",
+    "lintang": "2.46 LS",
+    "bujur": "140.7 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 9 Km Barat Laut Kota Jayapura",
+    "warning": [
+      "III-IV Kota Jayapura",
+      "III Kabupaten Jayapura"
+    ]
+  },
+  {
+    "waktu": "08/02/2023 19:42:24 WIB",
+    "lintang": "2.51 LS",
+    "bujur": "140.68 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 5 Km Baratlaut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "08/02/2023 19:40:57 WIB",
+    "lintang": "2.41 LS",
+    "bujur": "140.68 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di laut 15 Km Baratlaut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "08/02/2023 19:34:08 WIB",
+    "lintang": "2.46 LS",
+    "bujur": "140.67 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 10 Km Baratlaut Kota Jayapura",
+    "warning": [
+      "III - IV Kota Jayapura",
+      "III Kabupaten Jayapura"
+    ]
+  },
+  {
     "waktu": "08/02/2023 18:54:34 WIB",
     "lintang": "2.48 LS",
     "bujur": "140.68 BT",
@@ -152,88 +220,6 @@
     "magnitudo": "2.9",
     "kedalaman": "8 Km",
     "wilayah": "Pusat gempa berada di darat 6 km Baratlaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "07/02/2023 22:28:46 WIB",
-    "lintang": "2.46 LS",
-    "bujur": "140.68 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 9 km barat laut Kota Jayapura",
-    "warning": [
-      "II-III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "07/02/2023 22:02:21 WIB",
-    "lintang": "2.47 LS",
-    "bujur": "140.68 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 8 km barat laut Kota Jayapura",
-    "warning": [
-      "III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "07/02/2023 12:42:39 WIB",
-    "lintang": "2.42 LS",
-    "bujur": "140.69 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 13 km barat laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "07/02/2023 07:35:50 WIB",
-    "lintang": "7.43 LS",
-    "bujur": "105.88 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 66 km Tenggara Muarabinuangeun",
-    "warning": [
-      "III-IV Bayah",
-      "III-IV Banjarsari",
-      "III-IV Tamanjaya",
-      "III Serang",
-      "III Pandeglang",
-      "III Malingping",
-      "III Ciptagelar",
-      "III Cikeusik",
-      "III Labuan",
-      "III Tangerang",
-      "III Panimbang",
-      "III Cinangka",
-      "II Tangerang Selatan",
-      "II Bogor",
-      "II Cianjur",
-      "II Sukabumi",
-      "II Jakarta"
-    ]
-  },
-  {
-    "waktu": "06/02/2023 20:50:12 WIB",
-    "lintang": "2.39 LU",
-    "bujur": "128.73 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di laut 62 km TimurLaut Daruba",
-    "warning": [
-      "II Morotai"
-    ]
-  },
-  {
-    "waktu": "06/02/2023 06:31:05 WIB",
-    "lintang": "2.53 LS",
-    "bujur": "140.69 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km BaratLaut kota Jayapura",
     "warning": [
       "II Kota Jayapura"
     ]
