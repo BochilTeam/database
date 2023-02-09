@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09-02-23 13:28:02 WIB",
+    "lintang": "-2.60",
+    "bujur": "140.66",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "1 km BaratDaya JAYAPURA-PAPUA"
+  },
+  {
     "waktu": "07-02-23 07:35:50 WIB",
     "lintang": "-7.43",
     "bujur": "105.88",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "128 Km",
     "wilayah": "197 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
-    "waktu": "09-01-23 19:26:31 WIB",
-    "lintang": "-8.99",
-    "bujur": "111.16",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "90 km Tenggara PACITAN-JATIM"
   }
 ]
