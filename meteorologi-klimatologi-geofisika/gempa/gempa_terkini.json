@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-02-23 15:55:06 WIB",
+    "lintang": "3.67",
+    "bujur": "126.76",
+    "magnitudo": "6.0",
+    "kedalaman": "11 Km",
+    "wilayah": "37 km Tenggara MELONGUANE-SULUT"
+  },
+  {
     "waktu": "09-02-23 13:28:02 WIB",
     "lintang": "-2.60",
     "bujur": "140.66",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "60 Km",
     "wilayah": "44 km TimurLaut WAROPEN-PAPUA"
-  },
-  {
-    "waktu": "10-01-23 01:10:01 WIB",
-    "lintang": "-6.47",
-    "bujur": "130.36",
-    "magnitudo": "5.5",
-    "kedalaman": "128 Km",
-    "wilayah": "197 km BaratLaut MALUKUTENGGARABRT"
   }
 ]

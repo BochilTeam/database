@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "11/02/2023 15:55:06 WIB",
+    "lintang": "3.67 LU",
+    "bujur": "126.76 BT",
+    "magnitudo": "6",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di Laut 37 km Tenggara Melonguane",
+    "warning": [
+      "IV Melonguane",
+      "III-IV Tahuna",
+      "III - IV Siau",
+      "II Manado"
+    ]
+  },
+  {
     "waktu": "11/02/2023 07:12:29 WIB",
     "lintang": "2.5 LS",
     "bujur": "140.61 BT",
@@ -204,17 +218,6 @@
     "bujur": "140.7 BT",
     "magnitudo": "3.8",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km BaratLaut Kota Jayapura",
-    "warning": [
-      "III-IV Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "10/02/2023 00:29:21 WIB",
-    "lintang": "2.52 LS",
-    "bujur": "140.7 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "7 Km",
     "wilayah": "Pusat gempa berada di darat 2 km BaratLaut Kota Jayapura",
     "warning": [
       "III-IV Kota Jayapura"
