@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-02-23 00:38:07 WIB",
+    "lintang": "-1.49",
+    "bujur": "134.17",
+    "magnitudo": "5.3",
+    "kedalaman": "20 Km",
+    "wilayah": "1 km Tenggara RANSIKI-PAPUABRT"
+  },
+  {
     "waktu": "11-02-23 15:55:06 WIB",
     "lintang": "3.67",
     "bujur": "126.76",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "101 Km",
     "wilayah": "129 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
-    "waktu": "11-01-23 14:59:23 WIB",
-    "lintang": "-2.64",
-    "bujur": "137.02",
-    "magnitudo": "5.1",
-    "kedalaman": "60 Km",
-    "wilayah": "44 km TimurLaut WAROPEN-PAPUA"
   }
 ]
