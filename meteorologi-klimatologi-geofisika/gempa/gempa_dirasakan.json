@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "12/02/2023 17:43:51 WIB",
+    "lintang": "1.44 LS",
+    "bujur": "134.3 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 16 km Timurlaut Ransiki",
+    "warning": [
+      "II-III Ransiki",
+      "II-III Manokwari"
+    ]
+  },
+  {
+    "waktu": "12/02/2023 17:40:26 WIB",
+    "lintang": "2.39 LS",
+    "bujur": "140.67 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 20 km Timurlaut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "12/02/2023 12:13:54 WIB",
     "lintang": "0.32 LS",
     "bujur": "100.31 BT",
@@ -201,28 +224,6 @@
     "wilayah": "Pusat gempa berada di darat 14 km barat laut Kota Jayapura",
     "warning": [
       "II - III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "10/02/2023 12:36:59 WIB",
-    "lintang": "2.46 LS",
-    "bujur": "140.66 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 10 km barat laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "10/02/2023 10:47:18 WIB",
-    "lintang": "2.44 LS",
-    "bujur": "140.61 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 16 km barat laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
