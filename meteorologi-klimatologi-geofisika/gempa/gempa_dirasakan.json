@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "12/02/2023 12:13:54 WIB",
+    "lintang": "0.32 LS",
+    "bujur": "100.31 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km Baratdaya Bukittinggi",
+    "warning": [
+      "II Bukittinggi",
+      "II Padang Panjang",
+      "II Padang Pariaman"
+    ]
+  },
+  {
     "waktu": "12/02/2023 02:58:43 WIB",
     "lintang": "2.44 LS",
     "bujur": "140.69 BT",
@@ -208,17 +221,6 @@
     "magnitudo": "2.8",
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di laut 16 km barat laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "10/02/2023 09:02:07 WIB",
-    "lintang": "2.61 LS",
-    "bujur": "140.66 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km BaratDaya Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
     ]
