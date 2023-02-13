@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "13/02/2023 12:29:21 WIB",
+    "lintang": "2.51 LS",
+    "bujur": "140.68 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5km BaratLaut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "13/02/2023 11:46:29 WIB",
+    "lintang": "2.49 LS",
+    "bujur": "140.71 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "13/02/2023 01:40:29 WIB",
     "lintang": "2.42 LS",
     "bujur": "140.62 BT",
@@ -205,29 +227,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km BaratLaut kota Jayapura",
     "warning": [
       "III-IV Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "11/02/2023 00:39:09 WIB",
-    "lintang": "2.55 LS",
-    "bujur": "140.65 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km BaratDaya Kota Jayapura",
-    "warning": [
-      "III - IV Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "10/02/2023 23:45:12 WIB",
-    "lintang": "3.56 LS",
-    "bujur": "119.15 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 24 Km Tenggara Polewalimandar",
-    "warning": [
-      "II Polewali",
-      "II Majene"
     ]
   }
 ]
