@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "14/02/2023 13:03:56 WIB",
+    "lintang": "6.81 LS",
+    "bujur": "107.1 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km BaratLaut Kab. Cianjur",
+    "warning": [
+      "II Cipanas",
+      "II Ciherang",
+      "II Kota Cianjur"
+    ]
+  },
+  {
     "waktu": "14/02/2023 13:02:21 WIB",
     "lintang": "0.46 LU",
     "bujur": "121.05 BT",
@@ -9,7 +22,9 @@
     "warning": [
       "III - IV Toli-toli",
       "II - III Pohuwato",
-      "II - III Gorontalo Utara"
+      "II - III Gorontalo Utara",
+      "II - III Kab. Gorontalo",
+      "II - III Buol"
     ]
   },
   {
@@ -215,17 +230,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km baratlaut kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "11/02/2023 21:41:34 WIB",
-    "lintang": "2.48 LS",
-    "bujur": "140.62 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km BaratLaut Kota Jayapura",
-    "warning": [
-      "II - III Kota Jayapura"
     ]
   }
 ]
