@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14-02-23 13:02:21 WIB",
+    "lintang": "0.46",
+    "bujur": "121.05",
+    "magnitudo": "5.3",
+    "kedalaman": "87 Km",
+    "wilayah": "30 km Tenggara PARIGIMOUTONG-SULTENG"
+  },
+  {
     "waktu": "13-02-23 00:38:07 WIB",
     "lintang": "-1.49",
     "bujur": "134.17",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "54 Km",
     "wilayah": "30 km Tenggara MAMBERAMOTENGAH-PAPUAPGNGN"
-  },
-  {
-    "waktu": "13-01-23 19:44:51 WIB",
-    "lintang": "-7.13",
-    "bujur": "130.50",
-    "magnitudo": "5.1",
-    "kedalaman": "101 Km",
-    "wilayah": "129 km BaratLaut MALUKUTENGGARABRT"
   }
 ]

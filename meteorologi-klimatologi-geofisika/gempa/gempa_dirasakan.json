@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "14/02/2023 13:02:21 WIB",
+    "lintang": "0.46 LU",
+    "bujur": "121.05 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "87 Km",
+    "wilayah": "Pusat gempa berada di darat 30 km Tenggara Parigi Moutong",
+    "warning": [
+      "III - IV Toli-toli",
+      "II - III Pohuwato",
+      "II - III Gorontalo Utara"
+    ]
+  },
+  {
+    "waktu": "14/02/2023 12:49:12 WIB",
+    "lintang": "2.54 LS",
+    "bujur": "140.69 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km BaratDaya Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "13/02/2023 22:37:30 WIB",
     "lintang": "2.41 LS",
     "bujur": "140.67 BT",
@@ -202,31 +226,6 @@
     "wilayah": "Pusat gempa berada di darat 12 km BaratLaut Kota Jayapura",
     "warning": [
       "II - III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "11/02/2023 15:55:06 WIB",
-    "lintang": "3.67 LU",
-    "bujur": "126.76 BT",
-    "magnitudo": "6",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di Laut 37 km Tenggara Melonguane",
-    "warning": [
-      "IV Melonguane",
-      "III-IV Tahuna",
-      "III - IV Siau",
-      "II Manado"
-    ]
-  },
-  {
-    "waktu": "11/02/2023 07:12:29 WIB",
-    "lintang": "2.5 LS",
-    "bujur": "140.61 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km Barat Laut Kota Jayapura",
-    "warning": [
-      "II-III Kota Jayapura"
     ]
   }
 ]
