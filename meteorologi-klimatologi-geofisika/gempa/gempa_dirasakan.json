@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/02/2023 20:51:13 WIB",
+    "lintang": "2.5 LS",
+    "bujur": "140.72 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Timur Laut Kota jayapura",
+    "warning": [
+      "III Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "15/02/2023 12:11:18 WIB",
     "lintang": "2.53 LS",
     "bujur": "140.67 BT",
@@ -216,18 +227,6 @@
     "wilayah": "Pusat gempa berada di darat 11 km BaratLaut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "13/02/2023 00:38:07 WIB",
-    "lintang": "1.49 LS",
-    "bujur": "134.17 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada di darat 1 km Tenggara Ransiki",
-    "warning": [
-      "IV Ransiki",
-      "III-IV Manokwari"
     ]
   }
 ]
