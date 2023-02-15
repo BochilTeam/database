@@ -1,5 +1,38 @@
 [
   {
+    "waktu": "15/02/2023 08:01:27 WIB",
+    "lintang": "2.51 LS",
+    "bujur": "140.65 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada didarat 8 km BaratLaut Kota Jayapura",
+    "warning": [
+      "II - III Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "15/02/2023 07:36:00 WIB",
+    "lintang": "2.52 LS",
+    "bujur": "140.67 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km baratlaut kota Jayapura",
+    "warning": [
+      "II - III Jayapura"
+    ]
+  },
+  {
+    "waktu": "15/02/2023 04:57:46 WIB",
+    "lintang": "2.52 LS",
+    "bujur": "140.67 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada didarat 5 km BaratLaut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "14/02/2023 22:38:06 WIB",
     "lintang": "2.52 LS",
     "bujur": "140.67 BT",
@@ -198,40 +231,6 @@
       "II Cilaku",
       "II Ciseupan",
       "II Nagrak"
-    ]
-  },
-  {
-    "waktu": "12/02/2023 19:45:57 WIB",
-    "lintang": "8.1 LS",
-    "bujur": "115.22 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km TimurLaut Buleleng",
-    "warning": [
-      "II Kubutambahan"
-    ]
-  },
-  {
-    "waktu": "12/02/2023 17:43:51 WIB",
-    "lintang": "1.44 LS",
-    "bujur": "134.3 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 16 km Timurlaut Ransiki",
-    "warning": [
-      "II-III Ransiki",
-      "II-III Manokwari"
-    ]
-  },
-  {
-    "waktu": "12/02/2023 17:40:26 WIB",
-    "lintang": "2.39 LS",
-    "bujur": "140.67 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 20 km Timurlaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
