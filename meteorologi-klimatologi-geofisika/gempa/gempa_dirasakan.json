@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "17/02/2023 14:33:35 WIB",
+    "lintang": "3.98 LS",
+    "bujur": "122.41 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 0.9 km timur laut Sampara, Kab. Konawe",
+    "warning": [
+      "III Kendari",
+      "III Konawe Selatan",
+      "III Konawe"
+    ]
+  },
+  {
     "waktu": "17/02/2023 11:23:16 WIB",
     "lintang": "2.53 LS",
     "bujur": "140.69 BT",
@@ -214,17 +227,6 @@
     "magnitudo": "2.9",
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di darat 5km BaratLaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "13/02/2023 11:46:29 WIB",
-    "lintang": "2.49 LS",
-    "bujur": "140.71 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
     ]
