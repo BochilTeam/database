@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/02/2023 16:55:06 WIB",
+    "lintang": "2.53 LS",
+    "bujur": "140.65 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km barat laut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "17/02/2023 16:37:35 WIB",
     "lintang": "6.6 LS",
     "bujur": "132.1 BT",
@@ -7,7 +18,12 @@
     "kedalaman": "97 Km",
     "wilayah": "Pusat gempa berada di laut 125 km BaratDaya Maluku Tenggara",
     "warning": [
-      "III Saumlaki"
+      "III Saumlaki",
+      "III Dobo",
+      "III Kei",
+      "III Sorong",
+      "III Kaimana",
+      "II Banda"
     ]
   },
   {
@@ -216,17 +232,6 @@
     "magnitudo": "3.1",
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di Laut 16 km BaratLaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "13/02/2023 16:17:18 WIB",
-    "lintang": "2.45 LS",
-    "bujur": "140.66 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 11 km BaratLaut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
     ]
