@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/02/2023 19:52:08 WIB",
+    "lintang": "8.98 LS",
+    "bujur": "116.83 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "128 Km",
+    "wilayah": "Pusat gempa berada di darat 25 km barat daya Sumbawa Barat",
+    "warning": [
+      "III Lombok Tengah"
+    ]
+  },
+  {
     "waktu": "17/02/2023 16:55:06 WIB",
     "lintang": "2.53 LS",
     "bujur": "140.65 BT",
@@ -223,17 +234,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Kota Jayapura",
     "warning": [
       "III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "13/02/2023 19:31:00 WIB",
-    "lintang": "2.39 LS",
-    "bujur": "140.69 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 16 km BaratLaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
