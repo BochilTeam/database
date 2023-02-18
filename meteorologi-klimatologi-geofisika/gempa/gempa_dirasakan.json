@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/02/2023 20:42:01 WIB",
+    "lintang": "2.56 LS",
+    "bujur": "140.66 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 7 Km BaratDaya Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "18/02/2023 13:14:38 WIB",
     "lintang": "7.52 LS",
     "bujur": "121.84 BT",
@@ -221,19 +232,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km BaratLaut Kab. Cianjur",
     "warning": [
       "II Kec. Pacet - Cianjur"
-    ]
-  },
-  {
-    "waktu": "14/02/2023 13:03:56 WIB",
-    "lintang": "6.81 LS",
-    "bujur": "107.1 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km BaratLaut Kab. Cianjur",
-    "warning": [
-      "II Cipanas",
-      "II Ciherang",
-      "II Kota Cianjur"
     ]
   }
 ]
