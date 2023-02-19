@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19-02-23 22:17:03 WIB",
+    "lintang": "2.41",
+    "bujur": "126.19",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "99 km Tenggara ONDONG-KEP.SITARO-SULUT"
+  },
+  {
     "waktu": "17-02-23 16:37:35 WIB",
     "lintang": "-6.60",
     "bujur": "132.10",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "132 Km",
     "wilayah": "25 km BaratLaut KOTA-BOGOR-JABAR"
-  },
-  {
-    "waktu": "14-01-23 05:41:00 WIB",
-    "lintang": "-5.14",
-    "bujur": "102.99",
-    "magnitudo": "5.3",
-    "kedalaman": "18 Km",
-    "wilayah": "55 km BaratDaya KAUR-BENGKULU"
   }
 ]
