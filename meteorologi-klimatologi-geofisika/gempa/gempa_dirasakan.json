@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "21/02/2023 03:13:49 WIB",
+    "lintang": "4.41 LS",
+    "bujur": "102.11 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 63 km barat daya Seluma",
+    "warning": [
+      "III Seluma",
+      "II-III Manna",
+      "II-III Kota Bengkulu"
+    ]
+  },
+  {
     "waktu": "20/02/2023 18:15:16 WIB",
     "lintang": "3.73 LS",
     "bujur": "133.5 BT",
@@ -217,20 +230,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km baratlaut kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "14/02/2023 20:02:12 WIB",
-    "lintang": "6.78 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km Baratlaut Kab. Cianjur",
-    "warning": [
-      "II Ciputri",
-      "II Pacet",
-      "II Cipanas",
-      "II Cugenang"
     ]
   }
 ]

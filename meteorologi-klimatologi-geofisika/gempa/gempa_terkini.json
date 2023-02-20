@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-02-23 03:13:49 WIB",
+    "lintang": "-4.41",
+    "bujur": "102.11",
+    "magnitudo": "5.2",
+    "kedalaman": "13 Km",
+    "wilayah": "63 km BaratDaya SELUMA-BENGKULU"
+  },
+  {
     "waktu": "20-02-23 08:33:30 WIB",
     "lintang": "2.01",
     "bujur": "96.66",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "17 Km",
     "wilayah": "125 km BaratDaya KAB-MALANG-JATIM"
-  },
-  {
-    "waktu": "16-01-23 05:30:01 WIB",
-    "lintang": "1.91",
-    "bujur": "97.83",
-    "magnitudo": "6.2",
-    "kedalaman": "23 Km",
-    "wilayah": "47 km Tenggara KAB-ACEHSINGKIL"
   }
 ]
