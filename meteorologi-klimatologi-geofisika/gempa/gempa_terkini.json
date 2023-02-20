@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20-02-23 08:33:30 WIB",
+    "lintang": "2.01",
+    "bujur": "96.66",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "60 km Tenggara SINABANG-ACEH"
+  },
+  {
     "waktu": "19-02-23 22:17:03 WIB",
     "lintang": "2.41",
     "bujur": "126.19",
@@ -230,13 +238,5 @@
     "magnitudo": "6.2",
     "kedalaman": "23 Km",
     "wilayah": "47 km Tenggara KAB-ACEHSINGKIL"
-  },
-  {
-    "waktu": "15-01-23 03:32:19 WIB",
-    "lintang": "-6.52",
-    "bujur": "106.58",
-    "magnitudo": "5.0",
-    "kedalaman": "132 Km",
-    "wilayah": "25 km BaratLaut KOTA-BOGOR-JABAR"
   }
 ]
