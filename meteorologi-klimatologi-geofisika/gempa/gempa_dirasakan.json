@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/02/2023 10:12:47 WIB",
+    "lintang": "2.53 LS",
+    "bujur": "140.68 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km barat laut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "18/02/2023 20:42:01 WIB",
     "lintang": "2.56 LS",
     "bujur": "140.66 BT",
@@ -221,17 +232,6 @@
     "warning": [
       "II - III Ransiki",
       "II - III Manokwari"
-    ]
-  },
-  {
-    "waktu": "14/02/2023 18:59:37 WIB",
-    "lintang": "6.79 LS",
-    "bujur": "107.09 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km BaratLaut Kab. Cianjur",
-    "warning": [
-      "II Kec. Pacet - Cianjur"
     ]
   }
 ]
