@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/02/2023 18:15:16 WIB",
+    "lintang": "3.73 LS",
+    "bujur": "133.5 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 70 km barat daya Kaimana",
+    "warning": [
+      "II-III Kaimana"
+    ]
+  },
+  {
     "waktu": "20/02/2023 10:12:47 WIB",
     "lintang": "2.53 LS",
     "bujur": "140.68 BT",
@@ -220,18 +231,6 @@
       "II Pacet",
       "II Cipanas",
       "II Cugenang"
-    ]
-  },
-  {
-    "waktu": "14/02/2023 19:57:46 WIB",
-    "lintang": "1.47 LS",
-    "bujur": "134.17 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km Timurlaut Ransiki",
-    "warning": [
-      "II - III Ransiki",
-      "II - III Manokwari"
     ]
   }
 ]
