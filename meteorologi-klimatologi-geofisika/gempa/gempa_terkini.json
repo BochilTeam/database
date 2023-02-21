@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22-02-23 02:22:19 WIB",
+    "lintang": "2.05",
+    "bujur": "94.22",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "243 km BaratDaya SINABANG-ACEH"
+  },
+  {
     "waktu": "21-02-23 23:15:54 WIB",
     "lintang": "-6.17",
     "bujur": "130.09",
@@ -230,13 +238,5 @@
     "magnitudo": "7.1",
     "kedalaman": "64 Km",
     "wilayah": "141 km Tenggara MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "18-01-23 07:34:46 WIB",
-    "lintang": "-0.07",
-    "bujur": "123.28",
-    "magnitudo": "6.3",
-    "kedalaman": "138 Km",
-    "wilayah": "69 km Tenggara BONEBOLANGO-GORONTALO"
   }
 ]
