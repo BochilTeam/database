@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-02-23 23:15:54 WIB",
+    "lintang": "-6.17",
+    "bujur": "130.09",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "241 km BaratLaut MALUKUTENGGARABRT"
+  },
+  {
     "waktu": "21-02-23 03:13:49 WIB",
     "lintang": "-4.41",
     "bujur": "102.11",
@@ -230,13 +238,5 @@
     "magnitudo": "6.3",
     "kedalaman": "138 Km",
     "wilayah": "69 km Tenggara BONEBOLANGO-GORONTALO"
-  },
-  {
-    "waktu": "17-01-23 11:36:12 WIB",
-    "lintang": "-9.26",
-    "bujur": "112.49",
-    "magnitudo": "5.1",
-    "kedalaman": "17 Km",
-    "wilayah": "125 km BaratDaya KAB-MALANG-JATIM"
   }
 ]
