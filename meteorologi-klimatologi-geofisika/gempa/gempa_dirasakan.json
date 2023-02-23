@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "24/02/2023 03:02:52 WIB",
+    "lintang": "3.2 LU",
+    "bujur": "127.94 BT",
+    "magnitudo": "6.8",
+    "kedalaman": "112 Km",
+    "wilayah": "Pusat gempa berada di laut 133 km BaratLaut Daruba",
+    "warning": [
+      "IV Tahuna",
+      "IV Melonguane",
+      "IV Siau",
+      "III - IV Manado",
+      "III - IV Bitung",
+      "III - IV Minahasa Utara",
+      "III-IV Tobelo",
+      "III - IV Morotai",
+      "III Tondano",
+      "III Tomohon",
+      "III Minahasa Tenggara",
+      "II Sorong"
+    ]
+  },
+  {
     "waktu": "23/02/2023 17:49:37 WIB",
     "lintang": "6.78 LS",
     "bujur": "107.11 BT",
@@ -222,17 +244,6 @@
     "wilayah": "Pusat gempa berada di darat 4 km BaratLaut Kota Jayapura",
     "warning": [
       "III - IV Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "15/02/2023 20:51:13 WIB",
-    "lintang": "2.5 LS",
-    "bujur": "140.72 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km Timur Laut Kota jayapura",
-    "warning": [
-      "III Kota Jayapura"
     ]
   }
 ]
