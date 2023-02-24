@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "25/02/2023 00:28:36 WIB",
+    "lintang": "2.87 LU",
+    "bujur": "126.19 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 93 km TimurLaut Ondongsiau",
+    "warning": [
+      "III Kepulauan Sangihe",
+      "III Kepulauan Siau"
+    ]
+  },
+  {
     "waktu": "24/02/2023 20:59:53 WIB",
     "lintang": "8.24 LS",
     "bujur": "124.61 BT",
@@ -227,22 +239,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km barat laut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "17/02/2023 16:37:35 WIB",
-    "lintang": "6.6 LS",
-    "bujur": "132.1 BT",
-    "magnitudo": "6.6",
-    "kedalaman": "97 Km",
-    "wilayah": "Pusat gempa berada di laut 125 km BaratDaya Maluku Tenggara",
-    "warning": [
-      "III Saumlaki",
-      "III Dobo",
-      "III Kei",
-      "III Sorong",
-      "III Kaimana",
-      "II Banda"
     ]
   }
 ]
