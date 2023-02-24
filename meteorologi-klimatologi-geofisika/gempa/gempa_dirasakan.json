@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/02/2023 20:59:53 WIB",
+    "lintang": "8.24 LS",
+    "bujur": "124.61 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km TimurLaut Alor",
+    "warning": [
+      "II - III Alor"
+    ]
+  },
+  {
     "waktu": "24/02/2023 16:28:56 WIB",
     "lintang": "2.48 LS",
     "bujur": "140.71 BT",
@@ -232,19 +243,6 @@
       "III Sorong",
       "III Kaimana",
       "II Banda"
-    ]
-  },
-  {
-    "waktu": "17/02/2023 14:33:35 WIB",
-    "lintang": "3.98 LS",
-    "bujur": "122.41 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 0.9 km timur laut Sampara, Kab. Konawe",
-    "warning": [
-      "III Kendari",
-      "III Konawe Selatan",
-      "III Konawe"
     ]
   }
 ]
