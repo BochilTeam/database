@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "25/02/2023 09:21:52 WIB",
+    "lintang": "2.53 LS",
+    "bujur": "140.68 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 4Km BaratLaut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "25/02/2023 09:08:31 WIB",
+    "lintang": "5.72 LS",
+    "bujur": "103.87 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di Laut 59Km BaratDaya Pesisir Barat",
+    "warning": [
+      "II Liwa",
+      "II Krui"
+    ]
+  },
+  {
     "waktu": "25/02/2023 00:28:36 WIB",
     "lintang": "2.87 LU",
     "bujur": "126.19 BT",
@@ -217,28 +240,6 @@
       "II Denpasar",
       "II Badung",
       "II Mataram"
-    ]
-  },
-  {
-    "waktu": "17/02/2023 19:52:08 WIB",
-    "lintang": "8.98 LS",
-    "bujur": "116.83 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "128 Km",
-    "wilayah": "Pusat gempa berada di darat 25 km barat daya Sumbawa Barat",
-    "warning": [
-      "III Lombok Tengah"
-    ]
-  },
-  {
-    "waktu": "17/02/2023 16:55:06 WIB",
-    "lintang": "2.53 LS",
-    "bujur": "140.65 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km barat laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
