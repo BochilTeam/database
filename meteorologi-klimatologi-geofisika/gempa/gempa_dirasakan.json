@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/02/2023 04:23:44 WIB",
+    "lintang": "2.52 LS",
+    "bujur": "140.69 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km BaratLaut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "26/02/2023 12:52:48 WIB",
     "lintang": "1.72 LU",
     "bujur": "125.89 BT",
@@ -226,18 +237,6 @@
     "wilayah": "Pusat gempa berada di darat 7 Km BaratDaya Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "18/02/2023 13:14:38 WIB",
-    "lintang": "7.52 LS",
-    "bujur": "121.84 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 128 km BaratLaut Maumere-Sikka",
-    "warning": [
-      "II Pulau Kalaotoa",
-      "II Pulau Madu"
     ]
   }
 ]
