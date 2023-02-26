@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26-02-23 12:52:48 WIB",
+    "lintang": "1.72",
+    "bujur": "125.89",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "90 km TimurLaut BITUNG-SULUT"
+  },
+  {
     "waktu": "24-02-23 03:02:52 WIB",
     "lintang": "3.20",
     "bujur": "127.94",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "287 km BaratDaya KAB-BLITAR-JATIM"
-  },
-  {
-    "waktu": "18-01-23 15:01:24 WIB",
-    "lintang": "2.73",
-    "bujur": "127.14",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "146 km BaratLaut TOBELO-MALUT"
   }
 ]
