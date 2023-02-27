@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "27/02/2023 08:26:02 WIB",
+    "lintang": "1.59 LS",
+    "bujur": "120.21 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 42 km Tenggara Sigi",
+    "warning": [
+      "IV Sigi",
+      "III - IV Palu",
+      "III - IV Poso",
+      "III - IV Wuasa",
+      "III Toli-toli",
+      "III Buol",
+      "III Morowali Utara",
+      "III Mamuju",
+      "III Ampana",
+      "III Wakai - Kep. Togean",
+      "II Polewali Mandar",
+      "III Masamba"
+    ]
+  },
+  {
     "waktu": "27/02/2023 04:23:44 WIB",
     "lintang": "2.52 LS",
     "bujur": "140.69 BT",
@@ -224,17 +246,6 @@
     "magnitudo": "2.7",
     "kedalaman": "3 Km",
     "wilayah": "Pusat gempa berada di darat 4 km barat laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "18/02/2023 20:42:01 WIB",
-    "lintang": "2.56 LS",
-    "bujur": "140.66 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 7 Km BaratDaya Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
     ]
