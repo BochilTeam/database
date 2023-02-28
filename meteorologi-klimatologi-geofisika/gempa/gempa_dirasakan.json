@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "28/02/2023 21:42:52 WIB",
+    "lintang": "1.37 LU",
+    "bujur": "125.83 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "55 Km",
+    "wilayah": "Pusat gempa berada di laut 79 km Tenggara Bitung",
+    "warning": [
+      "III Manado",
+      "III Bitung",
+      "III Tondano"
+    ]
+  },
+  {
     "waktu": "28/02/2023 20:11:48 WIB",
     "lintang": "7.03 LS",
     "bujur": "106.64 BT",
@@ -239,19 +252,6 @@
     "wilayah": "Pusat gempa berada di laut 10 km BaratLaut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "21/02/2023 03:13:49 WIB",
-    "lintang": "4.41 LS",
-    "bujur": "102.11 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 63 km barat daya Seluma",
-    "warning": [
-      "III Seluma",
-      "II-III Manna",
-      "II-III Kota Bengkulu"
     ]
   }
 ]
