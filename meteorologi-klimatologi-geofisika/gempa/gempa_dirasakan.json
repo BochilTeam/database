@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "28/02/2023 20:11:48 WIB",
+    "lintang": "7.03 LS",
+    "bujur": "106.64 BT",
+    "magnitudo": "4",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km Tenggara Kab-Sukabumi",
+    "warning": [
+      "II-III Kota Sukabumi",
+      "II - III Pelabuhan Ratu",
+      "II Bogor",
+      "II Lebak",
+      "II Bayah"
+    ]
+  },
+  {
     "waktu": "28/02/2023 12:35:45 WIB",
     "lintang": "2.5 LS",
     "bujur": "140.71 BT",
@@ -237,17 +252,6 @@
       "III Seluma",
       "II-III Manna",
       "II-III Kota Bengkulu"
-    ]
-  },
-  {
-    "waktu": "20/02/2023 18:15:16 WIB",
-    "lintang": "3.73 LS",
-    "bujur": "133.5 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 70 km barat daya Kaimana",
-    "warning": [
-      "II-III Kaimana"
     ]
   }
 ]
