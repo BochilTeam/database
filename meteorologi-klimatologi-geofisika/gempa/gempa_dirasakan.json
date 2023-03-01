@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/03/2023 20:00:16 WIB",
+    "lintang": "2.94 LS",
+    "bujur": "119.36 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km tenggara Mamasa",
+    "warning": [
+      "II-III Mamasa"
+    ]
+  },
+  {
     "waktu": "01/03/2023 08:45:06 WIB",
     "lintang": "2.47 LS",
     "bujur": "140.67 BT",
@@ -240,18 +251,6 @@
     "wilayah": "Pusat gempa berada di darat 10km Barat Daya Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "22/02/2023 16:34:04 WIB",
-    "lintang": "7.18 LS",
-    "bujur": "129.62 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "139 Km",
-    "wilayah": "Pusat gempa berada di laut 206 km Barat Laut Malukutenggarabarat",
-    "warning": [
-      "II-III Saumlaki",
-      "III Tepa"
     ]
   }
 ]
