@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/03/2023 08:45:06 WIB",
+    "lintang": "2.47 LS",
+    "bujur": "140.67 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 9 km BaratLaut Kota Jayapura",
+    "warning": [
+      "III Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "28/02/2023 21:42:52 WIB",
     "lintang": "1.37 LU",
     "bujur": "125.83 BT",
@@ -241,17 +252,6 @@
     "warning": [
       "II-III Saumlaki",
       "III Tepa"
-    ]
-  },
-  {
-    "waktu": "22/02/2023 06:46:41 WIB",
-    "lintang": "2.45 LS",
-    "bujur": "140.71 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 10 km BaratLaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
