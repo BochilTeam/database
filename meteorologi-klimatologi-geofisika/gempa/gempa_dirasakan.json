@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "02/03/2023 15:56:43 WIB",
+    "lintang": "1.27 LU",
+    "bujur": "120.2 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di laut 35 km utara Ogotua Kab. Tolitoli",
+    "warning": [
+      "II - III Toli-toli"
+    ]
+  },
+  {
+    "waktu": "02/03/2023 15:23:58 WIB",
+    "lintang": "2.42 LU",
+    "bujur": "128.39 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "50 Km",
+    "wilayah": "Pusat gempa berada di darat 42 km TimurLaut Daruba",
+    "warning": [
+      "II Morotai"
+    ]
+  },
+  {
     "waktu": "02/03/2023 06:05:23 WIB",
     "lintang": "1.65 LS",
     "bujur": "100.71 BT",
@@ -219,41 +241,6 @@
     "warning": [
       "II Padang Panjang",
       "II Padang Pariaman"
-    ]
-  },
-  {
-    "waktu": "24/02/2023 03:02:52 WIB",
-    "lintang": "3.2 LU",
-    "bujur": "127.94 BT",
-    "magnitudo": "6.8",
-    "kedalaman": "112 Km",
-    "wilayah": "Pusat gempa berada di laut 133 km BaratLaut Daruba",
-    "warning": [
-      "IV Tahuna",
-      "IV Melonguane",
-      "IV Siau",
-      "III - IV Manado",
-      "III - IV Bitung",
-      "III - IV Minahasa Utara",
-      "III-IV Tobelo",
-      "III - IV Morotai",
-      "III Tondano",
-      "III Tomohon",
-      "III Minahasa Tenggara",
-      "II Sorong"
-    ]
-  },
-  {
-    "waktu": "23/02/2023 17:49:37 WIB",
-    "lintang": "6.78 LS",
-    "bujur": "107.11 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km Baratlaut Kabupaten Cianjur",
-    "warning": [
-      "II - III Cijeudil",
-      "II - III Cibeurem",
-      "II - III Nagrak"
     ]
   }
 ]
