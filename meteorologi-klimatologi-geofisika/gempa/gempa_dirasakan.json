@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "02/03/2023 06:05:23 WIB",
+    "lintang": "1.65 LS",
+    "bujur": "100.71 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "82 Km",
+    "wilayah": "Pusat gempa berada di darat 36 km Tenggara Pesisir Selatan",
+    "warning": [
+      "II-III Padang",
+      "II-III Padang Panjang",
+      "II-III Pesisir Selatan",
+      "II-III Kerinci"
+    ]
+  },
+  {
     "waktu": "01/03/2023 23:01:53 WIB",
     "lintang": "2.91 LS",
     "bujur": "119.37 BT",
@@ -240,17 +254,6 @@
       "II - III Cijeudil",
       "II - III Cibeurem",
       "II - III Nagrak"
-    ]
-  },
-  {
-    "waktu": "23/02/2023 17:21:31 WIB",
-    "lintang": "2.51 LS",
-    "bujur": "140.68 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km Barat Laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
