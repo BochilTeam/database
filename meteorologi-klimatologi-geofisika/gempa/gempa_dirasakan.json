@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "03/03/2023 11:49:16 WIB",
+    "lintang": "7.69 LS",
+    "bujur": "106.52 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di Laut 78 Km Barat Daya Kabupaten Sukabumi",
+    "warning": [
+      "II Ciracap",
+      "II Simpenan"
+    ]
+  },
+  {
     "waktu": "03/03/2023 07:36:46 WIB",
     "lintang": "3.8 LS",
     "bujur": "101.83 BT",
@@ -232,17 +244,6 @@
     "warning": [
       "III Kepulauan Sangihe",
       "III Kepulauan Siau"
-    ]
-  },
-  {
-    "waktu": "24/02/2023 20:59:53 WIB",
-    "lintang": "8.24 LS",
-    "bujur": "124.61 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km TimurLaut Alor",
-    "warning": [
-      "II - III Alor"
     ]
   }
 ]
