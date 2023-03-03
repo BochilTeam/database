@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "03/03/2023 07:36:46 WIB",
+    "lintang": "3.8 LS",
+    "bujur": "101.83 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 47 Km Barat Daya Bengkulu",
+    "warning": [
+      "III - IV Kota Bengkulu",
+      "III Bengkulu Utara",
+      "II - III Kepahiang",
+      "II - III Curup"
+    ]
+  },
+  {
+    "waktu": "03/03/2023 03:31:19 WIB",
+    "lintang": "2.48 LS",
+    "bujur": "140.71 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 6 km barat laut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "02/03/2023 15:56:43 WIB",
     "lintang": "1.27 LU",
     "bujur": "120.2 BT",
@@ -218,29 +243,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km TimurLaut Alor",
     "warning": [
       "II - III Alor"
-    ]
-  },
-  {
-    "waktu": "24/02/2023 16:28:56 WIB",
-    "lintang": "2.48 LS",
-    "bujur": "140.71 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km BaratLaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "24/02/2023 09:02:46 WIB",
-    "lintang": "0.46 LS",
-    "bujur": "100.28 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km BaratLaut Padang Panjang",
-    "warning": [
-      "II Padang Panjang",
-      "II Padang Pariaman"
     ]
   }
 ]
