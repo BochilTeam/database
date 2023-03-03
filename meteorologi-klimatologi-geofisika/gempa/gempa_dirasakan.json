@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/03/2023 20:24:30 WIB",
+    "lintang": "0.42 LS",
+    "bujur": "123.01 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "52 Km",
+    "wilayah": "Pusat gempa berada di laut 64 km utara Luwuk",
+    "warning": [
+      "II-III Banggai Kepulauan"
+    ]
+  },
+  {
     "waktu": "03/03/2023 11:49:16 WIB",
     "lintang": "7.69 LS",
     "bujur": "106.52 BT",
@@ -232,18 +243,6 @@
     "warning": [
       "II Liwa",
       "II Krui"
-    ]
-  },
-  {
-    "waktu": "25/02/2023 00:28:36 WIB",
-    "lintang": "2.87 LU",
-    "bujur": "126.19 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 93 km TimurLaut Ondongsiau",
-    "warning": [
-      "III Kepulauan Sangihe",
-      "III Kepulauan Siau"
     ]
   }
 ]
