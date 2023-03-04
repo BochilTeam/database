@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "05/03/2023 00:05:25 WIB",
+    "lintang": "2.67 LS",
+    "bujur": "121.98 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km barat Kab. Morowali",
+    "warning": [
+      "II - III Bungku Tengah",
+      "II - III Bungku Pesisir",
+      "III Bahodopi"
+    ]
+  },
+  {
+    "waktu": "04/03/2023 23:10:27 WIB",
+    "lintang": "2.49 LS",
+    "bujur": "140.73 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 5 km TimurLaut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "03/03/2023 20:24:30 WIB",
     "lintang": "0.42 LS",
     "bujur": "123.01 BT",
@@ -220,29 +244,6 @@
     "wilayah": "Pusat gempa berada di laut 46 km Barat laut Tambolaka",
     "warning": [
       "III Bima"
-    ]
-  },
-  {
-    "waktu": "25/02/2023 09:21:52 WIB",
-    "lintang": "2.53 LS",
-    "bujur": "140.68 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 4Km BaratLaut Kota Jayapura",
-    "warning": [
-      "II-III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "25/02/2023 09:08:31 WIB",
-    "lintang": "5.72 LS",
-    "bujur": "103.87 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "29 Km",
-    "wilayah": "Pusat gempa berada di Laut 59Km BaratDaya Pesisir Barat",
-    "warning": [
-      "II Liwa",
-      "II Krui"
     ]
   }
 ]
