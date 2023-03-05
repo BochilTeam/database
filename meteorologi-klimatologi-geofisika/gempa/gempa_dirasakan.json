@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/03/2023 05:25:58 WIB",
+    "lintang": "2.7 LS",
+    "bujur": "140.01 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "50 Km",
+    "wilayah": "Pusat gempa berada di darat 46 km BaratDaya Kab.Jayapura",
+    "warning": [
+      "III Genyem"
+    ]
+  },
+  {
     "waktu": "05/03/2023 01:53:39 WIB",
     "lintang": "2.53 LS",
     "bujur": "140.67 BT",
@@ -233,17 +244,6 @@
     "warning": [
       "III Bitung",
       "II Manado"
-    ]
-  },
-  {
-    "waktu": "26/02/2023 12:22:16 WIB",
-    "lintang": "2.54 LS",
-    "bujur": "140.68 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km Barat Daya Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
