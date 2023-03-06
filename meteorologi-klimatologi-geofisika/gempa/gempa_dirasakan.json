@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "06/03/2023 18:26:45 WIB",
+    "lintang": "2.46 LS",
+    "bujur": "140.72 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 8 km timur laut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "06/03/2023 09:42:21 WIB",
     "lintang": "0.15 LS",
     "bujur": "123.14 BT",
@@ -232,17 +243,6 @@
       "III Wakai - Kep. Togean",
       "II Polewali Mandar",
       "III Masamba"
-    ]
-  },
-  {
-    "waktu": "27/02/2023 04:23:44 WIB",
-    "lintang": "2.52 LS",
-    "bujur": "140.69 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km BaratLaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
