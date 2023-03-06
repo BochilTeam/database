@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "06/03/2023 09:42:21 WIB",
+    "lintang": "0.15 LS",
+    "bujur": "123.14 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "132 Km",
+    "wilayah": "Pusat gempa berada di laut 76 km Tenggara Bonebolango",
+    "warning": [
+      "II - III Banggai Kepulauan"
+    ]
+  },
+  {
     "waktu": "05/03/2023 05:25:58 WIB",
     "lintang": "2.7 LS",
     "bujur": "140.01 BT",
@@ -232,18 +243,6 @@
     "wilayah": "Pusat gempa berada di darat 3 km BaratLaut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "26/02/2023 12:52:48 WIB",
-    "lintang": "1.72 LU",
-    "bujur": "125.89 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 90 Km Timur Laut Bitung",
-    "warning": [
-      "III Bitung",
-      "II Manado"
     ]
   }
 ]
