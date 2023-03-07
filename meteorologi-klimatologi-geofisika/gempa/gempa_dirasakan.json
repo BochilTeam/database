@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/03/2023 19:51:51 WIB",
+    "lintang": "2.55 LU",
+    "bujur": "128.53 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di darat 61 Km TimurLaut Daruba",
+    "warning": [
+      "II Pulau Morotai"
+    ]
+  },
+  {
     "waktu": "07/03/2023 14:31:57 WIB",
     "lintang": "6.47 LS",
     "bujur": "103.9 BT",
@@ -220,21 +231,6 @@
       "III Manado",
       "III Bitung",
       "III Tondano"
-    ]
-  },
-  {
-    "waktu": "28/02/2023 20:11:48 WIB",
-    "lintang": "7.03 LS",
-    "bujur": "106.64 BT",
-    "magnitudo": "4",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km Tenggara Kab-Sukabumi",
-    "warning": [
-      "II-III Kota Sukabumi",
-      "II - III Pelabuhan Ratu",
-      "II Bogor",
-      "II Lebak",
-      "II Bayah"
     ]
   }
 ]
