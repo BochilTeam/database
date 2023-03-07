@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07-03-23 14:31:57 WIB",
+    "lintang": "-6.47",
+    "bujur": "103.90",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "140 km BaratDaya TANGGAMUS-LAMPUNG"
+  },
+  {
     "waktu": "06-03-23 22:53:02 WIB",
     "lintang": "5.80",
     "bujur": "126.19",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "143 km Tenggara MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "24-01-23 01:17:38 WIB",
-    "lintang": "2.90",
-    "bujur": "127.06",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "129 km Tenggara MELONGUANE-SULUT"
   }
 ]

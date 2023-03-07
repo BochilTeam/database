@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "07/03/2023 14:31:57 WIB",
+    "lintang": "6.47 LS",
+    "bujur": "103.9 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada dilaut 140 Km BaratDaya Tanggamus",
+    "warning": [
+      "IV Kab. Pesisir Barat",
+      "III - IV Kota Agung",
+      "III-IV Kab. Tanggamus",
+      "II-III Liwa"
+    ]
+  },
+  {
     "waktu": "07/03/2023 10:14:32 WIB",
     "lintang": "0.11 LS",
     "bujur": "120.32 BT",
@@ -221,17 +235,6 @@
       "II Bogor",
       "II Lebak",
       "II Bayah"
-    ]
-  },
-  {
-    "waktu": "28/02/2023 12:35:45 WIB",
-    "lintang": "2.5 LS",
-    "bujur": "140.71 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km BaratLaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
