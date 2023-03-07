@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "08/03/2023 04:38:54 WIB",
+    "lintang": "2.53 LS",
+    "bujur": "140.67 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km Barat Laut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "08/03/2023 03:31:29 WIB",
+    "lintang": "0.28 LS",
+    "bujur": "124.57 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 97 km Tenggara Kota Bolaanguki",
+    "warning": [
+      "II Tondano"
+    ]
+  },
+  {
     "waktu": "07/03/2023 19:51:51 WIB",
     "lintang": "2.55 LU",
     "bujur": "128.53 BT",
@@ -207,30 +229,6 @@
     "wilayah": "Pusat gempa berada di darat 4 km tenggara Mamasa",
     "warning": [
       "II-III Mamasa"
-    ]
-  },
-  {
-    "waktu": "01/03/2023 08:45:06 WIB",
-    "lintang": "2.47 LS",
-    "bujur": "140.67 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 9 km BaratLaut Kota Jayapura",
-    "warning": [
-      "III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "28/02/2023 21:42:52 WIB",
-    "lintang": "1.37 LU",
-    "bujur": "125.83 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "55 Km",
-    "wilayah": "Pusat gempa berada di laut 79 km Tenggara Bitung",
-    "warning": [
-      "III Manado",
-      "III Bitung",
-      "III Tondano"
     ]
   }
 ]
