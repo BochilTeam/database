@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/03/2023 21:47:53 WIB",
+    "lintang": "2.69 LS",
+    "bujur": "119.21 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km barat laut Mamasa",
+    "warning": [
+      "II Mamasa"
+    ]
+  },
+  {
     "waktu": "08/03/2023 17:55:50 WIB",
     "lintang": "2.51 LS",
     "bujur": "140.67 BT",
@@ -215,20 +226,6 @@
     "wilayah": "Pusat gempa berada di darat 42 km TimurLaut Daruba",
     "warning": [
       "II Morotai"
-    ]
-  },
-  {
-    "waktu": "02/03/2023 06:05:23 WIB",
-    "lintang": "1.65 LS",
-    "bujur": "100.71 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "82 Km",
-    "wilayah": "Pusat gempa berada di darat 36 km Tenggara Pesisir Selatan",
-    "warning": [
-      "II-III Padang",
-      "II-III Padang Panjang",
-      "II-III Pesisir Selatan",
-      "II-III Kerinci"
     ]
   }
 ]
