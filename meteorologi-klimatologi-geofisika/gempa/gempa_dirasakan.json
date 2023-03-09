@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/03/2023 12:50:27 WIB",
+    "lintang": "2.54 LS",
+    "bujur": "140.69 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km Barat Daya Kota Jayapura",
+    "warning": [
+      "II Jayapura"
+    ]
+  },
+  {
     "waktu": "08/03/2023 21:47:53 WIB",
     "lintang": "2.69 LS",
     "bujur": "119.21 BT",
@@ -215,17 +226,6 @@
     "wilayah": "Pusat gempa berada di laut 35 km utara Ogotua Kab. Tolitoli",
     "warning": [
       "II - III Toli-toli"
-    ]
-  },
-  {
-    "waktu": "02/03/2023 15:23:58 WIB",
-    "lintang": "2.42 LU",
-    "bujur": "128.39 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "50 Km",
-    "wilayah": "Pusat gempa berada di darat 42 km TimurLaut Daruba",
-    "warning": [
-      "II Morotai"
     ]
   }
 ]
