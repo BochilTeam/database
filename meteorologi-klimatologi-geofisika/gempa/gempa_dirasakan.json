@@ -1,5 +1,26 @@
 [
   {
+    "waktu": "11/03/2023 11:03:48 WIB",
+    "lintang": "1.96 LU",
+    "bujur": "97.85 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "19 Km",
+    "wilayah": "Pusat gempa berada dilaut 42 km Tenggara Kab- Aceh Singkil",
+    "warning": [
+      "IV Kepulauan Banyak",
+      "IV Aceh singkil",
+      "IV Silangit",
+      "IV Pakpak Bharat",
+      "IV Sipoholon",
+      "III Aceh Selatan",
+      "III Gunung Sitoli",
+      "III Sirombu",
+      "III Nias Selatan",
+      "III Kec. Pagaran",
+      "III Kab. Tapanuli Utara"
+    ]
+  },
+  {
     "waktu": "09/03/2023 12:50:27 WIB",
     "lintang": "2.54 LS",
     "bujur": "140.69 BT",
@@ -215,17 +236,6 @@
     "wilayah": "Pusat gempa berada di laut 6 km barat laut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "02/03/2023 15:56:43 WIB",
-    "lintang": "1.27 LU",
-    "bujur": "120.2 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di laut 35 km utara Ogotua Kab. Tolitoli",
-    "warning": [
-      "II - III Toli-toli"
     ]
   }
 ]
