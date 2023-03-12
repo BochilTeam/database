@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "12/03/2023 20:26:25 WIB",
+    "lintang": "2.5 LS",
+    "bujur": "140.68 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km baratlaut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "12/03/2023 19:59:28 WIB",
+    "lintang": "2.53 LS",
+    "bujur": "140.69 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km Barat Laut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "11/03/2023 18:43:56 WIB",
     "lintang": "2.92 LS",
     "bujur": "119.46 BT",
@@ -210,32 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 64 km utara Luwuk",
     "warning": [
       "II-III Banggai Kepulauan"
-    ]
-  },
-  {
-    "waktu": "03/03/2023 11:49:16 WIB",
-    "lintang": "7.69 LS",
-    "bujur": "106.52 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada di Laut 78 Km Barat Daya Kabupaten Sukabumi",
-    "warning": [
-      "II Ciracap",
-      "II Simpenan"
-    ]
-  },
-  {
-    "waktu": "03/03/2023 07:36:46 WIB",
-    "lintang": "3.8 LS",
-    "bujur": "101.83 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 47 Km Barat Daya Bengkulu",
-    "warning": [
-      "III - IV Kota Bengkulu",
-      "III Bengkulu Utara",
-      "II - III Kepahiang",
-      "II - III Curup"
     ]
   }
 ]
