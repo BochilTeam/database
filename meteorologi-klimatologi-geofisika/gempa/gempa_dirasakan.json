@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/03/2023 13:53:03 WIB",
+    "lintang": "0.41 LS",
+    "bujur": "99.56 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "52 Km",
+    "wilayah": "Pusat gempa berada di Laut 53 km BaratDaya AGAM-SUMBAR",
+    "warning": [
+      "II Lubuk Basung"
+    ]
+  },
+  {
     "waktu": "12/03/2023 20:26:25 WIB",
     "lintang": "2.5 LS",
     "bujur": "140.68 BT",
@@ -221,17 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 5 km TimurLaut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "03/03/2023 20:24:30 WIB",
-    "lintang": "0.42 LS",
-    "bujur": "123.01 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "52 Km",
-    "wilayah": "Pusat gempa berada di laut 64 km utara Luwuk",
-    "warning": [
-      "II-III Banggai Kepulauan"
     ]
   }
 ]
