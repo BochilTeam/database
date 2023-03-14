@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "14/03/2023 10:27:52 WIB",
+    "lintang": "0.65 LU",
+    "bujur": "125.32 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "33 Km",
+    "wilayah": "Pusat gempa berada di laut 73 km Tenggara Ratahan",
+    "warning": [
+      "II-III Tondano",
+      "II-III Manado",
+      "II-III Bitung"
+    ]
+  },
+  {
     "waktu": "13/03/2023 13:53:03 WIB",
     "lintang": "0.41 LS",
     "bujur": "99.56 BT",
@@ -221,17 +234,6 @@
       "II - III Bungku Tengah",
       "II - III Bungku Pesisir",
       "III Bahodopi"
-    ]
-  },
-  {
-    "waktu": "04/03/2023 23:10:27 WIB",
-    "lintang": "2.49 LS",
-    "bujur": "140.73 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di laut 5 km TimurLaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
