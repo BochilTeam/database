@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16-03-23 12:22:39 WIB",
+    "lintang": "-10.90",
+    "bujur": "113.30",
+    "magnitudo": "5.7",
+    "kedalaman": "10 Km",
+    "wilayah": "302 km BaratDaya JEMBER-JATIM"
+  },
+  {
     "waktu": "16-03-23 04:25:39 WIB",
     "lintang": "4.65",
     "bujur": "127.02",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "162 Km",
     "wilayah": "206 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
-    "waktu": "26-01-23 11:23:52 WIB",
-    "lintang": "2.82",
-    "bujur": "127.09",
-    "magnitudo": "5.7",
-    "kedalaman": "10 Km",
-    "wilayah": "138 km Tenggara MELONGUANE-SULUT"
   }
 ]
