@@ -1,5 +1,32 @@
 [
   {
+    "waktu": "17/03/2023 19:05:27 WIB",
+    "lintang": "8.89 LS",
+    "bujur": "109.77 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 126 km BaratDaya Kulonprogo",
+    "warning": [
+      "III Kulonprogo",
+      "III Bantul",
+      "III Trenggalek",
+      "III Pacitan",
+      "III Madiun",
+      "III Ponorogo",
+      "II - III Tulungagung",
+      "II Klaten",
+      "II - III Ngawi",
+      "II - III Magetan",
+      "II Kediri",
+      "II Karangkates",
+      "II Nganjuk",
+      "II Solo",
+      "II Banjarnegara",
+      "II Wonogiri",
+      "II Wonosobo"
+    ]
+  },
+  {
     "waktu": "17/03/2023 15:13:21 WIB",
     "lintang": "0.87 LS",
     "bujur": "131.18 BT",
@@ -222,17 +249,6 @@
     "wilayah": "Pusat gempa berada di laut 30 km Tenggara Parigi Moutong",
     "warning": [
       "II Palu"
-    ]
-  },
-  {
-    "waktu": "06/03/2023 18:26:45 WIB",
-    "lintang": "2.46 LS",
-    "bujur": "140.72 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 8 km timur laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
