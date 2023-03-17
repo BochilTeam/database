@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "17/03/2023 15:13:21 WIB",
+    "lintang": "0.87 LS",
+    "bujur": "131.18 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km BaratLaut Kota Sorong",
+    "warning": [
+      "II - III Kota Sorong"
+    ]
+  },
+  {
+    "waktu": "17/03/2023 12:00:37 WIB",
+    "lintang": "7.21 LS",
+    "bujur": "109.89 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km BaratLaut Wonosobo",
+    "warning": [
+      "II Kepakisan",
+      "II Dieng Wonosobo"
+    ]
+  },
+  {
     "waktu": "15/03/2023 21:29:13 WIB",
     "lintang": "2.5 LS",
     "bujur": "140.69 BT",
@@ -210,28 +233,6 @@
     "wilayah": "Pusat gempa berada di laut 8 km timur laut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "06/03/2023 09:42:21 WIB",
-    "lintang": "0.15 LS",
-    "bujur": "123.14 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "132 Km",
-    "wilayah": "Pusat gempa berada di laut 76 km Tenggara Bonebolango",
-    "warning": [
-      "II - III Banggai Kepulauan"
-    ]
-  },
-  {
-    "waktu": "05/03/2023 05:25:58 WIB",
-    "lintang": "2.7 LS",
-    "bujur": "140.01 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "50 Km",
-    "wilayah": "Pusat gempa berada di darat 46 km BaratDaya Kab.Jayapura",
-    "warning": [
-      "III Genyem"
     ]
   }
 ]
