@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/03/2023 23:30:46 WIB",
+    "lintang": "2.33 LU",
+    "bujur": "128.92 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 76 km TimurLaut Daruba",
+    "warning": [
+      "III - IV Morotai Utara"
+    ]
+  },
+  {
     "waktu": "18/03/2023 14:14:50 WIB",
     "lintang": "2.37 LU",
     "bujur": "128.49 BT",
@@ -237,17 +248,6 @@
     "wilayah": "Pusat gempa berada di laut 97 km Tenggara Kota Bolaanguki",
     "warning": [
       "II Tondano"
-    ]
-  },
-  {
-    "waktu": "07/03/2023 19:51:51 WIB",
-    "lintang": "2.55 LU",
-    "bujur": "128.53 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di darat 61 Km TimurLaut Daruba",
-    "warning": [
-      "II Pulau Morotai"
     ]
   }
 ]
