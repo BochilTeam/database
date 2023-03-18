@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "18/03/2023 14:14:50 WIB",
+    "lintang": "2.37 LU",
+    "bujur": "128.49 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di darat 42 km Timurlaut Daruba",
+    "warning": [
+      "II - III Morotai Utara"
+    ]
+  },
+  {
+    "waktu": "18/03/2023 13:19:46 WIB",
+    "lintang": "2.5 LS",
+    "bujur": "140.82 BT",
+    "magnitudo": "3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 12 km Timurlaut Kota Jayapura",
+    "warning": [
+      "II Jayapura"
+    ]
+  },
+  {
     "waktu": "17/03/2023 19:05:27 WIB",
     "lintang": "8.89 LS",
     "bujur": "109.77 BT",
@@ -226,31 +248,6 @@
     "wilayah": "Pusat gempa berada di darat 61 Km TimurLaut Daruba",
     "warning": [
       "II Pulau Morotai"
-    ]
-  },
-  {
-    "waktu": "07/03/2023 14:31:57 WIB",
-    "lintang": "6.47 LS",
-    "bujur": "103.9 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada dilaut 140 Km BaratDaya Tanggamus",
-    "warning": [
-      "IV Kab. Pesisir Barat",
-      "III - IV Kota Agung",
-      "III-IV Kab. Tanggamus",
-      "II-III Liwa"
-    ]
-  },
-  {
-    "waktu": "07/03/2023 10:14:32 WIB",
-    "lintang": "0.11 LS",
-    "bujur": "120.32 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 30 km Tenggara Parigi Moutong",
-    "warning": [
-      "II Palu"
     ]
   }
 ]
