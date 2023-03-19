@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "20/03/2023 02:30:14 WIB",
+    "lintang": "3.77 LS",
+    "bujur": "101.84 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di laut 54 km barat daya Bengkulu Utara",
+    "warning": [
+      "III Kota Bengkulu",
+      "III Argamakmur",
+      "II Kepahiang"
+    ]
+  },
+  {
     "waktu": "19/03/2023 23:29:53 WIB",
     "lintang": "2.82 LU",
     "bujur": "125.36 BT",
@@ -235,17 +248,6 @@
     "magnitudo": "3",
     "kedalaman": "5 Km",
     "wilayah": "Pusat gempa berada di darat 6 km barat laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "08/03/2023 08:18:37 WIB",
-    "lintang": "2.21 LS",
-    "bujur": "140.58 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 39 Km Barat Laut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
     ]
