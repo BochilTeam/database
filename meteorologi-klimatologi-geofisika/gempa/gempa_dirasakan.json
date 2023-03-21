@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/03/2023 04:25:10 WIB",
+    "lintang": "2.53 LS",
+    "bujur": "140.67 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 5 Km Barat Laut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "22/03/2023 02:32:41 WIB",
     "lintang": "2.49 LS",
     "bujur": "140.68 BT",
@@ -229,27 +240,6 @@
     "wilayah": "Pusat gempa berada di darat 15 km tenggara Mamasa",
     "warning": [
       "II - III Mamasa"
-    ]
-  },
-  {
-    "waktu": "11/03/2023 11:03:48 WIB",
-    "lintang": "1.96 LU",
-    "bujur": "97.85 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "19 Km",
-    "wilayah": "Pusat gempa berada dilaut 42 km Tenggara Kab- Aceh Singkil",
-    "warning": [
-      "IV Kepulauan Banyak",
-      "IV Aceh singkil",
-      "IV Silangit",
-      "IV Pakpak Bharat",
-      "IV Sipoholon",
-      "III Aceh Selatan",
-      "III Gunung Sitoli",
-      "III Sirombu",
-      "III Nias Selatan",
-      "III Kec. Pagaran",
-      "III Kab. Tapanuli Utara"
     ]
   }
 ]
