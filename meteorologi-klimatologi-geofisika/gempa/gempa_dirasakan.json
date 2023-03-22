@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "22/03/2023 08:24:14 WIB",
+    "lintang": "7.75 LS",
+    "bujur": "106.85 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "31 Km",
+    "wilayah": "Pusat gempa berada di laut 90 km Tenggara Kab-Sukabumi",
+    "warning": [
+      "III Cianjur",
+      "III Pajampangan",
+      "III Cipamingkis",
+      "III Cidora",
+      "III Pameungpeuk",
+      "II-III Kab. Bandung",
+      "II-III Kab. Garut",
+      "II-III Kab. Sukabumi",
+      "II - III Kab. Bogor",
+      "II Tasikmalaya",
+      "II Bandung Barat",
+      "II Pangalengan"
+    ]
+  },
+  {
     "waktu": "22/03/2023 05:44:34 WIB",
     "lintang": "2.49 LS",
     "bujur": "140.67 BT",
@@ -229,17 +251,6 @@
     "wilayah": "Pusat gempa berada di Laut 53 km BaratDaya AGAM-SUMBAR",
     "warning": [
       "II Lubuk Basung"
-    ]
-  },
-  {
-    "waktu": "12/03/2023 20:26:25 WIB",
-    "lintang": "2.5 LS",
-    "bujur": "140.68 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km baratlaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
