@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23-03-23 03:23:46 WIB",
+    "lintang": "-8.84",
+    "bujur": "123.22",
+    "magnitudo": "5.1",
+    "kedalaman": "65 Km",
+    "wilayah": "50 km BaratDaya LEMBATA-NTT"
+  },
+  {
     "waktu": "18-03-23 02:38:00 WIB",
     "lintang": "5.90",
     "bujur": "125.99",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "19 Km",
     "wilayah": "63 km BaratLaut DARUBA-MALUT"
-  },
-  {
-    "waktu": "30-01-23 03:18:58 WIB",
-    "lintang": "5.43",
-    "bujur": "126.31",
-    "magnitudo": "5.0",
-    "kedalaman": "153 Km",
-    "wilayah": "164 km BaratLaut MELONGUANE-SULUT"
   }
 ]
