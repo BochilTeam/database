@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/03/2023 18:07:53 WIB",
+    "lintang": "2.52 LS",
+    "bujur": "140.68 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Baratlaut Kota Jayapura",
+    "warning": [
+      "III-IV Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "23/03/2023 11:48:22 WIB",
     "lintang": "2.47 LS",
     "bujur": "140.7 BT",
@@ -238,17 +249,6 @@
     "wilayah": "Pusat gempa berada di darat 5 Km Barat Laut Kota Jayapura",
     "warning": [
       "III Jayapura"
-    ]
-  },
-  {
-    "waktu": "15/03/2023 12:50:34 WIB",
-    "lintang": "2.07 LU",
-    "bujur": "99.01 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km Timurlaut Tapanuli Utara",
-    "warning": [
-      "III - IV Tarutung"
     ]
   }
 ]
