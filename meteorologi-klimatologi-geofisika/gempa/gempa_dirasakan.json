@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "23/03/2023 11:48:22 WIB",
+    "lintang": "2.47 LS",
+    "bujur": "140.7 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada laut di 8 km Barat Laut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "23/03/2023 11:25:23 WIB",
+    "lintang": "4.25 LS",
+    "bujur": "103.2 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 23 km BaratDaya Pagar Alam",
+    "warning": [
+      "II - III Manna"
+    ]
+  },
+  {
     "waktu": "22/03/2023 08:24:14 WIB",
     "lintang": "7.75 LS",
     "bujur": "106.85 BT",
@@ -227,30 +249,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km Timurlaut Tapanuli Utara",
     "warning": [
       "III - IV Tarutung"
-    ]
-  },
-  {
-    "waktu": "14/03/2023 10:27:52 WIB",
-    "lintang": "0.65 LU",
-    "bujur": "125.32 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "33 Km",
-    "wilayah": "Pusat gempa berada di laut 73 km Tenggara Ratahan",
-    "warning": [
-      "II-III Tondano",
-      "II-III Manado",
-      "II-III Bitung"
-    ]
-  },
-  {
-    "waktu": "13/03/2023 13:53:03 WIB",
-    "lintang": "0.41 LS",
-    "bujur": "99.56 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "52 Km",
-    "wilayah": "Pusat gempa berada di Laut 53 km BaratDaya AGAM-SUMBAR",
-    "warning": [
-      "II Lubuk Basung"
     ]
   }
 ]
