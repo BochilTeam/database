@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/03/2023 07:52:53 WIB",
+    "lintang": "5.42 LU",
+    "bujur": "94.75 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 82 km BaratDaya Kota Sabang",
+    "warning": [
+      "II Banda Aceh"
+    ]
+  },
+  {
     "waktu": "23/03/2023 18:07:53 WIB",
     "lintang": "2.52 LS",
     "bujur": "140.68 BT",
@@ -238,17 +249,6 @@
     "warning": [
       "II Kepakisan",
       "II Dieng Wonosobo"
-    ]
-  },
-  {
-    "waktu": "15/03/2023 21:29:13 WIB",
-    "lintang": "2.5 LS",
-    "bujur": "140.69 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 5 Km Barat Laut Kota Jayapura",
-    "warning": [
-      "III Jayapura"
     ]
   }
 ]
