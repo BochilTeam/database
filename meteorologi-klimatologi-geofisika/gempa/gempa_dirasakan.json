@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/03/2023 16:11:01 WIB",
+    "lintang": "5.34 LS",
+    "bujur": "102.12 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km Baratlaut Enggano",
+    "warning": [
+      "II Enggano"
+    ]
+  },
+  {
     "waktu": "24/03/2023 20:36:08 WIB",
     "lintang": "7.19 LS",
     "bujur": "109.83 BT",
@@ -219,35 +230,6 @@
     "wilayah": "Pusat gempa berada di Laut 12 km Timurlaut Kota Jayapura",
     "warning": [
       "II Jayapura"
-    ]
-  },
-  {
-    "waktu": "17/03/2023 19:05:27 WIB",
-    "lintang": "8.89 LS",
-    "bujur": "109.77 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 126 km BaratDaya Kulonprogo",
-    "warning": [
-      "III Kulonprogo",
-      "III Bantul",
-      "III Trenggalek",
-      "III Pacitan",
-      "III Madiun",
-      "III Ponorogo",
-      "II - III Tulungagung",
-      "II Klaten",
-      "II - III Ngawi",
-      "II - III Magetan",
-      "II Kediri",
-      "II Karangkates",
-      "II Nganjuk",
-      "II Solo",
-      "II Banjarnegara",
-      "II Wonogiri",
-      "II Wonosobo",
-      "II Cilacap",
-      "II Purworejo"
     ]
   }
 ]
