@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26-03-23 19:41:12 WIB",
+    "lintang": "-4.81",
+    "bujur": "131.89",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "131 km BaratLaut TUAL-MALUKU"
+  },
+  {
     "waktu": "23-03-23 03:23:46 WIB",
     "lintang": "-8.84",
     "bujur": "123.22",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "318 Km",
     "wilayah": "70 km TimurLaut PULAUSARINGI-NTB"
-  },
-  {
-    "waktu": "03-02-23 06:05:05 WIB",
-    "lintang": "2.61",
-    "bujur": "128.18",
-    "magnitudo": "5.0",
-    "kedalaman": "19 Km",
-    "wilayah": "63 km BaratLaut DARUBA-MALUT"
   }
 ]
