@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27-03-23 01:39:59 WIB",
+    "lintang": "-7.53",
+    "bujur": "130.10",
+    "magnitudo": "5.0",
+    "kedalaman": "70 Km",
+    "wilayah": "142 km BaratLaut MALUKUTENGGARABRT"
+  },
+  {
     "waktu": "26-03-23 19:41:12 WIB",
     "lintang": "-4.81",
     "bujur": "131.89",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "66 km Tenggara MUARABINUANGEUN-BANTEN"
-  },
-  {
-    "waktu": "06-02-23 14:11:33 WIB",
-    "lintang": "-7.81",
-    "bujur": "117.21",
-    "magnitudo": "5.4",
-    "kedalaman": "318 Km",
-    "wilayah": "70 km TimurLaut PULAUSARINGI-NTB"
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/03/2023 01:39:59 WIB",
+    "lintang": "7.53 LS",
+    "bujur": "130.1 BT",
+    "magnitudo": "5",
+    "kedalaman": "70 Km",
+    "wilayah": "Pusat gempa berada di laut 142 BaratLaut Maluku Tenggara Barat",
+    "warning": [
+      "III Dawelor"
+    ]
+  },
+  {
     "waktu": "26/03/2023 22:11:20 WIB",
     "lintang": "8.07 LS",
     "bujur": "110.32 BT",
@@ -223,19 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 38 km utara Seram Bagian Barat",
     "warning": [
       "III Kairatu"
-    ]
-  },
-  {
-    "waktu": "20/03/2023 02:30:14 WIB",
-    "lintang": "3.77 LS",
-    "bujur": "101.84 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada di laut 54 km barat daya Bengkulu Utara",
-    "warning": [
-      "III Kota Bengkulu",
-      "III Argamakmur",
-      "II Kepahiang"
     ]
   }
 ]
