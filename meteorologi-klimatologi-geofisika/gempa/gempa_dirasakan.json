@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/03/2023 17:43:46 WIB",
+    "lintang": "7.38 LS",
+    "bujur": "130.31 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 98 km TimurLaut Tepa",
+    "warning": [
+      "III Dawelor"
+    ]
+  },
+  {
     "waktu": "26/03/2023 16:13:45 WIB",
     "lintang": "6.86 LS",
     "bujur": "107.1 BT",
@@ -224,17 +235,6 @@
     "wilayah": "Pusat gempa berada di laut 8 km utara Kepulauan Sitaro",
     "warning": [
       "II Siau-Sitaro"
-    ]
-  },
-  {
-    "waktu": "19/03/2023 04:46:47 WIB",
-    "lintang": "2.57 LS",
-    "bujur": "140.67 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km barat daya Kota Jayapura",
-    "warning": [
-      "II - III Kota Jayapura"
     ]
   }
 ]
