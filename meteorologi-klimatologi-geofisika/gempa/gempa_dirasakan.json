@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "26/03/2023 16:13:45 WIB",
+    "lintang": "6.86 LS",
+    "bujur": "107.1 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km barat daya Kab. Cianjur",
+    "warning": [
+      "II Cibeber",
+      "II Warungkondang",
+      "II Cianjur",
+      "III Cugenang",
+      "III Cipanas"
+    ]
+  },
+  {
     "waktu": "26/03/2023 07:48:26 WIB",
     "lintang": "0.45 LS",
     "bujur": "100.16 BT",
@@ -220,17 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km barat daya Kota Jayapura",
     "warning": [
       "II - III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "18/03/2023 23:30:46 WIB",
-    "lintang": "2.33 LU",
-    "bujur": "128.92 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 76 km TimurLaut Daruba",
-    "warning": [
-      "III - IV Morotai Utara"
     ]
   }
 ]
