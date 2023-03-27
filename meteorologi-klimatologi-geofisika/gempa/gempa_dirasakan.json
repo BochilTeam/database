@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/03/2023 19:52:41 WIB",
+    "lintang": "3.96 LS",
+    "bujur": "133.43 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 94 Km Baratdaya Kaimana",
+    "warning": [
+      "II Kaimana"
+    ]
+  },
+  {
     "waktu": "27/03/2023 01:39:59 WIB",
     "lintang": "7.53 LS",
     "bujur": "130.1 BT",
@@ -223,17 +234,6 @@
     "wilayah": "Pusat gempa berada didarat 1 km Baratdaya Kutacane",
     "warning": [
       "II Kutacane"
-    ]
-  },
-  {
-    "waktu": "20/03/2023 05:18:39 WIB",
-    "lintang": "2.74 LS",
-    "bujur": "128.07 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 38 km utara Seram Bagian Barat",
-    "warning": [
-      "III Kairatu"
     ]
   }
 ]
