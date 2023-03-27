@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27-03-23 07:44:49 WIB",
+    "lintang": "5.40",
+    "bujur": "125.91",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "177 km BaratLaut MELONGUANE-SULUT"
+  },
+  {
     "waktu": "27-03-23 01:39:59 WIB",
     "lintang": "-7.53",
     "bujur": "130.10",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 Km",
     "wilayah": "1 km BaratDaya JAYAPURA-PAPUA"
-  },
-  {
-    "waktu": "07-02-23 07:35:50 WIB",
-    "lintang": "-7.43",
-    "bujur": "105.88",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "66 km Tenggara MUARABINUANGEUN-BANTEN"
   }
 ]
