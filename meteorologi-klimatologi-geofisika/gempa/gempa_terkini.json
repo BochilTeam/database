@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28-03-23 11:19:10 WIB",
+    "lintang": "-0.41",
+    "bujur": "123.58",
+    "magnitudo": "5.5",
+    "kedalaman": "53 Km",
+    "wilayah": "98 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
+  },
+  {
     "waktu": "27-03-23 07:44:49 WIB",
     "lintang": "5.40",
     "bujur": "125.91",
@@ -230,13 +238,5 @@
     "magnitudo": "6.0",
     "kedalaman": "11 Km",
     "wilayah": "37 km Tenggara MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "09-02-23 13:28:02 WIB",
-    "lintang": "-2.60",
-    "bujur": "140.66",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "1 km BaratDaya JAYAPURA-PAPUA"
   }
 ]

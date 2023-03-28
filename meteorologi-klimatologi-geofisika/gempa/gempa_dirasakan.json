@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "28/03/2023 11:31:55 WIB",
+    "lintang": "3.44 LS",
+    "bujur": "138.72 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km TimurLaut Tolikara",
+    "warning": [
+      "II - III Kab. Wamena"
+    ]
+  },
+  {
+    "waktu": "28/03/2023 11:19:10 WIB",
+    "lintang": "0.41 LS",
+    "bujur": "123.58 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "53 Km",
+    "wilayah": "Pusat gempa berada di laut 98 km BaratDaya Bolaang Mongondow Selatan",
+    "warning": [
+      "IV Luwuk",
+      "II-III Kab. Gorontalo",
+      "II Kota Gorontalo"
+    ]
+  },
+  {
     "waktu": "28/03/2023 00:03:44 WIB",
     "lintang": "3.24 LU",
     "bujur": "97.92 BT",
@@ -213,28 +237,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km BaratLaut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "22/03/2023 04:25:10 WIB",
-    "lintang": "2.53 LS",
-    "bujur": "140.67 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 5 Km Barat Laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "22/03/2023 02:32:41 WIB",
-    "lintang": "2.49 LS",
-    "bujur": "140.68 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km BaratLaut Kota Jayapura",
-    "warning": [
-      "III-IV Kota Jayapura"
     ]
   }
 ]
