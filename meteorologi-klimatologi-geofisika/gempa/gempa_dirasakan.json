@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "30/03/2023 01:10:21 WIB",
+    "lintang": "8.31 LS",
+    "bujur": "116.79 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 19 km BaratLaut Pulau Panjang",
+    "warning": [
+      "III Lombok Utara",
+      "III Lombok Timur",
+      "II - III Sumbawa",
+      "II - III Sumbawa Barat",
+      "II - III Mataram"
+    ]
+  },
+  {
     "waktu": "29/03/2023 12:34:44 WIB",
     "lintang": "6.84 LS",
     "bujur": "107.08 BT",
@@ -233,17 +248,6 @@
       "II Tasikmalaya",
       "II Bandung Barat",
       "II Pangalengan"
-    ]
-  },
-  {
-    "waktu": "22/03/2023 05:44:34 WIB",
-    "lintang": "2.49 LS",
-    "bujur": "140.67 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km BaratLaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
