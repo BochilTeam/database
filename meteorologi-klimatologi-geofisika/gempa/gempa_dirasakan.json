@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/03/2023 07:51:48 WIB",
+    "lintang": "4.08 LS",
+    "bujur": "122.87 BT",
+    "magnitudo": "3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 14 km Baratlaut Laonti",
+    "warning": [
+      "II-III Konawe Kepulauan"
+    ]
+  },
+  {
     "waktu": "30/03/2023 01:10:21 WIB",
     "lintang": "8.31 LS",
     "bujur": "116.79 BT",
@@ -226,28 +237,6 @@
     "wilayah": "Pusat gempa berada di darat 23 km BaratDaya Pagar Alam",
     "warning": [
       "II - III Manna"
-    ]
-  },
-  {
-    "waktu": "22/03/2023 08:24:14 WIB",
-    "lintang": "7.75 LS",
-    "bujur": "106.85 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "31 Km",
-    "wilayah": "Pusat gempa berada di laut 90 km Tenggara Kab-Sukabumi",
-    "warning": [
-      "III Cianjur",
-      "III Pajampangan",
-      "III Cipamingkis",
-      "III Cidora",
-      "III Pameungpeuk",
-      "II-III Kab. Bandung",
-      "II-III Kab. Garut",
-      "II-III Kab. Sukabumi",
-      "II - III Kab. Bogor",
-      "II Tasikmalaya",
-      "II Bandung Barat",
-      "II Pangalengan"
     ]
   }
 ]
