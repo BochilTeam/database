@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "31/03/2023 00:40:16 WIB",
+    "lintang": "2.4 LS",
+    "bujur": "120.93 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 33 km BaratLaut Luwu Timur",
+    "warning": [
+      "III Mangkutana"
+    ]
+  },
+  {
     "waktu": "30/03/2023 18:40:11 WIB",
     "lintang": "2.47 LS",
     "bujur": "140.69 BT",
@@ -226,17 +237,6 @@
     "wilayah": "Pusat gempa berada di laut 82 km BaratDaya Kota Sabang",
     "warning": [
       "II Banda Aceh"
-    ]
-  },
-  {
-    "waktu": "23/03/2023 18:07:53 WIB",
-    "lintang": "2.52 LS",
-    "bujur": "140.68 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km Baratlaut Kota Jayapura",
-    "warning": [
-      "III-IV Kota Jayapura"
     ]
   }
 ]
