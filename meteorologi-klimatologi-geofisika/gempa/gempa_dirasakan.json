@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "31/03/2023 15:28:35 WIB",
+    "lintang": "9.67 LS",
+    "bujur": "115.15 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 97 km Barat Daya Kuta Selatan",
+    "warning": [
+      "II-III Badung",
+      "II Karangasem",
+      "II Denpasar"
+    ]
+  },
+  {
     "waktu": "31/03/2023 00:40:16 WIB",
     "lintang": "2.4 LS",
     "bujur": "120.93 BT",
@@ -226,17 +239,6 @@
     "wilayah": "Pusat gempa berada di darat 15 km Barat Laut Doda, Kab. Poso",
     "warning": [
       "II-III Toro"
-    ]
-  },
-  {
-    "waktu": "24/03/2023 07:52:53 WIB",
-    "lintang": "5.42 LU",
-    "bujur": "94.75 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di laut 82 km BaratDaya Kota Sabang",
-    "warning": [
-      "II Banda Aceh"
     ]
   }
 ]
