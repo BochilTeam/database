@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/04/2023 17:23:13 WIB",
+    "lintang": "2.55 LS",
+    "bujur": "140.71 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km Baratdaya Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "01/04/2023 00:55:41 WIB",
     "lintang": "7.96 LS",
     "bujur": "120.68 BT",
@@ -228,18 +239,6 @@
     "wilayah": "Pusat gempa berada di darat 20 km Tenggara Agam",
     "warning": [
       "III Kab. Agam"
-    ]
-  },
-  {
-    "waktu": "26/03/2023 05:53:17 WIB",
-    "lintang": "1.17 LU",
-    "bujur": "128.37 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 20 km BaratDaya Halmahera Timur",
-    "warning": [
-      "III Wasile",
-      "II - III Buli"
     ]
   }
 ]
