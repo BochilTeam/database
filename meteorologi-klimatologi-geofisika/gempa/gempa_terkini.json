@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-04-23 15:40:57 WIB",
+    "lintang": "-7.81",
+    "bujur": "118.73",
+    "magnitudo": "5.8",
+    "kedalaman": "29 Km",
+    "wilayah": "70 km BaratLaut BIMA-NTB"
+  },
+  {
     "waktu": "31-03-23 15:28:35 WIB",
     "lintang": "-9.67",
     "bujur": "115.15",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "87 Km",
     "wilayah": "30 km Tenggara PARIGIMOUTONG-SULTENG"
-  },
-  {
-    "waktu": "13-02-23 00:38:07 WIB",
-    "lintang": "-1.49",
-    "bujur": "134.17",
-    "magnitudo": "5.3",
-    "kedalaman": "20 Km",
-    "wilayah": "1 km Tenggara RANSIKI-PAPUABRT"
   }
 ]

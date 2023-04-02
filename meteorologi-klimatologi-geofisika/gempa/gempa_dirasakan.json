@@ -1,5 +1,47 @@
 [
   {
+    "waktu": "02/04/2023 16:50:26 WIB",
+    "lintang": "2.52 LS",
+    "bujur": "140.5 BT",
+    "magnitudo": "4",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km Timur Laut Kabupaten Jayapura",
+    "warning": [
+      "III - IV Sentani"
+    ]
+  },
+  {
+    "waktu": "02/04/2023 16:26:22 WIB",
+    "lintang": "4.38 LS",
+    "bujur": "136.9 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempabumi berada di darat 59 km Timur Laut Mimika",
+    "warning": [
+      "II Mimika"
+    ]
+  },
+  {
+    "waktu": "02/04/2023 15:40:57 WIB",
+    "lintang": "7.81 LS",
+    "bujur": "118.73 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di laut 70 Km Barat Laut Bima",
+    "warning": [
+      "III - IV Bima",
+      "III Makassar",
+      "III Dompu",
+      "III Sumbawa Besar",
+      "III Sumbawa Barat",
+      "II-III Labuan Bajo",
+      "III Gowa",
+      "II-III Mataram",
+      "II Takalar",
+      "II Pangkep"
+    ]
+  },
+  {
     "waktu": "02/04/2023 11:22:34 WIB",
     "lintang": "2.47 LS",
     "bujur": "140.74 BT",
@@ -200,40 +242,6 @@
       "IV Luwuk",
       "II-III Kab. Gorontalo",
       "II Kota Gorontalo"
-    ]
-  },
-  {
-    "waktu": "28/03/2023 00:03:44 WIB",
-    "lintang": "3.24 LU",
-    "bujur": "97.92 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 29 km Tenggara Kutacane - Kab. Aceh",
-    "warning": [
-      "II Pasie Raja",
-      "Kab. Aceh Selatan"
-    ]
-  },
-  {
-    "waktu": "27/03/2023 19:52:41 WIB",
-    "lintang": "3.96 LS",
-    "bujur": "133.43 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 94 Km Baratdaya Kaimana",
-    "warning": [
-      "II Kaimana"
-    ]
-  },
-  {
-    "waktu": "27/03/2023 01:39:59 WIB",
-    "lintang": "7.53 LS",
-    "bujur": "130.1 BT",
-    "magnitudo": "5",
-    "kedalaman": "70 Km",
-    "wilayah": "Pusat gempa berada di laut 142 BaratLaut Maluku Tenggara Barat",
-    "warning": [
-      "III Dawelor"
     ]
   }
 ]
