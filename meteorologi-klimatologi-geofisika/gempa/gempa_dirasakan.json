@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "03/04/2023 01:04:14 WIB",
+    "lintang": "4.44 LS",
+    "bujur": "143.05 BT",
+    "magnitudo": "7.2",
+    "kedalaman": "93 Km",
+    "wilayah": "Pusat gempa berada di darat 115 km BaratDaya Wewak",
+    "warning": [
+      "III Keerom",
+      "III Kota Jayapura",
+      "III Kabupaten Jayapura",
+      "III Wamena",
+      "II-III Nabire",
+      "II-III Merauke"
+    ]
+  },
+  {
     "waktu": "02/04/2023 18:05:56 WIB",
     "lintang": "2.47 LS",
     "bujur": "140.43 BT",
@@ -229,17 +245,6 @@
       "III Cibodas",
       "III Cipanas",
       "III Rancagoong"
-    ]
-  },
-  {
-    "waktu": "28/03/2023 11:31:55 WIB",
-    "lintang": "3.44 LS",
-    "bujur": "138.72 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 27 km TimurLaut Tolikara",
-    "warning": [
-      "II - III Kab. Wamena"
     ]
   }
 ]
