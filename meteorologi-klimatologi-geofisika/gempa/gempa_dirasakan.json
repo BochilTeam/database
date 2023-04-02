@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/04/2023 09:12:10 WIB",
+    "lintang": "4.86 LS",
+    "bujur": "121.99 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km BaratDaya Bombana",
+    "warning": [
+      "II - III Bombana"
+    ]
+  },
+  {
     "waktu": "01/04/2023 20:48:59 WIB",
     "lintang": "2.49 LS",
     "bujur": "140.68 BT",
@@ -224,17 +235,6 @@
     "warning": [
       "II Ringinharjo",
       "II Pundong"
-    ]
-  },
-  {
-    "waktu": "26/03/2023 17:43:46 WIB",
-    "lintang": "7.38 LS",
-    "bujur": "130.31 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 98 km TimurLaut Tepa",
-    "warning": [
-      "III Dawelor"
     ]
   }
 ]
