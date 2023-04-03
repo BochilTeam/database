@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03-04-23 21:59:43 WIB",
+    "lintang": "0.86",
+    "bujur": "98.73",
+    "magnitudo": "6.4",
+    "kedalaman": "102 Km",
+    "wilayah": "82 km BaratDaya PADANGSIDEMPUAN-SUMUT"
+  },
+  {
     "waktu": "02-04-23 15:40:57 WIB",
     "lintang": "-7.81",
     "bujur": "118.73",
@@ -230,13 +238,5 @@
     "magnitudo": "6.6",
     "kedalaman": "97 Km",
     "wilayah": "125 km BaratDaya MALUKUTENGGARA"
-  },
-  {
-    "waktu": "14-02-23 13:02:21 WIB",
-    "lintang": "0.46",
-    "bujur": "121.05",
-    "magnitudo": "5.3",
-    "kedalaman": "87 Km",
-    "wilayah": "30 km Tenggara PARIGIMOUTONG-SULTENG"
   }
 ]
