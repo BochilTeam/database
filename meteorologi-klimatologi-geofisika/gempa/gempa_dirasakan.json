@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "03/04/2023 23:18:00 WIB",
+    "lintang": "7.85 LS",
+    "bujur": "118.77 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "31 Km",
+    "wilayah": "Pusat gempa berada di laut 66 km Timurlaut Bima",
+    "warning": [
+      "III Kota Bima",
+      "III Kabupaten Bima"
+    ]
+  },
+  {
     "waktu": "03/04/2023 21:59:43 WIB",
     "lintang": "0.86 LU",
     "bujur": "98.73 BT",
@@ -251,17 +263,6 @@
     "wilayah": "Pusat gempa berada di darat 9 km Timurlaut Mamasa",
     "warning": [
       "III Mamasa"
-    ]
-  },
-  {
-    "waktu": "30/03/2023 07:51:48 WIB",
-    "lintang": "4.08 LS",
-    "bujur": "122.87 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 14 km Baratlaut Laonti",
-    "warning": [
-      "II-III Konawe Kepulauan"
     ]
   }
 ]
