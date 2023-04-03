@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "04/04/2023 01:26:48 WIB",
+    "lintang": "8.87 LS",
+    "bujur": "115.69 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "74 Km",
+    "wilayah": "Pusat gempa berada di Laut 48 km Tenggara Klungkung",
+    "warning": [
+      "III Karangasem",
+      "III Kuta",
+      "III Denpasar",
+      "III Lombok Barat",
+      "III Lombok Tengah",
+      "III Mataram"
+    ]
+  },
+  {
     "waktu": "03/04/2023 23:18:00 WIB",
     "lintang": "7.85 LS",
     "bujur": "118.77 BT",
@@ -252,17 +268,6 @@
     "wilayah": "Pusat gempa berada di laut 8 km BaratLaut Jayapura",
     "warning": [
       "II - III Jayapura"
-    ]
-  },
-  {
-    "waktu": "30/03/2023 14:12:02 WIB",
-    "lintang": "2.9 LS",
-    "bujur": "119.41 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km Timurlaut Mamasa",
-    "warning": [
-      "III Mamasa"
     ]
   }
 ]
