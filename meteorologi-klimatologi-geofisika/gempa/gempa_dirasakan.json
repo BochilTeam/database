@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/04/2023 13:13:05 WIB",
+    "lintang": "3.77 LS",
+    "bujur": "133.81 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 56 km Barat Daya Kaimana",
+    "warning": [
+      "III Kaimana"
+    ]
+  },
+  {
     "waktu": "03/04/2023 01:04:14 WIB",
     "lintang": "4.44 LS",
     "bujur": "143.05 BT",
@@ -227,24 +238,6 @@
       "II - III Sumbawa",
       "II - III Sumbawa Barat",
       "II - III Mataram"
-    ]
-  },
-  {
-    "waktu": "29/03/2023 12:34:44 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km BaratDaya Cianjur",
-    "warning": [
-      "III - IV Cianjur",
-      "III - IV Sukabumi",
-      "III-IV Bogor",
-      "III Sukaresmi",
-      "III Sabandar",
-      "III Cibodas",
-      "III Cipanas",
-      "III Rancagoong"
     ]
   }
 ]
