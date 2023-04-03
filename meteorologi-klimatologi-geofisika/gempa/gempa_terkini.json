@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04-04-23 03:50:33 WIB",
+    "lintang": "-8.38",
+    "bujur": "123.83",
+    "magnitudo": "5.0",
+    "kedalaman": "179 Km",
+    "wilayah": "39 km TimurLaut LEMBATA-NTT"
+  },
+  {
     "waktu": "03-04-23 21:59:43 WIB",
     "lintang": "0.86",
     "bujur": "98.73",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "99 km Tenggara ONDONG-KEP.SITARO-SULUT"
-  },
-  {
-    "waktu": "17-02-23 16:37:35 WIB",
-    "lintang": "-6.60",
-    "bujur": "132.10",
-    "magnitudo": "6.6",
-    "kedalaman": "97 Km",
-    "wilayah": "125 km BaratDaya MALUKUTENGGARA"
   }
 ]
