@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "06/04/2023 07:32:04 WIB",
+    "lintang": "0.57 LS",
+    "bujur": "122.19 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 93 km TimurLaut Tojo Una-Una",
+    "warning": [
+      "IV Ampana",
+      "III Malili",
+      "II - III Poso"
+    ]
+  },
+  {
     "waktu": "04/04/2023 01:26:48 WIB",
     "lintang": "8.87 LS",
     "bujur": "115.69 BT",
@@ -258,17 +271,6 @@
     "wilayah": "Pusat gempa berada di darat 33 km BaratLaut Luwu Timur",
     "warning": [
       "III Mangkutana"
-    ]
-  },
-  {
-    "waktu": "30/03/2023 18:40:11 WIB",
-    "lintang": "2.47 LS",
-    "bujur": "140.69 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di laut 8 km BaratLaut Jayapura",
-    "warning": [
-      "II - III Jayapura"
     ]
   }
 ]
