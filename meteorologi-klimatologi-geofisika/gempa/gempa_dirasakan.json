@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "06/04/2023 20:28:34 WIB",
+    "lintang": "5.87 LS",
+    "bujur": "104.02 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "47 Km",
+    "wilayah": "Pusat gempa berada di laut 76 km tenggara Pesisir Barat",
+    "warning": [
+      "III Pesisir Barat",
+      "II - III Liwa",
+      "II Tanggamus"
+    ]
+  },
+  {
     "waktu": "06/04/2023 07:32:04 WIB",
     "lintang": "0.57 LS",
     "bujur": "122.19 BT",
@@ -260,17 +273,6 @@
       "II-III Badung",
       "II Karangasem",
       "II Denpasar"
-    ]
-  },
-  {
-    "waktu": "31/03/2023 00:40:16 WIB",
-    "lintang": "2.4 LS",
-    "bujur": "120.93 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 33 km BaratLaut Luwu Timur",
-    "warning": [
-      "III Mangkutana"
     ]
   }
 ]
