@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06-04-23 07:32:04 WIB",
+    "lintang": "-0.57",
+    "bujur": "122.19",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "93 km TimurLaut TOJOUNA-UNA-SULTENG"
+  },
+  {
     "waktu": "04-04-23 03:50:33 WIB",
     "lintang": "-8.38",
     "bujur": "123.83",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "60 km Tenggara SINABANG-ACEH"
-  },
-  {
-    "waktu": "19-02-23 22:17:03 WIB",
-    "lintang": "2.41",
-    "bujur": "126.19",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "99 km Tenggara ONDONG-KEP.SITARO-SULUT"
   }
 ]
