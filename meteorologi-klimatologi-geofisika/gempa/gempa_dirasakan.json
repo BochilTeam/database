@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "07/04/2023 19:24:32 WIB",
+    "lintang": "0.27 LS",
+    "bujur": "100.28 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km barat laut Bukittinggi",
+    "warning": [
+      "III Kota Bukittinggi",
+      "III Kabupaten Agam",
+      "II Kota Padang Panjang"
+    ]
+  },
+  {
     "waktu": "06/04/2023 20:28:34 WIB",
     "lintang": "5.87 LS",
     "bujur": "104.02 BT",
@@ -260,19 +273,6 @@
     "warning": [
       "III Morotai Utara",
       "III Morotai Timur"
-    ]
-  },
-  {
-    "waktu": "31/03/2023 15:28:35 WIB",
-    "lintang": "9.67 LS",
-    "bujur": "115.15 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 97 km Barat Daya Kuta Selatan",
-    "warning": [
-      "II-III Badung",
-      "II Karangasem",
-      "II Denpasar"
     ]
   }
 ]
