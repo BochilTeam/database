@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08-04-23 13:58:17 WIB",
+    "lintang": "1.92",
+    "bujur": "127.08",
+    "magnitudo": "5.2",
+    "kedalaman": "60 Km",
+    "wilayah": "84 km BaratLaut HALMAHERABARAT-MALUT"
+  },
+  {
     "waktu": "06-04-23 07:32:04 WIB",
     "lintang": "-0.57",
     "bujur": "122.19",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "13 Km",
     "wilayah": "63 km BaratDaya SELUMA-BENGKULU"
-  },
-  {
-    "waktu": "20-02-23 08:33:30 WIB",
-    "lintang": "2.01",
-    "bujur": "96.66",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "60 km Tenggara SINABANG-ACEH"
   }
 ]
