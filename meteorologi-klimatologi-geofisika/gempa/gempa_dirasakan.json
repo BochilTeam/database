@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "08/04/2023 12:21:22 WIB",
+    "lintang": "0.3 LS",
+    "bujur": "100.28 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km Barat Laut Bukittinggi",
+    "warning": [
+      "III Bukittinggi",
+      "III Pariaman",
+      "II - III Padang Panjang"
+    ]
+  },
+  {
     "waktu": "07/04/2023 19:24:32 WIB",
     "lintang": "0.27 LS",
     "bujur": "100.28 BT",
@@ -261,18 +274,6 @@
     "wilayah": "Pusat gempa berada di darat 6 Km Baratlaut Kota Jayapura",
     "warning": [
       "II Jayapura"
-    ]
-  },
-  {
-    "waktu": "31/03/2023 17:04:41 WIB",
-    "lintang": "2.57 LU",
-    "bujur": "128.47 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "28 Km",
-    "wilayah": "Pusat gempa berada di laut 61 km TimurLaut Daruba",
-    "warning": [
-      "III Morotai Utara",
-      "III Morotai Timur"
     ]
   }
 ]
