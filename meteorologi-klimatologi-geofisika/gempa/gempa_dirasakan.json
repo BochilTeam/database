@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "10/04/2023 19:14:33 WIB",
+    "lintang": "4.75 LS",
+    "bujur": "121.98 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km BaratLaut Bombana",
+    "warning": [
+      "III Bombana"
+    ]
+  },
+  {
     "waktu": "10/04/2023 11:00:01 WIB",
     "lintang": "4.06 LS",
     "bujur": "122.93 BT",
@@ -270,17 +281,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km Barat Laut Kota Jayapura",
     "warning": [
       "II - III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "01/04/2023 19:01:17 WIB",
-    "lintang": "2.52 LS",
-    "bujur": "140.67 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km barat laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
