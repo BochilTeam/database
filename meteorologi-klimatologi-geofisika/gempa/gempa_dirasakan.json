@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "10/04/2023 11:00:01 WIB",
+    "lintang": "4.06 LS",
+    "bujur": "122.93 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 9.4 km BaratDaya Wawonii Barat kab. Konawe",
+    "warning": [
+      "II - III Konawe Kepulauan"
+    ]
+  },
+  {
     "waktu": "10/04/2023 07:37:29 WIB",
     "lintang": "9.63 LS",
     "bujur": "115.12 BT",
@@ -268,17 +279,6 @@
     "magnitudo": "2.6",
     "kedalaman": "4 Km",
     "wilayah": "Pusat gempa berada di darat 5 km barat laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "01/04/2023 17:23:13 WIB",
-    "lintang": "2.55 LS",
-    "bujur": "140.71 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km Baratdaya Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
     ]
