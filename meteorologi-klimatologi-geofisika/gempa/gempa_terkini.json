@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "10-04-23 07:37:29 WIB",
+    "lintang": "-9.63",
+    "bujur": "115.12",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "93 km BaratDaya KUTASELATAN-BALI"
+  },
+  {
+    "waktu": "10-04-23 07:36:20 WIB",
+    "lintang": "-9.69",
+    "bujur": "115.10",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "100 km BaratDaya KUTASELATAN-BALI"
+  },
+  {
     "waktu": "08-04-23 21:11:51 WIB",
     "lintang": "-2.73",
     "bujur": "142.19",
@@ -222,21 +238,5 @@
     "magnitudo": "5.9",
     "kedalaman": "139 Km",
     "wilayah": "206 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
-    "waktu": "22-02-23 02:22:19 WIB",
-    "lintang": "2.05",
-    "bujur": "94.22",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "243 km BaratDaya SINABANG-ACEH"
-  },
-  {
-    "waktu": "21-02-23 23:15:54 WIB",
-    "lintang": "-6.17",
-    "bujur": "130.09",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "241 km BaratLaut MALUKUTENGGARABRT"
   }
 ]

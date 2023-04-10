@@ -1,5 +1,23 @@
 [
   {
+    "waktu": "10/04/2023 07:37:29 WIB",
+    "lintang": "9.63 LS",
+    "bujur": "115.12 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 93 km BaratDaya Kuta Selatan",
+    "warning": [
+      "III Kuta",
+      "III Denpasar",
+      "III Mataram",
+      "III Lombok Barat",
+      "III Lombok Tengah",
+      "II - III Karangasem",
+      "II - III Sumbawa Barat",
+      "II - III Kuta Selatan"
+    ]
+  },
+  {
     "waktu": "09/04/2023 17:38:19 WIB",
     "lintang": "8.4 LS",
     "bujur": "115.73 BT",
@@ -263,17 +281,6 @@
     "wilayah": "Pusat gempa berada di darat 2 km Baratdaya Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "01/04/2023 00:55:41 WIB",
-    "lintang": "7.96 LS",
-    "bujur": "120.68 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada dilaut 76 km TimurLaut Ruteng",
-    "warning": [
-      "III Ruteng"
     ]
   }
 ]
