@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "11/04/2023 05:30:44 WIB",
+    "lintang": "3.4 LS",
+    "bujur": "128.79 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di laut 13 km Selatan Elpaputih-Kab. Maluku Tengah",
+    "warning": [
+      "II Masohi"
+    ]
+  },
+  {
+    "waktu": "11/04/2023 01:24:28 WIB",
+    "lintang": "4.72 LS",
+    "bujur": "121.98 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 5.1 km Tenggara Rarowatu, Kab. Bombana",
+    "warning": [
+      "II - III Bombana"
+    ]
+  },
+  {
     "waktu": "11/04/2023 00:29:21 WIB",
     "lintang": "2.26 LS",
     "bujur": "121.75 BT",
@@ -252,37 +274,6 @@
     "wilayah": "Pusat gempabumi berada di darat 59 km Timur Laut Mimika",
     "warning": [
       "II Mimika"
-    ]
-  },
-  {
-    "waktu": "02/04/2023 15:40:57 WIB",
-    "lintang": "7.81 LS",
-    "bujur": "118.73 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "29 Km",
-    "wilayah": "Pusat gempa berada di laut 70 Km Barat Laut Bima",
-    "warning": [
-      "III - IV Bima",
-      "III Makassar",
-      "III Dompu",
-      "III Sumbawa Besar",
-      "III Sumbawa Barat",
-      "II-III Labuan Bajo",
-      "III Gowa",
-      "II-III Mataram",
-      "II Takalar",
-      "II Pangkep"
-    ]
-  },
-  {
-    "waktu": "02/04/2023 11:22:34 WIB",
-    "lintang": "2.47 LS",
-    "bujur": "140.74 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di laut 8 km TimurLaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
