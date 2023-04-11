@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/04/2023 19:16:05 WIB",
+    "lintang": "5.81 LU",
+    "bujur": "94.94 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "83 Km",
+    "wilayah": "Pusat gempa berada di laut 43 km barat daya Kota Sabang",
+    "warning": [
+      "II Aceh Besar"
+    ]
+  },
+  {
     "waktu": "11/04/2023 14:52:02 WIB",
     "lintang": "7.18 LS",
     "bujur": "107.8 BT",
@@ -270,17 +281,6 @@
       "III Wamena",
       "II-III Nabire",
       "II-III Merauke"
-    ]
-  },
-  {
-    "waktu": "02/04/2023 18:05:56 WIB",
-    "lintang": "2.47 LS",
-    "bujur": "140.43 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di darat 13 km TimurLaut Kab. Jayapura",
-    "warning": [
-      "II Sentani"
     ]
   }
 ]
