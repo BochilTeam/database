@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "11/04/2023 09:42:52 WIB",
+    "lintang": "7.76 LS",
+    "bujur": "107.29 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di laut 86 km Barat Daya Kabupaten Bandung",
+    "warning": [
+      "III Sidang Barang",
+      "III Jampang",
+      "III Pameungpeuk",
+      "II Pangalengan"
+    ]
+  },
+  {
     "waktu": "11/04/2023 05:30:44 WIB",
     "lintang": "3.4 LS",
     "bujur": "128.79 BT",
@@ -263,17 +277,6 @@
     "wilayah": "Pusat gempa berada di darat 13 km Timur Laut Kabupaten Jayapura",
     "warning": [
       "III - IV Sentani"
-    ]
-  },
-  {
-    "waktu": "02/04/2023 16:26:22 WIB",
-    "lintang": "4.38 LS",
-    "bujur": "136.9 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempabumi berada di darat 59 km Timur Laut Mimika",
-    "warning": [
-      "II Mimika"
     ]
   }
 ]
