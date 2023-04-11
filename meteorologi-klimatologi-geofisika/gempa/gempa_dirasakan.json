@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "11/04/2023 14:52:02 WIB",
+    "lintang": "7.18 LS",
+    "bujur": "107.8 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 11 Km Baratlaut Garut",
+    "warning": [
+      "III Bayongbong",
+      "III Cisurupan",
+      "III Pasirwangi",
+      "III Samarang",
+      "III Pangalengan"
+    ]
+  },
+  {
     "waktu": "11/04/2023 09:42:52 WIB",
     "lintang": "7.76 LS",
     "bujur": "107.29 BT",
@@ -266,17 +281,6 @@
     "wilayah": "Pusat gempa berada di darat 13 km TimurLaut Kab. Jayapura",
     "warning": [
       "II Sentani"
-    ]
-  },
-  {
-    "waktu": "02/04/2023 16:50:26 WIB",
-    "lintang": "2.52 LS",
-    "bujur": "140.5 BT",
-    "magnitudo": "4",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 13 km Timur Laut Kabupaten Jayapura",
-    "warning": [
-      "III - IV Sentani"
     ]
   }
 ]
