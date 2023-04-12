@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/04/2023 11:19:52 WIB",
+    "lintang": "7.15 LS",
+    "bujur": "120.41 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 96 km Baratdaya Selayar",
+    "warning": [
+      "II-III Jampea"
+    ]
+  },
+  {
     "waktu": "11/04/2023 19:16:05 WIB",
     "lintang": "5.81 LU",
     "bujur": "94.94 BT",
@@ -265,22 +276,6 @@
     "wilayah": "Pusat gempa berada di laut 56 km Barat Daya Kaimana",
     "warning": [
       "III Kaimana"
-    ]
-  },
-  {
-    "waktu": "03/04/2023 01:04:14 WIB",
-    "lintang": "4.44 LS",
-    "bujur": "143.05 BT",
-    "magnitudo": "7.2",
-    "kedalaman": "93 Km",
-    "wilayah": "Pusat gempa berada di darat 115 km BaratDaya Wewak",
-    "warning": [
-      "III Keerom",
-      "III Kota Jayapura",
-      "III Kabupaten Jayapura",
-      "III Wamena",
-      "II-III Nabire",
-      "II-III Merauke"
     ]
   }
 ]
