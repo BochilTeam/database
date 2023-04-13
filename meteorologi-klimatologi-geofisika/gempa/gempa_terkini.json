@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-04-23 06:07:48 WIB",
+    "lintang": "-6.40",
+    "bujur": "131.15",
+    "magnitudo": "5.0",
+    "kedalaman": "97 Km",
+    "wilayah": "175 km BaratLaut MALUKUTENGGARABRT"
+  },
+  {
     "waktu": "10-04-23 07:37:29 WIB",
     "lintang": "-9.63",
     "bujur": "115.12",
@@ -230,13 +238,5 @@
     "magnitudo": "6.8",
     "kedalaman": "112 Km",
     "wilayah": "133 km BaratLaut DARUBA-MALUT"
-  },
-  {
-    "waktu": "22-02-23 16:34:04 WIB",
-    "lintang": "-7.18",
-    "bujur": "129.62",
-    "magnitudo": "5.9",
-    "kedalaman": "139 Km",
-    "wilayah": "206 km BaratLaut MALUKUTENGGARABRT"
   }
 ]
