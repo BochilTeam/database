@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/04/2023 19:45:46 WIB",
+    "lintang": "2.08 LU",
+    "bujur": "98.99 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km TimurLaut Tapanuli Utara",
+    "warning": [
+      "III - IV Tarutung"
+    ]
+  },
+  {
     "waktu": "12/04/2023 11:19:52 WIB",
     "lintang": "7.15 LS",
     "bujur": "120.41 BT",
@@ -265,17 +276,6 @@
       "III Tua Pejat",
       "II Solok Selatan",
       "II Pekanbaru"
-    ]
-  },
-  {
-    "waktu": "03/04/2023 13:13:05 WIB",
-    "lintang": "3.77 LS",
-    "bujur": "133.81 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 56 km Barat Daya Kaimana",
-    "warning": [
-      "III Kaimana"
     ]
   }
 ]
