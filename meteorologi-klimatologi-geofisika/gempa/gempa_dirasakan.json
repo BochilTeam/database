@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/04/2023 04:11:31 WIB",
+    "lintang": "2.5 LS",
+    "bujur": "140.67 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km BaratLaut Kota Jayapura",
+    "warning": [
+      "II - III Jayapura"
+    ]
+  },
+  {
     "waktu": "14/04/2023 16:55:44 WIB",
     "lintang": "6.29 LS",
     "bujur": "111.92 BT",
@@ -260,19 +271,6 @@
       "III Pesisir Barat",
       "II - III Liwa",
       "II Tanggamus"
-    ]
-  },
-  {
-    "waktu": "06/04/2023 07:32:04 WIB",
-    "lintang": "0.57 LS",
-    "bujur": "122.19 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 93 km TimurLaut Tojo Una-Una",
-    "warning": [
-      "IV Ampana",
-      "III Malili",
-      "II - III Poso"
     ]
   }
 ]
