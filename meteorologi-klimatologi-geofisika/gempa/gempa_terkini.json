@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14-04-23 10:01:33 WIB",
+    "lintang": "-1.69",
+    "bujur": "139.24",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "57 km TimurLaut SARMI-PAPUA"
+  },
+  {
     "waktu": "13-04-23 06:07:48 WIB",
     "lintang": "-6.40",
     "bujur": "131.15",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "90 km TimurLaut BITUNG-SULUT"
-  },
-  {
-    "waktu": "24-02-23 03:02:52 WIB",
-    "lintang": "3.20",
-    "bujur": "127.94",
-    "magnitudo": "6.8",
-    "kedalaman": "112 Km",
-    "wilayah": "133 km BaratLaut DARUBA-MALUT"
   }
 ]

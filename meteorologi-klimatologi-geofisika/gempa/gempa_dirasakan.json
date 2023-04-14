@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "14/04/2023 10:01:33 WIB",
+    "lintang": "1.69 LS",
+    "bujur": "139.24 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 57 km TimurLaut Sarmi",
+    "warning": [
+      "III Sarmi"
+    ]
+  },
+  {
+    "waktu": "14/04/2023 09:22:36 WIB",
+    "lintang": "2.89 LS",
+    "bujur": "119.36 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Timur Laut Mamasa",
+    "warning": [
+      "III Mamasa"
+    ]
+  },
+  {
     "waktu": "13/04/2023 19:45:46 WIB",
     "lintang": "2.08 LU",
     "bujur": "98.99 BT",
@@ -225,57 +247,6 @@
       "III Lombok Tengah",
       "III Mataram",
       "III Lombok Utara"
-    ]
-  },
-  {
-    "waktu": "03/04/2023 23:18:00 WIB",
-    "lintang": "7.85 LS",
-    "bujur": "118.77 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "31 Km",
-    "wilayah": "Pusat gempa berada di laut 66 km Timurlaut Bima",
-    "warning": [
-      "III Kota Bima",
-      "III Kabupaten Bima"
-    ]
-  },
-  {
-    "waktu": "03/04/2023 21:59:43 WIB",
-    "lintang": "0.86 LU",
-    "bujur": "98.73 BT",
-    "magnitudo": "6.4",
-    "kedalaman": "102 Km",
-    "wilayah": "Pusat gempa berada di laut 82 km Barat Daya Padang Sidempuan",
-    "warning": [
-      "IV - V Padang Sidempuan",
-      "IV - V Aek Godang",
-      "IV - V Pinangsori",
-      "III - IV Gunungsitoli",
-      "III - IV Nias Barat",
-      "III - IV Nias Selatan",
-      "III - IV Nias Utara",
-      "III - IV Aceh Singkil",
-      "III Telo",
-      "III Pulau Banyak",
-      "III Tapanuli Tengah",
-      "III Subulussalam",
-      "III Dairi",
-      "III Aceh Selatan",
-      "II Banda Aceh",
-      "IV Pasaman Barat",
-      "IV Pasaman",
-      "IV Agam",
-      "III Padang",
-      "III Pariaman",
-      "III Painan",
-      "III Padang Panjang",
-      "III Bukittinggi",
-      "III Payakumbuh",
-      "III Solok",
-      "III Limapuluhkota",
-      "III Tua Pejat",
-      "II Solok Selatan",
-      "II Pekanbaru"
     ]
   }
 ]
