@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15-04-23 22:07:07 WIB",
+    "lintang": "-4.93",
+    "bujur": "102.85",
+    "magnitudo": "6.2",
+    "kedalaman": "23 Km",
+    "wilayah": "53 km BaratDaya BENGKULUSELATAN"
+  },
+  {
     "waktu": "14-04-23 17:37:54 WIB",
     "lintang": "-6.27",
     "bujur": "112.94",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "82 Km",
     "wilayah": "36 km Tenggara PESISIRSELATAN-SUMBAR"
-  },
-  {
-    "waktu": "27-02-23 23:31:32 WIB",
-    "lintang": "-6.76",
-    "bujur": "129.94",
-    "magnitudo": "5.0",
-    "kedalaman": "154 Km",
-    "wilayah": "202 km BaratLaut MALUKUTENGGARABRT"
   }
 ]

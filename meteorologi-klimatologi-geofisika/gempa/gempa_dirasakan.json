@@ -1,5 +1,32 @@
 [
   {
+    "waktu": "15/04/2023 22:07:07 WIB",
+    "lintang": "4.93 LS",
+    "bujur": "102.85 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "23 Km",
+    "wilayah": "Pusat gempa berada di laut 53 km BaratDaya Bengkulu Selatan",
+    "warning": [
+      "IV Bengkulu Selatan",
+      "IV Liwa",
+      "IV Manna",
+      "III Kota Bengkulu",
+      "III Bengkulu utara",
+      "III Enggano",
+      "III Pesisir Barat",
+      "II Sekincau",
+      "II Kota Agung",
+      "II Linggau",
+      "II Lahat",
+      "II Kepahiang",
+      "IV Kaur",
+      "II Musi Rawas",
+      "II Oku Selatan",
+      "II Bukit Kemuning",
+      "III Pagar Alam"
+    ]
+  },
+  {
     "waktu": "15/04/2023 12:55:10 WIB",
     "lintang": "7.22 LS",
     "bujur": "107.58 BT",
@@ -255,19 +282,6 @@
     "wilayah": "Pusat gempa berada di laut 23 km Tenggara Karangasem",
     "warning": [
       "II Kab. Karangasem"
-    ]
-  },
-  {
-    "waktu": "08/04/2023 12:21:22 WIB",
-    "lintang": "0.3 LS",
-    "bujur": "100.28 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km Barat Laut Bukittinggi",
-    "warning": [
-      "III Bukittinggi",
-      "III Pariaman",
-      "II - III Padang Panjang"
     ]
   }
 ]
