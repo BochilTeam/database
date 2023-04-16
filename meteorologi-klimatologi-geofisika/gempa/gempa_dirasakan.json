@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/04/2023 10:29:28 WIB",
+    "lintang": "5.5 LS",
+    "bujur": "122.25 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 22.9 km BaratDaya Kab. Buton Tengah",
+    "warning": [
+      "II - III Kabaena"
+    ]
+  },
+  {
     "waktu": "15/04/2023 22:07:07 WIB",
     "lintang": "4.93 LS",
     "bujur": "102.85 BT",
@@ -271,17 +282,6 @@
       "II - III Karangasem",
       "II - III Sumbawa Barat",
       "II - III Kuta Selatan"
-    ]
-  },
-  {
-    "waktu": "09/04/2023 17:38:19 WIB",
-    "lintang": "8.4 LS",
-    "bujur": "115.73 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 23 km Tenggara Karangasem",
-    "warning": [
-      "II Kab. Karangasem"
     ]
   }
 ]
