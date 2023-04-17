@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "17/04/2023 11:38:30 WIB",
+    "lintang": "8.36 LS",
+    "bujur": "107.91 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di Laut 97 km BaratDaya Kabupaten Pangandaran",
+    "warning": [
+      "III Garut",
+      "III Pangalengan",
+      "III Pangandaran",
+      "III Tasikmalaya",
+      "III Cijulang",
+      "III Pameungpeuk",
+      "III Cikajang"
+    ]
+  },
+  {
     "waktu": "17/04/2023 09:24:35 WIB",
     "lintang": "2.56 LS",
     "bujur": "120.61 BT",
@@ -267,17 +284,6 @@
     "wilayah": "Pusat gempa berada di darat 3 km BaratLaut Bombana",
     "warning": [
       "III Bombana"
-    ]
-  },
-  {
-    "waktu": "10/04/2023 11:00:01 WIB",
-    "lintang": "4.06 LS",
-    "bujur": "122.93 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 9.4 km BaratDaya Wawonii Barat kab. Konawe",
-    "warning": [
-      "II - III Konawe Kepulauan"
     ]
   }
 ]
