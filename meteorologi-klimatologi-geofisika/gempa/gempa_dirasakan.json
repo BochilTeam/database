@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "17/04/2023 18:05:55 WIB",
+    "lintang": "4.97 LS",
+    "bujur": "102.84 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 58 km Barat Daya Bengkulu Selatan",
+    "warning": [
+      "III Manna",
+      "II-III Kota Bengkulu",
+      "II-III Kepahiang",
+      "I-II Liwa",
+      "I-II Lubuk Linggau",
+      "III Enggano",
+      "I-II Lemong"
+    ]
+  },
+  {
     "waktu": "17/04/2023 13:41:28 WIB",
     "lintang": "4.3 LS",
     "bujur": "122.39 BT",
@@ -273,17 +290,6 @@
       "III - IV Witaponda",
       "III - IV Bumi Raya",
       "III Umbele"
-    ]
-  },
-  {
-    "waktu": "10/04/2023 21:56:36 WIB",
-    "lintang": "4.72 LS",
-    "bujur": "121.99 BT",
-    "magnitudo": "3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km Baratlaut Bombana",
-    "warning": [
-      "II-III Bombana"
     ]
   }
 ]

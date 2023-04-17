@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-04-23 18:05:55 WIB",
+    "lintang": "-4.97",
+    "bujur": "102.84",
+    "magnitudo": "5.3",
+    "kedalaman": "22 Km",
+    "wilayah": "58 km BaratDaya BENGKULUSELATAN"
+  },
+  {
     "waktu": "15-04-23 22:07:07 WIB",
     "lintang": "-4.93",
     "bujur": "102.85",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "12 Km",
     "wilayah": "47 km BaratDaya BENGKULU-BENGKULU"
-  },
-  {
-    "waktu": "02-03-23 06:05:23 WIB",
-    "lintang": "-1.65",
-    "bujur": "100.71",
-    "magnitudo": "5.6",
-    "kedalaman": "82 Km",
-    "wilayah": "36 km Tenggara PESISIRSELATAN-SUMBAR"
   }
 ]
