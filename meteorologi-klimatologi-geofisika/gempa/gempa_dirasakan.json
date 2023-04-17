@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/04/2023 13:41:28 WIB",
+    "lintang": "4.3 LS",
+    "bujur": "122.39 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 21 km TimurLaut Konawe Selatan",
+    "warning": [
+      "II - III Konawe Selatan"
+    ]
+  },
+  {
     "waktu": "17/04/2023 11:38:30 WIB",
     "lintang": "8.36 LS",
     "bujur": "107.91 BT",
@@ -273,17 +284,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km Baratlaut Bombana",
     "warning": [
       "II-III Bombana"
-    ]
-  },
-  {
-    "waktu": "10/04/2023 19:14:33 WIB",
-    "lintang": "4.75 LS",
-    "bujur": "121.98 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km BaratLaut Bombana",
-    "warning": [
-      "III Bombana"
     ]
   }
 ]
