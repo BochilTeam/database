@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/04/2023 20:25:08 WIB",
+    "lintang": "3.52 LS",
+    "bujur": "120.81 BT",
+    "magnitudo": "4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 7.9 km BaratDaya Lasusua, Kab. Kolaka Utara",
+    "warning": [
+      "III Kolaka Utara"
+    ]
+  },
+  {
     "waktu": "17/04/2023 18:05:55 WIB",
     "lintang": "4.97 LS",
     "bujur": "102.84 BT",
@@ -277,19 +288,6 @@
     "wilayah": "Pusat gempa berada di darat 5.1 km Tenggara Rarowatu, Kab. Bombana",
     "warning": [
       "II - III Bombana"
-    ]
-  },
-  {
-    "waktu": "11/04/2023 00:29:21 WIB",
-    "lintang": "2.26 LS",
-    "bujur": "121.75 BT",
-    "magnitudo": "4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km Tenggara Bahonsuai",
-    "warning": [
-      "III - IV Witaponda",
-      "III - IV Bumi Raya",
-      "III Umbele"
     ]
   }
 ]
