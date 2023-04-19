@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "19/04/2023 23:42:18 WIB",
+    "lintang": "9.65 LS",
+    "bujur": "115.12 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada dilaut 95km Barat Daya Kuta Selatan",
+    "warning": [
+      "III Kuta",
+      "III Kuta Selatan",
+      "II Denpasar",
+      "II Mataram"
+    ]
+  },
+  {
     "waktu": "19/04/2023 05:39:31 WIB",
     "lintang": "3.79 LS",
     "bujur": "101.86 BT",
@@ -276,20 +290,6 @@
       "III Pasirwangi",
       "III Samarang",
       "III Pangalengan"
-    ]
-  },
-  {
-    "waktu": "11/04/2023 09:42:52 WIB",
-    "lintang": "7.76 LS",
-    "bujur": "107.29 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "26 Km",
-    "wilayah": "Pusat gempa berada di laut 86 km Barat Daya Kabupaten Bandung",
-    "warning": [
-      "III Sidang Barang",
-      "III Jampang",
-      "III Pameungpeuk",
-      "II Pangalengan"
     ]
   }
 ]
