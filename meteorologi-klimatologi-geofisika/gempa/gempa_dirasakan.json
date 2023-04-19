@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "19/04/2023 05:39:31 WIB",
+    "lintang": "3.79 LS",
+    "bujur": "101.86 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di laut 54 km BaratDaya Bengkulu Utara",
+    "warning": [
+      "II - III Kota Bengkulu",
+      "II - III Bengkulu Tengah",
+      "II - III Bengkulu Utara"
+    ]
+  },
+  {
     "waktu": "19/04/2023 02:07:48 WIB",
     "lintang": "8.07 LS",
     "bujur": "115.56 BT",
@@ -277,17 +290,6 @@
       "III Jampang",
       "III Pameungpeuk",
       "II Pangalengan"
-    ]
-  },
-  {
-    "waktu": "11/04/2023 05:30:44 WIB",
-    "lintang": "3.4 LS",
-    "bujur": "128.79 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di laut 13 km Selatan Elpaputih-Kab. Maluku Tengah",
-    "warning": [
-      "II Masohi"
     ]
   }
 ]
