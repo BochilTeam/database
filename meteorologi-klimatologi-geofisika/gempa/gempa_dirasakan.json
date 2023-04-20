@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/04/2023 08:32:24 WIB",
+    "lintang": "2.5 LS",
+    "bujur": "140.93 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 27 km TimurLaut Kota Jayapura",
+    "warning": [
+      "III Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "19/04/2023 23:42:18 WIB",
     "lintang": "9.65 LS",
     "bujur": "115.12 BT",
@@ -275,21 +286,6 @@
     "wilayah": "Pusat gempa berada di laut 43 km barat daya Kota Sabang",
     "warning": [
       "II Aceh Besar"
-    ]
-  },
-  {
-    "waktu": "11/04/2023 14:52:02 WIB",
-    "lintang": "7.18 LS",
-    "bujur": "107.8 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 11 Km Baratlaut Garut",
-    "warning": [
-      "III Bayongbong",
-      "III Cisurupan",
-      "III Pasirwangi",
-      "III Samarang",
-      "III Pangalengan"
     ]
   }
 ]
