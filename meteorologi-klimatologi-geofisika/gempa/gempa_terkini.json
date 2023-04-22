@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "22-04-23 16:15:55 WIB",
+    "lintang": "-5.32",
+    "bujur": "125.62",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "224 km TimurLaut WAKATOBI-SULTRA"
+  },
+  {
+    "waktu": "22-04-23 15:23:44 WIB",
+    "lintang": "-5.26",
+    "bujur": "125.56",
+    "magnitudo": "6.4",
+    "kedalaman": "10 Km",
+    "wilayah": "218 km TimurLaut WAKATOBI-SULTRA"
+  },
+  {
     "waktu": "21-04-23 17:21:14 WIB",
     "lintang": "2.81",
     "bujur": "127.14",
@@ -222,21 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "97 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
-  },
-  {
-    "waktu": "07-03-23 14:31:57 WIB",
-    "lintang": "-6.47",
-    "bujur": "103.90",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "140 km BaratDaya TANGGAMUS-LAMPUNG"
-  },
-  {
-    "waktu": "06-03-23 22:53:02 WIB",
-    "lintang": "5.80",
-    "bujur": "126.19",
-    "magnitudo": "5.2",
-    "kedalaman": "151 Km",
-    "wilayah": "207 km BaratLaut MELONGUANE-SULUT"
   }
 ]
