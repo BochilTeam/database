@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "23/04/2023 00:09:46 WIB",
+    "lintang": "0.86 LS",
+    "bujur": "98.43 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "40 Km",
+    "wilayah": "Pusat gempa berada di 173 km Tenggara Nias Selatan",
+    "warning": [
+      "IV Siberut",
+      "III Pasaman Barat",
+      "III Pariaman",
+      "III Padang Pariaman",
+      "III Padang",
+      "II Padang Panjang",
+      "III Pulau Tello"
+    ]
+  },
+  {
     "waktu": "22/04/2023 17:15:18 WIB",
     "lintang": "2.05 LS",
     "bujur": "125.85 BT",
@@ -280,17 +297,6 @@
     "wilayah": "Pusat gempa berada di darat 4 km Timur Laut Mamasa",
     "warning": [
       "III Mamasa"
-    ]
-  },
-  {
-    "waktu": "13/04/2023 19:45:46 WIB",
-    "lintang": "2.08 LU",
-    "bujur": "98.99 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km TimurLaut Tapanuli Utara",
-    "warning": [
-      "III - IV Tarutung"
     ]
   }
 ]

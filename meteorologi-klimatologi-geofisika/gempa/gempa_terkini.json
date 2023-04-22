@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23-04-23 00:09:46 WIB",
+    "lintang": "-0.81",
+    "bujur": "98.48",
+    "magnitudo": "5.9",
+    "kedalaman": "28 Km",
+    "wilayah": "170 km Tenggara NIASSELATAN-SUMUT"
+  },
+  {
     "waktu": "22-04-23 17:15:18 WIB",
     "lintang": "-2.05",
     "bujur": "125.85",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "121 Km",
     "wilayah": "127 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
-    "waktu": "11-03-23 11:03:48 WIB",
-    "lintang": "1.96",
-    "bujur": "97.85",
-    "magnitudo": "5.2",
-    "kedalaman": "19 Km",
-    "wilayah": "42 km Tenggara KAB-ACEHSINGKIL"
   }
 ]
