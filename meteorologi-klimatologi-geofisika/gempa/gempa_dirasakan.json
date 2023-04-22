@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "23/04/2023 04:17:48 WIB",
+    "lintang": "0.94 LS",
+    "bujur": "98.38 BT",
+    "magnitudo": "6.1",
+    "kedalaman": "19 Km",
+    "wilayah": "Pusat gempa berada di laut 177 km Barat Laut Kep. Mentawai",
+    "warning": [
+      "IV Siberut",
+      "III Padang",
+      "III Payakumbuh",
+      "III Pasaman Barat"
+    ]
+  },
+  {
     "waktu": "23/04/2023 00:09:46 WIB",
     "lintang": "0.86 LS",
     "bujur": "98.43 BT",
@@ -286,17 +300,6 @@
     "wilayah": "Pusat gempa berada di Laut 57 km TimurLaut Sarmi",
     "warning": [
       "III Sarmi"
-    ]
-  },
-  {
-    "waktu": "14/04/2023 09:22:36 WIB",
-    "lintang": "2.89 LS",
-    "bujur": "119.36 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km Timur Laut Mamasa",
-    "warning": [
-      "III Mamasa"
     ]
   }
 ]
