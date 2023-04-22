@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22-04-23 17:15:18 WIB",
+    "lintang": "-2.05",
+    "bujur": "125.85",
+    "magnitudo": "5.0",
+    "kedalaman": "17 Km",
+    "wilayah": "13 km BaratDaya SANANA-MALUT"
+  },
+  {
     "waktu": "22-04-23 16:15:55 WIB",
     "lintang": "-5.32",
     "bujur": "125.62",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "19 Km",
     "wilayah": "42 km Tenggara KAB-ACEHSINGKIL"
-  },
-  {
-    "waktu": "08-03-23 03:31:29 WIB",
-    "lintang": "-0.28",
-    "bujur": "124.57",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "97 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
   }
 ]

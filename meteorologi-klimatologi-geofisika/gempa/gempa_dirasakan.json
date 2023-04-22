@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/04/2023 17:15:18 WIB",
+    "lintang": "2.05 LS",
+    "bujur": "125.85 BT",
+    "magnitudo": "5",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 13 km BaratDaya Sanana",
+    "warning": [
+      "III Sanana"
+    ]
+  },
+  {
     "waktu": "21/04/2023 17:21:14 WIB",
     "lintang": "2.81 LU",
     "bujur": "127.14 BT",
@@ -280,17 +291,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km TimurLaut Tapanuli Utara",
     "warning": [
       "III - IV Tarutung"
-    ]
-  },
-  {
-    "waktu": "12/04/2023 11:19:52 WIB",
-    "lintang": "7.15 LS",
-    "bujur": "120.41 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 96 km Baratdaya Selayar",
-    "warning": [
-      "II-III Jampea"
     ]
   }
 ]
