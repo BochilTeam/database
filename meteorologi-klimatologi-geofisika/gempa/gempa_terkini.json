@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23-04-23 06:33:55 WIB",
+    "lintang": "-0.79",
+    "bujur": "98.55",
+    "magnitudo": "5.5",
+    "kedalaman": "20 Km",
+    "wilayah": "172 km Tenggara NIASSELATAN-SUMUT"
+  },
+  {
     "waktu": "23-04-23 04:17:48 WIB",
     "lintang": "-0.94",
     "bujur": "98.38",
@@ -230,13 +238,5 @@
     "magnitudo": "5.7",
     "kedalaman": "10 Km",
     "wilayah": "302 km BaratDaya JEMBER-JATIM"
-  },
-  {
-    "waktu": "16-03-23 04:25:39 WIB",
-    "lintang": "4.65",
-    "bujur": "127.02",
-    "magnitudo": "5.4",
-    "kedalaman": "16 Km",
-    "wilayah": "81 km TimurLaut MELONGUANE-SULUT"
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/04/2023 05:06:14 WIB",
+    "lintang": "8.35 LS",
+    "bujur": "123.04 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km Tenggara Larantuka",
+    "warning": [
+      "II - III Larantuka"
+    ]
+  },
+  {
     "waktu": "23/04/2023 04:17:48 WIB",
     "lintang": "0.94 LS",
     "bujur": "98.38 BT",
@@ -289,17 +300,6 @@
       "III Sumbawa",
       "III Dompu",
       "III Bima"
-    ]
-  },
-  {
-    "waktu": "14/04/2023 10:01:33 WIB",
-    "lintang": "1.69 LS",
-    "bujur": "139.24 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 57 km TimurLaut Sarmi",
-    "warning": [
-      "III Sarmi"
     ]
   }
 ]
