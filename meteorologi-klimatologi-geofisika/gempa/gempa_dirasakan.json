@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/04/2023 18:35:45 WIB",
+    "lintang": "4.96 LS",
+    "bujur": "103.01 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "32 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km BaratDaya Kaur",
+    "warning": [
+      "II Tanjung Sakti"
+    ]
+  },
+  {
     "waktu": "23/04/2023 05:06:14 WIB",
     "lintang": "8.35 LS",
     "bujur": "123.04 BT",
@@ -257,49 +268,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km BaratLaut Kota Jayapura",
     "warning": [
       "II - III Jayapura"
-    ]
-  },
-  {
-    "waktu": "14/04/2023 16:55:44 WIB",
-    "lintang": "6.29 LS",
-    "bujur": "111.92 BT",
-    "magnitudo": "6.6",
-    "kedalaman": "632 Km",
-    "wilayah": "Pusat gempa berada di laut 68 km BaratLaut Tuban",
-    "warning": [
-      "V Kuta",
-      "IV Karangkates",
-      "IV Trenggalek",
-      "IV Tuban",
-      "IV Garut",
-      "III - IV Kediri",
-      "III - IV Malang",
-      "III - IV Surabaya",
-      "III - IV Tulungagung",
-      "III - IV Pacitan",
-      "IV Gianyar",
-      "III Pelabuhan Ratu",
-      "III Labuan",
-      "III Tabanan",
-      "II Magelang",
-      "II Bantul",
-      "II Gunungkidul",
-      "II Purworejo",
-      "II Wonogiri",
-      "II Purwokerto",
-      "II - III Solo",
-      "II Klaten",
-      "II Wonosobo",
-      "II Purbalingga",
-      "II Temanggung",
-      "IV Mataram",
-      "III Lombok Barat",
-      "III Lombok Timur",
-      "III Lombok Tengah",
-      "III Lombok Utara",
-      "III Sumbawa",
-      "III Dompu",
-      "III Bima"
     ]
   }
 ]
