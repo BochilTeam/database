@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "25/04/2023 05:30:46 WIB",
+    "lintang": "7.79 LS",
+    "bujur": "106.44 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada dilaut 89Km barat daya Kab,Sukabumi",
+    "warning": [
+      "II - III Surade",
+      "II - III Jampang",
+      "II - III Ujung Genteng"
+    ]
+  },
+  {
     "waktu": "25/04/2023 03:00:57 WIB",
     "lintang": "0.93 LS",
     "bujur": "98.39 BT",
@@ -271,17 +284,6 @@
     "warning": [
       "II Pangalengan",
       "II Kertasari"
-    ]
-  },
-  {
-    "waktu": "15/04/2023 11:39:43 WIB",
-    "lintang": "1.17 LU",
-    "bujur": "99.41 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 27 km Tenggara Padang Sidempuan",
-    "warning": [
-      "III - IV Padang Sidempuan"
     ]
   }
 ]

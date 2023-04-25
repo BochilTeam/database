@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25-04-23 05:19:16 WIB",
+    "lintang": "-0.88",
+    "bujur": "98.52",
+    "magnitudo": "5.0",
+    "kedalaman": "12 Km",
+    "wilayah": "171 km BaratLaut KEP-MENTAWAI-SUMBAR"
+  },
+  {
     "waktu": "23-04-23 06:33:55 WIB",
     "lintang": "-0.79",
     "bujur": "98.55",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "126 km BaratDaya KULONPROGO-DIY"
-  },
-  {
-    "waktu": "16-03-23 12:22:39 WIB",
-    "lintang": "-10.90",
-    "bujur": "113.30",
-    "magnitudo": "5.7",
-    "kedalaman": "10 Km",
-    "wilayah": "302 km BaratDaya JEMBER-JATIM"
   }
 ]
