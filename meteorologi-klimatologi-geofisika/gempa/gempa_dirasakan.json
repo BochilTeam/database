@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/04/2023 13:34:01 WIB",
+    "lintang": "4.57 LU",
+    "bujur": "95.1 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di laut 53 km BaratDaya Calang",
+    "warning": [
+      "II Lamno"
+    ]
+  },
+  {
     "waktu": "26/04/2023 09:56:27 WIB",
     "lintang": "4.77 LU",
     "bujur": "95.56 BT",
@@ -254,20 +265,6 @@
     "wilayah": "Pusat gempa berada di darat 62 km BaratLaut Luwu Timur",
     "warning": [
       "II-III Masamba"
-    ]
-  },
-  {
-    "waktu": "16/04/2023 10:29:28 WIB",
-    "lintang": "5.5 LS",
-    "bujur": "122.25 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 22.9 km BaratDaya Kab. Buton Tengah",
-    "warning": [
-      "II - III Kabaena",
-      "II - III Talaga Raya",
-      "III Bombana",
-      "III Muna Barat"
     ]
   }
 ]
