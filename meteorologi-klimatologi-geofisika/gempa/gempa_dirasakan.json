@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/04/2023 07:04:45 WIB",
+    "lintang": "2.48 LS",
+    "bujur": "140.47 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km TimurLaut Kabupaten Jayapura",
+    "warning": [
+      "II Sentani"
+    ]
+  },
+  {
     "waktu": "25/04/2023 05:30:46 WIB",
     "lintang": "7.79 LS",
     "bujur": "106.44 BT",
@@ -272,18 +283,6 @@
       "II Oku Selatan",
       "II Bukit Kemuning",
       "III Pagar Alam"
-    ]
-  },
-  {
-    "waktu": "15/04/2023 12:55:10 WIB",
-    "lintang": "7.22 LS",
-    "bujur": "107.58 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 22 km Tenggara Kab. Bandung",
-    "warning": [
-      "II Pangalengan",
-      "II Kertasari"
     ]
   }
 ]
