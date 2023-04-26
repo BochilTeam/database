@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27-04-23 03:43:01 WIB",
+    "lintang": "-0.80",
+    "bujur": "98.40",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "165 km Tenggara NIASSELATAN-SUMUT"
+  },
+  {
     "waktu": "25-04-23 05:19:16 WIB",
     "lintang": "-0.88",
     "bujur": "98.52",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "91 Km",
     "wilayah": "224 km BaratLaut MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "17-03-23 19:05:27 WIB",
-    "lintang": "-8.89",
-    "bujur": "109.77",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "126 km BaratDaya KULONPROGO-DIY"
   }
 ]
