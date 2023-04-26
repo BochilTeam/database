@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "26/04/2023 09:56:27 WIB",
+    "lintang": "4.77 LU",
+    "bujur": "95.56 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "61 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km BaratLaut Calang",
+    "warning": [
+      "II Aceh Besar",
+      "II Banda Aceh"
+    ]
+  },
+  {
     "waktu": "26/04/2023 07:04:45 WIB",
     "lintang": "2.48 LS",
     "bujur": "140.47 BT",
@@ -256,33 +268,6 @@
       "II - III Talaga Raya",
       "III Bombana",
       "III Muna Barat"
-    ]
-  },
-  {
-    "waktu": "15/04/2023 22:07:07 WIB",
-    "lintang": "4.93 LS",
-    "bujur": "102.85 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di laut 53 km BaratDaya Bengkulu Selatan",
-    "warning": [
-      "IV Bengkulu Selatan",
-      "IV Liwa",
-      "IV Manna",
-      "III Kota Bengkulu",
-      "III Bengkulu utara",
-      "III Enggano",
-      "III Pesisir Barat",
-      "II Sekincau",
-      "II Kota Agung",
-      "II Linggau",
-      "II Lahat",
-      "II Kepahiang",
-      "IV Kaur",
-      "II Musi Rawas",
-      "II Oku Selatan",
-      "II Bukit Kemuning",
-      "III Pagar Alam"
     ]
   }
 ]
