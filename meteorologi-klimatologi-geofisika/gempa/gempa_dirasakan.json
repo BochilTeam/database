@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "27/04/2023 10:27:32 WIB",
+    "lintang": "3.9 LS",
+    "bujur": "133.72 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 29 km BaratDaya Kaimana",
+    "warning": [
+      "II - III Kaimana"
+    ]
+  },
+  {
+    "waktu": "27/04/2023 09:36:02 WIB",
+    "lintang": "2.9 LS",
+    "bujur": "119.41 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km TimurLaut Mamasa",
+    "warning": [
+      "III Mamasa"
+    ]
+  },
+  {
     "waktu": "27/04/2023 07:06:38 WIB",
     "lintang": "2.93 LS",
     "bujur": "119.4 BT",
@@ -237,34 +259,6 @@
       "I-II Lubuk Linggau",
       "III Enggano",
       "I-II Lemong"
-    ]
-  },
-  {
-    "waktu": "17/04/2023 13:41:28 WIB",
-    "lintang": "4.3 LS",
-    "bujur": "122.39 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km TimurLaut Konawe Selatan",
-    "warning": [
-      "II - III Konawe Selatan"
-    ]
-  },
-  {
-    "waktu": "17/04/2023 11:38:30 WIB",
-    "lintang": "8.36 LS",
-    "bujur": "107.91 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada di Laut 97 km BaratDaya Kabupaten Pangandaran",
-    "warning": [
-      "III Garut",
-      "III Pangalengan",
-      "III Pangandaran",
-      "III Tasikmalaya",
-      "III Cijulang",
-      "III Pameungpeuk",
-      "III Cikajang"
     ]
   }
 ]
