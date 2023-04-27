@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/04/2023 20:24:42 WIB",
+    "lintang": "2.91 LS",
+    "bujur": "119.4 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km TimurLaut Mamasa",
+    "warning": [
+      "II Mamasa"
+    ]
+  },
+  {
     "waktu": "27/04/2023 10:27:32 WIB",
     "lintang": "3.9 LS",
     "bujur": "133.72 BT",
@@ -242,23 +253,6 @@
     "wilayah": "Pusat gempa berada di laut 7.9 km BaratDaya Lasusua, Kab. Kolaka Utara",
     "warning": [
       "III Kolaka Utara"
-    ]
-  },
-  {
-    "waktu": "17/04/2023 18:05:55 WIB",
-    "lintang": "4.97 LS",
-    "bujur": "102.84 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di laut 58 km Barat Daya Bengkulu Selatan",
-    "warning": [
-      "III Manna",
-      "II-III Kota Bengkulu",
-      "II-III Kepahiang",
-      "I-II Liwa",
-      "I-II Lubuk Linggau",
-      "III Enggano",
-      "I-II Lemong"
     ]
   }
 ]
