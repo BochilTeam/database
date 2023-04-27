@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/04/2023 07:06:38 WIB",
+    "lintang": "2.93 LS",
+    "bujur": "119.4 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km tenggara Mamasa",
+    "warning": [
+      "III Mamasa"
+    ]
+  },
+  {
     "waktu": "26/04/2023 13:34:01 WIB",
     "lintang": "4.57 LU",
     "bujur": "95.1 BT",
@@ -254,17 +265,6 @@
       "III Cijulang",
       "III Pameungpeuk",
       "III Cikajang"
-    ]
-  },
-  {
-    "waktu": "17/04/2023 09:24:35 WIB",
-    "lintang": "2.56 LS",
-    "bujur": "120.61 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 62 km BaratLaut Luwu Timur",
-    "warning": [
-      "II-III Masamba"
     ]
   }
 ]
