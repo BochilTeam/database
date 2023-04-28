@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "28/04/2023 06:19:37 WIB",
+    "lintang": "2.23 LS",
+    "bujur": "140.6 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 38 km Barat Laut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "28/04/2023 04:28:44 WIB",
+    "lintang": "2.48 LS",
+    "bujur": "140.72 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 10 km Timur Laut Kota Jayapura",
+    "warning": [
+      "II-III Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "27/04/2023 21:56:56 WIB",
     "lintang": "3.02 LU",
     "bujur": "98.49 BT",
@@ -232,30 +254,6 @@
       "III Kuta Selatan",
       "II Denpasar",
       "II Mataram"
-    ]
-  },
-  {
-    "waktu": "19/04/2023 05:39:31 WIB",
-    "lintang": "3.79 LS",
-    "bujur": "101.86 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di laut 54 km BaratDaya Bengkulu Utara",
-    "warning": [
-      "II - III Kota Bengkulu",
-      "II - III Bengkulu Tengah",
-      "II - III Bengkulu Utara"
-    ]
-  },
-  {
-    "waktu": "19/04/2023 02:07:48 WIB",
-    "lintang": "8.07 LS",
-    "bujur": "115.56 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut, 31 km TimurLaut Karangasem",
-    "warning": [
-      "III Tejakula"
     ]
   }
 ]
