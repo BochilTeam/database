@@ -1,5 +1,32 @@
 [
   {
+    "waktu": "29/04/2023 03:46:34 WIB",
+    "lintang": "2.49 LU",
+    "bujur": "96.58 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di laut 23 km Timur Laut Sinabang",
+    "warning": [
+      "III Aceh Selatan"
+    ]
+  },
+  {
+    "waktu": "29/04/2023 03:38:32 WIB",
+    "lintang": "8.8 LS",
+    "bujur": "119 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "98 Km",
+    "wilayah": "Pusat gempa berada di laut 46 km Tenggara, Kota Bima",
+    "warning": [
+      "IV Kota Bima",
+      "III Sumbawa",
+      "III Labuan Bajo",
+      "II Ruteng",
+      "IV Tambolaka",
+      "III Waitabula"
+    ]
+  },
+  {
     "waktu": "28/04/2023 16:19:56 WIB",
     "lintang": "4.68 LS",
     "bujur": "133.9 BT",
@@ -224,33 +251,6 @@
     "wilayah": "Pusat gempa berada di laut 13 km BaratDaya Sanana",
     "warning": [
       "III Sanana"
-    ]
-  },
-  {
-    "waktu": "21/04/2023 17:21:14 WIB",
-    "lintang": "2.81 LU",
-    "bujur": "127.14 BT",
-    "magnitudo": "6.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 141 km Tenggara Melonguane",
-    "warning": [
-      "III Morotai Selatan",
-      "III Galela",
-      "II - III Ternate",
-      "III Tobelo",
-      "II - III Manado",
-      "II Halmahera Tengah"
-    ]
-  },
-  {
-    "waktu": "20/04/2023 08:32:24 WIB",
-    "lintang": "2.5 LS",
-    "bujur": "140.93 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 27 km TimurLaut Kota Jayapura",
-    "warning": [
-      "III Kota Jayapura"
     ]
   }
 ]

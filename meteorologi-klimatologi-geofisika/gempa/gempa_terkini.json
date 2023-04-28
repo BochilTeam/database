@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29-04-23 03:38:32 WIB",
+    "lintang": "-8.80",
+    "bujur": "119.00",
+    "magnitudo": "5.7",
+    "kedalaman": "98 Km",
+    "wilayah": "46 km Tenggara KOTA-BIMA-NTB"
+  },
+  {
     "waktu": "29-04-23 01:12:55 WIB",
     "lintang": "-4.74",
     "bujur": "133.93",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "70 Km",
     "wilayah": "142 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
-    "waktu": "26-03-23 19:41:12 WIB",
-    "lintang": "-4.81",
-    "bujur": "131.89",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "131 km BaratLaut TUAL-MALUKU"
   }
 ]
