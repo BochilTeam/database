@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29-04-23 01:12:55 WIB",
+    "lintang": "-4.74",
+    "bujur": "133.93",
+    "magnitudo": "5.6",
+    "kedalaman": "70 Km",
+    "wilayah": "118 km BaratLaut KEP.ARU-MALUKU"
+  },
+  {
     "waktu": "28-04-23 16:19:56 WIB",
     "lintang": "-4.68",
     "bujur": "133.90",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "131 km BaratLaut TUAL-MALUKU"
-  },
-  {
-    "waktu": "23-03-23 03:23:46 WIB",
-    "lintang": "-8.84",
-    "bujur": "123.22",
-    "magnitudo": "5.1",
-    "kedalaman": "65 Km",
-    "wilayah": "50 km BaratDaya LEMBATA-NTT"
   }
 ]
