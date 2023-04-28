@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/04/2023 16:19:56 WIB",
+    "lintang": "4.68 LS",
+    "bujur": "133.9 BT",
+    "magnitudo": "6",
+    "kedalaman": "60 Km",
+    "wilayah": "Pusat gempa berada di laut 167 km Timur Laut Tual",
+    "warning": [
+      "II Dobo"
+    ]
+  },
+  {
     "waktu": "28/04/2023 06:19:37 WIB",
     "lintang": "2.23 LS",
     "bujur": "140.6 BT",
@@ -240,20 +251,6 @@
     "wilayah": "Pusat gempa berada di laut 27 km TimurLaut Kota Jayapura",
     "warning": [
       "III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "19/04/2023 23:42:18 WIB",
-    "lintang": "9.65 LS",
-    "bujur": "115.12 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada dilaut 95km Barat Daya Kuta Selatan",
-    "warning": [
-      "III Kuta",
-      "III Kuta Selatan",
-      "II Denpasar",
-      "II Mataram"
     ]
   }
 ]
