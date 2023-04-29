@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/04/2023 19:40:06 WIB",
+    "lintang": "2.92 LS",
+    "bujur": "119.4 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Mamasa",
+    "warning": [
+      "II Mamasa"
+    ]
+  },
+  {
     "waktu": "29/04/2023 03:46:34 WIB",
     "lintang": "2.49 LU",
     "bujur": "96.58 BT",
@@ -240,17 +251,6 @@
       "III Padang",
       "II Padang Panjang",
       "III Pulau Tello"
-    ]
-  },
-  {
-    "waktu": "22/04/2023 17:15:18 WIB",
-    "lintang": "2.05 LS",
-    "bujur": "125.85 BT",
-    "magnitudo": "5",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 13 km BaratDaya Sanana",
-    "warning": [
-      "III Sanana"
     ]
   }
 ]
