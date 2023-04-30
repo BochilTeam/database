@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30-04-23 08:26:35 WIB",
+    "lintang": "-4.78",
+    "bujur": "133.86",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "116 km BaratLaut KEP.ARU-MALUKU"
+  },
+  {
     "waktu": "30-04-23 05:38:00 WIB",
     "lintang": "-4.79",
     "bujur": "133.77",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "53 Km",
     "wilayah": "98 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
-  },
-  {
-    "waktu": "27-03-23 07:44:49 WIB",
-    "lintang": "5.40",
-    "bujur": "125.91",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "177 km BaratLaut MELONGUANE-SULUT"
   }
 ]
