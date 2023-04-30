@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/04/2023 18:28:03 WIB",
+    "lintang": "8.01 LS",
+    "bujur": "122.9 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 34 km Barat Laut Larantuka",
+    "warning": [
+      "III-IV Tanjung Bunga"
+    ]
+  },
+  {
     "waktu": "29/04/2023 19:40:06 WIB",
     "lintang": "2.92 LS",
     "bujur": "119.4 BT",
@@ -234,23 +245,6 @@
       "III Padang",
       "III Payakumbuh",
       "III Pasaman Barat"
-    ]
-  },
-  {
-    "waktu": "23/04/2023 00:09:46 WIB",
-    "lintang": "0.86 LS",
-    "bujur": "98.43 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "40 Km",
-    "wilayah": "Pusat gempa berada di 173 km Tenggara Nias Selatan",
-    "warning": [
-      "IV Siberut",
-      "III Pasaman Barat",
-      "III Pariaman",
-      "III Padang Pariaman",
-      "III Padang",
-      "II Padang Panjang",
-      "III Pulau Tello"
     ]
   }
 ]
