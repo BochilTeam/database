@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/05/2023 10:20:12 WIB",
+    "lintang": "4.01 LS",
+    "bujur": "136.07 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km Timur Laut Dogiyai",
+    "warning": [
+      "II Dogiyai"
+    ]
+  },
+  {
     "waktu": "30/04/2023 18:28:03 WIB",
     "lintang": "8.01 LS",
     "bujur": "122.9 BT",
@@ -231,20 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 9 km Tenggara Larantuka",
     "warning": [
       "II - III Larantuka"
-    ]
-  },
-  {
-    "waktu": "23/04/2023 04:17:48 WIB",
-    "lintang": "0.94 LS",
-    "bujur": "98.38 BT",
-    "magnitudo": "6.1",
-    "kedalaman": "19 Km",
-    "wilayah": "Pusat gempa berada di laut 177 km Barat Laut Kep. Mentawai",
-    "warning": [
-      "IV Siberut",
-      "III Padang",
-      "III Payakumbuh",
-      "III Pasaman Barat"
     ]
   }
 ]
