@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "03/05/2023 00:56:44 WIB",
+    "lintang": "9.31 LS",
+    "bujur": "114.19 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 116 km BaratDaya Jembrana",
+    "warning": [
+      "II Kuta",
+      "II Kuta Selatan"
+    ]
+  },
+  {
     "waktu": "01/05/2023 10:20:12 WIB",
     "lintang": "4.01 LS",
     "bujur": "136.07 BT",
@@ -231,17 +243,6 @@
     "wilayah": "Pusat gempa berada di laut 41 km BaratDaya Kaur",
     "warning": [
       "II Tanjung Sakti"
-    ]
-  },
-  {
-    "waktu": "23/04/2023 05:06:14 WIB",
-    "lintang": "8.35 LS",
-    "bujur": "123.04 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km Tenggara Larantuka",
-    "warning": [
-      "II - III Larantuka"
     ]
   }
 ]
