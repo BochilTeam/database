@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "03/05/2023 20:54:39 WIB",
+    "lintang": "6.76 LS",
+    "bujur": "106.7 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 21 km barat daya Kota Bogor",
+    "warning": [
+      "III Caringin",
+      "III Cibadak",
+      "III Cimangu",
+      "III Cicuruk",
+      "II Sukabumi",
+      "II Bogor",
+      "II Pelabuhan Ratu"
+    ]
+  },
+  {
     "waktu": "03/05/2023 13:15:54 WIB",
     "lintang": "3.62 LS",
     "bujur": "128.68 BT",
@@ -221,17 +238,6 @@
     "warning": [
       "II Aceh Besar",
       "II Banda Aceh"
-    ]
-  },
-  {
-    "waktu": "26/04/2023 07:04:45 WIB",
-    "lintang": "2.48 LS",
-    "bujur": "140.47 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km TimurLaut Kabupaten Jayapura",
-    "warning": [
-      "II Sentani"
     ]
   }
 ]
