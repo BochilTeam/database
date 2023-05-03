@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/05/2023 22:45:46 WIB",
+    "lintang": "8.34 LS",
+    "bujur": "122.04 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 36 km Barat Laut MAUMERE-SIKKA",
+    "warning": [
+      "II-III Maumere"
+    ]
+  },
+  {
     "waktu": "03/05/2023 20:54:39 WIB",
     "lintang": "6.76 LS",
     "bujur": "106.7 BT",
@@ -226,18 +237,6 @@
     "wilayah": "Pusat gempa berada di laut 53 km BaratDaya Calang",
     "warning": [
       "II Lamno"
-    ]
-  },
-  {
-    "waktu": "26/04/2023 09:56:27 WIB",
-    "lintang": "4.77 LU",
-    "bujur": "95.56 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "61 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km BaratLaut Calang",
-    "warning": [
-      "II Aceh Besar",
-      "II Banda Aceh"
     ]
   }
 ]
