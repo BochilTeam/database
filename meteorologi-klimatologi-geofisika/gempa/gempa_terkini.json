@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03-05-23 08:23:06 WIB",
+    "lintang": "3.38",
+    "bujur": "126.07",
+    "magnitudo": "5.6",
+    "kedalaman": "32 Km",
+    "wilayah": "69 km Tenggara TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
     "waktu": "30-04-23 08:26:35 WIB",
     "lintang": "-4.78",
     "bujur": "133.86",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "97 km BaratDaya KUTASELATAN-BALI"
-  },
-  {
-    "waktu": "28-03-23 11:19:10 WIB",
-    "lintang": "-0.41",
-    "bujur": "123.58",
-    "magnitudo": "5.5",
-    "kedalaman": "53 Km",
-    "wilayah": "98 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
   }
 ]

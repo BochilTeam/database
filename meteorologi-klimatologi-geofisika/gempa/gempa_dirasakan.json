@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "03/05/2023 08:23:06 WIB",
+    "lintang": "3.38 LU",
+    "bujur": "126.07 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "32 Km",
+    "wilayah": "Pusat gempa berada di laut 69 km Tenggara Tahuna",
+    "warning": [
+      "III Naha",
+      "II Talaud",
+      "II Sitaro"
+    ]
+  },
+  {
     "waktu": "03/05/2023 05:56:27 WIB",
     "lintang": "5.18 LS",
     "bujur": "102.55 BT",
@@ -218,31 +231,6 @@
       "II - III Surade",
       "II - III Jampang",
       "II - III Ujung Genteng"
-    ]
-  },
-  {
-    "waktu": "25/04/2023 03:00:57 WIB",
-    "lintang": "0.93 LS",
-    "bujur": "98.39 BT",
-    "magnitudo": "7.3",
-    "kedalaman": "84 Km",
-    "wilayah": "Pusat gempa berada di Laut 177 km BaratLaut Kepulauan Mentawai",
-    "warning": [
-      "VI Siberut",
-      "VI Mentawai",
-      "V Pasaman Barat",
-      "V Padang Pariaman",
-      "V Agam",
-      "V Padang",
-      "III Gunung Sitoli",
-      "III Padang Panjang",
-      "III Pesisir Selatan",
-      "III Limapuluhkota",
-      "III Solok Selatan",
-      "III Solok",
-      "III Bukittinggi",
-      "II Labuhan Batu",
-      "II Padang Sidempuan"
     ]
   }
 ]
