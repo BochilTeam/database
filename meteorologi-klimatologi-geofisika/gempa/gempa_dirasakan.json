@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/05/2023 05:56:27 WIB",
+    "lintang": "5.18 LS",
+    "bujur": "102.55 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 36 km Timur Laut Enggano",
+    "warning": [
+      "III Enggano"
+    ]
+  },
+  {
     "waktu": "03/05/2023 00:56:44 WIB",
     "lintang": "9.31 LS",
     "bujur": "114.19 BT",
@@ -232,17 +243,6 @@
       "III Bukittinggi",
       "II Labuhan Batu",
       "II Padang Sidempuan"
-    ]
-  },
-  {
-    "waktu": "24/04/2023 18:35:45 WIB",
-    "lintang": "4.96 LS",
-    "bujur": "103.01 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "32 Km",
-    "wilayah": "Pusat gempa berada di laut 41 km BaratDaya Kaur",
-    "warning": [
-      "II Tanjung Sakti"
     ]
   }
 ]
