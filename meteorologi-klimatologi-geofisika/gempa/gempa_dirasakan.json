@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "03/05/2023 13:15:54 WIB",
+    "lintang": "3.62 LS",
+    "bujur": "128.68 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "103 Km",
+    "wilayah": "Pusat gempa berada di laut 6 km Tenggara Saparua",
+    "warning": [
+      "II Ambon",
+      "II Masohi",
+      "III Saparua",
+      "III Kairatu"
+    ]
+  },
+  {
     "waktu": "03/05/2023 08:23:06 WIB",
     "lintang": "3.38 LU",
     "bujur": "126.07 BT",
@@ -218,19 +232,6 @@
     "wilayah": "Pusat gempa berada di darat 14 km TimurLaut Kabupaten Jayapura",
     "warning": [
       "II Sentani"
-    ]
-  },
-  {
-    "waktu": "25/04/2023 05:30:46 WIB",
-    "lintang": "7.79 LS",
-    "bujur": "106.44 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada dilaut 89Km barat daya Kab,Sukabumi",
-    "warning": [
-      "II - III Surade",
-      "II - III Jampang",
-      "II - III Ujung Genteng"
     ]
   }
 ]
