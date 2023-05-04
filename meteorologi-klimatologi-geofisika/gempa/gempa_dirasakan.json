@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/05/2023 21:22:03 WIB",
+    "lintang": "10.5 LS",
+    "bujur": "121.7 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 15 km BaratLaut Sabu Raijua",
+    "warning": [
+      "IV Sabu Raijua"
+    ]
+  },
+  {
     "waktu": "03/05/2023 22:45:46 WIB",
     "lintang": "8.34 LS",
     "bujur": "122.04 BT",
@@ -226,17 +237,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km tenggara Mamasa",
     "warning": [
       "III Mamasa"
-    ]
-  },
-  {
-    "waktu": "26/04/2023 13:34:01 WIB",
-    "lintang": "4.57 LU",
-    "bujur": "95.1 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "29 Km",
-    "wilayah": "Pusat gempa berada di laut 53 km BaratDaya Calang",
-    "warning": [
-      "II Lamno"
     ]
   }
 ]
