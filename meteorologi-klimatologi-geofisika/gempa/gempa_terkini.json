@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05-05-23 18:44:04 WIB",
+    "lintang": "-7.56",
+    "bujur": "120.27",
+    "magnitudo": "5.3",
+    "kedalaman": "618 Km",
+    "wilayah": "111 km TimurLaut LABUANBAJO-NTT"
+  },
+  {
     "waktu": "03-05-23 13:15:54 WIB",
     "lintang": "-3.62",
     "bujur": "128.68",
@@ -230,13 +238,5 @@
     "magnitudo": "6.4",
     "kedalaman": "102 Km",
     "wilayah": "82 km BaratDaya PADANGSIDEMPUAN-SUMUT"
-  },
-  {
-    "waktu": "02-04-23 15:40:57 WIB",
-    "lintang": "-7.81",
-    "bujur": "118.73",
-    "magnitudo": "5.8",
-    "kedalaman": "29 Km",
-    "wilayah": "70 km BaratLaut BIMA-NTB"
   }
 ]
