@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "06/05/2023 09:37:10 WIB",
+    "lintang": "2.92 LS",
+    "bujur": "119.43 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km Tenggara Mamasa",
+    "warning": [
+      "III Mamasa"
+    ]
+  },
+  {
+    "waktu": "06/05/2023 09:34:14 WIB",
+    "lintang": "2.89 LS",
+    "bujur": "119.44 BT",
+    "magnitudo": "3",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km Timur Laut Mamasa",
+    "warning": [
+      "III Mamasa"
+    ]
+  },
+  {
     "waktu": "05/05/2023 12:36:02 WIB",
     "lintang": "4.05 LS",
     "bujur": "122.33 BT",
@@ -216,28 +238,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km TimurLaut Mamasa",
     "warning": [
       "II Mamasa"
-    ]
-  },
-  {
-    "waktu": "27/04/2023 10:27:32 WIB",
-    "lintang": "3.9 LS",
-    "bujur": "133.72 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 29 km BaratDaya Kaimana",
-    "warning": [
-      "II - III Kaimana"
-    ]
-  },
-  {
-    "waktu": "27/04/2023 09:36:02 WIB",
-    "lintang": "2.9 LS",
-    "bujur": "119.41 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km TimurLaut Mamasa",
-    "warning": [
-      "III Mamasa"
     ]
   }
 ]
