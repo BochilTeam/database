@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "07/05/2023 01:57:00 WIB",
+    "lintang": "8.07 LS",
+    "bujur": "107.88 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di laut 79 km BaratDaya Kab. Pangandaran",
+    "warning": [
+      "II Pangandaran",
+      "II Ciamis"
+    ]
+  },
+  {
     "waktu": "06/05/2023 22:11:09 WIB",
     "lintang": "8.71 LS",
     "bujur": "116.04 BT",
@@ -225,17 +237,6 @@
     "wilayah": "Pusat gempa berada di laut 38 km Barat Laut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "28/04/2023 04:28:44 WIB",
-    "lintang": "2.48 LS",
-    "bujur": "140.72 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 10 km Timur Laut Kota Jayapura",
-    "warning": [
-      "II-III Kota Jayapura"
     ]
   }
 ]
