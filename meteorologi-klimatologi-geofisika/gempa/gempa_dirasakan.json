@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "06/05/2023 13:45:14 WIB",
+    "lintang": "2.52 LS",
+    "bujur": "140.52 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km Timur Laut Kab. Jayapura",
+    "warning": [
+      "III Kota Jayapura",
+      "III Sentani"
+    ]
+  },
+  {
     "waktu": "06/05/2023 09:37:10 WIB",
     "lintang": "2.92 LS",
     "bujur": "119.43 BT",
@@ -227,17 +239,6 @@
       "IV Kabanjahe",
       "IV Kab. Karo",
       "III-IV Munte"
-    ]
-  },
-  {
-    "waktu": "27/04/2023 20:24:42 WIB",
-    "lintang": "2.91 LS",
-    "bujur": "119.4 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km TimurLaut Mamasa",
-    "warning": [
-      "II Mamasa"
     ]
   }
 ]
