@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "06/05/2023 22:11:09 WIB",
+    "lintang": "8.71 LS",
+    "bujur": "116.04 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "91 Km",
+    "wilayah": "Pusat gempa berada di laut 11 km Barat Daya Lombok Barat",
+    "warning": [
+      "II Lombok Barat"
+    ]
+  },
+  {
     "waktu": "06/05/2023 13:45:14 WIB",
     "lintang": "2.52 LS",
     "bujur": "140.52 BT",
@@ -225,20 +236,6 @@
     "wilayah": "Pusat gempa berada di laut 10 km Timur Laut Kota Jayapura",
     "warning": [
       "II-III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "27/04/2023 21:56:56 WIB",
-    "lintang": "3.02 LU",
-    "bujur": "98.49 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km Baratdaya Kab. Karo",
-    "warning": [
-      "II Sidikalang",
-      "IV Kabanjahe",
-      "IV Kab. Karo",
-      "III-IV Munte"
     ]
   }
 ]
