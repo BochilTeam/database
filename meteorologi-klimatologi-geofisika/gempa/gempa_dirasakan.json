@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/05/2023 00:19:35 WIB",
+    "lintang": "7.76 LS",
+    "bujur": "109.77 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "97 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km Tenggara Kebumen",
+    "warning": [
+      "II Kebumen"
+    ]
+  },
+  {
     "waktu": "07/05/2023 01:57:00 WIB",
     "lintang": "8.07 LS",
     "bujur": "107.88 BT",
@@ -226,17 +237,6 @@
     "wilayah": "Pusat gempa berada di laut 167 km Timur Laut Tual",
     "warning": [
       "II Dobo"
-    ]
-  },
-  {
-    "waktu": "28/04/2023 06:19:37 WIB",
-    "lintang": "2.23 LS",
-    "bujur": "140.6 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 38 km Barat Laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
