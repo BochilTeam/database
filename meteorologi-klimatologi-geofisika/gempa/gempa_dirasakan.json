@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/05/2023 13:13:29 WIB",
+    "lintang": "0.71 LU",
+    "bujur": "117.75 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 36 km TimurLaut Sangatta",
+    "warning": [
+      "II-III Bengalon"
+    ]
+  },
+  {
     "waktu": "09/05/2023 12:10:07 WIB",
     "lintang": "3.71 LS",
     "bujur": "133.71 BT",
@@ -221,22 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 23 km Timur Laut Sinabang",
     "warning": [
       "III Aceh Selatan"
-    ]
-  },
-  {
-    "waktu": "29/04/2023 03:38:32 WIB",
-    "lintang": "8.8 LS",
-    "bujur": "119 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "98 Km",
-    "wilayah": "Pusat gempa berada di laut 46 km Tenggara, Kota Bima",
-    "warning": [
-      "IV Kota Bima",
-      "III Sumbawa",
-      "III Labuan Bajo",
-      "II Ruteng",
-      "IV Tambolaka",
-      "III Waitabula"
     ]
   }
 ]
