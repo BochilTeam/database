@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10-05-23 17:48:10 WIB",
+    "lintang": "-6.56",
+    "bujur": "104.83",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "83 km BaratLaut SUMUR-BANTEN"
+  },
+  {
     "waktu": "10-05-23 11:24:49 WIB",
     "lintang": "-6.47",
     "bujur": "104.90",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "93 km TimurLaut TOJOUNA-UNA-SULTENG"
-  },
-  {
-    "waktu": "04-04-23 03:50:33 WIB",
-    "lintang": "-8.38",
-    "bujur": "123.83",
-    "magnitudo": "5.0",
-    "kedalaman": "179 Km",
-    "wilayah": "39 km TimurLaut LEMBATA-NTT"
   }
 ]

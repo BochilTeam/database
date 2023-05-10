@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "10/05/2023 17:48:10 WIB",
+    "lintang": "6.56 LS",
+    "bujur": "104.83 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 83 km BaratLaut Sumur",
+    "warning": [
+      "II - III Bandar Lampung",
+      "II - III Tanggamus",
+      "II - III Pesawaran",
+      "II Liwa"
+    ]
+  },
+  {
     "waktu": "10/05/2023 11:24:49 WIB",
     "lintang": "6.47 LS",
     "bujur": "104.9 BT",
@@ -228,17 +242,6 @@
     "wilayah": "Pusat gempa berada di laut 34 km Barat Laut Larantuka",
     "warning": [
       "III-IV Tanjung Bunga"
-    ]
-  },
-  {
-    "waktu": "29/04/2023 19:40:06 WIB",
-    "lintang": "2.92 LS",
-    "bujur": "119.4 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Mamasa",
-    "warning": [
-      "II Mamasa"
     ]
   }
 ]
