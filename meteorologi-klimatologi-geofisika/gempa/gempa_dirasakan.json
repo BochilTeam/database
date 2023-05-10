@@ -1,5 +1,23 @@
 [
   {
+    "waktu": "10/05/2023 11:24:49 WIB",
+    "lintang": "6.47 LS",
+    "bujur": "104.9 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 78 km BaratLaut Sumur",
+    "warning": [
+      "III Padeglang",
+      "II-III Sukabumi",
+      "II Kota Tangerang",
+      "II Bogor",
+      "II-III Lebak",
+      "II-III Serang",
+      "II-III Cilegon",
+      "II Tangerang Selatan"
+    ]
+  },
+  {
     "waktu": "09/05/2023 13:13:29 WIB",
     "lintang": "0.71 LU",
     "bujur": "117.75 BT",
@@ -221,17 +239,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km Tenggara Mamasa",
     "warning": [
       "II Mamasa"
-    ]
-  },
-  {
-    "waktu": "29/04/2023 03:46:34 WIB",
-    "lintang": "2.49 LU",
-    "bujur": "96.58 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "26 Km",
-    "wilayah": "Pusat gempa berada di laut 23 km Timur Laut Sinabang",
-    "warning": [
-      "III Aceh Selatan"
     ]
   }
 ]
