@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "11/05/2023 23:04:17 WIB",
+    "lintang": "6.42 LS",
+    "bujur": "104.86 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 84 km Barat Laut SUMUR",
+    "warning": [
+      "II Pesisir Barat",
+      "II Tanggamus"
+    ]
+  },
+  {
     "waktu": "11/05/2023 21:35:57 WIB",
     "lintang": "1.6 LU",
     "bujur": "96.36 BT",
@@ -231,17 +243,6 @@
     "warning": [
       "II Kuta",
       "II Kuta Selatan"
-    ]
-  },
-  {
-    "waktu": "01/05/2023 10:20:12 WIB",
-    "lintang": "4.01 LS",
-    "bujur": "136.07 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km Timur Laut Dogiyai",
-    "warning": [
-      "II Dogiyai"
     ]
   }
 ]
