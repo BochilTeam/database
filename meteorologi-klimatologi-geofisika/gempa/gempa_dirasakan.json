@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/05/2023 04:56:39 WIB",
+    "lintang": "8.41 LS",
+    "bujur": "109.01 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 76 Km Tenggara Cilacap",
+    "warning": [
+      "II-III Cilacap"
+    ]
+  },
+  {
     "waktu": "11/05/2023 23:04:17 WIB",
     "lintang": "6.42 LS",
     "bujur": "104.86 BT",
@@ -231,18 +242,6 @@
     "wilayah": "Pusat gempa berada di laut 36 km Timur Laut Enggano",
     "warning": [
       "III Enggano"
-    ]
-  },
-  {
-    "waktu": "03/05/2023 00:56:44 WIB",
-    "lintang": "9.31 LS",
-    "bujur": "114.19 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 116 km BaratDaya Jembrana",
-    "warning": [
-      "II Kuta",
-      "II Kuta Selatan"
     ]
   }
 ]
