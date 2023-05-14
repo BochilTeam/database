@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "14/05/2023 12:17:52 WIB",
+    "lintang": "9.02 LS",
+    "bujur": "111.51 BT",
+    "magnitudo": "5",
+    "kedalaman": "56 Km",
+    "wilayah": "Pusat gempa berada di laut 103 km Tenggara Pacitan",
+    "warning": [
+      "I-II Trenggalek",
+      "II Bantul",
+      "II Blitar",
+      "II Wonogiri"
+    ]
+  },
+  {
     "waktu": "13/05/2023 20:27:17 WIB",
     "lintang": "6.49 LS",
     "bujur": "104.87 BT",
@@ -229,19 +243,6 @@
       "II Masohi",
       "III Saparua",
       "III Kairatu"
-    ]
-  },
-  {
-    "waktu": "03/05/2023 08:23:06 WIB",
-    "lintang": "3.38 LU",
-    "bujur": "126.07 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "32 Km",
-    "wilayah": "Pusat gempa berada di laut 69 km Tenggara Tahuna",
-    "warning": [
-      "III Naha",
-      "II Talaud",
-      "II Sitaro"
     ]
   }
 ]

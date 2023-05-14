@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14-05-23 12:17:48 WIB",
+    "lintang": "-9.23",
+    "bujur": "111.46",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "123 km Tenggara PACITAN-JATIM"
+  },
+  {
     "waktu": "14-05-23 02:16:45 WIB",
     "lintang": "5.84",
     "bujur": "125.23",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "100 km BaratDaya KUTASELATAN-BALI"
-  },
-  {
-    "waktu": "08-04-23 21:11:51 WIB",
-    "lintang": "-2.73",
-    "bujur": "142.19",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "169 km Tenggara JAYAPURA-PAPUA"
   }
 ]
