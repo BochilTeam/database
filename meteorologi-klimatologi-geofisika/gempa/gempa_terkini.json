@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14-05-23 13:13:51 WIB",
+    "lintang": "-7.53",
+    "bujur": "124.80",
+    "magnitudo": "5.2",
+    "kedalaman": "565 Km",
+    "wilayah": "89 km TimurLaut ALOR-NTT"
+  },
+  {
     "waktu": "14-05-23 12:17:48 WIB",
     "lintang": "-9.23",
     "bujur": "111.46",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "93 km BaratDaya KUTASELATAN-BALI"
-  },
-  {
-    "waktu": "10-04-23 07:36:20 WIB",
-    "lintang": "-9.69",
-    "bujur": "115.10",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "100 km BaratDaya KUTASELATAN-BALI"
   }
 ]
