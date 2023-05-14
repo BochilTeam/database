@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "14/05/2023 22:32:21 WIB",
+    "lintang": "0.49 LU",
+    "bujur": "126.9 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "109 Km",
+    "wilayah": "Pusat gempa berada di laut 60 km barat daya Ternate",
+    "warning": [
+      "III Manado",
+      "III Kotamobagu",
+      "III Bitung",
+      "II-III Halmahera Tengah",
+      "II Sanana",
+      "II Gorontalo"
+    ]
+  },
+  {
     "waktu": "14/05/2023 12:17:52 WIB",
     "lintang": "9.02 LS",
     "bujur": "111.51 BT",
@@ -229,20 +245,6 @@
       "II Sukabumi",
       "II Bogor",
       "II Pelabuhan Ratu"
-    ]
-  },
-  {
-    "waktu": "03/05/2023 13:15:54 WIB",
-    "lintang": "3.62 LS",
-    "bujur": "128.68 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "103 Km",
-    "wilayah": "Pusat gempa berada di laut 6 km Tenggara Saparua",
-    "warning": [
-      "II Ambon",
-      "II Masohi",
-      "III Saparua",
-      "III Kairatu"
     ]
   }
 ]
