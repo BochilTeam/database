@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/05/2023 22:29:25 WIB",
+    "lintang": "3.26 LS",
+    "bujur": "135.3 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di darat 26 km BaratLaut Nabire",
+    "warning": [
+      "II - III Nabire"
+    ]
+  },
+  {
     "waktu": "14/05/2023 22:32:21 WIB",
     "lintang": "0.49 LU",
     "bujur": "126.9 BT",
@@ -228,23 +239,6 @@
     "wilayah": "Pusat gempa berada di laut 36 km Barat Laut MAUMERE-SIKKA",
     "warning": [
       "II-III Maumere"
-    ]
-  },
-  {
-    "waktu": "03/05/2023 20:54:39 WIB",
-    "lintang": "6.76 LS",
-    "bujur": "106.7 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km barat daya Kota Bogor",
-    "warning": [
-      "III Caringin",
-      "III Cibadak",
-      "III Cimangu",
-      "III Cicuruk",
-      "II Sukabumi",
-      "II Bogor",
-      "II Pelabuhan Ratu"
     ]
   }
 ]
