@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "19/05/2023 20:52:17 WIB",
+    "lintang": "4.25 LS",
+    "bujur": "103.59 BT",
+    "magnitudo": "4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 46 km Tenggara Pagar Alam",
+    "warning": [
+      "II Semendo Darat Ulu"
+    ]
+  },
+  {
+    "waktu": "19/05/2023 19:14:05 WIB",
+    "lintang": "1.42 LU",
+    "bujur": "126.42 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di Laut 122 km BaratLaut Jailolo",
+    "warning": [
+      "II-III Batang Dua"
+    ]
+  },
+  {
     "waktu": "17/05/2023 22:29:25 WIB",
     "lintang": "3.26 LS",
     "bujur": "135.3 BT",
@@ -217,28 +239,6 @@
     "warning": [
       "II-III Kendari",
       "II Konawe Selatan"
-    ]
-  },
-  {
-    "waktu": "04/05/2023 21:22:03 WIB",
-    "lintang": "10.5 LS",
-    "bujur": "121.7 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 15 km BaratLaut Sabu Raijua",
-    "warning": [
-      "IV Sabu Raijua"
-    ]
-  },
-  {
-    "waktu": "03/05/2023 22:45:46 WIB",
-    "lintang": "8.34 LS",
-    "bujur": "122.04 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 36 km Barat Laut MAUMERE-SIKKA",
-    "warning": [
-      "II-III Maumere"
     ]
   }
 ]
