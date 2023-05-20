@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/05/2023 18:49:25 WIB",
+    "lintang": "4.19 LS",
+    "bujur": "103.61 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 45 km tenggara Lahat",
+    "warning": [
+      "II Semendo Darat Ulu"
+    ]
+  },
+  {
     "waktu": "19/05/2023 20:52:17 WIB",
     "lintang": "4.25 LS",
     "bujur": "103.59 BT",
@@ -227,18 +238,6 @@
     "wilayah": "Pusat gempa berada di darat 13 km Timur Laut Mamasa",
     "warning": [
       "III Mamasa"
-    ]
-  },
-  {
-    "waktu": "05/05/2023 12:36:02 WIB",
-    "lintang": "4.05 LS",
-    "bujur": "122.33 BT",
-    "magnitudo": "3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 35 km TimurLaut KONAWESELATAN-SULTRA",
-    "warning": [
-      "II-III Kendari",
-      "II Konawe Selatan"
     ]
   }
 ]
