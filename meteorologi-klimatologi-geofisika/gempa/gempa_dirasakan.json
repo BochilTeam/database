@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "22/05/2023 00:31:01 WIB",
+    "lintang": "1.12 LS",
+    "bujur": "120.23 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km Timur Laut Kamarora",
+    "warning": [
+      "III - IV Palu",
+      "II-III Poso"
+    ]
+  },
+  {
     "waktu": "20/05/2023 18:49:25 WIB",
     "lintang": "4.19 LS",
     "bujur": "103.61 BT",
@@ -225,17 +237,6 @@
     "magnitudo": "2.8",
     "kedalaman": "1 Km",
     "wilayah": "Pusat gempa berada di darat 11 km Tenggara Mamasa",
-    "warning": [
-      "III Mamasa"
-    ]
-  },
-  {
-    "waktu": "06/05/2023 09:34:14 WIB",
-    "lintang": "2.89 LS",
-    "bujur": "119.44 BT",
-    "magnitudo": "3",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 13 km Timur Laut Mamasa",
     "warning": [
       "III Mamasa"
     ]
