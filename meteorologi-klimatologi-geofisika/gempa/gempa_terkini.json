@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22-05-23 11:45:23 WIB",
+    "lintang": "-6.53",
+    "bujur": "129.16",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "235 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "14-05-23 22:32:21 WIB",
     "lintang": "0.49",
     "bujur": "126.90",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "57 km TimurLaut SARMI-PAPUA"
-  },
-  {
-    "waktu": "13-04-23 06:07:48 WIB",
-    "lintang": "-6.40",
-    "bujur": "131.15",
-    "magnitudo": "5.0",
-    "kedalaman": "97 Km",
-    "wilayah": "175 km BaratLaut MALUKUTENGGARABRT"
   }
 ]
