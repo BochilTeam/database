@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "24/05/2023 00:41:50 WIB",
+    "lintang": "8.15 LS",
+    "bujur": "115.27 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 20 km Tenggara Buleleng",
+    "warning": [
+      "II Denpasar",
+      "III Karangasem"
+    ]
+  },
+  {
     "waktu": "22/05/2023 00:31:01 WIB",
     "lintang": "1.12 LS",
     "bujur": "120.23 BT",
@@ -228,17 +240,6 @@
     "warning": [
       "III Kota Jayapura",
       "III Sentani"
-    ]
-  },
-  {
-    "waktu": "06/05/2023 09:37:10 WIB",
-    "lintang": "2.92 LS",
-    "bujur": "119.43 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km Tenggara Mamasa",
-    "warning": [
-      "III Mamasa"
     ]
   }
 ]
