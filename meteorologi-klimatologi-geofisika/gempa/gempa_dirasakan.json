@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/05/2023 06:36:42 WIB",
+    "lintang": "3.72 LS",
+    "bujur": "127.92 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 29 km barat Ambon",
+    "warning": [
+      "II Ambon"
+    ]
+  },
+  {
     "waktu": "24/05/2023 00:41:50 WIB",
     "lintang": "8.15 LS",
     "bujur": "115.27 BT",
@@ -230,18 +241,6 @@
     "wilayah": "Pusat gempa berada di laut 11 km Barat Daya Lombok Barat",
     "warning": [
       "II Lombok Barat"
-    ]
-  },
-  {
-    "waktu": "06/05/2023 13:45:14 WIB",
-    "lintang": "2.52 LS",
-    "bujur": "140.52 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km Timur Laut Kab. Jayapura",
-    "warning": [
-      "III Kota Jayapura",
-      "III Sentani"
     ]
   }
 ]
