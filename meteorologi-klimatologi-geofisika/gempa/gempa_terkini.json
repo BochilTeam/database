@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24-05-23 22:49:34 WIB",
+    "lintang": "-7.06",
+    "bujur": "129.72",
+    "magnitudo": "6.2",
+    "kedalaman": "221 Km",
+    "wilayah": "203 km BaratLaut MALUKUTENGGARABRT"
+  },
+  {
     "waktu": "24-05-23 07:44:07 WIB",
     "lintang": "5.73",
     "bujur": "124.26",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "600 Km",
     "wilayah": "85 km TimurLaut BANGKALAN-JATIM"
-  },
-  {
-    "waktu": "14-04-23 16:55:44 WIB",
-    "lintang": "-6.29",
-    "bujur": "111.92",
-    "magnitudo": "6.6",
-    "kedalaman": "632 Km",
-    "wilayah": "68 km BaratLaut TUBAN-JATIM"
   }
 ]

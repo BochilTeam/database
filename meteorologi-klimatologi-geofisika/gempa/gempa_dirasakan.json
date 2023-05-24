@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "24/05/2023 22:49:34 WIB",
+    "lintang": "7.06 LS",
+    "bujur": "129.72 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "221 Km",
+    "wilayah": "Pusat gempa berada di laut 203 Barat Laut Saumlaki",
+    "warning": [
+      "IV Saumlaki",
+      "III Tual",
+      "III Molu Maru",
+      "II Dobo",
+      "II-III Sorong"
+    ]
+  },
+  {
     "waktu": "24/05/2023 06:36:42 WIB",
     "lintang": "3.72 LS",
     "bujur": "127.92 BT",
@@ -230,17 +245,6 @@
     "warning": [
       "II Pangandaran",
       "II Ciamis"
-    ]
-  },
-  {
-    "waktu": "06/05/2023 22:11:09 WIB",
-    "lintang": "8.71 LS",
-    "bujur": "116.04 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "91 Km",
-    "wilayah": "Pusat gempa berada di laut 11 km Barat Daya Lombok Barat",
-    "warning": [
-      "II Lombok Barat"
     ]
   }
 ]
