@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "25/05/2023 02:57:22 WIB",
+    "lintang": "9.63 LS",
+    "bujur": "114.92 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 98 km BaratDaya KUTA SELATAN",
+    "warning": [
+      "III Kuta",
+      "III Lombok Barat",
+      "III Mataram",
+      "II Denpasar"
+    ]
+  },
+  {
     "waktu": "24/05/2023 22:49:34 WIB",
     "lintang": "7.06 LS",
     "bujur": "129.72 BT",
@@ -233,18 +247,6 @@
     "wilayah": "Pusat gempa berada di darat 16 km Tenggara Kebumen",
     "warning": [
       "II Kebumen"
-    ]
-  },
-  {
-    "waktu": "07/05/2023 01:57:00 WIB",
-    "lintang": "8.07 LS",
-    "bujur": "107.88 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "29 Km",
-    "wilayah": "Pusat gempa berada di laut 79 km BaratDaya Kab. Pangandaran",
-    "warning": [
-      "II Pangandaran",
-      "II Ciamis"
     ]
   }
 ]

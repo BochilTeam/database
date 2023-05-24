@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25-05-23 02:57:22 WIB",
+    "lintang": "-9.63",
+    "bujur": "114.92",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "98 km BaratDaya KUTASELATAN-BALI"
+  },
+  {
     "waktu": "24-05-23 22:49:34 WIB",
     "lintang": "-7.06",
     "bujur": "129.72",
@@ -230,13 +238,5 @@
     "magnitudo": "6.2",
     "kedalaman": "23 Km",
     "wilayah": "53 km BaratDaya BENGKULUSELATAN"
-  },
-  {
-    "waktu": "14-04-23 17:37:54 WIB",
-    "lintang": "-6.27",
-    "bujur": "112.94",
-    "magnitudo": "5.5",
-    "kedalaman": "600 Km",
-    "wilayah": "85 km TimurLaut BANGKALAN-JATIM"
   }
 ]
