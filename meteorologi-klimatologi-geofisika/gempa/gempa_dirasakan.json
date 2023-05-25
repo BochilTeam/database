@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/05/2023 11:32:07 WIB",
+    "lintang": "1.41 LS",
+    "bujur": "119.35 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 26 km BaratDaya Pasangkayu",
+    "warning": [
+      "II-III Kec. Baras"
+    ]
+  },
+  {
     "waktu": "25/05/2023 07:08:30 WIB",
     "lintang": "1.23 LU",
     "bujur": "126.45 BT",
@@ -236,17 +247,6 @@
     "wilayah": "Pusat gempa berada di laut 36 km TimurLaut Sangatta",
     "warning": [
       "II-III Bengalon"
-    ]
-  },
-  {
-    "waktu": "09/05/2023 12:10:07 WIB",
-    "lintang": "3.71 LS",
-    "bujur": "133.71 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 54 km BaratDaya Kaimana",
-    "warning": [
-      "II Kaimana"
     ]
   }
 ]
