@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/06/2023 23:13:24 WIB",
+    "lintang": "0.82 LU",
+    "bujur": "118.28 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 118 km Timur Laut Bontang",
+    "warning": [
+      "III Berau"
+    ]
+  },
+  {
     "waktu": "05/06/2023 11:57:47 WIB",
     "lintang": "1.23 LU",
     "bujur": "120.74 BT",
@@ -224,17 +235,6 @@
     "warning": [
       "II Banyubiru",
       "II Jambu"
-    ]
-  },
-  {
-    "waktu": "26/05/2023 22:07:41 WIB",
-    "lintang": "3.58 LS",
-    "bujur": "129.07 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 32 Km Tenggara Masohi",
-    "warning": [
-      "II-III Masohi"
     ]
   }
 ]
