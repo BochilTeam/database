@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05-06-23 20:08:49 WIB",
+    "lintang": "-10.02",
+    "bujur": "118.84",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "50 km BaratDaya KODI-SUMBABARATDAYA-NTT"
+  },
+  {
     "waktu": "04-06-23 21:55:28 WIB",
     "lintang": "1.60",
     "bujur": "125.73",
@@ -230,13 +238,5 @@
     "magnitudo": "6.1",
     "kedalaman": "19 Km",
     "wilayah": "177 km BaratLaut KEP-MENTAWAI-SUMBAR"
-  },
-  {
-    "waktu": "23-04-23 00:09:46 WIB",
-    "lintang": "-0.81",
-    "bujur": "98.48",
-    "magnitudo": "5.9",
-    "kedalaman": "28 Km",
-    "wilayah": "170 km Tenggara NIASSELATAN-SUMUT"
   }
 ]
