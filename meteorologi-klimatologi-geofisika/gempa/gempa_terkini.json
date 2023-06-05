@@ -1,5 +1,53 @@
 [
   {
+    "waktu": "04-06-23 21:55:28 WIB",
+    "lintang": "1.60",
+    "bujur": "125.73",
+    "magnitudo": "5.1",
+    "kedalaman": "111 Km",
+    "wilayah": "69 km TimurLaut BITUNG-SULUT"
+  },
+  {
+    "waktu": "04-06-23 12:52:04 WIB",
+    "lintang": "-2.87",
+    "bujur": "137.36",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "58 km BaratDaya MAMBERAMORAYA-PAPUA"
+  },
+  {
+    "waktu": "04-06-23 07:25:10 WIB",
+    "lintang": "-6.84",
+    "bujur": "130.49",
+    "magnitudo": "6.0",
+    "kedalaman": "153 Km",
+    "wilayah": "154 km BaratLaut MALUKUTENGGARABRT"
+  },
+  {
+    "waktu": "01-06-23 04:56:39 WIB",
+    "lintang": "-3.52",
+    "bujur": "128.29",
+    "magnitudo": "5.5",
+    "kedalaman": "95 Km",
+    "wilayah": "18 km TimurLaut AMBON-MALUKU"
+  },
+  {
+    "waktu": "31-05-23 07:58:38 WIB",
+    "lintang": "-1.05",
+    "bujur": "98.40",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "167 km BaratLaut KEP-MENTAWAI-SUMBAR"
+  },
+  {
+    "waktu": "28-05-23 02:36:36 WIB",
+    "lintang": "-6.08",
+    "bujur": "130.53",
+    "magnitudo": "5.5",
+    "kedalaman": "157 Km",
+    "wilayah": "227 km BaratLaut MALUKUTENGGARABRT"
+  },
+  {
     "waktu": "25-05-23 02:57:22 WIB",
     "lintang": "-9.63",
     "bujur": "114.92",
@@ -190,53 +238,5 @@
     "magnitudo": "5.9",
     "kedalaman": "28 Km",
     "wilayah": "170 km Tenggara NIASSELATAN-SUMUT"
-  },
-  {
-    "waktu": "22-04-23 17:15:18 WIB",
-    "lintang": "-2.05",
-    "bujur": "125.85",
-    "magnitudo": "5.0",
-    "kedalaman": "17 Km",
-    "wilayah": "13 km BaratDaya SANANA-MALUT"
-  },
-  {
-    "waktu": "22-04-23 16:15:55 WIB",
-    "lintang": "-5.32",
-    "bujur": "125.62",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "224 km TimurLaut WAKATOBI-SULTRA"
-  },
-  {
-    "waktu": "22-04-23 15:23:44 WIB",
-    "lintang": "-5.26",
-    "bujur": "125.56",
-    "magnitudo": "6.4",
-    "kedalaman": "10 Km",
-    "wilayah": "218 km TimurLaut WAKATOBI-SULTRA"
-  },
-  {
-    "waktu": "21-04-23 17:21:14 WIB",
-    "lintang": "2.81",
-    "bujur": "127.14",
-    "magnitudo": "6.4",
-    "kedalaman": "10 Km",
-    "wilayah": "141 km Tenggara MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "17-04-23 18:05:55 WIB",
-    "lintang": "-4.97",
-    "bujur": "102.84",
-    "magnitudo": "5.3",
-    "kedalaman": "22 Km",
-    "wilayah": "58 km BaratDaya BENGKULUSELATAN"
-  },
-  {
-    "waktu": "15-04-23 22:07:07 WIB",
-    "lintang": "-4.93",
-    "bujur": "102.85",
-    "magnitudo": "6.2",
-    "kedalaman": "23 Km",
-    "wilayah": "53 km BaratDaya BENGKULUSELATAN"
   }
 ]

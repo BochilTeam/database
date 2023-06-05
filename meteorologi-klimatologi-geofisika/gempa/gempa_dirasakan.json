@@ -1,252 +1,240 @@
 [
   {
-    "waktu": "25/05/2023 11:32:07 WIB",
-    "lintang": "1.41 LS",
-    "bujur": "119.35 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 26 km BaratDaya Pasangkayu",
-    "warning": [
-      "II-III Kec. Baras"
-    ]
-  },
-  {
-    "waktu": "25/05/2023 07:08:30 WIB",
+    "waktu": "05/06/2023 11:57:47 WIB",
     "lintang": "1.23 LU",
-    "bujur": "126.45 BT",
+    "bujur": "120.74 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 39 km barat laut Toli-toli",
+    "warning": [
+      "II-III Toli-toli"
+    ]
+  },
+  {
+    "waktu": "04/06/2023 20:48:39 WIB",
+    "lintang": "8.43 LS",
+    "bujur": "107.89 BT",
     "magnitudo": "4.6",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 113 km BaratLaut Ternate",
+    "wilayah": "Pusat gempa berada di laut 105 km BaratDaya Kab-Pangandaran",
     "warning": [
-      "III Batang Dua"
+      "III Pangandaran",
+      "III Cisompet",
+      "III Cikalong",
+      "III Pameungpeuk",
+      "II Banjar"
     ]
   },
   {
-    "waktu": "25/05/2023 02:57:22 WIB",
-    "lintang": "9.63 LS",
-    "bujur": "114.92 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 98 km BaratDaya KUTA SELATAN",
-    "warning": [
-      "III Kuta",
-      "III Lombok Barat",
-      "III Mataram",
-      "II Denpasar"
-    ]
-  },
-  {
-    "waktu": "24/05/2023 22:49:34 WIB",
-    "lintang": "7.06 LS",
-    "bujur": "129.72 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "221 Km",
-    "wilayah": "Pusat gempa berada di laut 203 Barat Laut Saumlaki",
-    "warning": [
-      "IV Saumlaki",
-      "III Tual",
-      "III Molu Maru",
-      "II Dobo",
-      "II-III Sorong"
-    ]
-  },
-  {
-    "waktu": "24/05/2023 06:36:42 WIB",
-    "lintang": "3.72 LS",
-    "bujur": "127.92 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 29 km barat Ambon",
-    "warning": [
-      "II Ambon"
-    ]
-  },
-  {
-    "waktu": "24/05/2023 00:41:50 WIB",
-    "lintang": "8.15 LS",
-    "bujur": "115.27 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 20 km Tenggara Buleleng",
-    "warning": [
-      "II Denpasar",
-      "III - IV Karangasem",
-      "IV Buleleng",
-      "III Bangli"
-    ]
-  },
-  {
-    "waktu": "22/05/2023 00:31:01 WIB",
-    "lintang": "1.12 LS",
-    "bujur": "120.23 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km Timur Laut Kamarora",
-    "warning": [
-      "III - IV Palu",
-      "II-III Poso"
-    ]
-  },
-  {
-    "waktu": "20/05/2023 18:49:25 WIB",
-    "lintang": "4.19 LS",
-    "bujur": "103.61 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 45 km tenggara Lahat",
-    "warning": [
-      "II Semendo Darat Ulu"
-    ]
-  },
-  {
-    "waktu": "19/05/2023 20:52:17 WIB",
-    "lintang": "4.25 LS",
-    "bujur": "103.59 BT",
+    "waktu": "04/06/2023 18:38:15 WIB",
+    "lintang": "1.76 LS",
+    "bujur": "138.57 BT",
     "magnitudo": "4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 46 km Tenggara Pagar Alam",
-    "warning": [
-      "II Semendo Darat Ulu"
-    ]
-  },
-  {
-    "waktu": "19/05/2023 19:14:05 WIB",
-    "lintang": "1.42 LU",
-    "bujur": "126.42 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di Laut 122 km BaratLaut Jailolo",
-    "warning": [
-      "II-III Batang Dua"
-    ]
-  },
-  {
-    "waktu": "17/05/2023 22:29:25 WIB",
-    "lintang": "3.26 LS",
-    "bujur": "135.3 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "29 Km",
-    "wilayah": "Pusat gempa berada di darat 26 km BaratLaut Nabire",
-    "warning": [
-      "II - III Nabire"
-    ]
-  },
-  {
-    "waktu": "14/05/2023 22:32:21 WIB",
-    "lintang": "0.49 LU",
-    "bujur": "126.9 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "109 Km",
-    "wilayah": "Pusat gempa berada di laut 60 km barat daya Ternate",
-    "warning": [
-      "III Manado",
-      "III Kotamobagu",
-      "III Bitung",
-      "II-III Halmahera Tengah",
-      "II Sanana",
-      "II Gorontalo"
-    ]
-  },
-  {
-    "waktu": "14/05/2023 12:17:52 WIB",
-    "lintang": "9.02 LS",
-    "bujur": "111.51 BT",
-    "magnitudo": "5",
-    "kedalaman": "56 Km",
-    "wilayah": "Pusat gempa berada di laut 103 km Tenggara Pacitan",
-    "warning": [
-      "I-II Trenggalek",
-      "II Bantul",
-      "II Blitar",
-      "II Wonogiri"
-    ]
-  },
-  {
-    "waktu": "13/05/2023 20:27:17 WIB",
-    "lintang": "6.49 LS",
-    "bujur": "104.87 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 80 km barat laut Sumur",
-    "warning": [
-      "II-III Sumur"
-    ]
-  },
-  {
-    "waktu": "12/05/2023 04:56:39 WIB",
-    "lintang": "8.41 LS",
-    "bujur": "109.01 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 76 Km Tenggara Cilacap",
-    "warning": [
-      "II-III Cilacap"
-    ]
-  },
-  {
-    "waktu": "11/05/2023 23:04:17 WIB",
-    "lintang": "6.42 LS",
-    "bujur": "104.86 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 84 km Barat Laut SUMUR",
-    "warning": [
-      "II Pesisir Barat",
-      "II Tanggamus"
-    ]
-  },
-  {
-    "waktu": "11/05/2023 21:35:57 WIB",
-    "lintang": "1.6 LU",
-    "bujur": "96.36 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 290 km BaratDaya Gunung Sitoli",
-    "warning": [
-      "II-III Gunung Sitoli"
-    ]
-  },
-  {
-    "waktu": "10/05/2023 17:48:10 WIB",
-    "lintang": "6.56 LS",
-    "bujur": "104.83 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 83 km BaratLaut Sumur",
-    "warning": [
-      "II - III Bandar Lampung",
-      "II - III Tanggamus",
-      "II - III Pesawaran",
-      "II Liwa"
-    ]
-  },
-  {
-    "waktu": "10/05/2023 11:24:49 WIB",
-    "lintang": "6.47 LS",
-    "bujur": "104.9 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 78 km BaratLaut Sumur",
-    "warning": [
-      "III Padeglang",
-      "II-III Sukabumi",
-      "II Kota Tangerang",
-      "II Bogor",
-      "II-III Lebak",
-      "II-III Serang",
-      "II-III Cilegon",
-      "II Tangerang Selatan"
-    ]
-  },
-  {
-    "waktu": "09/05/2023 13:13:29 WIB",
-    "lintang": "0.71 LU",
-    "bujur": "117.75 BT",
-    "magnitudo": "4.2",
     "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 36 km TimurLaut Sangatta",
+    "wilayah": "Pusat gempa berada di laut 24 km BaratLaut Sarmi",
     "warning": [
-      "II-III Bengalon"
+      "II Kab. Sarmi"
+    ]
+  },
+  {
+    "waktu": "04/06/2023 07:25:10 WIB",
+    "lintang": "6.84 LS",
+    "bujur": "130.49 BT",
+    "magnitudo": "6",
+    "kedalaman": "153 Km",
+    "wilayah": "Pusat gempa berada di laut 136 km timurlaut Tepa-Maluku Barat Daya",
+    "warning": [
+      "II Saumlaki"
+    ]
+  },
+  {
+    "waktu": "04/06/2023 05:41:43 WIB",
+    "lintang": "8.75 LS",
+    "bujur": "117.74 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 45 km tenggara Sumbawa",
+    "warning": [
+      "III Sumbawa",
+      "III Bima"
+    ]
+  },
+  {
+    "waktu": "03/06/2023 00:13:22 WIB",
+    "lintang": "2.32 LS",
+    "bujur": "140.56 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 31 km BaratLaut Kota Jayapura",
+    "warning": [
+      "II-III Kota Jayapura"
+    ]
+  },
+  {
+    "waktu": "01/06/2023 16:29:32 WIB",
+    "lintang": "0.29 LS",
+    "bujur": "100.4 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km TimurLaut Bukittinggi",
+    "warning": [
+      "III Bukittinggi",
+      "II - III Padang Panjang",
+      "III Agam",
+      "II-III Payakumbuh"
+    ]
+  },
+  {
+    "waktu": "01/06/2023 07:16:40 WIB",
+    "lintang": "4.34 LS",
+    "bujur": "122.1 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 6.3 km TimurLaut Lalembuu, Kab Konawe Selatan",
+    "warning": [
+      "III Konawe Selatan"
+    ]
+  },
+  {
+    "waktu": "01/06/2023 04:56:39 WIB",
+    "lintang": "3.52 LS",
+    "bujur": "128.29 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "95 Km",
+    "wilayah": "Pusat gempa berada di darat 23 km Timur Laut Ambon",
+    "warning": [
+      "III Saparua",
+      "II Ambon",
+      "II Masohi",
+      "II Piru"
+    ]
+  },
+  {
+    "waktu": "31/05/2023 07:58:38 WIB",
+    "lintang": "1.05 LS",
+    "bujur": "98.4 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 167 km BaratLaut Kep-Mentawai",
+    "warning": [
+      "III Siberut Barat",
+      "II-III Siberut Selatan",
+      "II - III Siberut Utara"
+    ]
+  },
+  {
+    "waktu": "29/05/2023 15:48:37 WIB",
+    "lintang": "2.52 LS",
+    "bujur": "140.69 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Kota Jayapura",
+    "warning": [
+      "II Jayapura"
+    ]
+  },
+  {
+    "waktu": "29/05/2023 11:54:38 WIB",
+    "lintang": "3.51 LS",
+    "bujur": "120.86 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 2.3 km Barat Laut Lasusua",
+    "warning": [
+      "III Kolaka Utara"
+    ]
+  },
+  {
+    "waktu": "29/05/2023 00:01:10 WIB",
+    "lintang": "7.27 LS",
+    "bujur": "110.35 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km barat daya Kabupaten Semarang",
+    "warning": [
+      "I-II Banyubiru"
+    ]
+  },
+  {
+    "waktu": "27/05/2023 21:58:17 WIB",
+    "lintang": "1.23 LU",
+    "bujur": "120.99 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km Tenggara Laulalang-Kab.Tolitoli",
+    "warning": [
+      "II-III Tolitoli Utara"
+    ]
+  },
+  {
+    "waktu": "27/05/2023 20:43:14 WIB",
+    "lintang": "7.02 LS",
+    "bujur": "106.63 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km tenggara Sukabumi",
+    "warning": [
+      "II Sukabumi",
+      "II Pelabuhan Ratu"
+    ]
+  },
+  {
+    "waktu": "27/05/2023 20:22:26 WIB",
+    "lintang": "7.36 LS",
+    "bujur": "110.34 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km baratdaya Salatiga",
+    "warning": [
+      "II Jambu"
+    ]
+  },
+  {
+    "waktu": "27/05/2023 17:33:00 WIB",
+    "lintang": "7.35 LS",
+    "bujur": "110.36 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km BaratDaya Kota Salatiga",
+    "warning": [
+      "II Ambarawa",
+      "II Banyubiru",
+      "II Jambu"
+    ]
+  },
+  {
+    "waktu": "27/05/2023 13:00:16 WIB",
+    "lintang": "8.95 LS",
+    "bujur": "113 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada dilaut 94Km BaratDaya Lumajang",
+    "warning": [
+      "II Karangkates",
+      "II Lumajang"
+    ]
+  },
+  {
+    "waktu": "27/05/2023 04:47:02 WIB",
+    "lintang": "7.31 LS",
+    "bujur": "110.33 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km Timur laut Temanggung",
+    "warning": [
+      "II Banyubiru",
+      "II Jambu"
+    ]
+  },
+  {
+    "waktu": "26/05/2023 22:07:41 WIB",
+    "lintang": "3.58 LS",
+    "bujur": "129.07 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 32 Km Tenggara Masohi",
+    "warning": [
+      "II-III Masohi"
     ]
   }
 ]
