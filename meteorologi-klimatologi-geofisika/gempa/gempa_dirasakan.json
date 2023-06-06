@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "06/06/2023 14:23:04 WIB",
+    "lintang": "8.05 LS",
+    "bujur": "107.01 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 126 km Tenggara Kota Sukabumi",
+    "warning": [
+      "III - IV Kab. Sukabumi",
+      "III Pelabuhan Ratu",
+      "II-III Kab. Cianjur",
+      "II Kab. Garut",
+      "II Kota Tasikmalaya",
+      "II-III Kab. Lebak",
+      "II-III Kota Cianjur"
+    ]
+  },
+  {
     "waktu": "05/06/2023 23:13:24 WIB",
     "lintang": "0.82 LU",
     "bujur": "118.28 BT",
@@ -223,18 +240,6 @@
     "warning": [
       "II Karangkates",
       "II Lumajang"
-    ]
-  },
-  {
-    "waktu": "27/05/2023 04:47:02 WIB",
-    "lintang": "7.31 LS",
-    "bujur": "110.33 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km Timur laut Temanggung",
-    "warning": [
-      "II Banyubiru",
-      "II Jambu"
     ]
   }
 ]

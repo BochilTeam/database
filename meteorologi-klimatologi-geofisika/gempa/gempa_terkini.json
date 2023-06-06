@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06-06-23 14:23:04 WIB",
+    "lintang": "-8.05",
+    "bujur": "107.01",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "126 km Tenggara KOTA-SUKABUMI-JABAR"
+  },
+  {
     "waktu": "05-06-23 20:08:49 WIB",
     "lintang": "-10.02",
     "bujur": "118.84",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "20 Km",
     "wilayah": "172 km Tenggara NIASSELATAN-SUMUT"
-  },
-  {
-    "waktu": "23-04-23 04:17:48 WIB",
-    "lintang": "-0.94",
-    "bujur": "98.38",
-    "magnitudo": "6.1",
-    "kedalaman": "19 Km",
-    "wilayah": "177 km BaratLaut KEP-MENTAWAI-SUMBAR"
   }
 ]
