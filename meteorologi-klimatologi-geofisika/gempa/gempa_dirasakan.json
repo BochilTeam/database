@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "06/06/2023 18:40:12 WIB",
+    "lintang": "5.02 LU",
+    "bujur": "95.5 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "63 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km BaratDaya Aceh Besar",
+    "warning": [
+      "II Banda Aceh",
+      "II Aceh Besar"
+    ]
+  },
+  {
+    "waktu": "06/06/2023 17:40:52 WIB",
+    "lintang": "1.01 LU",
+    "bujur": "121.07 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 28 km Timur Toli-toli",
+    "warning": [
+      "II - III Toli-toli"
+    ]
+  },
+  {
     "waktu": "06/06/2023 14:23:04 WIB",
     "lintang": "8.05 LS",
     "bujur": "107.01 BT",
@@ -217,31 +240,6 @@
     "wilayah": "Pusat gempa berada di darat 17 km baratdaya Salatiga",
     "warning": [
       "II Jambu"
-    ]
-  },
-  {
-    "waktu": "27/05/2023 17:33:00 WIB",
-    "lintang": "7.35 LS",
-    "bujur": "110.36 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km BaratDaya Kota Salatiga",
-    "warning": [
-      "II Ambarawa",
-      "II Banyubiru",
-      "II Jambu"
-    ]
-  },
-  {
-    "waktu": "27/05/2023 13:00:16 WIB",
-    "lintang": "8.95 LS",
-    "bujur": "113 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "25 Km",
-    "wilayah": "Pusat gempa berada dilaut 94Km BaratDaya Lumajang",
-    "warning": [
-      "II Karangkates",
-      "II Lumajang"
     ]
   }
 ]
