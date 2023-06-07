@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08-06-23 00:04:55 WIB",
+    "lintang": "-9.15",
+    "bujur": "110.69",
+    "magnitudo": "6.0",
+    "kedalaman": "10 Km",
+    "wilayah": "117 km BaratDaya PACITAN-JATIM"
+  },
+  {
     "waktu": "06-06-23 14:23:04 WIB",
     "lintang": "-8.05",
     "bujur": "107.01",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "12 Km",
     "wilayah": "171 km BaratLaut KEP-MENTAWAI-SUMBAR"
-  },
-  {
-    "waktu": "23-04-23 06:33:55 WIB",
-    "lintang": "-0.79",
-    "bujur": "98.55",
-    "magnitudo": "5.5",
-    "kedalaman": "20 Km",
-    "wilayah": "172 km Tenggara NIASSELATAN-SUMUT"
   }
 ]

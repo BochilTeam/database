@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "08/06/2023 00:04:55 WIB",
+    "lintang": "9.15 LS",
+    "bujur": "110.69 BT",
+    "magnitudo": "6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 117 km Baratdaya Pacitan",
+    "warning": [
+      "IV-V Kota Yogyakarta",
+      "III Semarang",
+      "III Jepara",
+      "IV Ponorogo",
+      "IV Karangkates",
+      "Iv Kepanjen",
+      "III-IV Nganjuk",
+      "III Madiun",
+      "III Sukorejo",
+      "II Demak",
+      "III Banjarnegara",
+      "III Kendal"
+    ]
+  },
+  {
     "waktu": "06/06/2023 18:40:12 WIB",
     "lintang": "5.02 LU",
     "bujur": "95.5 BT",
@@ -229,17 +251,6 @@
     "warning": [
       "II Sukabumi",
       "II Pelabuhan Ratu"
-    ]
-  },
-  {
-    "waktu": "27/05/2023 20:22:26 WIB",
-    "lintang": "7.36 LS",
-    "bujur": "110.34 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km baratdaya Salatiga",
-    "warning": [
-      "II Jambu"
     ]
   }
 ]
