@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/06/2023 09:37:48 WIB",
+    "lintang": "2.08 LS",
+    "bujur": "121.41 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km arah barat Bungintimbe",
+    "warning": [
+      "II-III Kolonodale"
+    ]
+  },
+  {
     "waktu": "08/06/2023 00:04:55 WIB",
     "lintang": "9.15 LS",
     "bujur": "110.69 BT",
@@ -239,18 +250,6 @@
     "wilayah": "Pusat gempa berada di darat 13 km Tenggara Laulalang-Kab.Tolitoli",
     "warning": [
       "II-III Tolitoli Utara"
-    ]
-  },
-  {
-    "waktu": "27/05/2023 20:43:14 WIB",
-    "lintang": "7.02 LS",
-    "bujur": "106.63 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km tenggara Sukabumi",
-    "warning": [
-      "II Sukabumi",
-      "II Pelabuhan Ratu"
     ]
   }
 ]
