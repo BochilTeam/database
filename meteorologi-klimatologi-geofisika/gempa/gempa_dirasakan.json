@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/06/2023 17:47:59 WIB",
+    "lintang": "2.67 LU",
+    "bujur": "128.22 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "66 Km",
+    "wilayah": "Pusat gempa berada di laut 64 km TimurLaut Pulau Doi",
+    "warning": [
+      "II - III Morotai Utara"
+    ]
+  },
+  {
     "waktu": "09/06/2023 09:37:48 WIB",
     "lintang": "2.08 LS",
     "bujur": "121.41 BT",
@@ -239,17 +250,6 @@
     "wilayah": "Pusat gempa berada di darat 16 km barat daya Kabupaten Semarang",
     "warning": [
       "I-II Banyubiru"
-    ]
-  },
-  {
-    "waktu": "27/05/2023 21:58:17 WIB",
-    "lintang": "1.23 LU",
-    "bujur": "120.99 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 13 km Tenggara Laulalang-Kab.Tolitoli",
-    "warning": [
-      "II-III Tolitoli Utara"
     ]
   }
 ]
