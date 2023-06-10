@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "10/06/2023 22:07:44 WIB",
+    "lintang": "5.82 LS",
+    "bujur": "104.05 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "33 Km",
+    "wilayah": "Pusat gempa berada di laut 71 km tenggara Pesisir Barat",
+    "warning": [
+      "II-III Ulu Belu",
+      "II-III Pesisir Selatan",
+      "II Liwa",
+      "II Limau",
+      "II Suoh"
+    ]
+  },
+  {
     "waktu": "09/06/2023 17:47:59 WIB",
     "lintang": "2.67 LU",
     "bujur": "128.22 BT",
@@ -239,17 +254,6 @@
     "wilayah": "Pusat gempa berada di laut 2.3 km Barat Laut Lasusua",
     "warning": [
       "III Kolaka Utara"
-    ]
-  },
-  {
-    "waktu": "29/05/2023 00:01:10 WIB",
-    "lintang": "7.27 LS",
-    "bujur": "110.35 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km barat daya Kabupaten Semarang",
-    "warning": [
-      "I-II Banyubiru"
     ]
   }
 ]
