@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-06-23 13:51:49 WIB",
+    "lintang": "-2.68",
+    "bujur": "136.70",
+    "magnitudo": "5.2",
+    "kedalaman": "48 Km",
+    "wilayah": "18 km TimurLaut WAROPEN-PAPUA"
+  },
+  {
     "waktu": "11-06-23 08:42:32 WIB",
     "lintang": "-0.04",
     "bujur": "123.08",
@@ -230,13 +238,5 @@
     "magnitudo": "6.0",
     "kedalaman": "60 Km",
     "wilayah": "125 km BaratLaut KEP.ARU-MALUKU"
-  },
-  {
-    "waktu": "27-04-23 03:43:01 WIB",
-    "lintang": "-0.80",
-    "bujur": "98.40",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "165 km Tenggara NIASSELATAN-SUMUT"
   }
 ]
