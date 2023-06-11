@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-06-23 08:42:32 WIB",
+    "lintang": "-0.04",
+    "bujur": "123.08",
+    "magnitudo": "5.4",
+    "kedalaman": "121 Km",
+    "wilayah": "64 km BaratDaya BONEBOLANGO-GORONTALO"
+  },
+  {
     "waktu": "08-06-23 00:04:55 WIB",
     "lintang": "-9.15",
     "bujur": "110.69",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "165 km Tenggara NIASSELATAN-SUMUT"
-  },
-  {
-    "waktu": "25-04-23 05:19:16 WIB",
-    "lintang": "-0.88",
-    "bujur": "98.52",
-    "magnitudo": "5.0",
-    "kedalaman": "12 Km",
-    "wilayah": "171 km BaratLaut KEP-MENTAWAI-SUMBAR"
   }
 ]
