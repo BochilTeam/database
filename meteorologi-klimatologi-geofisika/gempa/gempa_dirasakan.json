@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "12/06/2023 16:08:40 WIB",
+    "lintang": "5.84 LS",
+    "bujur": "104.07 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "39 Km",
+    "wilayah": "Pusat gempa berada di laut 73 km Tenggara Pesisir Barat",
+    "warning": [
+      "III - IV Bengkunat",
+      "II-III Pekon Seray",
+      "II-III Gunung Kemala",
+      "II-III Pesisir Tengah",
+      "II Talang Padang",
+      "II Gisting"
+    ]
+  },
+  {
     "waktu": "12/06/2023 08:04:23 WIB",
     "lintang": "7.11 LS",
     "bujur": "111.85 BT",
@@ -248,20 +264,6 @@
     "wilayah": "Pusat gempa berada di laut 31 km BaratLaut Kota Jayapura",
     "warning": [
       "II-III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "01/06/2023 16:29:32 WIB",
-    "lintang": "0.29 LS",
-    "bujur": "100.4 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km TimurLaut Bukittinggi",
-    "warning": [
-      "III Bukittinggi",
-      "II - III Padang Panjang",
-      "III Agam",
-      "II-III Payakumbuh"
     ]
   }
 ]
