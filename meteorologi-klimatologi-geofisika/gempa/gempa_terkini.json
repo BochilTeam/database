@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-06-23 10:17:05 WIB",
+    "lintang": "-7.29",
+    "bujur": "130.17",
+    "magnitudo": "5.1",
+    "kedalaman": "147 Km",
+    "wilayah": "147 km BaratLaut TANIBAR"
+  },
+  {
     "waktu": "11-06-23 13:51:49 WIB",
     "lintang": "-2.68",
     "bujur": "136.70",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "70 Km",
     "wilayah": "118 km BaratLaut KEP.ARU-MALUKU"
-  },
-  {
-    "waktu": "28-04-23 16:19:56 WIB",
-    "lintang": "-4.68",
-    "bujur": "133.90",
-    "magnitudo": "6.0",
-    "kedalaman": "60 Km",
-    "wilayah": "125 km BaratLaut KEP.ARU-MALUKU"
   }
 ]
