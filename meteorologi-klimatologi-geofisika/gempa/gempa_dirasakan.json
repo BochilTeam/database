@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "12/06/2023 08:04:23 WIB",
+    "lintang": "7.11 LS",
+    "bujur": "111.85 BT",
+    "magnitudo": "4",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km BaratLaut Bojonegoro",
+    "warning": [
+      "II-III Bojonegoro",
+      "II-III Tuban"
+    ]
+  },
+  {
     "waktu": "12/06/2023 05:32:47 WIB",
     "lintang": "6.79 LS",
     "bujur": "107.1 BT",
@@ -250,17 +262,6 @@
       "II - III Padang Panjang",
       "III Agam",
       "II-III Payakumbuh"
-    ]
-  },
-  {
-    "waktu": "01/06/2023 07:16:40 WIB",
-    "lintang": "4.34 LS",
-    "bujur": "122.1 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 6.3 km TimurLaut Lalembuu, Kab Konawe Selatan",
-    "warning": [
-      "III Konawe Selatan"
     ]
   }
 ]
