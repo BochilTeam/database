@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/06/2023 21:27:48 WIB",
+    "lintang": "1.7 LU",
+    "bujur": "125.88 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "40 Km",
+    "wilayah": "Pusat gempa berada di laut 89 km TimurLaut Bitung",
+    "warning": [
+      "II Bitung"
+    ]
+  },
+  {
     "waktu": "14/06/2023 13:59:03 WIB",
     "lintang": "2.6 LS",
     "bujur": "121.21 BT",
@@ -252,18 +263,6 @@
     "wilayah": "Pusat gempa berada di laut 136 km timurlaut Tepa-Maluku Barat Daya",
     "warning": [
       "II Saumlaki"
-    ]
-  },
-  {
-    "waktu": "04/06/2023 05:41:43 WIB",
-    "lintang": "8.75 LS",
-    "bujur": "117.74 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 45 km tenggara Sumbawa",
-    "warning": [
-      "III Sumbawa",
-      "III Bima"
     ]
   }
 ]
