@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/06/2023 13:59:03 WIB",
+    "lintang": "2.6 LS",
+    "bujur": "121.21 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Tenggara Luwu Timur",
+    "warning": [
+      "II-III Maili"
+    ]
+  },
+  {
     "waktu": "12/06/2023 16:08:40 WIB",
     "lintang": "5.84 LS",
     "bujur": "104.07 BT",
@@ -253,17 +264,6 @@
     "warning": [
       "III Sumbawa",
       "III Bima"
-    ]
-  },
-  {
-    "waktu": "03/06/2023 00:13:22 WIB",
-    "lintang": "2.32 LS",
-    "bujur": "140.56 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 31 km BaratLaut Kota Jayapura",
-    "warning": [
-      "II-III Kota Jayapura"
     ]
   }
 ]
