@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "15/06/2023 17:24:25 WIB",
+    "lintang": "0.89 LU",
+    "bujur": "108.94 BT",
+    "magnitudo": "4",
+    "kedalaman": "32 Km",
+    "wilayah": "Pusat gempa berada di laut 5 km Barat Daya Singkawang",
+    "warning": [
+      "II-III Bengkayang",
+      "II-III Landak"
+    ]
+  },
+  {
     "waktu": "15/06/2023 16:06:57 WIB",
     "lintang": "6.8 LS",
     "bujur": "108.62 BT",
@@ -251,17 +263,6 @@
     "wilayah": "Pusat gempa berada di laut 118 km Timur Laut Bontang",
     "warning": [
       "III Berau"
-    ]
-  },
-  {
-    "waktu": "05/06/2023 11:57:47 WIB",
-    "lintang": "1.23 LU",
-    "bujur": "120.74 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 39 km barat laut Toli-toli",
-    "warning": [
-      "II-III Toli-toli"
     ]
   }
 ]
