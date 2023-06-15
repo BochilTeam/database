@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "15/06/2023 16:06:57 WIB",
+    "lintang": "6.8 LS",
+    "bujur": "108.62 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km tenggara Kota Cirebon",
+    "warning": [
+      "II Cirebon",
+      "II Sindang Pancuran",
+      "II Karang Sambung"
+    ]
+  },
+  {
     "waktu": "15/06/2023 07:25:18 WIB",
     "lintang": "6.7 LS",
     "bujur": "108.64 BT",
@@ -249,21 +262,6 @@
     "wilayah": "Pusat gempa berada di laut 39 km barat laut Toli-toli",
     "warning": [
       "II-III Toli-toli"
-    ]
-  },
-  {
-    "waktu": "04/06/2023 20:48:39 WIB",
-    "lintang": "8.43 LS",
-    "bujur": "107.89 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 105 km BaratDaya Kab-Pangandaran",
-    "warning": [
-      "III Pangandaran",
-      "III Cisompet",
-      "III Cikalong",
-      "III Pameungpeuk",
-      "II Banjar"
     ]
   }
 ]
