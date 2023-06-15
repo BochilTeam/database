@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "15/06/2023 07:25:18 WIB",
+    "lintang": "6.7 LS",
+    "bujur": "108.64 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km TimurLaut Kota Cirebon",
+    "warning": [
+      "II Cirebon",
+      "II Palimanan"
+    ]
+  },
+  {
     "waktu": "14/06/2023 21:27:48 WIB",
     "lintang": "1.7 LU",
     "bujur": "125.88 BT",
@@ -252,17 +264,6 @@
     "wilayah": "Pusat gempa berada di laut 24 km BaratLaut Sarmi",
     "warning": [
       "II Kab. Sarmi"
-    ]
-  },
-  {
-    "waktu": "04/06/2023 07:25:10 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "130.49 BT",
-    "magnitudo": "6",
-    "kedalaman": "153 Km",
-    "wilayah": "Pusat gempa berada di laut 136 km timurlaut Tepa-Maluku Barat Daya",
-    "warning": [
-      "II Saumlaki"
     ]
   }
 ]
