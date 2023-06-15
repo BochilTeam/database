@@ -12,6 +12,17 @@
     ]
   },
   {
+    "waktu": "15/06/2023 06:20:20 WIB",
+    "lintang": "6.78 LS",
+    "bujur": "108.62 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km tenggara Kota Cirebon",
+    "warning": [
+      "II Cirebon"
+    ]
+  },
+  {
     "waktu": "14/06/2023 21:27:48 WIB",
     "lintang": "1.7 LU",
     "bujur": "125.88 BT",
@@ -253,17 +264,6 @@
       "III Cikalong",
       "III Pameungpeuk",
       "II Banjar"
-    ]
-  },
-  {
-    "waktu": "04/06/2023 18:38:15 WIB",
-    "lintang": "1.76 LS",
-    "bujur": "138.57 BT",
-    "magnitudo": "4",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 24 km BaratLaut Sarmi",
-    "warning": [
-      "II Kab. Sarmi"
     ]
   }
 ]
