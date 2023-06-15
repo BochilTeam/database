@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16-06-23 01:06:22 WIB",
+    "lintang": "-22.82",
+    "bujur": "176.44",
+    "magnitudo": "6.9",
+    "kedalaman": "161 Km",
+    "wilayah": "771 km BaratDaya SUVA-FIJIISLAND"
+  },
+  {
     "waktu": "12-06-23 10:17:05 WIB",
     "lintang": "-7.29",
     "bujur": "130.17",
@@ -230,13 +238,5 @@
     "magnitudo": "5.7",
     "kedalaman": "98 Km",
     "wilayah": "46 km Tenggara KOTA-BIMA-NTB"
-  },
-  {
-    "waktu": "29-04-23 01:12:55 WIB",
-    "lintang": "-4.74",
-    "bujur": "133.93",
-    "magnitudo": "5.6",
-    "kedalaman": "70 Km",
-    "wilayah": "118 km BaratLaut KEP.ARU-MALUKU"
   }
 ]
