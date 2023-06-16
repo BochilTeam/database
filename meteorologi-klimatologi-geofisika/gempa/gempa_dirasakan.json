@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/06/2023 01:24:24 WIB",
+    "lintang": "6.77 LS",
+    "bujur": "107.1 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 7 Km Baratlaut Kab. Cianjur",
+    "warning": [
+      "II Karangtengah"
+    ]
+  },
+  {
     "waktu": "15/06/2023 17:24:25 WIB",
     "lintang": "0.89 LU",
     "bujur": "108.94 BT",
@@ -252,17 +263,6 @@
       "II-III Kota Cianjur",
       "II-III Kota Bandung",
       "III Pangalengan"
-    ]
-  },
-  {
-    "waktu": "05/06/2023 23:13:24 WIB",
-    "lintang": "0.82 LU",
-    "bujur": "118.28 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 118 km Timur Laut Bontang",
-    "warning": [
-      "III Berau"
     ]
   }
 ]
