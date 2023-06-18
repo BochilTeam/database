@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "18/06/2023 15:00:26 WIB",
+    "lintang": "2.87 LS",
+    "bujur": "101.29 BT",
+    "magnitudo": "4",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di laut 37 km Tenggara Muko-Muko",
+    "warning": [
+      "II - III Bengkulu Utara",
+      "II - III Muko-Muko"
+    ]
+  },
+  {
     "waktu": "17/06/2023 01:24:24 WIB",
     "lintang": "6.77 LS",
     "bujur": "107.1 BT",
@@ -244,25 +256,6 @@
     "wilayah": "Pusat gempa berada di darat 28 km Timur Toli-toli",
     "warning": [
       "II - III Toli-toli"
-    ]
-  },
-  {
-    "waktu": "06/06/2023 14:23:04 WIB",
-    "lintang": "8.05 LS",
-    "bujur": "107.01 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 126 km Tenggara Kota Sukabumi",
-    "warning": [
-      "III - IV Kab. Sukabumi",
-      "III Pelabuhan Ratu",
-      "II-III Kab. Cianjur",
-      "II Kab. Garut",
-      "II Kota Tasikmalaya",
-      "II-III Kab. Lebak",
-      "II-III Kota Cianjur",
-      "II-III Kota Bandung",
-      "III Pangalengan"
     ]
   }
 ]
