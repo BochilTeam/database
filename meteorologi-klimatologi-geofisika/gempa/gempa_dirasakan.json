@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "19/06/2023 20:44:01 WIB",
+    "lintang": "7.49 LS",
+    "bujur": "112.54 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km Timur Laut Kab. Mojokerto",
+    "warning": [
+      "III-IV Mojokerto",
+      "III Pasuruan",
+      "III Surabaya",
+      "III Lamongan",
+      "III Gresik",
+      "II-III Sidoarjo",
+      "II Malang"
+    ]
+  },
+  {
     "waktu": "19/06/2023 12:15:50 WIB",
     "lintang": "1.17 LU",
     "bujur": "121.07 BT",
@@ -233,17 +250,6 @@
     "wilayah": "Pusat gempa berada di laut 64 km TimurLaut Pulau Doi",
     "warning": [
       "II - III Morotai Utara"
-    ]
-  },
-  {
-    "waktu": "09/06/2023 09:37:48 WIB",
-    "lintang": "2.08 LS",
-    "bujur": "121.41 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km arah barat Bungintimbe",
-    "warning": [
-      "II-III Kolonodale"
     ]
   }
 ]
