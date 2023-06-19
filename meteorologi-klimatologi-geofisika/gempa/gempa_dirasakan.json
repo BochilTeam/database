@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "20/06/2023 04:16:29 WIB",
+    "lintang": "2.16 LU",
+    "bujur": "128.22 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "79 Km",
+    "wilayah": "Pusat gempa berada di laut 14 km Barat Laut Daruba",
+    "warning": [
+      "III Morotai",
+      "III Tobelo"
+    ]
+  },
+  {
     "waktu": "19/06/2023 20:44:01 WIB",
     "lintang": "7.49 LS",
     "bujur": "112.54 BT",
@@ -239,17 +251,6 @@
       "II Liwa",
       "II Limau",
       "II Suoh"
-    ]
-  },
-  {
-    "waktu": "09/06/2023 17:47:59 WIB",
-    "lintang": "2.67 LU",
-    "bujur": "128.22 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "66 Km",
-    "wilayah": "Pusat gempa berada di laut 64 km TimurLaut Pulau Doi",
-    "warning": [
-      "II - III Morotai Utara"
     ]
   }
 ]
