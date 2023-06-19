@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "19/06/2023 12:15:50 WIB",
+    "lintang": "1.17 LU",
+    "bujur": "121.07 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 21 km Barat Lakea",
+    "warning": [
+      "II-III Tolitoli"
+    ]
+  },
+  {
+    "waktu": "19/06/2023 11:43:52 WIB",
+    "lintang": "2.56 LS",
+    "bujur": "140.43 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Timurlaut Kab. Jayapura",
+    "warning": [
+      "II-III Sentani"
+    ]
+  },
+  {
     "waktu": "19/06/2023 08:11:14 WIB",
     "lintang": "0.81 LS",
     "bujur": "119.92 BT",
@@ -222,40 +244,6 @@
     "wilayah": "Pusat gempa berada di darat 4 km arah barat Bungintimbe",
     "warning": [
       "II-III Kolonodale"
-    ]
-  },
-  {
-    "waktu": "08/06/2023 00:04:55 WIB",
-    "lintang": "9.15 LS",
-    "bujur": "110.69 BT",
-    "magnitudo": "6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 117 km Baratdaya Pacitan",
-    "warning": [
-      "IV-V Kota Yogyakarta",
-      "III Semarang",
-      "III Jepara",
-      "IV Ponorogo",
-      "IV Karangkates",
-      "Iv Kepanjen",
-      "III-IV Nganjuk",
-      "III Madiun",
-      "III Sukorejo",
-      "II Demak",
-      "III Banjarnegara",
-      "III Kendal"
-    ]
-  },
-  {
-    "waktu": "06/06/2023 18:40:12 WIB",
-    "lintang": "5.02 LU",
-    "bujur": "95.5 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "63 Km",
-    "wilayah": "Pusat gempa berada di darat 27 km BaratDaya Aceh Besar",
-    "warning": [
-      "II Banda Aceh",
-      "II Aceh Besar"
     ]
   }
 ]
