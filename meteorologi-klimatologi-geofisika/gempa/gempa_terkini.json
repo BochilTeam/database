@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20-06-23 15:39:18 WIB",
+    "lintang": "-0.91",
+    "bujur": "98.55",
+    "magnitudo": "5.8",
+    "kedalaman": "10 Km",
+    "wilayah": "166 km BaratLaut KEP-MENTAWAI-SUMBAR"
+  },
+  {
     "waktu": "16-06-23 01:06:22 WIB",
     "lintang": "-22.82",
     "bujur": "176.44",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "119 km BaratLaut KEP.ARU-MALUKU"
-  },
-  {
-    "waktu": "29-04-23 03:38:32 WIB",
-    "lintang": "-8.80",
-    "bujur": "119.00",
-    "magnitudo": "5.7",
-    "kedalaman": "98 Km",
-    "wilayah": "46 km Tenggara KOTA-BIMA-NTB"
   }
 ]

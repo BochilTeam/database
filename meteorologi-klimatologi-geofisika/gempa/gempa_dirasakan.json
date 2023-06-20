@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "20/06/2023 15:39:18 WIB",
+    "lintang": "0.91 LS",
+    "bujur": "98.55 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 166 km Barat Laut Kep. Mentawai",
+    "warning": [
+      "III - IV Siberut",
+      "II-III Pasaman Barat",
+      "II-III Pariaman",
+      "II Bukittinggi",
+      "III Hibala",
+      "II Padang",
+      "II Padang Panjang"
+    ]
+  },
+  {
     "waktu": "20/06/2023 12:43:32 WIB",
     "lintang": "0.63 LU",
     "bujur": "114.99 BT",
@@ -235,19 +252,6 @@
       "III Pacet",
       "III Cugenang",
       "II Cibodas"
-    ]
-  },
-  {
-    "waktu": "11/06/2023 08:42:32 WIB",
-    "lintang": "0.04 LS",
-    "bujur": "123.08 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "121 Km",
-    "wilayah": "Pusat gempa berada di laut 64 km BaratDaya BoneBolango",
-    "warning": [
-      "II Gorontalo",
-      "II Luwuk",
-      "I-II Gorontalo Utara"
     ]
   }
 ]
