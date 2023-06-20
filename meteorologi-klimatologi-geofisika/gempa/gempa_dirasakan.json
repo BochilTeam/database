@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "20/06/2023 12:43:32 WIB",
+    "lintang": "0.63 LU",
+    "bujur": "114.99 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 47 km tenggara MAHAKAMULU-KALTIM",
+    "warning": [
+      "III Mahulu",
+      "III Samarinda"
+    ]
+  },
+  {
     "waktu": "20/06/2023 04:16:29 WIB",
     "lintang": "2.16 LU",
     "bujur": "128.22 BT",
@@ -236,21 +248,6 @@
       "II Gorontalo",
       "II Luwuk",
       "I-II Gorontalo Utara"
-    ]
-  },
-  {
-    "waktu": "10/06/2023 22:07:44 WIB",
-    "lintang": "5.82 LS",
-    "bujur": "104.05 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "33 Km",
-    "wilayah": "Pusat gempa berada di laut 71 km tenggara Pesisir Barat",
-    "warning": [
-      "II-III Ulu Belu",
-      "II-III Pesisir Selatan",
-      "II Liwa",
-      "II Limau",
-      "II Suoh"
     ]
   }
 ]
