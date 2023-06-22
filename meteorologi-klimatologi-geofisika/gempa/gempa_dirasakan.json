@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "22/06/2023 12:26:05 WIB",
+    "lintang": "9.49 LS",
+    "bujur": "116.56 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "28 Km",
+    "wilayah": "Pusat gempa berada di laut 88 km Barat Daya Sumbawa Barat",
+    "warning": [
+      "II-III Mataram",
+      "II-III Lombok Barat",
+      "II-III Lombok Tengah"
+    ]
+  },
+  {
     "waktu": "21/06/2023 17:59:54 WIB",
     "lintang": "8.34 LS",
     "bujur": "122.99 BT",
@@ -231,22 +244,6 @@
     "warning": [
       "II-III Bojonegoro",
       "II-III Tuban"
-    ]
-  },
-  {
-    "waktu": "12/06/2023 05:32:47 WIB",
-    "lintang": "6.79 LS",
-    "bujur": "107.1 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di darat 5 Km BaratLaut Kab. Cianjur",
-    "warning": [
-      "II-III Kec. Cianjur",
-      "II-III Cugenang",
-      "II-III Cipanas",
-      "II-III Warungkondang",
-      "II-III Cilaku",
-      "II Cibeber"
     ]
   }
 ]
