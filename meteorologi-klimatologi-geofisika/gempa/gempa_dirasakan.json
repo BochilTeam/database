@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "23/06/2023 18:30:57 WIB",
+    "lintang": "9.13 LS",
+    "bujur": "112.64 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "72 Km",
+    "wilayah": "Pusat gempa berada di laut 110 km Tenggara Kab. Malang",
+    "warning": [
+      "II Prigi",
+      "II Trenggalek",
+      "II Puger",
+      "II Tamanayu",
+      "II Pronojiwo",
+      "II Lumajang"
+    ]
+  },
+  {
     "waktu": "23/06/2023 13:42:53 WIB",
     "lintang": "2.57 LU",
     "bujur": "95.7 BT",
@@ -227,17 +243,6 @@
     "wilayah": "Pusat gempa berada di laut 89 km TimurLaut Bitung",
     "warning": [
       "II Bitung"
-    ]
-  },
-  {
-    "waktu": "14/06/2023 13:59:03 WIB",
-    "lintang": "2.6 LS",
-    "bujur": "121.21 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km Tenggara Luwu Timur",
-    "warning": [
-      "II-III Maili"
     ]
   }
 ]
