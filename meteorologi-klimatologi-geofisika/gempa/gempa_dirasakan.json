@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/06/2023 23:03:09 WIB",
+    "lintang": "3.51 LS",
+    "bujur": "135.43 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km BaratDaya Nabire",
+    "warning": [
+      "II Nabire"
+    ]
+  },
+  {
     "waktu": "23/06/2023 18:30:57 WIB",
     "lintang": "9.13 LS",
     "bujur": "112.64 BT",
@@ -232,17 +243,6 @@
     "wilayah": "Pusat gempa berada di darat 11 km tenggara Kota Cirebon",
     "warning": [
       "II Cirebon"
-    ]
-  },
-  {
-    "waktu": "14/06/2023 21:27:48 WIB",
-    "lintang": "1.7 LU",
-    "bujur": "125.88 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "40 Km",
-    "wilayah": "Pusat gempa berada di laut 89 km TimurLaut Bitung",
-    "warning": [
-      "II Bitung"
     ]
   }
 ]
