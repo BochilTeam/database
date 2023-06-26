@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26-06-23 17:12:37 WIB",
+    "lintang": "2.13",
+    "bujur": "98.41",
+    "magnitudo": "5.1",
+    "kedalaman": "71 Km",
+    "wilayah": "40 km BaratDaya HUMBANGHASUNDUTAN-SUMUT"
+  },
+  {
     "waktu": "20-06-23 15:39:18 WIB",
     "lintang": "-0.91",
     "bujur": "98.55",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "116 km BaratLaut KEP.ARU-MALUKU"
-  },
-  {
-    "waktu": "30-04-23 05:38:00 WIB",
-    "lintang": "-4.79",
-    "bujur": "133.77",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "119 km BaratLaut KEP.ARU-MALUKU"
   }
 ]

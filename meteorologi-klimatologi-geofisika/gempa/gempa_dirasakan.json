@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "26/06/2023 17:12:37 WIB",
+    "lintang": "2.13 LU",
+    "bujur": "98.41 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "71 Km",
+    "wilayah": "Pusat gempa berada di darat 40 km Barat Daya Humbang Hasundutan",
+    "warning": [
+      "III Dairi",
+      "III Pinangsori",
+      "III Tarutung",
+      "II Brastagi",
+      "II Aceh Singkil"
+    ]
+  },
+  {
     "waktu": "26/06/2023 08:16:15 WIB",
     "lintang": "8.87 LS",
     "bujur": "112.46 BT",
@@ -235,18 +250,6 @@
       "II Cirebon",
       "II Sindang Pancuran",
       "II Karang Sambung"
-    ]
-  },
-  {
-    "waktu": "15/06/2023 07:25:18 WIB",
-    "lintang": "6.7 LS",
-    "bujur": "108.64 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km TimurLaut Kota Cirebon",
-    "warning": [
-      "II Cirebon",
-      "II Palimanan"
     ]
   }
 ]
