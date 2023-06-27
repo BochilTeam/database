@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "27/06/2023 23:55:17 WIB",
+    "lintang": "7.35 LS",
+    "bujur": "130.22 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "123 Km",
+    "wilayah": "Pusat gempa berada di laut 139 km BaratLaut Tanibar",
+    "warning": [
+      "III saumlaki"
+    ]
+  },
+  {
+    "waktu": "27/06/2023 20:32:59 WIB",
+    "lintang": "6.95 LS",
+    "bujur": "105.4 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 37 km BaratDaya Sumur",
+    "warning": [
+      "II-III Sumur",
+      "II Munjul"
+    ]
+  },
+  {
     "waktu": "27/06/2023 10:48:03 WIB",
     "lintang": "8.37 LS",
     "bujur": "108.92 BT",
@@ -219,34 +242,6 @@
     "warning": [
       "III Morotai",
       "III Tobelo"
-    ]
-  },
-  {
-    "waktu": "19/06/2023 20:44:01 WIB",
-    "lintang": "7.49 LS",
-    "bujur": "112.54 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km Timur Laut Kab. Mojokerto",
-    "warning": [
-      "III-IV Mojokerto",
-      "III Pasuruan",
-      "III Surabaya",
-      "III Lamongan",
-      "III Gresik",
-      "II-III Sidoarjo",
-      "II Lawang"
-    ]
-  },
-  {
-    "waktu": "19/06/2023 12:15:50 WIB",
-    "lintang": "1.17 LU",
-    "bujur": "121.07 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km Barat Lakea",
-    "warning": [
-      "II-III Tolitoli"
     ]
   }
 ]
