@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/06/2023 12:03:52 WIB",
+    "lintang": "2.86 LS",
+    "bujur": "122.36 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 19 km Timur Laut Lafeu Kab.Morowali",
+    "warning": [
+      "II-III Bungku"
+    ]
+  },
+  {
     "waktu": "27/06/2023 23:55:17 WIB",
     "lintang": "7.35 LS",
     "bujur": "130.22 BT",
@@ -230,18 +241,6 @@
     "warning": [
       "III Mahulu",
       "III Samarinda"
-    ]
-  },
-  {
-    "waktu": "20/06/2023 04:16:29 WIB",
-    "lintang": "2.16 LU",
-    "bujur": "128.22 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "79 Km",
-    "wilayah": "Pusat gempa berada di laut 14 km Barat Laut Daruba",
-    "warning": [
-      "III Morotai",
-      "III Tobelo"
     ]
   }
 ]
