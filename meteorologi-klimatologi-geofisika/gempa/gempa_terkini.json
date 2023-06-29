@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29-06-23 20:52:47 WIB",
+    "lintang": "4.90",
+    "bujur": "126.04",
+    "magnitudo": "5.0",
+    "kedalaman": "104 Km",
+    "wilayah": "116 km BaratLaut PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "27-06-23 23:55:17 WIB",
     "lintang": "-7.35",
     "bujur": "130.22",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "103 Km",
     "wilayah": "47 km BaratDaya MALUKUTENGAH"
-  },
-  {
-    "waktu": "03-05-23 08:23:06 WIB",
-    "lintang": "3.38",
-    "bujur": "126.07",
-    "magnitudo": "5.6",
-    "kedalaman": "32 Km",
-    "wilayah": "69 km Tenggara TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
