@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/06/2023 17:57:56 WIB",
+    "lintang": "2.01 LU",
+    "bujur": "99.03 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km Tenggara Tapanuli Utara",
+    "warning": [
+      "III Sipoholon"
+    ]
+  },
+  {
     "waktu": "29/06/2023 08:13:07 WIB",
     "lintang": "2.65 LS",
     "bujur": "140.44 BT",
@@ -223,23 +234,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km BaratDaya Kolaka",
     "warning": [
       "II Kolaka"
-    ]
-  },
-  {
-    "waktu": "20/06/2023 15:39:18 WIB",
-    "lintang": "0.91 LS",
-    "bujur": "98.55 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 166 km Barat Laut Kep. Mentawai",
-    "warning": [
-      "III - IV Siberut",
-      "II-III Pasaman Barat",
-      "II-III Pariaman",
-      "II Bukittinggi",
-      "III Hibala",
-      "II Padang",
-      "II Padang Panjang"
     ]
   }
 ]
