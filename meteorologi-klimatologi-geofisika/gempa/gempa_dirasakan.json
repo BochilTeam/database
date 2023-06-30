@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "30/06/2023 17:37:31 WIB",
+    "lintang": "0.59 LS",
+    "bujur": "122.44 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada dilaut 103Km BaratLaut Banggai Kepulauan",
+    "warning": [
+      "III Luwuk",
+      "II Bungku"
+    ]
+  },
+  {
     "waktu": "29/06/2023 17:57:56 WIB",
     "lintang": "2.01 LU",
     "bujur": "99.03 BT",
@@ -223,17 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 4 km Tenggara Larantuka",
     "warning": [
       "III Larantuka"
-    ]
-  },
-  {
-    "waktu": "21/06/2023 13:52:01 WIB",
-    "lintang": "4.11 LS",
-    "bujur": "121.58 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km BaratDaya Kolaka",
-    "warning": [
-      "II Kolaka"
     ]
   }
 ]

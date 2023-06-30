@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "30-06-23 17:37:31 WIB",
+    "lintang": "-0.59",
+    "bujur": "122.44",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "103 km BaratLaut BANGGAIKEP-SULTENG"
+  },
+  {
+    "waktu": "30-06-23 17:29:48 WIB",
+    "lintang": "3.60",
+    "bujur": "127.94",
+    "magnitudo": "5.0",
+    "kedalaman": "94 Km",
+    "wilayah": "146 km TimurLaut PULAUDOI-MALUT"
+  },
+  {
     "waktu": "30-06-23 09:00:38 WIB",
     "lintang": "-6.99",
     "bujur": "129.67",
@@ -222,21 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "83 km BaratLaut SUMUR-BANTEN"
-  },
-  {
-    "waktu": "10-05-23 11:24:49 WIB",
-    "lintang": "-6.47",
-    "bujur": "104.90",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "78 km BaratLaut SUMUR-BANTEN"
-  },
-  {
-    "waktu": "05-05-23 18:44:04 WIB",
-    "lintang": "-7.56",
-    "bujur": "120.27",
-    "magnitudo": "5.3",
-    "kedalaman": "618 Km",
-    "wilayah": "111 km TimurLaut LABUANBAJO-NTT"
   }
 ]
