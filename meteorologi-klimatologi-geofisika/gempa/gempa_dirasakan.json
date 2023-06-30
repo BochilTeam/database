@@ -1,5 +1,38 @@
 [
   {
+    "waktu": "30/06/2023 19:57:43 WIB",
+    "lintang": "8.63 LS",
+    "bujur": "110.08 BT",
+    "magnitudo": "6.4",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di Laut 86 Km BaratDaya Bantul",
+    "warning": [
+      "IV Tulungagung",
+      "IV Nganjuk",
+      "IV Kebumen",
+      "IV Ponorogo",
+      "IV Pacitan",
+      "IV Trenggalek",
+      "III - IV Karangkates",
+      "III - IV Klaten",
+      "III - IV Kediri",
+      "III - IV Kulonprogo",
+      "III - IV Wonogiri",
+      "III Banjarnegara",
+      "III Purbalingga",
+      "III Purwokerto",
+      "III Mojokerto",
+      "III Pacitan",
+      "III Gresik",
+      "III Malang",
+      "III Salatiga",
+      "III Jepara",
+      "II - III Lumajang",
+      "II - III Ngawi",
+      "II - III Blora"
+    ]
+  },
+  {
     "waktu": "30/06/2023 17:37:31 WIB",
     "lintang": "0.59 LS",
     "bujur": "122.44 BT",
@@ -224,17 +257,6 @@
       "II-III Mataram",
       "II-III Lombok Barat",
       "II-III Lombok Tengah"
-    ]
-  },
-  {
-    "waktu": "21/06/2023 17:59:54 WIB",
-    "lintang": "8.34 LS",
-    "bujur": "122.99 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km Tenggara Larantuka",
-    "warning": [
-      "III Larantuka"
     ]
   }
 ]

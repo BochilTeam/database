@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30-06-23 19:57:43 WIB",
+    "lintang": "-8.63",
+    "bujur": "110.08",
+    "magnitudo": "6.4",
+    "kedalaman": "25 Km",
+    "wilayah": "86 km BaratDaya BANTUL-DIY"
+  },
+  {
     "waktu": "30-06-23 17:37:31 WIB",
     "lintang": "-0.59",
     "bujur": "122.44",
@@ -230,13 +238,5 @@
     "magnitudo": "5.7",
     "kedalaman": "10 Km",
     "wilayah": "290 km BaratDaya NIASSELATAN-SUMUT"
-  },
-  {
-    "waktu": "10-05-23 17:48:10 WIB",
-    "lintang": "-6.56",
-    "bujur": "104.83",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "83 km BaratLaut SUMUR-BANTEN"
   }
 ]
