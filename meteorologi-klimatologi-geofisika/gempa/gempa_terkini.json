@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30-06-23 09:00:38 WIB",
+    "lintang": "-6.99",
+    "bujur": "129.67",
+    "magnitudo": "5.1",
+    "kedalaman": "160 Km",
+    "wilayah": "211 km BaratLaut TANIBAR"
+  },
+  {
     "waktu": "29-06-23 20:52:47 WIB",
     "lintang": "4.90",
     "bujur": "126.04",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "618 Km",
     "wilayah": "111 km TimurLaut LABUANBAJO-NTT"
-  },
-  {
-    "waktu": "03-05-23 13:15:54 WIB",
-    "lintang": "-3.62",
-    "bujur": "128.68",
-    "magnitudo": "5.3",
-    "kedalaman": "103 Km",
-    "wilayah": "47 km BaratDaya MALUKUTENGAH"
   }
 ]
