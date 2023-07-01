@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "02/07/2023 01:44:18 WIB",
+    "lintang": "7.89 LS",
+    "bujur": "117.66 BT",
+    "magnitudo": "5",
+    "kedalaman": "31 Km",
+    "wilayah": "Pusat gempa berada di laut 71 km Timur Laut Sumbawa",
+    "warning": [
+      "III Kab. Bima",
+      "II Sumbawa",
+      "II Sumbawa Barat"
+    ]
+  },
+  {
     "waktu": "30/06/2023 19:57:43 WIB",
     "lintang": "8.63 LS",
     "bujur": "110.08 BT",
@@ -260,19 +273,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "22/06/2023 12:26:05 WIB",
-    "lintang": "9.49 LS",
-    "bujur": "116.56 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "28 Km",
-    "wilayah": "Pusat gempa berada di laut 88 km Barat Daya Sumbawa Barat",
-    "warning": [
-      "II-III Mataram",
-      "II-III Lombok Barat",
-      "II-III Lombok Tengah"
     ]
   }
 ]

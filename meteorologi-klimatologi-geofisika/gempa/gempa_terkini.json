@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-07-23 01:44:18 WIB",
+    "lintang": "-7.89",
+    "bujur": "117.66",
+    "magnitudo": "5.0",
+    "kedalaman": "31 Km",
+    "wilayah": "71 km TimurLaut SUMBAWA-NTB"
+  },
+  {
     "waktu": "30-06-23 19:57:43 WIB",
     "lintang": "-8.63",
     "bujur": "110.08",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "60 Km",
     "wilayah": "238 km BaratLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "11-05-23 21:35:57 WIB",
-    "lintang": "-1.60",
-    "bujur": "96.36",
-    "magnitudo": "5.7",
-    "kedalaman": "10 Km",
-    "wilayah": "290 km BaratDaya NIASSELATAN-SUMUT"
   }
 ]
