@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "02/07/2023 18:40:28 WIB",
+    "lintang": "1.74 LS",
+    "bujur": "133.87 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "43 Km",
+    "wilayah": "Pusat gempa berada di darat 43 km BaratDaya Ransiki",
+    "warning": [
+      "III Ransiki",
+      "III Oransbari"
+    ]
+  },
+  {
     "waktu": "02/07/2023 07:57:11 WIB",
     "lintang": "8.55 LS",
     "bujur": "115.87 BT",
@@ -264,17 +276,6 @@
       "I Kec. Gondanglegi",
       "II Kec. Pronojiwo",
       "II Lumajang"
-    ]
-  },
-  {
-    "waktu": "23/06/2023 13:42:53 WIB",
-    "lintang": "2.57 LU",
-    "bujur": "95.7 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 76 km BaratLaut Sinabang",
-    "warning": [
-      "III Sinabang"
     ]
   }
 ]
