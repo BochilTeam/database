@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/07/2023 00:13:11 WIB",
+    "lintang": "1.99 LS",
+    "bujur": "121.42 BT",
+    "magnitudo": "3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km timur Morowali Utara",
+    "warning": [
+      "II - III Petasia"
+    ]
+  },
+  {
     "waktu": "02/07/2023 18:40:28 WIB",
     "lintang": "1.74 LS",
     "bujur": "133.87 BT",
@@ -260,22 +271,6 @@
     "wilayah": "Pusat gempa berada di darat 18 km BaratDaya Nabire",
     "warning": [
       "II Nabire"
-    ]
-  },
-  {
-    "waktu": "23/06/2023 18:30:57 WIB",
-    "lintang": "9.13 LS",
-    "bujur": "112.64 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "72 Km",
-    "wilayah": "Pusat gempa berada di laut 110 km Tenggara Kab. Malang",
-    "warning": [
-      "II Prigi",
-      "II Trenggalek",
-      "II Kec. Puger",
-      "I Kec. Gondanglegi",
-      "II Kec. Pronojiwo",
-      "II Lumajang"
     ]
   }
 ]
