@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "02/07/2023 07:57:11 WIB",
+    "lintang": "8.55 LS",
+    "bujur": "115.87 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "23 Km",
+    "wilayah": "Pusat gempa berada di laut 33 km BaratLaut Lombok Barat",
+    "warning": [
+      "III Mataram",
+      "III Lombok Barat",
+      "II - III Lombok Utara"
+    ]
+  },
+  {
     "waktu": "02/07/2023 01:44:18 WIB",
     "lintang": "7.89 LS",
     "bujur": "117.66 BT",
@@ -262,17 +275,6 @@
     "wilayah": "Pusat gempa berada di laut 76 km BaratLaut Sinabang",
     "warning": [
       "III Sinabang"
-    ]
-  },
-  {
-    "waktu": "23/06/2023 03:19:06 WIB",
-    "lintang": "2.52 LS",
-    "bujur": "140.69 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
