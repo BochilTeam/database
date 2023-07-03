@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "03/07/2023 09:51:38 WIB",
+    "lintang": "3.71 LS",
+    "bujur": "140.25 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "33 Km",
+    "wilayah": "Pusat gempa berada di darat 69 km Barat Daya Keerom",
+    "warning": [
+      "III Wamena",
+      "II - III Jayapura"
+    ]
+  },
+  {
     "waktu": "03/07/2023 00:13:11 WIB",
     "lintang": "1.99 LS",
     "bujur": "121.42 BT",
@@ -260,17 +272,6 @@
       "II Tulungagung",
       "II Blitar",
       "II-III Malang"
-    ]
-  },
-  {
-    "waktu": "23/06/2023 23:03:09 WIB",
-    "lintang": "3.51 LS",
-    "bujur": "135.43 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 18 km BaratDaya Nabire",
-    "warning": [
-      "II Nabire"
     ]
   }
 ]
