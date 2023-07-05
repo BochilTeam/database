@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "05/07/2023 14:31:29 WIB",
+    "lintang": "2.41 LS",
+    "bujur": "120.88 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 37 Km BaratLaut Luwu Timur",
+    "warning": [
+      "III Tomoni",
+      "III Kalaena",
+      "III Malili"
+    ]
+  },
+  {
     "waktu": "04/07/2023 20:57:01 WIB",
     "lintang": "3.87 LS",
     "bujur": "102.38 BT",
@@ -254,21 +267,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km TimurLaut Kota Jayapura",
     "warning": [
       "III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "26/06/2023 17:12:37 WIB",
-    "lintang": "2.13 LU",
-    "bujur": "98.41 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "71 Km",
-    "wilayah": "Pusat gempa berada di darat 40 km Barat Daya Humbang Hasundutan",
-    "warning": [
-      "III Dairi",
-      "III Pinangsori",
-      "III Tarutung",
-      "II Brastagi",
-      "II Aceh Singkil"
     ]
   }
 ]
