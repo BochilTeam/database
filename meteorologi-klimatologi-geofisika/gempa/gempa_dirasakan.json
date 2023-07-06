@@ -1,13 +1,14 @@
 [
   {
-    "waktu": "08/07/2023 00:13:19 WIB",
+    "waktu": "07/07/2023 00:13:19 WIB",
     "lintang": "7.17 LS",
     "bujur": "129.62 BT",
     "magnitudo": "6",
     "kedalaman": "162 Km",
     "wilayah": "Pusat gempa berada di laut 207km BaratLaut Tanimbar",
     "warning": [
-      "III Saumlaki"
+      "III Saumlaki",
+      "III Dawera"
     ]
   },
   {
