@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07-07-23 00:13:19 WIB",
+    "lintang": "-7.17",
+    "bujur": "129.62",
+    "magnitudo": "6.0",
+    "kedalaman": "162 Km",
+    "wilayah": "207 km BaratLaut TANIBAR"
+  },
+  {
     "waktu": "03-07-23 09:51:38 WIB",
     "lintang": "-3.71",
     "bujur": "140.25",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "565 Km",
     "wilayah": "89 km TimurLaut ALOR-NTT"
-  },
-  {
-    "waktu": "14-05-23 12:17:48 WIB",
-    "lintang": "-9.23",
-    "bujur": "111.46",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "123 km Tenggara PACITAN-JATIM"
   }
 ]

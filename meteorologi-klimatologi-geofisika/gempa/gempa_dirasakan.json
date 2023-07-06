@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/07/2023 00:13:19 WIB",
+    "lintang": "7.17 LS",
+    "bujur": "129.62 BT",
+    "magnitudo": "6",
+    "kedalaman": "162 Km",
+    "wilayah": "Pusat gempa berada di laut 207km BaratLaut Tanimbar",
+    "warning": [
+      "III Saumlaki"
+    ]
+  },
+  {
     "waktu": "06/07/2023 04:43:22 WIB",
     "lintang": "0.62 LU",
     "bujur": "110 BT",
@@ -256,17 +267,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km Timur Laut Tapanuli Utara",
     "warning": [
       "III-IV Tarutung"
-    ]
-  },
-  {
-    "waktu": "27/06/2023 02:44:05 WIB",
-    "lintang": "0.33 LU",
-    "bujur": "115.29 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 95 km Tenggara Mahakam Ulu",
-    "warning": [
-      "II-III Mahakam Ulu"
     ]
   }
 ]
