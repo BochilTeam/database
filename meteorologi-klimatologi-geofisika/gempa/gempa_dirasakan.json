@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "06/07/2023 04:43:22 WIB",
+    "lintang": "0.62 LU",
+    "bujur": "110 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 102 km TimurLaut Pontianak",
+    "warning": [
+      "II Kab. Landak"
+    ]
+  },
+  {
     "waktu": "05/07/2023 14:31:29 WIB",
     "lintang": "2.41 LS",
     "bujur": "120.88 BT",
@@ -256,17 +267,6 @@
     "wilayah": "Pusat gempa berada di darat 95 km Tenggara Mahakam Ulu",
     "warning": [
       "II-III Mahakam Ulu"
-    ]
-  },
-  {
-    "waktu": "26/06/2023 22:08:39 WIB",
-    "lintang": "2.52 LS",
-    "bujur": "140.7 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km TimurLaut Kota Jayapura",
-    "warning": [
-      "III Kota Jayapura"
     ]
   }
 ]
