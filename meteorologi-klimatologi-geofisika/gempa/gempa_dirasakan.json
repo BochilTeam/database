@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "07/07/2023 11:25:08 WIB",
+    "lintang": "2.4 LS",
+    "bujur": "140.07 BT",
+    "magnitudo": "5",
+    "kedalaman": "28 Km",
+    "wilayah": "Pusat gempa berada di laut 42 km BaratLaut Kab. Jayapura",
+    "warning": [
+      "III Kota Jayapura",
+      "III Kab. Jayapura"
+    ]
+  },
+  {
     "waktu": "07/07/2023 00:13:19 WIB",
     "lintang": "7.17 LS",
     "bujur": "129.62 BT",
@@ -257,17 +269,6 @@
     "wilayah": "Pusat gempa berada di darat 2 km Tenggara TAPANULIUTARA",
     "warning": [
       "III Tarutung"
-    ]
-  },
-  {
-    "waktu": "27/06/2023 06:58:10 WIB",
-    "lintang": "2.03 LU",
-    "bujur": "99.01 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km Timur Laut Tapanuli Utara",
-    "warning": [
-      "III-IV Tarutung"
     ]
   }
 ]

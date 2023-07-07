@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07-07-23 11:25:08 WIB",
+    "lintang": "-2.40",
+    "bujur": "140.07",
+    "magnitudo": "5.0",
+    "kedalaman": "28 Km",
+    "wilayah": "42 km BaratLaut KAB-JAYAPURA-PAPUA"
+  },
+  {
     "waktu": "07-07-23 00:13:19 WIB",
     "lintang": "-7.17",
     "bujur": "129.62",
@@ -230,13 +238,5 @@
     "magnitudo": "5.9",
     "kedalaman": "109 Km",
     "wilayah": "60 km BaratDaya TERNATE-MALUT"
-  },
-  {
-    "waktu": "14-05-23 13:13:51 WIB",
-    "lintang": "-7.53",
-    "bujur": "124.80",
-    "magnitudo": "5.2",
-    "kedalaman": "565 Km",
-    "wilayah": "89 km TimurLaut ALOR-NTT"
   }
 ]
