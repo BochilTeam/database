@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/07/2023 07:35:10 WIB",
+    "lintang": "3.77 LS",
+    "bujur": "120.07 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 5km Timur Laut Siddenreng Rappang",
+    "warning": [
+      "III Wajo"
+    ]
+  },
+  {
     "waktu": "07/07/2023 11:25:08 WIB",
     "lintang": "2.4 LS",
     "bujur": "140.07 BT",
@@ -258,17 +269,6 @@
     "warning": [
       "II Banda Aceh",
       "II Sigli"
-    ]
-  },
-  {
-    "waktu": "27/06/2023 07:27:30 WIB",
-    "lintang": "2 LU",
-    "bujur": "98.98 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km Tenggara TAPANULIUTARA",
-    "warning": [
-      "III Tarutung"
     ]
   }
 ]
