@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09-07-23 21:09:06 WIB",
+    "lintang": "5.38",
+    "bujur": "94.77",
+    "magnitudo": "5.5",
+    "kedalaman": "24 Km",
+    "wilayah": "64 km BaratDaya BANDAACEH-ACEH"
+  },
+  {
     "waktu": "07-07-23 11:25:08 WIB",
     "lintang": "-2.40",
     "bujur": "140.07",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "235 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "14-05-23 22:32:21 WIB",
-    "lintang": "0.49",
-    "bujur": "126.90",
-    "magnitudo": "5.9",
-    "kedalaman": "109 Km",
-    "wilayah": "60 km BaratDaya TERNATE-MALUT"
   }
 ]

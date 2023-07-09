@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "09/07/2023 21:09:06 WIB",
+    "lintang": "5.38 LU",
+    "bujur": "94.77 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di laut 64 km Baratdaya Banda Aceh",
+    "warning": [
+      "III-IV Banda Aceh",
+      "III-IV Aceh Besar",
+      "III Calang",
+      "II-III Sabang",
+      "II-III Pidie Jaya",
+      "II-III Pidie"
+    ]
+  },
+  {
     "waktu": "09/07/2023 16:44:16 WIB",
     "lintang": "1.1 LU",
     "bujur": "121.28 BT",
@@ -257,17 +273,6 @@
     "warning": [
       "II-III Sumur",
       "II Munjul"
-    ]
-  },
-  {
-    "waktu": "27/06/2023 10:48:03 WIB",
-    "lintang": "8.37 LS",
-    "bujur": "108.92 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "32 Km",
-    "wilayah": "Pusat gempa berada di laut 72 km BaratDaya Cilacap",
-    "warning": [
-      "II Cilacap"
     ]
   }
 ]
