@@ -1,5 +1,35 @@
 [
   {
+    "waktu": "10/07/2023 09:18:18 WIB",
+    "lintang": "7.77 LS",
+    "bujur": "107.26 BT",
+    "magnitudo": "4",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di laut 88 Km Baratdaya Kabupaten Bandung",
+    "warning": [
+      "III Rancabuaya",
+      "III Pameungpeuk",
+      "III Cisompet",
+      "II Cikajang",
+      "II singajaya"
+    ]
+  },
+  {
+    "waktu": "10/07/2023 08:19:04 WIB",
+    "lintang": "3.65 LU",
+    "bujur": "95.84 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di laut 63 km Barat Daya Meulaboh",
+    "warning": [
+      "III Meulaboh",
+      "II-III Calang",
+      "I-II Banda Aceh",
+      "I-II Aceh Tengah",
+      "I-II Pidie"
+    ]
+  },
+  {
     "waktu": "09/07/2023 21:09:06 WIB",
     "lintang": "5.38 LU",
     "bujur": "94.77 BT",
@@ -250,29 +280,6 @@
     "wilayah": "Pusat gempa berada di laut 19 km Timur Laut Lafeu Kab.Morowali",
     "warning": [
       "II-III Bungku"
-    ]
-  },
-  {
-    "waktu": "27/06/2023 23:55:17 WIB",
-    "lintang": "7.35 LS",
-    "bujur": "130.22 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "123 Km",
-    "wilayah": "Pusat gempa berada di laut 139 km BaratLaut Tanibar",
-    "warning": [
-      "III Saumlaki"
-    ]
-  },
-  {
-    "waktu": "27/06/2023 20:32:59 WIB",
-    "lintang": "6.95 LS",
-    "bujur": "105.4 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 37 km BaratDaya Sumur",
-    "warning": [
-      "II-III Sumur",
-      "II Munjul"
     ]
   }
 ]
