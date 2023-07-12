@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/07/2023 00:12:03 WIB",
+    "lintang": "8.79 LS",
+    "bujur": "109.76 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada dilaut 117 km BaratDaya Kulon Progo",
+    "warning": [
+      "II Bantul"
+    ]
+  },
+  {
     "waktu": "12/07/2023 21:56:45 WIB",
     "lintang": "2.51 LS",
     "bujur": "140.69 BT",
@@ -268,18 +279,6 @@
       "II Denpasar",
       "II Sidoarjo",
       "II Surabaya"
-    ]
-  },
-  {
-    "waktu": "30/06/2023 17:37:31 WIB",
-    "lintang": "0.59 LS",
-    "bujur": "122.44 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada dilaut 103Km BaratLaut Banggai Kepulauan",
-    "warning": [
-      "III Luwuk",
-      "II Bungku"
     ]
   }
 ]
