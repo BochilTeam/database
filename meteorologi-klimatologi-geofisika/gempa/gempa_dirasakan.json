@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/07/2023 21:56:45 WIB",
+    "lintang": "2.51 LS",
+    "bujur": "140.69 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km BaratLaut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "12/07/2023 16:08:09 WIB",
     "lintang": "2.56 LS",
     "bujur": "140.61 BT",
@@ -269,17 +280,6 @@
     "warning": [
       "III Luwuk",
       "II Bungku"
-    ]
-  },
-  {
-    "waktu": "29/06/2023 17:57:56 WIB",
-    "lintang": "2.01 LU",
-    "bujur": "99.03 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km Tenggara Tapanuli Utara",
-    "warning": [
-      "III Sipoholon"
     ]
   }
 ]
