@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-07-23 15:39:35 WIB",
+    "lintang": "-10.01",
+    "bujur": "118.81",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "50 km BaratDaya KODI-SUMBABARATDAYA-NTT"
+  },
+  {
     "waktu": "10-07-23 08:19:04 WIB",
     "lintang": "3.65",
     "bujur": "95.84",
@@ -230,13 +238,5 @@
     "magnitudo": "6.2",
     "kedalaman": "221 Km",
     "wilayah": "203 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
-    "waktu": "24-05-23 07:44:07 WIB",
-    "lintang": "5.73",
-    "bujur": "124.26",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "272 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
