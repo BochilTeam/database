@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/07/2023 13:50:31 WIB",
+    "lintang": "2.93 LS",
+    "bujur": "119.42 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km tenggara Mamasa",
+    "warning": [
+      "II Mamasa"
+    ]
+  },
+  {
     "waktu": "10/07/2023 09:18:18 WIB",
     "lintang": "7.77 LS",
     "bujur": "107.26 BT",
@@ -269,17 +280,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km tenggara Jayapura",
     "warning": [
       "II Sentani"
-    ]
-  },
-  {
-    "waktu": "28/06/2023 12:03:52 WIB",
-    "lintang": "2.86 LS",
-    "bujur": "122.36 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di laut 19 km Timur Laut Lafeu Kab.Morowali",
-    "warning": [
-      "II-III Bungku"
     ]
   }
 ]
