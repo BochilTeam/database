@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/07/2023 06:26:41 WIB",
+    "lintang": "3.51 LS",
+    "bujur": "128.76 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 14 km Timur Laut Saparua-Maluku Tengah",
+    "warning": [
+      "II Saparua"
+    ]
+  },
+  {
     "waktu": "13/07/2023 00:12:03 WIB",
     "lintang": "8.79 LS",
     "bujur": "109.76 BT",
@@ -230,55 +241,6 @@
       "III Kab. Bima",
       "II Sumbawa",
       "II Sumbawa Barat"
-    ]
-  },
-  {
-    "waktu": "30/06/2023 19:57:43 WIB",
-    "lintang": "8.63 LS",
-    "bujur": "110.08 BT",
-    "magnitudo": "6.4",
-    "kedalaman": "25 Km",
-    "wilayah": "Pusat gempa berada di Laut 86 Km BaratDaya Bantul",
-    "warning": [
-      "III Purwokerto",
-      "III Demak",
-      "III Mojokerto",
-      "III Banjarnegara",
-      "III Purbalingga",
-      "III Madiun",
-      "III-IV Purworejo",
-      "III-IV Sleman",
-      "III-IV Kota Yogyakarta",
-      "III-IV Wonogiri",
-      "III-IV Kulonprogo",
-      "III-IV Kediri",
-      "III-IV Karangkates",
-      "IV Cilacap",
-      "IV Nganjuk",
-      "IV Kebumen",
-      "IV Ponorogo",
-      "IV Klaten",
-      "III Pacitan",
-      "III Gresik",
-      "III Jepara",
-      "III Blitar",
-      "III Solo",
-      "III Garut",
-      "III Pangandaran",
-      "II-III Bandung",
-      "II-III Lumajang",
-      "II-III Ngawi",
-      "II-III Trenggalek",
-      "II-III Pacitan",
-      "II-III Tulungagung",
-      "II-III Blora",
-      "II-III Indramayu",
-      "II Sumedang",
-      "II Malang",
-      "II Salatiga",
-      "II Denpasar",
-      "II Sidoarjo",
-      "II Surabaya"
     ]
   }
 ]
