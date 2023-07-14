@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "14/07/2023 20:30:13 WIB",
+    "lintang": "8.6 LS",
+    "bujur": "110.1 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 82 km Barat Daya Bantul",
+    "warning": [
+      "II Wonosari",
+      "II Imogiri",
+      "II Pacitan"
+    ]
+  },
+  {
     "waktu": "13/07/2023 06:26:41 WIB",
     "lintang": "3.51 LS",
     "bujur": "128.76 BT",
@@ -228,19 +241,6 @@
       "III Mataram",
       "III Lombok Barat",
       "II - III Lombok Utara"
-    ]
-  },
-  {
-    "waktu": "02/07/2023 01:44:18 WIB",
-    "lintang": "7.89 LS",
-    "bujur": "117.66 BT",
-    "magnitudo": "5",
-    "kedalaman": "31 Km",
-    "wilayah": "Pusat gempa berada di laut 71 km Timur Laut Sumbawa",
-    "warning": [
-      "III Kab. Bima",
-      "II Sumbawa",
-      "II Sumbawa Barat"
     ]
   }
 ]
