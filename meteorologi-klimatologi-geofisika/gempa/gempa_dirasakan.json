@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/07/2023 08:13:41 WIB",
+    "lintang": "1.44 LS",
+    "bujur": "126.36 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 79 km timur laut Sanana",
+    "warning": [
+      "II-III Sanana"
+    ]
+  },
+  {
     "waktu": "14/07/2023 20:30:13 WIB",
     "lintang": "8.6 LS",
     "bujur": "110.1 BT",
@@ -228,19 +239,6 @@
     "warning": [
       "III Ransiki",
       "III Oransbari"
-    ]
-  },
-  {
-    "waktu": "02/07/2023 07:57:11 WIB",
-    "lintang": "8.55 LS",
-    "bujur": "115.87 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di laut 33 km BaratLaut Lombok Barat",
-    "warning": [
-      "III Mataram",
-      "III Lombok Barat",
-      "II - III Lombok Utara"
     ]
   }
 ]
