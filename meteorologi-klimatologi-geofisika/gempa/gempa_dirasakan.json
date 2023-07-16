@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/07/2023 02:38:00 WIB",
+    "lintang": "2.33 LS",
+    "bujur": "121.14 BT",
+    "magnitudo": "4",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 28 km baratlaut Luwu Timur",
+    "warning": [
+      "III Malili"
+    ]
+  },
+  {
     "waktu": "16/07/2023 08:13:41 WIB",
     "lintang": "1.44 LS",
     "bujur": "126.36 BT",
@@ -227,18 +238,6 @@
     "wilayah": "Pusat gempa berada di darat 9 km timur Morowali Utara",
     "warning": [
       "II - III Petasia"
-    ]
-  },
-  {
-    "waktu": "02/07/2023 18:40:28 WIB",
-    "lintang": "1.74 LS",
-    "bujur": "133.87 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "43 Km",
-    "wilayah": "Pusat gempa berada di darat 43 km BaratDaya Ransiki",
-    "warning": [
-      "III Ransiki",
-      "III Oransbari"
     ]
   }
 ]
