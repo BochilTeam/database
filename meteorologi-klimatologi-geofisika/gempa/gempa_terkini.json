@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-07-23 16:46:36 WIB",
+    "lintang": "-1.44",
+    "bujur": "126.41",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "80 km TimurLaut SANANA-MALUT"
+  },
+  {
     "waktu": "17-07-23 11:42:16 WIB",
     "lintang": "-1.46",
     "bujur": "126.42",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "157 Km",
     "wilayah": "227 km BaratLaut MALUKUTENGGARABRT"
-  },
-  {
-    "waktu": "25-05-23 02:57:22 WIB",
-    "lintang": "-9.63",
-    "bujur": "114.92",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "98 km BaratDaya KUTASELATAN-BALI"
   }
 ]
