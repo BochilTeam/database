@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-07-23 22:35:27 WIB",
+    "lintang": "5.69",
+    "bujur": "124.14",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "275 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
     "waktu": "17-07-23 16:46:36 WIB",
     "lintang": "-1.44",
     "bujur": "126.41",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "167 km BaratLaut KEP-MENTAWAI-SUMBAR"
-  },
-  {
-    "waktu": "28-05-23 02:36:36 WIB",
-    "lintang": "-6.08",
-    "bujur": "130.53",
-    "magnitudo": "5.5",
-    "kedalaman": "157 Km",
-    "wilayah": "227 km BaratLaut MALUKUTENGGARABRT"
   }
 ]
