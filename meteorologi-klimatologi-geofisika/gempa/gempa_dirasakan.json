@@ -1,5 +1,32 @@
 [
   {
+    "waktu": "17/07/2023 11:42:16 WIB",
+    "lintang": "1.46 LS",
+    "bujur": "126.42 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 79 km TimurLaut Sanana",
+    "warning": [
+      "III - IV Sanana",
+      "III Falabisahaya",
+      "II - III Labuha",
+      "II - III Bobong"
+    ]
+  },
+  {
+    "waktu": "17/07/2023 11:07:27 WIB",
+    "lintang": "2.34 LS",
+    "bujur": "140.09 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di darat 29 km BaratLaut Genyem-Jayapura",
+    "warning": [
+      "III Kab. Jayapura",
+      "III Kota Jayapura",
+      "II Kab. Keerom"
+    ]
+  },
+  {
     "waktu": "17/07/2023 05:41:35 WIB",
     "lintang": "2.53 LS",
     "bujur": "140.6 BT",
@@ -214,30 +241,6 @@
       "III Tomoni",
       "III Kalaena",
       "III Malili"
-    ]
-  },
-  {
-    "waktu": "04/07/2023 20:57:01 WIB",
-    "lintang": "3.87 LS",
-    "bujur": "102.38 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km BaratDaya Bengkulu Tengah",
-    "warning": [
-      "II-III Kota Bengkulu",
-      "II-III Kepahiang"
-    ]
-  },
-  {
-    "waktu": "03/07/2023 09:51:38 WIB",
-    "lintang": "3.71 LS",
-    "bujur": "140.25 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "33 Km",
-    "wilayah": "Pusat gempa berada di darat 69 km Barat Daya Keerom",
-    "warning": [
-      "III Wamena",
-      "II - III Jayapura"
     ]
   }
 ]
