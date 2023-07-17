@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/07/2023 19:37:25 WIB",
+    "lintang": "0.38 LS",
+    "bujur": "123.57 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "48 Km",
+    "wilayah": "Pusat gempa berada di laut 96 km BaratDaya Bolaanguki",
+    "warning": [
+      "II - III Luwuk"
+    ]
+  },
+  {
     "waktu": "17/07/2023 16:46:36 WIB",
     "lintang": "1.44 LS",
     "bujur": "126.41 BT",
@@ -228,17 +239,6 @@
     "warning": [
       "III Saumlaki",
       "III Dawera"
-    ]
-  },
-  {
-    "waktu": "06/07/2023 04:43:22 WIB",
-    "lintang": "0.62 LU",
-    "bujur": "110 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 102 km TimurLaut Pontianak",
-    "warning": [
-      "II Kab. Landak"
     ]
   }
 ]
