@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "18/07/2023 11:07:24 WIB",
+    "lintang": "7.97 LS",
+    "bujur": "116.68 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di Laut 58 km BaratLaut Pulau Panjang",
+    "warning": [
+      "III Lombok Timur",
+      "III Lombok Utara",
+      "III Sumbawa Barat",
+      "II Mataram",
+      "II Sumbawa"
+    ]
+  },
+  {
     "waktu": "17/07/2023 19:37:25 WIB",
     "lintang": "0.38 LS",
     "bujur": "123.57 BT",
@@ -227,18 +242,6 @@
     "warning": [
       "III Kota Jayapura",
       "III Kab. Jayapura"
-    ]
-  },
-  {
-    "waktu": "07/07/2023 00:13:19 WIB",
-    "lintang": "7.17 LS",
-    "bujur": "129.62 BT",
-    "magnitudo": "6",
-    "kedalaman": "162 Km",
-    "wilayah": "Pusat gempa berada di laut 207km BaratLaut Tanimbar",
-    "warning": [
-      "III Saumlaki",
-      "III Dawera"
     ]
   }
 ]
