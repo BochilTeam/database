@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "19/07/2023 22:18:49 WIB",
+    "lintang": "3.06 LS",
+    "bujur": "139.99 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di darat 70 km Barat Daya Kab.Jayapura",
+    "warning": [
+      "III Kab. Jayapura"
+    ]
+  },
+  {
     "waktu": "19/07/2023 17:47:53 WIB",
     "lintang": "2.38 LS",
     "bujur": "122.71 BT",
@@ -231,17 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 16 km Baratlaut Buol",
     "warning": [
       "II-III Toli-Toli"
-    ]
-  },
-  {
-    "waktu": "09/07/2023 07:35:10 WIB",
-    "lintang": "3.77 LS",
-    "bujur": "120.07 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 5km Timur Laut Siddenreng Rappang",
-    "warning": [
-      "III Wajo"
     ]
   }
 ]
