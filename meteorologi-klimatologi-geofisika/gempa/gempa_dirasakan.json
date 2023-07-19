@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/07/2023 00:12:08 WIB",
+    "lintang": "2.47 LS",
+    "bujur": "140.69 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km BaratLaut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "19/07/2023 22:18:49 WIB",
     "lintang": "3.06 LS",
     "bujur": "139.99 BT",
@@ -231,17 +242,6 @@
       "II-III Sabang",
       "II-III Pidie Jaya",
       "II-III Pidie"
-    ]
-  },
-  {
-    "waktu": "09/07/2023 16:44:16 WIB",
-    "lintang": "1.1 LU",
-    "bujur": "121.28 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "51 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km Baratlaut Buol",
-    "warning": [
-      "II-III Toli-Toli"
     ]
   }
 ]
