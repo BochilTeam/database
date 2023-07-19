@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19-07-23 17:47:53 WIB",
+    "lintang": "-2.38",
+    "bujur": "122.71",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "96 km TimurLaut MOROWALI-SULTENG"
+  },
+  {
     "waktu": "17-07-23 22:35:27 WIB",
     "lintang": "5.69",
     "bujur": "124.14",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "95 Km",
     "wilayah": "18 km TimurLaut AMBON-MALUKU"
-  },
-  {
-    "waktu": "31-05-23 07:58:38 WIB",
-    "lintang": "-1.05",
-    "bujur": "98.40",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "167 km BaratLaut KEP-MENTAWAI-SUMBAR"
   }
 ]

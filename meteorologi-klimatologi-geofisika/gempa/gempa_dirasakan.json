@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "19/07/2023 17:47:53 WIB",
+    "lintang": "2.38 LS",
+    "bujur": "122.71 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 96 km TimurLaut Morowali",
+    "warning": [
+      "III Bahodopi",
+      "III Bungku"
+    ]
+  },
+  {
     "waktu": "18/07/2023 11:07:24 WIB",
     "lintang": "7.97 LS",
     "bujur": "116.68 BT",
@@ -230,18 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 5km Timur Laut Siddenreng Rappang",
     "warning": [
       "III Wajo"
-    ]
-  },
-  {
-    "waktu": "07/07/2023 11:25:08 WIB",
-    "lintang": "2.4 LS",
-    "bujur": "140.07 BT",
-    "magnitudo": "5",
-    "kedalaman": "28 Km",
-    "wilayah": "Pusat gempa berada di laut 42 km BaratLaut Kab. Jayapura",
-    "warning": [
-      "III Kota Jayapura",
-      "III Kab. Jayapura"
     ]
   }
 ]
