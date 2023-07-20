@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/07/2023 03:32:23 WIB",
+    "lintang": "1.23 LS",
+    "bujur": "134.41 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 40 km Timur Laut Ransiki",
+    "warning": [
+      "III Ransiki"
+    ]
+  },
+  {
     "waktu": "20/07/2023 10:31:35 WIB",
     "lintang": "1.47 LS",
     "bujur": "126.38 BT",
@@ -218,21 +229,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km tenggara Mamasa",
     "warning": [
       "II Mamasa"
-    ]
-  },
-  {
-    "waktu": "10/07/2023 09:18:18 WIB",
-    "lintang": "7.77 LS",
-    "bujur": "107.26 BT",
-    "magnitudo": "4",
-    "kedalaman": "26 Km",
-    "wilayah": "Pusat gempa berada di laut 88 Km Baratdaya Kabupaten Bandung",
-    "warning": [
-      "III Rancabuaya",
-      "III Pameungpeuk",
-      "III Cisompet",
-      "II Cikajang",
-      "II singajaya"
     ]
   }
 ]
