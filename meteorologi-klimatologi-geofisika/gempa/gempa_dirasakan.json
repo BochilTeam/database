@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/07/2023 05:41:15 WIB",
+    "lintang": "2.05 LU",
+    "bujur": "98.95 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km BaratLaut Tapanuli Utara",
+    "warning": [
+      "III Sipoholon"
+    ]
+  },
+  {
     "waktu": "20/07/2023 00:12:08 WIB",
     "lintang": "2.47 LS",
     "bujur": "140.69 BT",
@@ -226,22 +237,6 @@
       "I-II Banda Aceh",
       "I-II Aceh Tengah",
       "I-II Pidie"
-    ]
-  },
-  {
-    "waktu": "09/07/2023 21:09:06 WIB",
-    "lintang": "5.38 LU",
-    "bujur": "94.77 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada di laut 64 km Baratdaya Banda Aceh",
-    "warning": [
-      "III-IV Banda Aceh",
-      "III-IV Aceh Besar",
-      "III Calang",
-      "II-III Sabang",
-      "II-III Pidie Jaya",
-      "II-III Pidie"
     ]
   }
 ]

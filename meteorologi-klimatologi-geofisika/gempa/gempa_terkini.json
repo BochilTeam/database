@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20-07-23 06:08:08 WIB",
+    "lintang": "3.04",
+    "bujur": "128.36",
+    "magnitudo": "5.4",
+    "kedalaman": "199 Km",
+    "wilayah": "105 km TimurLaut PULAUDOI-MALUT"
+  },
+  {
     "waktu": "19-07-23 22:18:49 WIB",
     "lintang": "-3.06",
     "bujur": "139.99",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 Km",
     "wilayah": "58 km BaratDaya MAMBERAMORAYA-PAPUA"
-  },
-  {
-    "waktu": "04-06-23 07:25:10 WIB",
-    "lintang": "-6.84",
-    "bujur": "130.49",
-    "magnitudo": "6.0",
-    "kedalaman": "153 Km",
-    "wilayah": "154 km BaratLaut MALUKUTENGGARABRT"
   }
 ]
