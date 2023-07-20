@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20-07-23 10:31:35 WIB",
+    "lintang": "-1.47",
+    "bujur": "126.38",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "75 km TimurLaut SANANA-MALUT"
+  },
+  {
     "waktu": "20-07-23 06:08:08 WIB",
     "lintang": "3.04",
     "bujur": "128.36",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "111 Km",
     "wilayah": "69 km TimurLaut BITUNG-SULUT"
-  },
-  {
-    "waktu": "04-06-23 12:52:04 WIB",
-    "lintang": "-2.87",
-    "bujur": "137.36",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "58 km BaratDaya MAMBERAMORAYA-PAPUA"
   }
 ]

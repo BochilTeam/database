@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/07/2023 10:31:35 WIB",
+    "lintang": "1.47 LS",
+    "bujur": "126.38 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 78 km Timur Laut Sanana",
+    "warning": [
+      "II Sanana"
+    ]
+  },
+  {
     "waktu": "20/07/2023 05:41:15 WIB",
     "lintang": "2.05 LU",
     "bujur": "98.95 BT",
@@ -222,21 +233,6 @@
       "III Cisompet",
       "II Cikajang",
       "II singajaya"
-    ]
-  },
-  {
-    "waktu": "10/07/2023 08:19:04 WIB",
-    "lintang": "3.65 LU",
-    "bujur": "95.84 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada di laut 63 km Barat Daya Meulaboh",
-    "warning": [
-      "III Meulaboh",
-      "II-III Calang",
-      "I-II Banda Aceh",
-      "I-II Aceh Tengah",
-      "I-II Pidie"
     ]
   }
 ]
