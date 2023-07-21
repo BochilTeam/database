@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/07/2023 15:10:15 WIB",
+    "lintang": "8.38 LS",
+    "bujur": "119.74 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "136 Km",
+    "wilayah": "Pusat gempa berada di laut 21 km BaratLaut Labuan Bajo",
+    "warning": [
+      "II-III Ruteng"
+    ]
+  },
+  {
     "waktu": "21/07/2023 10:40:23 WIB",
     "lintang": "5.18 LS",
     "bujur": "102.15 BT",
@@ -219,17 +230,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km BaratLaut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "12/07/2023 16:08:09 WIB",
-    "lintang": "2.56 LS",
-    "bujur": "140.61 BT",
-    "magnitudo": "3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km barat laut Kota Jayapura",
-    "warning": [
-      "III Kota Jayapura"
     ]
   }
 ]
