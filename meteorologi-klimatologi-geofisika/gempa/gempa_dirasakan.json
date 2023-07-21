@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "21/07/2023 10:40:23 WIB",
+    "lintang": "5.18 LS",
+    "bujur": "102.15 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 22 km BaratLaut Enggano",
+    "warning": [
+      "II - III Enggano",
+      "II Kota Bengkulu"
+    ]
+  },
+  {
     "waktu": "21/07/2023 03:32:23 WIB",
     "lintang": "1.23 LS",
     "bujur": "134.41 BT",
@@ -218,17 +230,6 @@
     "wilayah": "Pusat gempa berada di darat 9 km barat laut Kota Jayapura",
     "warning": [
       "III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "12/07/2023 13:50:31 WIB",
-    "lintang": "2.93 LS",
-    "bujur": "119.42 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km tenggara Mamasa",
-    "warning": [
-      "II Mamasa"
     ]
   }
 ]
