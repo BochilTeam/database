@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "22/07/2023 13:20:24 WIB",
+    "lintang": "1.69 LS",
+    "bujur": "120.43 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 20 km timur Doda",
+    "warning": [
+      "III Tentena",
+      "II - III Poso"
+    ]
+  },
+  {
+    "waktu": "22/07/2023 13:19:44 WIB",
+    "lintang": "1.68 LS",
+    "bujur": "120.45 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km timur Doda",
+    "warning": [
+      "III Tentena",
+      "II - III Poso"
+    ]
+  },
+  {
     "waktu": "22/07/2023 05:41:40 WIB",
     "lintang": "8.1 LS",
     "bujur": "107.5 BT",
@@ -218,28 +242,6 @@
       "II Wonosari",
       "II Imogiri",
       "II Pacitan"
-    ]
-  },
-  {
-    "waktu": "13/07/2023 06:26:41 WIB",
-    "lintang": "3.51 LS",
-    "bujur": "128.76 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 14 km Timur Laut Saparua-Maluku Tengah",
-    "warning": [
-      "II Saparua"
-    ]
-  },
-  {
-    "waktu": "13/07/2023 00:12:03 WIB",
-    "lintang": "8.79 LS",
-    "bujur": "109.76 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada dilaut 117 km BaratDaya Kulon Progo",
-    "warning": [
-      "II Bantul"
     ]
   }
 ]
