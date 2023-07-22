@@ -1,5 +1,26 @@
 [
   {
+    "waktu": "22/07/2023 05:41:40 WIB",
+    "lintang": "8.1 LS",
+    "bujur": "107.5 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 106 km BaratDaya Kab Tasikmalaya",
+    "warning": [
+      "III Pameungpeuk",
+      "III Cijulang",
+      "III Banjaran",
+      "III Cikelet",
+      "III Cidaun",
+      "III Ciamis",
+      "II - III Cimerak",
+      "II - III Parigi",
+      "II Kertasari",
+      "II Pangalengan",
+      "II Cipamingkis"
+    ]
+  },
+  {
     "waktu": "21/07/2023 15:10:15 WIB",
     "lintang": "8.38 LS",
     "bujur": "119.74 BT",
@@ -219,17 +240,6 @@
     "wilayah": "Pusat gempa berada dilaut 117 km BaratDaya Kulon Progo",
     "warning": [
       "II Bantul"
-    ]
-  },
-  {
-    "waktu": "12/07/2023 21:56:45 WIB",
-    "lintang": "2.51 LS",
-    "bujur": "140.69 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km BaratLaut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
