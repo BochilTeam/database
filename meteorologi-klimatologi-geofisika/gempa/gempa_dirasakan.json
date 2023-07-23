@@ -1,5 +1,34 @@
 [
   {
+    "waktu": "23/07/2023 19:33:25 WIB",
+    "lintang": "8.94 LS",
+    "bujur": "111.04 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 84 km BaratDaya Pacitan-Jatim",
+    "warning": [
+      "IV Ponorogo",
+      "III Bantul",
+      "III Pacitan",
+      "III Purworejo",
+      "III Blitar",
+      "II-III Klaten",
+      "II-III Wonosobo",
+      "II-III Banjarnegara",
+      "II-III Magelang",
+      "II-III Kepanjen",
+      "II-III Karangkates",
+      "II Malang",
+      "II Kediri",
+      "II Sukoharjo",
+      "III Yogyakarta",
+      "II Pangandaran",
+      "II Ciamis",
+      "II Banjar",
+      "III Nganjuk"
+    ]
+  },
+  {
     "waktu": "23/07/2023 03:27:35 WIB",
     "lintang": "1.96 LS",
     "bujur": "99.93 BT",
@@ -229,17 +258,6 @@
     "wilayah": "Pusat gempa berada di darat 28 km baratlaut Luwu Timur",
     "warning": [
       "III Malili"
-    ]
-  },
-  {
-    "waktu": "16/07/2023 08:13:41 WIB",
-    "lintang": "1.44 LS",
-    "bujur": "126.36 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di laut 79 km timur laut Sanana",
-    "warning": [
-      "II-III Sanana"
     ]
   }
 ]

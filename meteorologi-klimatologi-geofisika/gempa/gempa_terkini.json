@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23-07-23 19:33:25 WIB",
+    "lintang": "-8.94",
+    "bujur": "111.04",
+    "magnitudo": "5.7",
+    "kedalaman": "10 Km",
+    "wilayah": "84 km BaratDaya PACITAN-JATIM"
+  },
+  {
     "waktu": "20-07-23 10:31:35 WIB",
     "lintang": "-1.47",
     "bujur": "126.38",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "50 km BaratDaya KODI-SUMBABARATDAYA-NTT"
-  },
-  {
-    "waktu": "04-06-23 21:55:28 WIB",
-    "lintang": "1.60",
-    "bujur": "125.73",
-    "magnitudo": "5.1",
-    "kedalaman": "111 Km",
-    "wilayah": "69 km TimurLaut BITUNG-SULUT"
   }
 ]
