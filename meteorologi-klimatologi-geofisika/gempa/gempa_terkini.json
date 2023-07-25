@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25-07-23 07:25:12 WIB",
+    "lintang": "-9.26",
+    "bujur": "123.95",
+    "magnitudo": "6.0",
+    "kedalaman": "75 Km",
+    "wilayah": "74 km BaratLaut TIMORTENGAHUT-NTT"
+  },
+  {
     "waktu": "23-07-23 19:33:25 WIB",
     "lintang": "-8.94",
     "bujur": "111.04",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "126 km Tenggara KOTA-SUKABUMI-JABAR"
-  },
-  {
-    "waktu": "05-06-23 20:08:49 WIB",
-    "lintang": "-10.02",
-    "bujur": "118.84",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "50 km BaratDaya KODI-SUMBABARATDAYA-NTT"
   }
 ]

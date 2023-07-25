@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "25/07/2023 07:25:12 WIB",
+    "lintang": "9.26 LS",
+    "bujur": "123.95 BT",
+    "magnitudo": "6",
+    "kedalaman": "75 Km",
+    "wilayah": "Pusat gempa berada dilaut 74 km BaratLaut TimorTengah Utara",
+    "warning": [
+      "II-III Alor",
+      "II-III Maumere",
+      "III Lembata",
+      "II-III Larantuka",
+      "II-III Waingapu",
+      "II Kupang",
+      "II Ende",
+      "II-III Kefa",
+      "II-III Soe",
+      "II Atambua"
+    ]
+  },
+  {
+    "waktu": "25/07/2023 05:10:51 WIB",
+    "lintang": "1.27 LU",
+    "bujur": "122.63 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada dilaut 59 km BaratLaut Gorontalo Utara",
+    "warning": [
+      "II Gorontalo",
+      "II Kabupaten Gorontalo"
+    ]
+  },
+  {
     "waktu": "23/07/2023 19:33:25 WIB",
     "lintang": "8.94 LS",
     "bujur": "111.04 BT",
@@ -236,28 +268,6 @@
       "III Kab. Jayapura",
       "III Kota Jayapura",
       "II Kab. Keerom"
-    ]
-  },
-  {
-    "waktu": "17/07/2023 05:41:35 WIB",
-    "lintang": "2.53 LS",
-    "bujur": "140.6 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km barat laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "17/07/2023 02:38:00 WIB",
-    "lintang": "2.33 LS",
-    "bujur": "121.14 BT",
-    "magnitudo": "4",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 28 km baratlaut Luwu Timur",
-    "warning": [
-      "III Malili"
     ]
   }
 ]
