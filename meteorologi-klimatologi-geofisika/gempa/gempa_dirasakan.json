@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/07/2023 10:04:40 WIB",
+    "lintang": "4.97 LU",
+    "bujur": "95.99 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 32 km BaratDaya Kab. Pidie Jaya",
+    "warning": [
+      "II Tangse"
+    ]
+  },
+  {
     "waktu": "25/07/2023 07:25:12 WIB",
     "lintang": "9.26 LS",
     "bujur": "123.95 BT",
@@ -255,19 +266,6 @@
       "III Falabisahaya",
       "II - III Labuha",
       "II - III Bobong"
-    ]
-  },
-  {
-    "waktu": "17/07/2023 11:07:27 WIB",
-    "lintang": "2.34 LS",
-    "bujur": "140.09 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di darat 29 km BaratLaut Genyem-Jayapura",
-    "warning": [
-      "III Kab. Jayapura",
-      "III Kota Jayapura",
-      "II Kab. Keerom"
     ]
   }
 ]
