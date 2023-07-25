@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25-07-23 22:35:04 WIB",
+    "lintang": "2.40",
+    "bujur": "126.91",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "97 km BaratLaut PULAUDOI-MALUT"
+  },
+  {
     "waktu": "25-07-23 07:25:12 WIB",
     "lintang": "-9.26",
     "bujur": "123.95",
@@ -230,13 +238,5 @@
     "magnitudo": "6.0",
     "kedalaman": "10 Km",
     "wilayah": "117 km BaratDaya PACITAN-JATIM"
-  },
-  {
-    "waktu": "06-06-23 14:23:04 WIB",
-    "lintang": "-8.05",
-    "bujur": "107.01",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "126 km Tenggara KOTA-SUKABUMI-JABAR"
   }
 ]
