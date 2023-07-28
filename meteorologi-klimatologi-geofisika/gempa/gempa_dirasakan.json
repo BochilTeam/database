@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/07/2023 06:49:51 WIB",
+    "lintang": "2.96 LS",
+    "bujur": "119.36 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km tenggara Mamasa",
+    "warning": [
+      "II-III Kab. Mamasa"
+    ]
+  },
+  {
     "waktu": "26/07/2023 19:31:29 WIB",
     "lintang": "8.13 LS",
     "bujur": "107.9 BT",
@@ -254,17 +265,6 @@
       "III Sumbawa Barat",
       "II Mataram",
       "II Sumbawa"
-    ]
-  },
-  {
-    "waktu": "17/07/2023 19:37:25 WIB",
-    "lintang": "0.38 LS",
-    "bujur": "123.57 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "48 Km",
-    "wilayah": "Pusat gempa berada di laut 96 km BaratDaya Bolaanguki",
-    "warning": [
-      "II - III Luwuk"
     ]
   }
 ]
