@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "29-07-23 18:19:11 WIB",
+    "lintang": "1.40",
+    "bujur": "128.31",
+    "magnitudo": "5.0",
+    "kedalaman": "51 Km",
+    "wilayah": "21 km BaratLaut HALMAHERATIMUR-MALUT"
+  },
+  {
     "waktu": "25-07-23 22:35:04 WIB",
     "lintang": "2.40",
     "bujur": "126.91",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "121 Km",
     "wilayah": "64 km BaratDaya BONEBOLANGO-GORONTALO"
-  },
-  {
-    "waktu": "08-06-23 00:04:55 WIB",
-    "lintang": "-9.15",
-    "bujur": "110.69",
-    "magnitudo": "6.0",
-    "kedalaman": "10 Km",
-    "wilayah": "117 km BaratDaya PACITAN-JATIM"
   }
 ]

@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "29/07/2023 18:19:11 WIB",
+    "lintang": "1.4 LU",
+    "bujur": "128.31 BT",
+    "magnitudo": "5",
+    "kedalaman": "51 Km",
+    "wilayah": "Pusat gempa berada di laut 21 km BaratLaut Halmahera Timur",
+    "warning": [
+      "III Morotai Selatan",
+      "II-III Halmahera Timur",
+      "II Halmahera Utara"
+    ]
+  },
+  {
     "waktu": "28/07/2023 06:49:51 WIB",
     "lintang": "2.96 LS",
     "bujur": "119.36 BT",
@@ -250,21 +263,6 @@
     "warning": [
       "III Bahodopi",
       "III Bungku"
-    ]
-  },
-  {
-    "waktu": "18/07/2023 11:07:24 WIB",
-    "lintang": "7.97 LS",
-    "bujur": "116.68 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di Laut 58 km BaratLaut Pulau Panjang",
-    "warning": [
-      "III Lombok Timur",
-      "III Lombok Utara",
-      "III Sumbawa Barat",
-      "II Mataram",
-      "II Sumbawa"
     ]
   }
 ]
