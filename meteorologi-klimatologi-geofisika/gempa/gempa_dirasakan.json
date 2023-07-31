@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "31/07/2023 20:50:25 WIB",
+    "lintang": "3.71 LS",
+    "bujur": "133.71 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 9 km BaratDaya Kaimana",
+    "warning": [
+      "II Kaimana"
+    ]
+  },
+  {
     "waktu": "31/07/2023 18:55:45 WIB",
     "lintang": "3.69 LS",
     "bujur": "133.69 BT",
@@ -251,17 +262,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km BaratLaut Kota Jayapura",
     "warning": [
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "19/07/2023 22:18:49 WIB",
-    "lintang": "3.06 LS",
-    "bujur": "139.99 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di darat 70 km Barat Daya Kab.Jayapura",
-    "warning": [
-      "III Kab. Jayapura"
     ]
   }
 ]
