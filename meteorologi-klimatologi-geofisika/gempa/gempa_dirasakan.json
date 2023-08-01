@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/08/2023 11:13:32 WIB",
+    "lintang": "3.62 LS",
+    "bujur": "133.68 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 7 km Barat Laut Kaimana",
+    "warning": [
+      "III Kaimana"
+    ]
+  },
+  {
     "waktu": "01/08/2023 10:41:38 WIB",
     "lintang": "3.73 LS",
     "bujur": "133.71 BT",
@@ -251,17 +262,6 @@
     "wilayah": "Pusat gempa berada di laut 40 km Timur Laut Ransiki",
     "warning": [
       "III Ransiki"
-    ]
-  },
-  {
-    "waktu": "20/07/2023 10:31:35 WIB",
-    "lintang": "1.47 LS",
-    "bujur": "126.38 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 78 km Timur Laut Sanana",
-    "warning": [
-      "II Sanana"
     ]
   }
 ]
