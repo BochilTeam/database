@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/08/2023 02:21:32 WIB",
+    "lintang": "2.72 LS",
+    "bujur": "134.51 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 0 km TimurLaut Teluk Wondama",
+    "warning": [
+      "II Teluk Wondama"
+    ]
+  },
+  {
     "waktu": "01/08/2023 11:13:32 WIB",
     "lintang": "3.62 LS",
     "bujur": "133.68 BT",
@@ -251,17 +262,6 @@
     "warning": [
       "II - III Enggano",
       "II Kota Bengkulu"
-    ]
-  },
-  {
-    "waktu": "21/07/2023 03:32:23 WIB",
-    "lintang": "1.23 LS",
-    "bujur": "134.41 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 40 km Timur Laut Ransiki",
-    "warning": [
-      "III Ransiki"
     ]
   }
 ]
