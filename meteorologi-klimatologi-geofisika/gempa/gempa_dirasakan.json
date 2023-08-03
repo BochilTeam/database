@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/08/2023 06:47:19 WIB",
+    "lintang": "8.13 LS",
+    "bujur": "120.55 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di Laut 54 km TimurLaut Ruteng",
+    "warning": [
+      "II Ruteng"
+    ]
+  },
+  {
     "waktu": "03/08/2023 02:21:32 WIB",
     "lintang": "2.72 LS",
     "bujur": "134.51 BT",
@@ -250,18 +261,6 @@
     "wilayah": "Pusat gempa berada di laut 21 km BaratLaut Labuan Bajo",
     "warning": [
       "II-III Ruteng"
-    ]
-  },
-  {
-    "waktu": "21/07/2023 10:40:23 WIB",
-    "lintang": "5.18 LS",
-    "bujur": "102.15 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 22 km BaratLaut Enggano",
-    "warning": [
-      "II - III Enggano",
-      "II Kota Bengkulu"
     ]
   }
 ]
