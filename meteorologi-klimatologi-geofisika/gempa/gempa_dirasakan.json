@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "03/08/2023 14:41:46 WIB",
+    "lintang": "8.27 LS",
+    "bujur": "116.49 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 38 TimurLaut Lombok Utara",
+    "warning": [
+      "III Lombok Utara",
+      "III Lombok Timur",
+      "III Mataram",
+      "II-III Lombok Barat"
+    ]
+  },
+  {
     "waktu": "03/08/2023 09:52:04 WIB",
     "lintang": "2.04 LU",
     "bujur": "98.89 BT",
@@ -240,27 +254,6 @@
     "warning": [
       "III Tentena",
       "II - III Poso"
-    ]
-  },
-  {
-    "waktu": "22/07/2023 05:41:40 WIB",
-    "lintang": "8.1 LS",
-    "bujur": "107.5 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di laut 106 km BaratDaya Kab Tasikmalaya",
-    "warning": [
-      "III Pameungpeuk",
-      "III Cijulang",
-      "III Banjaran",
-      "III Cikelet",
-      "III Cidaun",
-      "III Ciamis",
-      "II - III Cimerak",
-      "II - III Parigi",
-      "II Kertasari",
-      "II Pangalengan",
-      "II Cipamingkis"
     ]
   }
 ]
