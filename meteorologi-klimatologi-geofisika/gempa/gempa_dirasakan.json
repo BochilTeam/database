@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/08/2023 16:15:02 WIB",
+    "lintang": "0.36 LS",
+    "bujur": "101.39 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km Barat Laut Kuantan Singingi",
+    "warning": [
+      "III-IV Solok"
+    ]
+  },
+  {
     "waktu": "04/08/2023 10:19:40 WIB",
     "lintang": "7.38 LS",
     "bujur": "107.53 BT",
@@ -228,18 +239,6 @@
       "II-III Kefa",
       "II-III Soe",
       "II Atambua"
-    ]
-  },
-  {
-    "waktu": "25/07/2023 05:10:51 WIB",
-    "lintang": "1.27 LU",
-    "bujur": "122.63 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada dilaut 59 km BaratLaut Gorontalo Utara",
-    "warning": [
-      "II Gorontalo",
-      "II Kabupaten Gorontalo"
     ]
   }
 ]
