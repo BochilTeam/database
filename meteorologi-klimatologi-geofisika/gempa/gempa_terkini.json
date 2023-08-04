@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04-08-23 18:48:38 WIB",
+    "lintang": "-0.21",
+    "bujur": "125.03",
+    "magnitudo": "6.0",
+    "kedalaman": "10 Km",
+    "wilayah": "117 km Tenggara TUTUYAN-BOLTIM-SULUT"
+  },
+  {
     "waktu": "04-08-23 07:31:41 WIB",
     "lintang": "-6.32",
     "bujur": "113.14",
@@ -230,13 +238,5 @@
     "magnitudo": "6.9",
     "kedalaman": "161 Km",
     "wilayah": "771 km BaratDaya SUVA-FIJIISLAND"
-  },
-  {
-    "waktu": "12-06-23 10:17:05 WIB",
-    "lintang": "-7.29",
-    "bujur": "130.17",
-    "magnitudo": "5.1",
-    "kedalaman": "147 Km",
-    "wilayah": "147 km BaratLaut TANIBAR"
   }
 ]

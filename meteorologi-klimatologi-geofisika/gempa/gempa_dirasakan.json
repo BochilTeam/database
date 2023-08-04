@@ -1,5 +1,31 @@
 [
   {
+    "waktu": "04/08/2023 18:48:38 WIB",
+    "lintang": "0.21 LS",
+    "bujur": "125.03 BT",
+    "magnitudo": "6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 117 km Tenggara Bolaang Mongondo Timur",
+    "warning": [
+      "III - IV Bone Bolango",
+      "III - IV Gorontalo",
+      "III Manado",
+      "III Tomohon",
+      "III Tondano",
+      "III Minahasa Utara",
+      "III Bolaang Mongondow Selatan",
+      "III Minahasa Tenggara",
+      "III Bolaang Mongondow Timur",
+      "III Kotamobagu",
+      "III Bitung",
+      "III Kab. Gorontalo",
+      "II-III Luwuk",
+      "II-III Kab. Gorontalo Utara",
+      "II-III Banggai Kepulauan",
+      "II Ampana"
+    ]
+  },
+  {
     "waktu": "04/08/2023 16:15:02 WIB",
     "lintang": "0.36 LS",
     "bujur": "101.39 BT",
@@ -219,26 +245,6 @@
     "wilayah": "Pusat gempa berada di darat 32 km BaratDaya Kab. Pidie Jaya",
     "warning": [
       "II Tangse"
-    ]
-  },
-  {
-    "waktu": "25/07/2023 07:25:12 WIB",
-    "lintang": "9.26 LS",
-    "bujur": "123.95 BT",
-    "magnitudo": "6",
-    "kedalaman": "75 Km",
-    "wilayah": "Pusat gempa berada dilaut 74 km BaratLaut TimorTengah Utara",
-    "warning": [
-      "II-III Alor",
-      "II-III Maumere",
-      "III Lembata",
-      "II-III Larantuka",
-      "II-III Waingapu",
-      "II Kupang",
-      "II Ende",
-      "II-III Kefa",
-      "II-III Soe",
-      "II Atambua"
     ]
   }
 ]
