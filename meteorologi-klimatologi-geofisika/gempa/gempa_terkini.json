@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04-08-23 07:31:41 WIB",
+    "lintang": "-6.32",
+    "bujur": "113.14",
+    "magnitudo": "5.5",
+    "kedalaman": "636 Km",
+    "wilayah": "83 km TimurLaut BANGKALAN-JATIM"
+  },
+  {
     "waktu": "01-08-23 19:13:39 WIB",
     "lintang": "-7.66",
     "bujur": "128.24",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "147 Km",
     "wilayah": "147 km BaratLaut TANIBAR"
-  },
-  {
-    "waktu": "11-06-23 13:51:49 WIB",
-    "lintang": "-2.68",
-    "bujur": "136.70",
-    "magnitudo": "5.2",
-    "kedalaman": "48 Km",
-    "wilayah": "18 km TimurLaut WAROPEN-PAPUA"
   }
 ]
