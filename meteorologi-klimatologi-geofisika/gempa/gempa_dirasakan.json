@@ -1,5 +1,38 @@
 [
   {
+    "waktu": "05/08/2023 11:15:58 WIB",
+    "lintang": "8.14 LS",
+    "bujur": "107.31 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 121 km BaratDaya Kab. Garut",
+    "warning": [
+      "II-III Kertajaya",
+      "II-III Warungkondang",
+      "II-III Garut",
+      "II-III Singajaya",
+      "II-III Cikalong",
+      "II-III Pangalengan",
+      "II-III Cikajang",
+      "II-III Cidaun",
+      "II-III Sindangbarang",
+      "II Cianjur",
+      "II Sukabumi"
+    ]
+  },
+  {
+    "waktu": "05/08/2023 10:24:22 WIB",
+    "lintang": "8.28 LS",
+    "bujur": "116.49 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 37 km TimurLaut Lombok Utara",
+    "warning": [
+      "II Lombok Timur",
+      "II Lombok Utara"
+    ]
+  },
+  {
     "waktu": "04/08/2023 18:48:38 WIB",
     "lintang": "0.21 LS",
     "bujur": "125.03 BT",
@@ -223,28 +256,6 @@
       "II Cipatujang",
       "II Cikajang",
       "II Sindangkerta Kab Tasikmalaya"
-    ]
-  },
-  {
-    "waktu": "26/07/2023 14:15:53 WIB",
-    "lintang": "3.34 LS",
-    "bujur": "128.22 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 15 km Barat Kairatu-SBB",
-    "warning": [
-      "II Kairatu"
-    ]
-  },
-  {
-    "waktu": "25/07/2023 10:04:40 WIB",
-    "lintang": "4.97 LU",
-    "bujur": "95.99 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 32 km BaratDaya Kab. Pidie Jaya",
-    "warning": [
-      "II Tangse"
     ]
   }
 ]
