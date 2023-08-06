@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "07/08/2023 01:14:23 WIB",
+    "lintang": "8.36 LS",
+    "bujur": "116.76 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 18 km Barat Laut Pulau Panjang",
+    "warning": [
+      "III Lombok Timur",
+      "II-III Lombok Utara"
+    ]
+  },
+  {
     "waktu": "06/08/2023 17:09:22 WIB",
     "lintang": "1.14 LS",
     "bujur": "120.16 BT",
@@ -246,17 +258,6 @@
     "wilayah": "Pusat gempa berada di laut 20 km Barat Laut Kaimana",
     "warning": [
       "III-IV Kaimana"
-    ]
-  },
-  {
-    "waktu": "31/07/2023 20:50:25 WIB",
-    "lintang": "3.71 LS",
-    "bujur": "133.71 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 9 km BaratDaya Kaimana",
-    "warning": [
-      "II Kaimana"
     ]
   }
 ]
