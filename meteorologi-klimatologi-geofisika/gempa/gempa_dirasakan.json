@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "06/08/2023 17:09:22 WIB",
+    "lintang": "1.14 LS",
+    "bujur": "120.16 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 41 km Tenggara Palu",
+    "warning": [
+      "IV - V Sigi",
+      "III - IV Parigi",
+      "III Palu",
+      "II Mamuju Tengah"
+    ]
+  },
+  {
     "waktu": "06/08/2023 08:44:32 WIB",
     "lintang": "1.19 LS",
     "bujur": "120.26 BT",
@@ -241,17 +255,6 @@
     "magnitudo": "3.2",
     "kedalaman": "5 Km",
     "wilayah": "Pusat gempa berada di laut 9 km BaratDaya Kaimana",
-    "warning": [
-      "II Kaimana"
-    ]
-  },
-  {
-    "waktu": "31/07/2023 18:55:45 WIB",
-    "lintang": "3.69 LS",
-    "bujur": "133.69 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 8 km barat daya Kaimana",
     "warning": [
       "II Kaimana"
     ]

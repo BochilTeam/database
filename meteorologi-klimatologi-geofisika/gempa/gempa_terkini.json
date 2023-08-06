@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06-08-23 17:09:22 WIB",
+    "lintang": "-1.14",
+    "bujur": "120.16",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "41 km Tenggara PALU-SULTENG"
+  },
+  {
     "waktu": "06-08-23 08:44:32 WIB",
     "lintang": "-1.19",
     "bujur": "120.26",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "71 Km",
     "wilayah": "40 km BaratDaya HUMBANGHASUNDUTAN-SUMUT"
-  },
-  {
-    "waktu": "20-06-23 15:39:18 WIB",
-    "lintang": "-0.91",
-    "bujur": "98.55",
-    "magnitudo": "5.8",
-    "kedalaman": "10 Km",
-    "wilayah": "166 km BaratLaut KEP-MENTAWAI-SUMBAR"
   }
 ]
