@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06-08-23 08:44:32 WIB",
+    "lintang": "-1.19",
+    "bujur": "120.26",
+    "magnitudo": "5.3",
+    "kedalaman": "16 Km",
+    "wilayah": "47 km TimurLaut SIGI-SULTENG"
+  },
+  {
     "waktu": "04-08-23 18:48:38 WIB",
     "lintang": "-0.21",
     "bujur": "125.03",
@@ -230,13 +238,5 @@
     "magnitudo": "5.8",
     "kedalaman": "10 Km",
     "wilayah": "166 km BaratLaut KEP-MENTAWAI-SUMBAR"
-  },
-  {
-    "waktu": "16-06-23 01:06:22 WIB",
-    "lintang": "-22.82",
-    "bujur": "176.44",
-    "magnitudo": "6.9",
-    "kedalaman": "161 Km",
-    "wilayah": "771 km BaratDaya SUVA-FIJIISLAND"
   }
 ]

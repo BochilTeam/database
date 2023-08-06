@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "06/08/2023 08:44:32 WIB",
+    "lintang": "1.19 LS",
+    "bujur": "120.26 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di darat 47 km Timur Laut Sigi",
+    "warning": [
+      "III Palu",
+      "III Poso",
+      "III-IV Parigi"
+    ]
+  },
+  {
     "waktu": "06/08/2023 05:25:42 WIB",
     "lintang": "0.71 LS",
     "bujur": "131.48 BT",
@@ -241,19 +254,6 @@
     "wilayah": "Pusat gempa berada di laut 8 km barat daya Kaimana",
     "warning": [
       "II Kaimana"
-    ]
-  },
-  {
-    "waktu": "29/07/2023 18:19:11 WIB",
-    "lintang": "1.4 LU",
-    "bujur": "128.31 BT",
-    "magnitudo": "5",
-    "kedalaman": "51 Km",
-    "wilayah": "Pusat gempa berada di laut 21 km BaratLaut Halmahera Timur",
-    "warning": [
-      "III Morotai Selatan",
-      "II-III Halmahera Timur",
-      "II Halmahera Utara"
     ]
   }
 ]
