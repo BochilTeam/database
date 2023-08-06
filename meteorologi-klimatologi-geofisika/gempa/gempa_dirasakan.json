@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "06/08/2023 05:25:42 WIB",
+    "lintang": "0.71 LS",
+    "bujur": "131.48 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 23 km TimurLaut Kota Sorong",
+    "warning": [
+      "II-III Kota Sorong"
+    ]
+  },
+  {
+    "waktu": "06/08/2023 05:15:14 WIB",
+    "lintang": "0.78 LS",
+    "bujur": "131.48 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 21 km TimurLaut Kota Sorong",
+    "warning": [
+      "II-III Kota Sorong"
+    ]
+  },
+  {
     "waktu": "05/08/2023 11:15:58 WIB",
     "lintang": "8.14 LS",
     "bujur": "107.31 BT",
@@ -232,30 +254,6 @@
       "III Morotai Selatan",
       "II-III Halmahera Timur",
       "II Halmahera Utara"
-    ]
-  },
-  {
-    "waktu": "28/07/2023 06:49:51 WIB",
-    "lintang": "2.96 LS",
-    "bujur": "119.36 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km tenggara Mamasa",
-    "warning": [
-      "II-III Kab. Mamasa"
-    ]
-  },
-  {
-    "waktu": "26/07/2023 19:31:29 WIB",
-    "lintang": "8.13 LS",
-    "bujur": "107.9 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "30 Km",
-    "wilayah": "Pusat gempa berada di laut 80 km BaratDaya Kab-Pangandaran",
-    "warning": [
-      "II Cipatujang",
-      "II Cikajang",
-      "II Sindangkerta Kab Tasikmalaya"
     ]
   }
 ]
