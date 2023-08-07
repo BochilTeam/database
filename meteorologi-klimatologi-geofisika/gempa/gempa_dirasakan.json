@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "07/08/2023 15:06:09 WIB",
+    "lintang": "1.74 LU",
+    "bujur": "125.79 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di Laut 81 km TimurLaut Bitung",
+    "warning": [
+      "III-IV Bitung",
+      "III Tondano",
+      "II-III Manado"
+    ]
+  },
+  {
     "waktu": "07/08/2023 01:14:23 WIB",
     "lintang": "8.36 LS",
     "bujur": "116.76 BT",
@@ -247,17 +260,6 @@
     "wilayah": "Pusat gempa berada di laut 11 km BaratDaya Kaimana",
     "warning": [
       "III - IV Kaimana"
-    ]
-  },
-  {
-    "waktu": "01/08/2023 10:33:57 WIB",
-    "lintang": "3.46 LS",
-    "bujur": "133.71 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 20 km Barat Laut Kaimana",
-    "warning": [
-      "III-IV Kaimana"
     ]
   }
 ]
