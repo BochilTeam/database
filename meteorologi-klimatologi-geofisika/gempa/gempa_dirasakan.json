@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/08/2023 17:35:14 WIB",
+    "lintang": "5.73 LS",
+    "bujur": "103.47 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 79 km BaratDaya Pesisir Barat",
+    "warning": [
+      "II Liwa"
+    ]
+  },
+  {
     "waktu": "07/08/2023 15:06:09 WIB",
     "lintang": "1.74 LU",
     "bujur": "125.79 BT",
@@ -249,17 +260,6 @@
     "wilayah": "Pusat gempa berada di laut 7 km Barat Laut Kaimana",
     "warning": [
       "III Kaimana"
-    ]
-  },
-  {
-    "waktu": "01/08/2023 10:41:38 WIB",
-    "lintang": "3.73 LS",
-    "bujur": "133.71 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 11 km BaratDaya Kaimana",
-    "warning": [
-      "III - IV Kaimana"
     ]
   }
 ]
