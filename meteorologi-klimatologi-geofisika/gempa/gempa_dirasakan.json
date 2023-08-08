@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/08/2023 02:57:18 WIB",
+    "lintang": "3.93 LS",
+    "bujur": "122.75 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di laut 10 km tenggara Soropia",
+    "warning": [
+      "II-III Kendari"
+    ]
+  },
+  {
     "waktu": "09/08/2023 01:29:43 WIB",
     "lintang": "3.89 LS",
     "bujur": "122.55 BT",
@@ -250,17 +261,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Tapanuli Utara",
     "warning": [
       "II Tarutung"
-    ]
-  },
-  {
-    "waktu": "03/08/2023 06:47:19 WIB",
-    "lintang": "8.13 LS",
-    "bujur": "120.55 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di Laut 54 km TimurLaut Ruteng",
-    "warning": [
-      "II Ruteng"
     ]
   }
 ]
