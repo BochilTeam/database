@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "08/08/2023 22:30:55 WIB",
+    "lintang": "4.26 LS",
+    "bujur": "101.99 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "60 Km",
+    "wilayah": "Pusat gempa berada di laut 68 km BaratDaya Seluma",
+    "warning": [
+      "II-III Kota Bengkulu",
+      "II Kepahiang"
+    ]
+  },
+  {
     "waktu": "07/08/2023 17:35:14 WIB",
     "lintang": "5.73 LS",
     "bujur": "103.47 BT",
@@ -249,17 +261,6 @@
     "wilayah": "Pusat gempa berada di darat 0 km TimurLaut Teluk Wondama",
     "warning": [
       "II Teluk Wondama"
-    ]
-  },
-  {
-    "waktu": "01/08/2023 11:13:32 WIB",
-    "lintang": "3.62 LS",
-    "bujur": "133.68 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 7 km Barat Laut Kaimana",
-    "warning": [
-      "III Kaimana"
     ]
   }
 ]
