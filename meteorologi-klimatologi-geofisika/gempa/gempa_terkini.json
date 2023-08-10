@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10-08-23 09:00:27 WIB",
+    "lintang": "-5.75",
+    "bujur": "131.55",
+    "magnitudo": "5.9",
+    "kedalaman": "154 Km",
+    "wilayah": "131 km BaratDaya MALUKUTENGGARA"
+  },
+  {
     "waktu": "10-08-23 06:25:55 WIB",
     "lintang": "-3.56",
     "bujur": "101.18",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "160 Km",
     "wilayah": "211 km BaratLaut TANIBAR"
-  },
-  {
-    "waktu": "29-06-23 20:52:47 WIB",
-    "lintang": "4.90",
-    "bujur": "126.04",
-    "magnitudo": "5.0",
-    "kedalaman": "104 Km",
-    "wilayah": "116 km BaratLaut PULAUKARATUNG-SULUT"
   }
 ]
