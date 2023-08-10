@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "10/08/2023 06:25:55 WIB",
+    "lintang": "3.56 LS",
+    "bujur": "101.18 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 109 km tenggara Mukomuko",
+    "warning": [
+      "III Mukomuko"
+    ]
+  },
+  {
     "waktu": "09/08/2023 02:57:18 WIB",
     "lintang": "3.93 LS",
     "bujur": "122.75 BT",
@@ -250,17 +261,6 @@
       "III Lombok Timur",
       "III Mataram",
       "II-III Lombok Barat"
-    ]
-  },
-  {
-    "waktu": "03/08/2023 09:52:04 WIB",
-    "lintang": "2.04 LU",
-    "bujur": "98.89 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km BaratLaut Tapanuli Utara",
-    "warning": [
-      "II Tarutung"
     ]
   }
 ]

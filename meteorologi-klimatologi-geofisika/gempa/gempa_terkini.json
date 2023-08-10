@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10-08-23 06:25:55 WIB",
+    "lintang": "-3.56",
+    "bujur": "101.18",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "109 km Tenggara MUKOMUKO-BENGKULU"
+  },
+  {
     "waktu": "07-08-23 02:40:16 WIB",
     "lintang": "-9.81",
     "bujur": "114.07",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "104 Km",
     "wilayah": "116 km BaratLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "27-06-23 23:55:17 WIB",
-    "lintang": "-7.35",
-    "bujur": "130.22",
-    "magnitudo": "5.5",
-    "kedalaman": "123 Km",
-    "wilayah": "139 km BaratLaut TANIBAR"
   }
 ]
