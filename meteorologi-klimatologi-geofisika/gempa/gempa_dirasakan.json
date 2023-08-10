@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "10/08/2023 15:25:05 WIB",
+    "lintang": "5.67 LS",
+    "bujur": "133.84 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 43 km Barat Dobo",
+    "warning": [
+      "II Dobo"
+    ]
+  },
+  {
     "waktu": "10/08/2023 13:58:45 WIB",
     "lintang": "5.39 LS",
     "bujur": "133.67 BT",
@@ -248,20 +259,6 @@
       "II Cikajang",
       "II Bayongbong",
       "II Cisurupan"
-    ]
-  },
-  {
-    "waktu": "04/08/2023 07:31:41 WIB",
-    "lintang": "6.32 LS",
-    "bujur": "113.14 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "636 Km",
-    "wilayah": "Pusat gempa berada di laut 83 km Timur Laut Bangkalan",
-    "warning": [
-      "II Karangkates",
-      "II Denpasar",
-      "II Kuta",
-      "II Pacitan"
     ]
   }
 ]
