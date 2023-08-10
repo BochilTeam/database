@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "10/08/2023 13:58:45 WIB",
+    "lintang": "5.39 LS",
+    "bujur": "133.67 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "68 Km",
+    "wilayah": "Pusat gempa berada di laut 74 km Barat Laut Dobo",
+    "warning": [
+      "II - III Dobo"
+    ]
+  },
+  {
+    "waktu": "10/08/2023 13:14:45 WIB",
+    "lintang": "0.64 LU",
+    "bujur": "121.46 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "48 Km",
+    "wilayah": "Pusat gempa berada di darat 38 km Tenggara Buol",
+    "warning": [
+      "III Toli-toli",
+      "III Pohuwato"
+    ]
+  },
+  {
     "waktu": "10/08/2023 09:00:27 WIB",
     "lintang": "5.75 LS",
     "bujur": "131.55 BT",
@@ -9,7 +32,8 @@
     "warning": [
       "II Tual",
       "II Dobo",
-      "II-III Banda"
+      "II-III Banda",
+      "II - III Kaimana"
     ]
   },
   {
@@ -238,28 +262,6 @@
       "II Denpasar",
       "II Kuta",
       "II Pacitan"
-    ]
-  },
-  {
-    "waktu": "04/08/2023 04:27:54 WIB",
-    "lintang": "2.06 LU",
-    "bujur": "98.91 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km BaratLaut Tapanuli Utara",
-    "warning": [
-      "III Sipoholon"
-    ]
-  },
-  {
-    "waktu": "03/08/2023 18:21:59 WIB",
-    "lintang": "3.44 LS",
-    "bujur": "119.03 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km Barat Daya Polewali Mandar",
-    "warning": [
-      "II Majene"
     ]
   }
 ]
