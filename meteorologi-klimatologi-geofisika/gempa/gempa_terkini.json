@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-08-23 20:20:15 WIB",
+    "lintang": "-0.63",
+    "bujur": "121.16",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "66 km BaratLaut TOJOUNA-UNA-SULTENG"
+  },
+  {
     "waktu": "10-08-23 13:58:45 WIB",
     "lintang": "-5.39",
     "bujur": "133.67",
@@ -230,13 +238,5 @@
     "magnitudo": "6.4",
     "kedalaman": "25 Km",
     "wilayah": "86 km BaratDaya BANTUL-DIY"
-  },
-  {
-    "waktu": "30-06-23 17:37:31 WIB",
-    "lintang": "-0.59",
-    "bujur": "122.44",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "103 km BaratLaut BANGGAIKEP-SULTENG"
   }
 ]
