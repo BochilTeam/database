@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "13/08/2023 06:31:22 WIB",
+    "lintang": "8.5 LS",
+    "bujur": "116.23 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km Tenggara Lombok Utara",
+    "warning": [
+      "III Lombok Utara",
+      "III Lombok Barat",
+      "III Mataram",
+      "II-III Lombok Tengah",
+      "III Lombok Timur"
+    ]
+  },
+  {
     "waktu": "12/08/2023 20:20:15 WIB",
     "lintang": "0.63 LS",
     "bujur": "121.16 BT",
@@ -231,32 +246,6 @@
     "warning": [
       "II Lombok Timur",
       "II Lombok Utara"
-    ]
-  },
-  {
-    "waktu": "04/08/2023 18:48:38 WIB",
-    "lintang": "0.21 LS",
-    "bujur": "125.03 BT",
-    "magnitudo": "6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 117 km Tenggara Bolaang Mongondo Timur",
-    "warning": [
-      "III - IV Bone Bolango",
-      "III - IV Gorontalo",
-      "III Manado",
-      "III Tomohon",
-      "III Tondano",
-      "III Minahasa Utara",
-      "III Bolaang Mongondow Selatan",
-      "III Minahasa Tenggara",
-      "III Bolaang Mongondow Timur",
-      "III Kotamobagu",
-      "III Bitung",
-      "III Kab. Gorontalo",
-      "II-III Luwuk",
-      "II-III Kab. Gorontalo Utara",
-      "II-III Banggai Kepulauan",
-      "II Ampana"
     ]
   }
 ]
