@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/08/2023 16:00:03 WIB",
+    "lintang": "8.3 LS",
+    "bujur": "116.82 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 18 km barat laut Pulau Panjang",
+    "warning": [
+      "II Lombok Timur"
+    ]
+  },
+  {
     "waktu": "14/08/2023 06:07:17 WIB",
     "lintang": "4.06 LS",
     "bujur": "121.61 BT",
@@ -224,27 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 21 km TimurLaut Kota Sorong",
     "warning": [
       "II-III Kota Sorong"
-    ]
-  },
-  {
-    "waktu": "05/08/2023 11:15:58 WIB",
-    "lintang": "8.14 LS",
-    "bujur": "107.31 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di laut 121 km BaratDaya Kab. Garut",
-    "warning": [
-      "II-III Kertajaya",
-      "II-III Warungkondang",
-      "II-III Garut",
-      "II-III Singajaya",
-      "II-III Cikalong",
-      "II-III Pangalengan",
-      "II-III Cikajang",
-      "II-III Cidaun",
-      "II-III Sindangbarang",
-      "II Cianjur",
-      "II Sukabumi"
     ]
   }
 ]
