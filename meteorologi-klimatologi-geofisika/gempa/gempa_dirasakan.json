@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/08/2023 06:07:17 WIB",
+    "lintang": "4.06 LS",
+    "bujur": "121.61 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 1.5 km Tenggara Kolaka Kab. Kolaka",
+    "warning": [
+      "II-III Kolaka"
+    ]
+  },
+  {
     "waktu": "13/08/2023 06:31:22 WIB",
     "lintang": "8.5 LS",
     "bujur": "116.23 BT",
@@ -234,18 +245,6 @@
       "II-III Sindangbarang",
       "II Cianjur",
       "II Sukabumi"
-    ]
-  },
-  {
-    "waktu": "05/08/2023 10:24:22 WIB",
-    "lintang": "8.28 LS",
-    "bujur": "116.49 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 37 km TimurLaut Lombok Utara",
-    "warning": [
-      "II Lombok Timur",
-      "II Lombok Utara"
     ]
   }
 ]
