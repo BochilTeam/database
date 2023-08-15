@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "15/08/2023 16:29:17 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.13 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 1 km barat laut Kab. Cianjur",
+    "warning": [
+      "II Cugenang",
+      "II Kota Cianjur",
+      "II Karangtengah",
+      "II Warungkondang"
+    ]
+  },
+  {
     "waktu": "15/08/2023 10:54:06 WIB",
     "lintang": "8.65 LS",
     "bujur": "121.51 BT",
@@ -236,17 +250,6 @@
       "III Palu",
       "III Poso",
       "III-IV Parigi"
-    ]
-  },
-  {
-    "waktu": "06/08/2023 05:25:42 WIB",
-    "lintang": "0.71 LS",
-    "bujur": "131.48 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di laut 23 km TimurLaut Kota Sorong",
-    "warning": [
-      "II-III Kota Sorong"
     ]
   }
 ]
