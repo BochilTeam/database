@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15-08-23 10:54:06 WIB",
+    "lintang": "-8.65",
+    "bujur": "121.51",
+    "magnitudo": "5.8",
+    "kedalaman": "164 Km",
+    "wilayah": "22 km TimurLaut MBAY-NAGEKEO-NTT"
+  },
+  {
     "waktu": "12-08-23 20:20:15 WIB",
     "lintang": "-0.63",
     "bujur": "121.16",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "31 Km",
     "wilayah": "71 km TimurLaut SUMBAWA-NTB"
-  },
-  {
-    "waktu": "30-06-23 19:57:43 WIB",
-    "lintang": "-8.63",
-    "bujur": "110.08",
-    "magnitudo": "6.4",
-    "kedalaman": "25 Km",
-    "wilayah": "86 km BaratDaya BANTUL-DIY"
   }
 ]
