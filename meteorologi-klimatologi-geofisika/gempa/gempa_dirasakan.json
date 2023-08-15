@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "15/08/2023 10:54:06 WIB",
+    "lintang": "8.65 LS",
+    "bujur": "121.51 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "164 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km timur laut Mbay-Nagekeo",
+    "warning": [
+      "III-IV Waingapu",
+      "III Sumbawa",
+      "III Dompu",
+      "III Kota Bima",
+      "III Kab. Bima",
+      "III Ngada",
+      "II-III Mataram",
+      "II-III Lombok Timur",
+      "II-III Sumbawa Barat",
+      "II Gianyar",
+      "II Denpasar",
+      "III-IV Ende",
+      "II Bajawa"
+    ]
+  },
+  {
     "waktu": "14/08/2023 16:00:03 WIB",
     "lintang": "8.3 LS",
     "bujur": "116.82 BT",
@@ -222,17 +245,6 @@
     "magnitudo": "3.5",
     "kedalaman": "7 Km",
     "wilayah": "Pusat gempa berada di laut 23 km TimurLaut Kota Sorong",
-    "warning": [
-      "II-III Kota Sorong"
-    ]
-  },
-  {
-    "waktu": "06/08/2023 05:15:14 WIB",
-    "lintang": "0.78 LS",
-    "bujur": "131.48 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km TimurLaut Kota Sorong",
     "warning": [
       "II-III Kota Sorong"
     ]
