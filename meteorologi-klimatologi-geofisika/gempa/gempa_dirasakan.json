@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "17/08/2023 11:28:48 WIB",
+    "lintang": "7.62 LS",
+    "bujur": "105.51 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "60 Km",
+    "wilayah": "Pusat gempa berada di laut 96 Km Barat Daya Muarabinuangeun",
+    "warning": [
+      "II-III Bandung",
+      "II Cikembar",
+      "II Bogor",
+      "II-III Parung Panjang",
+      "III Cianjur",
+      "III Pelabuhan Ratu",
+      "III Binuangeun",
+      "III Labuan",
+      "III Tangerang",
+      "III-IV Nyalindung",
+      "III-IV Tegalbuleud",
+      "III-IV Ciambar",
+      "II Jakarta",
+      "III Pandeglang"
+    ]
+  },
+  {
     "waktu": "15/08/2023 16:29:17 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.13 BT",
@@ -237,19 +261,6 @@
       "III - IV Parigi",
       "III Palu",
       "II Mamuju Tengah"
-    ]
-  },
-  {
-    "waktu": "06/08/2023 08:44:32 WIB",
-    "lintang": "1.19 LS",
-    "bujur": "120.26 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di darat 47 km Timur Laut Sigi",
-    "warning": [
-      "III Palu",
-      "III Poso",
-      "III-IV Parigi"
     ]
   }
 ]
