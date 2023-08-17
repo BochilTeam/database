@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-08-23 20:16:08 WIB",
+    "lintang": "4.43",
+    "bujur": "96.57",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "35 km TimurLaut KAB-NAGANRAYA-ACEH"
+  },
+  {
     "waktu": "17-08-23 11:28:48 WIB",
     "lintang": "-7.62",
     "bujur": "105.51",
@@ -230,13 +238,5 @@
     "magnitudo": "6.0",
     "kedalaman": "162 Km",
     "wilayah": "207 km BaratLaut TANIBAR"
-  },
-  {
-    "waktu": "03-07-23 09:51:38 WIB",
-    "lintang": "-3.71",
-    "bujur": "140.25",
-    "magnitudo": "6.2",
-    "kedalaman": "33 Km",
-    "wilayah": "69 km BaratDaya KEEROM-PAPUA"
   }
 ]

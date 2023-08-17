@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "17/08/2023 20:16:08 WIB",
+    "lintang": "4.43 LU",
+    "bujur": "96.57 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 35 km TimurLaut Kab. Naganraya",
+    "warning": [
+      "III Takengon",
+      "III Bener Meriah",
+      "III Aceh Tengah",
+      "III Aceh Jaya",
+      "II Aceh Besar",
+      "II Aceh Baratdaya"
+    ]
+  },
+  {
     "waktu": "17/08/2023 11:28:48 WIB",
     "lintang": "7.62 LS",
     "bujur": "105.51 BT",
@@ -247,20 +263,6 @@
     "warning": [
       "III Lombok Timur",
       "II-III Lombok Utara"
-    ]
-  },
-  {
-    "waktu": "06/08/2023 17:09:22 WIB",
-    "lintang": "1.14 LS",
-    "bujur": "120.16 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 41 km Tenggara Palu",
-    "warning": [
-      "IV - V Sigi",
-      "III - IV Parigi",
-      "III Palu",
-      "II Mamuju Tengah"
     ]
   }
 ]
