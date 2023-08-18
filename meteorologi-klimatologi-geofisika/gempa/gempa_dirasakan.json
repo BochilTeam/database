@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/08/2023 21:27:03 WIB",
+    "lintang": "2.43 LS",
+    "bujur": "140.71 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 15 km TimurLaut Kota Jayapura",
+    "warning": [
+      "II-III Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "18/08/2023 20:41:06 WIB",
     "lintang": "8.92 LS",
     "bujur": "111.07 BT",
@@ -251,19 +262,6 @@
     "wilayah": "Pusat gempa berada di Laut 79 km BaratDaya Pesisir Barat",
     "warning": [
       "II Liwa"
-    ]
-  },
-  {
-    "waktu": "07/08/2023 15:06:09 WIB",
-    "lintang": "1.74 LU",
-    "bujur": "125.79 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di Laut 81 km TimurLaut Bitung",
-    "warning": [
-      "III-IV Bitung",
-      "III Tondano",
-      "II-III Manado"
     ]
   }
 ]
