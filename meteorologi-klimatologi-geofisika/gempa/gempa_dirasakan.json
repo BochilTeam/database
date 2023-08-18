@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "18/08/2023 20:41:06 WIB",
+    "lintang": "8.92 LS",
+    "bujur": "111.07 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 82 km Barat Daya Pacitan",
+    "warning": [
+      "II Pacitan",
+      "II Bantul",
+      "II Trenggalek"
+    ]
+  },
+  {
     "waktu": "17/08/2023 20:16:08 WIB",
     "lintang": "4.43 LU",
     "bujur": "96.57 BT",
@@ -251,18 +264,6 @@
       "III-IV Bitung",
       "III Tondano",
       "II-III Manado"
-    ]
-  },
-  {
-    "waktu": "07/08/2023 01:14:23 WIB",
-    "lintang": "8.36 LS",
-    "bujur": "116.76 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 18 km Barat Laut Pulau Panjang",
-    "warning": [
-      "III Lombok Timur",
-      "II-III Lombok Utara"
     ]
   }
 ]
