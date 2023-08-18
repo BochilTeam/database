@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "19/08/2023 01:29:15 WIB",
+    "lintang": "8.99 LS",
+    "bujur": "111.06 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 90 km BaratDaya Pacitan",
+    "warning": [
+      "III Pacitan",
+      "II Gunungkidul",
+      "II Bantul",
+      "II Yogyakarta"
+    ]
+  },
+  {
     "waktu": "18/08/2023 21:27:03 WIB",
     "lintang": "2.43 LS",
     "bujur": "140.71 BT",
@@ -251,17 +265,6 @@
     "warning": [
       "II-III Kota Bengkulu",
       "II Kepahiang"
-    ]
-  },
-  {
-    "waktu": "07/08/2023 17:35:14 WIB",
-    "lintang": "5.73 LS",
-    "bujur": "103.47 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 79 km BaratDaya Pesisir Barat",
-    "warning": [
-      "II Liwa"
     ]
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19-08-23 01:29:15 WIB",
+    "lintang": "-8.99",
+    "bujur": "111.06",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "90 km BaratDaya PACITAN-JATIM"
+  },
+  {
     "waktu": "17-08-23 20:16:08 WIB",
     "lintang": "4.43",
     "bujur": "96.57",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "28 Km",
     "wilayah": "42 km BaratLaut KAB-JAYAPURA-PAPUA"
-  },
-  {
-    "waktu": "07-07-23 00:13:19 WIB",
-    "lintang": "-7.17",
-    "bujur": "129.62",
-    "magnitudo": "6.0",
-    "kedalaman": "162 Km",
-    "wilayah": "207 km BaratLaut TANIBAR"
   }
 ]
