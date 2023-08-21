@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/08/2023 09:55:48 WIB",
+    "lintang": "4.61 LU",
+    "bujur": "95.64 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "46 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km Tenggara Calang",
+    "warning": [
+      "II-III Pasir Raya"
+    ]
+  },
+  {
     "waktu": "20/08/2023 09:52:32 WIB",
     "lintang": "8.26 LS",
     "bujur": "116.42 BT",
@@ -255,17 +266,6 @@
     "wilayah": "Pusat gempa berada di laut 10 km tenggara Soropia",
     "warning": [
       "II-III Kendari"
-    ]
-  },
-  {
-    "waktu": "09/08/2023 01:29:43 WIB",
-    "lintang": "3.89 LS",
-    "bujur": "122.55 BT",
-    "magnitudo": "4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 5 km Tenggara Kab. Konawe",
-    "warning": [
-      "III Kendari"
     ]
   }
 ]
