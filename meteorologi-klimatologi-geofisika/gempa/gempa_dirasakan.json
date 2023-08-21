@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "21/08/2023 22:37:29 WIB",
+    "lintang": "8.65 LS",
+    "bujur": "115.17 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km Barat Daya Badung",
+    "warning": [
+      "II Kuta",
+      "II Denpasar"
+    ]
+  },
+  {
     "waktu": "21/08/2023 09:55:48 WIB",
     "lintang": "4.61 LU",
     "bujur": "95.64 BT",
@@ -255,17 +267,6 @@
     "wilayah": "Pusat gempa berada di laut 109 km tenggara Mukomuko",
     "warning": [
       "III Mukomuko"
-    ]
-  },
-  {
-    "waktu": "09/08/2023 02:57:18 WIB",
-    "lintang": "3.93 LS",
-    "bujur": "122.75 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di laut 10 km tenggara Soropia",
-    "warning": [
-      "II-III Kendari"
     ]
   }
 ]
