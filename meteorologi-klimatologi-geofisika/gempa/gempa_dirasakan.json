@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "24/08/2023 02:52:53 WIB",
+    "lintang": "8.74 LS",
+    "bujur": "111.51 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 76 km Baratdaya Trenggalek",
+    "warning": [
+      "II Trenggalek",
+      "II Blitar",
+      "II Nganjuk",
+      "II Karangkates"
+    ]
+  },
+  {
     "waktu": "21/08/2023 22:37:29 WIB",
     "lintang": "8.65 LS",
     "bujur": "115.17 BT",
@@ -256,17 +270,6 @@
       "II Dobo",
       "II-III Banda",
       "II - III Kaimana"
-    ]
-  },
-  {
-    "waktu": "10/08/2023 06:25:55 WIB",
-    "lintang": "3.56 LS",
-    "bujur": "101.18 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 109 km tenggara Mukomuko",
-    "warning": [
-      "III Mukomuko"
     ]
   }
 ]
