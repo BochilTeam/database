@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/08/2023 18:42:23 WIB",
+    "lintang": "4.52 LU",
+    "bujur": "96.45 BT",
+    "magnitudo": "4",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 35 km timur laut Kab. Nagan Raya",
+    "warning": [
+      "II Nagan Raya"
+    ]
+  },
+  {
     "waktu": "24/08/2023 02:52:53 WIB",
     "lintang": "8.74 LS",
     "bujur": "111.51 BT",
@@ -256,20 +267,6 @@
     "warning": [
       "III Toli-toli",
       "III Pohuwato"
-    ]
-  },
-  {
-    "waktu": "10/08/2023 09:00:27 WIB",
-    "lintang": "5.75 LS",
-    "bujur": "131.55 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "154 Km",
-    "wilayah": "Pusat gempa berada di laut 129 km Barat Langgur, Maluku Tenggara",
-    "warning": [
-      "II Tual",
-      "II Dobo",
-      "II-III Banda",
-      "II - III Kaimana"
     ]
   }
 ]
