@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27-08-23 05:45:29 WIB",
+    "lintang": "0.98",
+    "bujur": "121.95",
+    "magnitudo": "5.1",
+    "kedalaman": "42 Km",
+    "wilayah": "57 km TimurLaut POHUWATO-GORONTALO"
+  },
+  {
     "waktu": "21-08-23 17:01:23 WIB",
     "lintang": "-7.60",
     "bujur": "120.50",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "27 Km",
     "wilayah": "63 km BaratDaya MEULABOH-ACEHBARAT"
-  },
-  {
-    "waktu": "09-07-23 21:09:06 WIB",
-    "lintang": "5.38",
-    "bujur": "94.77",
-    "magnitudo": "5.5",
-    "kedalaman": "24 Km",
-    "wilayah": "64 km BaratDaya BANDAACEH-ACEH"
   }
 ]

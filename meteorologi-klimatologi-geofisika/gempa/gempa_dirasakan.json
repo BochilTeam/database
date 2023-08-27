@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "27/08/2023 05:45:29 WIB",
+    "lintang": "0.98 LU",
+    "bujur": "121.95 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "42 Km",
+    "wilayah": "Pusat gempa berada di darat 57 km TimurLaut Pohuwato",
+    "warning": [
+      "III Pohuwatu",
+      "III Kabupaten Gorontalo",
+      "III Gorontalo Utara",
+      "III Kabupaten Boalemo"
+    ]
+  },
+  {
     "waktu": "26/08/2023 10:54:36 WIB",
     "lintang": "1.79 LU",
     "bujur": "117.84 BT",
@@ -255,17 +269,6 @@
     "wilayah": "Pusat gempa berada di laut 43 km Barat Dobo",
     "warning": [
       "II Dobo"
-    ]
-  },
-  {
-    "waktu": "10/08/2023 13:58:45 WIB",
-    "lintang": "5.39 LS",
-    "bujur": "133.67 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "68 Km",
-    "wilayah": "Pusat gempa berada di laut 74 km Barat Laut Dobo",
-    "warning": [
-      "II - III Dobo"
     ]
   }
 ]
