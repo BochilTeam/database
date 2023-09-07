@@ -1,5 +1,69 @@
 [
   {
+    "waktu": "05-09-23 21:58:04 WIB",
+    "lintang": "2.68",
+    "bujur": "95.89",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "57 km BaratLaut SINABANG-ACEH"
+  },
+  {
+    "waktu": "05-09-23 11:30:30 WIB",
+    "lintang": "-4.55",
+    "bujur": "131.15",
+    "magnitudo": "5.0",
+    "kedalaman": "132 Km",
+    "wilayah": "176 km Tenggara SERAMBAGIANTIMUR-MALUKU"
+  },
+  {
+    "waktu": "02-09-23 01:25:35 WIB",
+    "lintang": "0.77",
+    "bujur": "95.58",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "208 km BaratDaya SINABANG-ACEH"
+  },
+  {
+    "waktu": "31-08-23 17:29:30 WIB",
+    "lintang": "-9.69",
+    "bujur": "124.10",
+    "magnitudo": "6.1",
+    "kedalaman": "75 Km",
+    "wilayah": "36 km BaratLaut TIMORTENGAHSEL-NTT"
+  },
+  {
+    "waktu": "30-08-23 09:17:02 WIB",
+    "lintang": "-6.04",
+    "bujur": "103.87",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "94 km BaratDaya PESISIRBARAT-LAMPUNG"
+  },
+  {
+    "waktu": "29-08-23 11:34:46 WIB",
+    "lintang": "-5.54",
+    "bujur": "130.04",
+    "magnitudo": "6.4",
+    "kedalaman": "209 Km",
+    "wilayah": "275 km BaratDaya SERAMBAGIANTIMUR-MALUKU"
+  },
+  {
+    "waktu": "29-08-23 02:55:32 WIB",
+    "lintang": "-6.94",
+    "bujur": "116.57",
+    "magnitudo": "7.1",
+    "kedalaman": "525 Km",
+    "wilayah": "163 km TimurLaut LOMBOKUTARA-NTB"
+  },
+  {
+    "waktu": "29-08-23 00:59:16 WIB",
+    "lintang": "4.61",
+    "bujur": "126.78",
+    "magnitudo": "5.9",
+    "kedalaman": "22 Km",
+    "wilayah": "37 km BaratDaya PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "27-08-23 05:45:29 WIB",
     "lintang": "0.98",
     "bujur": "121.95",
@@ -174,69 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "75 km TimurLaut SANANA-MALUT"
-  },
-  {
-    "waktu": "20-07-23 06:08:08 WIB",
-    "lintang": "3.04",
-    "bujur": "128.36",
-    "magnitudo": "5.4",
-    "kedalaman": "199 Km",
-    "wilayah": "105 km TimurLaut PULAUDOI-MALUT"
-  },
-  {
-    "waktu": "19-07-23 22:18:49 WIB",
-    "lintang": "-3.06",
-    "bujur": "139.99",
-    "magnitudo": "5.2",
-    "kedalaman": "18 Km",
-    "wilayah": "70 km BaratDaya KAB-JAYAPURA-PAPUA"
-  },
-  {
-    "waktu": "19-07-23 17:47:53 WIB",
-    "lintang": "-2.38",
-    "bujur": "122.71",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "96 km TimurLaut MOROWALI-SULTENG"
-  },
-  {
-    "waktu": "17-07-23 22:35:27 WIB",
-    "lintang": "5.69",
-    "bujur": "124.14",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "275 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
-  },
-  {
-    "waktu": "17-07-23 16:46:36 WIB",
-    "lintang": "-1.44",
-    "bujur": "126.41",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "80 km TimurLaut SANANA-MALUT"
-  },
-  {
-    "waktu": "17-07-23 11:42:16 WIB",
-    "lintang": "-1.46",
-    "bujur": "126.42",
-    "magnitudo": "5.8",
-    "kedalaman": "10 Km",
-    "wilayah": "79 km TimurLaut SANANA-MALUT"
-  },
-  {
-    "waktu": "12-07-23 15:39:35 WIB",
-    "lintang": "-10.01",
-    "bujur": "118.81",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "50 km BaratDaya KODI-SUMBABARATDAYA-NTT"
-  },
-  {
-    "waktu": "10-07-23 08:19:04 WIB",
-    "lintang": "3.65",
-    "bujur": "95.84",
-    "magnitudo": "5.2",
-    "kedalaman": "27 Km",
-    "wilayah": "63 km BaratDaya MEULABOH-ACEHBARAT"
   }
 ]

@@ -1,274 +1,263 @@
 [
   {
-    "waktu": "27/08/2023 05:45:29 WIB",
-    "lintang": "0.98 LU",
-    "bujur": "121.95 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "42 Km",
-    "wilayah": "Pusat gempa berada di darat 57 km TimurLaut Pohuwato",
+    "waktu": "07/09/2023 16:14:46 WIB",
+    "lintang": "2.5 LS",
+    "bujur": "121.4 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km TimurLaut Luwu Timur",
     "warning": [
-      "III Pohuwatu",
-      "III Kabupaten Gorontalo",
-      "III Gorontalo Utara",
-      "III Kabupaten Boalemo"
+      "II-III Sorowako"
     ]
   },
   {
-    "waktu": "26/08/2023 10:54:36 WIB",
-    "lintang": "1.79 LU",
-    "bujur": "117.84 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 60 km Tenggara Berau",
+    "waktu": "07/09/2023 00:33:30 WIB",
+    "lintang": "8.75 LS",
+    "bujur": "116.17 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "95 Km",
+    "wilayah": "Pusat gempa berada di darat 8 Km Tenggara Lombok Barat",
     "warning": [
-      "II Tabalar Berau"
+      "III Lombok Barat",
+      "III Lombok Tengah"
     ]
   },
   {
-    "waktu": "25/08/2023 18:42:23 WIB",
-    "lintang": "4.52 LU",
-    "bujur": "96.45 BT",
-    "magnitudo": "4",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 35 km timur laut Kab. Nagan Raya",
-    "warning": [
-      "II Nagan Raya"
-    ]
-  },
-  {
-    "waktu": "24/08/2023 02:52:53 WIB",
-    "lintang": "8.74 LS",
-    "bujur": "111.51 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 76 km Baratdaya Trenggalek",
-    "warning": [
-      "II Trenggalek",
-      "II Blitar",
-      "II Nganjuk",
-      "II Karangkates"
-    ]
-  },
-  {
-    "waktu": "21/08/2023 22:37:29 WIB",
-    "lintang": "8.65 LS",
-    "bujur": "115.17 BT",
-    "magnitudo": "3.1",
+    "waktu": "06/09/2023 18:35:54 WIB",
+    "lintang": "7.14 LS",
+    "bujur": "107.64 BT",
+    "magnitudo": "2.9",
     "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km Barat Daya Badung",
+    "wilayah": "Pusat gempa berada di darat 18 km Tenggara Kab. Bandung",
     "warning": [
+      "II Cibereum",
+      "II Pangalengan",
+      "II Kertasari",
+      "II Pacet"
+    ]
+  },
+  {
+    "waktu": "05/09/2023 22:03:19 WIB",
+    "lintang": "5.54 LS",
+    "bujur": "142.82 BT",
+    "magnitudo": "6",
+    "kedalaman": "57 Km",
+    "wilayah": "Pusat gempa berada di darat 236 km barat daya Wewak",
+    "warning": [
+      "II Boven Digoel"
+    ]
+  },
+  {
+    "waktu": "05/09/2023 21:58:04 WIB",
+    "lintang": "2.68 LU",
+    "bujur": "95.89 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 57 Km BaratLaut Sinabang",
+    "warning": [
+      "II-III Sinabang"
+    ]
+  },
+  {
+    "waktu": "05/09/2023 21:35:54 WIB",
+    "lintang": "8.41 LS",
+    "bujur": "109.05 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 76 km Tenggara Cilacap",
+    "warning": [
+      "III Pangandaran",
+      "II-III Garut",
+      "II-III Tasikmalaya",
+      "II Bantul"
+    ]
+  },
+  {
+    "waktu": "05/09/2023 15:38:51 WIB",
+    "lintang": "4.24 LS",
+    "bujur": "102.26 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "30 Km",
+    "wilayah": "Pusat gempa berada di laut 39 Km Barat Daya Seluma",
+    "warning": [
+      "III Kota Bengkulu"
+    ]
+  },
+  {
+    "waktu": "05/09/2023 02:38:35 WIB",
+    "lintang": "0.61 LS",
+    "bujur": "135.83 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 17 km timur laut Supiori",
+    "warning": [
+      "II Supiori"
+    ]
+  },
+  {
+    "waktu": "04/09/2023 12:43:27 WIB",
+    "lintang": "7.38 LS",
+    "bujur": "107.53 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 39 Km Tenggara Kabupaten Bandung",
+    "warning": [
+      "III Cisewu",
+      "III Pakenjeng",
+      "III Pangalengan",
+      "II-III Ciwidey",
+      "II-III Cikajang",
+      "II-III Cibereum",
+      "II-III Soreang",
+      "II-III Kopo",
+      "II Cikalong",
+      "II Cimaung",
+      "II Cidaun"
+    ]
+  },
+  {
+    "waktu": "04/09/2023 05:36:05 WIB",
+    "lintang": "3.24 LU",
+    "bujur": "97.46 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di darat 24 km Tenggara Kab. Aceh Selatan",
+    "warning": [
+      "II-III Kab. Aceh Selatan"
+    ]
+  },
+  {
+    "waktu": "02/09/2023 09:34:27 WIB",
+    "lintang": "3.31 LS",
+    "bujur": "135.51 BT",
+    "magnitudo": "4",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km TimurLaut Nabire",
+    "warning": [
+      "II Nabire"
+    ]
+  },
+  {
+    "waktu": "31/08/2023 17:29:30 WIB",
+    "lintang": "9.69 LS",
+    "bujur": "124.1 BT",
+    "magnitudo": "6.1",
+    "kedalaman": "75 Km",
+    "wilayah": "Pusat gempa berada di darat 36 km BaratLaut Timor Tengah Selatan",
+    "warning": [
+      "III-IV Alor",
+      "II-III Kupang",
+      "III-IV Timor Tengah Selatan",
+      "III Timor Tengah Utara"
+    ]
+  },
+  {
+    "waktu": "30/08/2023 09:17:02 WIB",
+    "lintang": "6.04 LS",
+    "bujur": "103.87 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 94 km BaratDaya Pesisir Barat",
+    "warning": [
+      "II Liwa"
+    ]
+  },
+  {
+    "waktu": "30/08/2023 03:04:57 WIB",
+    "lintang": "9.32 LS",
+    "bujur": "115.05 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "41 Km",
+    "wilayah": "Pusat gempa berada di laut 61 Km BaratDaya Kuta Selatan",
+    "warning": [
+      "II Kuta Selatan",
       "II Kuta",
       "II Denpasar"
     ]
   },
   {
-    "waktu": "21/08/2023 09:55:48 WIB",
+    "waktu": "29/08/2023 11:34:46 WIB",
+    "lintang": "5.54 LS",
+    "bujur": "130.04 BT",
+    "magnitudo": "6.4",
+    "kedalaman": "209 Km",
+    "wilayah": "Pusat gempa berada dilaut 275Km Baratdaya Seram Bagian Timur",
+    "warning": [
+      "II-III Banda",
+      "II-III Saumlaki",
+      "II Waipirit",
+      "II Tual",
+      "II Masohi",
+      "II Geser",
+      "II Dobo",
+      "II Labuang",
+      "II Sorong"
+    ]
+  },
+  {
+    "waktu": "29/08/2023 10:21:36 WIB",
+    "lintang": "8.18 LS",
+    "bujur": "124.93 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di darat 43 km Timur Laut Alor",
+    "warning": [
+      "III Alor"
+    ]
+  },
+  {
+    "waktu": "29/08/2023 02:55:32 WIB",
+    "lintang": "6.94 LS",
+    "bujur": "116.57 BT",
+    "magnitudo": "7.1",
+    "kedalaman": "525 Km",
+    "wilayah": "Pusat gempa berada di laut 163 km TimurLaut Lombok Utara",
+    "warning": [
+      "V Kuta",
+      "IV Gianyar",
+      "IV Denpasar",
+      "IV Waingapu",
+      "IV Lombok",
+      "III-IV Karangkates",
+      "III Kuta Selatan",
+      "III Tabanan",
+      "II-III Trenggalek",
+      "II Bantul",
+      "II Blitar"
+    ]
+  },
+  {
+    "waktu": "29/08/2023 00:59:16 WIB",
     "lintang": "4.61 LU",
-    "bujur": "95.64 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "46 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km Tenggara Calang",
+    "bujur": "126.78 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 37 km Baratdaya Pulau Karatung",
     "warning": [
-      "II-III Pasir Raya"
+      "III Talaud"
     ]
   },
   {
-    "waktu": "20/08/2023 09:52:32 WIB",
-    "lintang": "8.26 LS",
-    "bujur": "116.42 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 30 km BaratLaut Lombok Utara",
+    "waktu": "28/08/2023 22:39:34 WIB",
+    "lintang": "1.15 LS",
+    "bujur": "134.08 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 19 km TimurLaut Pegunungan Arfak",
     "warning": [
-      "III Lombok Utara",
-      "III Lombok Timur",
-      "II Lombok Barat"
+      "III Manokwari",
+      "III Manokwari Selatan"
     ]
   },
   {
-    "waktu": "19/08/2023 01:29:15 WIB",
-    "lintang": "8.99 LS",
-    "bujur": "111.06 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 90 km BaratDaya Pacitan",
-    "warning": [
-      "III Pacitan",
-      "II Gunungkidul",
-      "II Bantul",
-      "II Yogyakarta"
-    ]
-  },
-  {
-    "waktu": "18/08/2023 21:27:03 WIB",
-    "lintang": "2.43 LS",
-    "bujur": "140.71 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 15 km TimurLaut Kota Jayapura",
-    "warning": [
-      "II-III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "18/08/2023 20:41:06 WIB",
-    "lintang": "8.92 LS",
-    "bujur": "111.07 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 82 km Barat Daya Pacitan",
-    "warning": [
-      "II Pacitan",
-      "II Bantul",
-      "II Trenggalek"
-    ]
-  },
-  {
-    "waktu": "17/08/2023 20:16:08 WIB",
-    "lintang": "4.43 LU",
-    "bujur": "96.57 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 35 km TimurLaut Kab. Naganraya",
-    "warning": [
-      "III Takengon",
-      "III Bener Meriah",
-      "III Aceh Tengah",
-      "III Aceh Jaya",
-      "II Aceh Besar",
-      "II Aceh Baratdaya"
-    ]
-  },
-  {
-    "waktu": "17/08/2023 11:28:48 WIB",
-    "lintang": "7.62 LS",
-    "bujur": "105.51 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "60 Km",
-    "wilayah": "Pusat gempa berada di laut 96 Km Barat Daya Muarabinuangeun",
-    "warning": [
-      "II-III Bandung",
-      "II Cikembar",
-      "II Bogor",
-      "II-III Parung Panjang",
-      "III Cianjur",
-      "III Pelabuhan Ratu",
-      "III Binuangeun",
-      "III Labuan",
-      "III Tangerang",
-      "III-IV Nyalindung",
-      "III-IV Tegalbuleud",
-      "III-IV Ciambar",
-      "II Jakarta",
-      "III Pandeglang"
-    ]
-  },
-  {
-    "waktu": "15/08/2023 16:29:17 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.13 BT",
+    "waktu": "28/08/2023 20:05:38 WIB",
+    "lintang": "2.51 LS",
+    "bujur": "140.64 BT",
     "magnitudo": "2.6",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 1 km barat laut Kab. Cianjur",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km Baratlaut Jayapura",
     "warning": [
-      "II Cugenang",
-      "II Kota Cianjur",
-      "II Karangtengah",
-      "II Warungkondang"
-    ]
-  },
-  {
-    "waktu": "15/08/2023 10:54:06 WIB",
-    "lintang": "8.65 LS",
-    "bujur": "121.51 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "164 Km",
-    "wilayah": "Pusat gempa berada di darat 22 km timur laut Mbay-Nagekeo",
-    "warning": [
-      "III-IV Waingapu",
-      "III Sumbawa",
-      "III Dompu",
-      "III Kota Bima",
-      "III Kab. Bima",
-      "III Ngada",
-      "II-III Mataram",
-      "II-III Lombok Timur",
-      "II-III Sumbawa Barat",
-      "II Gianyar",
-      "II Denpasar",
-      "III-IV Ende",
-      "II Bajawa"
-    ]
-  },
-  {
-    "waktu": "14/08/2023 16:00:03 WIB",
-    "lintang": "8.3 LS",
-    "bujur": "116.82 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 18 km barat laut Pulau Panjang",
-    "warning": [
-      "II Lombok Timur"
-    ]
-  },
-  {
-    "waktu": "14/08/2023 06:07:17 WIB",
-    "lintang": "4.06 LS",
-    "bujur": "121.61 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 1.5 km Tenggara Kolaka Kab. Kolaka",
-    "warning": [
-      "II-III Kolaka"
-    ]
-  },
-  {
-    "waktu": "13/08/2023 06:31:22 WIB",
-    "lintang": "8.5 LS",
-    "bujur": "116.23 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km Tenggara Lombok Utara",
-    "warning": [
-      "III Lombok Utara",
-      "III Lombok Barat",
-      "III Mataram",
-      "II-III Lombok Tengah",
-      "III Lombok Timur"
-    ]
-  },
-  {
-    "waktu": "12/08/2023 20:20:15 WIB",
-    "lintang": "0.63 LS",
-    "bujur": "121.16 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 66 km Baratlaut Tojo Una-una",
-    "warning": [
-      "III-IV Ampana",
-      "III Poso"
-    ]
-  },
-  {
-    "waktu": "11/08/2023 05:15:50 WIB",
-    "lintang": "3.9 LU",
-    "bujur": "126.64 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "39 Km",
-    "wilayah": "Pusat gempa berada di laut 11 km BaratDaya Melonguane",
-    "warning": [
-      "III Kabaruan"
-    ]
-  },
-  {
-    "waktu": "10/08/2023 15:25:05 WIB",
-    "lintang": "5.67 LS",
-    "bujur": "133.84 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 43 km Barat Dobo",
-    "warning": [
-      "II Dobo"
+      "II-III Jayapura"
     ]
   }
 ]
