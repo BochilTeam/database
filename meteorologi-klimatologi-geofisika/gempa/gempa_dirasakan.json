@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/09/2023 19:53:30 WIB",
+    "lintang": "2.33 LS",
+    "bujur": "140.07 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 31 km BaratLaut Jayapura",
+    "warning": [
+      "III Kab. Jayapura"
+    ]
+  },
+  {
     "waktu": "07/09/2023 16:14:46 WIB",
     "lintang": "2.5 LS",
     "bujur": "121.4 BT",
@@ -247,17 +258,6 @@
     "warning": [
       "III Manokwari",
       "III Manokwari Selatan"
-    ]
-  },
-  {
-    "waktu": "28/08/2023 20:05:38 WIB",
-    "lintang": "2.51 LS",
-    "bujur": "140.64 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km Baratlaut Jayapura",
-    "warning": [
-      "II-III Jayapura"
     ]
   }
 ]
