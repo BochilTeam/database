@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08-09-23 02:20:11 WIB",
+    "lintang": "4.57",
+    "bujur": "127.76",
+    "magnitudo": "5.7",
+    "kedalaman": "130 Km",
+    "wilayah": "78 km Tenggara PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "05-09-23 21:58:04 WIB",
     "lintang": "2.68",
     "bujur": "95.89",
@@ -230,13 +238,5 @@
     "magnitudo": "5.7",
     "kedalaman": "10 Km",
     "wilayah": "84 km BaratDaya PACITAN-JATIM"
-  },
-  {
-    "waktu": "20-07-23 10:31:35 WIB",
-    "lintang": "-1.47",
-    "bujur": "126.38",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "75 km TimurLaut SANANA-MALUT"
   }
 ]
