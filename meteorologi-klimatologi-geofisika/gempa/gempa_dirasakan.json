@@ -1,5 +1,24 @@
 [
   {
+    "waktu": "09/09/2023 21:43:24 WIB",
+    "lintang": "0.03 LU",
+    "bujur": "119.8 BT",
+    "magnitudo": "6.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 50 km barat laut Donggala",
+    "warning": [
+      "IV Palu",
+      "V-VI Donggala",
+      "III Poso",
+      "III Sigi",
+      "II-III Pohuwatu",
+      "II-III Kab. Gorontalo",
+      "II Kota Gorontalo",
+      "I-II Kutai Timur",
+      "III Tolitoli"
+    ]
+  },
+  {
     "waktu": "09/09/2023 07:06:16 WIB",
     "lintang": "7.19 LS",
     "bujur": "116.61 BT",
@@ -241,17 +260,6 @@
       "II Dobo",
       "II Labuang",
       "II Sorong"
-    ]
-  },
-  {
-    "waktu": "29/08/2023 10:21:36 WIB",
-    "lintang": "8.18 LS",
-    "bujur": "124.93 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di darat 43 km Timur Laut Alor",
-    "warning": [
-      "III Alor"
     ]
   }
 ]
