@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09-09-23 07:06:16 WIB",
+    "lintang": "-7.19",
+    "bujur": "116.61",
+    "magnitudo": "5.7",
+    "kedalaman": "500 Km",
+    "wilayah": "139 km TimurLaut LOMBOKUTARA-NTB"
+  },
+  {
     "waktu": "08-09-23 02:20:11 WIB",
     "lintang": "4.57",
     "bujur": "127.76",
@@ -230,13 +238,5 @@
     "magnitudo": "6.0",
     "kedalaman": "75 Km",
     "wilayah": "74 km BaratLaut TIMORTENGAHUT-NTT"
-  },
-  {
-    "waktu": "23-07-23 19:33:25 WIB",
-    "lintang": "-8.94",
-    "bujur": "111.04",
-    "magnitudo": "5.7",
-    "kedalaman": "10 Km",
-    "wilayah": "84 km BaratDaya PACITAN-JATIM"
   }
 ]

@@ -1,5 +1,39 @@
 [
   {
+    "waktu": "09/09/2023 07:06:16 WIB",
+    "lintang": "7.19 LS",
+    "bujur": "116.61 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "500 Km",
+    "wilayah": "Pusat gempa berada di laut 119 km TimurLaut Lombok Utara",
+    "warning": [
+      "II-III Denpasar",
+      "II Kuta"
+    ]
+  },
+  {
+    "waktu": "09/09/2023 05:50:02 WIB",
+    "lintang": "4.27 LU",
+    "bujur": "126.4 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "82 Km",
+    "wilayah": "Pusat gempa berada di laut 43 km BaratLaut Melonguane",
+    "warning": [
+      "II-III Kep. Sangihe"
+    ]
+  },
+  {
+    "waktu": "09/09/2023 04:28:37 WIB",
+    "lintang": "8.24 LS",
+    "bujur": "123.55 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 26 km TimurLaut Lembata",
+    "warning": [
+      "I-II Kab. Lembata"
+    ]
+  },
+  {
     "waktu": "07/09/2023 19:53:30 WIB",
     "lintang": "2.33 LS",
     "bujur": "140.07 BT",
@@ -214,50 +248,6 @@
     "wilayah": "Pusat gempa berada di darat 43 km Timur Laut Alor",
     "warning": [
       "III Alor"
-    ]
-  },
-  {
-    "waktu": "29/08/2023 02:55:32 WIB",
-    "lintang": "6.94 LS",
-    "bujur": "116.57 BT",
-    "magnitudo": "7.1",
-    "kedalaman": "525 Km",
-    "wilayah": "Pusat gempa berada di laut 163 km TimurLaut Lombok Utara",
-    "warning": [
-      "V Kuta",
-      "IV Gianyar",
-      "IV Denpasar",
-      "IV Waingapu",
-      "IV Lombok",
-      "III-IV Karangkates",
-      "III Kuta Selatan",
-      "III Tabanan",
-      "II-III Trenggalek",
-      "II Bantul",
-      "II Blitar"
-    ]
-  },
-  {
-    "waktu": "29/08/2023 00:59:16 WIB",
-    "lintang": "4.61 LU",
-    "bujur": "126.78 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di laut 37 km Baratdaya Pulau Karatung",
-    "warning": [
-      "III Talaud"
-    ]
-  },
-  {
-    "waktu": "28/08/2023 22:39:34 WIB",
-    "lintang": "1.15 LS",
-    "bujur": "134.08 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 19 km TimurLaut Pegunungan Arfak",
-    "warning": [
-      "III Manokwari",
-      "III Manokwari Selatan"
     ]
   }
 ]
