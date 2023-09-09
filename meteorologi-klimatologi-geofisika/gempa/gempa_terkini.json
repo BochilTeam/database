@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09-09-23 12:02:51 WIB",
+    "lintang": "-7.62",
+    "bujur": "128.54",
+    "magnitudo": "5.0",
+    "kedalaman": "210 Km",
+    "wilayah": "101 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "09-09-23 07:06:16 WIB",
     "lintang": "-7.19",
     "bujur": "116.61",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "97 km BaratLaut PULAUDOI-MALUT"
-  },
-  {
-    "waktu": "25-07-23 07:25:12 WIB",
-    "lintang": "-9.26",
-    "bujur": "123.95",
-    "magnitudo": "6.0",
-    "kedalaman": "75 Km",
-    "wilayah": "74 km BaratLaut TIMORTENGAHUT-NTT"
   }
 ]
