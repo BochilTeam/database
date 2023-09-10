@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "10/09/2023 21:40:05 WIB",
+    "lintang": "2.94 LU",
+    "bujur": "98.53 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km Tenggara Kab. Karo",
+    "warning": [
+      "III Kabanjahe",
+      "II Sidikalang"
+    ]
+  },
+  {
     "waktu": "10/09/2023 14:17:24 WIB",
     "lintang": "8.15 LS",
     "bujur": "124.49 BT",
@@ -239,17 +251,6 @@
       "II-III Kupang",
       "III-IV Timor Tengah Selatan",
       "III Timor Tengah Utara"
-    ]
-  },
-  {
-    "waktu": "30/08/2023 09:17:02 WIB",
-    "lintang": "6.04 LS",
-    "bujur": "103.87 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 94 km BaratDaya Pesisir Barat",
-    "warning": [
-      "II Liwa"
     ]
   }
 ]
