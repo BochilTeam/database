@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "10/09/2023 10:55:22 WIB",
+    "lintang": "1.09 LU",
+    "bujur": "97.16 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di laut 35 km BaratLaut Nias Barat",
+    "warning": [
+      "II Gunung Sitoli"
+    ]
+  },
+  {
     "waktu": "09/09/2023 21:43:24 WIB",
     "lintang": "0.03 LU",
     "bujur": "119.8 BT",
@@ -241,25 +252,6 @@
       "II Kuta Selatan",
       "II Kuta",
       "II Denpasar"
-    ]
-  },
-  {
-    "waktu": "29/08/2023 11:34:46 WIB",
-    "lintang": "5.54 LS",
-    "bujur": "130.04 BT",
-    "magnitudo": "6.4",
-    "kedalaman": "209 Km",
-    "wilayah": "Pusat gempa berada dilaut 275Km Baratdaya Seram Bagian Timur",
-    "warning": [
-      "II-III Banda",
-      "II-III Saumlaki",
-      "II Waipirit",
-      "II Tual",
-      "II Masohi",
-      "II Geser",
-      "II Dobo",
-      "II Labuang",
-      "II Sorong"
     ]
   }
 ]
