@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "10/09/2023 14:17:24 WIB",
+    "lintang": "8.15 LS",
+    "bujur": "124.49 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km Baratlaut Alor",
+    "warning": [
+      "II-III Alor"
+    ]
+  },
+  {
     "waktu": "10/09/2023 10:55:22 WIB",
     "lintang": "1.09 LU",
     "bujur": "97.16 BT",
@@ -239,19 +250,6 @@
     "wilayah": "Pusat gempa berada di laut 94 km BaratDaya Pesisir Barat",
     "warning": [
       "II Liwa"
-    ]
-  },
-  {
-    "waktu": "30/08/2023 03:04:57 WIB",
-    "lintang": "9.32 LS",
-    "bujur": "115.05 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "41 Km",
-    "wilayah": "Pusat gempa berada di laut 61 Km BaratDaya Kuta Selatan",
-    "warning": [
-      "II Kuta Selatan",
-      "II Kuta",
-      "II Denpasar"
     ]
   }
 ]
