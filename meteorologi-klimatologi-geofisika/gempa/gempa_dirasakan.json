@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "11/09/2023 23:58:15 WIB",
+    "lintang": "6.86 LS",
+    "bujur": "107.09 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km BaratDaya Kab. Cianjur",
+    "warning": [
+      "II-III Kec. Cilaku",
+      "II-III Karangtengah",
+      "II-III Cianjur"
+    ]
+  },
+  {
     "waktu": "11/09/2023 19:51:33 WIB",
     "lintang": "1.16 LU",
     "bujur": "127.47 BT",
@@ -254,17 +267,6 @@
       "II Cikalong",
       "II Cimaung",
       "II Cidaun"
-    ]
-  },
-  {
-    "waktu": "04/09/2023 05:36:05 WIB",
-    "lintang": "3.24 LU",
-    "bujur": "97.46 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di darat 24 km Tenggara Kab. Aceh Selatan",
-    "warning": [
-      "II-III Kab. Aceh Selatan"
     ]
   }
 ]
