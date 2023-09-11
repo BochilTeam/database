@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "11/09/2023 13:14:23 WIB",
+    "lintang": "3 LS",
+    "bujur": "139.87 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "75 Km",
+    "wilayah": "Pusat gempa berada di darat 19 Km BaratDaya Lereh, Jayapura",
+    "warning": [
+      "II Kota Jayapura",
+      "II Genyem"
+    ]
+  },
+  {
     "waktu": "10/09/2023 21:40:05 WIB",
     "lintang": "2.94 LU",
     "bujur": "98.53 BT",
@@ -237,20 +249,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km TimurLaut Nabire",
     "warning": [
       "II Nabire"
-    ]
-  },
-  {
-    "waktu": "31/08/2023 17:29:30 WIB",
-    "lintang": "9.69 LS",
-    "bujur": "124.1 BT",
-    "magnitudo": "6.1",
-    "kedalaman": "75 Km",
-    "wilayah": "Pusat gempa berada di darat 36 km BaratLaut Timor Tengah Selatan",
-    "warning": [
-      "III-IV Alor",
-      "II-III Kupang",
-      "III-IV Timor Tengah Selatan",
-      "III Timor Tengah Utara"
     ]
   }
 ]
