@@ -1,5 +1,32 @@
 [
   {
+    "waktu": "11/09/2023 19:51:33 WIB",
+    "lintang": "1.16 LU",
+    "bujur": "127.47 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "168 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km Timutlaut Jailolo",
+    "warning": [
+      "III-IV Manado",
+      "III-IV Sangihe",
+      "III-IV Kotamobagu",
+      "II-III Gorontalo",
+      "II-III Minahasa Utara",
+      "II Namlea",
+      "II Tomohon",
+      "III Ternate",
+      "III Halmahera Barat",
+      "III Halmahera Selatan",
+      "III Kep. Sula",
+      "II-III Taliabu",
+      "II-III Ambon",
+      "III-IV Jailolo",
+      "III-IV Bitung",
+      "II Bone Bolango",
+      "III-IV Kep. Talaud"
+    ]
+  },
+  {
     "waktu": "11/09/2023 13:14:23 WIB",
     "lintang": "3 LS",
     "bujur": "139.87 BT",
@@ -238,17 +265,6 @@
     "wilayah": "Pusat gempa berada di darat 24 km Tenggara Kab. Aceh Selatan",
     "warning": [
       "II-III Kab. Aceh Selatan"
-    ]
-  },
-  {
-    "waktu": "02/09/2023 09:34:27 WIB",
-    "lintang": "3.31 LS",
-    "bujur": "135.51 BT",
-    "magnitudo": "4",
-    "kedalaman": "26 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km TimurLaut Nabire",
-    "warning": [
-      "II Nabire"
     ]
   }
 ]

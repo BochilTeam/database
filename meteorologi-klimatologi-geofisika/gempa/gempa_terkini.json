@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-09-23 19:51:33 WIB",
+    "lintang": "1.16",
+    "bujur": "127.47",
+    "magnitudo": "5.9",
+    "kedalaman": "168 Km",
+    "wilayah": "11 km TimurLaut JAILOLO-MALUT"
+  },
+  {
     "waktu": "09-09-23 21:43:24 WIB",
     "lintang": "0.03",
     "bujur": "119.80",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "148 Km",
     "wilayah": "73 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "29-07-23 18:19:11 WIB",
-    "lintang": "1.40",
-    "bujur": "128.31",
-    "magnitudo": "5.0",
-    "kedalaman": "51 Km",
-    "wilayah": "21 km BaratLaut HALMAHERATIMUR-MALUT"
   }
 ]
