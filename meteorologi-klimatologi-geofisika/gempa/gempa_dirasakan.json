@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/09/2023 05:09:24 WIB",
+    "lintang": "5.82 LU",
+    "bujur": "94.57 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "102 Km",
+    "wilayah": "Pusat gempa berada di laut 83 km Barat Daya Kota Sabang",
+    "warning": [
+      "III Banda Aceh"
+    ]
+  },
+  {
     "waktu": "11/09/2023 23:58:15 WIB",
     "lintang": "6.86 LS",
     "bujur": "107.09 BT",
@@ -246,27 +257,6 @@
     "wilayah": "Pusat gempa berada di laut 17 km timur laut Supiori",
     "warning": [
       "II Supiori"
-    ]
-  },
-  {
-    "waktu": "04/09/2023 12:43:27 WIB",
-    "lintang": "7.38 LS",
-    "bujur": "107.53 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 39 Km Tenggara Kabupaten Bandung",
-    "warning": [
-      "III Cisewu",
-      "III Pakenjeng",
-      "III Pangalengan",
-      "II-III Ciwidey",
-      "II-III Cikajang",
-      "II-III Cibereum",
-      "II-III Soreang",
-      "II-III Kopo",
-      "II Cikalong",
-      "II Cimaung",
-      "II Cidaun"
     ]
   }
 ]

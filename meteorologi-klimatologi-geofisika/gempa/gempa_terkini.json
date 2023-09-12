@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-09-23 05:09:24 WIB",
+    "lintang": "5.82",
+    "bujur": "94.57",
+    "magnitudo": "5.2",
+    "kedalaman": "102 Km",
+    "wilayah": "83 km BaratDaya KOTA-SABANG-ACEH"
+  },
+  {
     "waktu": "11-09-23 19:51:33 WIB",
     "lintang": "1.16",
     "bujur": "127.47",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "636 Km",
     "wilayah": "83 km TimurLaut BANGKALAN-JATIM"
-  },
-  {
-    "waktu": "01-08-23 19:13:39 WIB",
-    "lintang": "-7.66",
-    "bujur": "128.24",
-    "magnitudo": "5.1",
-    "kedalaman": "148 Km",
-    "wilayah": "73 km TimurLaut MALUKUBRTDAYA"
   }
 ]
