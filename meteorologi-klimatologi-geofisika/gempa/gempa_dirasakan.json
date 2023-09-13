@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "13/09/2023 20:10:06 WIB",
+    "lintang": "9.48 LS",
+    "bujur": "116.02 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "28 Km",
+    "wilayah": "Pusat gempa berada di Laut 89 Km BaratDaya Lombok Barat",
+    "warning": [
+      "III Lombok Barat",
+      "II Lombok Tengah"
+    ]
+  },
+  {
     "waktu": "12/09/2023 05:09:24 WIB",
     "lintang": "5.82 LU",
     "bujur": "94.57 BT",
@@ -246,17 +258,6 @@
     "wilayah": "Pusat gempa berada di laut 39 Km Barat Daya Seluma",
     "warning": [
       "III Kota Bengkulu"
-    ]
-  },
-  {
-    "waktu": "05/09/2023 02:38:35 WIB",
-    "lintang": "0.61 LS",
-    "bujur": "135.83 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di laut 17 km timur laut Supiori",
-    "warning": [
-      "II Supiori"
     ]
   }
 ]
