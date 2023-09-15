@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "15/09/2023 23:05:09 WIB",
+    "lintang": "6.85 LS",
+    "bujur": "107.06 BT",
+    "magnitudo": "1.9",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km barat daya Kab. Cianjur",
+    "warning": [
+      "II-III Cilaku",
+      "II-III Cugenang",
+      "II-III Karangtengah",
+      "II-III Warungkondang",
+      "II-III Gekbrong",
+      "II-III cianjur"
+    ]
+  },
+  {
     "waktu": "13/09/2023 20:10:06 WIB",
     "lintang": "9.48 LS",
     "bujur": "116.02 BT",
@@ -247,17 +263,6 @@
       "II-III Garut",
       "II-III Tasikmalaya",
       "II Bantul"
-    ]
-  },
-  {
-    "waktu": "05/09/2023 15:38:51 WIB",
-    "lintang": "4.24 LS",
-    "bujur": "102.26 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "30 Km",
-    "wilayah": "Pusat gempa berada di laut 39 Km Barat Daya Seluma",
-    "warning": [
-      "III Kota Bengkulu"
     ]
   }
 ]
