@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16-09-23 17:04:55 WIB",
+    "lintang": "3.97",
+    "bujur": "126.51",
+    "magnitudo": "5.3",
+    "kedalaman": "21 Km",
+    "wilayah": "18 km BaratDaya MELONGUANE-SULUT"
+  },
+  {
     "waktu": "13-09-23 12:34:31 WIB",
     "lintang": "-5.98",
     "bujur": "110.03",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "16 Km",
     "wilayah": "47 km TimurLaut SIGI-SULTENG"
-  },
-  {
-    "waktu": "04-08-23 18:48:38 WIB",
-    "lintang": "-0.21",
-    "bujur": "125.03",
-    "magnitudo": "6.0",
-    "kedalaman": "10 Km",
-    "wilayah": "117 km Tenggara TUTUYAN-BOLTIM-SULUT"
   }
 ]

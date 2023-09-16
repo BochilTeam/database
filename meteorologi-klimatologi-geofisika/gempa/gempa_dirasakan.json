@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/09/2023 17:04:55 WIB",
+    "lintang": "3.97 LU",
+    "bujur": "126.51 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di laut 18 km Baratdaya Melonguane",
+    "warning": [
+      "IV Talaud"
+    ]
+  },
+  {
     "waktu": "16/09/2023 11:35:47 WIB",
     "lintang": "6.77 LS",
     "bujur": "107.1 BT",
@@ -249,17 +260,6 @@
       "II Pangalengan",
       "II Kertasari",
       "II Pacet"
-    ]
-  },
-  {
-    "waktu": "05/09/2023 22:03:19 WIB",
-    "lintang": "5.54 LS",
-    "bujur": "142.82 BT",
-    "magnitudo": "6",
-    "kedalaman": "57 Km",
-    "wilayah": "Pusat gempa berada di darat 236 km barat daya Wewak",
-    "warning": [
-      "II Boven Digoel"
     ]
   }
 ]
