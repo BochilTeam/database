@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/09/2023 07:28:27 WIB",
+    "lintang": "4.69 LS",
+    "bujur": "121.94 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km Timurlaut Rorowatu, Kab. Bombana",
+    "warning": [
+      "III Bombana"
+    ]
+  },
+  {
     "waktu": "15/09/2023 23:05:09 WIB",
     "lintang": "6.85 LS",
     "bujur": "107.06 BT",
@@ -249,20 +260,6 @@
     "wilayah": "Pusat gempa berada di laut 57 Km BaratLaut Sinabang",
     "warning": [
       "II-III Sinabang"
-    ]
-  },
-  {
-    "waktu": "05/09/2023 21:35:54 WIB",
-    "lintang": "8.41 LS",
-    "bujur": "109.05 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 76 km Tenggara Cilacap",
-    "warning": [
-      "III Pangandaran",
-      "II-III Garut",
-      "II-III Tasikmalaya",
-      "II Bantul"
     ]
   }
 ]
