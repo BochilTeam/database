@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/09/2023 07:44:20 WIB",
+    "lintang": "3.34 LU",
+    "bujur": "97.9 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km Tenggara Kutacane",
+    "warning": [
+      "II-III Aceh Tenggara"
+    ]
+  },
+  {
     "waktu": "16/09/2023 17:04:55 WIB",
     "lintang": "3.97 LU",
     "bujur": "126.51 BT",
@@ -246,20 +257,6 @@
     "warning": [
       "III Lombok Barat",
       "III Lombok Tengah"
-    ]
-  },
-  {
-    "waktu": "06/09/2023 18:35:54 WIB",
-    "lintang": "7.14 LS",
-    "bujur": "107.64 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 18 km Tenggara Kab. Bandung",
-    "warning": [
-      "II Cibereum",
-      "II Pangalengan",
-      "II Kertasari",
-      "II Pacet"
     ]
   }
 ]
