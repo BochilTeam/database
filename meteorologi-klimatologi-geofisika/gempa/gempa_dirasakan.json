@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "18/09/2023 06:35:02 WIB",
+    "lintang": "7.67 LS",
+    "bujur": "106.95 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "32 Km",
+    "wilayah": "Pusat gempa berada di laut 83 km Tenggara Kota Sukabumi",
+    "warning": [
+      "III Agrabinta",
+      "III Cipamingkis",
+      "III Tegalbuleud",
+      "III Surade",
+      "III Sindangbarang",
+      "III Cidaun"
+    ]
+  },
+  {
     "waktu": "17/09/2023 07:44:20 WIB",
     "lintang": "3.34 LU",
     "bujur": "97.9 BT",
@@ -245,18 +261,6 @@
     "wilayah": "Pusat gempa berada di darat 27 km TimurLaut Luwu Timur",
     "warning": [
       "II-III Sorowako"
-    ]
-  },
-  {
-    "waktu": "07/09/2023 00:33:30 WIB",
-    "lintang": "8.75 LS",
-    "bujur": "116.17 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "95 Km",
-    "wilayah": "Pusat gempa berada di darat 8 Km Tenggara Lombok Barat",
-    "warning": [
-      "III Lombok Barat",
-      "III Lombok Tengah"
     ]
   }
 ]
