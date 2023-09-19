@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "19/09/2023 11:09:56 WIB",
+    "lintang": "1.26 LU",
+    "bujur": "128.22 BT",
+    "magnitudo": "4",
+    "kedalaman": "78 Km",
+    "wilayah": "Pusat gempa berada di darat 58 Km Tenggara Tobelo",
+    "warning": [
+      "II-III Halmahera Timur"
+    ]
+  },
+  {
     "waktu": "18/09/2023 06:35:02 WIB",
     "lintang": "7.67 LS",
     "bujur": "106.95 BT",
@@ -250,17 +261,6 @@
     "wilayah": "Pusat gempa berada di darat 31 km BaratLaut Jayapura",
     "warning": [
       "III Kab. Jayapura"
-    ]
-  },
-  {
-    "waktu": "07/09/2023 16:14:46 WIB",
-    "lintang": "2.5 LS",
-    "bujur": "121.4 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 27 km TimurLaut Luwu Timur",
-    "warning": [
-      "II-III Sorowako"
     ]
   }
 ]
