@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "19/09/2023 19:16:34 WIB",
+    "lintang": "5.4 LS",
+    "bujur": "103.6 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "38 Km",
+    "wilayah": "Pusat gempa berada di laut 43 km Barat Daya Pesisir Barat",
+    "warning": [
+      "III-IV Liwa",
+      "III-IV Krui",
+      "II Semaka",
+      "II Sekincau"
+    ]
+  },
+  {
     "waktu": "19/09/2023 11:09:56 WIB",
     "lintang": "1.26 LU",
     "bujur": "128.22 BT",
@@ -250,17 +264,6 @@
     "wilayah": "Pusat gempa berada di laut 26 km TimurLaut Lembata",
     "warning": [
       "I-II Kab. Lembata"
-    ]
-  },
-  {
-    "waktu": "07/09/2023 19:53:30 WIB",
-    "lintang": "2.33 LS",
-    "bujur": "140.07 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 31 km BaratLaut Jayapura",
-    "warning": [
-      "III Kab. Jayapura"
     ]
   }
 ]
