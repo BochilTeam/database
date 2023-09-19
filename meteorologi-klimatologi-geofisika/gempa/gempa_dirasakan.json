@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "19/09/2023 22:39:22 WIB",
+    "lintang": "2.5 LS",
+    "bujur": "140.76 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 10 km TimurLaut Kota Jayapura",
+    "warning": [
+      "III-IV Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "19/09/2023 19:16:34 WIB",
     "lintang": "5.4 LS",
     "bujur": "103.6 BT",
@@ -253,17 +264,6 @@
     "wilayah": "Pusat gempa berada di laut 43 km BaratLaut Melonguane",
     "warning": [
       "II-III Kep. Sangihe"
-    ]
-  },
-  {
-    "waktu": "09/09/2023 04:28:37 WIB",
-    "lintang": "8.24 LS",
-    "bujur": "123.55 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 26 km TimurLaut Lembata",
-    "warning": [
-      "I-II Kab. Lembata"
     ]
   }
 ]
