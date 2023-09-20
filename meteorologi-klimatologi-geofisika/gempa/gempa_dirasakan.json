@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/09/2023 01:00:43 WIB",
+    "lintang": "1.23 LS",
+    "bujur": "134.36 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di Laut 37 km TimurLaut Ransiki",
+    "warning": [
+      "III Ransiki"
+    ]
+  },
+  {
     "waktu": "19/09/2023 22:39:22 WIB",
     "lintang": "2.5 LS",
     "bujur": "140.76 BT",
@@ -253,17 +264,6 @@
       "II-III Lombok Tengah",
       "II-III Lombok Barat",
       "II Kuta"
-    ]
-  },
-  {
-    "waktu": "09/09/2023 05:50:02 WIB",
-    "lintang": "4.27 LU",
-    "bujur": "126.4 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "82 Km",
-    "wilayah": "Pusat gempa berada di laut 43 km BaratLaut Melonguane",
-    "warning": [
-      "II-III Kep. Sangihe"
     ]
   }
 ]
