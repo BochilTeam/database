@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/09/2023 11:07:12 WIB",
+    "lintang": "1 LU",
+    "bujur": "98.32 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 71 km Tenggara Nias",
+    "warning": [
+      "II Sibolga"
+    ]
+  },
+  {
     "waktu": "21/09/2023 01:00:43 WIB",
     "lintang": "1.23 LS",
     "bujur": "134.36 BT",
@@ -248,22 +259,6 @@
       "II Kota Gorontalo",
       "I-II Kutai Timur",
       "III Tolitoli"
-    ]
-  },
-  {
-    "waktu": "09/09/2023 07:06:16 WIB",
-    "lintang": "7.19 LS",
-    "bujur": "116.61 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "500 Km",
-    "wilayah": "Pusat gempa berada di laut 119 km TimurLaut Lombok Utara",
-    "warning": [
-      "II-III Denpasar",
-      "II-III Lombok Utara",
-      "II-III Mataram",
-      "II-III Lombok Tengah",
-      "II-III Lombok Barat",
-      "II Kuta"
     ]
   }
 ]
