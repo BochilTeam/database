@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/09/2023 01:23:21 WIB",
+    "lintang": "6.22 LS",
+    "bujur": "122.63 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 68 km BaratDaya Buton Selatan",
+    "warning": [
+      "III Buton"
+    ]
+  },
+  {
     "waktu": "21/09/2023 15:14:35 WIB",
     "lintang": "8.31 LS",
     "bujur": "123.56 BT",
@@ -240,17 +251,6 @@
     "wilayah": "Pusat gempa berada di darat 17 km Baratlaut Alor",
     "warning": [
       "II-III Alor"
-    ]
-  },
-  {
-    "waktu": "10/09/2023 10:55:22 WIB",
-    "lintang": "1.09 LU",
-    "bujur": "97.16 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di laut 35 km BaratLaut Nias Barat",
-    "warning": [
-      "II Gunung Sitoli"
     ]
   }
 ]
