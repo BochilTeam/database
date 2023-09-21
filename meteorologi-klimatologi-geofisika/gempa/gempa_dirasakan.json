@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/09/2023 15:14:35 WIB",
+    "lintang": "8.31 LS",
+    "bujur": "123.56 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di laut 19 km TimurLaut Lembata",
+    "warning": [
+      "II Lembata"
+    ]
+  },
+  {
     "waktu": "21/09/2023 11:07:12 WIB",
     "lintang": "1 LU",
     "bujur": "98.32 BT",
@@ -240,25 +251,6 @@
     "wilayah": "Pusat gempa berada di laut 35 km BaratLaut Nias Barat",
     "warning": [
       "II Gunung Sitoli"
-    ]
-  },
-  {
-    "waktu": "09/09/2023 21:43:24 WIB",
-    "lintang": "0.03 LU",
-    "bujur": "119.8 BT",
-    "magnitudo": "6.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 50 km barat laut Donggala",
-    "warning": [
-      "IV Palu",
-      "V-VI Donggala",
-      "III Poso",
-      "III Sigi",
-      "II-III Pohuwatu",
-      "II-III Kab. Gorontalo",
-      "II Kota Gorontalo",
-      "I-II Kutai Timur",
-      "III Tolitoli"
     ]
   }
 ]
