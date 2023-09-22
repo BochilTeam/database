@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22-09-23 21:59:16 WIB",
+    "lintang": "-7.13",
+    "bujur": "129.87",
+    "magnitudo": "6.6",
+    "kedalaman": "214 Km",
+    "wilayah": "184 km BaratLaut TANIBAR"
+  },
+  {
     "waktu": "17-09-23 04:17:43 WIB",
     "lintang": "-0.56",
     "bujur": "133.12",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "170 km BaratDaya KUTASELATAN-BALI"
-  },
-  {
-    "waktu": "06-08-23 17:09:22 WIB",
-    "lintang": "-1.14",
-    "bujur": "120.16",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "41 km Tenggara PALU-SULTENG"
   }
 ]

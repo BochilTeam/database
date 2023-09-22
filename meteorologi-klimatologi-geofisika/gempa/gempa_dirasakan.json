@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "22/09/2023 21:59:16 WIB",
+    "lintang": "7.13 LS",
+    "bujur": "129.87 BT",
+    "magnitudo": "6.6",
+    "kedalaman": "214 Km",
+    "wilayah": "Pusat gempa berada di laut 184 km Barat Laut Tanimbar",
+    "warning": [
+      "III-IV Saumlaki",
+      "III Maluku Tenggara",
+      "III Marsela",
+      "III Sorong",
+      "II Tepa"
+    ]
+  },
+  {
     "waktu": "22/09/2023 02:58:15 WIB",
     "lintang": "4.03 LU",
     "bujur": "96.59 BT",
@@ -241,18 +256,6 @@
     "warning": [
       "II Kota Jayapura",
       "II Genyem"
-    ]
-  },
-  {
-    "waktu": "10/09/2023 21:40:05 WIB",
-    "lintang": "2.94 LU",
-    "bujur": "98.53 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 18 km Tenggara Kab. Karo",
-    "warning": [
-      "III Kabanjahe",
-      "II Sidikalang"
     ]
   }
 ]
