@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "24/09/2023 07:10:18 WIB",
+    "lintang": "8.71 LS",
+    "bujur": "116.14 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "91 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km Tenggara Lombok Barat",
+    "warning": [
+      "III Mataram",
+      "II Karangasem"
+    ]
+  },
+  {
     "waktu": "23/09/2023 15:07:01 WIB",
     "lintang": "1.6 LS",
     "bujur": "116.18 BT",
@@ -226,19 +238,6 @@
     "wilayah": "Pusat gempa berada di laut 83 km Barat Daya Kota Sabang",
     "warning": [
       "III Banda Aceh"
-    ]
-  },
-  {
-    "waktu": "11/09/2023 23:58:15 WIB",
-    "lintang": "6.86 LS",
-    "bujur": "107.09 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km BaratDaya Kab. Cianjur",
-    "warning": [
-      "II-III Kec. Cilaku",
-      "II-III Karangtengah",
-      "II-III Cianjur"
     ]
   }
 ]
