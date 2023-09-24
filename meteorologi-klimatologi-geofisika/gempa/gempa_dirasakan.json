@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/09/2023 21:11:14 WIB",
+    "lintang": "3.31 LS",
+    "bujur": "128.99 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km Timur Masohi",
+    "warning": [
+      "II Amahai"
+    ]
+  },
+  {
     "waktu": "24/09/2023 07:10:18 WIB",
     "lintang": "8.71 LS",
     "bujur": "116.14 BT",
@@ -227,17 +238,6 @@
     "warning": [
       "III Lombok Barat",
       "II Lombok Tengah"
-    ]
-  },
-  {
-    "waktu": "12/09/2023 05:09:24 WIB",
-    "lintang": "5.82 LU",
-    "bujur": "94.57 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "102 Km",
-    "wilayah": "Pusat gempa berada di laut 83 km Barat Daya Kota Sabang",
-    "warning": [
-      "III Banda Aceh"
     ]
   }
 ]
