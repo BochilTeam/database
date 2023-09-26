@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26-09-23 08:39:47 WIB",
+    "lintang": "4.63",
+    "bujur": "127.38",
+    "magnitudo": "6.3",
+    "kedalaman": "115 Km",
+    "wilayah": "36 km Tenggara PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "24-09-23 08:27:33 WIB",
     "lintang": "1.83",
     "bujur": "96.81",
@@ -230,13 +238,5 @@
     "magnitudo": "5.9",
     "kedalaman": "154 Km",
     "wilayah": "131 km BaratDaya MALUKUTENGGARA"
-  },
-  {
-    "waktu": "10-08-23 06:25:55 WIB",
-    "lintang": "-3.56",
-    "bujur": "101.18",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "109 km Tenggara MUKOMUKO-BENGKULU"
   }
 ]

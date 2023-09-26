@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "26/09/2023 08:39:47 WIB",
+    "lintang": "4.63 LU",
+    "bujur": "127.38 BT",
+    "magnitudo": "6.3",
+    "kedalaman": "115 Km",
+    "wilayah": "Pusat gempa berada di Laut 36 Km Tenggara Pulau Karatung",
+    "warning": [
+      "III - IV Talaud",
+      "III Siau",
+      "II - III Tahuna"
+    ]
+  },
+  {
     "waktu": "24/09/2023 21:11:14 WIB",
     "lintang": "3.31 LS",
     "bujur": "128.99 BT",
@@ -226,18 +239,6 @@
       "II-III Warungkondang",
       "II-III Gekbrong",
       "II-III cianjur"
-    ]
-  },
-  {
-    "waktu": "13/09/2023 20:10:06 WIB",
-    "lintang": "9.48 LS",
-    "bujur": "116.02 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "28 Km",
-    "wilayah": "Pusat gempa berada di Laut 89 Km BaratDaya Lombok Barat",
-    "warning": [
-      "III Lombok Barat",
-      "II Lombok Tengah"
     ]
   }
 ]
