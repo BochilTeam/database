@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/09/2023 23:15:20 WIB",
+    "lintang": "3.28 LS",
+    "bujur": "128.81 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 16 km BaratLaut Maluku Tengah",
+    "warning": [
+      "II-III Amahai"
+    ]
+  },
+  {
     "waktu": "27/09/2023 20:42:57 WIB",
     "lintang": "2.58 LU",
     "bujur": "98.66 BT",
@@ -224,17 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km BaratLaut Kab. Cianjur",
     "warning": [
       "II Cilaku"
-    ]
-  },
-  {
-    "waktu": "16/09/2023 07:28:27 WIB",
-    "lintang": "4.69 LS",
-    "bujur": "121.94 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km Timurlaut Rorowatu, Kab. Bombana",
-    "warning": [
-      "III Bombana"
     ]
   }
 ]
