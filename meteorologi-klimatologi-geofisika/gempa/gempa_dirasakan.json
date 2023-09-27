@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "28/09/2023 01:19:17 WIB",
+    "lintang": "7.08 LS",
+    "bujur": "110.02 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 26 km BaratDaya Kendal",
+    "warning": [
+      "II Kendal"
+    ]
+  },
+  {
+    "waktu": "28/09/2023 00:47:22 WIB",
+    "lintang": "0.94 LU",
+    "bujur": "93.1 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 401 km BaratDaya Sinabang",
+    "warning": [
+      "II-III Banda Aceh"
+    ]
+  },
+  {
     "waktu": "27/09/2023 23:15:20 WIB",
     "lintang": "3.28 LS",
     "bujur": "128.81 BT",
@@ -213,28 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 18 km Tenggara Kutacane",
     "warning": [
       "II-III Aceh Tenggara"
-    ]
-  },
-  {
-    "waktu": "16/09/2023 17:04:55 WIB",
-    "lintang": "3.97 LU",
-    "bujur": "126.51 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "21 Km",
-    "wilayah": "Pusat gempa berada di laut 18 km Baratdaya Melonguane",
-    "warning": [
-      "IV Talaud"
-    ]
-  },
-  {
-    "waktu": "16/09/2023 11:35:47 WIB",
-    "lintang": "6.77 LS",
-    "bujur": "107.1 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km BaratLaut Kab. Cianjur",
-    "warning": [
-      "II Cilaku"
     ]
   }
 ]
