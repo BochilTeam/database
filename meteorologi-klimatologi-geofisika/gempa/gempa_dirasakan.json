@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "27/09/2023 20:42:57 WIB",
+    "lintang": "2.58 LU",
+    "bujur": "98.66 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km barat daya Samosir",
+    "warning": [
+      "III Pangururan",
+      "III Sianjur Mula Mula"
+    ]
+  },
+  {
     "waktu": "26/09/2023 08:39:47 WIB",
     "lintang": "4.63 LU",
     "bujur": "127.38 BT",
@@ -223,22 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 3 km Timurlaut Rorowatu, Kab. Bombana",
     "warning": [
       "III Bombana"
-    ]
-  },
-  {
-    "waktu": "15/09/2023 23:05:09 WIB",
-    "lintang": "6.85 LS",
-    "bujur": "107.06 BT",
-    "magnitudo": "1.9",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km barat daya Kab. Cianjur",
-    "warning": [
-      "II-III Cilaku",
-      "II-III Cugenang",
-      "II-III Karangtengah",
-      "II-III Warungkondang",
-      "II-III Gekbrong",
-      "II-III cianjur"
     ]
   }
 ]
