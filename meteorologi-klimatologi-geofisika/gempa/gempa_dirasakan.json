@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "28/09/2023 19:47:30 WIB",
+    "lintang": "5.01 LS",
+    "bujur": "104.13 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km TimurLaut Lampung Barat",
+    "warning": [
+      "II-III Liwa",
+      "II-III Pesisir Barat"
+    ]
+  },
+  {
     "waktu": "28/09/2023 16:05:40 WIB",
     "lintang": "2.66 LS",
     "bujur": "126.52 BT",
@@ -219,22 +231,6 @@
     "wilayah": "Pusat gempa berada di darat 58 Km Tenggara Tobelo",
     "warning": [
       "II-III Halmahera Timur"
-    ]
-  },
-  {
-    "waktu": "18/09/2023 06:35:02 WIB",
-    "lintang": "7.67 LS",
-    "bujur": "106.95 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "32 Km",
-    "wilayah": "Pusat gempa berada di laut 83 km Tenggara Kota Sukabumi",
-    "warning": [
-      "III Agrabinta",
-      "III Cipamingkis",
-      "III Tegalbuleud",
-      "III Surade",
-      "III Sindangbarang",
-      "III Cidaun"
     ]
   }
 ]

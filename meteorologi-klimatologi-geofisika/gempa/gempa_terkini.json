@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28-09-23 21:00:44 WIB",
+    "lintang": "-6.30",
+    "bujur": "130.24",
+    "magnitudo": "5.3",
+    "kedalaman": "188 Km",
+    "wilayah": "220 km BaratLaut TANIBAR"
+  },
+  {
     "waktu": "27-09-23 23:15:20 WIB",
     "lintang": "-3.28",
     "bujur": "128.81",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "68 Km",
     "wilayah": "73 km BaratLaut KEP.ARU-MALUKU"
-  },
-  {
-    "waktu": "10-08-23 13:14:45 WIB",
-    "lintang": "0.64",
-    "bujur": "121.46",
-    "magnitudo": "5.2",
-    "kedalaman": "48 Km",
-    "wilayah": "38 km Tenggara BUOL-SULTENG"
   }
 ]
