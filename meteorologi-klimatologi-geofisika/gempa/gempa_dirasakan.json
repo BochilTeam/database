@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/09/2023 16:05:40 WIB",
+    "lintang": "2.66 LS",
+    "bujur": "126.52 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 90 km arah Tenggara Sanana, Buru, Tenggara",
+    "warning": [
+      "II Sanana"
+    ]
+  },
+  {
     "waktu": "28/09/2023 01:19:17 WIB",
     "lintang": "7.08 LS",
     "bujur": "110.02 BT",
@@ -224,17 +235,6 @@
       "III Surade",
       "III Sindangbarang",
       "III Cidaun"
-    ]
-  },
-  {
-    "waktu": "17/09/2023 07:44:20 WIB",
-    "lintang": "3.34 LU",
-    "bujur": "97.9 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 18 km Tenggara Kutacane",
-    "warning": [
-      "II-III Aceh Tenggara"
     ]
   }
 ]
