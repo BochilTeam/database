@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/09/2023 10:00:04 WIB",
+    "lintang": "2.48 LS",
+    "bujur": "140.4 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di darat, 11 km BaratLaut Kab. Jayapura",
+    "warning": [
+      "II Kab. Jayapura"
+    ]
+  },
+  {
     "waktu": "28/09/2023 19:47:30 WIB",
     "lintang": "5.01 LS",
     "bujur": "104.13 BT",
@@ -220,17 +231,6 @@
       "III-IV Krui",
       "II Semaka",
       "II Sekincau"
-    ]
-  },
-  {
-    "waktu": "19/09/2023 11:09:56 WIB",
-    "lintang": "1.26 LU",
-    "bujur": "128.22 BT",
-    "magnitudo": "4",
-    "kedalaman": "78 Km",
-    "wilayah": "Pusat gempa berada di darat 58 Km Tenggara Tobelo",
-    "warning": [
-      "II-III Halmahera Timur"
     ]
   }
 ]
