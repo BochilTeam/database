@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-10-23 15:58:40 WIB",
+    "lintang": "-4.07",
+    "bujur": "134.02",
+    "magnitudo": "5.6",
+    "kedalaman": "14 Km",
+    "wilayah": "87 km Tenggara KAIMANA-PAPUABRT"
+  },
+  {
     "waktu": "02-10-23 13:28:21 WIB",
     "lintang": "-6.88",
     "bujur": "130.11",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "35 km TimurLaut KAB-NAGANRAYA-ACEH"
-  },
-  {
-    "waktu": "17-08-23 11:28:48 WIB",
-    "lintang": "-7.62",
-    "bujur": "105.51",
-    "magnitudo": "5.7",
-    "kedalaman": "60 Km",
-    "wilayah": "96 km BaratDaya MUARABINUANGEUN-BANTEN"
   }
 ]

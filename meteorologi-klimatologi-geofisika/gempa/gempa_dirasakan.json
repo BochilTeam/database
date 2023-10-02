@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/10/2023 15:58:40 WIB",
+    "lintang": "4.07 LS",
+    "bujur": "134.02 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 57 km Tenggara Kaimana",
+    "warning": [
+      "III-IV Kaimana"
+    ]
+  },
+  {
     "waktu": "01/10/2023 11:00:26 WIB",
     "lintang": "7.26 LS",
     "bujur": "106.6 BT",
@@ -230,17 +241,6 @@
     "wilayah": "Pusat gempa berada di Laut 37 km TimurLaut Ransiki",
     "warning": [
       "III Ransiki"
-    ]
-  },
-  {
-    "waktu": "19/09/2023 22:39:22 WIB",
-    "lintang": "2.5 LS",
-    "bujur": "140.76 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 10 km TimurLaut Kota Jayapura",
-    "warning": [
-      "III-IV Kota Jayapura"
     ]
   }
 ]
