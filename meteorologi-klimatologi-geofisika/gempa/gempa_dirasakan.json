@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/10/2023 19:26:11 WIB",
+    "lintang": "4.13 LS",
+    "bujur": "134.02 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di laut 63 km Tenggara Kaimana",
+    "warning": [
+      "III Kaimana"
+    ]
+  },
+  {
     "waktu": "02/10/2023 15:58:40 WIB",
     "lintang": "4.07 LS",
     "bujur": "134.02 BT",
@@ -230,17 +241,6 @@
     "wilayah": "Pusat gempa berada di laut 71 km Tenggara Nias",
     "warning": [
       "II Sibolga"
-    ]
-  },
-  {
-    "waktu": "21/09/2023 01:00:43 WIB",
-    "lintang": "1.23 LS",
-    "bujur": "134.36 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di Laut 37 km TimurLaut Ransiki",
-    "warning": [
-      "III Ransiki"
     ]
   }
 ]
