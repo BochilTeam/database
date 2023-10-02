@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-10-23 13:28:21 WIB",
+    "lintang": "-6.88",
+    "bujur": "130.11",
+    "magnitudo": "5.3",
+    "kedalaman": "133 Km",
+    "wilayah": "179 km BaratLaut TANIBAR"
+  },
+  {
     "waktu": "01-10-23 11:00:26 WIB",
     "lintang": "-7.26",
     "bujur": "106.60",
@@ -230,13 +238,5 @@
     "magnitudo": "5.7",
     "kedalaman": "60 Km",
     "wilayah": "96 km BaratDaya MUARABINUANGEUN-BANTEN"
-  },
-  {
-    "waktu": "15-08-23 10:54:06 WIB",
-    "lintang": "-8.65",
-    "bujur": "121.51",
-    "magnitudo": "5.8",
-    "kedalaman": "164 Km",
-    "wilayah": "22 km TimurLaut MBAY-NAGEKEO-NTT"
   }
 ]
