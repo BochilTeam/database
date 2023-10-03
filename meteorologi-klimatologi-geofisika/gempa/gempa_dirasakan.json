@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/10/2023 18:32:53 WIB",
+    "lintang": "9.25 LS",
+    "bujur": "114.53 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 92 km Barat Daya Kuta Selatan",
+    "warning": [
+      "II Kuta"
+    ]
+  },
+  {
     "waktu": "02/10/2023 19:26:11 WIB",
     "lintang": "4.13 LS",
     "bujur": "134.02 BT",
@@ -230,17 +241,6 @@
     "wilayah": "Pusat gempa berada di laut 19 km TimurLaut Lembata",
     "warning": [
       "II Lembata"
-    ]
-  },
-  {
-    "waktu": "21/09/2023 11:07:12 WIB",
-    "lintang": "1 LU",
-    "bujur": "98.32 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di laut 71 km Tenggara Nias",
-    "warning": [
-      "II Sibolga"
     ]
   }
 ]
