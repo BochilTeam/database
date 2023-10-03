@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03-10-23 20:53:07 WIB",
+    "lintang": "4.44",
+    "bujur": "127.44",
+    "magnitudo": "5.0",
+    "kedalaman": "80 Km",
+    "wilayah": "53 km Tenggara PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "02-10-23 15:58:40 WIB",
     "lintang": "-4.07",
     "bujur": "134.02",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "90 km BaratDaya PACITAN-JATIM"
-  },
-  {
-    "waktu": "17-08-23 20:16:08 WIB",
-    "lintang": "4.43",
-    "bujur": "96.57",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "35 km TimurLaut KAB-NAGANRAYA-ACEH"
   }
 ]
