@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/10/2023 05:17:05 WIB",
+    "lintang": "5.11 LS",
+    "bujur": "102.53 BT",
+    "magnitudo": "5",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 24 km TimurLaut Enggano",
+    "warning": [
+      "II-III Enggano"
+    ]
+  },
+  {
     "waktu": "03/10/2023 18:32:53 WIB",
     "lintang": "9.25 LS",
     "bujur": "114.53 BT",
@@ -230,17 +241,6 @@
     "wilayah": "Pusat gempa berada di laut 68 km BaratDaya Buton Selatan",
     "warning": [
       "III Buton"
-    ]
-  },
-  {
-    "waktu": "21/09/2023 15:14:35 WIB",
-    "lintang": "8.31 LS",
-    "bujur": "123.56 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di laut 19 km TimurLaut Lembata",
-    "warning": [
-      "II Lembata"
     ]
   }
 ]

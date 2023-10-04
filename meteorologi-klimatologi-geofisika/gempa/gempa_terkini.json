@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04-10-23 05:17:05 WIB",
+    "lintang": "-5.15",
+    "bujur": "102.36",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "24 km TimurLaut ENGGANO-BENGKULU"
+  },
+  {
     "waktu": "03-10-23 20:53:07 WIB",
     "lintang": "4.44",
     "bujur": "127.44",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "465 Km",
     "wilayah": "112 km TimurLaut RUTENG-MANGGARAI-NTT"
-  },
-  {
-    "waktu": "19-08-23 01:29:15 WIB",
-    "lintang": "-8.99",
-    "bujur": "111.06",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "90 km BaratDaya PACITAN-JATIM"
   }
 ]
