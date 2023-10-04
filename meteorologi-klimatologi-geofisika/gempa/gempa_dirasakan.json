@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/10/2023 09:18:47 WIB",
+    "lintang": "4.19 LS",
+    "bujur": "121.7 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 4,3 km tenggara Baula Kab. Kolaka",
+    "warning": [
+      "III Kolaka"
+    ]
+  },
+  {
     "waktu": "04/10/2023 05:17:05 WIB",
     "lintang": "5.11 LS",
     "bujur": "102.53 BT",
@@ -230,17 +241,6 @@
       "III Naganraya",
       "II Aceh Selatan",
       "II Aceh Barat Daya"
-    ]
-  },
-  {
-    "waktu": "22/09/2023 01:23:21 WIB",
-    "lintang": "6.22 LS",
-    "bujur": "122.63 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 68 km BaratDaya Buton Selatan",
-    "warning": [
-      "III Buton"
     ]
   }
 ]
