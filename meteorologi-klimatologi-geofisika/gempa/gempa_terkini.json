@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04-10-23 18:21:48 WIB",
+    "lintang": "5.43",
+    "bujur": "126.27",
+    "magnitudo": "6.7",
+    "kedalaman": "145 Km",
+    "wilayah": "116 km BaratLaut PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "04-10-23 05:17:05 WIB",
     "lintang": "-5.15",
     "bujur": "102.36",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "42 Km",
     "wilayah": "57 km TimurLaut POHUWATO-GORONTALO"
-  },
-  {
-    "waktu": "21-08-23 17:01:23 WIB",
-    "lintang": "-7.60",
-    "bujur": "120.50",
-    "magnitudo": "5.0",
-    "kedalaman": "465 Km",
-    "wilayah": "112 km TimurLaut RUTENG-MANGGARAI-NTT"
   }
 ]

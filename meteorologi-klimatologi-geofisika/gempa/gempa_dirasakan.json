@@ -1,5 +1,41 @@
 [
   {
+    "waktu": "04/10/2023 18:54:22 WIB",
+    "lintang": "9.1 LS",
+    "bujur": "124.93 BT",
+    "magnitudo": "3",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di darat 6 Km Timur Laut Belu",
+    "warning": [
+      "II-III Belu"
+    ]
+  },
+  {
+    "waktu": "04/10/2023 18:21:48 WIB",
+    "lintang": "5.43 LU",
+    "bujur": "126.27 BT",
+    "magnitudo": "6.7",
+    "kedalaman": "145 Km",
+    "wilayah": "Pusat gempa berada di laut 116 km BaratLaut Pulau Karatung",
+    "warning": [
+      "III - IV Sangihe",
+      "II - III Morotai Selatan",
+      "II - III Sitaro",
+      "II - III Ternate"
+    ]
+  },
+  {
+    "waktu": "04/10/2023 18:11:43 WIB",
+    "lintang": "9.27 LS",
+    "bujur": "124.86 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 13 Km Barat Daya Belu",
+    "warning": [
+      "III-IV Belu"
+    ]
+  },
+  {
     "waktu": "04/10/2023 09:18:47 WIB",
     "lintang": "4.19 LS",
     "bujur": "121.7 BT",
@@ -202,45 +238,6 @@
     "wilayah": "Pusat gempa berada di darat 29 km Timur Laut Paser",
     "warning": [
       "II-III Kab. Paser"
-    ]
-  },
-  {
-    "waktu": "23/09/2023 14:03:42 WIB",
-    "lintang": "0.59 LS",
-    "bujur": "135.87 BT",
-    "magnitudo": "4",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 22 km Timur Laut Supiori",
-    "warning": [
-      "II-III Kab. Supiori"
-    ]
-  },
-  {
-    "waktu": "22/09/2023 21:59:16 WIB",
-    "lintang": "7.13 LS",
-    "bujur": "129.87 BT",
-    "magnitudo": "6.6",
-    "kedalaman": "214 Km",
-    "wilayah": "Pusat gempa berada di laut 184 km Barat Laut Tanimbar",
-    "warning": [
-      "III-IV Saumlaki",
-      "III Maluku Tenggara",
-      "III Marsela",
-      "III Sorong",
-      "II Tepa"
-    ]
-  },
-  {
-    "waktu": "22/09/2023 02:58:15 WIB",
-    "lintang": "4.03 LU",
-    "bujur": "96.59 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 38 km tenggara Kab. Naganraya",
-    "warning": [
-      "III Naganraya",
-      "II Aceh Selatan",
-      "II Aceh Barat Daya"
     ]
   }
 ]
