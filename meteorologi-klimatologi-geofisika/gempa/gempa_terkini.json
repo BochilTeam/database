@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05-10-23 11:25:47 WIB",
+    "lintang": "-4.46",
+    "bujur": "127.09",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "99 km BaratDaya BURUSELATAN-MALUKU"
+  },
+  {
     "waktu": "05-10-23 10:38:23 WIB",
     "lintang": "4.27",
     "bujur": "125.94",
@@ -230,13 +238,5 @@
     "magnitudo": "7.1",
     "kedalaman": "525 Km",
     "wilayah": "163 km TimurLaut LOMBOKUTARA-NTB"
-  },
-  {
-    "waktu": "29-08-23 00:59:16 WIB",
-    "lintang": "4.61",
-    "bujur": "126.78",
-    "magnitudo": "5.9",
-    "kedalaman": "22 Km",
-    "wilayah": "37 km BaratDaya PULAUKARATUNG-SULUT"
   }
 ]
