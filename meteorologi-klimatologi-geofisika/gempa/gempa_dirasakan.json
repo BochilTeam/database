@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/10/2023 03:07:03 WIB",
+    "lintang": "0.8 LS",
+    "bujur": "135.85 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada didarat 15 km Tenggara Supiori",
+    "warning": [
+      "II - III Kab. Supiori"
+    ]
+  },
+  {
     "waktu": "04/10/2023 18:54:22 WIB",
     "lintang": "9.1 LS",
     "bujur": "124.93 BT",
@@ -227,17 +238,6 @@
     "warning": [
       "III Mataram",
       "II Karangasem"
-    ]
-  },
-  {
-    "waktu": "23/09/2023 15:07:01 WIB",
-    "lintang": "1.6 LS",
-    "bujur": "116.18 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di darat 29 km Timur Laut Paser",
-    "warning": [
-      "II-III Kab. Paser"
     ]
   }
 ]
