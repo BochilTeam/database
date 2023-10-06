@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "06/10/2023 13:51:33 WIB",
+    "lintang": "3.24 LS",
+    "bujur": "128.36 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km utara Kairatu",
+    "warning": [
+      "III Kairatu"
+    ]
+  },
+  {
+    "waktu": "06/10/2023 12:42:25 WIB",
+    "lintang": "0.64 LS",
+    "bujur": "127.64 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km Timur Labuha",
+    "warning": [
+      "II-III Bacan Timur"
+    ]
+  },
+  {
     "waktu": "05/10/2023 03:07:03 WIB",
     "lintang": "0.8 LS",
     "bujur": "135.85 BT",
@@ -215,29 +237,6 @@
       "III - IV Talaud",
       "III Siau",
       "II - III Tahuna"
-    ]
-  },
-  {
-    "waktu": "24/09/2023 21:11:14 WIB",
-    "lintang": "3.31 LS",
-    "bujur": "128.99 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km Timur Masohi",
-    "warning": [
-      "II Amahai"
-    ]
-  },
-  {
-    "waktu": "24/09/2023 07:10:18 WIB",
-    "lintang": "8.71 LS",
-    "bujur": "116.14 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "91 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km Tenggara Lombok Barat",
-    "warning": [
-      "III Mataram",
-      "II Karangasem"
     ]
   }
 ]
