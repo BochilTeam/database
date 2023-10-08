@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/10/2023 13:10:53 WIB",
+    "lintang": "5.77 LS",
+    "bujur": "122.82 BT",
+    "magnitudo": "3",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 12,9 km Tenggara Lapandewa, Kab. Buton Selatan",
+    "warning": [
+      "III Buton Selatan"
+    ]
+  },
+  {
     "waktu": "07/10/2023 17:20:32 WIB",
     "lintang": "5.98 LS",
     "bujur": "103.91 BT",
@@ -223,18 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 16 km BaratLaut Maluku Tengah",
     "warning": [
       "II-III Amahai"
-    ]
-  },
-  {
-    "waktu": "27/09/2023 20:42:57 WIB",
-    "lintang": "2.58 LU",
-    "bujur": "98.66 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km barat daya Samosir",
-    "warning": [
-      "III Pangururan",
-      "III Sianjur Mula Mula"
     ]
   }
 ]
