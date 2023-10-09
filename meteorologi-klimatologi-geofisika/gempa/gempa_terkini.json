@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09-10-23 10:50:50 WIB",
+    "lintang": "0.41",
+    "bujur": "122.24",
+    "magnitudo": "5.6",
+    "kedalaman": "101 Km",
+    "wilayah": "17 km BaratDaya BOALEMO-GORONTALO"
+  },
+  {
     "waktu": "05-10-23 11:25:47 WIB",
     "lintang": "-4.46",
     "bujur": "127.09",
@@ -230,13 +238,5 @@
     "magnitudo": "6.4",
     "kedalaman": "209 Km",
     "wilayah": "275 km BaratDaya SERAMBAGIANTIMUR-MALUKU"
-  },
-  {
-    "waktu": "29-08-23 02:55:32 WIB",
-    "lintang": "-6.94",
-    "bujur": "116.57",
-    "magnitudo": "7.1",
-    "kedalaman": "525 Km",
-    "wilayah": "163 km TimurLaut LOMBOKUTARA-NTB"
   }
 ]
