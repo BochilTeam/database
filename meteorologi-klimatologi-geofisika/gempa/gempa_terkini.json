@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-10-23 03:20:24 WIB",
+    "lintang": "-6.71",
+    "bujur": "129.89",
+    "magnitudo": "5.0",
+    "kedalaman": "181 Km",
+    "wilayah": "210 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "09-10-23 10:50:50 WIB",
     "lintang": "0.41",
     "bujur": "122.24",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "94 km BaratDaya PESISIRBARAT-LAMPUNG"
-  },
-  {
-    "waktu": "29-08-23 11:34:46 WIB",
-    "lintang": "-5.54",
-    "bujur": "130.04",
-    "magnitudo": "6.4",
-    "kedalaman": "209 Km",
-    "wilayah": "275 km BaratDaya SERAMBAGIANTIMUR-MALUKU"
   }
 ]
