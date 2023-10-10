@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "10/10/2023 23:42:29 WIB",
+    "lintang": "8.82 LS",
+    "bujur": "112.5 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "38 Km",
+    "wilayah": "Pusat gempa berada di laut 76 km BaratDaya Kabupaten Malang",
+    "warning": [
+      "III Karangkates",
+      "II Kepanjen",
+      "II Blitar",
+      "II Lumajang",
+      "II Jember"
+    ]
+  },
+  {
     "waktu": "09/10/2023 10:50:50 WIB",
     "lintang": "0.41 LU",
     "bujur": "122.24 BT",
@@ -231,17 +246,6 @@
     "wilayah": "Pusat gempa berada di darat 26 km BaratDaya Kendal",
     "warning": [
       "II Kendal"
-    ]
-  },
-  {
-    "waktu": "28/09/2023 00:47:22 WIB",
-    "lintang": "0.94 LU",
-    "bujur": "93.1 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 401 km BaratDaya Sinabang",
-    "warning": [
-      "II-III Banda Aceh"
     ]
   }
 ]
