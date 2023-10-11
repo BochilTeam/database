@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/10/2023 09:16:13 WIB",
+    "lintang": "6.84 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km Barat Daya Cianjur",
+    "warning": [
+      "II Cianjur"
+    ]
+  },
+  {
     "waktu": "10/10/2023 23:42:29 WIB",
     "lintang": "8.82 LS",
     "bujur": "112.5 BT",
@@ -235,17 +246,6 @@
     "wilayah": "Pusat gempa berada di laut 90 km arah Tenggara Sanana, Buru, Tenggara",
     "warning": [
       "II Sanana"
-    ]
-  },
-  {
-    "waktu": "28/09/2023 01:19:17 WIB",
-    "lintang": "7.08 LS",
-    "bujur": "110.02 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 26 km BaratDaya Kendal",
-    "warning": [
-      "II Kendal"
     ]
   }
 ]
