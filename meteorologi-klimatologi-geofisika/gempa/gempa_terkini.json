@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-10-23 13:18:43 WIB",
+    "lintang": "-4.42",
+    "bujur": "133.90",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "125 km BaratDaya KAIMANA-PAPUABRT"
+  },
+  {
     "waktu": "11-10-23 03:20:24 WIB",
     "lintang": "-6.71",
     "bujur": "129.89",
@@ -230,13 +238,5 @@
     "magnitudo": "6.1",
     "kedalaman": "75 Km",
     "wilayah": "36 km BaratLaut TIMORTENGAHSEL-NTT"
-  },
-  {
-    "waktu": "30-08-23 09:17:02 WIB",
-    "lintang": "-6.04",
-    "bujur": "103.87",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "94 km BaratDaya PESISIRBARAT-LAMPUNG"
   }
 ]
