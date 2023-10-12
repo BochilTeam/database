@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/10/2023 16:30:02 WIB",
+    "lintang": "10.1 LS",
+    "bujur": "120.12 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km Barat Laut Karera - Sumba",
+    "warning": [
+      "III Sumba Timur"
+    ]
+  },
+  {
     "waktu": "12/10/2023 06:44:42 WIB",
     "lintang": "6.75 LS",
     "bujur": "106.65 BT",
@@ -222,30 +233,6 @@
     "wilayah": "Pusat gempa berada di laut 57 km Tenggara Kaimana",
     "warning": [
       "III-IV Kaimana"
-    ]
-  },
-  {
-    "waktu": "01/10/2023 11:00:26 WIB",
-    "lintang": "7.26 LS",
-    "bujur": "106.6 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "88 Km",
-    "wilayah": "Pusat gempa berada di darat 30 km Tenggara Kab. Sukabumi",
-    "warning": [
-      "IV Sukabumi",
-      "III Sawarna",
-      "III Pelabuhan Ratu",
-      "III Soreang",
-      "III Cianjur",
-      "II-III Cibadak",
-      "II-III Bandung",
-      "II Bogor",
-      "IV Cisolok",
-      "III Cipanas",
-      "II Lebak",
-      "IV Kota Sukabumi",
-      "II Tasikmalaya",
-      "II Pandeglang"
     ]
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-10-23 16:30:02 WIB",
+    "lintang": "-10.18",
+    "bujur": "120.12",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "17 km BaratLaut KARERA-SUMBATIMUR-NTT"
+  },
+  {
     "waktu": "12-10-23 13:18:43 WIB",
     "lintang": "-4.42",
     "bujur": "133.90",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "208 km BaratDaya SINABANG-ACEH"
-  },
-  {
-    "waktu": "31-08-23 17:29:30 WIB",
-    "lintang": "-9.69",
-    "bujur": "124.10",
-    "magnitudo": "6.1",
-    "kedalaman": "75 Km",
-    "wilayah": "36 km BaratLaut TIMORTENGAHSEL-NTT"
   }
 ]
