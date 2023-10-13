@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/10/2023 21:17:06 WIB",
+    "lintang": "1.05 LU",
+    "bujur": "127.47 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 1 km tenggara Jailolo",
+    "warning": [
+      "II-III Jailolo"
+    ]
+  },
+  {
     "waktu": "12/10/2023 16:30:02 WIB",
     "lintang": "10.1 LS",
     "bujur": "120.12 BT",
@@ -222,17 +233,6 @@
     "wilayah": "Pusat gempa berada di laut 63 km Tenggara Kaimana",
     "warning": [
       "III Kaimana"
-    ]
-  },
-  {
-    "waktu": "02/10/2023 15:58:40 WIB",
-    "lintang": "4.07 LS",
-    "bujur": "134.02 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 57 km Tenggara Kaimana",
-    "warning": [
-      "III-IV Kaimana"
     ]
   }
 ]
