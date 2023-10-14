@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "14/10/2023 10:49:30 WIB",
+    "lintang": "4.89 LS",
+    "bujur": "103.97 BT",
+    "magnitudo": "4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km Barat Laut Lampung Barat",
+    "warning": [
+      "III Liwa",
+      "II Pesisir Barat"
+    ]
+  },
+  {
     "waktu": "13/10/2023 21:17:06 WIB",
     "lintang": "1.05 LU",
     "bujur": "127.47 BT",
@@ -222,17 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 92 km Barat Daya Kuta Selatan",
     "warning": [
       "II Kuta"
-    ]
-  },
-  {
-    "waktu": "02/10/2023 19:26:11 WIB",
-    "lintang": "4.13 LS",
-    "bujur": "134.02 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di laut 63 km Tenggara Kaimana",
-    "warning": [
-      "III Kaimana"
     ]
   }
 ]
