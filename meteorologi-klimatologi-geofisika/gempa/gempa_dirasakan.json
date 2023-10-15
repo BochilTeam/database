@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "15/10/2023 22:24:44 WIB",
+    "lintang": "8.2 LS",
+    "bujur": "118.09 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di darat 55 km barat laut Dompu",
+    "warning": [
+      "III Dompu",
+      "III Kab. Bima"
+    ]
+  },
+  {
     "waktu": "15/10/2023 18:41:21 WIB",
     "lintang": "8.23 LS",
     "bujur": "123.02 BT",
@@ -225,17 +237,6 @@
     "wilayah": "Pusat gempa berada di darat 4,3 km tenggara Baula Kab. Kolaka",
     "warning": [
       "III Kolaka"
-    ]
-  },
-  {
-    "waktu": "04/10/2023 05:17:05 WIB",
-    "lintang": "5.11 LS",
-    "bujur": "102.53 BT",
-    "magnitudo": "5",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 24 km TimurLaut Enggano",
-    "warning": [
-      "II-III Enggano"
     ]
   }
 ]
