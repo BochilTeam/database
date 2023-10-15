@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "15/10/2023 18:41:21 WIB",
+    "lintang": "8.23 LS",
+    "bujur": "123.02 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 11 km TimurLaut Larantuka",
+    "warning": [
+      "II - III Larantuka",
+      "II - III Adonara",
+      "II-III Lembata"
+    ]
+  },
+  {
     "waktu": "14/10/2023 10:49:30 WIB",
     "lintang": "4.89 LS",
     "bujur": "103.97 BT",
@@ -223,17 +236,6 @@
     "wilayah": "Pusat gempa berada di laut 24 km TimurLaut Enggano",
     "warning": [
       "II-III Enggano"
-    ]
-  },
-  {
-    "waktu": "03/10/2023 18:32:53 WIB",
-    "lintang": "9.25 LS",
-    "bujur": "114.53 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di laut 92 km Barat Daya Kuta Selatan",
-    "warning": [
-      "II Kuta"
     ]
   }
 ]
