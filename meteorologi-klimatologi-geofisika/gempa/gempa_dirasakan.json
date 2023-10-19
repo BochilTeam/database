@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "19/10/2023 21:08:24 WIB",
+    "lintang": "8.09 LS",
+    "bujur": "107.34 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di laut 114 km Barat Daya Garut",
+    "warning": [
+      "III Pelabuhan Ratu",
+      "III Cianjur",
+      "III Sukabumi",
+      "III Cilacap",
+      "III Garut",
+      "III Pangandaran",
+      "III Cikelet",
+      "II Lembang",
+      "II Bandung",
+      "II Parompong",
+      "II Bogor",
+      "II Cireunghas"
+    ]
+  },
+  {
     "waktu": "15/10/2023 22:24:44 WIB",
     "lintang": "8.2 LS",
     "bujur": "118.09 BT",
@@ -226,17 +248,6 @@
     "wilayah": "Pusat gempa berada di darat 13 Km Barat Daya Belu",
     "warning": [
       "III-IV Belu"
-    ]
-  },
-  {
-    "waktu": "04/10/2023 09:18:47 WIB",
-    "lintang": "4.19 LS",
-    "bujur": "121.7 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 4,3 km tenggara Baula Kab. Kolaka",
-    "warning": [
-      "III Kolaka"
     ]
   }
 ]

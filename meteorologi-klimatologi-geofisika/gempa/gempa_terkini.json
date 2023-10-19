@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19-10-23 21:08:24 WIB",
+    "lintang": "-8.09",
+    "bujur": "107.34",
+    "magnitudo": "5.6",
+    "kedalaman": "18 Km",
+    "wilayah": "114 km BaratDaya KAB-GARUT-JABAR"
+  },
+  {
     "waktu": "12-10-23 16:30:02 WIB",
     "lintang": "-10.18",
     "bujur": "120.12",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "132 Km",
     "wilayah": "176 km Tenggara SERAMBAGIANTIMUR-MALUKU"
-  },
-  {
-    "waktu": "02-09-23 01:25:35 WIB",
-    "lintang": "0.77",
-    "bujur": "95.58",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "208 km BaratDaya SINABANG-ACEH"
   }
 ]
