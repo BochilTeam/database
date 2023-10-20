@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "20/10/2023 22:12:45 WIB",
+    "lintang": "2.66 LS",
+    "bujur": "140.83 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada didarat 19Km Tenggara Kota Jayapura",
+    "warning": [
+      "III Kota Jayapura",
+      "II Kab.Jayapura"
+    ]
+  },
+  {
     "waktu": "20/10/2023 14:57:31 WIB",
     "lintang": "2.81 LS",
     "bujur": "129.94 BT",
@@ -234,17 +246,6 @@
     "wilayah": "Pusat gempa berada didarat 15 km Tenggara Supiori",
     "warning": [
       "II - III Kab. Supiori"
-    ]
-  },
-  {
-    "waktu": "04/10/2023 18:54:22 WIB",
-    "lintang": "9.1 LS",
-    "bujur": "124.93 BT",
-    "magnitudo": "3",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di darat 6 Km Timur Laut Belu",
-    "warning": [
-      "II-III Belu"
     ]
   }
 ]
