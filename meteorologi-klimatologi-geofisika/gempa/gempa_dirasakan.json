@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/10/2023 14:57:31 WIB",
+    "lintang": "2.81 LS",
+    "bujur": "129.94 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 69 km barat laut Seram Bagian Timur",
+    "warning": [
+      "III Kobi"
+    ]
+  },
+  {
     "waktu": "20/10/2023 11:28:03 WIB",
     "lintang": "8.39 LS",
     "bujur": "120.6 BT",
@@ -234,20 +245,6 @@
     "wilayah": "Pusat gempa berada di darat 6 Km Timur Laut Belu",
     "warning": [
       "II-III Belu"
-    ]
-  },
-  {
-    "waktu": "04/10/2023 18:21:48 WIB",
-    "lintang": "5.43 LU",
-    "bujur": "126.27 BT",
-    "magnitudo": "6.7",
-    "kedalaman": "145 Km",
-    "wilayah": "Pusat gempa berada di laut 116 km BaratLaut Pulau Karatung",
-    "warning": [
-      "III - IV Sangihe",
-      "II - III Morotai Selatan",
-      "II - III Sitaro",
-      "II - III Ternate"
     ]
   }
 ]
