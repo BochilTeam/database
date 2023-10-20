@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/10/2023 11:28:03 WIB",
+    "lintang": "8.39 LS",
+    "bujur": "120.6 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di darat 28 km TimurLaut Ruteng",
+    "warning": [
+      "III Ruteng"
+    ]
+  },
+  {
     "waktu": "19/10/2023 21:08:24 WIB",
     "lintang": "8.09 LS",
     "bujur": "107.34 BT",
@@ -237,17 +248,6 @@
       "II - III Morotai Selatan",
       "II - III Sitaro",
       "II - III Ternate"
-    ]
-  },
-  {
-    "waktu": "04/10/2023 18:11:43 WIB",
-    "lintang": "9.27 LS",
-    "bujur": "124.86 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 13 Km Barat Daya Belu",
-    "warning": [
-      "III-IV Belu"
     ]
   }
 ]
