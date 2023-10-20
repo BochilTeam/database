@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "21/10/2023 02:51:59 WIB",
+    "lintang": "0.68 LU",
+    "bujur": "125.3 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "33 Km",
+    "wilayah": "Pusat gempa berada di Laut 69 km Tenggara Ratahan",
+    "warning": [
+      "II-III Tondano",
+      "II-III Ratahan"
+    ]
+  },
+  {
     "waktu": "20/10/2023 22:12:45 WIB",
     "lintang": "2.66 LS",
     "bujur": "140.83 BT",
@@ -235,17 +247,6 @@
     "wilayah": "Pusat gempa berada di darat 15 km Timur Labuha",
     "warning": [
       "II-III Bacan Timur"
-    ]
-  },
-  {
-    "waktu": "05/10/2023 03:07:03 WIB",
-    "lintang": "0.8 LS",
-    "bujur": "135.85 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada didarat 15 km Tenggara Supiori",
-    "warning": [
-      "II - III Kab. Supiori"
     ]
   }
 ]

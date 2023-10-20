@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "21-10-23 02:51:59 WIB",
+    "lintang": "0.68",
+    "bujur": "125.30",
+    "magnitudo": "5.1",
+    "kedalaman": "33 Km",
+    "wilayah": "69 km Tenggara RATAHAN-MITRA-SULUT"
+  },
+  {
+    "waktu": "21-10-23 02:02:12 WIB",
+    "lintang": "27.76",
+    "bujur": "139.37",
+    "magnitudo": "5.2",
+    "kedalaman": "11 Km",
+    "wilayah": "884 km BaratDaya TOKYO-JAPAN"
+  },
+  {
+    "waktu": "21-10-23 01:01:38 WIB",
+    "lintang": "-0.71",
+    "bujur": "98.47",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "160 km Tenggara NIASSELATAN-SUMUT"
+  },
+  {
     "waktu": "20-10-23 14:57:31 WIB",
     "lintang": "-2.81",
     "bujur": "129.94",
@@ -214,29 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "210 Km",
     "wilayah": "101 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "09-09-23 07:06:16 WIB",
-    "lintang": "-7.19",
-    "bujur": "116.61",
-    "magnitudo": "5.7",
-    "kedalaman": "500 Km",
-    "wilayah": "139 km TimurLaut LOMBOKUTARA-NTB"
-  },
-  {
-    "waktu": "08-09-23 02:20:11 WIB",
-    "lintang": "4.57",
-    "bujur": "127.76",
-    "magnitudo": "5.7",
-    "kedalaman": "130 Km",
-    "wilayah": "78 km Tenggara PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "05-09-23 21:58:04 WIB",
-    "lintang": "2.68",
-    "bujur": "95.89",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "57 km BaratLaut SINABANG-ACEH"
   }
 ]
