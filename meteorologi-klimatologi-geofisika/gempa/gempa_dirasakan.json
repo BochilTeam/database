@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/10/2023 14:07:12 WIB",
+    "lintang": "4.38 LS",
+    "bujur": "134.57 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di laut 123 km Tenggara Kaimana",
+    "warning": [
+      "II Kaimana"
+    ]
+  },
+  {
     "waktu": "21/10/2023 02:51:59 WIB",
     "lintang": "0.68 LU",
     "bujur": "125.3 BT",
@@ -236,17 +247,6 @@
     "wilayah": "Pusat gempa berada di darat 11 km utara Kairatu",
     "warning": [
       "III Kairatu"
-    ]
-  },
-  {
-    "waktu": "06/10/2023 12:42:25 WIB",
-    "lintang": "0.64 LS",
-    "bujur": "127.64 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km Timur Labuha",
-    "warning": [
-      "II-III Bacan Timur"
     ]
   }
 ]
