@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "21/10/2023 17:03:48 WIB",
+    "lintang": "8.35 LS",
+    "bujur": "115.01 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 24 km Barat Laut Tabanan",
+    "warning": [
+      "II Tabanan",
+      "II Buleleng"
+    ]
+  },
+  {
     "waktu": "21/10/2023 14:07:12 WIB",
     "lintang": "4.38 LS",
     "bujur": "134.57 BT",
@@ -236,17 +248,6 @@
     "wilayah": "Pusat gempa berada di laut 88 Km Barat Daya Pesisir Barat",
     "warning": [
       "II Bangkunat"
-    ]
-  },
-  {
-    "waktu": "06/10/2023 13:51:33 WIB",
-    "lintang": "3.24 LS",
-    "bujur": "128.36 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km utara Kairatu",
-    "warning": [
-      "III Kairatu"
     ]
   }
 ]
