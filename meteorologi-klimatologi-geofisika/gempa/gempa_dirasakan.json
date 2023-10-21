@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/10/2023 19:04:56 WIB",
+    "lintang": "8.1 LS",
+    "bujur": "118.03 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 68 km barat laut Dompu",
+    "warning": [
+      "III Kab. Bima"
+    ]
+  },
+  {
     "waktu": "21/10/2023 17:03:48 WIB",
     "lintang": "8.35 LS",
     "bujur": "115.01 BT",
@@ -237,17 +248,6 @@
     "wilayah": "Pusat gempa berada di laut 12,9 km Tenggara Lapandewa, Kab. Buton Selatan",
     "warning": [
       "III Buton Selatan"
-    ]
-  },
-  {
-    "waktu": "07/10/2023 17:20:32 WIB",
-    "lintang": "5.98 LS",
-    "bujur": "103.91 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di laut 88 Km Barat Daya Pesisir Barat",
-    "warning": [
-      "II Bangkunat"
     ]
   }
 ]
