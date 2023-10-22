@@ -1,19 +1,19 @@
 [
   {
+    "waktu": "22-10-23 21:23:05 WIB",
+    "lintang": "0.48",
+    "bujur": "98.37",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "62 km Tenggara NIASSELATAN-SUMUT"
+  },
+  {
     "waktu": "21-10-23 02:51:59 WIB",
     "lintang": "0.68",
     "bujur": "125.30",
     "magnitudo": "5.1",
     "kedalaman": "33 Km",
     "wilayah": "69 km Tenggara RATAHAN-MITRA-SULUT"
-  },
-  {
-    "waktu": "21-10-23 02:02:12 WIB",
-    "lintang": "27.76",
-    "bujur": "139.37",
-    "magnitudo": "5.2",
-    "kedalaman": "11 Km",
-    "wilayah": "884 km BaratDaya TOKYO-JAPAN"
   },
   {
     "waktu": "21-10-23 01:01:38 WIB",

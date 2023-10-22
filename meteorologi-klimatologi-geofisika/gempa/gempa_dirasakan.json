@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "22/10/2023 21:23:05 WIB",
+    "lintang": "0.48 LU",
+    "bujur": "98.37 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 62 km tenggara Nias Selatan",
+    "warning": [
+      "III-IV Pinangsori",
+      "II-III Gunung Sitoli",
+      "II-III Pasaman Barat",
+      "II Mandailing Natal",
+      "II Aek Godang",
+      "II-III Nias Selatan"
+    ]
+  },
+  {
     "waktu": "21/10/2023 19:04:56 WIB",
     "lintang": "8.1 LS",
     "bujur": "118.03 BT",
@@ -237,17 +253,6 @@
       "III Toli toli",
       "III Buol",
       "III Boalemo"
-    ]
-  },
-  {
-    "waktu": "08/10/2023 13:10:53 WIB",
-    "lintang": "5.77 LS",
-    "bujur": "122.82 BT",
-    "magnitudo": "3",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di laut 12,9 km Tenggara Lapandewa, Kab. Buton Selatan",
-    "warning": [
-      "III Buton Selatan"
     ]
   }
 ]
