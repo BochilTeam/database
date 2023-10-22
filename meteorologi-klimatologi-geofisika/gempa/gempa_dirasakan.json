@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/10/2023 01:51:10 WIB",
+    "lintang": "5.49 LU",
+    "bujur": "95.58 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km BaratLaut Jantho",
+    "warning": [
+      "II Banda Aceh"
+    ]
+  },
+  {
     "waktu": "22/10/2023 21:23:05 WIB",
     "lintang": "0.48 LU",
     "bujur": "98.37 BT",
@@ -234,25 +245,6 @@
       "II Blitar",
       "II Lumajang",
       "II Jember"
-    ]
-  },
-  {
-    "waktu": "09/10/2023 10:50:50 WIB",
-    "lintang": "0.41 LU",
-    "bujur": "122.24 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "101 Km",
-    "wilayah": "Pusat gempa berada di laut 17 km BaratDaya Boalemo",
-    "warning": [
-      "II - III Gorontalo",
-      "II-III Pohuwato",
-      "II-III Kab. Gorontalo",
-      "III Kab. Gorontalo Utara",
-      "III Bone Bolango",
-      "III Bolaang Mongondow Utara",
-      "III Toli toli",
-      "III Buol",
-      "III Boalemo"
     ]
   }
 ]
