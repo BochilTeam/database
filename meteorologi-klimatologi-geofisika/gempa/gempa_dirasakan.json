@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/10/2023 04:51:05 WIB",
+    "lintang": "3.21 LU",
+    "bujur": "97.19 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "48 Km",
+    "wilayah": "Pusat gempa berada di laut 11 km BaratDaya Kab-Aceh Selatan",
+    "warning": [
+      "III Aceh Selatan"
+    ]
+  },
+  {
     "waktu": "23/10/2023 01:51:10 WIB",
     "lintang": "5.49 LU",
     "bujur": "95.58 BT",
@@ -230,21 +241,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km Barat Daya Cianjur",
     "warning": [
       "II Cianjur"
-    ]
-  },
-  {
-    "waktu": "10/10/2023 23:42:29 WIB",
-    "lintang": "8.82 LS",
-    "bujur": "112.5 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "38 Km",
-    "wilayah": "Pusat gempa berada di laut 76 km BaratDaya Kabupaten Malang",
-    "warning": [
-      "III Karangkates",
-      "II Kepanjen",
-      "II Blitar",
-      "II Lumajang",
-      "II Jember"
     ]
   }
 ]
