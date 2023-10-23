@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "23/10/2023 22:30:23 WIB",
+    "lintang": "1.1 LU",
+    "bujur": "127.96 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 55 km TimurLaut Sofifi",
+    "warning": [
+      "II-III Jailolo",
+      "II-III Tidore",
+      "II-III Buli",
+      "III Subaim"
+    ]
+  },
+  {
     "waktu": "23/10/2023 17:55:58 WIB",
     "lintang": "1.37 LS",
     "bujur": "119.61 BT",
@@ -230,17 +244,6 @@
     "warning": [
       "II-III Ambon",
       "II-III Kairatu"
-    ]
-  },
-  {
-    "waktu": "11/10/2023 11:41:19 WIB",
-    "lintang": "3.76 LS",
-    "bujur": "133.68 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di laut 15 Km Barat Daya Kaimana",
-    "warning": [
-      "II Kaimana"
     ]
   }
 ]
