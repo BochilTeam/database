@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/10/2024 17:55:58 WIB",
+    "lintang": "1.37 LS",
+    "bujur": "119.61 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km tenggara lalundu Donggala",
+    "warning": [
+      "III-IV Rio Pakava"
+    ]
+  },
+  {
     "waktu": "23/10/2023 04:51:05 WIB",
     "lintang": "3.21 LU",
     "bujur": "97.19 BT",
@@ -230,17 +241,6 @@
     "wilayah": "Pusat gempa berada di laut 15 Km Barat Daya Kaimana",
     "warning": [
       "II Kaimana"
-    ]
-  },
-  {
-    "waktu": "11/10/2023 09:16:13 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km Barat Daya Cianjur",
-    "warning": [
-      "II Cianjur"
     ]
   }
 ]
