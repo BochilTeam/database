@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "25/10/2023 20:25:01 WIB",
+    "lintang": "0.99 LU",
+    "bujur": "124.86 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "123 Km",
+    "wilayah": "Pusat gempa berada di Darat 9 Km Tenggara Ratahan",
+    "warning": [
+      "II-III Manado",
+      "II-III Tondano",
+      "II-III Bitung",
+      "II Kotamobagu",
+      "II-III Halmahera Barat",
+      "II-III Bolaang Mongondow Timur",
+      "II-III Minahasa Tenggara"
+    ]
+  },
+  {
     "waktu": "24/10/2023 05:47:56 WIB",
     "lintang": "8.19 LS",
     "bujur": "107.9 BT",
@@ -238,17 +255,6 @@
     "wilayah": "Pusat gempa berada di darat 17 km Barat Laut Karera - Sumba",
     "warning": [
       "III Sumba Timur"
-    ]
-  },
-  {
-    "waktu": "12/10/2023 06:44:42 WIB",
-    "lintang": "6.75 LS",
-    "bujur": "106.65 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 23 km barat daya Kota Bogor",
-    "warning": [
-      "II Klapanunggal Bogor"
     ]
   }
 ]
