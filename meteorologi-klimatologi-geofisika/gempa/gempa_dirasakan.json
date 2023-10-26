@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/10/2023 12:44:17 WIB",
+    "lintang": "7.34 LS",
+    "bujur": "129.36 BT",
+    "magnitudo": "6.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 176 km Timur Laut Maluku Barat Daya",
+    "warning": [
+      "III-IV Saumlaki"
+    ]
+  },
+  {
     "waktu": "25/10/2023 20:25:01 WIB",
     "lintang": "0.99 LU",
     "bujur": "124.86 BT",
@@ -244,17 +255,6 @@
     "wilayah": "Pusat gempa berada di laut 1 km tenggara Jailolo",
     "warning": [
       "II-III Jailolo"
-    ]
-  },
-  {
-    "waktu": "12/10/2023 16:30:02 WIB",
-    "lintang": "10.1 LS",
-    "bujur": "120.12 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km Barat Laut Karera - Sumba",
-    "warning": [
-      "III Sumba Timur"
     ]
   }
 ]
