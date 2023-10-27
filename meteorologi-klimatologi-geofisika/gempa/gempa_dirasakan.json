@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "27/10/2023 14:49:51 WIB",
+    "lintang": "9.71 LS",
+    "bujur": "120.22 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "44 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km barat daya Waingapu",
+    "warning": [
+      "III - IV Waingapu",
+      "II Waitabula",
+      "II Waikabubak",
+      "II Bima"
+    ]
+  },
+  {
     "waktu": "26/10/2023 12:44:17 WIB",
     "lintang": "7.34 LS",
     "bujur": "129.36 BT",
@@ -244,17 +258,6 @@
     "warning": [
       "III Liwa",
       "II Pesisir Barat"
-    ]
-  },
-  {
-    "waktu": "13/10/2023 21:17:06 WIB",
-    "lintang": "1.05 LU",
-    "bujur": "127.47 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 1 km tenggara Jailolo",
-    "warning": [
-      "II-III Jailolo"
     ]
   }
 ]
