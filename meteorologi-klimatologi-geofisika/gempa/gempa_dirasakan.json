@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "29/10/2023 00:30:13 WIB",
+    "lintang": "4.58 LU",
+    "bujur": "95.05 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 59 km Barat Daya Calang-Aceh Jaya",
+    "warning": [
+      "II Lhoong",
+      "Aceh Besar"
+    ]
+  },
+  {
     "waktu": "28/10/2023 22:01:57 WIB",
     "lintang": "1.88 LU",
     "bujur": "120.2 BT",
@@ -245,18 +257,6 @@
       "II Parompong",
       "II Bogor",
       "II Cireunghas"
-    ]
-  },
-  {
-    "waktu": "15/10/2023 22:24:44 WIB",
-    "lintang": "8.2 LS",
-    "bujur": "118.09 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di darat 55 km barat laut Dompu",
-    "warning": [
-      "III Dompu",
-      "III Kab. Bima"
     ]
   }
 ]
