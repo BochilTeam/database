@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28-10-23 20:04:53 WIB",
+    "lintang": "-7.52",
+    "bujur": "125.90",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "172 km TimurLaut ALOR-NTT"
+  },
+  {
     "waktu": "28-10-23 04:50:29 WIB",
     "lintang": "-0.14",
     "bujur": "125.88",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "21 Km",
     "wilayah": "18 km BaratDaya MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "13-09-23 12:34:31 WIB",
-    "lintang": "-5.98",
-    "bujur": "110.03",
-    "magnitudo": "5.3",
-    "kedalaman": "680 Km",
-    "wilayah": "97 km BaratLaut JEPARA-JATENG"
   }
 ]
