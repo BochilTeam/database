@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28-10-23 22:01:57 WIB",
+    "lintang": "1.88",
+    "bujur": "120.20",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "127 km BaratLaut TOLI-TOLI-SULTENG"
+  },
+  {
     "waktu": "28-10-23 20:04:53 WIB",
     "lintang": "-7.52",
     "bujur": "125.90",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "84 km TimurLaut TAMBRAUW-PAPUABRT"
-  },
-  {
-    "waktu": "16-09-23 17:04:55 WIB",
-    "lintang": "3.97",
-    "bujur": "126.51",
-    "magnitudo": "5.3",
-    "kedalaman": "21 Km",
-    "wilayah": "18 km BaratDaya MELONGUANE-SULUT"
   }
 ]
