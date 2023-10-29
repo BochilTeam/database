@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "30/10/2023 01:21:44 WIB",
+    "lintang": "2.31 LS",
+    "bujur": "113.02 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di darat 25 km TimurLaut Sampit",
+    "warning": [
+      "III Kec. Baamang",
+      "III Kec. Mentawa Baru",
+      "Ketapang"
+    ]
+  },
+  {
     "waktu": "29/10/2023 08:16:15 WIB",
     "lintang": "1.84 LS",
     "bujur": "124.59 BT",
@@ -237,17 +250,6 @@
     "warning": [
       "III Kota Jayapura",
       "II Kab.Jayapura"
-    ]
-  },
-  {
-    "waktu": "20/10/2023 14:57:31 WIB",
-    "lintang": "2.81 LS",
-    "bujur": "129.94 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 69 km barat laut Seram Bagian Timur",
-    "warning": [
-      "III Kobi"
     ]
   }
 ]
