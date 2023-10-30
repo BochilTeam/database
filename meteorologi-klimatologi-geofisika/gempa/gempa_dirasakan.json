@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "31/10/2023 04:44:48 WIB",
+    "lintang": "8.81 LS",
+    "bujur": "113.89 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "81 Km",
+    "wilayah": "Pusat gempa berada di laut 73 km Tenggara Jember",
+    "warning": [
+      "II Jember",
+      "II Badung"
+    ]
+  },
+  {
     "waktu": "30/10/2023 19:15:16 WIB",
     "lintang": "3.16 LS",
     "bujur": "128.2 BT",
@@ -237,18 +249,6 @@
     "wilayah": "Pusat gempa berada di laut 123 km Tenggara Kaimana",
     "warning": [
       "II Kaimana"
-    ]
-  },
-  {
-    "waktu": "21/10/2023 02:51:59 WIB",
-    "lintang": "0.68 LU",
-    "bujur": "125.3 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "33 Km",
-    "wilayah": "Pusat gempa berada di Laut 69 km Tenggara Ratahan",
-    "warning": [
-      "II-III Tondano",
-      "II-III Ratahan"
     ]
   }
 ]
