@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/10/2023 19:15:16 WIB",
+    "lintang": "3.16 LS",
+    "bujur": "128.2 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km selatan Piru",
+    "warning": [
+      "II Piru"
+    ]
+  },
+  {
     "waktu": "30/10/2023 01:21:44 WIB",
     "lintang": "2.31 LS",
     "bujur": "113.02 BT",
@@ -238,18 +249,6 @@
     "warning": [
       "II-III Tondano",
       "II-III Ratahan"
-    ]
-  },
-  {
-    "waktu": "20/10/2023 22:12:45 WIB",
-    "lintang": "2.66 LS",
-    "bujur": "140.83 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada didarat 19Km Tenggara Kota Jayapura",
-    "warning": [
-      "III Kota Jayapura",
-      "II Kab.Jayapura"
     ]
   }
 ]
