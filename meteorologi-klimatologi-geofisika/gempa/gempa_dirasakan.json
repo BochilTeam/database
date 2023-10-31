@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "31/10/2023 17:56:34 WIB",
+    "lintang": "3.68 LS",
+    "bujur": "128.17 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 2 km BaratLaut Ambon",
+    "warning": [
+      "II Ambon"
+    ]
+  },
+  {
+    "waktu": "31/10/2023 17:22:59 WIB",
+    "lintang": "0.18 LS",
+    "bujur": "132.86 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 73 km BaratLaut Manokwari",
+    "warning": [
+      "III Tambrauw"
+    ]
+  },
+  {
     "waktu": "31/10/2023 04:44:48 WIB",
     "lintang": "8.81 LS",
     "bujur": "113.89 BT",
@@ -226,29 +248,6 @@
     "wilayah": "Pusat gempa berada di laut 68 km barat laut Dompu",
     "warning": [
       "III Kab. Bima"
-    ]
-  },
-  {
-    "waktu": "21/10/2023 17:03:48 WIB",
-    "lintang": "8.35 LS",
-    "bujur": "115.01 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 24 km Barat Laut Tabanan",
-    "warning": [
-      "II Tabanan",
-      "II Buleleng"
-    ]
-  },
-  {
-    "waktu": "21/10/2023 14:07:12 WIB",
-    "lintang": "4.38 LS",
-    "bujur": "134.57 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada di laut 123 km Tenggara Kaimana",
-    "warning": [
-      "II Kaimana"
     ]
   }
 ]
