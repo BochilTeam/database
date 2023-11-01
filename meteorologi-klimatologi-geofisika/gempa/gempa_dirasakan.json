@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "01/11/2023 21:07:50 WIB",
+    "lintang": "8.37 LS",
+    "bujur": "121.59 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di laut 46 km Timur Laut Mbay-Nagekeo",
+    "warning": [
+      "III-IV Maumere",
+      "III-IV Ende"
+    ]
+  },
+  {
     "waktu": "31/10/2023 17:56:34 WIB",
     "lintang": "3.68 LS",
     "bujur": "128.17 BT",
@@ -237,17 +249,6 @@
       "II Mandailing Natal",
       "II Aek Godang",
       "II-III Nias Selatan"
-    ]
-  },
-  {
-    "waktu": "21/10/2023 19:04:56 WIB",
-    "lintang": "8.1 LS",
-    "bujur": "118.03 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 68 km barat laut Dompu",
-    "warning": [
-      "III Kab. Bima"
     ]
   }
 ]
