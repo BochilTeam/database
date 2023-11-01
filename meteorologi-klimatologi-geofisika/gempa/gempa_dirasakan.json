@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "02/11/2023 04:04:45 WIB",
+    "lintang": "10.3 LS",
+    "bujur": "123.76 BT",
+    "magnitudo": "6.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 24 Km Tenggara Kupang",
+    "warning": [
+      "V Kupang",
+      "IV-V Kabupaten Timor Tengah Selatan",
+      "III Rote",
+      "III Waingapu",
+      "III Alor",
+      "II Larantuka",
+      "II Lembata"
+    ]
+  },
+  {
     "waktu": "01/11/2023 21:07:50 WIB",
     "lintang": "8.37 LS",
     "bujur": "121.59 BT",
@@ -233,22 +250,6 @@
     "wilayah": "Pusat gempa berada di darat 27 km BaratLaut Jantho",
     "warning": [
       "II Banda Aceh"
-    ]
-  },
-  {
-    "waktu": "22/10/2023 21:23:05 WIB",
-    "lintang": "0.48 LU",
-    "bujur": "98.37 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 62 km tenggara Nias Selatan",
-    "warning": [
-      "III-IV Pinangsori",
-      "II-III Gunung Sitoli",
-      "II-III Pasaman Barat",
-      "II Mandailing Natal",
-      "II Aek Godang",
-      "II-III Nias Selatan"
     ]
   }
 ]

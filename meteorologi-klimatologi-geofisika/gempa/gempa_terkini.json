@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-11-23 04:04:45 WIB",
+    "lintang": "-10.34",
+    "bujur": "123.76",
+    "magnitudo": "6.6",
+    "kedalaman": "10 Km",
+    "wilayah": "24 km Tenggara KUPANG-NTT"
+  },
+  {
     "waktu": "01-11-23 00:37:23 WIB",
     "lintang": "-0.16",
     "bujur": "123.84",
@@ -230,13 +238,5 @@
     "magnitudo": "6.3",
     "kedalaman": "115 Km",
     "wilayah": "36 km Tenggara PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "24-09-23 08:27:33 WIB",
-    "lintang": "1.83",
-    "bujur": "96.81",
-    "magnitudo": "5.3",
-    "kedalaman": "38 Km",
-    "wilayah": "75 km BaratLaut NIASUTARA-SUMUT"
   }
 ]
