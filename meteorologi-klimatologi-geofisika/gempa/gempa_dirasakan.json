@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/11/2023 19:55:19 WIB",
+    "lintang": "2.44 LS",
+    "bujur": "140.71 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 14 km Timur Laut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "03/11/2023 12:52:44 WIB",
     "lintang": "4.7 LS",
     "bujur": "101.88 BT",
@@ -246,17 +257,6 @@
     "wilayah": "Pusat gempa berada di darat 12 km tenggara lalundu Donggala",
     "warning": [
       "III-IV Rio Pakava"
-    ]
-  },
-  {
-    "waktu": "23/10/2023 04:51:05 WIB",
-    "lintang": "3.21 LU",
-    "bujur": "97.19 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "48 Km",
-    "wilayah": "Pusat gempa berada di laut 11 km BaratDaya Kab-Aceh Selatan",
-    "warning": [
-      "III Aceh Selatan"
     ]
   }
 ]
