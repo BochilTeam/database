@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "03/11/2023 12:52:44 WIB",
+    "lintang": "4.7 LS",
+    "bujur": "101.88 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "85 Km",
+    "wilayah": "Pusat gempa berada di laut 83 km barat laut Enggano",
+    "warning": [
+      "II-III Kota Bengkulu",
+      "II Empat Lawang",
+      "II Liwa",
+      "II-III Enggano",
+      "II-III Seluma",
+      "II Bengkulu Selatan",
+      "II Kaur"
+    ]
+  },
+  {
     "waktu": "02/11/2023 04:04:45 WIB",
     "lintang": "10.3 LS",
     "bujur": "123.76 BT",
@@ -239,17 +256,6 @@
     "wilayah": "Pusat gempa berada di laut 11 km BaratDaya Kab-Aceh Selatan",
     "warning": [
       "III Aceh Selatan"
-    ]
-  },
-  {
-    "waktu": "23/10/2023 01:51:10 WIB",
-    "lintang": "5.49 LU",
-    "bujur": "95.58 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 27 km BaratLaut Jantho",
-    "warning": [
-      "II Banda Aceh"
     ]
   }
 ]
