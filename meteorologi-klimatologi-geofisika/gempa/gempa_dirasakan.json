@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/11/2023 09:20:04 WIB",
+    "lintang": "5.17 LS",
+    "bujur": "102.6 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di darat 41 km Timur Laut Enggano",
+    "warning": [
+      "III Enggano"
+    ]
+  },
+  {
     "waktu": "04/11/2023 21:53:03 WIB",
     "lintang": "0.62 LS",
     "bujur": "127.57 BT",
@@ -233,23 +244,6 @@
     "wilayah": "Pusat gempa berada di laut 176 km Timur Laut Maluku Barat Daya",
     "warning": [
       "III-IV Saumlaki"
-    ]
-  },
-  {
-    "waktu": "25/10/2023 20:25:01 WIB",
-    "lintang": "0.99 LU",
-    "bujur": "124.86 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "123 Km",
-    "wilayah": "Pusat gempa berada di Darat 9 Km Tenggara Ratahan",
-    "warning": [
-      "II-III Manado",
-      "II-III Tondano",
-      "II-III Bitung",
-      "II Kotamobagu",
-      "II-III Halmahera Barat",
-      "II-III Bolaang Mongondow Timur",
-      "II-III Minahasa Tenggara"
     ]
   }
 ]
