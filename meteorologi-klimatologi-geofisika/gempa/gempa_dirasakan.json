@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "06/11/2023 10:22:21 WIB",
+    "lintang": "6 LS",
+    "bujur": "103.91 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 90 Km Barat Daya Pesisir Barat",
+    "warning": [
+      "II Liwa"
+    ]
+  },
+  {
     "waktu": "05/11/2023 09:20:04 WIB",
     "lintang": "5.17 LS",
     "bujur": "102.6 BT",
@@ -233,17 +244,6 @@
       "II Waitabula",
       "II Waikabubak",
       "II Bima"
-    ]
-  },
-  {
-    "waktu": "26/10/2023 12:44:17 WIB",
-    "lintang": "7.34 LS",
-    "bujur": "129.36 BT",
-    "magnitudo": "6.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 176 km Timur Laut Maluku Barat Daya",
-    "warning": [
-      "III-IV Saumlaki"
     ]
   }
 ]
