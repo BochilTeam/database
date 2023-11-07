@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07-11-23 12:36:38 WIB",
+    "lintang": "-10.24",
+    "bujur": "118.07",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "124 km BaratDaya KODI-SUMBABARATDAYA-NTT"
+  },
+  {
     "waktu": "07-11-23 04:12:47 WIB",
     "lintang": "5.30",
     "bujur": "93.94",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "88 Km",
     "wilayah": "30 km Tenggara KAB-SUKABUMI-JABAR"
-  },
-  {
-    "waktu": "01-10-23 07:18:41 WIB",
-    "lintang": "-10.69",
-    "bujur": "113.07",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "284 km BaratDaya JEMBER-JATIM"
   }
 ]
