@@ -11,6 +11,17 @@
     ]
   },
   {
+    "waktu": "08/11/2023 12:42:41 WIB",
+    "lintang": "6.15 LS",
+    "bujur": "129.81 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 181 km Selatan Banda",
+    "warning": [
+      "II Selaru"
+    ]
+  },
+  {
     "waktu": "08/11/2023 11:52:53 WIB",
     "lintang": "6.31 LS",
     "bujur": "129.77 BT",
@@ -231,18 +242,6 @@
       "III Kec. Baamang",
       "III Kec. Mentawa Baru",
       "Ketapang"
-    ]
-  },
-  {
-    "waktu": "29/10/2023 08:16:15 WIB",
-    "lintang": "1.84 LS",
-    "bujur": "124.59 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 157 km Barat Sanana",
-    "warning": [
-      "II-III Bobong",
-      "II-III Taliabu Utara"
     ]
   }
 ]
