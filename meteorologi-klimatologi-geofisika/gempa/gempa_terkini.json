@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "08-11-23 14:23:47 WIB",
+    "lintang": "-3.47",
+    "bujur": "129.71",
+    "magnitudo": "5.1",
+    "kedalaman": "38 Km",
+    "wilayah": "85 km Tenggara MALUKUTENGAH"
+  },
+  {
+    "waktu": "08-11-23 13:06:53 WIB",
+    "lintang": "-6.21",
+    "bujur": "129.89",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "251 km BaratLaut TANIMBAR"
+  },
+  {
+    "waktu": "08-11-23 12:42:41 WIB",
+    "lintang": "-6.15",
+    "bujur": "129.81",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "261 km BaratLaut TANIMBAR"
+  },
+  {
+    "waktu": "08-11-23 11:52:53 WIB",
+    "lintang": "-6.31",
+    "bujur": "129.77",
+    "magnitudo": "7.2",
+    "kedalaman": "10 Km",
+    "wilayah": "251 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "07-11-23 12:36:38 WIB",
     "lintang": "-10.24",
     "bujur": "118.07",
@@ -206,37 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "24 km TimurLaut ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "03-10-23 20:53:07 WIB",
-    "lintang": "4.44",
-    "bujur": "127.44",
-    "magnitudo": "5.0",
-    "kedalaman": "80 Km",
-    "wilayah": "53 km Tenggara PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "02-10-23 15:58:40 WIB",
-    "lintang": "-4.07",
-    "bujur": "134.02",
-    "magnitudo": "5.6",
-    "kedalaman": "14 Km",
-    "wilayah": "87 km Tenggara KAIMANA-PAPUABRT"
-  },
-  {
-    "waktu": "02-10-23 13:28:21 WIB",
-    "lintang": "-6.88",
-    "bujur": "130.11",
-    "magnitudo": "5.3",
-    "kedalaman": "133 Km",
-    "wilayah": "179 km BaratLaut TANIBAR"
-  },
-  {
-    "waktu": "01-10-23 11:00:26 WIB",
-    "lintang": "-7.26",
-    "bujur": "106.60",
-    "magnitudo": "5.4",
-    "kedalaman": "88 Km",
-    "wilayah": "30 km Tenggara KAB-SUKABUMI-JABAR"
   }
 ]

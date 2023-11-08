@@ -1,5 +1,31 @@
 [
   {
+    "waktu": "08/11/2023 14:23:47 WIB",
+    "lintang": "3.47 LS",
+    "bujur": "129.71 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "38 Km",
+    "wilayah": "Pusat gempa berada di laut 85 km Tenggara, Maluku Tengah",
+    "warning": [
+      "II Masohi"
+    ]
+  },
+  {
+    "waktu": "08/11/2023 11:52:53 WIB",
+    "lintang": "6.31 LS",
+    "bujur": "129.77 BT",
+    "magnitudo": "7.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 251 km Barat Laut Tanimbar",
+    "warning": [
+      "IV-V Saumlaki",
+      "IV Banda",
+      "II Ambon",
+      "III Damer",
+      "III Kisar"
+    ]
+  },
+  {
     "waktu": "07/11/2023 10:28:31 WIB",
     "lintang": "2.45 LS",
     "bujur": "140.57 BT",
@@ -217,30 +243,6 @@
     "warning": [
       "II-III Bobong",
       "II-III Taliabu Utara"
-    ]
-  },
-  {
-    "waktu": "29/10/2023 07:56:06 WIB",
-    "lintang": "4.36 LS",
-    "bujur": "102.02 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "31 Km",
-    "wilayah": "Pusat gempa berada di laut 69 km BaratDaya Seluma",
-    "warning": [
-      "III Bengkulu",
-      "II Kepahiang"
-    ]
-  },
-  {
-    "waktu": "29/10/2023 00:30:13 WIB",
-    "lintang": "4.58 LU",
-    "bujur": "95.05 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di laut 59 km Barat Daya Calang-Aceh Jaya",
-    "warning": [
-      "II Lhoong",
-      "Aceh Besar"
     ]
   }
 ]
