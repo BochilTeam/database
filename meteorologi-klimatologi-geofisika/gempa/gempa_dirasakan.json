@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "08/11/2023 20:02:07 WIB",
+    "lintang": "6.13 LS",
+    "bujur": "129.93 BT",
+    "magnitudo": "6.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 255km Barat Laut Tanimbar",
+    "warning": [
+      "III Banda",
+      "III Saumlaki"
+    ]
+  },
+  {
     "waktu": "08/11/2023 14:23:47 WIB",
     "lintang": "3.47 LS",
     "bujur": "129.71 BT",
@@ -229,19 +241,6 @@
     "wilayah": "Pusat gempa berada di darat 11 km selatan Piru",
     "warning": [
       "II Piru"
-    ]
-  },
-  {
-    "waktu": "30/10/2023 01:21:44 WIB",
-    "lintang": "2.31 LS",
-    "bujur": "113.02 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di darat 25 km TimurLaut Sampit",
-    "warning": [
-      "III Kec. Baamang",
-      "III Kec. Mentawa Baru",
-      "Ketapang"
     ]
   }
 ]

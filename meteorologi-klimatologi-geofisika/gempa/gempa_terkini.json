@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "08-11-23 20:21:05 WIB",
+    "lintang": "-6.11",
+    "bujur": "130.20",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "240 km BaratLaut TANIMBAR"
+  },
+  {
+    "waktu": "08-11-23 20:02:07 WIB",
+    "lintang": "-6.13",
+    "bujur": "129.93",
+    "magnitudo": "6.8",
+    "kedalaman": "10 Km",
+    "wilayah": "255 km BaratLaut TANIMBAR"
+  },
+  {
+    "waktu": "08-11-23 19:04:32 WIB",
+    "lintang": "-1.56",
+    "bujur": "139.17",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "56 km TimurLaut SARMI-PAPUA"
+  },
+  {
     "waktu": "08-11-23 14:23:47 WIB",
     "lintang": "-3.47",
     "bujur": "129.71",
@@ -214,29 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "99 km BaratDaya BURUSELATAN-MALUKU"
-  },
-  {
-    "waktu": "05-10-23 10:38:23 WIB",
-    "lintang": "4.27",
-    "bujur": "125.94",
-    "magnitudo": "5.1",
-    "kedalaman": "92 Km",
-    "wilayah": "87 km BaratLaut MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "04-10-23 18:21:48 WIB",
-    "lintang": "5.43",
-    "bujur": "126.27",
-    "magnitudo": "6.7",
-    "kedalaman": "145 Km",
-    "wilayah": "116 km BaratLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "04-10-23 05:17:05 WIB",
-    "lintang": "-5.15",
-    "bujur": "102.36",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "24 km TimurLaut ENGGANO-BENGKULU"
   }
 ]
