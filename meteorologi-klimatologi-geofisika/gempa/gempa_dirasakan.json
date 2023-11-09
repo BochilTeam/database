@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/11/2023 21:29:47 WIB",
+    "lintang": "3.92 LS",
+    "bujur": "122.43 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 1,7 km Timur Laut Morosi, Kab. Konawe",
+    "warning": [
+      "II - III Kendari"
+    ]
+  },
+  {
     "waktu": "09/11/2023 11:12:42 WIB",
     "lintang": "4.57 LS",
     "bujur": "129.74 BT",
@@ -229,18 +240,6 @@
     "wilayah": "Pusat gempa berada di laut 73 km BaratLaut Manokwari",
     "warning": [
       "III Tambrauw"
-    ]
-  },
-  {
-    "waktu": "31/10/2023 04:44:48 WIB",
-    "lintang": "8.81 LS",
-    "bujur": "113.89 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "81 Km",
-    "wilayah": "Pusat gempa berada di laut 73 km Tenggara Jember",
-    "warning": [
-      "II Jember",
-      "II Badung"
     ]
   }
 ]
