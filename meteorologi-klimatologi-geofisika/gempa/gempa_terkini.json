@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09-11-23 16:14:19 WIB",
+    "lintang": "-5.41",
+    "bujur": "130.25",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "257 km BaratDaya SERAMBAGIANTIMUR-MALUKU"
+  },
+  {
     "waktu": "09-11-23 00:25:05 WIB",
     "lintang": "-5.40",
     "bujur": "130.25",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "125 km BaratDaya KAIMANA-PAPUABRT"
-  },
-  {
-    "waktu": "11-10-23 03:20:24 WIB",
-    "lintang": "-6.71",
-    "bujur": "129.89",
-    "magnitudo": "5.0",
-    "kedalaman": "181 Km",
-    "wilayah": "210 km BaratLaut TANIMBAR"
   }
 ]
