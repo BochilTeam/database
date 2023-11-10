@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "10/11/2023 23:33:15 WIB",
+    "lintang": "6.84 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km Barat Daya Kabupaten Cianjur",
+    "warning": [
+      "II-III Cugenang",
+      "II-III Nagrak",
+      "II-III Warungkondang",
+      "II-III Cilaku"
+    ]
+  },
+  {
     "waktu": "10/11/2023 10:50:38 WIB",
     "lintang": "5.97 LS",
     "bujur": "130.17 BT",
@@ -230,17 +244,6 @@
     "warning": [
       "III-IV Maumere",
       "III-IV Ende"
-    ]
-  },
-  {
-    "waktu": "31/10/2023 17:56:34 WIB",
-    "lintang": "3.68 LS",
-    "bujur": "128.17 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 2 km BaratLaut Ambon",
-    "warning": [
-      "II Ambon"
     ]
   }
 ]
