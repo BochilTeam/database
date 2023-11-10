@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10-11-23 10:50:38 WIB",
+    "lintang": "-5.97",
+    "bujur": "130.17",
+    "magnitudo": "6.0",
+    "kedalaman": "121 Km",
+    "wilayah": "255 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "09-11-23 16:14:19 WIB",
     "lintang": "-5.41",
     "bujur": "130.25",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "17 km BaratLaut KARERA-SUMBATIMUR-NTT"
-  },
-  {
-    "waktu": "12-10-23 13:18:43 WIB",
-    "lintang": "-4.42",
-    "bujur": "133.90",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "125 km BaratDaya KAIMANA-PAPUABRT"
   }
 ]
