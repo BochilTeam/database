@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "10/11/2023 10:50:38 WIB",
+    "lintang": "5.97 LS",
+    "bujur": "130.17 BT",
+    "magnitudo": "6",
+    "kedalaman": "121 Km",
+    "wilayah": "Pusat gempa berada di laut 255 km Tanimbar",
+    "warning": [
+      "II Banda"
+    ]
+  },
+  {
     "waktu": "09/11/2023 21:29:47 WIB",
     "lintang": "3.92 LS",
     "bujur": "122.43 BT",
@@ -230,17 +241,6 @@
     "wilayah": "Pusat gempa berada di laut 2 km BaratLaut Ambon",
     "warning": [
       "II Ambon"
-    ]
-  },
-  {
-    "waktu": "31/10/2023 17:22:59 WIB",
-    "lintang": "0.18 LS",
-    "bujur": "132.86 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 73 km BaratLaut Manokwari",
-    "warning": [
-      "III Tambrauw"
     ]
   }
 ]
