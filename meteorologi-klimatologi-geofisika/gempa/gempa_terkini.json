@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "11-11-23 04:20:13 WIB",
+    "lintang": "-6.11",
+    "bujur": "129.92",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "257 km BaratLaut TANIMBAR"
+  },
+  {
+    "waktu": "11-11-23 04:13:38 WIB",
+    "lintang": "-6.09",
+    "bujur": "130.03",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "252 km BaratLaut TANIMBAR"
+  },
+  {
+    "waktu": "11-11-23 04:06:00 WIB",
+    "lintang": "-6.10",
+    "bujur": "129.91",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "259 km BaratLaut TANIMBAR"
+  },
+  {
+    "waktu": "11-11-23 03:45:13 WIB",
+    "lintang": "-6.10",
+    "bujur": "130.06",
+    "magnitudo": "6.2",
+    "kedalaman": "10 Km",
+    "wilayah": "249 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "10-11-23 10:50:38 WIB",
     "lintang": "-5.97",
     "bujur": "130.17",
@@ -206,37 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "33 Km",
     "wilayah": "69 km Tenggara RATAHAN-MITRA-SULUT"
-  },
-  {
-    "waktu": "21-10-23 01:01:38 WIB",
-    "lintang": "-0.71",
-    "bujur": "98.47",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "160 km Tenggara NIASSELATAN-SUMUT"
-  },
-  {
-    "waktu": "20-10-23 14:57:31 WIB",
-    "lintang": "-2.81",
-    "bujur": "129.94",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "69 km BaratLaut SERAMBAGIANTIMUR-MALUKU"
-  },
-  {
-    "waktu": "19-10-23 21:08:24 WIB",
-    "lintang": "-8.09",
-    "bujur": "107.34",
-    "magnitudo": "5.6",
-    "kedalaman": "18 Km",
-    "wilayah": "114 km BaratDaya KAB-GARUT-JABAR"
-  },
-  {
-    "waktu": "12-10-23 16:30:02 WIB",
-    "lintang": "-10.18",
-    "bujur": "120.12",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "17 km BaratLaut KARERA-SUMBATIMUR-NTT"
   }
 ]

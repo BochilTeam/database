@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/11/2023 01:27:32 WIB",
+    "lintang": "0.73 LS",
+    "bujur": "133.5 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada didarat 50 km TimurLaut KEBAR, Manokwari",
+    "warning": [
+      "II Kabupaten Tambrauw"
+    ]
+  },
+  {
     "waktu": "10/11/2023 23:33:15 WIB",
     "lintang": "6.84 LS",
     "bujur": "107.08 BT",
@@ -232,18 +243,6 @@
       "III Alor",
       "II Larantuka",
       "II Lembata"
-    ]
-  },
-  {
-    "waktu": "01/11/2023 21:07:50 WIB",
-    "lintang": "8.37 LS",
-    "bujur": "121.59 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "21 Km",
-    "wilayah": "Pusat gempa berada di laut 46 km Timur Laut Mbay-Nagekeo",
-    "warning": [
-      "III-IV Maumere",
-      "III-IV Ende"
     ]
   }
 ]
