@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "11/11/2023 14:56:33 WIB",
+    "lintang": "6.67 LS",
+    "bujur": "106.61 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 22 Km Barat Daya Kota Bogor",
+    "warning": [
+      "II Leuwiliang",
+      "II Nanggela",
+      "II Pamijahan"
+    ]
+  },
+  {
     "waktu": "11/11/2023 13:57:48 WIB",
     "lintang": "6.75 LS",
     "bujur": "106.57 BT",
@@ -221,19 +234,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km Timur Laut Labuha",
     "warning": [
       "II-III Labuha"
-    ]
-  },
-  {
-    "waktu": "04/11/2023 07:18:21 WIB",
-    "lintang": "1.46 LU",
-    "bujur": "125.32 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di laut 22 km TimurLaut Bitung",
-    "warning": [
-      "IV Bitung",
-      "II-III Manado",
-      "II-III Tondano"
     ]
   }
 ]
