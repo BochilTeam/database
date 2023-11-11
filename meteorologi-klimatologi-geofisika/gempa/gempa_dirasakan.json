@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/11/2023 08:16:02 WIB",
+    "lintang": "2.53 LU",
+    "bujur": "98.71 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 10 Km Tenggara Samosir",
+    "warning": [
+      "III Samosir"
+    ]
+  },
+  {
     "waktu": "11/11/2023 01:27:32 WIB",
     "lintang": "0.73 LS",
     "bujur": "133.5 BT",
@@ -226,23 +237,6 @@
       "II Bengkulu Selatan",
       "II Kaur",
       "II Bengkulu Utara"
-    ]
-  },
-  {
-    "waktu": "02/11/2023 04:04:45 WIB",
-    "lintang": "10.3 LS",
-    "bujur": "123.76 BT",
-    "magnitudo": "6.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 24 Km Tenggara Kupang",
-    "warning": [
-      "VI Kupang",
-      "IV-V Kabupaten Timor Tengah Selatan",
-      "III Rote",
-      "III Waingapu",
-      "III Alor",
-      "II Larantuka",
-      "II Lembata"
     ]
   }
 ]
