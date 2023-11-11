@@ -1,5 +1,31 @@
 [
   {
+    "waktu": "11/11/2023 13:57:48 WIB",
+    "lintang": "6.75 LS",
+    "bujur": "106.57 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 26 Km Timur Laut Kabupaten Sukabumi",
+    "warning": [
+      "III Sukabumi",
+      "III Pelabuhan Ratu",
+      "II-III Bogor Barat",
+      "II-III Karanghawu",
+      "II-III Bayah"
+    ]
+  },
+  {
+    "waktu": "11/11/2023 13:41:53 WIB",
+    "lintang": "5.7 LS",
+    "bujur": "130.09 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "127 Km",
+    "wilayah": "Pusat gempa berada di laut 286 Km Barat Laut Tanimbar",
+    "warning": [
+      "II Banda"
+    ]
+  },
+  {
     "waktu": "11/11/2023 08:16:02 WIB",
     "lintang": "2.53 LU",
     "bujur": "98.71 BT",
@@ -208,35 +234,6 @@
       "IV Bitung",
       "II-III Manado",
       "II-III Tondano"
-    ]
-  },
-  {
-    "waktu": "03/11/2023 19:55:19 WIB",
-    "lintang": "2.44 LS",
-    "bujur": "140.71 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 14 km Timur Laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "03/11/2023 12:52:44 WIB",
-    "lintang": "4.7 LS",
-    "bujur": "101.88 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "85 Km",
-    "wilayah": "Pusat gempa berada di laut 83 km barat laut Enggano",
-    "warning": [
-      "II-III Kota Bengkulu",
-      "II Empat Lawang",
-      "II Liwa",
-      "II-III Enggano",
-      "II-III Seluma",
-      "II Bengkulu Selatan",
-      "II Kaur",
-      "II Bengkulu Utara"
     ]
   }
 ]
