@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "12/11/2023 22:08:51 WIB",
+    "lintang": "2.46 LS",
+    "bujur": "140.42 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km Timur Laut Kab. Jayapura",
+    "warning": [
+      "II-III Kab. Jayapura"
+    ]
+  },
+  {
+    "waktu": "12/11/2023 20:43:34 WIB",
+    "lintang": "2.58 LS",
+    "bujur": "121.11 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km Barat Laut Luwu Timur",
+    "warning": [
+      "III Malili",
+      "II Masamba",
+      "III Tomoni Timur"
+    ]
+  },
+  {
     "waktu": "12/11/2023 09:06:17 WIB",
     "lintang": "10.0 LS",
     "bujur": "123.76 BT",
@@ -214,28 +238,6 @@
     "wilayah": "Pusat gempa berada di laut 90 Km Barat Daya Pesisir Barat",
     "warning": [
       "II Liwa"
-    ]
-  },
-  {
-    "waktu": "05/11/2023 09:20:04 WIB",
-    "lintang": "5.17 LS",
-    "bujur": "102.6 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di darat 41 km Timur Laut Enggano",
-    "warning": [
-      "III Enggano"
-    ]
-  },
-  {
-    "waktu": "04/11/2023 21:53:03 WIB",
-    "lintang": "0.62 LS",
-    "bujur": "127.57 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km Timur Laut Labuha",
-    "warning": [
-      "II-III Labuha"
     ]
   }
 ]
