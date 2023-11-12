@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "12/11/2023 09:06:17 WIB",
+    "lintang": "10.0 LS",
+    "bujur": "123.76 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "34 Km",
+    "wilayah": "Pusat gempa berada di laut 15 km BaratDaya Kab. Kupang",
+    "warning": [
+      "III - IV Kota Kupang",
+      "III - IV Kabupaten Kupang",
+      "II Kabupaten Rote Ndao"
+    ]
+  },
+  {
     "waktu": "11/11/2023 14:56:33 WIB",
     "lintang": "6.67 LS",
     "bujur": "106.61 BT",
@@ -221,17 +234,6 @@
     "magnitudo": "2.6",
     "kedalaman": "5 Km",
     "wilayah": "Pusat gempa berada di darat 9 km Timur Laut Labuha",
-    "warning": [
-      "II-III Labuha"
-    ]
-  },
-  {
-    "waktu": "04/11/2023 21:32:12 WIB",
-    "lintang": "0.62 LS",
-    "bujur": "127.54 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km Timur Laut Labuha",
     "warning": [
       "II-III Labuha"
     ]
