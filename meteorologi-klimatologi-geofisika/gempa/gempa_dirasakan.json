@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "13/11/2023 08:54:17 WIB",
+    "lintang": "0.64 LS",
+    "bujur": "135.8 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km Timur Laut Supiori",
+    "warning": [
+      "III Kab. Supiori"
+    ]
+  },
+  {
+    "waktu": "13/11/2023 07:39:17 WIB",
+    "lintang": "2.17 LS",
+    "bujur": "115.59 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 20 Km Baratlaut Balangan",
+    "warning": [
+      "III Tabalong"
+    ]
+  },
+  {
     "waktu": "13/11/2023 03:38:16 WIB",
     "lintang": "3.64 LS",
     "bujur": "140.38 BT",
@@ -216,29 +238,6 @@
     "warning": [
       "II Kab. Jayapura",
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "07/11/2023 04:12:47 WIB",
-    "lintang": "5.3 LU",
-    "bujur": "93.94 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 156 km BaratDaya Banda Aceh",
-    "warning": [
-      "II-III Banda Aceh",
-      "II-III Aceh Besar"
-    ]
-  },
-  {
-    "waktu": "06/11/2023 13:29:30 WIB",
-    "lintang": "5.24 LS",
-    "bujur": "122.11 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 11 Km Timur Laut Kabaena Timur, Bombana",
-    "warning": [
-      "II-III Bombana"
     ]
   }
 ]
