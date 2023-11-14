@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14-11-23 07:10:15 WIB",
+    "lintang": "5.89",
+    "bujur": "124.44",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "278 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
     "waktu": "13-11-23 03:38:16 WIB",
     "lintang": "-3.64",
     "bujur": "140.38",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "44 Km",
     "wilayah": "7 km BaratDaya WAINGAPU-NTT"
-  },
-  {
-    "waktu": "26-10-23 12:44:17 WIB",
-    "lintang": "-7.34",
-    "bujur": "129.36",
-    "magnitudo": "6.1",
-    "kedalaman": "10 Km",
-    "wilayah": "196 km TimurLaut MALUKUBRTDAYA"
   }
 ]
