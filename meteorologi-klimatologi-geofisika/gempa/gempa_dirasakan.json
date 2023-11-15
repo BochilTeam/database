@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/11/2023 12:11:05 WIB",
+    "lintang": "3.47 LS",
+    "bujur": "101.59 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 67 km Barat Daya Bengkulu Utara",
+    "warning": [
+      "II-III Bengkulu Utara"
+    ]
+  },
+  {
     "waktu": "15/11/2023 04:15:46 WIB",
     "lintang": "7.24 LS",
     "bujur": "107.67 BT",
@@ -222,21 +233,6 @@
     "wilayah": "Pusat gempa berada di laut 181 km Selatan Banda",
     "warning": [
       "II Selaru"
-    ]
-  },
-  {
-    "waktu": "08/11/2023 11:52:53 WIB",
-    "lintang": "6.31 LS",
-    "bujur": "129.77 BT",
-    "magnitudo": "7.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 251 km Barat Laut Tanimbar",
-    "warning": [
-      "IV-V Saumlaki",
-      "IV Banda",
-      "II Ambon",
-      "III Damer",
-      "III Kisar"
     ]
   }
 ]
