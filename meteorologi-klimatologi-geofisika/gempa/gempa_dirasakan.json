@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/11/2023 04:15:46 WIB",
+    "lintang": "7.24 LS",
+    "bujur": "107.67 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 25 km BaratDaya Kab. Garut",
+    "warning": [
+      "II-III Cikembang"
+    ]
+  },
+  {
     "waktu": "13/11/2023 08:54:17 WIB",
     "lintang": "0.64 LS",
     "bujur": "135.8 BT",
@@ -226,18 +237,6 @@
       "II Ambon",
       "III Damer",
       "III Kisar"
-    ]
-  },
-  {
-    "waktu": "07/11/2023 10:28:31 WIB",
-    "lintang": "2.45 LS",
-    "bujur": "140.57 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat, 19 km BaratLaut Kota Jayapura",
-    "warning": [
-      "II Kab. Jayapura",
-      "II Kota Jayapura"
     ]
   }
 ]
