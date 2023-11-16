@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/11/2023 09:21:47 WIB",
+    "lintang": "3.71 LS",
+    "bujur": "138.78 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "127 Km",
+    "wilayah": "Pusat gempa berada didarat 32Km BaratDaya Kobagma",
+    "warning": [
+      "II-III Wamena"
+    ]
+  },
+  {
     "waktu": "16/11/2023 06:26:17 WIB",
     "lintang": "1.95 LU",
     "bujur": "124.18 BT",
@@ -226,17 +237,6 @@
     "warning": [
       "III Banda",
       "III Saumlaki"
-    ]
-  },
-  {
-    "waktu": "08/11/2023 14:23:47 WIB",
-    "lintang": "3.47 LS",
-    "bujur": "129.71 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "38 Km",
-    "wilayah": "Pusat gempa berada di laut 85 km Tenggara, Maluku Tengah",
-    "warning": [
-      "II Masohi"
     ]
   }
 ]
