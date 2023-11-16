@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/11/2023 18:24:13 WIB",
+    "lintang": "10.1 LS",
+    "bujur": "123.81 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di darat 17 Km Barat Daya Kupang",
+    "warning": [
+      "II-III Kota Kupang"
+    ]
+  },
+  {
     "waktu": "16/11/2023 09:21:47 WIB",
     "lintang": "3.71 LS",
     "bujur": "138.78 BT",
@@ -225,18 +236,6 @@
     "wilayah": "Pusat gempa berada di laut 18 km Barat Banda",
     "warning": [
       "II Banda"
-    ]
-  },
-  {
-    "waktu": "08/11/2023 20:02:07 WIB",
-    "lintang": "6.13 LS",
-    "bujur": "129.93 BT",
-    "magnitudo": "6.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 255km Barat Laut Tanimbar",
-    "warning": [
-      "III Banda",
-      "III Saumlaki"
     ]
   }
 ]
