@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "16/11/2023 06:26:17 WIB",
+    "lintang": "1.95 LU",
+    "bujur": "124.18 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "294 Km",
+    "wilayah": "Pusat gempa berada di laut, 90 km Barat Laut Manado",
+    "warning": [
+      "II-III Kepulauan Sula",
+      "II-III Taliabu",
+      "II-III Tidore",
+      "II-III Kab. Halmahera Barat",
+      "II-III Kotamobago"
+    ]
+  },
+  {
     "waktu": "15/11/2023 12:11:05 WIB",
     "lintang": "3.47 LS",
     "bujur": "101.59 BT",
@@ -222,17 +237,6 @@
     "wilayah": "Pusat gempa berada di laut 85 km Tenggara, Maluku Tengah",
     "warning": [
       "II Masohi"
-    ]
-  },
-  {
-    "waktu": "08/11/2023 12:42:41 WIB",
-    "lintang": "6.15 LS",
-    "bujur": "129.81 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 181 km Selatan Banda",
-    "warning": [
-      "II Selaru"
     ]
   }
 ]

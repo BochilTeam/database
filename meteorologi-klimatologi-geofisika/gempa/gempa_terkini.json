@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16-11-23 06:26:17 WIB",
+    "lintang": "1.95",
+    "bujur": "124.18",
+    "magnitudo": "6.2",
+    "kedalaman": "294 Km",
+    "wilayah": "90 km BaratLaut MANADO-SULUT"
+  },
+  {
     "waktu": "14-11-23 13:22:53 WIB",
     "lintang": "-5.88",
     "bujur": "130.18",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 Km",
     "wilayah": "172 km TimurLaut ALOR-NTT"
-  },
-  {
-    "waktu": "28-10-23 04:50:29 WIB",
-    "lintang": "-0.14",
-    "bujur": "125.88",
-    "magnitudo": "5.0",
-    "kedalaman": "24 Km",
-    "wilayah": "172 km Tenggara TUTUYAN-BOLTIM-SULUT"
   }
 ]
