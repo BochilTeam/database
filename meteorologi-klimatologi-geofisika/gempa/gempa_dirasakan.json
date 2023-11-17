@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "17/11/2023 15:14:15 WIB",
+    "lintang": "5.5 LU",
+    "bujur": "125.18 BT",
+    "magnitudo": "6.9",
+    "kedalaman": "44 Km",
+    "wilayah": "Pusat gempa berada di 212 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT",
+    "warning": [
+      "V Naha",
+      "III - IV KEP.TALAUD",
+      "III Manado",
+      "III Bolaang Mongondow",
+      "III Minahasa Utara"
+    ]
+  },
+  {
     "waktu": "17/11/2023 10:02:19 WIB",
     "lintang": "2.07 LS",
     "bujur": "138.93 BT",
@@ -224,18 +239,6 @@
     "wilayah": "Pusat gempa berada di laut 255 km Tanimbar",
     "warning": [
       "II Banda"
-    ]
-  },
-  {
-    "waktu": "09/11/2023 21:29:47 WIB",
-    "lintang": "3.92 LS",
-    "bujur": "122.43 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 1,7 km Timur Laut Morosi, Kab. Konawe",
-    "warning": [
-      "II - III Kendari",
-      "II - III Konawe Utara"
     ]
   }
 ]

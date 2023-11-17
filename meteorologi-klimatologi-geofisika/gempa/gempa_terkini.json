@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-11-23 15:14:15 WIB",
+    "lintang": "5.50",
+    "bujur": "125.18",
+    "magnitudo": "6.9",
+    "kedalaman": "44 Km",
+    "wilayah": "212 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
     "waktu": "17-11-23 14:24:02 WIB",
     "lintang": "-5.92",
     "bujur": "130.32",
@@ -230,13 +238,5 @@
     "magnitudo": "6.6",
     "kedalaman": "10 Km",
     "wilayah": "24 km Tenggara KUPANG-NTT"
-  },
-  {
-    "waktu": "01-11-23 00:37:23 WIB",
-    "lintang": "-0.16",
-    "bujur": "123.84",
-    "magnitudo": "5.1",
-    "kedalaman": "112 Km",
-    "wilayah": "61 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
   }
 ]
