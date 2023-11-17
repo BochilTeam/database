@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-11-23 10:02:19 WIB",
+    "lintang": "-2.07",
+    "bujur": "138.93",
+    "magnitudo": "5.2",
+    "kedalaman": "22 Km",
+    "wilayah": "31 km Tenggara SARMI-PAPUA"
+  },
+  {
     "waktu": "16-11-23 09:21:47 WIB",
     "lintang": "-3.71",
     "bujur": "138.78",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "31 Km",
     "wilayah": "68 km BaratDaya BENGKULU-BENGKULU"
-  },
-  {
-    "waktu": "28-10-23 22:01:57 WIB",
-    "lintang": "1.88",
-    "bujur": "120.20",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "127 km BaratLaut TOLI-TOLI-SULTENG"
   }
 ]

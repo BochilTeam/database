@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/11/2023 10:02:19 WIB",
+    "lintang": "2.07 LS",
+    "bujur": "138.93 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di darat 29 km Tenggara Sarmi",
+    "warning": [
+      "III - IV Sarmi"
+    ]
+  },
+  {
     "waktu": "16/11/2023 18:24:13 WIB",
     "lintang": "10.1 LS",
     "bujur": "123.81 BT",
@@ -225,17 +236,6 @@
     "warning": [
       "II - III Kendari",
       "II - III Konawe Utara"
-    ]
-  },
-  {
-    "waktu": "09/11/2023 11:12:42 WIB",
-    "lintang": "4.57 LS",
-    "bujur": "129.74 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 18 km Barat Banda",
-    "warning": [
-      "II Banda"
     ]
   }
 ]
