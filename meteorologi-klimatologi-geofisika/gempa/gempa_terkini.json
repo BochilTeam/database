@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18-11-23 06:34:28 WIB",
+    "lintang": "-7.86",
+    "bujur": "107.27",
+    "magnitudo": "5.2",
+    "kedalaman": "21 Km",
+    "wilayah": "97 km BaratDaya KAB-BANDUNG-JABAR"
+  },
+  {
     "waktu": "17-11-23 15:14:15 WIB",
     "lintang": "5.50",
     "bujur": "125.18",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "85 Km",
     "wilayah": "83 km BaratLaut ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "02-11-23 04:04:45 WIB",
-    "lintang": "-10.34",
-    "bujur": "123.76",
-    "magnitudo": "6.6",
-    "kedalaman": "10 Km",
-    "wilayah": "24 km Tenggara KUPANG-NTT"
   }
 ]

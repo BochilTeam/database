@@ -1,5 +1,25 @@
 [
   {
+    "waktu": "18/11/2023 06:34:28 WIB",
+    "lintang": "7.86 LS",
+    "bujur": "107.27 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di laut 97 km Barat Daya Kab. Bandung",
+    "warning": [
+      "III Garut",
+      "III Sindangbarang",
+      "III Ciamis",
+      "III Pakenjeng",
+      "III Bungbulang",
+      "III Tasikmalaya",
+      "II-III Cianjur",
+      "II-III Sukabumi",
+      "II-III Kab. Bandung",
+      "II Bandung"
+    ]
+  },
+  {
     "waktu": "17/11/2023 15:14:15 WIB",
     "lintang": "5.5 LU",
     "bujur": "125.18 BT",
@@ -228,17 +248,6 @@
       "II-III Nagrak",
       "II-III Warungkondang",
       "II-III Cilaku"
-    ]
-  },
-  {
-    "waktu": "10/11/2023 10:50:38 WIB",
-    "lintang": "5.97 LS",
-    "bujur": "130.17 BT",
-    "magnitudo": "6",
-    "kedalaman": "121 Km",
-    "wilayah": "Pusat gempa berada di laut 255 km Tanimbar",
-    "warning": [
-      "II Banda"
     ]
   }
 ]
