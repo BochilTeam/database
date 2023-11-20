@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-11-23 02:28:22 WIB",
+    "lintang": "5.76",
+    "bujur": "125.15",
+    "magnitudo": "5.3",
+    "kedalaman": "21 Km",
+    "wilayah": "241 km BaratLaut PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "18-11-23 06:34:28 WIB",
     "lintang": "-7.86",
     "bujur": "107.27",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "161 Km",
     "wilayah": "50 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "03-11-23 12:52:44 WIB",
-    "lintang": "-4.70",
-    "bujur": "101.88",
-    "magnitudo": "5.3",
-    "kedalaman": "85 Km",
-    "wilayah": "83 km BaratLaut ENGGANO-BENGKULU"
   }
 ]
