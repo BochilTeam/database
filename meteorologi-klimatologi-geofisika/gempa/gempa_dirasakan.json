@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/11/2023 06:33:16 WIB",
+    "lintang": "3.32 LS",
+    "bujur": "128.35 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km utara Kairatu",
+    "warning": [
+      "III Kairatu"
+    ]
+  },
+  {
     "waktu": "18/11/2023 06:34:28 WIB",
     "lintang": "7.86 LS",
     "bujur": "107.27 BT",
@@ -234,20 +245,6 @@
     "wilayah": "Pusat gempa berada didarat 50 km TimurLaut KEBAR, Manokwari",
     "warning": [
       "II Kabupaten Tambrauw"
-    ]
-  },
-  {
-    "waktu": "10/11/2023 23:33:15 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km Barat Daya Kabupaten Cianjur",
-    "warning": [
-      "II-III Cugenang",
-      "II-III Nagrak",
-      "II-III Warungkondang",
-      "II-III Cilaku"
     ]
   }
 ]
