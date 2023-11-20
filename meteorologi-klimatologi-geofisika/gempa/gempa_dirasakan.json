@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/11/2023 11:30:51 WIB",
+    "lintang": "0.67 LS",
+    "bujur": "135.46 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 31 km BaratLaut SUPIORI",
+    "warning": [
+      "II-III Supiori"
+    ]
+  },
+  {
     "waktu": "20/11/2023 06:33:16 WIB",
     "lintang": "3.32 LS",
     "bujur": "128.35 BT",
@@ -234,17 +245,6 @@
     "wilayah": "Pusat gempa berada di darat 10 Km Tenggara Samosir",
     "warning": [
       "III Samosir"
-    ]
-  },
-  {
-    "waktu": "11/11/2023 01:27:32 WIB",
-    "lintang": "0.73 LS",
-    "bujur": "133.5 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada didarat 50 km TimurLaut KEBAR, Manokwari",
-    "warning": [
-      "II Kabupaten Tambrauw"
     ]
   }
 ]
