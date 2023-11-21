@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "21/11/2023 14:12:16 WIB",
+    "lintang": "0.51 LS",
+    "bujur": "135.64 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 27 km BaratLaut Supiori",
+    "warning": [
+      "III - IV Supiori",
+      "III Biak"
+    ]
+  },
+  {
     "waktu": "21/11/2023 11:41:17 WIB",
     "lintang": "2.42 LS",
     "bujur": "140.38 BT",
@@ -234,17 +246,6 @@
       "II-III Bogor Barat",
       "II-III Karanghawu",
       "II-III Bayah"
-    ]
-  },
-  {
-    "waktu": "11/11/2023 13:41:53 WIB",
-    "lintang": "5.7 LS",
-    "bujur": "130.09 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "127 Km",
-    "wilayah": "Pusat gempa berada di laut 286 Km Barat Laut Tanimbar",
-    "warning": [
-      "II Banda"
     ]
   }
 ]

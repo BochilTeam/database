@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-11-23 14:12:16 WIB",
+    "lintang": "-0.51",
+    "bujur": "135.64",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "24 km TimurLaut SUPIORI-PAPUA"
+  },
+  {
     "waktu": "21-11-23 02:28:22 WIB",
     "lintang": "5.76",
     "bujur": "125.15",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "156 km BaratDaya BANDAACEH-ACEH"
-  },
-  {
-    "waktu": "06-11-23 22:36:44 WIB",
-    "lintang": "-7.70",
-    "bujur": "127.83",
-    "magnitudo": "5.6",
-    "kedalaman": "161 Km",
-    "wilayah": "50 km TimurLaut MALUKUBRTDAYA"
   }
 ]
