@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/11/2023 20:58:29 WIB",
+    "lintang": "3.47 LS",
+    "bujur": "135.53 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km tenggara Nabire",
+    "warning": [
+      "II-III Nabire"
+    ]
+  },
+  {
     "waktu": "21/11/2023 14:12:16 WIB",
     "lintang": "0.51 LS",
     "bujur": "135.64 BT",
@@ -231,21 +242,6 @@
       "II Leuwiliang",
       "II Nanggela",
       "II Pamijahan"
-    ]
-  },
-  {
-    "waktu": "11/11/2023 13:57:48 WIB",
-    "lintang": "6.75 LS",
-    "bujur": "106.57 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 26 Km Timur Laut Kabupaten Sukabumi",
-    "warning": [
-      "III Sukabumi",
-      "III Pelabuhan Ratu",
-      "II-III Bogor Barat",
-      "II-III Karanghawu",
-      "II-III Bayah"
     ]
   }
 ]
