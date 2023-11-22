@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/11/2023 05:01:24 WIB",
+    "lintang": "4.79 LS",
+    "bujur": "122.64 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 7.2 km BaratLaut Kab. Muna",
+    "warning": [
+      "II - III Muna"
+    ]
+  },
+  {
     "waktu": "21/11/2023 20:58:29 WIB",
     "lintang": "3.47 LS",
     "bujur": "135.53 BT",
@@ -229,19 +240,6 @@
       "III - IV Kota Kupang",
       "III - IV Kabupaten Kupang",
       "II Kabupaten Rote Ndao"
-    ]
-  },
-  {
-    "waktu": "11/11/2023 14:56:33 WIB",
-    "lintang": "6.67 LS",
-    "bujur": "106.61 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 22 Km Barat Daya Kota Bogor",
-    "warning": [
-      "II Leuwiliang",
-      "II Nanggela",
-      "II Pamijahan"
     ]
   }
 ]
