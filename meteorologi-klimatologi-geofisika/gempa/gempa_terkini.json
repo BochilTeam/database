@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23-11-23 02:02:59 WIB",
+    "lintang": "-12.03",
+    "bujur": "121.62",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "165 km BaratDaya SABURAIJUA-NTT"
+  },
+  {
     "waktu": "22-11-23 09:48:54 WIB",
     "lintang": "1.77",
     "bujur": "127.14",
@@ -230,13 +238,5 @@
     "magnitudo": "7.2",
     "kedalaman": "10 Km",
     "wilayah": "251 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "07-11-23 12:36:38 WIB",
-    "lintang": "-10.24",
-    "bujur": "118.07",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "124 km BaratDaya KODI-SUMBABARATDAYA-NTT"
   }
 ]
