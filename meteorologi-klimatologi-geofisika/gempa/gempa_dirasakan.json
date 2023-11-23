@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "23/11/2023 15:06:13 WIB",
+    "lintang": "8.51 LS",
+    "bujur": "116.09 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 18 Km BaratDaya Lombok Utara",
+    "warning": [
+      "II - III Lombok Barat",
+      "II - III Lombok Utara",
+      "II - III Lombok Tengah"
+    ]
+  },
+  {
     "waktu": "23/11/2023 12:58:05 WIB",
     "lintang": "8.56 LS",
     "bujur": "116.03 BT",
@@ -242,17 +255,6 @@
     "warning": [
       "III Keerom",
       "II Jayapura"
-    ]
-  },
-  {
-    "waktu": "12/11/2023 22:08:51 WIB",
-    "lintang": "2.46 LS",
-    "bujur": "140.42 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km Timur Laut Kab. Jayapura",
-    "warning": [
-      "II-III Kab. Jayapura"
     ]
   }
 ]
