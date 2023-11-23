@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23-11-23 10:24:31 WIB",
+    "lintang": "5.53",
+    "bujur": "125.18",
+    "magnitudo": "5.0",
+    "kedalaman": "17 Km",
+    "wilayah": "216 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
     "waktu": "23-11-23 02:02:59 WIB",
     "lintang": "-12.03",
     "bujur": "121.62",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 Km",
     "wilayah": "261 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "08-11-23 11:52:53 WIB",
-    "lintang": "-6.31",
-    "bujur": "129.77",
-    "magnitudo": "7.2",
-    "kedalaman": "10 Km",
-    "wilayah": "251 km BaratLaut TANIMBAR"
   }
 ]
