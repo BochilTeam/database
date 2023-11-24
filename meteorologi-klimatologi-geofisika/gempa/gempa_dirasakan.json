@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/11/2023 16:48:34 WIB",
+    "lintang": "1 LS",
+    "bujur": "100.29 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km BaratDaya Padang",
+    "warning": [
+      "III Padang"
+    ]
+  },
+  {
     "waktu": "24/11/2023 11:08:15 WIB",
     "lintang": "8.14 LS",
     "bujur": "107.9 BT",
@@ -249,17 +260,6 @@
     "wilayah": "Pusat gempa berada di darat 13 km Timur Laut Supiori",
     "warning": [
       "III Kab. Supiori"
-    ]
-  },
-  {
-    "waktu": "13/11/2023 07:39:17 WIB",
-    "lintang": "2.17 LS",
-    "bujur": "115.59 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 20 Km Baratlaut Balangan",
-    "warning": [
-      "III Tabalong"
     ]
   }
 ]
