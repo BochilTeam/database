@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "24/11/2023 11:08:15 WIB",
+    "lintang": "8.14 LS",
+    "bujur": "107.9 BT",
+    "magnitudo": "4",
+    "kedalaman": "30 Km",
+    "wilayah": "Pusat gempa berada di Laut 82 km BaratDaya Kabupaten Pangandaran",
+    "warning": [
+      "III Pangandaran",
+      "III Cikajang",
+      "III Bungbulang",
+      "II-III Ciamis",
+      "II - III Salopa",
+      "II - III Karangnunggal",
+      "II - III Singaparna"
+    ]
+  },
+  {
     "waktu": "23/11/2023 15:06:13 WIB",
     "lintang": "8.51 LS",
     "bujur": "116.09 BT",
@@ -243,18 +260,6 @@
     "wilayah": "Pusat gempa berada di darat 20 Km Baratlaut Balangan",
     "warning": [
       "III Tabalong"
-    ]
-  },
-  {
-    "waktu": "13/11/2023 03:38:16 WIB",
-    "lintang": "3.64 LS",
-    "bujur": "140.38 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada di darat 53 km BaratDaya Keerom",
-    "warning": [
-      "III Keerom",
-      "II Jayapura"
     ]
   }
 ]
