@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/11/2023 15:21:48 WIB",
+    "lintang": "1.32 LU",
+    "bujur": "128.01 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "132 Km",
+    "wilayah": "Pusat gempa berada di laut 24 km tenggara Halmahera Utara",
+    "warning": [
+      "II Halmahera Timur"
+    ]
+  },
+  {
     "waktu": "25/11/2023 18:22:09 WIB",
     "lintang": "8.23 LS",
     "bujur": "114.81 BT",
@@ -249,17 +260,6 @@
       "II-III Tidore",
       "II-III Kab. Halmahera Barat",
       "II-III Kotamobago"
-    ]
-  },
-  {
-    "waktu": "15/11/2023 12:11:05 WIB",
-    "lintang": "3.47 LS",
-    "bujur": "101.59 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "25 Km",
-    "wilayah": "Pusat gempa berada di laut 67 km Barat Daya Bengkulu Utara",
-    "warning": [
-      "II-III Bengkulu Utara"
     ]
   }
 ]
