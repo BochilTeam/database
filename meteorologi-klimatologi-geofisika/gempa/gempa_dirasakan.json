@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/11/2023 23:18:55 WIB",
+    "lintang": "0.83 LU",
+    "bujur": "120.4 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di Laut 40 Km Barat Daya Toli-Toli",
+    "warning": [
+      "III Toli-Toli"
+    ]
+  },
+  {
     "waktu": "26/11/2023 15:21:48 WIB",
     "lintang": "1.32 LU",
     "bujur": "128.01 BT",
@@ -245,21 +256,6 @@
     "wilayah": "Pusat gempa berada didarat 32Km BaratDaya Kobagma",
     "warning": [
       "II-III Wamena"
-    ]
-  },
-  {
-    "waktu": "16/11/2023 06:26:17 WIB",
-    "lintang": "1.95 LU",
-    "bujur": "124.18 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "294 Km",
-    "wilayah": "Pusat gempa berada di laut, 90 km Barat Laut Manado",
-    "warning": [
-      "II-III Kepulauan Sula",
-      "II-III Taliabu",
-      "II-III Tidore",
-      "II-III Kab. Halmahera Barat",
-      "II-III Kotamobago"
     ]
   }
 ]
