@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/11/2023 08:13:25 WIB",
+    "lintang": "4.66 LS",
+    "bujur": "129.56 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 40 km Barat Banda",
+    "warning": [
+      "II Banda"
+    ]
+  },
+  {
     "waktu": "26/11/2023 23:18:55 WIB",
     "lintang": "0.83 LU",
     "bujur": "120.4 BT",
@@ -245,17 +256,6 @@
     "wilayah": "Pusat gempa berada di darat 17 Km Barat Daya Kupang",
     "warning": [
       "II-III Kota Kupang"
-    ]
-  },
-  {
-    "waktu": "16/11/2023 09:21:47 WIB",
-    "lintang": "3.71 LS",
-    "bujur": "138.78 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "127 Km",
-    "wilayah": "Pusat gempa berada didarat 32Km BaratDaya Kobagma",
-    "warning": [
-      "II-III Wamena"
     ]
   }
 ]
