@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/11/2023 21:42:13 WIB",
+    "lintang": "6.85 LS",
+    "bujur": "107.07 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km BaratDaya Kabupaten Cianjur",
+    "warning": [
+      "II Cianjur"
+    ]
+  },
+  {
     "waktu": "28/11/2023 19:54:31 WIB",
     "lintang": "6.81 LS",
     "bujur": "107.07 BT",
@@ -237,17 +248,6 @@
     "wilayah": "Pusat gempa berada di darat 31 km BaratLaut SUPIORI",
     "warning": [
       "II-III Supiori"
-    ]
-  },
-  {
-    "waktu": "20/11/2023 06:33:16 WIB",
-    "lintang": "3.32 LS",
-    "bujur": "128.35 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km utara Kairatu",
-    "warning": [
-      "III Kairatu"
     ]
   }
 ]
