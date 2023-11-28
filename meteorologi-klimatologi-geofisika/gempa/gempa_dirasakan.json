@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/11/2023 19:54:31 WIB",
+    "lintang": "6.81 LS",
+    "bujur": "107.07 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km BaratLaut Kabupaten Cianjur",
+    "warning": [
+      "II Cianjur"
+    ]
+  },
+  {
     "waktu": "28/11/2023 18:40:19 WIB",
     "lintang": "2.38 LS",
     "bujur": "120.89 BT",
@@ -237,26 +248,6 @@
     "wilayah": "Pusat gempa berada di darat 3 km utara Kairatu",
     "warning": [
       "III Kairatu"
-    ]
-  },
-  {
-    "waktu": "18/11/2023 06:34:28 WIB",
-    "lintang": "7.86 LS",
-    "bujur": "107.27 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "21 Km",
-    "wilayah": "Pusat gempa berada di laut 97 km Barat Daya Kab. Bandung",
-    "warning": [
-      "III Garut",
-      "III Sindangbarang",
-      "III Ciamis",
-      "III Pakenjeng",
-      "III Bungbulang",
-      "III Tasikmalaya",
-      "II-III Cianjur",
-      "II-III Sukabumi",
-      "II-III Kab. Bandung",
-      "II Bandung"
     ]
   }
 ]
