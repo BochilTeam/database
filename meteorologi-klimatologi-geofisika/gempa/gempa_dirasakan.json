@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/11/2023 14:55:32 WIB",
+    "lintang": "2.26 LU",
+    "bujur": "96.14 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di laut 34 km barat daya Sinabang",
+    "warning": [
+      "III Sinabang"
+    ]
+  },
+  {
     "waktu": "28/11/2023 21:42:13 WIB",
     "lintang": "6.85 LS",
     "bujur": "107.07 BT",
@@ -237,17 +248,6 @@
     "wilayah": "Pusat gempa berada di darat 18 Km Barat laut Kab. Jayapura",
     "warning": [
       "II - III Sentani"
-    ]
-  },
-  {
-    "waktu": "20/11/2023 11:30:51 WIB",
-    "lintang": "0.67 LS",
-    "bujur": "135.46 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 31 km BaratLaut SUPIORI",
-    "warning": [
-      "II-III Supiori"
     ]
   }
 ]
