@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "03/12/2023 01:32:02 WIB",
+    "lintang": "7.22 LS",
+    "bujur": "107.43 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat, 24 km BaratDaya Kab. Bandung",
+    "warning": [
+      "II - III Kab. Bandung",
+      "III Cianjur"
+    ]
+  },
+  {
     "waktu": "02/12/2023 21:57:22 WIB",
     "lintang": "2.67 LS",
     "bujur": "129.62 BT",
@@ -221,19 +233,6 @@
       "II - III Salopa",
       "II - III Karangnunggal",
       "II - III Singaparna"
-    ]
-  },
-  {
-    "waktu": "23/11/2023 15:06:13 WIB",
-    "lintang": "8.51 LS",
-    "bujur": "116.09 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 18 Km BaratDaya Lombok Utara",
-    "warning": [
-      "II - III Lombok Barat",
-      "II - III Lombok Utara",
-      "II - III Lombok Tengah"
     ]
   }
 ]
