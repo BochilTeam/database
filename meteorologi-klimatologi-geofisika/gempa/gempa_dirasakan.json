@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "02/12/2023 21:57:22 WIB",
+    "lintang": "2.67 LS",
+    "bujur": "129.62 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 21 km TimurLaut Wahai",
+    "warning": [
+      "II Kairatu"
+    ]
+  },
+  {
+    "waktu": "02/12/2023 21:37:07 WIB",
+    "lintang": "8.53 LU",
+    "bujur": "126.59 BT",
+    "magnitudo": "7.5",
+    "kedalaman": "56 Km",
+    "wilayah": "Pusat gempa berada di laut 420 km BaratLaut Pulau Karatung",
+    "warning": [
+      "III Naha"
+    ]
+  },
+  {
     "waktu": "02/12/2023 20:42:04 WIB",
     "lintang": "3.53 LS",
     "bujur": "102.01 BT",
@@ -212,45 +234,6 @@
       "II - III Lombok Barat",
       "II - III Lombok Utara",
       "II - III Lombok Tengah"
-    ]
-  },
-  {
-    "waktu": "23/11/2023 12:58:05 WIB",
-    "lintang": "8.56 LS",
-    "bujur": "116.03 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 18 km barat laut Lombok Barat",
-    "warning": [
-      "II - III Lombok Barat",
-      "II - III Mataram",
-      "II - III Lombok Utara"
-    ]
-  },
-  {
-    "waktu": "22/11/2023 09:48:54 WIB",
-    "lintang": "1.77 LU",
-    "bujur": "127.14 BT",
-    "magnitudo": "6.6",
-    "kedalaman": "109 Km",
-    "wilayah": "Pusat gempa berada di laut 68 Km Barat Laut Halmahera Barat",
-    "warning": [
-      "III-IV Minahasa",
-      "III-IV Minahasa Utara",
-      "III Tidore",
-      "III Bitung",
-      "III-IV Halmahera Barat",
-      "III - IV Halmahera Utara",
-      "III-IV Ternate",
-      "III-IV Manado",
-      "IV Siau",
-      "III-IV Minahasa Tenggara",
-      "III-IV Tomohon",
-      "III Talaud",
-      "III Halmahera Timur",
-      "III Kotamobagu",
-      "III Morotai",
-      "II-III Kepulauan Sula"
     ]
   }
 ]
