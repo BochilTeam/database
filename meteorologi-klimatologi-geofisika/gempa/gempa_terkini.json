@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-12-23 19:01:02 WIB",
+    "lintang": "-7.13",
+    "bujur": "129.81",
+    "magnitudo": "6.0",
+    "kedalaman": "157 Km",
+    "wilayah": "190 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "02-12-23 12:37:31 WIB",
     "lintang": "-9.38",
     "bujur": "112.65",
@@ -230,13 +238,5 @@
     "magnitudo": "6.8",
     "kedalaman": "10 Km",
     "wilayah": "255 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "08-11-23 19:04:32 WIB",
-    "lintang": "-1.56",
-    "bujur": "139.17",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "56 km TimurLaut SARMI-PAPUA"
   }
 ]
