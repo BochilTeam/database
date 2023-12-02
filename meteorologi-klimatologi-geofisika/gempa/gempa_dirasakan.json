@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "02/12/2023 12:37:31 WIB",
+    "lintang": "9.38 LS",
+    "bujur": "112.65 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 138 km Tenggara Kab. Malang",
+    "warning": [
+      "II Malang",
+      "II Lumajang"
+    ]
+  },
+  {
     "waktu": "01/12/2023 07:15:09 WIB",
     "lintang": "8.16 LS",
     "bujur": "124.58 BT",
@@ -236,18 +248,6 @@
     "wilayah": "Pusat gempa berada di darat 12 km tenggara Nabire",
     "warning": [
       "II-III Nabire"
-    ]
-  },
-  {
-    "waktu": "21/11/2023 14:12:16 WIB",
-    "lintang": "0.51 LS",
-    "bujur": "135.64 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 27 km BaratLaut Supiori",
-    "warning": [
-      "III - IV Supiori",
-      "III Biak"
     ]
   }
 ]
