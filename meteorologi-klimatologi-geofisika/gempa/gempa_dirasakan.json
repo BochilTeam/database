@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "02/12/2023 20:42:04 WIB",
+    "lintang": "3.53 LS",
+    "bujur": "102.01 BT",
+    "magnitudo": "5",
+    "kedalaman": "108 Km",
+    "wilayah": "Pusat gempa berada di laut 23 km BaratDaya Bengkulu Utara",
+    "warning": [
+      "II-III Kota Bengkulu",
+      "II Mukomuko"
+    ]
+  },
+  {
+    "waktu": "02/12/2023 19:01:02 WIB",
+    "lintang": "7.13 LS",
+    "bujur": "129.81 BT",
+    "magnitudo": "6",
+    "kedalaman": "157 Km",
+    "wilayah": "Pusat gempa berada di laut 190 km BaratLaut Tanimbar",
+    "warning": [
+      "II-III Saumlaki",
+      "II Tual",
+      "II Damer"
+    ]
+  },
+  {
     "waktu": "02/12/2023 12:37:31 WIB",
     "lintang": "9.38 LS",
     "bujur": "112.65 BT",
@@ -226,28 +251,6 @@
       "III Kotamobagu",
       "III Morotai",
       "II-III Kepulauan Sula"
-    ]
-  },
-  {
-    "waktu": "22/11/2023 05:01:24 WIB",
-    "lintang": "4.79 LS",
-    "bujur": "122.64 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 7.2 km BaratLaut Kab. Muna",
-    "warning": [
-      "II - III Muna"
-    ]
-  },
-  {
-    "waktu": "21/11/2023 20:58:29 WIB",
-    "lintang": "3.47 LS",
-    "bujur": "135.53 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km tenggara Nabire",
-    "warning": [
-      "II-III Nabire"
     ]
   }
 ]

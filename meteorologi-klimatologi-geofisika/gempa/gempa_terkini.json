@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "02-12-23 21:57:22 WIB",
+    "lintang": "-2.67",
+    "bujur": "129.62",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "101 km TimurLaut MALUKUTENGAH"
+  },
+  {
+    "waktu": "02-12-23 20:42:04 WIB",
+    "lintang": "-3.53",
+    "bujur": "102.01",
+    "magnitudo": "5.0",
+    "kedalaman": "108 Km",
+    "wilayah": "23 km BaratDaya BENGKULUUTARA"
+  },
+  {
     "waktu": "02-12-23 19:01:02 WIB",
     "lintang": "-7.13",
     "bujur": "129.81",
@@ -222,21 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "264 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "08-11-23 20:21:05 WIB",
-    "lintang": "-6.11",
-    "bujur": "130.20",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "240 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "08-11-23 20:02:07 WIB",
-    "lintang": "-6.13",
-    "bujur": "129.93",
-    "magnitudo": "6.8",
-    "kedalaman": "10 Km",
-    "wilayah": "255 km BaratLaut TANIMBAR"
   }
 ]
