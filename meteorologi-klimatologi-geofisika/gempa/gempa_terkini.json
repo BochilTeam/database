@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03-12-23 09:39:57 WIB",
+    "lintang": "-2.69",
+    "bujur": "129.46",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "87 km TimurLaut MALUKUTENGAH"
+  },
+  {
     "waktu": "02-12-23 21:57:22 WIB",
     "lintang": "-2.67",
     "bujur": "129.62",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 Km",
     "wilayah": "256 km BaratDaya SERAMBAGIANTIMUR-MALUKU"
-  },
-  {
-    "waktu": "08-11-23 21:47:38 WIB",
-    "lintang": "-6.00",
-    "bujur": "129.97",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "264 km BaratLaut TANIMBAR"
   }
 ]
