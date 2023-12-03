@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/12/2023 08:16:28 WIB",
+    "lintang": "8.95 LS",
+    "bujur": "118.79 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "67 Km",
+    "wilayah": "Pusat gempa berada di Laut 54 Tenggara Kota Bima",
+    "warning": [
+      "II-III Bima"
+    ]
+  },
+  {
     "waktu": "03/12/2023 01:32:02 WIB",
     "lintang": "7.22 LS",
     "bujur": "107.43 BT",
@@ -216,23 +227,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km BaratDaya Padang",
     "warning": [
       "III Padang"
-    ]
-  },
-  {
-    "waktu": "24/11/2023 11:08:15 WIB",
-    "lintang": "8.14 LS",
-    "bujur": "107.9 BT",
-    "magnitudo": "4",
-    "kedalaman": "30 Km",
-    "wilayah": "Pusat gempa berada di Laut 82 km BaratDaya Kabupaten Pangandaran",
-    "warning": [
-      "III Pangandaran",
-      "III Cikajang",
-      "III Bungbulang",
-      "II-III Ciamis",
-      "II - III Salopa",
-      "II - III Karangnunggal",
-      "II - III Singaparna"
     ]
   }
 ]
