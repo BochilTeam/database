@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "04/12/2023 18:12:53 WIB",
+    "lintang": "5.23 LU",
+    "bujur": "96.21 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di Laut 27 Km BaratLaut Kab. Pidie Jaya",
+    "warning": [
+      "III Pidie Jaya",
+      "III Pidie",
+      "II Bener Meriah"
+    ]
+  },
+  {
     "waktu": "03/12/2023 08:16:28 WIB",
     "lintang": "8.95 LS",
     "bujur": "118.79 BT",
@@ -216,17 +229,6 @@
     "wilayah": "Pusat gempa berada di darat 12 km Tenggara Kab. Sukabumi",
     "warning": [
       "II-III Sukabumi"
-    ]
-  },
-  {
-    "waktu": "24/11/2023 16:48:34 WIB",
-    "lintang": "1 LS",
-    "bujur": "100.29 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km BaratDaya Padang",
-    "warning": [
-      "III Padang"
     ]
   }
 ]
