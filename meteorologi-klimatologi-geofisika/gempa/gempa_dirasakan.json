@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "05/12/2023 19:50:51 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.07 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km barat laut Kab. Cianjur",
+    "warning": [
+      "II-III Cugenang",
+      "II-III Cianjur"
+    ]
+  },
+  {
+    "waktu": "05/12/2023 19:36:37 WIB",
+    "lintang": "2.64 LU",
+    "bujur": "128.24 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di laut 64 km timur laut Pulaudoi",
+    "warning": [
+      "IV Morotai",
+      "III Halmahera Utara"
+    ]
+  },
+  {
     "waktu": "05/12/2023 16:14:13 WIB",
     "lintang": "7.23 LS",
     "bujur": "107.73 BT",
@@ -213,28 +237,6 @@
     "wilayah": "Pusat gempa berada di Laut 40 Km Barat Daya Toli-Toli",
     "warning": [
       "III Toli-Toli"
-    ]
-  },
-  {
-    "waktu": "26/11/2023 15:21:48 WIB",
-    "lintang": "1.32 LU",
-    "bujur": "128.01 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "132 Km",
-    "wilayah": "Pusat gempa berada di laut 24 km tenggara Halmahera Utara",
-    "warning": [
-      "II Halmahera Timur"
-    ]
-  },
-  {
-    "waktu": "25/11/2023 18:22:09 WIB",
-    "lintang": "8.23 LS",
-    "bujur": "114.81 BT",
-    "magnitudo": "1.8",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di darat 27 km Timur laut Jembrana",
-    "warning": [
-      "II Gerokgag"
     ]
   }
 ]

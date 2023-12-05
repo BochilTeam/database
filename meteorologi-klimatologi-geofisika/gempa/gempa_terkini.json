@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05-12-23 19:36:37 WIB",
+    "lintang": "2.64",
+    "bujur": "128.24",
+    "magnitudo": "5.6",
+    "kedalaman": "18 Km",
+    "wilayah": "64 km TimurLaut PULAUDOI-MALUT"
+  },
+  {
     "waktu": "03-12-23 09:39:57 WIB",
     "lintang": "-2.69",
     "bujur": "129.46",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "257 km BaratDaya SERAMBAGIANTIMUR-MALUKU"
-  },
-  {
-    "waktu": "09-11-23 00:25:05 WIB",
-    "lintang": "-5.40",
-    "bujur": "130.25",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "256 km BaratDaya SERAMBAGIANTIMUR-MALUKU"
   }
 ]
