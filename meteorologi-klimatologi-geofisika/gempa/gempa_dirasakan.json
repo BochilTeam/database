@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "05/12/2023 16:14:13 WIB",
+    "lintang": "7.23 LS",
+    "bujur": "107.73 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km Baratdaya Garut",
+    "warning": [
+      "III Garut",
+      "II-III Majalaya",
+      "II-III Kertasari",
+      "II-III Ciwidey",
+      "II-III Balegede",
+      "II-III Rancabali",
+      "II Pangalengan"
+    ]
+  },
+  {
     "waktu": "04/12/2023 18:12:53 WIB",
     "lintang": "5.23 LU",
     "bujur": "96.21 BT",
@@ -218,17 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 27 km Timur laut Jembrana",
     "warning": [
       "II Gerokgag"
-    ]
-  },
-  {
-    "waktu": "25/11/2023 06:36:59 WIB",
-    "lintang": "7.03 LS",
-    "bujur": "106.65 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km Tenggara Kab. Sukabumi",
-    "warning": [
-      "II-III Sukabumi"
     ]
   }
 ]
