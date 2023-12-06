@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "06/12/2023 21:20:06 WIB",
+    "lintang": "6.76 LS",
+    "bujur": "106.54 BT",
+    "magnitudo": "3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 25 km barat laut Kab. Sukabumi",
+    "warning": [
+      "II-III Bogor Barat",
+      "II-III Cisolok",
+      "II-III Bayah",
+      "II-III Leuwiliang"
+    ]
+  },
+  {
     "waktu": "06/12/2023 20:20:02 WIB",
     "lintang": "6.77 LS",
     "bujur": "106.52 BT",
@@ -229,17 +243,6 @@
       "II Jember",
       "II Banyuwangi",
       "II Blitar"
-    ]
-  },
-  {
-    "waktu": "27/11/2023 08:13:25 WIB",
-    "lintang": "4.66 LS",
-    "bujur": "129.56 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 40 km Barat Banda",
-    "warning": [
-      "II Banda"
     ]
   }
 ]
