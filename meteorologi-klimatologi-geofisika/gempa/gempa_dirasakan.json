@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "06/12/2023 20:20:02 WIB",
+    "lintang": "6.77 LS",
+    "bujur": "106.52 BT",
+    "magnitudo": "3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 24 km barat laut Kab. Sukabumi",
+    "warning": [
+      "II-III Bogor Barat",
+      "II-III Cisolok",
+      "II-III Bayah",
+      "II-III Leuwiliang"
+    ]
+  },
+  {
     "waktu": "05/12/2023 19:50:51 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.07 BT",
@@ -226,17 +240,6 @@
     "wilayah": "Pusat gempa berada di laut 40 km Barat Banda",
     "warning": [
       "II Banda"
-    ]
-  },
-  {
-    "waktu": "26/11/2023 23:18:55 WIB",
-    "lintang": "0.83 LU",
-    "bujur": "120.4 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di Laut 40 Km Barat Daya Toli-Toli",
-    "warning": [
-      "III Toli-Toli"
     ]
   }
 ]
