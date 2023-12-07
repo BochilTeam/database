@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/12/2023 21:00:02 WIB",
+    "lintang": "8.73 LS",
+    "bujur": "115.37 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 17 km Timur Laut Kuta Selatan",
+    "warning": [
+      "II Nusa Dua"
+    ]
+  },
+  {
     "waktu": "07/12/2023 17:53:39 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.1 BT",
@@ -231,17 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km BaratLaut Kabupaten Cianjur",
     "warning": [
       "II Cianjur"
-    ]
-  },
-  {
-    "waktu": "28/11/2023 18:40:19 WIB",
-    "lintang": "2.38 LS",
-    "bujur": "120.89 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 38 km BaratLaut Luwu Timur",
-    "warning": [
-      "III Angkona"
     ]
   }
 ]
