@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/12/2023 02:00:45 WIB",
+    "lintang": "6.73 LS",
+    "bujur": "106.61 BT",
+    "magnitudo": "4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 25 km Barat Daya Kota Bogor",
+    "warning": [
+      "III Kalapanunggal Sukabumi"
+    ]
+  },
+  {
     "waktu": "07/12/2023 21:00:02 WIB",
     "lintang": "8.73 LS",
     "bujur": "115.37 BT",
@@ -229,17 +240,6 @@
     "magnitudo": "2.2",
     "kedalaman": "9 Km",
     "wilayah": "Pusat gempa berada di darat 8 km BaratDaya Kabupaten Cianjur",
-    "warning": [
-      "II Cianjur"
-    ]
-  },
-  {
-    "waktu": "28/11/2023 19:54:31 WIB",
-    "lintang": "6.81 LS",
-    "bujur": "107.07 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km BaratLaut Kabupaten Cianjur",
     "warning": [
       "II Cianjur"
     ]
