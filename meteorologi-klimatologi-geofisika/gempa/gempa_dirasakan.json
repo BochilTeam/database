@@ -1,5 +1,31 @@
 [
   {
+    "waktu": "07/12/2023 17:53:39 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.1 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 4 Km Barat Laut Kabupaten Cianjur",
+    "warning": [
+      "III Cianjur",
+      "III Cugenang"
+    ]
+  },
+  {
+    "waktu": "07/12/2023 16:59:56 WIB",
+    "lintang": "6.85 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km BaratDaya Kab. Cianjur",
+    "warning": [
+      "III Cianjur",
+      "III Cugenang",
+      "III Cipanas",
+      "III Pacet"
+    ]
+  },
+  {
     "waktu": "06/12/2023 21:20:06 WIB",
     "lintang": "6.76 LS",
     "bujur": "106.54 BT",
@@ -216,33 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 38 km BaratLaut Luwu Timur",
     "warning": [
       "III Angkona"
-    ]
-  },
-  {
-    "waktu": "28/11/2023 18:03:05 WIB",
-    "lintang": "2.04 LU",
-    "bujur": "129 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 78 Km Tenggara Daruba",
-    "warning": [
-      "II Morotai Selatan"
-    ]
-  },
-  {
-    "waktu": "27/11/2023 15:19:01 WIB",
-    "lintang": "8.86 LS",
-    "bujur": "112.81 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "109 Km",
-    "wilayah": "Pusat gempa berada di laut 84 km Tenggara Kab. Malang",
-    "warning": [
-      "II Trenggalek",
-      "II Gunung Kidul",
-      "II Karangkates",
-      "II Jember",
-      "II Banyuwangi",
-      "II Blitar"
     ]
   }
 ]
