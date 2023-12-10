@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "10/12/2023 11:49:46 WIB",
+    "lintang": "3.55 LS",
+    "bujur": "141.05 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "105 Km",
+    "wilayah": "Pusat gempa berada di darat 32 km Tenggara Senggi-Keerom",
+    "warning": [
+      "III Kota Jayapura",
+      "II Kab. Jayapura"
+    ]
+  },
+  {
     "waktu": "08/12/2023 02:00:45 WIB",
     "lintang": "6.73 LS",
     "bujur": "106.61 BT",
@@ -231,17 +243,6 @@
     "wilayah": "Pusat gempa berada di laut 34 km barat daya Sinabang",
     "warning": [
       "III Sinabang"
-    ]
-  },
-  {
-    "waktu": "28/11/2023 21:42:13 WIB",
-    "lintang": "6.85 LS",
-    "bujur": "107.07 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km BaratDaya Kabupaten Cianjur",
-    "warning": [
-      "II Cianjur"
     ]
   }
 ]

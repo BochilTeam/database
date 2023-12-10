@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10-12-23 11:49:46 WIB",
+    "lintang": "-3.55",
+    "bujur": "141.05",
+    "magnitudo": "5.3",
+    "kedalaman": "105 Km",
+    "wilayah": "39 km Tenggara KEEROM-PAPUA"
+  },
+  {
     "waktu": "07-12-23 20:09:44 WIB",
     "lintang": "5.74",
     "bujur": "125.50",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "259 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "11-11-23 03:45:13 WIB",
-    "lintang": "-6.10",
-    "bujur": "130.06",
-    "magnitudo": "6.2",
-    "kedalaman": "10 Km",
-    "wilayah": "249 km BaratLaut TANIMBAR"
   }
 ]
