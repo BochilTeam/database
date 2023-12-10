@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-12-23 02:52:14 WIB",
+    "lintang": "-4.39",
+    "bujur": "139.67",
+    "magnitudo": "5.5",
+    "kedalaman": "72 Km",
+    "wilayah": "19 km TimurLaut YAHUKIMO-PAPUAPGNGN"
+  },
+  {
     "waktu": "10-12-23 11:49:46 WIB",
     "lintang": "-3.55",
     "bujur": "141.05",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "252 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "11-11-23 04:06:00 WIB",
-    "lintang": "-6.10",
-    "bujur": "129.91",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "259 km BaratLaut TANIMBAR"
   }
 ]

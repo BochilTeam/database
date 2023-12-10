@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/12/2023 02:52:14 WIB",
+    "lintang": "4.39 LS",
+    "bujur": "139.67 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "72 Km",
+    "wilayah": "Pusat gempa berada di darat 55 km TimurLaut Yahukimo",
+    "warning": [
+      "III-IV Oksibil"
+    ]
+  },
+  {
     "waktu": "10/12/2023 11:49:46 WIB",
     "lintang": "3.55 LS",
     "bujur": "141.05 BT",
@@ -232,17 +243,6 @@
     "wilayah": "Pusat gempa berada di darat 15 km TimurLaut Alor",
     "warning": [
       "III Alor"
-    ]
-  },
-  {
-    "waktu": "29/11/2023 14:55:32 WIB",
-    "lintang": "2.26 LU",
-    "bujur": "96.14 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di laut 34 km barat daya Sinabang",
-    "warning": [
-      "III Sinabang"
     ]
   }
 ]
