@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-12-23 17:16:40 WIB",
+    "lintang": "-0.49",
+    "bujur": "101.36",
+    "magnitudo": "5.8",
+    "kedalaman": "257 Km",
+    "wilayah": "19 km BaratDaya KUANTANSINGINGI-RIAU"
+  },
+  {
     "waktu": "11-12-23 11:33:32 WIB",
     "lintang": "2.62",
     "bujur": "128.23",
@@ -230,13 +238,5 @@
     "magnitudo": "5.9",
     "kedalaman": "127 Km",
     "wilayah": "286 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "11-11-23 04:20:13 WIB",
-    "lintang": "-6.11",
-    "bujur": "129.92",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "257 km BaratLaut TANIMBAR"
   }
 ]

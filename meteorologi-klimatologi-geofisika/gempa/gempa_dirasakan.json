@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/12/2023 17:16:40 WIB",
+    "lintang": "0.49 LS",
+    "bujur": "101.36 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "257 Km",
+    "wilayah": "Pusat gempa berada di darat 19 km Baratdaya Kuantan Singingi",
+    "warning": [
+      "II Padang"
+    ]
+  },
+  {
     "waktu": "11/12/2023 11:33:32 WIB",
     "lintang": "2.62 LU",
     "bujur": "128.23 BT",
@@ -231,18 +242,6 @@
       "II-III Saumlaki",
       "II Tual",
       "II Damer"
-    ]
-  },
-  {
-    "waktu": "02/12/2023 12:37:31 WIB",
-    "lintang": "9.38 LS",
-    "bujur": "112.65 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 138 km Tenggara Kab. Malang",
-    "warning": [
-      "II Malang",
-      "II Lumajang"
     ]
   }
 ]
