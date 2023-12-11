@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-12-23 11:33:32 WIB",
+    "lintang": "2.62",
+    "bujur": "128.23",
+    "magnitudo": "5.3",
+    "kedalaman": "114 Km",
+    "wilayah": "62 km TimurLaut PULAUDOI-MALUT"
+  },
+  {
     "waktu": "11-12-23 02:52:14 WIB",
     "lintang": "-4.39",
     "bujur": "139.67",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "257 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "11-11-23 04:13:38 WIB",
-    "lintang": "-6.09",
-    "bujur": "130.03",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "252 km BaratLaut TANIMBAR"
   }
 ]

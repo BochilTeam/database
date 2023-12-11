@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/12/2023 11:33:32 WIB",
+    "lintang": "2.62 LU",
+    "bujur": "128.23 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "114 Km",
+    "wilayah": "Pusat gempa berada di laut 62 km Timur Laut Pulaudoi",
+    "warning": [
+      "II Tobelo"
+    ]
+  },
+  {
     "waktu": "11/12/2023 02:52:14 WIB",
     "lintang": "4.39 LS",
     "bujur": "139.67 BT",
@@ -232,17 +243,6 @@
     "warning": [
       "II Malang",
       "II Lumajang"
-    ]
-  },
-  {
-    "waktu": "01/12/2023 07:15:09 WIB",
-    "lintang": "8.16 LS",
-    "bujur": "124.58 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km TimurLaut Alor",
-    "warning": [
-      "III Alor"
     ]
   }
 ]
