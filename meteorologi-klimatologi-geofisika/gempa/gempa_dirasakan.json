@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/12/2023 04:01:52 WIB",
+    "lintang": "0.45 LS",
+    "bujur": "100.25 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km BaratLaut Padang Panjang",
+    "warning": [
+      "II Padang Panjang"
+    ]
+  },
+  {
     "waktu": "13/12/2023 00:37:16 WIB",
     "lintang": "0.73 LS",
     "bujur": "119.62 BT",
@@ -228,18 +239,6 @@
     "wilayah": "Pusat gempa berada di laut 420 km BaratLaut Pulau Karatung",
     "warning": [
       "III Naha"
-    ]
-  },
-  {
-    "waktu": "02/12/2023 20:42:04 WIB",
-    "lintang": "3.53 LS",
-    "bujur": "102.01 BT",
-    "magnitudo": "5",
-    "kedalaman": "108 Km",
-    "wilayah": "Pusat gempa berada di laut 23 km BaratDaya Bengkulu Utara",
-    "warning": [
-      "II-III Kota Bengkulu",
-      "II Mukomuko"
     ]
   }
 ]
