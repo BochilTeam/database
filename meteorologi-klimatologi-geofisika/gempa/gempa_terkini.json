@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-12-23 07:37:27 WIB",
+    "lintang": "-10.47",
+    "bujur": "116.98",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "191 km Tenggara SUMBAWABARAT-NTB"
+  },
+  {
     "waktu": "11-12-23 17:16:40 WIB",
     "lintang": "-0.49",
     "bujur": "101.36",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "34 Km",
     "wilayah": "15 km BaratDaya KAB-KUPANG-NTT"
-  },
-  {
-    "waktu": "11-11-23 13:41:53 WIB",
-    "lintang": "-5.70",
-    "bujur": "130.09",
-    "magnitudo": "5.9",
-    "kedalaman": "127 Km",
-    "wilayah": "286 km BaratLaut TANIMBAR"
   }
 ]
