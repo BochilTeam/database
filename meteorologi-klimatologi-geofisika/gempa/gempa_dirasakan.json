@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/12/2023 00:37:16 WIB",
+    "lintang": "0.73 LS",
+    "bujur": "119.62 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di Laut 41 Km Barat Daya Donggala",
+    "warning": [
+      "II-III Palu"
+    ]
+  },
+  {
     "waktu": "11/12/2023 17:16:40 WIB",
     "lintang": "0.49 LS",
     "bujur": "101.36 BT",
@@ -229,19 +240,6 @@
     "warning": [
       "II-III Kota Bengkulu",
       "II Mukomuko"
-    ]
-  },
-  {
-    "waktu": "02/12/2023 19:01:02 WIB",
-    "lintang": "7.13 LS",
-    "bujur": "129.81 BT",
-    "magnitudo": "6",
-    "kedalaman": "157 Km",
-    "wilayah": "Pusat gempa berada di laut 190 km BaratLaut Tanimbar",
-    "warning": [
-      "II-III Saumlaki",
-      "II Tual",
-      "II Damer"
     ]
   }
 ]
