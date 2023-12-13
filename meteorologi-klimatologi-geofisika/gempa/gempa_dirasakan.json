@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "13/12/2023 17:35:55 WIB",
+    "lintang": "8.12 LS",
+    "bujur": "107.93 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di laut 78 Km Barat Daya Kab. Pangandaran",
+    "warning": [
+      "II - III Tasikmalaya",
+      "II-III Cipatujah",
+      "II - III Cikajang",
+      "II-III Ciamis",
+      "II-III Pangandaran",
+      "II-III Cijulang"
+    ]
+  },
+  {
     "waktu": "13/12/2023 04:01:52 WIB",
     "lintang": "0.45 LS",
     "bujur": "100.25 BT",
@@ -228,17 +244,6 @@
     "wilayah": "Pusat gempa berada di laut 21 km TimurLaut Wahai",
     "warning": [
       "II Kairatu"
-    ]
-  },
-  {
-    "waktu": "02/12/2023 21:37:07 WIB",
-    "lintang": "8.53 LU",
-    "bujur": "126.59 BT",
-    "magnitudo": "7.5",
-    "kedalaman": "56 Km",
-    "wilayah": "Pusat gempa berada di laut 420 km BaratLaut Pulau Karatung",
-    "warning": [
-      "III Naha"
     ]
   }
 ]
