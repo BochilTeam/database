@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "13/12/2023 22:15:24 WIB",
+    "lintang": "7.94 LS",
+    "bujur": "110.49 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km Baratlaut Gunungkidul",
+    "warning": [
+      "II-III Gunung Kidul",
+      "II-III Bantul",
+      "II-III Kulon Progo"
+    ]
+  },
+  {
     "waktu": "13/12/2023 17:35:55 WIB",
     "lintang": "8.12 LS",
     "bujur": "107.93 BT",
@@ -233,17 +246,6 @@
     "warning": [
       "II - III Kab. Bandung",
       "III Cianjur"
-    ]
-  },
-  {
-    "waktu": "02/12/2023 21:57:22 WIB",
-    "lintang": "2.67 LS",
-    "bujur": "129.62 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 21 km TimurLaut Wahai",
-    "warning": [
-      "II Kairatu"
     ]
   }
 ]

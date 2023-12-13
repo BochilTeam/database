@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-12-23 21:30:54 WIB",
+    "lintang": "-7.61",
+    "bujur": "128.79",
+    "magnitudo": "5.1",
+    "kedalaman": "199 Km",
+    "wilayah": "126 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "12-12-23 07:37:27 WIB",
     "lintang": "-10.47",
     "bujur": "116.98",
@@ -230,13 +238,5 @@
     "magnitudo": "5.8",
     "kedalaman": "24 Km",
     "wilayah": "53 km BaratDaya KEEROM-PAPUA"
-  },
-  {
-    "waktu": "12-11-23 09:06:17 WIB",
-    "lintang": "-10.04",
-    "bujur": "123.76",
-    "magnitudo": "5.4",
-    "kedalaman": "34 Km",
-    "wilayah": "15 km BaratDaya KAB-KUPANG-NTT"
   }
 ]
