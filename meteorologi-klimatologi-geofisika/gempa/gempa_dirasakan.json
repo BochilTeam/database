@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "14/12/2023 14:27:18 WIB",
+    "lintang": "7.26 LS",
+    "bujur": "106.13 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "23 Km",
+    "wilayah": "Pusat gempa berada di laut 39 km BaratDaya Bayah",
+    "warning": [
+      "III - IV Malingping",
+      "III - IV Malasari",
+      "III - IV Leuwiliang",
+      "III Bayah",
+      "II - III Kalapanunggal",
+      "III Pelabuhan Ratu",
+      "III Gandasoli",
+      "III Cireungas",
+      "III Sukabumi",
+      "III Karanghawu",
+      "III Muarabinuangeun",
+      "III Jampang"
+    ]
+  },
+  {
     "waktu": "14/12/2023 08:05:52 WIB",
     "lintang": "0 LU",
     "bujur": "124.08 BT",
@@ -243,19 +265,6 @@
       "II-III Balegede",
       "II-III Rancabali",
       "II Pangalengan"
-    ]
-  },
-  {
-    "waktu": "04/12/2023 18:12:53 WIB",
-    "lintang": "5.23 LU",
-    "bujur": "96.21 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di Darat 27 Km BaratLaut Kab. Pidie Jaya",
-    "warning": [
-      "III Pidie Jaya",
-      "III Pidie",
-      "II Bener Meriah"
     ]
   }
 ]
