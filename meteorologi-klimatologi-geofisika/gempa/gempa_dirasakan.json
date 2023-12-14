@@ -1,5 +1,24 @@
 [
   {
+    "waktu": "14/12/2023 06:35:12 WIB",
+    "lintang": "6.76 LS",
+    "bujur": "106.53 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 25 km Barat Laut Kab. Sukabumi",
+    "warning": [
+      "III - IV Pamijahan",
+      "III Panggarangan",
+      "III Bayah",
+      "III Kalapanunggal",
+      "III Cilograng",
+      "III Bogor",
+      "II - III Ciputat",
+      "II - III Tangerang",
+      "II Pelabuhan Ratu"
+    ]
+  },
+  {
     "waktu": "13/12/2023 22:15:24 WIB",
     "lintang": "7.94 LS",
     "bujur": "110.49 BT",
@@ -234,18 +253,6 @@
     "wilayah": "Pusat gempa berada di Laut 54 Tenggara Kota Bima",
     "warning": [
       "II-III Bima"
-    ]
-  },
-  {
-    "waktu": "03/12/2023 01:32:02 WIB",
-    "lintang": "7.22 LS",
-    "bujur": "107.43 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat, 24 km BaratDaya Kab. Bandung",
-    "warning": [
-      "II - III Kab. Bandung",
-      "III Cianjur"
     ]
   }
 ]
