@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "14/12/2023 08:05:52 WIB",
+    "lintang": "0 LU",
+    "bujur": "124.08 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "99 Km",
+    "wilayah": "Pusat gempa berada di laut 42 Km Tenggara BOLAANGUKI-BOLSEL",
+    "warning": [
+      "III Bolaang Uki",
+      "II Bone Bolango",
+      "II Kotamobagu",
+      "II Taliabu"
+    ]
+  },
+  {
     "waktu": "14/12/2023 06:35:12 WIB",
     "lintang": "6.76 LS",
     "bujur": "106.53 BT",
@@ -242,17 +256,6 @@
       "III Pidie Jaya",
       "III Pidie",
       "II Bener Meriah"
-    ]
-  },
-  {
-    "waktu": "03/12/2023 08:16:28 WIB",
-    "lintang": "8.95 LS",
-    "bujur": "118.79 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "67 Km",
-    "wilayah": "Pusat gempa berada di Laut 54 Tenggara Kota Bima",
-    "warning": [
-      "II-III Bima"
     ]
   }
 ]
