@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/12/2023 10:23:23 WIB",
+    "lintang": "2.93 LS",
+    "bujur": "119.39 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km Mamasa",
+    "warning": [
+      "II Mamasa"
+    ]
+  },
+  {
     "waktu": "14/12/2023 18:08:31 WIB",
     "lintang": "6.73 LS",
     "bujur": "106.55 BT",
@@ -247,18 +258,6 @@
     "warning": [
       "II-III Cugenang",
       "II-III Cianjur"
-    ]
-  },
-  {
-    "waktu": "05/12/2023 19:36:37 WIB",
-    "lintang": "2.64 LU",
-    "bujur": "128.24 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di laut 64 km timur laut Pulaudoi",
-    "warning": [
-      "IV Morotai",
-      "III Halmahera Utara"
     ]
   }
 ]
