@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "16/12/2023 01:42:58 WIB",
+    "lintang": "7.15 LS",
+    "bujur": "108.89 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 31 km barat daya Kab. Tegal",
+    "warning": [
+      "II-III Majenang",
+      "II-III Kuningan"
+    ]
+  },
+  {
     "waktu": "15/12/2023 21:24:34 WIB",
     "lintang": "7.15 LS",
     "bujur": "108.86 BT",
@@ -242,20 +254,6 @@
     "magnitudo": "3",
     "kedalaman": "5 Km",
     "wilayah": "Pusat gempa berada di darat 25 km barat laut Kab. Sukabumi",
-    "warning": [
-      "II-III Bogor Barat",
-      "II-III Cisolok",
-      "II-III Bayah",
-      "II-III Leuwiliang"
-    ]
-  },
-  {
-    "waktu": "06/12/2023 20:20:02 WIB",
-    "lintang": "6.77 LS",
-    "bujur": "106.52 BT",
-    "magnitudo": "3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 24 km barat laut Kab. Sukabumi",
     "warning": [
       "II-III Bogor Barat",
       "II-III Cisolok",
