@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "15/12/2023 21:24:34 WIB",
+    "lintang": "7.15 LS",
+    "bujur": "108.86 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km barat daya Kab. Tegal",
+    "warning": [
+      "III Cirebon",
+      "II-III Tegal",
+      "II-III Brebes",
+      "II-III Banjar",
+      "II Subang"
+    ]
+  },
+  {
     "waktu": "15/12/2023 10:23:23 WIB",
     "lintang": "2.93 LS",
     "bujur": "119.39 BT",
@@ -246,18 +261,6 @@
       "II-III Cisolok",
       "II-III Bayah",
       "II-III Leuwiliang"
-    ]
-  },
-  {
-    "waktu": "05/12/2023 19:50:51 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.07 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km barat laut Kab. Cianjur",
-    "warning": [
-      "II-III Cugenang",
-      "II-III Cianjur"
     ]
   }
 ]
