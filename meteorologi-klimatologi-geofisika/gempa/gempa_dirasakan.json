@@ -1,5 +1,25 @@
 [
   {
+    "waktu": "16/12/2023 13:45:54 WIB",
+    "lintang": "0.35 LS",
+    "bujur": "98.75 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "19 Km",
+    "wilayah": "Pusat gempa berada di laut 130 km BaratDaya Pasaman Barat",
+    "warning": [
+      "III-IV Padang Pariaman",
+      "III-IV Hibala",
+      "II-III Padang Panjang",
+      "II-III Padang",
+      "III-IV Pariaman",
+      "III-IV Lubuk Basung",
+      "III-IV Kepulauan Batu",
+      "III-IV Pasaman Barat",
+      "II Painan",
+      "II Pasaman"
+    ]
+  },
+  {
     "waktu": "16/12/2023 01:42:58 WIB",
     "lintang": "7.15 LS",
     "bujur": "108.89 BT",
@@ -245,20 +265,6 @@
       "III Cugenang",
       "III Cipanas",
       "III Pacet"
-    ]
-  },
-  {
-    "waktu": "06/12/2023 21:20:06 WIB",
-    "lintang": "6.76 LS",
-    "bujur": "106.54 BT",
-    "magnitudo": "3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 25 km barat laut Kab. Sukabumi",
-    "warning": [
-      "II-III Bogor Barat",
-      "II-III Cisolok",
-      "II-III Bayah",
-      "II-III Leuwiliang"
     ]
   }
 ]

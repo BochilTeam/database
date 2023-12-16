@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16-12-23 13:45:54 WIB",
+    "lintang": "-0.35",
+    "bujur": "98.75",
+    "magnitudo": "5.4",
+    "kedalaman": "19 Km",
+    "wilayah": "130 km BaratDaya PASAMANBARAT-SUMBAR"
+  },
+  {
     "waktu": "15-12-23 00:49:05 WIB",
     "lintang": "-6.79",
     "bujur": "130.60",
@@ -230,13 +238,5 @@
     "magnitudo": "6.2",
     "kedalaman": "294 Km",
     "wilayah": "90 km BaratLaut MANADO-SULUT"
-  },
-  {
-    "waktu": "14-11-23 13:22:53 WIB",
-    "lintang": "-5.88",
-    "bujur": "130.18",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "263 km BaratLaut TANIMBAR"
   }
 ]
