@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/12/2023 07:47:38 WIB",
+    "lintang": "3.11 LS",
+    "bujur": "130.56 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut, 79 km TimurLaut Bula-SBT",
+    "warning": [
+      "II-III Bula"
+    ]
+  },
+  {
     "waktu": "16/12/2023 13:45:54 WIB",
     "lintang": "0.35 LS",
     "bujur": "98.75 BT",
@@ -251,20 +262,6 @@
     "warning": [
       "III Cianjur",
       "III Cugenang"
-    ]
-  },
-  {
-    "waktu": "07/12/2023 16:59:56 WIB",
-    "lintang": "6.85 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km BaratDaya Kab. Cianjur",
-    "warning": [
-      "III Cianjur",
-      "III Cugenang",
-      "III Cipanas",
-      "III Pacet"
     ]
   }
 ]
