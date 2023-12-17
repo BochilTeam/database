@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-12-23 21:27:34 WIB",
+    "lintang": "-2.19",
+    "bujur": "140.29",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "45 km BaratLaut KAB-JAYAPURA-PAPUA"
+  },
+  {
     "waktu": "16-12-23 13:45:54 WIB",
     "lintang": "-0.35",
     "bujur": "98.75",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "127 Km",
     "wilayah": "32 km BaratDaya KOBAGMA-PAPUAPGNGN"
-  },
-  {
-    "waktu": "16-11-23 06:26:17 WIB",
-    "lintang": "1.95",
-    "bujur": "124.18",
-    "magnitudo": "6.2",
-    "kedalaman": "294 Km",
-    "wilayah": "90 km BaratLaut MANADO-SULUT"
   }
 ]
