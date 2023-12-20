@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/12/2023 12:01:51 WIB",
+    "lintang": "3.41 LS",
+    "bujur": "135.65 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km Tenggara Nabire",
+    "warning": [
+      "II - III Nabire"
+    ]
+  },
+  {
     "waktu": "17/12/2023 21:27:34 WIB",
     "lintang": "2.19 LS",
     "bujur": "140.29 BT",
@@ -251,17 +262,6 @@
     "wilayah": "Pusat gempa berada di darat 25 km Barat Daya Kota Bogor",
     "warning": [
       "III Kalapanunggal Sukabumi"
-    ]
-  },
-  {
-    "waktu": "07/12/2023 21:00:02 WIB",
-    "lintang": "8.73 LS",
-    "bujur": "115.37 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 17 km Timur Laut Kuta Selatan",
-    "warning": [
-      "II Nusa Dua"
     ]
   }
 ]
