@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/12/2023 18:33:58 WIB",
+    "lintang": "2.72 LU",
+    "bujur": "128.18 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "23 Km",
+    "wilayah": "Pusat gempa berada di laut 65 km TimurLaut Pulau Doi",
+    "warning": [
+      "III - IV Morotai"
+    ]
+  },
+  {
     "waktu": "20/12/2023 12:01:51 WIB",
     "lintang": "3.41 LS",
     "bujur": "135.65 BT",
@@ -251,17 +262,6 @@
     "warning": [
       "III Kota Jayapura",
       "II Kab. Jayapura"
-    ]
-  },
-  {
-    "waktu": "08/12/2023 02:00:45 WIB",
-    "lintang": "6.73 LS",
-    "bujur": "106.61 BT",
-    "magnitudo": "4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 25 km Barat Daya Kota Bogor",
-    "warning": [
-      "III Kalapanunggal Sukabumi"
     ]
   }
 ]
