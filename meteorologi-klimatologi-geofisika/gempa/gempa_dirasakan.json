@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/12/2023 10:08:46 WIB",
+    "lintang": "5.08 LS",
+    "bujur": "123.02 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di laut 10 km Tenggara Kambowa, Kab. Buton Utara",
+    "warning": [
+      "III Lasalimu"
+    ]
+  },
+  {
     "waktu": "22/12/2023 18:33:58 WIB",
     "lintang": "2.72 LU",
     "bujur": "128.18 BT",
@@ -250,18 +261,6 @@
     "wilayah": "Pusat gempa berada di darat 55 km TimurLaut Yahukimo",
     "warning": [
       "III-IV Oksibil"
-    ]
-  },
-  {
-    "waktu": "10/12/2023 11:49:46 WIB",
-    "lintang": "3.55 LS",
-    "bujur": "141.05 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "105 Km",
-    "wilayah": "Pusat gempa berada di darat 32 km Tenggara Senggi-Keerom",
-    "warning": [
-      "III Kota Jayapura",
-      "II Kab. Jayapura"
     ]
   }
 ]
