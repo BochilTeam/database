@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/12/2023 16:09:15 WIB",
+    "lintang": "0.41 LU",
+    "bujur": "125.47 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 102 km Tenggara Tutuyan",
+    "warning": [
+      "II Bolaang Mongondow"
+    ]
+  },
+  {
     "waktu": "23/12/2023 10:08:46 WIB",
     "lintang": "5.08 LS",
     "bujur": "123.02 BT",
@@ -250,17 +261,6 @@
     "wilayah": "Pusat gempa berada di laut 62 km Timur Laut Pulaudoi",
     "warning": [
       "II Tobelo"
-    ]
-  },
-  {
-    "waktu": "11/12/2023 02:52:14 WIB",
-    "lintang": "4.39 LS",
-    "bujur": "139.67 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "72 Km",
-    "wilayah": "Pusat gempa berada di darat 55 km TimurLaut Yahukimo",
-    "warning": [
-      "III-IV Oksibil"
     ]
   }
 ]
