@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/12/2023 13:00:55 WIB",
+    "lintang": "7.99 LS",
+    "bujur": "117.85 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "35 Km",
+    "wilayah": "Pusat gempa berada di laut 73 km TimurLaut Sumbawa",
+    "warning": [
+      "II-III Dompu"
+    ]
+  },
+  {
     "waktu": "23/12/2023 17:26:22 WIB",
     "lintang": "0.51 LS",
     "bujur": "99.15 BT",
@@ -254,17 +265,6 @@
     "wilayah": "Pusat gempa berada di Laut 41 Km Barat Daya Donggala",
     "warning": [
       "II-III Palu"
-    ]
-  },
-  {
-    "waktu": "11/12/2023 17:16:40 WIB",
-    "lintang": "0.49 LS",
-    "bujur": "101.36 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "257 Km",
-    "wilayah": "Pusat gempa berada di darat 19 km Baratdaya Kuantan Singingi",
-    "warning": [
-      "II Padang"
     ]
   }
 ]
