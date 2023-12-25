@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "25/12/2023 12:48:05 WIB",
+    "lintang": "6.47 LS",
+    "bujur": "107.45 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km TimurLaut Kab. Purwakarta",
+    "warning": [
+      "I-II Purwakarta",
+      "I-II Cikampek"
+    ]
+  },
+  {
     "waktu": "24/12/2023 13:00:55 WIB",
     "lintang": "7.99 LS",
     "bujur": "117.85 BT",
@@ -254,17 +266,6 @@
     "wilayah": "Pusat gempa berada di darat 15 km BaratLaut Padang Panjang",
     "warning": [
       "II Padang Panjang"
-    ]
-  },
-  {
-    "waktu": "13/12/2023 00:37:16 WIB",
-    "lintang": "0.73 LS",
-    "bujur": "119.62 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di Laut 41 Km Barat Daya Donggala",
-    "warning": [
-      "II-III Palu"
     ]
   }
 ]
