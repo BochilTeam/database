@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/12/2023 18:12:57 WIB",
+    "lintang": "9.66 LS",
+    "bujur": "124.89 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km BaratDaya Malaka",
+    "warning": [
+      "III Malaka"
+    ]
+  },
+  {
     "waktu": "26/12/2023 05:47:56 WIB",
     "lintang": "8.49 LS",
     "bujur": "115.83 BT",
@@ -252,22 +263,6 @@
       "II-III Gunung Kidul",
       "II-III Bantul",
       "II-III Kulon Progo"
-    ]
-  },
-  {
-    "waktu": "13/12/2023 17:35:55 WIB",
-    "lintang": "8.12 LS",
-    "bujur": "107.93 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "29 Km",
-    "wilayah": "Pusat gempa berada di laut 78 Km Barat Daya Kab. Pangandaran",
-    "warning": [
-      "II - III Tasikmalaya",
-      "II-III Cipatujah",
-      "II - III Cikajang",
-      "II-III Ciamis",
-      "II-III Pangandaran",
-      "II-III Cijulang"
     ]
   }
 ]
