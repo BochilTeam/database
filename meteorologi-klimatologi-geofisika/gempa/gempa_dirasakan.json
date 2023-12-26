@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "26/12/2023 05:47:56 WIB",
+    "lintang": "8.49 LS",
+    "bujur": "115.83 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "19 Km",
+    "wilayah": "Pusat gempa berada di laut 37 km Tenggara Karangasem",
+    "warning": [
+      "II-III Mataram",
+      "II-III Lombok Barat",
+      "II-III Lombok Tengah"
+    ]
+  },
+  {
     "waktu": "25/12/2023 12:48:05 WIB",
     "lintang": "6.47 LS",
     "bujur": "107.45 BT",
@@ -255,17 +268,6 @@
       "II-III Ciamis",
       "II-III Pangandaran",
       "II-III Cijulang"
-    ]
-  },
-  {
-    "waktu": "13/12/2023 04:01:52 WIB",
-    "lintang": "0.45 LS",
-    "bujur": "100.25 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km BaratLaut Padang Panjang",
-    "warning": [
-      "II Padang Panjang"
     ]
   }
 ]
