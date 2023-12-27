@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/12/2023 01:52:46 WIB",
+    "lintang": "10.0 LS",
+    "bujur": "123.78 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "32 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km barat daya Kab. Kupang",
+    "warning": [
+      "III Kota Kupang"
+    ]
+  },
+  {
     "waktu": "27/12/2023 22:19:28 WIB",
     "lintang": "6.75 LS",
     "bujur": "106.58 BT",
@@ -231,17 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km Tenggara Mamasa",
     "warning": [
       "II Mamasa"
-    ]
-  },
-  {
-    "waktu": "14/12/2023 18:08:31 WIB",
-    "lintang": "6.73 LS",
-    "bujur": "106.55 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 28 km Utara Kab. Sukabumi",
-    "warning": [
-      "II Pamijahan"
     ]
   }
 ]
