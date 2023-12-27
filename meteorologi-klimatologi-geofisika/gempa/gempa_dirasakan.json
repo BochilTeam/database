@@ -1,5 +1,41 @@
 [
   {
+    "waktu": "27/12/2023 20:32:19 WIB",
+    "lintang": "6.47 LS",
+    "bujur": "106.55 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km Utara Kab. Sukabumi",
+    "warning": [
+      "II Pamijahan"
+    ]
+  },
+  {
+    "waktu": "27/12/2023 20:10:52 WIB",
+    "lintang": "6.75 LS",
+    "bujur": "106.55 BT",
+    "magnitudo": "3",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 26 km utara Kab. Sukabumi",
+    "warning": [
+      "II Pamijahan",
+      "II Kabandungan"
+    ]
+  },
+  {
+    "waktu": "27/12/2023 20:08:15 WIB",
+    "lintang": "6.74 LS",
+    "bujur": "106.55 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km utara Kab. Sukabumi",
+    "warning": [
+      "II-III Pamijahan",
+      "II-III Leuwiliang",
+      "II-III Kabandungan"
+    ]
+  },
+  {
     "waktu": "26/12/2023 18:12:57 WIB",
     "lintang": "9.66 LS",
     "bujur": "124.89 BT",
@@ -217,52 +253,6 @@
       "III Karanghawu",
       "III Muarabinuangeun",
       "III Jampang"
-    ]
-  },
-  {
-    "waktu": "14/12/2023 08:05:52 WIB",
-    "lintang": "0 LU",
-    "bujur": "124.08 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "99 Km",
-    "wilayah": "Pusat gempa berada di laut 42 Km Tenggara BOLAANGUKI-BOLSEL",
-    "warning": [
-      "III Bolaang Uki",
-      "II Bone Bolango",
-      "II Kotamobagu",
-      "II Taliabu"
-    ]
-  },
-  {
-    "waktu": "14/12/2023 06:35:12 WIB",
-    "lintang": "6.76 LS",
-    "bujur": "106.53 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 25 km Barat Laut Kab. Sukabumi",
-    "warning": [
-      "IV-V Pamijahan",
-      "III Panggarangan",
-      "III Bayah",
-      "III Kalapanunggal",
-      "III Cilograng",
-      "III Bogor",
-      "II - III Ciputat",
-      "II - III Tangerang",
-      "II Pelabuhan Ratu"
-    ]
-  },
-  {
-    "waktu": "13/12/2023 22:15:24 WIB",
-    "lintang": "7.94 LS",
-    "bujur": "110.49 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km Baratlaut Gunungkidul",
-    "warning": [
-      "II-III Gunung Kidul",
-      "II-III Bantul",
-      "II-III Kulon Progo"
     ]
   }
 ]
