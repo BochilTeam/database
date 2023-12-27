@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/12/2023 22:19:28 WIB",
+    "lintang": "6.75 LS",
+    "bujur": "106.58 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 26 km timur laut Kab. Sukabumi",
+    "warning": [
+      "II Pamijahan"
+    ]
+  },
+  {
     "waktu": "27/12/2023 20:32:19 WIB",
     "lintang": "6.47 LS",
     "bujur": "106.55 BT",
@@ -231,28 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 28 km Utara Kab. Sukabumi",
     "warning": [
       "II Pamijahan"
-    ]
-  },
-  {
-    "waktu": "14/12/2023 14:27:18 WIB",
-    "lintang": "7.26 LS",
-    "bujur": "106.13 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di laut 39 km BaratDaya Bayah",
-    "warning": [
-      "III - IV Malingping",
-      "III - IV Malasari",
-      "III - IV Leuwiliang",
-      "III Bayah",
-      "II - III Kalapanunggal",
-      "III Pelabuhan Ratu",
-      "III Gandasoli",
-      "III Cireungas",
-      "III Sukabumi",
-      "III Karanghawu",
-      "III Muarabinuangeun",
-      "III Jampang"
     ]
   }
 ]
