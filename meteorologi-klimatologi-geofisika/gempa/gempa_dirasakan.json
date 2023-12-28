@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/12/2023 18:43:18 WIB",
+    "lintang": "1.26 LS",
+    "bujur": "121.12 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 43 km timur laut Poso",
+    "warning": [
+      "II-III Poso"
+    ]
+  },
+  {
     "waktu": "28/12/2023 12:31:27 WIB",
     "lintang": "3.57 LS",
     "bujur": "128.38 BT",
@@ -223,18 +234,6 @@
     "wilayah": "Pusat gempa berada di darat 17 km Tenggara Nabire",
     "warning": [
       "II - III Nabire"
-    ]
-  },
-  {
-    "waktu": "17/12/2023 21:27:34 WIB",
-    "lintang": "2.19 LS",
-    "bujur": "140.29 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 45 k BaratLaut Kab. Jayapura",
-    "warning": [
-      "II - III Kab. Jayapura",
-      "II Kota Jayapura"
     ]
   }
 ]
