@@ -1,5 +1,38 @@
 [
   {
+    "waktu": "28/12/2023 12:31:27 WIB",
+    "lintang": "3.57 LS",
+    "bujur": "128.38 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 26 km timur laut Ambon",
+    "warning": [
+      "II-III Ambon"
+    ]
+  },
+  {
+    "waktu": "28/12/2023 11:54:14 WIB",
+    "lintang": "3.53 LS",
+    "bujur": "128.34 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada didarat 25 Km TimurLaut Ambon",
+    "warning": [
+      "III Passo"
+    ]
+  },
+  {
+    "waktu": "28/12/2023 11:22:54 WIB",
+    "lintang": "0.21 LS",
+    "bujur": "100.37 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km timur laut Bukittinggi",
+    "warning": [
+      "III Bukittinggi"
+    ]
+  },
+  {
     "waktu": "28/12/2023 07:41:53 WIB",
     "lintang": "1.33 LU",
     "bujur": "127.22 BT",
@@ -202,49 +235,6 @@
     "warning": [
       "II - III Kab. Jayapura",
       "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "17/12/2023 07:47:38 WIB",
-    "lintang": "3.11 LS",
-    "bujur": "130.56 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut, 79 km TimurLaut Bula-SBT",
-    "warning": [
-      "II-III Bula"
-    ]
-  },
-  {
-    "waktu": "16/12/2023 13:45:54 WIB",
-    "lintang": "0.35 LS",
-    "bujur": "98.75 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "19 Km",
-    "wilayah": "Pusat gempa berada di laut 130 km BaratDaya Pasaman Barat",
-    "warning": [
-      "III-IV Padang Pariaman",
-      "III-IV Hibala",
-      "II-III Padang Panjang",
-      "II-III Padang",
-      "III-IV Pariaman",
-      "III-IV Lubuk Basung",
-      "III-IV Kepulauan Batu",
-      "III-IV Pasaman Barat",
-      "II Painan",
-      "II Pasaman"
-    ]
-  },
-  {
-    "waktu": "16/12/2023 01:42:58 WIB",
-    "lintang": "7.15 LS",
-    "bujur": "108.89 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 31 km barat daya Kab. Tegal",
-    "warning": [
-      "II-III Majenang",
-      "II-III Kuningan"
     ]
   }
 ]
