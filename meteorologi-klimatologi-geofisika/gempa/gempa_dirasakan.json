@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "31/12/2023 00:16:26 WIB",
+    "lintang": "2.89 LS",
+    "bujur": "139.44 BT",
+    "magnitudo": "6.5",
+    "kedalaman": "30 Km",
+    "wilayah": "Pusat gempa berada di darat 95 km TimurLaut Kobagma",
+    "warning": [
+      "III - IV Kab. Jayapura",
+      "III Kota Jayapura",
+      "III Sarmi",
+      "II - III Wamena"
+    ]
+  },
+  {
     "waktu": "30/12/2023 12:19:26 WIB",
     "lintang": "2.5 LU",
     "bujur": "92.84 BT",
@@ -228,17 +242,6 @@
     "wilayah": "Pusat gempa berada di laut 102 km Tenggara Tutuyan",
     "warning": [
       "II Bolaang Mongondow"
-    ]
-  },
-  {
-    "waktu": "23/12/2023 10:08:46 WIB",
-    "lintang": "5.08 LS",
-    "bujur": "123.02 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di laut 10 km Tenggara Kambowa, Kab. Buton Utara",
-    "warning": [
-      "III Lasalimu"
     ]
   }
 ]

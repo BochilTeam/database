@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31-12-23 00:16:26 WIB",
+    "lintang": "-2.89",
+    "bujur": "139.44",
+    "magnitudo": "6.5",
+    "kedalaman": "30 Km",
+    "wilayah": "95 km TimurLaut KOBAGMA-PAPUAPGNGN"
+  },
+  {
     "waktu": "28-12-23 05:43:54 WIB",
     "lintang": "-8.11",
     "bujur": "107.89",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 Km",
     "wilayah": "24 km TimurLaut SUPIORI-PAPUA"
-  },
-  {
-    "waktu": "21-11-23 02:28:22 WIB",
-    "lintang": "5.76",
-    "bujur": "125.15",
-    "magnitudo": "5.3",
-    "kedalaman": "21 Km",
-    "wilayah": "241 km BaratLaut PULAUKARATUNG-SULUT"
   }
 ]
