@@ -1,5 +1,32 @@
 [
   {
+    "waktu": "30/12/2023 12:19:26 WIB",
+    "lintang": "2.5 LU",
+    "bujur": "92.84 BT",
+    "magnitudo": "6.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 386 km BaratDaya Calang-Aceh Jaya",
+    "warning": [
+      "IV Aceh Selatan",
+      "IV Simeulue",
+      "III Aceh Barat Daya",
+      "II Aceh Besar",
+      "II Banda Aceh"
+    ]
+  },
+  {
+    "waktu": "30/12/2023 12:08:11 WIB",
+    "lintang": "6.74 LS",
+    "bujur": "106.59 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km TimurLaut Kab. Sukabumi",
+    "warning": [
+      "II-III Pamijahan",
+      "II-III Leuwiliang"
+    ]
+  },
+  {
     "waktu": "28/12/2023 18:43:18 WIB",
     "lintang": "1.26 LS",
     "bujur": "121.12 BT",
@@ -212,28 +239,6 @@
     "wilayah": "Pusat gempa berada di laut 10 km Tenggara Kambowa, Kab. Buton Utara",
     "warning": [
       "III Lasalimu"
-    ]
-  },
-  {
-    "waktu": "22/12/2023 18:33:58 WIB",
-    "lintang": "2.72 LU",
-    "bujur": "128.18 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di laut 65 km TimurLaut Pulau Doi",
-    "warning": [
-      "III - IV Morotai"
-    ]
-  },
-  {
-    "waktu": "20/12/2023 12:01:51 WIB",
-    "lintang": "3.41 LS",
-    "bujur": "135.65 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km Tenggara Nabire",
-    "warning": [
-      "II - III Nabire"
     ]
   }
 ]
