@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "31/12/2023 22:15:10 WIB",
+    "lintang": "2.94 LS",
+    "bujur": "119.42 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km Tenggara MAMASA",
+    "warning": [
+      "II Mamasa"
+    ]
+  },
+  {
     "waktu": "31/12/2023 20:34:24 WIB",
     "lintang": "6.85 LS",
     "bujur": "107.94 BT",
@@ -239,19 +250,6 @@
     "wilayah": "Pusat gempa berada di darat 14 km BaratDaya Malaka",
     "warning": [
       "III Malaka"
-    ]
-  },
-  {
-    "waktu": "26/12/2023 05:47:56 WIB",
-    "lintang": "8.49 LS",
-    "bujur": "115.83 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "19 Km",
-    "wilayah": "Pusat gempa berada di laut 37 km Tenggara Karangasem",
-    "warning": [
-      "II-III Mataram",
-      "II-III Lombok Barat",
-      "II-III Lombok Tengah"
     ]
   }
 ]
