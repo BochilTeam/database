@@ -1,5 +1,49 @@
 [
   {
+    "waktu": "31/12/2023 15:38:10 WIB",
+    "lintang": "6.84 LS",
+    "bujur": "107.94 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km Timur Laut Kab.Sumedang",
+    "warning": [
+      "III Sumedang"
+    ]
+  },
+  {
+    "waktu": "31/12/2023 14:35:34 WIB",
+    "lintang": "6.85 LS",
+    "bujur": "107.93 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 1 km Timur Laut Kab.Sumedang",
+    "warning": [
+      "IV Sumedang",
+      "II-III Cileunyi",
+      "II-III Rancaekek",
+      "II - III Lembang",
+      "II - III Cicalengka",
+      "II - III Subang",
+      "II Garut",
+      "II Bandung"
+    ]
+  },
+  {
+    "waktu": "31/12/2023 11:52:34 WIB",
+    "lintang": "8.22 LS",
+    "bujur": "107.87 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Garut 90 km Barat Daya Kabupaten Pangandaran",
+    "warning": [
+      "II-III Garut",
+      "II Banjar",
+      "II Cianjur",
+      "II Tasikmalaya",
+      "II-III Pangalengan"
+    ]
+  },
+  {
     "waktu": "31/12/2023 00:16:26 WIB",
     "lintang": "2.89 LS",
     "bujur": "139.44 BT",
@@ -205,43 +249,6 @@
     "warning": [
       "I-II Purwakarta",
       "I-II Cikampek"
-    ]
-  },
-  {
-    "waktu": "24/12/2023 13:00:55 WIB",
-    "lintang": "7.99 LS",
-    "bujur": "117.85 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "35 Km",
-    "wilayah": "Pusat gempa berada di laut 73 km TimurLaut Sumbawa",
-    "warning": [
-      "II-III Dompu"
-    ]
-  },
-  {
-    "waktu": "23/12/2023 17:26:22 WIB",
-    "lintang": "0.51 LS",
-    "bujur": "99.15 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "28 Km",
-    "wilayah": "Pusat gempa berada di laut 82 km BaratDaya Air Bangis, Pasaman Barat",
-    "warning": [
-      "III Pariaman",
-      "III Agam",
-      "II Padang Panjang",
-      "III Pasaman Barat",
-      "II Pasaman"
-    ]
-  },
-  {
-    "waktu": "23/12/2023 16:09:15 WIB",
-    "lintang": "0.41 LU",
-    "bujur": "125.47 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 102 km Tenggara Tutuyan",
-    "warning": [
-      "II Bolaang Mongondow"
     ]
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31-12-23 11:52:34 WIB",
+    "lintang": "-8.22",
+    "bujur": "107.87",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "90 km BaratDaya KAB-PANGANDARAN-JABAR"
+  },
+  {
     "waktu": "31-12-23 00:16:26 WIB",
     "lintang": "-2.89",
     "bujur": "139.44",
@@ -230,13 +238,5 @@
     "magnitudo": "6.6",
     "kedalaman": "109 Km",
     "wilayah": "68 km BaratLaut HALMAHERABARAT-MALUT"
-  },
-  {
-    "waktu": "21-11-23 14:12:16 WIB",
-    "lintang": "-0.51",
-    "bujur": "135.64",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "24 km TimurLaut SUPIORI-PAPUA"
   }
 ]
