@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "31/12/2023 20:34:24 WIB",
+    "lintang": "6.85 LS",
+    "bujur": "107.94 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km Timur Laut Kab.Sumedang",
+    "warning": [
+      "III-IV Sumedang",
+      "III Lembang",
+      "II - III Subang",
+      "II-III Bandung",
+      "II Garut"
+    ]
+  },
+  {
     "waktu": "31/12/2023 15:38:10 WIB",
     "lintang": "6.84 LS",
     "bujur": "107.94 BT",
@@ -237,18 +252,6 @@
       "II-III Mataram",
       "II-III Lombok Barat",
       "II-III Lombok Tengah"
-    ]
-  },
-  {
-    "waktu": "25/12/2023 12:48:05 WIB",
-    "lintang": "6.47 LS",
-    "bujur": "107.45 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km TimurLaut Kab. Purwakarta",
-    "warning": [
-      "I-II Purwakarta",
-      "I-II Cikampek"
     ]
   }
 ]
