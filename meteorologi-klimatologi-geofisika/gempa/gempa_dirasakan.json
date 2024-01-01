@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "01/01/2024 20:46:48 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.92 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Utara Kab. Sumedang",
+    "warning": [
+      "III Rancakalong",
+      "III Jatinangor",
+      "III Bandung",
+      "II Cirebon",
+      "II Garut",
+      "II Subang"
+    ]
+  },
+  {
     "waktu": "01/01/2024 14:52:44 WIB",
     "lintang": "0.2 LS",
     "bujur": "123.65 BT",
@@ -240,17 +256,6 @@
     "magnitudo": "2.9",
     "kedalaman": "9 Km",
     "wilayah": "Pusat gempa berada di darat 26 km timur laut Kab. Sukabumi",
-    "warning": [
-      "II Pamijahan"
-    ]
-  },
-  {
-    "waktu": "27/12/2023 20:32:19 WIB",
-    "lintang": "6.47 LS",
-    "bujur": "106.55 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 27 km Utara Kab. Sukabumi",
     "warning": [
       "II Pamijahan"
     ]
