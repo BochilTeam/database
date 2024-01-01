@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "01/01/2024 12:22:56 WIB",
+    "lintang": "7.97 LS",
+    "bujur": "117.87 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di laut, 76 km TimurLaut Sumbawa NTB",
+    "warning": [
+      "II - III Sumbawa Besar",
+      "II-III Bima",
+      "II-III Dompu"
+    ]
+  },
+  {
     "waktu": "31/12/2023 22:15:10 WIB",
     "lintang": "2.94 LS",
     "bujur": "119.42 BT",
@@ -239,17 +252,6 @@
       "II-III Pamijahan",
       "II-III Leuwiliang",
       "II-III Kabandungan"
-    ]
-  },
-  {
-    "waktu": "26/12/2023 18:12:57 WIB",
-    "lintang": "9.66 LS",
-    "bujur": "124.89 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km BaratDaya Malaka",
-    "warning": [
-      "III Malaka"
     ]
   }
 ]
