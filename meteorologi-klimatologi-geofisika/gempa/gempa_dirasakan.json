@@ -5,11 +5,22 @@
     "bujur": "117.87 BT",
     "magnitudo": "4.9",
     "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada di laut, 76 km TimurLaut Sumbawa NTB",
+    "wilayah": "Pusat gempa berada di laut, 76 km TimurLaut Sumbawa",
     "warning": [
       "II - III Sumbawa Besar",
       "II-III Bima",
       "II-III Dompu"
+    ]
+  },
+  {
+    "waktu": "01/01/2024 10:22:46 WIB",
+    "lintang": "4.62 LU",
+    "bujur": "96.65 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat, 21 Km BaratDaya Takengon",
+    "warning": [
+      "II Kabupaten Bener Meriah"
     ]
   },
   {
@@ -239,19 +250,6 @@
     "warning": [
       "II Pamijahan",
       "II Kabandungan"
-    ]
-  },
-  {
-    "waktu": "27/12/2023 20:08:15 WIB",
-    "lintang": "6.74 LS",
-    "bujur": "106.55 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 27 km utara Kab. Sukabumi",
-    "warning": [
-      "II-III Pamijahan",
-      "II-III Leuwiliang",
-      "II-III Kabandungan"
     ]
   }
 ]

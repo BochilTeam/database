@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01-01-24 14:52:44 WIB",
+    "lintang": "-0.20",
+    "bujur": "123.65",
+    "magnitudo": "5.4",
+    "kedalaman": "47 Km",
+    "wilayah": "74 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
+  },
+  {
     "waktu": "31-12-23 11:52:34 WIB",
     "lintang": "-8.22",
     "bujur": "107.87",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "165 km BaratDaya SABURAIJUA-NTT"
-  },
-  {
-    "waktu": "22-11-23 09:48:54 WIB",
-    "lintang": "1.77",
-    "bujur": "127.14",
-    "magnitudo": "6.6",
-    "kedalaman": "109 Km",
-    "wilayah": "68 km BaratLaut HALMAHERABARAT-MALUT"
   }
 ]
