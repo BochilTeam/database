@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-01-24 06:10:37 WIB",
+    "lintang": "-6.68",
+    "bujur": "130.12",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "194 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "01-01-24 14:52:44 WIB",
     "lintang": "-0.20",
     "bujur": "123.65",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "17 Km",
     "wilayah": "216 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
-  },
-  {
-    "waktu": "23-11-23 02:02:59 WIB",
-    "lintang": "-12.03",
-    "bujur": "121.62",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "165 km BaratDaya SABURAIJUA-NTT"
   }
 ]
