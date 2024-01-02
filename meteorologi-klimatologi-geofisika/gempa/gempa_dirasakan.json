@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "02/01/2024 08:03:56 WIB",
+    "lintang": "8.35 LS",
+    "bujur": "108.47 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada dilaut 72 km BaratDaya Kab. Pangandaran",
+    "warning": [
+      "II Pangandaran",
+      "II Legokjawa",
+      "II Sindangsari",
+      "II Cikalong"
+    ]
+  },
+  {
     "waktu": "01/01/2024 20:46:48 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.92 BT",
@@ -247,17 +261,6 @@
     "wilayah": "Pusat gempa berada di darat 15 km barat daya Kab. Kupang",
     "warning": [
       "III Kota Kupang"
-    ]
-  },
-  {
-    "waktu": "27/12/2023 22:19:28 WIB",
-    "lintang": "6.75 LS",
-    "bujur": "106.58 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 26 km timur laut Kab. Sukabumi",
-    "warning": [
-      "II Pamijahan"
     ]
   }
 ]
