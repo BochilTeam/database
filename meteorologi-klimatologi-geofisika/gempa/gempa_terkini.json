@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-01-24 11:46:32 WIB",
+    "lintang": "-10.06",
+    "bujur": "123.75",
+    "magnitudo": "5.1",
+    "kedalaman": "37 Km",
+    "wilayah": "16 km BaratDaya KAB-KUPANG-NTT"
+  },
+  {
     "waktu": "02-01-24 06:10:37 WIB",
     "lintang": "-6.68",
     "bujur": "130.12",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "132 Km",
     "wilayah": "24 km Tenggara HALMAHERAUTARA-MALUT"
-  },
-  {
-    "waktu": "23-11-23 10:24:31 WIB",
-    "lintang": "5.53",
-    "bujur": "125.18",
-    "magnitudo": "5.0",
-    "kedalaman": "17 Km",
-    "wilayah": "216 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
