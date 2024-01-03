@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03-01-24 07:53:49 WIB",
+    "lintang": "-7.57",
+    "bujur": "106.14",
+    "magnitudo": "5.9",
+    "kedalaman": "74 Km",
+    "wilayah": "72 km BaratDaya BAYAH-BANTEN"
+  },
+  {
     "waktu": "02-01-24 11:46:32 WIB",
     "lintang": "-10.06",
     "bujur": "123.75",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "78 km Tenggara DARUBA-MALUT"
-  },
-  {
-    "waktu": "26-11-23 15:21:48 WIB",
-    "lintang": "1.32",
-    "bujur": "128.01",
-    "magnitudo": "5.2",
-    "kedalaman": "132 Km",
-    "wilayah": "24 km Tenggara HALMAHERAUTARA-MALUT"
   }
 ]

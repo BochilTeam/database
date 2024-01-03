@@ -1,5 +1,35 @@
 [
   {
+    "waktu": "03/01/2024 07:53:49 WIB",
+    "lintang": "7.57 LS",
+    "bujur": "106.14 BT",
+    "magnitudo": "5.9",
+    "kedalaman": "74 Km",
+    "wilayah": "Pusat gempa berada di laut 72 Km Barat Daya Bayah",
+    "warning": [
+      "IV Surade",
+      "IV Sukabumi",
+      "III Pelabuhan Ratu",
+      "III Cianjur",
+      "III Panggarangan",
+      "III Lebak",
+      "III Garut",
+      "III Tanjung Lesung",
+      "III Kota Sukabumi",
+      "II-III Lembang",
+      "II-III Soreang",
+      "II - III Cibabat",
+      "II - III Cimahi",
+      "II - III Bandung Barat",
+      "II - III Kota Bandung",
+      "II Purwakarta",
+      "II Bogor",
+      "II Tangerang Selatan",
+      "II Depok",
+      "II Jakarta Pusat"
+    ]
+  },
+  {
     "waktu": "02/01/2024 14:35:22 WIB",
     "lintang": "6.88 LS",
     "bujur": "107.99 BT",
@@ -244,17 +274,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km timur laut Bukittinggi",
     "warning": [
       "III Bukittinggi"
-    ]
-  },
-  {
-    "waktu": "28/12/2023 07:41:53 WIB",
-    "lintang": "1.33 LU",
-    "bujur": "127.22 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di laut 40 km barat laut Jailolo",
-    "warning": [
-      "III Halmahera Barat"
     ]
   }
 ]
