@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/01/2024 18:55:00 WIB",
+    "lintang": "3.8 LS",
+    "bujur": "136.4 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km Timur Laut Enarotali",
+    "warning": [
+      "II-III Enarotali"
+    ]
+  },
+  {
     "waktu": "03/01/2024 07:53:49 WIB",
     "lintang": "7.57 LS",
     "bujur": "106.14 BT",
@@ -263,17 +274,6 @@
     "wilayah": "Pusat gempa berada didarat 25 Km TimurLaut Ambon",
     "warning": [
       "III Passo"
-    ]
-  },
-  {
-    "waktu": "28/12/2023 11:22:54 WIB",
-    "lintang": "0.21 LS",
-    "bujur": "100.37 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km timur laut Bukittinggi",
-    "warning": [
-      "III Bukittinggi"
     ]
   }
 ]
