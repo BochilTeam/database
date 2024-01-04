@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "04/01/2024 13:54:57 WIB",
+    "lintang": "8.01 LS",
+    "bujur": "107.89 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "28 Km",
+    "wilayah": "Pusat gempa berada di laut 75 km BaratDaya Kab. Pangandaran",
+    "warning": [
+      "II Capatujah",
+      "II Sindangkerta",
+      "II Cikatomas",
+      "II Cijulang",
+      "II Pangandaran"
+    ]
+  },
+  {
     "waktu": "04/01/2024 08:40:05 WIB",
     "lintang": "1.87 LS",
     "bujur": "136.07 BT",
@@ -267,18 +282,6 @@
       "III Aceh Barat Daya",
       "II Aceh Besar",
       "II Banda Aceh"
-    ]
-  },
-  {
-    "waktu": "30/12/2023 12:08:11 WIB",
-    "lintang": "6.74 LS",
-    "bujur": "106.59 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 27 km TimurLaut Kab. Sukabumi",
-    "warning": [
-      "II-III Pamijahan",
-      "II-III Leuwiliang"
     ]
   }
 ]
