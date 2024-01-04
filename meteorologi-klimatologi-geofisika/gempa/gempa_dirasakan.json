@@ -1,5 +1,43 @@
 [
   {
+    "waktu": "04/01/2024 08:40:05 WIB",
+    "lintang": "1.87 LS",
+    "bujur": "136.07 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 19 km Barat Laut Serui",
+    "warning": [
+      "II-III Serui"
+    ]
+  },
+  {
+    "waktu": "04/01/2024 07:43:19 WIB",
+    "lintang": "6.72 LS",
+    "bujur": "130.06 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 196 km Barat Laut Tanimbar",
+    "warning": [
+      "II Saumlaki"
+    ]
+  },
+  {
+    "waktu": "04/01/2024 07:15:49 WIB",
+    "lintang": "7.27 LS",
+    "bujur": "107.72 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 20 km BaratDaya Kab.Garut",
+    "warning": [
+      "II Pasirwangi",
+      "II Pacet",
+      "II Darajat",
+      "II Kertasari",
+      "II Pangalengan",
+      "II Cisurupan"
+    ]
+  },
+  {
     "waktu": "03/01/2024 18:55:00 WIB",
     "lintang": "3.8 LS",
     "bujur": "136.4 BT",
@@ -241,39 +279,6 @@
     "warning": [
       "II-III Pamijahan",
       "II-III Leuwiliang"
-    ]
-  },
-  {
-    "waktu": "28/12/2023 18:43:18 WIB",
-    "lintang": "1.26 LS",
-    "bujur": "121.12 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di laut 43 km timur laut Poso",
-    "warning": [
-      "II-III Poso"
-    ]
-  },
-  {
-    "waktu": "28/12/2023 12:31:27 WIB",
-    "lintang": "3.57 LS",
-    "bujur": "128.38 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 26 km timur laut Ambon",
-    "warning": [
-      "II-III Ambon"
-    ]
-  },
-  {
-    "waktu": "28/12/2023 11:54:14 WIB",
-    "lintang": "3.53 LS",
-    "bujur": "128.34 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada didarat 25 Km TimurLaut Ambon",
-    "warning": [
-      "III Passo"
     ]
   }
 ]
