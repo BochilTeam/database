@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/01/2024 16:22:11 WIB",
+    "lintang": "6.81 LS",
+    "bujur": "107.93 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km TimurLaut Kab. Sumedang",
+    "warning": [
+      "II Sumedang"
+    ]
+  },
+  {
     "waktu": "04/01/2024 13:54:57 WIB",
     "lintang": "8.01 LS",
     "bujur": "107.89 BT",
@@ -267,21 +278,6 @@
       "III Kota Jayapura",
       "III Sarmi",
       "II - III Wamena"
-    ]
-  },
-  {
-    "waktu": "30/12/2023 12:19:26 WIB",
-    "lintang": "2.5 LU",
-    "bujur": "92.84 BT",
-    "magnitudo": "6.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 386 km BaratDaya Calang-Aceh Jaya",
-    "warning": [
-      "IV Aceh Selatan",
-      "IV Simeulue",
-      "III Aceh Barat Daya",
-      "II Aceh Besar",
-      "II Banda Aceh"
     ]
   }
 ]
