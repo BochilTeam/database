@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "07/01/2024 10:27:39 WIB",
+    "lintang": "0.34 LS",
+    "bujur": "98.81 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 66 Km Tenggara Kepulauan Batu",
+    "warning": [
+      "II Kepulauan Batu",
+      "I - II Kepulauan Mentawai",
+      "I - II Pasaman Barat"
+    ]
+  },
+  {
+    "waktu": "07/01/2024 10:05:45 WIB",
+    "lintang": "3.43 LU",
+    "bujur": "96.55 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 64 Km Barat Daya Blang Pidie",
+    "warning": [
+      "II Blang Pidie"
+    ]
+  },
+  {
     "waktu": "04/01/2024 16:22:11 WIB",
     "lintang": "6.81 LS",
     "bujur": "107.93 BT",
@@ -249,35 +273,6 @@
       "II - III Subang",
       "II Garut",
       "II Bandung"
-    ]
-  },
-  {
-    "waktu": "31/12/2023 11:52:34 WIB",
-    "lintang": "8.22 LS",
-    "bujur": "107.87 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Garut 90 km Barat Daya Kabupaten Pangandaran",
-    "warning": [
-      "II-III Garut",
-      "II Banjar",
-      "II Cianjur",
-      "II Tasikmalaya",
-      "II-III Pangalengan"
-    ]
-  },
-  {
-    "waktu": "31/12/2023 00:16:26 WIB",
-    "lintang": "2.89 LS",
-    "bujur": "139.44 BT",
-    "magnitudo": "6.5",
-    "kedalaman": "30 Km",
-    "wilayah": "Pusat gempa berada di darat 95 km TimurLaut Kobagma",
-    "warning": [
-      "III - IV Kab. Jayapura",
-      "III Kota Jayapura",
-      "III Sarmi",
-      "II - III Wamena"
     ]
   }
 ]
