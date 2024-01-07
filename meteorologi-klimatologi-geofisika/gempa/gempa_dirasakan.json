@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "07/01/2024 17:38:23 WIB",
+    "lintang": "1.85 LS",
+    "bujur": "122.49 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada dilaut 85 km BaratDaya Banggai Kepulauan",
+    "warning": [
+      "III Luwuk",
+      "III Morowali",
+      "II - III Bungku"
+    ]
+  },
+  {
     "waktu": "07/01/2024 14:40:25 WIB",
     "lintang": "2.98 LS",
     "bujur": "101.53 BT",
@@ -256,17 +269,6 @@
       "II - III Subang",
       "II-III Bandung",
       "II Garut"
-    ]
-  },
-  {
-    "waktu": "31/12/2023 15:38:10 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "107.94 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km Timur Laut Kab.Sumedang",
-    "warning": [
-      "III Sumedang"
     ]
   }
 ]
