@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "07/01/2024 14:40:25 WIB",
+    "lintang": "2.98 LS",
+    "bujur": "101.53 BT",
+    "magnitudo": "4",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada dilaut 64 km Tenggara Mukomuko",
+    "warning": [
+      "II - III Bengkulu",
+      "II Pesisir Selatan"
+    ]
+  },
+  {
     "waktu": "07/01/2024 10:27:39 WIB",
     "lintang": "0.34 LS",
     "bujur": "98.81 BT",
@@ -255,24 +267,6 @@
     "wilayah": "Pusat gempa berada di darat 3 km Timur Laut Kab.Sumedang",
     "warning": [
       "III Sumedang"
-    ]
-  },
-  {
-    "waktu": "31/12/2023 14:35:34 WIB",
-    "lintang": "6.85 LS",
-    "bujur": "107.93 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 1 km Timur Laut Kab.Sumedang",
-    "warning": [
-      "IV Sumedang",
-      "II-III Cileunyi",
-      "II-III Rancaekek",
-      "II - III Lembang",
-      "II - III Cicalengka",
-      "II - III Subang",
-      "II Garut",
-      "II Bandung"
     ]
   }
 ]
