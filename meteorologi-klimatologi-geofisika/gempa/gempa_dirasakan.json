@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "08/01/2024 14:02:03 WIB",
+    "lintang": "6.81 LS",
+    "bujur": "107.95 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km TimurLaut Kab. Sumedang",
+    "warning": [
+      "II-III Sumedang Utara",
+      "II-III Cimalaka"
+    ]
+  },
+  {
     "waktu": "08/01/2024 08:21:11 WIB",
     "lintang": "4.85 LU",
     "bujur": "96.07 BT",
@@ -255,17 +267,6 @@
       "II - III Sumbawa Besar",
       "II-III Bima",
       "II-III Dompu"
-    ]
-  },
-  {
-    "waktu": "01/01/2024 10:22:46 WIB",
-    "lintang": "4.62 LU",
-    "bujur": "96.65 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat, 21 Km BaratDaya Takengon",
-    "warning": [
-      "II Kabupaten Bener Meriah"
     ]
   }
 ]
