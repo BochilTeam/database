@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "08/01/2024 08:21:11 WIB",
+    "lintang": "4.85 LU",
+    "bujur": "96.07 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 28 km Barat Daya Kab. Pidie Jaya",
+    "warning": [
+      "II - III Pidie",
+      "II Pidie Jaya"
+    ]
+  },
+  {
     "waktu": "08/01/2024 07:26:07 WIB",
     "lintang": "7.2 LS",
     "bujur": "107.82 BT",
@@ -7,8 +19,7 @@
     "kedalaman": "6 Km",
     "wilayah": "Pusat gempa berada di Darat 8 km Barat Laut Kab. Garut",
     "warning": [
-      "II Garut",
-      "II Sukabumi"
+      "II Garut"
     ]
   },
   {
@@ -255,17 +266,6 @@
     "wilayah": "Pusat gempa berada di darat, 21 Km BaratDaya Takengon",
     "warning": [
       "II Kabupaten Bener Meriah"
-    ]
-  },
-  {
-    "waktu": "31/12/2023 22:15:10 WIB",
-    "lintang": "2.94 LS",
-    "bujur": "119.42 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km Tenggara MAMASA",
-    "warning": [
-      "II Mamasa"
     ]
   }
 ]
