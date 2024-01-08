@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "08/01/2024 16:51:32 WIB",
+    "lintang": "2.24 LS",
+    "bujur": "99.66 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di darat 24 km Tenggara Tuapejat",
+    "warning": [
+      "II-III Tuapejat",
+      "II Padang"
+    ]
+  },
+  {
     "waktu": "08/01/2024 14:02:03 WIB",
     "lintang": "6.81 LS",
     "bujur": "107.95 BT",
@@ -254,19 +266,6 @@
       "III Kotamobagu",
       "II - III kab. Gorontalo",
       "II Minahasa Tenggara"
-    ]
-  },
-  {
-    "waktu": "01/01/2024 12:22:56 WIB",
-    "lintang": "7.97 LS",
-    "bujur": "117.87 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada di laut, 76 km TimurLaut Sumbawa",
-    "warning": [
-      "II - III Sumbawa Besar",
-      "II-III Bima",
-      "II-III Dompu"
     ]
   }
 ]
