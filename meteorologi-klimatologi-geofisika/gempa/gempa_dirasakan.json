@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "08/01/2024 07:26:07 WIB",
+    "lintang": "7.2 LS",
+    "bujur": "107.82 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di Darat 8 km Barat Laut Kab. Garut",
+    "warning": [
+      "II Garut",
+      "II Sukabumi"
+    ]
+  },
+  {
     "waktu": "07/01/2024 17:38:23 WIB",
     "lintang": "1.85 LS",
     "bujur": "122.49 BT",
@@ -254,21 +266,6 @@
     "wilayah": "Pusat gempa berada di darat 11 km Tenggara MAMASA",
     "warning": [
       "II Mamasa"
-    ]
-  },
-  {
-    "waktu": "31/12/2023 20:34:24 WIB",
-    "lintang": "6.85 LS",
-    "bujur": "107.94 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km Timur Laut Kab.Sumedang",
-    "warning": [
-      "III-IV Sumedang",
-      "III Lembang",
-      "II - III Subang",
-      "II-III Bandung",
-      "II Garut"
     ]
   }
 ]
