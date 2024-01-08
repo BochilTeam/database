@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "09/01/2024 03:48:45 WIB",
+    "lintang": "4.92 LU",
+    "bujur": "126.33 BT",
+    "magnitudo": "7",
+    "kedalaman": "56 Km",
+    "wilayah": "Pusat gempa berada di laut 85 km Barat Laut Pulau Karatung",
+    "warning": [
+      "IV Kepulauan Sangihe",
+      "IV Kepulauan Talaud",
+      "III Bitung",
+      "II-III Halmahera Utara",
+      "II Manado"
+    ]
+  },
+  {
     "waktu": "08/01/2024 16:51:32 WIB",
     "lintang": "2.24 LS",
     "bujur": "99.66 BT",
@@ -251,21 +266,6 @@
       "II Cirebon",
       "II Garut",
       "II Subang"
-    ]
-  },
-  {
-    "waktu": "01/01/2024 14:52:44 WIB",
-    "lintang": "0.2 LS",
-    "bujur": "123.65 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "47 Km",
-    "wilayah": "Pusat gempa berada di laut 74 km BaratDaya Bolaanguki",
-    "warning": [
-      "III Luwuk",
-      "III Bolaang Mongondow Selatan",
-      "III Kotamobagu",
-      "II - III kab. Gorontalo",
-      "II Minahasa Tenggara"
     ]
   }
 ]
