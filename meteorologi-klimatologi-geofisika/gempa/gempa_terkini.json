@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08-01-24 16:51:32 WIB",
+    "lintang": "-2.24",
+    "bujur": "99.66",
+    "magnitudo": "5.3",
+    "kedalaman": "24 Km",
+    "wilayah": "24 km Tenggara TUAPEJAT-SUMBAR"
+  },
+  {
     "waktu": "06-01-24 05:26:14 WIB",
     "lintang": "-7.72",
     "bujur": "128.45",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "108 Km",
     "wilayah": "23 km BaratDaya BENGKULUUTARA"
-  },
-  {
-    "waktu": "02-12-23 19:01:02 WIB",
-    "lintang": "-7.13",
-    "bujur": "129.81",
-    "magnitudo": "6.0",
-    "kedalaman": "157 Km",
-    "wilayah": "190 km BaratLaut TANIMBAR"
   }
 ]
