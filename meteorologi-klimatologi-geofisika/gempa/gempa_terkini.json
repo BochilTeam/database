@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "09-01-24 12:25:24 WIB",
+    "lintang": "-4.46",
+    "bujur": "133.91",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "130 km BaratDaya KAIMANA-PAPUABRT"
+  },
+  {
+    "waktu": "09-01-24 11:45:08 WIB",
+    "lintang": "0.12",
+    "bujur": "96.50",
+    "magnitudo": "5.1",
+    "kedalaman": "24 Km",
+    "wilayah": "142 km BaratDaya NIASBARAT-SUMUT"
+  },
+  {
     "waktu": "09-01-24 03:48:45 WIB",
     "lintang": "4.92",
     "bujur": "126.33",
@@ -222,21 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "18 Km",
     "wilayah": "64 km TimurLaut PULAUDOI-MALUT"
-  },
-  {
-    "waktu": "03-12-23 09:39:57 WIB",
-    "lintang": "-2.69",
-    "bujur": "129.46",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "87 km TimurLaut MALUKUTENGAH"
-  },
-  {
-    "waktu": "02-12-23 21:57:22 WIB",
-    "lintang": "-2.67",
-    "bujur": "129.62",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "101 km TimurLaut MALUKUTENGAH"
   }
 ]
