@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/01/2024 20:50:29 WIB",
+    "lintang": "2.59 LS",
+    "bujur": "140.28 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km Timur laut Genyem-Jayapura",
+    "warning": [
+      "II-III Kab. Jayapura"
+    ]
+  },
+  {
     "waktu": "09/01/2024 03:48:45 WIB",
     "lintang": "4.92 LU",
     "bujur": "126.33 BT",
@@ -250,22 +261,6 @@
       "II Legokjawa",
       "II Sindangsari",
       "II Cikalong"
-    ]
-  },
-  {
-    "waktu": "01/01/2024 20:46:48 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.92 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km Utara Kab. Sumedang",
-    "warning": [
-      "III Rancakalong",
-      "III Jatinangor",
-      "III Bandung",
-      "II Cirebon",
-      "II Garut",
-      "II Subang"
     ]
   }
 ]
