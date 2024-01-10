@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "10/01/2024 20:17:26 WIB",
+    "lintang": "6.83 LS",
+    "bujur": "107.95 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 4 Km Timur Laut Kab.Sumedang",
+    "warning": [
+      "III Sumedang Utara"
+    ]
+  },
+  {
     "waktu": "09/01/2024 23:11:06 WIB",
     "lintang": "8.08 LS",
     "bujur": "107.89 BT",
@@ -246,18 +257,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km Tenggara Kab. Sumedang",
     "warning": [
       "II Sumedang"
-    ]
-  },
-  {
-    "waktu": "02/01/2024 11:46:32 WIB",
-    "lintang": "10.0 LS",
-    "bujur": "123.75 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "37 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km BaratDaya Kab.Kupang",
-    "warning": [
-      "II Kupang",
-      "II Kab. Kupang"
     ]
   }
 ]
