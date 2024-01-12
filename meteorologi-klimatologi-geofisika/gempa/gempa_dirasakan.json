@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "12/01/2024 09:04:20 WIB",
+    "lintang": "3.42 LS",
+    "bujur": "128.72 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 19 km Timur Laut Saparua",
+    "warning": [
+      "III Kairatu",
+      "III Saparua"
+    ]
+  },
+  {
     "waktu": "10/01/2024 20:17:26 WIB",
     "lintang": "6.83 LS",
     "bujur": "107.95 BT",
@@ -246,17 +258,6 @@
       "II Tangerang Selatan",
       "II Depok",
       "II Jakarta Pusat"
-    ]
-  },
-  {
-    "waktu": "02/01/2024 14:35:22 WIB",
-    "lintang": "6.88 LS",
-    "bujur": "107.99 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Kab. Sumedang",
-    "warning": [
-      "II Sumedang"
     ]
   }
 ]
