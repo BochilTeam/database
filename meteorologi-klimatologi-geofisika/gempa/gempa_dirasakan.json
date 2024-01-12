@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/01/2024 21:40:49 WIB",
+    "lintang": "2.89 LS",
+    "bujur": "119.43 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km TimurLaut Mamasa",
+    "warning": [
+      "II Mamasa"
+    ]
+  },
+  {
     "waktu": "12/01/2024 09:05:04 WIB",
     "lintang": "4.82 LU",
     "bujur": "126.36 BT",
@@ -229,17 +240,6 @@
       "II Kertasari",
       "II Pangalengan",
       "II Cisurupan"
-    ]
-  },
-  {
-    "waktu": "03/01/2024 18:55:00 WIB",
-    "lintang": "3.8 LS",
-    "bujur": "136.4 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km Timur Laut Enarotali",
-    "warning": [
-      "II-III Enarotali"
     ]
   }
 ]
