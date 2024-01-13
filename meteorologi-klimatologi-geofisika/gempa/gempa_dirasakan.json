@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "13/01/2024 10:26:17 WIB",
+    "lintang": "8.28 LS",
+    "bujur": "120.64 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "28 Km",
+    "wilayah": "Pusat gempa berada di darat 41 km TimurLaut Ruteng-Manggarai",
+    "warning": [
+      "III Ruteng"
+    ]
+  },
+  {
+    "waktu": "13/01/2024 09:24:58 WIB",
+    "lintang": "2.41 LS",
+    "bujur": "120.94 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 32 Km BaratLaut Luwutimur",
+    "warning": [
+      "III Tomoni",
+      "II Malili"
+    ]
+  },
+  {
     "waktu": "13/01/2024 07:55:31 WIB",
     "lintang": "2.54 LS",
     "bujur": "140.69 BT",
@@ -209,32 +232,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km TimurLaut Kab. Sumedang",
     "warning": [
       "II Sumedang"
-    ]
-  },
-  {
-    "waktu": "04/01/2024 13:54:57 WIB",
-    "lintang": "8.01 LS",
-    "bujur": "107.89 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "28 Km",
-    "wilayah": "Pusat gempa berada di laut 75 km BaratDaya Kab. Pangandaran",
-    "warning": [
-      "II Capatujah",
-      "II Sindangkerta",
-      "II Cikatomas",
-      "II Cijulang",
-      "II Pangandaran"
-    ]
-  },
-  {
-    "waktu": "04/01/2024 08:40:05 WIB",
-    "lintang": "1.87 LS",
-    "bujur": "136.07 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 19 km Barat Laut Serui",
-    "warning": [
-      "II-III Serui"
     ]
   }
 ]
