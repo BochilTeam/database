@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/01/2024 19:22:55 WIB",
+    "lintang": "2.22 LU",
+    "bujur": "96.25 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada dilaut 30 km Barat Daya Sinabang",
+    "warning": [
+      "II-III Sinabang"
+    ]
+  },
+  {
     "waktu": "13/01/2024 18:56:20 WIB",
     "lintang": "3.87 LS",
     "bujur": "126.88 BT",
@@ -221,17 +232,6 @@
       "II Kepulauan Batu",
       "I - II Kepulauan Mentawai",
       "I - II Pasaman Barat"
-    ]
-  },
-  {
-    "waktu": "07/01/2024 10:05:45 WIB",
-    "lintang": "3.43 LU",
-    "bujur": "96.55 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "25 Km",
-    "wilayah": "Pusat gempa berada di laut 64 Km Barat Daya Blang Pidie",
-    "warning": [
-      "II Blang Pidie"
     ]
   }
 ]
