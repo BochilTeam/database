@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/01/2024 22:09:13 WIB",
+    "lintang": "2.52 LS",
+    "bujur": "140.69 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada didarat 5 Km Barat Laut Kota Jayapura",
+    "warning": [
+      "III Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "13/01/2024 19:22:55 WIB",
     "lintang": "2.22 LU",
     "bujur": "96.25 BT",
@@ -219,19 +230,6 @@
     "warning": [
       "II - III Mukomuko",
       "II Pesisir Selatan"
-    ]
-  },
-  {
-    "waktu": "07/01/2024 10:27:39 WIB",
-    "lintang": "0.34 LS",
-    "bujur": "98.81 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 66 Km Tenggara Kepulauan Batu",
-    "warning": [
-      "II Kepulauan Batu",
-      "I - II Kepulauan Mentawai",
-      "I - II Pasaman Barat"
     ]
   }
 ]
