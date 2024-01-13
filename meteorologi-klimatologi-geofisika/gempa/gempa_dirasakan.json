@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/01/2024 03:13:37 WIB",
+    "lintang": "6.75 LS",
+    "bujur": "106.55 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 26 km Utara Kab Sukabumi",
+    "warning": [
+      "II Bogor"
+    ]
+  },
+  {
     "waktu": "13/01/2024 22:09:13 WIB",
     "lintang": "2.52 LS",
     "bujur": "140.69 BT",
@@ -218,18 +229,6 @@
       "III Luwuk",
       "III Morowali",
       "II - III Bungku"
-    ]
-  },
-  {
-    "waktu": "07/01/2024 14:40:25 WIB",
-    "lintang": "2.98 LS",
-    "bujur": "101.53 BT",
-    "magnitudo": "4",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada dilaut 64 km Tenggara Mukomuko",
-    "warning": [
-      "II - III Mukomuko",
-      "II Pesisir Selatan"
     ]
   }
 ]
