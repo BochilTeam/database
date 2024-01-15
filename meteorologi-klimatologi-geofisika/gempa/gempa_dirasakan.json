@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/01/2024 16:07:08 WIB",
+    "lintang": "3.98 LS",
+    "bujur": "122.45 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 2,5 km BaratDaya Puuwati Kota Kendari",
+    "warning": [
+      "II Kendari"
+    ]
+  },
+  {
     "waktu": "14/01/2024 03:13:37 WIB",
     "lintang": "6.75 LS",
     "bujur": "106.55 BT",
@@ -216,19 +227,6 @@
     "wilayah": "Pusat gempa berada di Darat 8 km Barat Laut Kab. Garut",
     "warning": [
       "II Garut"
-    ]
-  },
-  {
-    "waktu": "07/01/2024 17:38:23 WIB",
-    "lintang": "1.85 LS",
-    "bujur": "122.49 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada dilaut 85 km BaratDaya Banggai Kepulauan",
-    "warning": [
-      "III Luwuk",
-      "III Morowali",
-      "II - III Bungku"
     ]
   }
 ]
