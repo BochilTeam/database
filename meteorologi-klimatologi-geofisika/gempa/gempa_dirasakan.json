@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "17/01/2024 01:03:51 WIB",
+    "lintang": "1.41 LU",
+    "bujur": "126.39 BT",
+    "magnitudo": "5",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 125 km Barat Laut Jailolo",
+    "warning": [
+      "II Bitung",
+      "II Ternate"
+    ]
+  },
+  {
     "waktu": "15/01/2024 16:07:08 WIB",
     "lintang": "3.98 LS",
     "bujur": "122.45 BT",
@@ -216,17 +228,6 @@
     "warning": [
       "II - III Pidie",
       "II Pidie Jaya"
-    ]
-  },
-  {
-    "waktu": "08/01/2024 07:26:07 WIB",
-    "lintang": "7.2 LS",
-    "bujur": "107.82 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di Darat 8 km Barat Laut Kab. Garut",
-    "warning": [
-      "II Garut"
     ]
   }
 ]
