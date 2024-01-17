@@ -1,13 +1,13 @@
 [
   {
-    "waktu": "17/02/2024 05:28:17 WIB",
-    "lintang": "8.55 LS",
-    "bujur": "118.37 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "114 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km BaratDaya Bompu",
+    "waktu": "17/01/2024 20:02:24 WIB",
+    "lintang": "2.35 LS",
+    "bujur": "140.09 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 28 km barat laut Genyem",
     "warning": [
-      "II Sumbawa"
+      "II-III Kab. Jayapura"
     ]
   },
   {
@@ -19,6 +19,17 @@
     "wilayah": "Pusat gempa berada di darat 8 km TimurLaut Karangasem",
     "warning": [
       "II Karangasem"
+    ]
+  },
+  {
+    "waktu": "17/01/2024 05:28:17 WIB",
+    "lintang": "8.55 LS",
+    "bujur": "118.37 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "114 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km BaratDaya Bompu",
+    "warning": [
+      "II Sumbawa"
     ]
   },
   {
@@ -214,18 +225,6 @@
       "III Bitung",
       "II-III Halmahera Utara",
       "II Manado"
-    ]
-  },
-  {
-    "waktu": "08/01/2024 16:51:32 WIB",
-    "lintang": "2.24 LS",
-    "bujur": "99.66 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada di darat 24 km Tenggara Tuapejat",
-    "warning": [
-      "II-III Tuapejat",
-      "II Padang"
     ]
   }
 ]
