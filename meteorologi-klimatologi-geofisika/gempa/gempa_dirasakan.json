@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "17/01/2024 22:18:05 WIB",
+    "lintang": "3.89 LU",
+    "bujur": "95.84 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di laut 42 Km Barat Daya Meulaboh-Aceh Barat",
+    "warning": [
+      "III Banda Aceh",
+      "II-III Calang Aceh Jaya",
+      "II-III Aceh Besar"
+    ]
+  },
+  {
     "waktu": "17/01/2024 20:02:24 WIB",
     "lintang": "2.35 LS",
     "bujur": "140.09 BT",
@@ -210,21 +223,6 @@
     "wilayah": "Pusat gempa berada di darat 12 km Timur laut Genyem-Jayapura",
     "warning": [
       "II-III Kab. Jayapura"
-    ]
-  },
-  {
-    "waktu": "09/01/2024 03:48:45 WIB",
-    "lintang": "4.92 LU",
-    "bujur": "126.33 BT",
-    "magnitudo": "7",
-    "kedalaman": "56 Km",
-    "wilayah": "Pusat gempa berada di laut 85 km Barat Laut Pulau Karatung",
-    "warning": [
-      "IV Kepulauan Sangihe",
-      "IV Kepulauan Talaud",
-      "III Bitung",
-      "II-III Halmahera Utara",
-      "II Manado"
     ]
   }
 ]
