@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "17/02/2024 05:28:17 WIB",
+    "lintang": "8.55 LS",
+    "bujur": "118.37 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "114 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km BaratDaya Bompu",
+    "warning": [
+      "II Sumbawa"
+    ]
+  },
+  {
+    "waktu": "17/01/2024 05:30:32 WIB",
+    "lintang": "8.27 LS",
+    "bujur": "115.53 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km TimurLaut Karangasem",
+    "warning": [
+      "II Karangasem"
+    ]
+  },
+  {
     "waktu": "17/01/2024 01:03:51 WIB",
     "lintang": "1.41 LU",
     "bujur": "126.39 BT",
@@ -204,30 +226,6 @@
     "warning": [
       "II-III Tuapejat",
       "II Padang"
-    ]
-  },
-  {
-    "waktu": "08/01/2024 14:02:03 WIB",
-    "lintang": "6.81 LS",
-    "bujur": "107.95 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km TimurLaut Kab. Sumedang",
-    "warning": [
-      "II-III Sumedang Utara",
-      "II-III Cimalaka"
-    ]
-  },
-  {
-    "waktu": "08/01/2024 08:21:11 WIB",
-    "lintang": "4.85 LU",
-    "bujur": "96.07 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 28 km Barat Daya Kab. Pidie Jaya",
-    "warning": [
-      "II - III Pidie",
-      "II Pidie Jaya"
     ]
   }
 ]
