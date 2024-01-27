@@ -1,5 +1,33 @@
 [
   {
+    "waktu": "28/01/2024 00:18:23 WIB",
+    "lintang": "8.56 LS",
+    "bujur": "119.11 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "125 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km Tenggara Kota Bima",
+    "warning": [
+      "II Bima"
+    ]
+  },
+  {
+    "waktu": "27/01/2024 23:50:44 WIB",
+    "lintang": "0.52 LS",
+    "bujur": "100.56 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 7km Barat Daya Batusangkar, Tanah Datar",
+    "warning": [
+      "III Padang Panjang",
+      "III Bukittinggi",
+      "II-III Padang",
+      "II-III Padang Pariaman",
+      "II-III Pariaman",
+      "II-III Pasaman Barat",
+      "II-III Solok Selatan"
+    ]
+  },
+  {
     "waktu": "27/01/2024 20:18:48 WIB",
     "lintang": "8.23 LS",
     "bujur": "121.17 BT",
@@ -224,31 +252,6 @@
     "warning": [
       "III - IV Tojo Una-una",
       "III - IV Poso"
-    ]
-  },
-  {
-    "waktu": "18/01/2024 23:06:40 WIB",
-    "lintang": "1.09 LS",
-    "bujur": "121.49 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Tojo Una-Una",
-    "warning": [
-      "II-III Ampana",
-      "II-III Poso"
-    ]
-  },
-  {
-    "waktu": "17/01/2024 22:18:05 WIB",
-    "lintang": "3.89 LU",
-    "bujur": "95.84 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada di laut 42 Km Barat Daya Meulaboh-Aceh Barat",
-    "warning": [
-      "III Banda Aceh",
-      "II-III Calang Aceh Jaya",
-      "II-III Aceh Besar"
     ]
   }
 ]
