@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/01/2024 20:18:48 WIB",
+    "lintang": "8.23 LS",
+    "bujur": "121.17 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 51 km Barat Laut Mbay-Nagekeo",
+    "warning": [
+      "III Ende"
+    ]
+  },
+  {
     "waktu": "27/01/2024 16:33:17 WIB",
     "lintang": "11.7 LS",
     "bujur": "113.35 BT",
@@ -238,17 +249,6 @@
       "III Banda Aceh",
       "II-III Calang Aceh Jaya",
       "II-III Aceh Besar"
-    ]
-  },
-  {
-    "waktu": "17/01/2024 20:02:24 WIB",
-    "lintang": "2.35 LS",
-    "bujur": "140.09 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 28 km barat laut Genyem",
-    "warning": [
-      "II-III Kab. Jayapura"
     ]
   }
 ]
