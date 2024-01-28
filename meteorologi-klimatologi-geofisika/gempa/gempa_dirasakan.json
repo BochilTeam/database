@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/01/2024 09:30:06 WIB",
+    "lintang": "2.98 LS",
+    "bujur": "130.5 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 15 Km Utara Bula-SBT",
+    "warning": [
+      "II-III Bula"
+    ]
+  },
+  {
     "waktu": "28/01/2024 00:18:23 WIB",
     "lintang": "8.56 LS",
     "bujur": "119.11 BT",
@@ -240,18 +251,6 @@
       "II Siberut",
       "II Padang",
       "II Padang Pariaman"
-    ]
-  },
-  {
-    "waktu": "19/01/2024 00:36:18 WIB",
-    "lintang": "1.1 LS",
-    "bujur": "121.45 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km BaratDaya Tojo Una-Una",
-    "warning": [
-      "III - IV Tojo Una-una",
-      "III - IV Poso"
     ]
   }
 ]
