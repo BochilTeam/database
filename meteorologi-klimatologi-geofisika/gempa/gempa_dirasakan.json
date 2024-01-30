@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "31/01/2024 02:39:46 WIB",
+    "lintang": "8.81 LS",
+    "bujur": "115.82 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada dilaut 37 km BaratDaya Lombok Barat",
+    "warning": [
+      "II Lombok Barat",
+      "II Lombok Tengah"
+    ]
+  },
+  {
     "waktu": "30/01/2024 08:38:49 WIB",
     "lintang": "3.54 LS",
     "bujur": "102.42 BT",
@@ -237,17 +249,6 @@
     "wilayah": "Pusat gempa berada di Laut, 75 km Barat Daya Kaimana",
     "warning": [
       "IV Kaimana"
-    ]
-  },
-  {
-    "waktu": "22/01/2024 15:19:59 WIB",
-    "lintang": "8.6 LS",
-    "bujur": "112.38 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "129 Km",
-    "wilayah": "Pusat gempa berada di laut 55 km barat daya Kab. Malang",
-    "warning": [
-      "II Trenggalek"
     ]
   }
 ]
