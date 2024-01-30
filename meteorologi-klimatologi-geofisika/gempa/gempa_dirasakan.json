@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/01/2024 08:38:49 WIB",
+    "lintang": "3.54 LS",
+    "bujur": "102.42 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km BaratDaya RajangLebong",
+    "warning": [
+      "III Kepahiang"
+    ]
+  },
+  {
     "waktu": "29/01/2024 11:08:31 WIB",
     "lintang": "4.03 LS",
     "bujur": "122.4 BT",
@@ -237,17 +248,6 @@
     "wilayah": "Pusat gempa berada di laut 55 km barat daya Kab. Malang",
     "warning": [
       "II Trenggalek"
-    ]
-  },
-  {
-    "waktu": "22/01/2024 11:02:22 WIB",
-    "lintang": "10.5 LS",
-    "bujur": "120.18 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di laut 20 Km Barat daya Karera Sumba Timur",
-    "warning": [
-      "III Waingapu"
     ]
   }
 ]
