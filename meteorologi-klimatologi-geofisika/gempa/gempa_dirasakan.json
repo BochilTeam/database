@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "31/01/2024 19:50:21 WIB",
+    "lintang": "2.95 LS",
+    "bujur": "119.39 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Mamasa",
+    "warning": [
+      "II Mamasa"
+    ]
+  },
+  {
     "waktu": "31/01/2024 02:39:46 WIB",
     "lintang": "8.81 LS",
     "bujur": "115.82 BT",
@@ -238,17 +249,6 @@
     "wilayah": "Pusat gempa berada di laut 9 km BaratDaya Painan",
     "warning": [
       "II Painan"
-    ]
-  },
-  {
-    "waktu": "23/01/2024 11:07:21 WIB",
-    "lintang": "3.96 LS",
-    "bujur": "133.82 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut, 75 km Barat Daya Kaimana",
-    "warning": [
-      "IV Kaimana"
     ]
   }
 ]
