@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/02/2024 20:03:08 WIB",
+    "lintang": "6.08 LS",
+    "bujur": "104.3 BT",
+    "magnitudo": "4",
+    "kedalaman": "30 Km",
+    "wilayah": "Pusat gempa berada di laut 78 km BaratDaya Tanggamus",
+    "warning": [
+      "II Kota Agung"
+    ]
+  },
+  {
     "waktu": "02/02/2024 17:21:36 WIB",
     "lintang": "7.28 LS",
     "bujur": "107.62 BT",
@@ -242,17 +253,6 @@
       "III Labuan Bajo",
       "II Kupang",
       "III Kota Bima"
-    ]
-  },
-  {
-    "waktu": "25/01/2024 15:03:17 WIB",
-    "lintang": "10.1 LS",
-    "bujur": "123.95 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km Tenggara Kab. Kupang",
-    "warning": [
-      "III Kabupaten Kupang"
     ]
   }
 ]
