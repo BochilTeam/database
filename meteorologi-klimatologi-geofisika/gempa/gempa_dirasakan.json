@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "02/02/2024 12:02:21 WIB",
+    "lintang": "8.2 LS",
+    "bujur": "124.59 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km timur laut Alor",
+    "warning": [
+      "II Alor"
+    ]
+  },
+  {
+    "waktu": "02/02/2024 10:46:31 WIB",
+    "lintang": "7.32 LS",
+    "bujur": "107.59 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 33 km Tenggara Kab. Bandung",
+    "warning": [
+      "II-III Pangalengan",
+      "II-III Cibereum",
+      "II-III Bungbulang"
+    ]
+  },
+  {
     "waktu": "02/02/2024 06:07:30 WIB",
     "lintang": "2.35 LS",
     "bujur": "138.21 BT",
@@ -226,29 +250,6 @@
     "wilayah": "Pusat gempa berada di darat 18 km Tenggara Kab. Kupang",
     "warning": [
       "II Kab. Kupang"
-    ]
-  },
-  {
-    "waktu": "24/01/2024 15:05:39 WIB",
-    "lintang": "10.2 LS",
-    "bujur": "123.97 BT",
-    "magnitudo": "3",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 26 km Tenggara Kab. Kupang",
-    "warning": [
-      "I-II Kab. Kupang"
-    ]
-  },
-  {
-    "waktu": "24/01/2024 08:29:46 WIB",
-    "lintang": "6.16 LS",
-    "bujur": "130.3 BT",
-    "magnitudo": "5.9",
-    "kedalaman": "160 Km",
-    "wilayah": "Pusat gempa berada di 230 km Barat Laut Tanimbar",
-    "warning": [
-      "II Kaimana",
-      "II Saumlaki"
     ]
   }
 ]
