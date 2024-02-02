@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/02/2024 06:07:30 WIB",
+    "lintang": "2.35 LS",
+    "bujur": "138.21 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km TimurLaut Mamberamoraya",
+    "warning": [
+      "II Kab. Sarmi"
+    ]
+  },
+  {
     "waktu": "01/02/2024 18:36:28 WIB",
     "lintang": "10.2 LS",
     "bujur": "124.04 BT",
@@ -238,17 +249,6 @@
     "warning": [
       "II Kaimana",
       "II Saumlaki"
-    ]
-  },
-  {
-    "waktu": "23/01/2024 16:54:40 WIB",
-    "lintang": "0.63 LS",
-    "bujur": "135.83 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 16 km TimurLaut Supiori",
-    "warning": [
-      "II-III Supiori"
     ]
   }
 ]
