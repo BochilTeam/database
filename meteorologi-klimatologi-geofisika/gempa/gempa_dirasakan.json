@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/02/2024 15:25:10 WIB",
+    "lintang": "2.49 LU",
+    "bujur": "127.06 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 83 km Barat Laut Pulau Doi",
+    "warning": [
+      "II-III Tobelo"
+    ]
+  },
+  {
     "waktu": "02/02/2024 20:03:08 WIB",
     "lintang": "6.08 LS",
     "bujur": "104.3 BT",
@@ -235,24 +246,6 @@
       "II-III Denpasar",
       "II Lombok Utara",
       "II Sumbawa Barat"
-    ]
-  },
-  {
-    "waktu": "25/01/2024 19:24:13 WIB",
-    "lintang": "8.26 LS",
-    "bujur": "121.2 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 47 km BaratLaut Mbay",
-    "warning": [
-      "III Ruteng",
-      "III Waingapu",
-      "III Bajawa",
-      "III Ende",
-      "III Maumere",
-      "III Labuan Bajo",
-      "II Kupang",
-      "III Kota Bima"
     ]
   }
 ]

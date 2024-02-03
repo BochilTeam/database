@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03-02-24 15:25:10 WIB",
+    "lintang": "2.49",
+    "bujur": "127.06",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "83 km BaratLaut PULAUDOI-MALUT"
+  },
+  {
     "waktu": "29-01-24 00:22:32 WIB",
     "lintang": "-4.14",
     "bujur": "142.59",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "166 Km",
     "wilayah": "152 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "14-12-23 08:05:52 WIB",
-    "lintang": "-0.00",
-    "bujur": "124.08",
-    "magnitudo": "5.5",
-    "kedalaman": "99 Km",
-    "wilayah": "42 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
   }
 ]
