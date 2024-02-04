@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/02/2024 11:41:57 WIB",
+    "lintang": "0.72 LS",
+    "bujur": "133.32 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 31 km TimurLaut Kebar",
+    "warning": [
+      "II Tambrauw"
+    ]
+  },
+  {
     "waktu": "03/02/2024 15:25:10 WIB",
     "lintang": "2.49 LU",
     "bujur": "127.06 BT",
@@ -223,29 +234,6 @@
     "wilayah": "Pusat gempa berada dilaut 25 Km Barat Laut Selayar",
     "warning": [
       "III Selayar"
-    ]
-  },
-  {
-    "waktu": "25/01/2024 21:41:28 WIB",
-    "lintang": "8.99 LS",
-    "bujur": "115.69 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "101 Km",
-    "wilayah": "Pusat gempa berada di laut 55 km Tenggara Kuta Selatan",
-    "warning": [
-      "III Mataram",
-      "III Lombok Timur",
-      "III Lombok Barat",
-      "III Lombok Tengah",
-      "II-III Kuta",
-      "II-III Kuta Selatan",
-      "II-III Tabanan",
-      "II-III Klungkung",
-      "II-III Bangli",
-      "II-III Gianyar",
-      "II-III Denpasar",
-      "II Lombok Utara",
-      "II Sumbawa Barat"
     ]
   }
 ]
