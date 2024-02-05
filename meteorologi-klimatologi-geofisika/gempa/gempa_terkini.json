@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05-02-24 07:52:22 WIB",
+    "lintang": "-2.14",
+    "bujur": "100.41",
+    "magnitudo": "5.7",
+    "kedalaman": "16 Km",
+    "wilayah": "89 km BaratDaya PESISIRSELATAN-SUMBAR"
+  },
+  {
     "waktu": "03-02-24 15:25:10 WIB",
     "lintang": "2.49",
     "bujur": "127.06",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "19 Km",
     "wilayah": "130 km BaratDaya PASAMANBARAT-SUMBAR"
-  },
-  {
-    "waktu": "15-12-23 00:49:05 WIB",
-    "lintang": "-6.79",
-    "bujur": "130.60",
-    "magnitudo": "5.2",
-    "kedalaman": "166 Km",
-    "wilayah": "152 km BaratLaut TANIMBAR"
   }
 ]

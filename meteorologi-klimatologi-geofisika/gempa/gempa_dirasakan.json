@@ -1,5 +1,48 @@
 [
   {
+    "waktu": "05/02/2024 08:27:54 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km Barat laut Kab. Cianjur",
+    "warning": [
+      "II Pacet",
+      "II Cugenang",
+      "II Cianjur"
+    ]
+  },
+  {
+    "waktu": "05/02/2024 08:25:23 WIB",
+    "lintang": "6.79 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 7 Km Baratlaut Cianjur",
+    "warning": [
+      "III Pacet",
+      "III Cugenang",
+      "III Cianjur"
+    ]
+  },
+  {
+    "waktu": "05/02/2024 07:52:22 WIB",
+    "lintang": "2.14 LS",
+    "bujur": "100.41 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di laut 89 km BaratDaya Pesisir Selatan",
+    "warning": [
+      "III Mentawai",
+      "III Padang",
+      "III Agam",
+      "III Padang Pariaman",
+      "II Pesisir Selatan",
+      "II Padang Panjang",
+      "II Bukittinggi"
+    ]
+  },
+  {
     "waktu": "04/02/2024 11:41:57 WIB",
     "lintang": "0.72 LS",
     "bujur": "133.32 BT",
@@ -200,40 +243,6 @@
       "III Lombok Barat",
       "II Denpasar",
       "II Gianyar"
-    ]
-  },
-  {
-    "waktu": "27/01/2024 15:45:44 WIB",
-    "lintang": "0.56 LS",
-    "bujur": "100.52 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km Barat Daya Batusangkar - Tanah",
-    "warning": [
-      "II Bukittinggi",
-      "II Padang Panjang"
-    ]
-  },
-  {
-    "waktu": "27/01/2024 14:36:55 WIB",
-    "lintang": "0.12 LU",
-    "bujur": "99.99 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km Tenggara Talu-Pasaman Barat",
-    "warning": [
-      "II Pasaman Barat"
-    ]
-  },
-  {
-    "waktu": "27/01/2024 08:47:27 WIB",
-    "lintang": "6.22 LS",
-    "bujur": "120.29 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada dilaut 25 Km Barat Laut Selayar",
-    "warning": [
-      "III Selayar"
     ]
   }
 ]
