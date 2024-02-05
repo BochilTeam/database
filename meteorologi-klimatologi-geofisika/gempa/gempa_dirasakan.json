@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "05/02/2024 17:25:16 WIB",
+    "lintang": "0.77 LU",
+    "bujur": "121.38 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "73 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km Tenggara Buol",
+    "warning": [
+      "III Tolitoli",
+      "III Pohuwatu",
+      "II - III Boalemo"
+    ]
+  },
+  {
     "waktu": "05/02/2024 08:27:54 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.08 BT",
@@ -228,21 +241,6 @@
     "wilayah": "Pusat gempa berada di laut 51 km Barat Laut Mbay-Nagekeo",
     "warning": [
       "III Ende"
-    ]
-  },
-  {
-    "waktu": "27/01/2024 16:33:17 WIB",
-    "lintang": "11.7 LS",
-    "bujur": "113.35 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 391 km Barat Daya Kuta Selatan",
-    "warning": [
-      "III Kuta",
-      "III Mataram",
-      "III Lombok Barat",
-      "II Denpasar",
-      "II Gianyar"
     ]
   }
 ]
