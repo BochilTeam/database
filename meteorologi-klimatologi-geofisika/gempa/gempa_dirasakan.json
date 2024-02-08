@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "09/02/2024 00:59:21 WIB",
+    "lintang": "3.99 LS",
+    "bujur": "122.55 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km Baratlaut Kota Kendari",
+    "warning": [
+      "III Kendari",
+      "II-III Konawe Selatan"
+    ]
+  },
+  {
     "waktu": "08/02/2024 23:37:01 WIB",
     "lintang": "3.54 LS",
     "bujur": "102.42 BT",
@@ -226,17 +238,6 @@
     "wilayah": "Pusat gempa berada di darat 13 km BaratDaya RajangLebong",
     "warning": [
       "III Kepahiang"
-    ]
-  },
-  {
-    "waktu": "29/01/2024 11:08:31 WIB",
-    "lintang": "4.03 LS",
-    "bujur": "122.4 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km Timur Laut Ranomeeto Barat, Kab.",
-    "warning": [
-      "II Konawe Selatan"
     ]
   }
 ]
