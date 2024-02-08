@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "08/02/2024 23:37:01 WIB",
+    "lintang": "3.54 LS",
+    "bujur": "102.42 BT",
+    "magnitudo": "4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km Barat Daya Rejang Lebong",
+    "warning": [
+      "III Kepahiang",
+      "III Rejang Lebong"
+    ]
+  },
+  {
     "waktu": "08/02/2024 01:31:03 WIB",
     "lintang": "7.64 LS",
     "bujur": "106.91 BT",
@@ -225,17 +237,6 @@
     "wilayah": "Pusat gempa berada di darat 3 km Timur Laut Ranomeeto Barat, Kab.",
     "warning": [
       "II Konawe Selatan"
-    ]
-  },
-  {
-    "waktu": "28/01/2024 09:30:06 WIB",
-    "lintang": "2.98 LS",
-    "bujur": "130.5 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 15 Km Utara Bula-SBT",
-    "warning": [
-      "II-III Bula"
     ]
   }
 ]
