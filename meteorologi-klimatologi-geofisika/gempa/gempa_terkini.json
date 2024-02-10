@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10-02-24 06:53:26 WIB",
+    "lintang": "-0.05",
+    "bujur": "135.93",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "82 km TimurLaut SUPIORI-PAPUA"
+  },
+  {
     "waktu": "08-02-24 22:11:34 WIB",
     "lintang": "-5.22",
     "bujur": "129.64",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "32 Km",
     "wilayah": "15 km BaratDaya KAB-KUPANG-NTT"
-  },
-  {
-    "waktu": "26-12-23 13:42:43 WIB",
-    "lintang": "3.82",
-    "bujur": "126.63",
-    "magnitudo": "5.0",
-    "kedalaman": "56 Km",
-    "wilayah": "20 km BaratDaya MELONGUANE-SULUT"
   }
 ]

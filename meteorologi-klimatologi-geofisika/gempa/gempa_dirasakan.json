@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "10/02/2024 06:53:26 WIB",
+    "lintang": "0.05 LS",
+    "bujur": "135.93 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada dilaut 82 km Timur Laut SUPIORI",
+    "warning": [
+      "II-III Biak"
+    ]
+  },
+  {
     "waktu": "09/02/2024 00:59:21 WIB",
     "lintang": "3.99 LS",
     "bujur": "122.55 BT",
@@ -227,17 +238,6 @@
     "warning": [
       "II Lombok Barat",
       "II Lombok Tengah"
-    ]
-  },
-  {
-    "waktu": "30/01/2024 08:38:49 WIB",
-    "lintang": "3.54 LS",
-    "bujur": "102.42 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 13 km BaratDaya RajangLebong",
-    "warning": [
-      "III Kepahiang"
     ]
   }
 ]
