@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/02/2024 20:06:10 WIB",
+    "lintang": "8.63 LS",
+    "bujur": "120.48 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada didarat 2 Km Tenggara Ruteng",
+    "warning": [
+      "II Ruteng"
+    ]
+  },
+  {
     "waktu": "11/02/2024 17:42:01 WIB",
     "lintang": "8.62 LS",
     "bujur": "120.42 BT",
@@ -226,17 +237,6 @@
     "wilayah": "Pusat gempa berada di darat 18 km TimurLaut Mamberamoraya",
     "warning": [
       "II Kab. Sarmi"
-    ]
-  },
-  {
-    "waktu": "01/02/2024 18:36:28 WIB",
-    "lintang": "10.2 LS",
-    "bujur": "124.04 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 33 km Tenggara Kabupaten Kupang",
-    "warning": [
-      "II Kabupaten Kupang"
     ]
   }
 ]
