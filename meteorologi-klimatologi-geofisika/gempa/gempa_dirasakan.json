@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "13/02/2024 08:22:24 WIB",
+    "lintang": "3.19 LS",
+    "bujur": "115.12 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 19 km Timur Laut Banjarmasin",
+    "warning": [
+      "II-III Banjarmasin",
+      "II-III Kota Marabahan",
+      "II-III Pulau Pisau",
+      "II-III Palangkaraya",
+      "II-III Sampit"
+    ]
+  },
+  {
     "waktu": "12/02/2024 04:04:22 WIB",
     "lintang": "10.4 LS",
     "bujur": "124.22 BT",
@@ -224,19 +239,6 @@
     "wilayah": "Pusat gempa berada di darat 11 km timur laut Alor",
     "warning": [
       "II Alor"
-    ]
-  },
-  {
-    "waktu": "02/02/2024 10:46:31 WIB",
-    "lintang": "7.32 LS",
-    "bujur": "107.59 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 33 km Tenggara Kab. Bandung",
-    "warning": [
-      "II-III Pangalengan",
-      "II-III Cibereum",
-      "II-III Bungbulang"
     ]
   }
 ]

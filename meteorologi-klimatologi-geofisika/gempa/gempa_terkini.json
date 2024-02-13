@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-02-24 07:34:11 WIB",
+    "lintang": "5.07",
+    "bujur": "125.32",
+    "magnitudo": "5.1",
+    "kedalaman": "12 Km",
+    "wilayah": "163 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
     "waktu": "13-02-24 03:29:35 WIB",
     "lintang": "-6.39",
     "bujur": "130.18",
@@ -230,13 +238,5 @@
     "magnitudo": "6.5",
     "kedalaman": "30 Km",
     "wilayah": "95 km TimurLaut KOBAGMA-PAPUAPGNGN"
-  },
-  {
-    "waktu": "28-12-23 05:43:54 WIB",
-    "lintang": "-8.11",
-    "bujur": "107.89",
-    "magnitudo": "5.5",
-    "kedalaman": "14 Km",
-    "wilayah": "80 km BaratDaya KAB-PANGANDARAN-JABAR"
   }
 ]
