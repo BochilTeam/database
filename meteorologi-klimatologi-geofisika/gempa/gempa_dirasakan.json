@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/02/2024 01:32:02 WIB",
+    "lintang": "3.26 LS",
+    "bujur": "115.12 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km timur laut Banjar",
+    "warning": [
+      "II-III Kab. Banjar"
+    ]
+  },
+  {
     "waktu": "13/02/2024 14:09:17 WIB",
     "lintang": "3.23 LS",
     "bujur": "115.18 BT",
@@ -225,17 +236,6 @@
     "wilayah": "Pusat gempa berada di laut 83 km Barat Laut Pulau Doi",
     "warning": [
       "II-III Tobelo"
-    ]
-  },
-  {
-    "waktu": "02/02/2024 20:03:08 WIB",
-    "lintang": "6.08 LS",
-    "bujur": "104.3 BT",
-    "magnitudo": "4",
-    "kedalaman": "30 Km",
-    "wilayah": "Pusat gempa berada di laut 78 km BaratDaya Tanggamus",
-    "warning": [
-      "II Kota Agung"
     ]
   }
 ]
