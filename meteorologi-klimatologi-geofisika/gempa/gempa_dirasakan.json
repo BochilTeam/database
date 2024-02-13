@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/02/2024 09:51:56 WIB",
+    "lintang": "2.05 LU",
+    "bujur": "98.93 BT",
+    "magnitudo": "3",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Tapanuli Utara",
+    "warning": [
+      "III Tarutung"
+    ]
+  },
+  {
     "waktu": "13/02/2024 08:22:24 WIB",
     "lintang": "3.19 LS",
     "bujur": "115.12 BT",
@@ -228,17 +239,6 @@
       "II-III Cibereum",
       "II-III Cikajang",
       "II-III Bungbulang"
-    ]
-  },
-  {
-    "waktu": "02/02/2024 12:02:21 WIB",
-    "lintang": "8.2 LS",
-    "bujur": "124.59 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km timur laut Alor",
-    "warning": [
-      "II Alor"
     ]
   }
 ]
