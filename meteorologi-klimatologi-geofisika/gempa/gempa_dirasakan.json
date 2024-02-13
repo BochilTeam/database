@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/02/2024 14:09:17 WIB",
+    "lintang": "3.23 LS",
+    "bujur": "115.18 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km TimurLaut Banjar",
+    "warning": [
+      "III Kab. Banjar"
+    ]
+  },
+  {
     "waktu": "13/02/2024 09:51:56 WIB",
     "lintang": "2.05 LU",
     "bujur": "98.93 BT",
@@ -225,20 +236,6 @@
     "wilayah": "Pusat gempa berada di laut 78 km BaratDaya Tanggamus",
     "warning": [
       "II Kota Agung"
-    ]
-  },
-  {
-    "waktu": "02/02/2024 17:21:36 WIB",
-    "lintang": "7.28 LS",
-    "bujur": "107.62 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 30 km Tenggara Kab. Bandung",
-    "warning": [
-      "II-III Pangalengan",
-      "II-III Cibereum",
-      "II-III Cikajang",
-      "II-III Bungbulang"
     ]
   }
 ]
