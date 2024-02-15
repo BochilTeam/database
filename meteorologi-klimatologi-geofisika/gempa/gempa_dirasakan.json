@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "15/02/2024 22:54:03 WIB",
+    "lintang": "8.56 LS",
+    "bujur": "112.22 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "100 Km",
+    "wilayah": "Pusat gempa berada di laut 47 km Tenggara Kab. Blitar",
+    "warning": [
+      "II Blitar",
+      "II Karangkates",
+      "II Trenggalek",
+      "II Malang",
+      "II Pacitan"
+    ]
+  },
+  {
     "waktu": "15/02/2024 18:25:09 WIB",
     "lintang": "5.05 LS",
     "bujur": "123.22 BT",
@@ -225,17 +240,6 @@
       "II Pesisir Selatan",
       "II Padang Panjang",
       "II Bukittinggi"
-    ]
-  },
-  {
-    "waktu": "04/02/2024 11:41:57 WIB",
-    "lintang": "0.72 LS",
-    "bujur": "133.32 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 31 km TimurLaut Kebar",
-    "warning": [
-      "II Tambrauw"
     ]
   }
 ]
