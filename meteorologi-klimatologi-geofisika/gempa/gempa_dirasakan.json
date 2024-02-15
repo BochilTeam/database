@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/02/2024 18:25:09 WIB",
+    "lintang": "5.05 LS",
+    "bujur": "123.22 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di laut 22 Km Timur laut Lasalimu kabupaten buton",
+    "warning": [
+      "II-III Lasalimu"
+    ]
+  },
+  {
     "waktu": "14/02/2024 01:32:02 WIB",
     "lintang": "3.26 LS",
     "bujur": "115.12 BT",
@@ -225,17 +236,6 @@
     "wilayah": "Pusat gempa berada di darat 31 km TimurLaut Kebar",
     "warning": [
       "II Tambrauw"
-    ]
-  },
-  {
-    "waktu": "03/02/2024 15:25:10 WIB",
-    "lintang": "2.49 LU",
-    "bujur": "127.06 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 83 km Barat Laut Pulau Doi",
-    "warning": [
-      "II-III Tobelo"
     ]
   }
 ]
