@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "16/02/2024 15:22:48 WIB",
+    "lintang": "2.15 LU",
+    "bujur": "97.85 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "31 Km",
+    "wilayah": "Pusat gempa berada di laut 21 km Tenggara Kab. Aceh Singkil",
+    "warning": [
+      "III - IV Kab. Aceh Singkil",
+      "III Kota Subulussalam"
+    ]
+  },
+  {
     "waktu": "15/02/2024 22:54:03 WIB",
     "lintang": "8.56 LS",
     "bujur": "112.22 BT",
@@ -223,23 +235,6 @@
       "III Pacet",
       "III Cugenang",
       "III Cianjur"
-    ]
-  },
-  {
-    "waktu": "05/02/2024 07:52:22 WIB",
-    "lintang": "2.14 LS",
-    "bujur": "100.41 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di laut 89 km BaratDaya Pesisir Selatan",
-    "warning": [
-      "III Mentawai",
-      "III Padang",
-      "III Agam",
-      "III Padang Pariaman",
-      "II Pesisir Selatan",
-      "II Padang Panjang",
-      "II Bukittinggi"
     ]
   }
 ]
