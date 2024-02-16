@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "16/02/2024 18:51:58 WIB",
+    "lintang": "7.38 LS",
+    "bujur": "108.24 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km tenggara Kota Tasikmalaya",
+    "warning": [
+      "II-III Tasikmalaya",
+      "II-III Pangandaran",
+      "II-III Ciamis"
+    ]
+  },
+  {
     "waktu": "16/02/2024 15:22:48 WIB",
     "lintang": "2.15 LU",
     "bujur": "97.85 BT",
@@ -222,19 +235,6 @@
       "II Pacet",
       "II Cugenang",
       "II Cianjur"
-    ]
-  },
-  {
-    "waktu": "05/02/2024 08:25:23 WIB",
-    "lintang": "6.79 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 7 Km Baratlaut Cianjur",
-    "warning": [
-      "III Pacet",
-      "III Cugenang",
-      "III Cianjur"
     ]
   }
 ]
