@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "17/02/2024 23:47:28 WIB",
+    "lintang": "8.38 LS",
+    "bujur": "114.49 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada dilaut 12 km BaratDaya Jembrana",
+    "warning": [
+      "III Banyuwangi",
+      "III Jembrana"
+    ]
+  },
+  {
     "waktu": "16/02/2024 18:51:58 WIB",
     "lintang": "7.38 LS",
     "bujur": "108.24 BT",
@@ -222,19 +234,6 @@
       "III Tolitoli",
       "III Pohuwatu",
       "II - III Boalemo"
-    ]
-  },
-  {
-    "waktu": "05/02/2024 08:27:54 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km Barat laut Kab. Cianjur",
-    "warning": [
-      "II Pacet",
-      "II Cugenang",
-      "II Cianjur"
     ]
   }
 ]
