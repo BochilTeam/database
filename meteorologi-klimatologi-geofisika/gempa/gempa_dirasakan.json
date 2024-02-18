@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/02/2024 11:32:42 WIB",
+    "lintang": "2.78 LS",
+    "bujur": "115.69 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 26 km Tenggara Hulu Sungai Tengah",
+    "warning": [
+      "II - III Tapin"
+    ]
+  },
+  {
     "waktu": "17/02/2024 23:47:28 WIB",
     "lintang": "8.38 LS",
     "bujur": "114.49 BT",
@@ -221,19 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 93 km Tenggara Bolaanguki-Bolaang Mongondow Selatan",
     "warning": [
       "II - III Banggai Laut"
-    ]
-  },
-  {
-    "waktu": "05/02/2024 17:25:16 WIB",
-    "lintang": "0.77 LU",
-    "bujur": "121.38 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "73 Km",
-    "wilayah": "Pusat gempa berada di darat 22 km Tenggara Buol",
-    "warning": [
-      "III Tolitoli",
-      "III Pohuwatu",
-      "II - III Boalemo"
     ]
   }
 ]
