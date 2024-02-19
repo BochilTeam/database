@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "19/02/2024 07:00:25 WIB",
+    "lintang": "9.49 LS",
+    "bujur": "115.93 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "41 Km",
+    "wilayah": "Pusat gempa berada di Laut 92 km BaratDaya Lombok Barat",
+    "warning": [
+      "II Mataram",
+      "II Lombok Barat",
+      "II Lombok Tengah"
+    ]
+  },
+  {
     "waktu": "18/02/2024 11:32:42 WIB",
     "lintang": "2.78 LS",
     "bujur": "115.69 BT",
@@ -221,17 +234,6 @@
     "wilayah": "Pusat gempa berada di darat 66 km Barat Laut Pegunungan Bintang",
     "warning": [
       "II Wamena"
-    ]
-  },
-  {
-    "waktu": "05/02/2024 19:38:46 WIB",
-    "lintang": "0.42 LS",
-    "bujur": "124.27 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 93 km Tenggara Bolaanguki-Bolaang Mongondow Selatan",
-    "warning": [
-      "II - III Banggai Laut"
     ]
   }
 ]
