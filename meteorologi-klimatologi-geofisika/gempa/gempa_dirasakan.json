@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/02/2024 10:46:55 WIB",
+    "lintang": "3.46 LS",
+    "bujur": "139.86 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "79 Km",
+    "wilayah": "Pusat gempa berada di darat 58 Km Timurlaut Yalimo",
+    "warning": [
+      "II Genyem"
+    ]
+  },
+  {
     "waktu": "19/02/2024 07:00:25 WIB",
     "lintang": "9.49 LS",
     "bujur": "115.93 BT",
@@ -223,17 +234,6 @@
     "warning": [
       "II Kab. Sukabumi",
       "II Kab. Cianjur"
-    ]
-  },
-  {
-    "waktu": "05/02/2024 21:05:24 WIB",
-    "lintang": "4.01 LS",
-    "bujur": "140.27 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "92 Km",
-    "wilayah": "Pusat gempa berada di darat 66 km Barat Laut Pegunungan Bintang",
-    "warning": [
-      "II Wamena"
     ]
   }
 ]
