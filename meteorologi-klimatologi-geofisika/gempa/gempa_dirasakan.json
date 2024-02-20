@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/02/2024 18:00:52 WIB",
+    "lintang": "2.56 LS",
+    "bujur": "140.65 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat, 5 km BaratLaut Kota Jayapura",
+    "warning": [
+      "II Jayapura"
+    ]
+  },
+  {
     "waktu": "20/02/2024 11:27:14 WIB",
     "lintang": "8.2 LS",
     "bujur": "108.44 BT",
@@ -221,18 +232,6 @@
     "warning": [
       "III Kendari",
       "II-III Konawe Selatan"
-    ]
-  },
-  {
-    "waktu": "08/02/2024 23:37:01 WIB",
-    "lintang": "3.54 LS",
-    "bujur": "102.42 BT",
-    "magnitudo": "4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 13 km Barat Daya Rejang Lebong",
-    "warning": [
-      "III Kepahiang",
-      "III Rejang Lebong"
     ]
   }
 ]
