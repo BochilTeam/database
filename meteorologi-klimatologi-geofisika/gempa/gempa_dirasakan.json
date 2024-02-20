@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/02/2024 11:27:14 WIB",
+    "lintang": "8.2 LS",
+    "bujur": "108.44 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "37 Km",
+    "wilayah": "Pusat gempa berada di Laut 55 km Barat Daya Kab. Pangandaran",
+    "warning": [
+      "III Pangandaran"
+    ]
+  },
+  {
     "waktu": "20/02/2024 10:46:55 WIB",
     "lintang": "3.46 LS",
     "bujur": "139.86 BT",
@@ -222,18 +233,6 @@
     "warning": [
       "III Kepahiang",
       "III Rejang Lebong"
-    ]
-  },
-  {
-    "waktu": "08/02/2024 01:31:03 WIB",
-    "lintang": "7.64 LS",
-    "bujur": "106.91 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "29 Km",
-    "wilayah": "Pusat gempa berada di laut 80 km BaratDaya Kota Sukabumi",
-    "warning": [
-      "II Kab. Sukabumi",
-      "II Kab. Cianjur"
     ]
   }
 ]
