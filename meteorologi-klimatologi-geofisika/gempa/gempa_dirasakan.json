@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/02/2024 13:12:47 WIB",
+    "lintang": "8.35 LS",
+    "bujur": "116.46 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 33 Km Timur Laut Lombok Utara",
+    "warning": [
+      "II Lombok Utara"
+    ]
+  },
+  {
     "waktu": "20/02/2024 18:00:52 WIB",
     "lintang": "2.56 LS",
     "bujur": "140.65 BT",
@@ -220,18 +231,6 @@
     "wilayah": "Pusat gempa berada dilaut 82 km Timur Laut SUPIORI",
     "warning": [
       "II-III Biak"
-    ]
-  },
-  {
-    "waktu": "09/02/2024 00:59:21 WIB",
-    "lintang": "3.99 LS",
-    "bujur": "122.55 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km Baratlaut Kota Kendari",
-    "warning": [
-      "III Kendari",
-      "II-III Konawe Selatan"
     ]
   }
 ]
