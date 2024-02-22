@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/02/2024 00:55:09 WIB",
+    "lintang": "2.95 LS",
+    "bujur": "119.37 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km Tenggara Mamasa",
+    "warning": [
+      "II Mamasa"
+    ]
+  },
+  {
     "waktu": "22/02/2024 10:06:34 WIB",
     "lintang": "8.05 LS",
     "bujur": "107.74 BT",
@@ -220,17 +231,6 @@
     "wilayah": "Pusat gempa berada di darat 4 km BaratDaya Ruteng-Manggarai",
     "warning": [
       "II Ruteng"
-    ]
-  },
-  {
-    "waktu": "10/02/2024 21:44:30 WIB",
-    "lintang": "2.21 LS",
-    "bujur": "140.06 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di 44 km BaratLaut GENYEM-JAYAPURA",
-    "warning": [
-      "II Kab. Jayapura"
     ]
   }
 ]
