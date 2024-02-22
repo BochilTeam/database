@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22-02-24 05:46:54 WIB",
+    "lintang": "-6.54",
+    "bujur": "113.97",
+    "magnitudo": "5.2",
+    "kedalaman": "640 Km",
+    "wilayah": "43 km TimurLaut SUMENEP-JATIM"
+  },
+  {
     "waktu": "19-02-24 22:08:55 WIB",
     "lintang": "-7.40",
     "bujur": "129.37",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "194 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "01-01-24 14:52:44 WIB",
-    "lintang": "-0.20",
-    "bujur": "123.65",
-    "magnitudo": "5.4",
-    "kedalaman": "47 Km",
-    "wilayah": "74 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
   }
 ]
