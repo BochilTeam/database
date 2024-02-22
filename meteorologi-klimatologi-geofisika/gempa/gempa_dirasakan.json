@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/02/2024 10:06:34 WIB",
+    "lintang": "8.05 LS",
+    "bujur": "107.74 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di laut 87 km BaratDaya Kab. Tasikmalaya",
+    "warning": [
+      "II Kab. Tasikmalaya"
+    ]
+  },
+  {
     "waktu": "21/02/2024 13:12:47 WIB",
     "lintang": "8.35 LS",
     "bujur": "116.46 BT",
@@ -220,17 +231,6 @@
     "wilayah": "Pusat gempa berada di 44 km BaratLaut GENYEM-JAYAPURA",
     "warning": [
       "II Kab. Jayapura"
-    ]
-  },
-  {
-    "waktu": "10/02/2024 06:53:26 WIB",
-    "lintang": "0.05 LS",
-    "bujur": "135.93 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada dilaut 82 km Timur Laut SUPIORI",
-    "warning": [
-      "II-III Biak"
     ]
   }
 ]
