@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "23/02/2024 14:46:30 WIB",
+    "lintang": "0.67 LS",
+    "bujur": "98.5 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di laut 157 km tenggara Nias Selatan",
+    "warning": [
+      "III Teluk Dalam",
+      "III Pulau Hibala",
+      "II Padang"
+    ]
+  },
+  {
     "waktu": "23/02/2024 00:55:09 WIB",
     "lintang": "2.95 LS",
     "bujur": "119.37 BT",
@@ -218,17 +231,6 @@
     "magnitudo": "3.2",
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada didarat 2 Km Tenggara Ruteng",
-    "warning": [
-      "II Ruteng"
-    ]
-  },
-  {
-    "waktu": "11/02/2024 17:42:01 WIB",
-    "lintang": "8.62 LS",
-    "bujur": "120.42 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km BaratDaya Ruteng-Manggarai",
     "warning": [
       "II Ruteng"
     ]
