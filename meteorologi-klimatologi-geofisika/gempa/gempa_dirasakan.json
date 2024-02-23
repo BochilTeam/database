@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "23/02/2024 20:16:13 WIB",
+    "lintang": "2.22 LU",
+    "bujur": "117.28 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 21 km barat laut Berau",
+    "warning": [
+      "II-III Berau"
+    ]
+  },
+  {
+    "waktu": "23/02/2024 19:55:52 WIB",
+    "lintang": "2.96 LS",
+    "bujur": "119.38 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km tenggara Mamasa",
+    "warning": [
+      "III Mamasa"
+    ]
+  },
+  {
     "waktu": "23/02/2024 14:46:30 WIB",
     "lintang": "0.67 LS",
     "bujur": "98.5 BT",
@@ -211,28 +233,6 @@
       "II-III Pulau Pisau",
       "II-III Palangkaraya",
       "II-III Sampit"
-    ]
-  },
-  {
-    "waktu": "12/02/2024 04:04:22 WIB",
-    "lintang": "10.4 LS",
-    "bujur": "124.22 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 60 km Tenggara Kab. Kupang",
-    "warning": [
-      "II-III Kota Kupang"
-    ]
-  },
-  {
-    "waktu": "11/02/2024 20:06:10 WIB",
-    "lintang": "8.63 LS",
-    "bujur": "120.48 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada didarat 2 Km Tenggara Ruteng",
-    "warning": [
-      "II Ruteng"
     ]
   }
 ]
