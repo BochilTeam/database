@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24-02-24 07:51:25 WIB",
+    "lintang": "4.04",
+    "bujur": "128.57",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "183 km Tenggara PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "23-02-24 14:46:30 WIB",
     "lintang": "-0.67",
     "bujur": "98.50",
@@ -230,13 +238,5 @@
     "magnitudo": "5.9",
     "kedalaman": "74 Km",
     "wilayah": "72 km BaratDaya BAYAH-BANTEN"
-  },
-  {
-    "waktu": "02-01-24 11:46:32 WIB",
-    "lintang": "-10.06",
-    "bujur": "123.75",
-    "magnitudo": "5.1",
-    "kedalaman": "37 Km",
-    "wilayah": "16 km BaratDaya KAB-KUPANG-NTT"
   }
 ]
