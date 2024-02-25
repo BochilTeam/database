@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "25/02/2024 20:07:03 WIB",
+    "lintang": "7.61 LS",
+    "bujur": "105.9 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 85 km BaratDaya Bayah",
+    "warning": [
+      "II-III Cilacap",
+      "II Serang",
+      "II-III Panimbang",
+      "II-III Cigelis",
+      "II Lembang",
+      "III Garut",
+      "II-III Bandung"
+    ]
+  },
+  {
     "waktu": "23/02/2024 20:16:13 WIB",
     "lintang": "2.22 LU",
     "bujur": "117.28 BT",
@@ -218,21 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Tapanuli Utara",
     "warning": [
       "III Tarutung"
-    ]
-  },
-  {
-    "waktu": "13/02/2024 08:22:24 WIB",
-    "lintang": "3.19 LS",
-    "bujur": "115.12 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 19 km Timur Laut Banjarmasin",
-    "warning": [
-      "II-III Banjarmasin",
-      "II-III Kota Marabahan",
-      "II-III Pulau Pisau",
-      "II-III Palangkaraya",
-      "II-III Sampit"
     ]
   }
 ]
