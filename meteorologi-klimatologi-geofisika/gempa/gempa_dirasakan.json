@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "25/02/2024 22:04:56 WIB",
+    "lintang": "7.54 LS",
+    "bujur": "105.95 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 75 km BaratDaya Bayah",
+    "warning": [
+      "II Surade",
+      "II Pelabuhan Ratu",
+      "II Panimbang",
+      "II Tanjung Lesung"
+    ]
+  },
+  {
+    "waktu": "25/02/2024 21:34:29 WIB",
+    "lintang": "8.42 LS",
+    "bujur": "120.72 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada didarat 35 Km Timur Laut Ruteng",
+    "warning": [
+      "II Ruteng"
+    ]
+  },
+  {
     "waktu": "25/02/2024 20:07:03 WIB",
     "lintang": "7.61 LS",
     "bujur": "105.9 BT",
@@ -213,28 +238,6 @@
     "wilayah": "Pusat gempa berada di darat 15 km timur laut Banjar",
     "warning": [
       "II-III Kab. Banjar"
-    ]
-  },
-  {
-    "waktu": "13/02/2024 14:09:17 WIB",
-    "lintang": "3.23 LS",
-    "bujur": "115.18 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 22 km TimurLaut Banjar",
-    "warning": [
-      "III Kab. Banjar"
-    ]
-  },
-  {
-    "waktu": "13/02/2024 09:51:56 WIB",
-    "lintang": "2.05 LU",
-    "bujur": "98.93 BT",
-    "magnitudo": "3",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Tapanuli Utara",
-    "warning": [
-      "III Tarutung"
     ]
   }
 ]
