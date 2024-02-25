@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/02/2024 00:33:47 WIB",
+    "lintang": "0.63 LU",
+    "bujur": "98.52 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 78 km TimurLaut Nias Selatan",
+    "warning": [
+      "II-III Tapanuli Tengah"
+    ]
+  },
+  {
     "waktu": "25/02/2024 22:04:56 WIB",
     "lintang": "7.54 LS",
     "bujur": "105.95 BT",
@@ -227,17 +238,6 @@
     "wilayah": "Pusat gempa berada di laut 22 Km Timur laut Lasalimu kabupaten buton",
     "warning": [
       "II-III Lasalimu"
-    ]
-  },
-  {
-    "waktu": "14/02/2024 01:32:02 WIB",
-    "lintang": "3.26 LS",
-    "bujur": "115.12 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km timur laut Banjar",
-    "warning": [
-      "II-III Kab. Banjar"
     ]
   }
 ]
