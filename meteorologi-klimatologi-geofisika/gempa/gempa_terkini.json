@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27-02-24 02:37:16 WIB",
+    "lintang": "-5.89",
+    "bujur": "130.59",
+    "magnitudo": "5.4",
+    "kedalaman": "119 Km",
+    "wilayah": "239 km BaratDaya MALUKUTENGGARA"
+  },
+  {
     "waktu": "25-02-24 22:04:56 WIB",
     "lintang": "-7.54",
     "bujur": "105.95",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "24 Km",
     "wilayah": "24 km Tenggara TUAPEJAT-SUMBAR"
-  },
-  {
-    "waktu": "06-01-24 05:26:14 WIB",
-    "lintang": "-7.72",
-    "bujur": "128.45",
-    "magnitudo": "5.0",
-    "kedalaman": "169 Km",
-    "wilayah": "87 km TimurLaut MALUKUBRTDAYA"
   }
 ]
