@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/02/2024 18:30:47 WIB",
+    "lintang": "3.11 LS",
+    "bujur": "115.22 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada didarat 28 Km Tenggara Tapin",
+    "warning": [
+      "II - III Tapin"
+    ]
+  },
+  {
     "waktu": "26/02/2024 00:33:47 WIB",
     "lintang": "0.63 LU",
     "bujur": "98.52 BT",
@@ -227,17 +238,6 @@
       "II Trenggalek",
       "II Malang",
       "II Pacitan"
-    ]
-  },
-  {
-    "waktu": "15/02/2024 18:25:09 WIB",
-    "lintang": "5.05 LS",
-    "bujur": "123.22 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada di laut 22 Km Timur laut Lasalimu kabupaten buton",
-    "warning": [
-      "II-III Lasalimu"
     ]
   }
 ]
