@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/02/2024 19:06:49 WIB",
+    "lintang": "4.02 LS",
+    "bujur": "133.68 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "19 Km",
+    "wilayah": "Pusat gempa berada di laut 43 km BaratDaya Kaimana",
+    "warning": [
+      "II Kaimana"
+    ]
+  },
+  {
     "waktu": "26/02/2024 18:30:47 WIB",
     "lintang": "3.11 LS",
     "bujur": "115.22 BT",
@@ -223,21 +234,6 @@
     "warning": [
       "III - IV Kab. Aceh Singkil",
       "III Kota Subulussalam"
-    ]
-  },
-  {
-    "waktu": "15/02/2024 22:54:03 WIB",
-    "lintang": "8.56 LS",
-    "bujur": "112.22 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "100 Km",
-    "wilayah": "Pusat gempa berada di laut 47 km Tenggara Kab. Blitar",
-    "warning": [
-      "II Blitar",
-      "II Karangkates",
-      "II Trenggalek",
-      "II Malang",
-      "II Pacitan"
     ]
   }
 ]
