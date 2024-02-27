@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/02/2024 11:49:13 WIB",
+    "lintang": "9.71 LS",
+    "bujur": "125.05 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 25 km Tenggara Malaka",
+    "warning": [
+      "III Malaka"
+    ]
+  },
+  {
     "waktu": "27/02/2024 03:09:51 WIB",
     "lintang": "6.75 LS",
     "bujur": "107.6 BT",
@@ -219,18 +230,6 @@
     "wilayah": "Pusat gempa berada di darat 26 km Tenggara Hulu Sungai Tengah",
     "warning": [
       "II - III Tapin"
-    ]
-  },
-  {
-    "waktu": "17/02/2024 23:47:28 WIB",
-    "lintang": "8.38 LS",
-    "bujur": "114.49 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada dilaut 12 km BaratDaya Jembrana",
-    "warning": [
-      "III Banyuwangi",
-      "III Jembrana"
     ]
   }
 ]
