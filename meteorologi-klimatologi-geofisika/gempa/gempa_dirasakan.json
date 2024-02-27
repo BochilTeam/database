@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "27/02/2024 17:50:54 WIB",
+    "lintang": "2.96 LS",
+    "bujur": "119.39 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Mamasa",
+    "warning": [
+      "II-III Mamasa"
+    ]
+  },
+  {
+    "waktu": "27/02/2024 17:13:56 WIB",
+    "lintang": "4.44 LS",
+    "bujur": "122.85 BT",
+    "magnitudo": "3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 12 km barat daya Kab. Buton Utara",
+    "warning": [
+      "II-III Konawe Selatan"
+    ]
+  },
+  {
     "waktu": "27/02/2024 11:49:13 WIB",
     "lintang": "9.71 LS",
     "bujur": "125.05 BT",
@@ -206,30 +228,6 @@
     "wilayah": "Pusat gempa berada di darat 58 Km Timurlaut Yalimo",
     "warning": [
       "II Genyem"
-    ]
-  },
-  {
-    "waktu": "19/02/2024 07:00:25 WIB",
-    "lintang": "9.49 LS",
-    "bujur": "115.93 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "41 Km",
-    "wilayah": "Pusat gempa berada di Laut 92 km BaratDaya Lombok Barat",
-    "warning": [
-      "II Mataram",
-      "II Lombok Barat",
-      "II Lombok Tengah"
-    ]
-  },
-  {
-    "waktu": "18/02/2024 11:32:42 WIB",
-    "lintang": "2.78 LS",
-    "bujur": "115.69 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 26 km Tenggara Hulu Sungai Tengah",
-    "warning": [
-      "II - III Tapin"
     ]
   }
 ]
