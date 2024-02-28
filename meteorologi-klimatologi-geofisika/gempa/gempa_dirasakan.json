@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/02/2024 00:44:36 WIB",
+    "lintang": "5.14 LU",
+    "bujur": "94.7 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 101 km BaratDaya JANTHO-ACEH BESAR",
+    "warning": [
+      "II Banda Aceh"
+    ]
+  },
+  {
     "waktu": "28/02/2024 19:50:12 WIB",
     "lintang": "6.9 LS",
     "bujur": "106.94 BT",
@@ -217,17 +228,6 @@
     "wilayah": "Pusat gempa berada di darat 33 Km Timur Laut Lombok Utara",
     "warning": [
       "II Lombok Utara"
-    ]
-  },
-  {
-    "waktu": "20/02/2024 18:00:52 WIB",
-    "lintang": "2.56 LS",
-    "bujur": "140.65 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di darat, 5 km BaratLaut Kota Jayapura",
-    "warning": [
-      "II Jayapura"
     ]
   }
 ]
