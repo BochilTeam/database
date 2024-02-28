@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/02/2024 19:50:12 WIB",
+    "lintang": "6.9 LS",
+    "bujur": "106.94 BT",
+    "magnitudo": "1.8",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km TimurLaut Kota Sukabumi",
+    "warning": [
+      "II Kab. Sukabumi"
+    ]
+  },
+  {
     "waktu": "28/02/2024 07:48:09 WIB",
     "lintang": "6.7 LS",
     "bujur": "107.63 BT",
@@ -217,17 +228,6 @@
     "wilayah": "Pusat gempa berada di darat, 5 km BaratLaut Kota Jayapura",
     "warning": [
       "II Jayapura"
-    ]
-  },
-  {
-    "waktu": "20/02/2024 11:27:14 WIB",
-    "lintang": "8.2 LS",
-    "bujur": "108.44 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "37 Km",
-    "wilayah": "Pusat gempa berada di Laut 55 km Barat Daya Kab. Pangandaran",
-    "warning": [
-      "III Pangandaran"
     ]
   }
 ]
