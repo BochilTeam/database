@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/02/2024 22:34:21 WIB",
+    "lintang": "0.26 LS",
+    "bujur": "120.04 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 29 km TimurLaut Donggala",
+    "warning": [
+      "III Kab. Donggala"
+    ]
+  },
+  {
     "waktu": "29/02/2024 00:44:36 WIB",
     "lintang": "5.14 LU",
     "bujur": "94.7 BT",
@@ -217,17 +228,6 @@
     "wilayah": "Pusat gempa berada di laut 87 km BaratDaya Kab. Tasikmalaya",
     "warning": [
       "II Kab. Tasikmalaya"
-    ]
-  },
-  {
-    "waktu": "21/02/2024 13:12:47 WIB",
-    "lintang": "8.35 LS",
-    "bujur": "116.46 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 33 Km Timur Laut Lombok Utara",
-    "warning": [
-      "II Lombok Utara"
     ]
   }
 ]
