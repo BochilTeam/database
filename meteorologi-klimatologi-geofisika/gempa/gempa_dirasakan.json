@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/03/2024 03:19:45 WIB",
+    "lintang": "10.4 LS",
+    "bujur": "113.62 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 253 km BaratDaya Jember",
+    "warning": [
+      "II Karangkates"
+    ]
+  },
+  {
     "waktu": "29/02/2024 22:34:21 WIB",
     "lintang": "0.26 LS",
     "bujur": "120.04 BT",
@@ -217,17 +228,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km Tenggara Mamasa",
     "warning": [
       "II Mamasa"
-    ]
-  },
-  {
-    "waktu": "22/02/2024 10:06:34 WIB",
-    "lintang": "8.05 LS",
-    "bujur": "107.74 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada di laut 87 km BaratDaya Kab. Tasikmalaya",
-    "warning": [
-      "II Kab. Tasikmalaya"
     ]
   }
 ]
