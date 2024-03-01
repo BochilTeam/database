@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "01/03/2024 14:06:38 WIB",
+    "lintang": "4.7 LS",
+    "bujur": "139.54 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km tenggara Yahukimo",
+    "warning": [
+      "II Wamena",
+      "III Yahukimo"
+    ]
+  },
+  {
     "waktu": "01/03/2024 03:19:45 WIB",
     "lintang": "10.4 LS",
     "bujur": "113.62 BT",
@@ -217,17 +229,6 @@
       "III Teluk Dalam",
       "III Pulau Hibala",
       "II Padang"
-    ]
-  },
-  {
-    "waktu": "23/02/2024 00:55:09 WIB",
-    "lintang": "2.95 LS",
-    "bujur": "119.37 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km Tenggara Mamasa",
-    "warning": [
-      "II Mamasa"
     ]
   }
 ]
