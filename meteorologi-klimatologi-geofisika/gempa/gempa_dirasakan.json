@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/03/2024 20:59:36 WIB",
+    "lintang": "2.88 LS",
+    "bujur": "119.48 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km TimurLaut Mamasa",
+    "warning": [
+      "III Mamasa"
+    ]
+  },
+  {
     "waktu": "01/03/2024 14:06:38 WIB",
     "lintang": "4.7 LS",
     "bujur": "139.54 BT",
@@ -216,19 +227,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km tenggara Mamasa",
     "warning": [
       "III Mamasa"
-    ]
-  },
-  {
-    "waktu": "23/02/2024 14:46:30 WIB",
-    "lintang": "0.67 LS",
-    "bujur": "98.5 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "26 Km",
-    "wilayah": "Pusat gempa berada di laut 157 km tenggara Nias Selatan",
-    "warning": [
-      "III Teluk Dalam",
-      "III Pulau Hibala",
-      "II Padang"
     ]
   }
 ]
