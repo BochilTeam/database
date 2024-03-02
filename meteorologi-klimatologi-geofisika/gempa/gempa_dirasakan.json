@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "02/03/2024 01:39:25 WIB",
+    "lintang": "0.56 LU",
+    "bujur": "98.51 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 77 km Tenggara Nias Selatan",
+    "warning": [
+      "II-III Pinang Sori",
+      "II-III Tapanuli Tengah"
+    ]
+  },
+  {
     "waktu": "01/03/2024 20:59:36 WIB",
     "lintang": "2.88 LS",
     "bujur": "119.48 BT",
@@ -216,17 +228,6 @@
     "wilayah": "Pusat gempa berada di darat 21 km barat laut Berau",
     "warning": [
       "II-III Berau"
-    ]
-  },
-  {
-    "waktu": "23/02/2024 19:55:52 WIB",
-    "lintang": "2.96 LS",
-    "bujur": "119.38 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km tenggara Mamasa",
-    "warning": [
-      "III Mamasa"
     ]
   }
 ]
