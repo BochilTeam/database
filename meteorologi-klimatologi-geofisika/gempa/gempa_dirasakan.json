@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "02/03/2024 17:48:44 WIB",
+    "lintang": "7.55 LS",
+    "bujur": "106.68 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "28 Km",
+    "wilayah": "Pusat gempa berada di laut 64 km Tenggara Kab Sukabumi",
+    "warning": [
+      "III Kab Sukabumi",
+      "III Pelabuhan Ratu",
+      "III Simpenan",
+      "III Surade",
+      "II-III Kota Sukabumi",
+      "II-III Kalapanunggal",
+      "II-III Cireunghas",
+      "II Cianjur",
+      "II Pangalengan",
+      "II Tasikmalaya",
+      "II Soreang",
+      "II Kota Bandung"
+    ]
+  },
+  {
     "waktu": "02/03/2024 15:27:35 WIB",
     "lintang": "4.33 LS",
     "bujur": "122.65 BT",
@@ -211,23 +233,6 @@
     "wilayah": "Pusat gempa berada didarat 35 Km Timur Laut Ruteng",
     "warning": [
       "II Ruteng"
-    ]
-  },
-  {
-    "waktu": "25/02/2024 20:07:03 WIB",
-    "lintang": "7.61 LS",
-    "bujur": "105.9 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 85 km BaratDaya Bayah",
-    "warning": [
-      "II-III Cilacap",
-      "II Serang",
-      "II-III Panimbang",
-      "II-III Cigelis",
-      "II Lembang",
-      "III Garut",
-      "II-III Bandung"
     ]
   }
 ]
