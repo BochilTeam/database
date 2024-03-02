@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "02/03/2024 23:40:55 WIB",
+    "lintang": "9.51 LS",
+    "bujur": "116.3 BT",
+    "magnitudo": "4",
+    "kedalaman": "39 Km",
+    "wilayah": "Pusat gempa berada di laut 89 km Tenggara Lombok Tengah",
+    "warning": [
+      "II Lombok Tengah",
+      "II Mataram",
+      "II Lombok Barat"
+    ]
+  },
+  {
     "waktu": "02/03/2024 17:48:44 WIB",
     "lintang": "7.55 LS",
     "bujur": "106.68 BT",
@@ -222,17 +235,6 @@
       "II Pelabuhan Ratu",
       "II Panimbang",
       "II Tanjung Lesung"
-    ]
-  },
-  {
-    "waktu": "25/02/2024 21:34:29 WIB",
-    "lintang": "8.42 LS",
-    "bujur": "120.72 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada didarat 35 Km Timur Laut Ruteng",
-    "warning": [
-      "II Ruteng"
     ]
   }
 ]
