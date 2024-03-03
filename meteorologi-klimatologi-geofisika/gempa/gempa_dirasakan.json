@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "03/03/2024 09:16:57 WIB",
+    "lintang": "7.24 LS",
+    "bujur": "107.69 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 23 km BaratDaya Kab. Garut",
+    "warning": [
+      "III Pasirwangi",
+      "III Kertasari"
+    ]
+  },
+  {
     "waktu": "02/03/2024 23:40:55 WIB",
     "lintang": "9.51 LS",
     "bujur": "116.3 BT",
@@ -221,20 +233,6 @@
     "wilayah": "Pusat gempa berada di laut 78 km TimurLaut Nias Selatan",
     "warning": [
       "II-III Tapanuli Tengah"
-    ]
-  },
-  {
-    "waktu": "25/02/2024 22:04:56 WIB",
-    "lintang": "7.54 LS",
-    "bujur": "105.95 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 75 km BaratDaya Bayah",
-    "warning": [
-      "II Surade",
-      "II Pelabuhan Ratu",
-      "II Panimbang",
-      "II Tanjung Lesung"
     ]
   }
 ]
