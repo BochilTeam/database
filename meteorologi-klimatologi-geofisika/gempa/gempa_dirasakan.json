@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "03/03/2024 20:37:59 WIB",
+    "lintang": "2.5 LS",
+    "bujur": "140.43 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km TimurLaut Kab. Jayapura",
+    "warning": [
+      "III Kota Jayapura",
+      "III Kab. Jayapura"
+    ]
+  },
+  {
     "waktu": "03/03/2024 09:16:57 WIB",
     "lintang": "7.24 LS",
     "bujur": "107.69 BT",
@@ -222,17 +234,6 @@
     "wilayah": "Pusat gempa berada didarat 28 Km Tenggara Tapin",
     "warning": [
       "II - III Tapin"
-    ]
-  },
-  {
-    "waktu": "26/02/2024 00:33:47 WIB",
-    "lintang": "0.63 LU",
-    "bujur": "98.52 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 78 km TimurLaut Nias Selatan",
-    "warning": [
-      "II-III Tapanuli Tengah"
     ]
   }
 ]
