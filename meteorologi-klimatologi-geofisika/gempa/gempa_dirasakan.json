@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "03/03/2024 22:07:42 WIB",
+    "lintang": "5.08 LS",
+    "bujur": "103.06 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 45 km Barat Daya Kaur",
+    "warning": [
+      "III Liwa",
+      "I-II Kaur",
+      "I-II Kepahiang",
+      "I-II Oku Selatan",
+      "I-II Bengkulu Utara"
+    ]
+  },
+  {
     "waktu": "03/03/2024 20:37:59 WIB",
     "lintang": "2.5 LS",
     "bujur": "140.43 BT",
@@ -223,17 +238,6 @@
     "wilayah": "Pusat gempa berada di laut 43 km BaratDaya Kaimana",
     "warning": [
       "II Kaimana"
-    ]
-  },
-  {
-    "waktu": "26/02/2024 18:30:47 WIB",
-    "lintang": "3.11 LS",
-    "bujur": "115.22 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada didarat 28 Km Tenggara Tapin",
-    "warning": [
-      "II - III Tapin"
     ]
   }
 ]

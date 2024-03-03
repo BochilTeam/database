@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03-03-24 22:07:42 WIB",
+    "lintang": "-5.08",
+    "bujur": "103.06",
+    "magnitudo": "5.1",
+    "kedalaman": "17 Km",
+    "wilayah": "45 km BaratDaya KAUR-BENGKULU"
+  },
+  {
     "waktu": "01-03-24 14:06:38 WIB",
     "lintang": "-4.70",
     "bujur": "139.54",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "22 Km",
     "wilayah": "125 km BaratLaut JAILOLO-MALUT"
-  },
-  {
-    "waktu": "09-01-24 12:25:24 WIB",
-    "lintang": "-4.46",
-    "bujur": "133.91",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "130 km BaratDaya KAIMANA-PAPUABRT"
   }
 ]
