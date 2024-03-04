@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05-03-24 04:15:22 WIB",
+    "lintang": "5.86",
+    "bujur": "125.71",
+    "magnitudo": "5.2",
+    "kedalaman": "170 Km",
+    "wilayah": "195 km BaratLaut PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "04-03-24 09:48:23 WIB",
     "lintang": "-5.73",
     "bujur": "102.22",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 Km",
     "wilayah": "9 km BaratDaya TOJOUNA-UNA-SULTENG"
-  },
-  {
-    "waktu": "18-01-24 01:29:39 WIB",
-    "lintang": "-3.63",
-    "bujur": "140.46",
-    "magnitudo": "5.0",
-    "kedalaman": "62 Km",
-    "wilayah": "46 km BaratDaya KEEROM-PAPUA"
   }
 ]
