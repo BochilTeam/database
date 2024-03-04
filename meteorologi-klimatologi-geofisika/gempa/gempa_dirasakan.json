@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "04/03/2024 09:48:23 WIB",
+    "lintang": "5.73 LS",
+    "bujur": "102.22 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 43 km baratdaya Enggano",
+    "warning": [
+      "III Enggano",
+      "II Liwa",
+      "II Semangka"
+    ]
+  },
+  {
     "waktu": "03/03/2024 22:07:42 WIB",
     "lintang": "5.08 LS",
     "bujur": "103.06 BT",
@@ -227,17 +240,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km Tenggara Mamasa",
     "warning": [
       "II Mamasa"
-    ]
-  },
-  {
-    "waktu": "26/02/2024 19:06:49 WIB",
-    "lintang": "4.02 LS",
-    "bujur": "133.68 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "19 Km",
-    "wilayah": "Pusat gempa berada di laut 43 km BaratDaya Kaimana",
-    "warning": [
-      "II Kaimana"
     ]
   }
 ]

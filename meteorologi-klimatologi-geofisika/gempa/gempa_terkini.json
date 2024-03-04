@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04-03-24 09:48:23 WIB",
+    "lintang": "-5.73",
+    "bujur": "102.22",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "43 km BaratDaya ENGGANO-BENGKULU"
+  },
+  {
     "waktu": "03-03-24 22:07:42 WIB",
     "lintang": "-5.08",
     "bujur": "103.06",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "62 Km",
     "wilayah": "46 km BaratDaya KEEROM-PAPUA"
-  },
-  {
-    "waktu": "17-01-24 01:03:51 WIB",
-    "lintang": "1.41",
-    "bujur": "126.39",
-    "magnitudo": "5.0",
-    "kedalaman": "22 Km",
-    "wilayah": "125 km BaratLaut JAILOLO-MALUT"
   }
 ]
