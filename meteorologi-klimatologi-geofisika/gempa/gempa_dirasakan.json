@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "05/03/2024 16:37:23 WIB",
+    "lintang": "9.59 LS",
+    "bujur": "115.24 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "23 Km",
+    "wilayah": "Pusat gempa berada di laut 88 km tenggara Kuta Selatan",
+    "warning": [
+      "II Denpasar",
+      "II Kuta",
+      "II Kuta Selatan",
+      "II Karangasem"
+    ]
+  },
+  {
     "waktu": "05/03/2024 08:40:33 WIB",
     "lintang": "9.74 LS",
     "bujur": "119.63 BT",
@@ -230,17 +244,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km Tenggara Mamasa",
     "warning": [
       "II-III Mamasa"
-    ]
-  },
-  {
-    "waktu": "27/02/2024 17:13:56 WIB",
-    "lintang": "4.44 LS",
-    "bujur": "122.85 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 12 km barat daya Kab. Buton Utara",
-    "warning": [
-      "II-III Konawe Selatan"
     ]
   }
 ]
