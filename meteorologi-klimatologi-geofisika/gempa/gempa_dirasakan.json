@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/03/2024 08:40:33 WIB",
+    "lintang": "9.74 LS",
+    "bujur": "119.63 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km Tenggara Waibakul",
+    "warning": [
+      "II-III Langgaliru"
+    ]
+  },
+  {
     "waktu": "04/03/2024 22:14:23 WIB",
     "lintang": "3.47 LS",
     "bujur": "128.37 BT",
@@ -230,17 +241,6 @@
     "wilayah": "Pusat gempa berada di laut 12 km barat daya Kab. Buton Utara",
     "warning": [
       "II-III Konawe Selatan"
-    ]
-  },
-  {
-    "waktu": "27/02/2024 11:49:13 WIB",
-    "lintang": "9.71 LS",
-    "bujur": "125.05 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 25 km Tenggara Malaka",
-    "warning": [
-      "III Malaka"
     ]
   }
 ]
