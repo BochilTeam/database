@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/03/2024 16:33:09 WIB",
+    "lintang": "3.66 LS",
+    "bujur": "133.71 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km BaratDaya Kaimana",
+    "warning": [
+      "II Kaimana"
+    ]
+  },
+  {
     "waktu": "05/03/2024 16:37:23 WIB",
     "lintang": "9.59 LS",
     "bujur": "115.24 BT",
@@ -233,17 +244,6 @@
     "wilayah": "Pusat gempa berada di darat 20 km Barat Daya Kab. Subang",
     "warning": [
       "II-III Subang"
-    ]
-  },
-  {
-    "waktu": "27/02/2024 17:50:54 WIB",
-    "lintang": "2.96 LS",
-    "bujur": "119.39 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Mamasa",
-    "warning": [
-      "II-III Mamasa"
     ]
   }
 ]
