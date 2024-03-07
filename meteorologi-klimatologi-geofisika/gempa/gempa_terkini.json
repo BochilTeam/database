@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07-03-24 06:57:00 WIB",
+    "lintang": "-4.79",
+    "bujur": "134.12",
+    "magnitudo": "5.3",
+    "kedalaman": "54 Km",
+    "wilayah": "108 km BaratLaut KEP.ARU-MALUKU"
+  },
+  {
     "waktu": "05-03-24 04:15:22 WIB",
     "lintang": "5.86",
     "bujur": "125.71",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 Km",
     "wilayah": "75 km BaratDaya KAIMANA-PAPUABRT"
-  },
-  {
-    "waktu": "19-01-24 00:36:18 WIB",
-    "lintang": "-1.10",
-    "bujur": "121.45",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "9 km BaratDaya TOJOUNA-UNA-SULTENG"
   }
 ]
