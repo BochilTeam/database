@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/03/2024 16:11:48 WIB",
+    "lintang": "5.73 LU",
+    "bujur": "126.88 BT",
+    "magnitudo": "6",
+    "kedalaman": "141 Km",
+    "wilayah": "Pusat gempa berada di laut 110 Km Baratlaut Pulau Karatung",
+    "warning": [
+      "III Talaud"
+    ]
+  },
+  {
     "waktu": "07/03/2024 20:11:53 WIB",
     "lintang": "9.02 LS",
     "bujur": "112.79 BT",
@@ -233,17 +244,6 @@
     "wilayah": "Pusat gempa berada di laut 101 km BaratDaya JANTHO-ACEH BESAR",
     "warning": [
       "II Banda Aceh"
-    ]
-  },
-  {
-    "waktu": "28/02/2024 19:50:12 WIB",
-    "lintang": "6.9 LS",
-    "bujur": "106.94 BT",
-    "magnitudo": "1.8",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km TimurLaut Kota Sukabumi",
-    "warning": [
-      "II Kab. Sukabumi"
     ]
   }
 ]
