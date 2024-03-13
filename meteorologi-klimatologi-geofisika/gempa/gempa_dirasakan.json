@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "13/03/2024 18:08:44 WIB",
+    "lintang": "3.89 LS",
+    "bujur": "102.17 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 32 km BaratDaya Bengkulu Tengah",
+    "warning": [
+      "II-III Kepahiang",
+      "II-III Bengkulu Tengah",
+      "II Argamakmur"
+    ]
+  },
+  {
     "waktu": "12/03/2024 20:10:46 WIB",
     "lintang": "3.2 LS",
     "bujur": "128.76 BT",
@@ -234,17 +247,6 @@
     "warning": [
       "II Wamena",
       "III Yahukimo"
-    ]
-  },
-  {
-    "waktu": "01/03/2024 03:19:45 WIB",
-    "lintang": "10.4 LS",
-    "bujur": "113.62 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 253 km BaratDaya Jember",
-    "warning": [
-      "II Karangkates"
     ]
   }
 ]
