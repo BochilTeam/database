@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14-03-24 01:56:14 WIB",
+    "lintang": "-0.21",
+    "bujur": "125.24",
+    "magnitudo": "6.2",
+    "kedalaman": "10 Km",
+    "wilayah": "128 km Tenggara TUTUYAN-BOLTIM-SULUT"
+  },
+  {
     "waktu": "13-03-24 23:39:21 WIB",
     "lintang": "-6.58",
     "bujur": "129.99",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 Km",
     "wilayah": "391 km BaratDaya KUTASELATAN-BALI"
-  },
-  {
-    "waktu": "25-01-24 19:24:13 WIB",
-    "lintang": "-8.26",
-    "bujur": "121.20",
-    "magnitudo": "5.6",
-    "kedalaman": "11 Km",
-    "wilayah": "47 km BaratLaut MBAY-NAGEKEO-NTT"
   }
 ]
