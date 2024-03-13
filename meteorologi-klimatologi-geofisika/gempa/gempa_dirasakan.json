@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/03/2024 21:53:20 WIB",
+    "lintang": "4.53 LU",
+    "bujur": "96.41 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km Timur Laut Kab. Nagan Raya",
+    "warning": [
+      "II Seunagan Raya"
+    ]
+  },
+  {
     "waktu": "13/03/2024 18:08:44 WIB",
     "lintang": "3.89 LS",
     "bujur": "102.17 BT",
@@ -235,18 +246,6 @@
     "wilayah": "Pusat gempa berada di darat 17 km TimurLaut Mamasa",
     "warning": [
       "III Mamasa"
-    ]
-  },
-  {
-    "waktu": "01/03/2024 14:06:38 WIB",
-    "lintang": "4.7 LS",
-    "bujur": "139.54 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 22 km tenggara Yahukimo",
-    "warning": [
-      "II Wamena",
-      "III Yahukimo"
     ]
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-03-24 23:39:21 WIB",
+    "lintang": "-6.58",
+    "bujur": "129.99",
+    "magnitudo": "5.2",
+    "kedalaman": "182 Km",
+    "wilayah": "212 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "10-03-24 17:20:34 WIB",
     "lintang": "-7.44",
     "bujur": "129.18",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "11 Km",
     "wilayah": "47 km BaratLaut MBAY-NAGEKEO-NTT"
-  },
-  {
-    "waktu": "24-01-24 21:39:19 WIB",
-    "lintang": "-4.04",
-    "bujur": "141.49",
-    "magnitudo": "5.2",
-    "kedalaman": "61 Km",
-    "wilayah": "111 km Tenggara KEEROM-PAPUA"
   }
 ]
