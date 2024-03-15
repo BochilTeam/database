@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "15/03/2024 08:29:19 WIB",
+    "lintang": "7.99 LS",
+    "bujur": "108.1 BT",
+    "magnitudo": "4",
+    "kedalaman": "51 Km",
+    "wilayah": "Pusat gempa berada di laut 54 Km Barat Daya Kab. Pangandaran",
+    "warning": [
+      "III Pangandaran",
+      "III Garut",
+      "III Cijulang",
+      "III Pamengpeuk",
+      "III Karangnunggal",
+      "II Pengalengan"
+    ]
+  },
+  {
     "waktu": "14/03/2024 01:56:14 WIB",
     "lintang": "0.21 LS",
     "bujur": "125.24 BT",
@@ -236,18 +252,6 @@
     "wilayah": "Pusat gempa berada didarat 5,7 km BaratDaya Kolono, Kab. Konawe Selatan",
     "warning": [
       "II Kendari"
-    ]
-  },
-  {
-    "waktu": "02/03/2024 01:39:25 WIB",
-    "lintang": "0.56 LU",
-    "bujur": "98.51 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 77 km Tenggara Nias Selatan",
-    "warning": [
-      "II-III Pinang Sori",
-      "II-III Tapanuli Tengah"
     ]
   }
 ]
