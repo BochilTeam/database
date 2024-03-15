@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "15/03/2024 10:37:38 WIB",
+    "lintang": "8.21 LS",
+    "bujur": "108.22 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "31 Km",
+    "wilayah": "Pusat gempa berada di laut 64 Km Barat Daya Kab. Pangandaran",
+    "warning": [
+      "III Pangandaran",
+      "III Garut",
+      "III Cisewu",
+      "III Karangnunggal",
+      "III Tasikmalaya"
+    ]
+  },
+  {
     "waktu": "15/03/2024 08:29:19 WIB",
     "lintang": "7.99 LS",
     "bujur": "108.1 BT",
@@ -241,17 +256,6 @@
       "II Tasikmalaya",
       "II Soreang",
       "II Kota Bandung"
-    ]
-  },
-  {
-    "waktu": "02/03/2024 15:27:35 WIB",
-    "lintang": "4.33 LS",
-    "bujur": "122.65 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada didarat 5,7 km BaratDaya Kolono, Kab. Konawe Selatan",
-    "warning": [
-      "II Kendari"
     ]
   }
 ]
