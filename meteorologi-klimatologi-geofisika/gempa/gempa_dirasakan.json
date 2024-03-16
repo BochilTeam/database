@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/03/2024 07:49:43 WIB",
+    "lintang": "8.19 LS",
+    "bujur": "119.87 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 33 km BaratLaut Labuhan Bajo",
+    "warning": [
+      "II Labuhan Bajo"
+    ]
+  },
+  {
     "waktu": "15/03/2024 10:37:38 WIB",
     "lintang": "8.21 LS",
     "bujur": "108.22 BT",
@@ -234,28 +245,6 @@
       "II Lombok Tengah",
       "II Mataram",
       "II Lombok Barat"
-    ]
-  },
-  {
-    "waktu": "02/03/2024 17:48:44 WIB",
-    "lintang": "7.55 LS",
-    "bujur": "106.68 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "28 Km",
-    "wilayah": "Pusat gempa berada di laut 64 km Tenggara Kab Sukabumi",
-    "warning": [
-      "III Kab Sukabumi",
-      "III Pelabuhan Ratu",
-      "III Simpenan",
-      "III Surade",
-      "II-III Kota Sukabumi",
-      "II-III Kalapanunggal",
-      "II-III Cireunghas",
-      "II Cianjur",
-      "II Pangalengan",
-      "II Tasikmalaya",
-      "II Soreang",
-      "II Kota Bandung"
     ]
   }
 ]
