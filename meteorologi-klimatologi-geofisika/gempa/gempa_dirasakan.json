@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "16/03/2024 15:33:56 WIB",
+    "lintang": "9.45 LS",
+    "bujur": "119.01 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "37 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km timur laut Kodi-Sumba Barat Daya",
+    "warning": [
+      "II Waingapu",
+      "II Kodi",
+      "II Bima"
+    ]
+  },
+  {
+    "waktu": "16/03/2024 15:05:12 WIB",
+    "lintang": "2.06 LS",
+    "bujur": "125.75 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 135 km Barat Laut Airbuaya-Buru",
+    "warning": [
+      "III Sanana"
+    ]
+  },
+  {
     "waktu": "16/03/2024 07:49:43 WIB",
     "lintang": "8.19 LS",
     "bujur": "119.87 BT",
@@ -220,31 +244,6 @@
     "warning": [
       "III Kota Jayapura",
       "III Kab. Jayapura"
-    ]
-  },
-  {
-    "waktu": "03/03/2024 09:16:57 WIB",
-    "lintang": "7.24 LS",
-    "bujur": "107.69 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 23 km BaratDaya Kab. Garut",
-    "warning": [
-      "III Pasirwangi",
-      "III Kertasari"
-    ]
-  },
-  {
-    "waktu": "02/03/2024 23:40:55 WIB",
-    "lintang": "9.51 LS",
-    "bujur": "116.3 BT",
-    "magnitudo": "4",
-    "kedalaman": "39 Km",
-    "wilayah": "Pusat gempa berada di laut 89 km Tenggara Lombok Tengah",
-    "warning": [
-      "II Lombok Tengah",
-      "II Mataram",
-      "II Lombok Barat"
     ]
   }
 ]
