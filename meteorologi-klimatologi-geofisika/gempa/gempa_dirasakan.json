@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "17/03/2024 16:36:45 WIB",
+    "lintang": "9.17 LS",
+    "bujur": "119.14 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "44 Km",
+    "wilayah": "Pusat gempa berada di Laut 25 km Barat Laut TAMBOLAKA",
+    "warning": [
+      "II Bima",
+      "II Waingapu"
+    ]
+  },
+  {
     "waktu": "16/03/2024 15:33:56 WIB",
     "lintang": "9.45 LS",
     "bujur": "119.01 BT",
@@ -232,18 +244,6 @@
       "I-II Kepahiang",
       "I-II Oku Selatan",
       "I-II Bengkulu Utara"
-    ]
-  },
-  {
-    "waktu": "03/03/2024 20:37:59 WIB",
-    "lintang": "2.5 LS",
-    "bujur": "140.43 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km TimurLaut Kab. Jayapura",
-    "warning": [
-      "III Kota Jayapura",
-      "III Kab. Jayapura"
     ]
   }
 ]
