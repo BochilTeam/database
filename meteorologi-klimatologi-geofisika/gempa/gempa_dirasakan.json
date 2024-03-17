@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "17/03/2024 23:17:00 WIB",
+    "lintang": "9.34 LS",
+    "bujur": "113.2 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "30 Km",
+    "wilayah": "Pusat gempa berada di laut 134 km BaratDaya Lumajang",
+    "warning": [
+      "II Lumajang",
+      "II Banyuwangi"
+    ]
+  },
+  {
     "waktu": "17/03/2024 16:36:45 WIB",
     "lintang": "9.17 LS",
     "bujur": "119.14 BT",
@@ -229,21 +241,6 @@
       "III Enggano",
       "II Liwa",
       "II Semangka"
-    ]
-  },
-  {
-    "waktu": "03/03/2024 22:07:42 WIB",
-    "lintang": "5.08 LS",
-    "bujur": "103.06 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 45 km Barat Daya Kaur",
-    "warning": [
-      "III Liwa",
-      "I-II Kaur",
-      "I-II Kepahiang",
-      "I-II Oku Selatan",
-      "I-II Bengkulu Utara"
     ]
   }
 ]
