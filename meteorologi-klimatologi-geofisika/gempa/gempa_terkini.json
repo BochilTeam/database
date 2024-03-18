@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18-03-24 06:41:41 WIB",
+    "lintang": "4.90",
+    "bujur": "127.33",
+    "magnitudo": "5.1",
+    "kedalaman": "107 Km",
+    "wilayah": "31 km TimurLaut PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "14-03-24 01:56:14 WIB",
     "lintang": "-0.21",
     "bujur": "125.24",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "121 Km",
     "wilayah": "129 km BaratDaya WEWAK-PNG"
-  },
-  {
-    "waktu": "27-01-24 16:33:17 WIB",
-    "lintang": "-11.78",
-    "bujur": "113.35",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "391 km BaratDaya KUTASELATAN-BALI"
   }
 ]
