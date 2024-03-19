@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "19/03/2024 18:11:46 WIB",
+    "lintang": "10.3 LS",
+    "bujur": "123.85 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 43 km Barat Daya Kab. Kupang",
+    "warning": [
+      "II Kab. Kupang"
+    ]
+  },
+  {
     "waktu": "17/03/2024 23:17:00 WIB",
     "lintang": "9.34 LS",
     "bujur": "113.2 BT",
@@ -228,19 +239,6 @@
     "warning": [
       "II Liwa",
       "I-II Krui"
-    ]
-  },
-  {
-    "waktu": "04/03/2024 09:48:23 WIB",
-    "lintang": "5.73 LS",
-    "bujur": "102.22 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 43 km baratdaya Enggano",
-    "warning": [
-      "III Enggano",
-      "II Liwa",
-      "II Semangka"
     ]
   }
 ]
