@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/03/2024 09:38:21 WIB",
+    "lintang": "6.95 LS",
+    "bujur": "111.46 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km TimurLaut Blora",
+    "warning": [
+      "III Kec. Jepon"
+    ]
+  },
+  {
     "waktu": "19/03/2024 18:11:46 WIB",
     "lintang": "10.3 LS",
     "bujur": "123.85 BT",
@@ -227,18 +238,6 @@
     "wilayah": "Pusat gempa berada di laut 14 km Selatan Kairatu-SBB",
     "warning": [
       "III Kairatu"
-    ]
-  },
-  {
-    "waktu": "04/03/2024 13:55:13 WIB",
-    "lintang": "4.92 LS",
-    "bujur": "102.79 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada di laut 53 km Barat Daya Bengkulu Selatan",
-    "warning": [
-      "II Liwa",
-      "I-II Krui"
     ]
   }
 ]
