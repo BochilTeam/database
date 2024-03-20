@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20-03-24 15:24:57 WIB",
+    "lintang": "-2.09",
+    "bujur": "100.44",
+    "magnitudo": "5.3",
+    "kedalaman": "21 Km",
+    "wilayah": "83 km BaratDaya PESISIRSELATAN-SUMBAR"
+  },
+  {
     "waktu": "18-03-24 06:41:41 WIB",
     "lintang": "4.90",
     "bujur": "127.33",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "83 km BaratLaut PULAUDOI-MALUT"
-  },
-  {
-    "waktu": "29-01-24 00:22:32 WIB",
-    "lintang": "-4.14",
-    "bujur": "142.59",
-    "magnitudo": "5.3",
-    "kedalaman": "121 Km",
-    "wilayah": "129 km BaratDaya WEWAK-PNG"
   }
 ]

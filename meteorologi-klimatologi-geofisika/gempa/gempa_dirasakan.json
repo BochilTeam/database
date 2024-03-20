@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "20/03/2024 15:24:57 WIB",
+    "lintang": "2.09 LS",
+    "bujur": "100.44 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di laut 83 km Barat Daya Pesisir Selatan",
+    "warning": [
+      "II - III Mukomuko",
+      "II Padang",
+      "II-III Pesisir Selatan"
+    ]
+  },
+  {
     "waktu": "20/03/2024 09:38:21 WIB",
     "lintang": "6.95 LS",
     "bujur": "111.46 BT",
@@ -227,17 +240,6 @@
     "wilayah": "Pusat gempa berada di darat 13 km Tenggara Waibakul",
     "warning": [
       "II-III Langgaliru"
-    ]
-  },
-  {
-    "waktu": "04/03/2024 22:14:23 WIB",
-    "lintang": "3.47 LS",
-    "bujur": "128.37 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 14 km Selatan Kairatu-SBB",
-    "warning": [
-      "III Kairatu"
     ]
   }
 ]
