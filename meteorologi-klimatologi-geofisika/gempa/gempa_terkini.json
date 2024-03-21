@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-03-24 07:19:14 WIB",
+    "lintang": "-1.83",
+    "bujur": "137.50",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "79 km BaratLaut KASONAWEJA-PAPUA"
+  },
+  {
     "waktu": "20-03-24 15:24:57 WIB",
     "lintang": "-2.09",
     "bujur": "100.44",
@@ -230,13 +238,5 @@
     "magnitudo": "5.7",
     "kedalaman": "16 Km",
     "wilayah": "89 km BaratDaya PESISIRSELATAN-SUMBAR"
-  },
-  {
-    "waktu": "03-02-24 15:25:10 WIB",
-    "lintang": "2.49",
-    "bujur": "127.06",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "83 km BaratLaut PULAUDOI-MALUT"
   }
 ]
