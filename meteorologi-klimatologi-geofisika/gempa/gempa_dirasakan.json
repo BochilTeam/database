@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "21/03/2024 19:43:56 WIB",
+    "lintang": "0.25 LU",
+    "bujur": "99.98 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km Timur Laut Talu-Pasaman Barat",
+    "warning": [
+      "II-III Pasaman",
+      "II-III Pasaman Barat"
+    ]
+  },
+  {
     "waktu": "21/03/2024 17:45:32 WIB",
     "lintang": "4.86 LU",
     "bujur": "94.78 BT",
@@ -226,20 +238,6 @@
     "wilayah": "Pusat gempa berada di darat 4 km BaratDaya Kaimana",
     "warning": [
       "II Kaimana"
-    ]
-  },
-  {
-    "waktu": "05/03/2024 16:37:23 WIB",
-    "lintang": "9.59 LS",
-    "bujur": "115.24 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di laut 88 km tenggara Kuta Selatan",
-    "warning": [
-      "II Denpasar",
-      "II Kuta",
-      "II Kuta Selatan",
-      "II Karangasem"
     ]
   }
 ]
