@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/03/2024 17:45:32 WIB",
+    "lintang": "4.86 LU",
+    "bujur": "94.78 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 92 Km Barat Laut Calang",
+    "warning": [
+      "II Aceh Besar"
+    ]
+  },
+  {
     "waktu": "20/03/2024 15:24:57 WIB",
     "lintang": "2.09 LS",
     "bujur": "100.44 BT",
@@ -229,17 +240,6 @@
       "II Kuta",
       "II Kuta Selatan",
       "II Karangasem"
-    ]
-  },
-  {
-    "waktu": "05/03/2024 08:40:33 WIB",
-    "lintang": "9.74 LS",
-    "bujur": "119.63 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 13 km Tenggara Waibakul",
-    "warning": [
-      "II-III Langgaliru"
     ]
   }
 ]
