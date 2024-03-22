@@ -1,5 +1,49 @@
 [
   {
+    "waktu": "22/03/2024 12:31:12 WIB",
+    "lintang": "5.74 LS",
+    "bujur": "112.36 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 133 km TimurLaut TUBAN-JATIM",
+    "warning": [
+      "II Surabaya",
+      "II Blora"
+    ]
+  },
+  {
+    "waktu": "22/03/2024 11:22:45 WIB",
+    "lintang": "5.74 LS",
+    "bujur": "112.32 BT",
+    "magnitudo": "6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 132 km TimurLaut Tuban",
+    "warning": [
+      "III-IV Bawean",
+      "II-III Jepara",
+      "IV-V Tuban",
+      "II-III Lamongan",
+      "II-III Bojonegoro",
+      "II-III Surabaya",
+      "II-III Kudus",
+      "II-III Blora",
+      "II-III Pekalongan",
+      "II-III Nganjuk",
+      "II-III Pacitan",
+      "II-III Trenggalek",
+      "II-III Tulungagung",
+      "II-III Sidoarjo",
+      "II-III Madiun",
+      "II-III Pasuruan",
+      "II-III Malang",
+      "II-III Semarang",
+      "II-III Yogyakarta",
+      "II - III Banjarmasin",
+      "II - III Sampit",
+      "II - III Barito Kuala"
+    ]
+  },
+  {
     "waktu": "22/03/2024 06:57:03 WIB",
     "lintang": "2.92 LS",
     "bujur": "119.42 BT",
@@ -216,28 +260,6 @@
     "wilayah": "Pusat gempa berada di darat 34 km BaratLaut Buol",
     "warning": [
       "II - III Toli-Toli"
-    ]
-  },
-  {
-    "waktu": "08/03/2024 16:11:48 WIB",
-    "lintang": "5.73 LU",
-    "bujur": "126.88 BT",
-    "magnitudo": "6",
-    "kedalaman": "141 Km",
-    "wilayah": "Pusat gempa berada di laut 110 Km Baratlaut Pulau Karatung",
-    "warning": [
-      "III Talaud"
-    ]
-  },
-  {
-    "waktu": "07/03/2024 20:11:53 WIB",
-    "lintang": "9.02 LS",
-    "bujur": "112.79 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 101 km Tenggara Kab. Malang",
-    "warning": [
-      "II Malang"
     ]
   }
 ]

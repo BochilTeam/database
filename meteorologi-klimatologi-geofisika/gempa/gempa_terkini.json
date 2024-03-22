@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "22-03-24 12:31:12 WIB",
+    "lintang": "-5.74",
+    "bujur": "112.36",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "133 km TimurLaut TUBAN-JATIM"
+  },
+  {
+    "waktu": "22-03-24 11:22:45 WIB",
+    "lintang": "-5.74",
+    "bujur": "112.32",
+    "magnitudo": "6.0",
+    "kedalaman": "10 Km",
+    "wilayah": "132 km TimurLaut TUBAN-JATIM"
+  },
+  {
     "waktu": "21-03-24 07:19:14 WIB",
     "lintang": "-1.83",
     "bujur": "137.50",
@@ -222,21 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "92 Km",
     "wilayah": "66 km BaratLaut PEG-BINTANG-PAPUAPGNGN"
-  },
-  {
-    "waktu": "05-02-24 19:38:46 WIB",
-    "lintang": "-0.42",
-    "bujur": "124.27",
-    "magnitudo": "5.3",
-    "kedalaman": "15 Km",
-    "wilayah": "93 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
-  },
-  {
-    "waktu": "05-02-24 07:52:22 WIB",
-    "lintang": "-2.14",
-    "bujur": "100.41",
-    "magnitudo": "5.7",
-    "kedalaman": "16 Km",
-    "wilayah": "89 km BaratDaya PESISIRSELATAN-SUMBAR"
   }
 ]
