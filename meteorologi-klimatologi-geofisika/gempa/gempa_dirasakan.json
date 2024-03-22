@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/03/2024 06:57:03 WIB",
+    "lintang": "2.92 LS",
+    "bujur": "119.42 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km Tenggara Mamasa",
+    "warning": [
+      "II Mamasa"
+    ]
+  },
+  {
     "waktu": "21/03/2024 19:43:56 WIB",
     "lintang": "0.25 LU",
     "bujur": "99.98 BT",
@@ -227,17 +238,6 @@
     "wilayah": "Pusat gempa berada di laut 101 km Tenggara Kab. Malang",
     "warning": [
       "II Malang"
-    ]
-  },
-  {
-    "waktu": "07/03/2024 16:33:09 WIB",
-    "lintang": "3.66 LS",
-    "bujur": "133.71 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km BaratDaya Kaimana",
-    "warning": [
-      "II Kaimana"
     ]
   }
 ]
