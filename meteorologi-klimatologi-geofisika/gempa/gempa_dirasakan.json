@@ -1,5 +1,48 @@
 [
   {
+    "waktu": "22/03/2024 15:52:58 WIB",
+    "lintang": "5.76 LS",
+    "bujur": "112.33 BT",
+    "magnitudo": "6.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 130 km TimurLaut Tuban",
+    "warning": [
+      "III-IV Blora",
+      "III-IV Surabaya",
+      "III-IV Kab. Banjar",
+      "II-III Mojokerto",
+      "II-III Malang",
+      "II-III Lumajang",
+      "II-III Nganjuk",
+      "II Yogyakarta",
+      "II-III Pasuruan",
+      "II-III Jepara",
+      "II-III Rembang",
+      "II-III Demak",
+      "II-III Kudus",
+      "II-III Semarang",
+      "II Pacitan",
+      "II Trenggalek",
+      "II Blitar",
+      "II Solo",
+      "II Sleman",
+      "II Kulonprogo",
+      "II Kebumen",
+      "II Temanggung",
+      "III-IV Madura",
+      "III-IV Gresik",
+      "II-III Banjarbaru",
+      "II-III Sampit",
+      "II-III Banjarmasin",
+      "II-III Martapura",
+      "II-III Balikapapan",
+      "II-III Tanah Grogot",
+      "II-III Palangkaraya",
+      "V-VI Bawean",
+      "II-III Madiun"
+    ]
+  },
+  {
     "waktu": "22/03/2024 12:31:12 WIB",
     "lintang": "5.74 LS",
     "bujur": "112.36 BT",
@@ -249,17 +292,6 @@
     "warning": [
       "III Elpaputih",
       "II Masohi"
-    ]
-  },
-  {
-    "waktu": "11/03/2024 22:31:04 WIB",
-    "lintang": "1.1 LU",
-    "bujur": "121.07 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 34 km BaratLaut Buol",
-    "warning": [
-      "II - III Toli-Toli"
     ]
   }
 ]

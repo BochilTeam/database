@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22-03-24 15:52:58 WIB",
+    "lintang": "-5.76",
+    "bujur": "112.33",
+    "magnitudo": "6.5",
+    "kedalaman": "10 Km",
+    "wilayah": "130 km TimurLaut TUBAN-JATIM"
+  },
+  {
     "waktu": "22-03-24 12:31:12 WIB",
     "lintang": "-5.74",
     "bujur": "112.36",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "18 Km",
     "wilayah": "39 km Tenggara SERAMBAGIANTIMUR-MALUKU"
-  },
-  {
-    "waktu": "05-02-24 21:05:24 WIB",
-    "lintang": "-4.01",
-    "bujur": "140.27",
-    "magnitudo": "5.4",
-    "kedalaman": "92 Km",
-    "wilayah": "66 km BaratLaut PEG-BINTANG-PAPUAPGNGN"
   }
 ]
