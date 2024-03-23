@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "24/03/2024 03:22:07 WIB",
+    "lintang": "4.25 LS",
+    "bujur": "143.07 BT",
+    "magnitudo": "6.8",
+    "kedalaman": "63 Km",
+    "wilayah": "Pusat gempa berada di darat 275 km Tenggara Keerom",
+    "warning": [
+      "III Jayapura",
+      "II Wamena",
+      "II Merauke",
+      "III Keerom",
+      "II Nabire"
+    ]
+  },
+  {
     "waktu": "23/03/2024 20:20:29 WIB",
     "lintang": "4.66 LS",
     "bujur": "102.72 BT",
@@ -292,17 +307,6 @@
       "III Minahasa Selatan",
       "II Minahasa Utara",
       "II Bolaang Mongondow"
-    ]
-  },
-  {
-    "waktu": "13/03/2024 21:53:20 WIB",
-    "lintang": "4.53 LU",
-    "bujur": "96.41 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 34 km Timur Laut Kab. Nagan Raya",
-    "warning": [
-      "II Seunagan Raya"
     ]
   }
 ]
