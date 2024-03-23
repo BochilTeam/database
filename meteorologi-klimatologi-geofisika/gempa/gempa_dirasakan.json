@@ -1,5 +1,41 @@
 [
   {
+    "waktu": "23/03/2024 20:20:29 WIB",
+    "lintang": "4.66 LS",
+    "bujur": "102.72 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di laut 31 Km Barat Daya Bengkulu Selatan",
+    "warning": [
+      "III-IV Kota Bengkulu",
+      "III-IV Empat Lawang",
+      "III Liwa",
+      "III Kepahiang",
+      "III Lebong",
+      "III Bengkulu Utara",
+      "III Mukomuko",
+      "III Enggano",
+      "III Kota Muaradua",
+      "II Semaka",
+      "II Sekincau",
+      "IV Kaur",
+      "IV Bengkulu Selatan",
+      "IV Manna"
+    ]
+  },
+  {
+    "waktu": "23/03/2024 19:57:36 WIB",
+    "lintang": "5.98 LS",
+    "bujur": "112.31 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 106 km Timur Laut Tuban",
+    "warning": [
+      "II-III Bawean",
+      "II Surabaya"
+    ]
+  },
+  {
     "waktu": "22/03/2024 15:52:58 WIB",
     "lintang": "5.76 LS",
     "bujur": "112.33 BT",
@@ -267,31 +303,6 @@
     "wilayah": "Pusat gempa berada di darat 34 km Timur Laut Kab. Nagan Raya",
     "warning": [
       "II Seunagan Raya"
-    ]
-  },
-  {
-    "waktu": "13/03/2024 18:08:44 WIB",
-    "lintang": "3.89 LS",
-    "bujur": "102.17 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 32 km BaratDaya Bengkulu Tengah",
-    "warning": [
-      "II-III Kepahiang",
-      "II-III Bengkulu Tengah",
-      "II Argamakmur"
-    ]
-  },
-  {
-    "waktu": "12/03/2024 20:10:46 WIB",
-    "lintang": "3.2 LS",
-    "bujur": "128.76 BT",
-    "magnitudo": "4",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km Utara Elpaputih",
-    "warning": [
-      "III Elpaputih",
-      "II Masohi"
     ]
   }
 ]
