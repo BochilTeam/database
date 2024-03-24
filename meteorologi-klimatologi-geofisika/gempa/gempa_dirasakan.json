@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "24/03/2024 06:47:13 WIB",
+    "lintang": "0.24 LS",
+    "bujur": "123.04 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "101 Km",
+    "wilayah": "Pusat gempa berada di laut 87 km Barat Daya Bone Bolango",
+    "warning": [
+      "II-III Gorontalo",
+      "III Bone Bolango",
+      "II-III Kota Gorontalo"
+    ]
+  },
+  {
+    "waktu": "24/03/2024 06:14:58 WIB",
+    "lintang": "5.8 LS",
+    "bujur": "112.34 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di laut 126 km Timur Laut Tuban",
+    "warning": [
+      "III-IV Bawean"
+    ]
+  },
+  {
     "waktu": "24/03/2024 03:22:07 WIB",
     "lintang": "4.25 LS",
     "bujur": "143.07 BT",
@@ -278,35 +302,6 @@
       "III Cisewu",
       "III Karangnunggal",
       "III Tasikmalaya"
-    ]
-  },
-  {
-    "waktu": "15/03/2024 08:29:19 WIB",
-    "lintang": "7.99 LS",
-    "bujur": "108.1 BT",
-    "magnitudo": "4",
-    "kedalaman": "51 Km",
-    "wilayah": "Pusat gempa berada di laut 54 Km Barat Daya Kab. Pangandaran",
-    "warning": [
-      "III Pangandaran",
-      "III Garut",
-      "III Cijulang",
-      "III Pamengpeuk",
-      "III Karangnunggal",
-      "II Pengalengan"
-    ]
-  },
-  {
-    "waktu": "14/03/2024 01:56:14 WIB",
-    "lintang": "0.21 LS",
-    "bujur": "125.24 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut laut 128 km Tenggara Tuntuyan BolTim",
-    "warning": [
-      "III Minahasa Selatan",
-      "II Minahasa Utara",
-      "II Bolaang Mongondow"
     ]
   }
 ]
