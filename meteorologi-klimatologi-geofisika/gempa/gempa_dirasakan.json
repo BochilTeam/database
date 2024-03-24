@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "24/03/2024 18:53:55 WIB",
+    "lintang": "1.53 LS",
+    "bujur": "133.36 BT",
+    "magnitudo": "5",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di darat 65 km Barat Laut. Teluk Bintuni",
+    "warning": [
+      "II-III Manokwari Selatan",
+      "II Manokwari"
+    ]
+  },
+  {
     "waktu": "24/03/2024 10:04:10 WIB",
     "lintang": "9.64 LS",
     "bujur": "122.16 BT",
@@ -293,17 +305,6 @@
     "wilayah": "Pusat gempa berada di laut 135 km Barat Laut Airbuaya-Buru",
     "warning": [
       "III Sanana"
-    ]
-  },
-  {
-    "waktu": "16/03/2024 07:49:43 WIB",
-    "lintang": "8.19 LS",
-    "bujur": "119.87 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 33 km BaratLaut Labuhan Bajo",
-    "warning": [
-      "II Labuhan Bajo"
     ]
   }
 ]

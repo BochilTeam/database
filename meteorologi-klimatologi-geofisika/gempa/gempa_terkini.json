@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24-03-24 18:53:55 WIB",
+    "lintang": "-1.53",
+    "bujur": "133.36",
+    "magnitudo": "5.0",
+    "kedalaman": "27 Km",
+    "wilayah": "65 km BaratLaut TELUKBINTUNI-PAPUABRT"
+  },
+  {
     "waktu": "24-03-24 10:04:10 WIB",
     "lintang": "-9.64",
     "bujur": "122.16",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "179 Km",
     "wilayah": "215 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "10-02-24 06:53:26 WIB",
-    "lintang": "-0.05",
-    "bujur": "135.93",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "82 km TimurLaut SUPIORI-PAPUA"
   }
 ]
