@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/03/2024 02:49:06 WIB",
+    "lintang": "4.26 LU",
+    "bujur": "96.86 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 40 km Tenggara Takengon-Aceh Tengah",
+    "warning": [
+      "II-III Gayo Lues"
+    ]
+  },
+  {
     "waktu": "24/03/2024 22:34:06 WIB",
     "lintang": "7.84 LS",
     "bujur": "108.62 BT",
@@ -294,18 +305,6 @@
     "warning": [
       "II Lumajang",
       "II Banyuwangi"
-    ]
-  },
-  {
-    "waktu": "17/03/2024 16:36:45 WIB",
-    "lintang": "9.17 LS",
-    "bujur": "119.14 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "44 Km",
-    "wilayah": "Pusat gempa berada di Laut 25 km Barat Laut TAMBOLAKA",
-    "warning": [
-      "II Bima",
-      "II Waingapu"
     ]
   }
 ]
