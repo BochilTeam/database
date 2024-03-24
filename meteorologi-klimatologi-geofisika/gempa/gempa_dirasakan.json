@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "24/03/2024 10:04:10 WIB",
+    "lintang": "9.64 LS",
+    "bujur": "122.16 BT",
+    "magnitudo": "6.1",
+    "kedalaman": "47 Km",
+    "wilayah": "Pusat gempa berada di laut 104 km Tenggara Ende",
+    "warning": [
+      "IV Ende",
+      "III-IV Larantuka",
+      "II-III Sabu",
+      "III-IV Waingapu",
+      "II Bima",
+      "III Bajawa",
+      "III Maumere"
+    ]
+  },
+  {
     "waktu": "24/03/2024 06:47:13 WIB",
     "lintang": "0.24 LS",
     "bujur": "123.04 BT",
@@ -287,21 +304,6 @@
     "wilayah": "Pusat gempa berada di Laut 33 km BaratLaut Labuhan Bajo",
     "warning": [
       "II Labuhan Bajo"
-    ]
-  },
-  {
-    "waktu": "15/03/2024 10:37:38 WIB",
-    "lintang": "8.21 LS",
-    "bujur": "108.22 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "31 Km",
-    "wilayah": "Pusat gempa berada di laut 64 Km Barat Daya Kab. Pangandaran",
-    "warning": [
-      "III Pangandaran",
-      "III Garut",
-      "III Cisewu",
-      "III Karangnunggal",
-      "III Tasikmalaya"
     ]
   }
 ]

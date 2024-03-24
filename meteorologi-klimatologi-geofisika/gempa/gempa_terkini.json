@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24-03-24 10:04:10 WIB",
+    "lintang": "-9.64",
+    "bujur": "122.16",
+    "magnitudo": "6.1",
+    "kedalaman": "47 Km",
+    "wilayah": "104 km Tenggara ENDE-NTT"
+  },
+  {
     "waktu": "23-03-24 20:20:29 WIB",
     "lintang": "-4.66",
     "bujur": "102.72",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "82 km TimurLaut SUPIORI-PAPUA"
-  },
-  {
-    "waktu": "08-02-24 22:11:34 WIB",
-    "lintang": "-5.22",
-    "bujur": "129.64",
-    "magnitudo": "5.1",
-    "kedalaman": "211 Km",
-    "wilayah": "226 km Tenggara MALUKUTENGAH"
   }
 ]
