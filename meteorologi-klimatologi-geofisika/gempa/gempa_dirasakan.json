@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "24/03/2024 22:34:06 WIB",
+    "lintang": "7.84 LS",
+    "bujur": "108.62 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "80 Km",
+    "wilayah": "Pusat gempa berada di laut 20 km Tenggara Kabupaten Pangandaran",
+    "warning": [
+      "III Pangandaran",
+      "II-III Tasikmalaya",
+      "II-III Cilacap",
+      "II Banyumas"
+    ]
+  },
+  {
     "waktu": "24/03/2024 20:19:01 WIB",
     "lintang": "8.22 LS",
     "bujur": "115.61 BT",
@@ -292,19 +306,6 @@
     "warning": [
       "II Bima",
       "II Waingapu"
-    ]
-  },
-  {
-    "waktu": "16/03/2024 15:33:56 WIB",
-    "lintang": "9.45 LS",
-    "bujur": "119.01 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "37 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km timur laut Kodi-Sumba Barat Daya",
-    "warning": [
-      "II Waingapu",
-      "II Kodi",
-      "II Bima"
     ]
   }
 ]
