@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "25/03/2024 20:54:19 WIB",
+    "lintang": "5.66 LS",
+    "bujur": "112.41 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada dilaut 143 km Timur Laut Tuban",
+    "warning": [
+      "II-III Bawean"
+    ]
+  },
+  {
+    "waktu": "25/03/2024 20:40:50 WIB",
+    "lintang": "5.47 LS",
+    "bujur": "105.24 BT",
+    "magnitudo": "2",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 3 Km BaratDaya Bandar Lampung",
+    "warning": [
+      "II Teluk Betung"
+    ]
+  },
+  {
     "waktu": "25/03/2024 20:21:38 WIB",
     "lintang": "4.64 LS",
     "bujur": "120.38 BT",
@@ -284,29 +306,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km Tenggara Mamasa",
     "warning": [
       "II Mamasa"
-    ]
-  },
-  {
-    "waktu": "21/03/2024 19:43:56 WIB",
-    "lintang": "0.25 LU",
-    "bujur": "99.98 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km Timur Laut Talu-Pasaman Barat",
-    "warning": [
-      "II-III Pasaman",
-      "II-III Pasaman Barat"
-    ]
-  },
-  {
-    "waktu": "21/03/2024 17:45:32 WIB",
-    "lintang": "4.86 LU",
-    "bujur": "94.78 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di laut 92 Km Barat Laut Calang",
-    "warning": [
-      "II Aceh Besar"
     ]
   }
 ]
