@@ -1,5 +1,43 @@
 [
   {
+    "waktu": "25/03/2024 20:21:38 WIB",
+    "lintang": "4.64 LS",
+    "bujur": "120.38 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 36 km Timur Laut Bone",
+    "warning": [
+      "III Watampone",
+      "III Mare",
+      "III Sibulue"
+    ]
+  },
+  {
+    "waktu": "25/03/2024 19:37:05 WIB",
+    "lintang": "1.58 LS",
+    "bujur": "120.21 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km Utara Doda",
+    "warning": [
+      "III Lore Utara",
+      "III Lore Peore",
+      "II-III Kulawi"
+    ]
+  },
+  {
+    "waktu": "25/03/2024 18:54:24 WIB",
+    "lintang": "1.14 LU",
+    "bujur": "113 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km Barat Laut Kapuas Hulu",
+    "warning": [
+      "III Kapuas Hulu",
+      "III Putusibau"
+    ]
+  },
+  {
     "waktu": "25/03/2024 02:55:07 WIB",
     "lintang": "4.1 LU",
     "bujur": "96.88 BT",
@@ -269,41 +307,6 @@
     "wilayah": "Pusat gempa berada di laut 92 Km Barat Laut Calang",
     "warning": [
       "II Aceh Besar"
-    ]
-  },
-  {
-    "waktu": "20/03/2024 15:24:57 WIB",
-    "lintang": "2.09 LS",
-    "bujur": "100.44 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "21 Km",
-    "wilayah": "Pusat gempa berada di laut 83 km Barat Daya Pesisir Selatan",
-    "warning": [
-      "II - III Mukomuko",
-      "II Padang",
-      "II-III Pesisir Selatan"
-    ]
-  },
-  {
-    "waktu": "20/03/2024 09:38:21 WIB",
-    "lintang": "6.95 LS",
-    "bujur": "111.46 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km TimurLaut Blora",
-    "warning": [
-      "III Kec. Jepon"
-    ]
-  },
-  {
-    "waktu": "19/03/2024 18:11:46 WIB",
-    "lintang": "10.3 LS",
-    "bujur": "123.85 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "25 Km",
-    "wilayah": "Pusat gempa berada di laut 43 km Barat Daya Kab. Kupang",
-    "warning": [
-      "II Kab. Kupang"
     ]
   }
 ]
