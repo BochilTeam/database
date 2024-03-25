@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "26/03/2024 00:36:36 WIB",
+    "lintang": "0.83 LU",
+    "bujur": "125.4 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "40 Km",
+    "wilayah": "Pusat gempa berada di laut 71 km Tenggara Ratahan",
+    "warning": [
+      "II-III Bitung",
+      "II Manado",
+      "II Tondano"
+    ]
+  },
+  {
     "waktu": "25/03/2024 20:54:19 WIB",
     "lintang": "5.66 LS",
     "bujur": "112.41 BT",
@@ -295,17 +308,6 @@
       "II - III Banjarmasin",
       "II - III Sampit",
       "II - III Barito Kuala"
-    ]
-  },
-  {
-    "waktu": "22/03/2024 06:57:03 WIB",
-    "lintang": "2.92 LS",
-    "bujur": "119.42 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km Tenggara Mamasa",
-    "warning": [
-      "II Mamasa"
     ]
   }
 ]
