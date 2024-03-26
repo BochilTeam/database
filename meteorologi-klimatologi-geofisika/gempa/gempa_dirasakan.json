@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/03/2024 21:54:10 WIB",
+    "lintang": "5.61 LS",
+    "bujur": "112.55 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 154 km TimurLaut Tuban",
+    "warning": [
+      "II-III Bawean"
+    ]
+  },
+  {
     "waktu": "26/03/2024 15:29:20 WIB",
     "lintang": "4.38 LS",
     "bujur": "122.64 BT",
@@ -224,19 +235,6 @@
       "II Bima",
       "III Bajawa",
       "III Maumere"
-    ]
-  },
-  {
-    "waktu": "24/03/2024 06:47:13 WIB",
-    "lintang": "0.24 LS",
-    "bujur": "123.04 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "101 Km",
-    "wilayah": "Pusat gempa berada di laut 87 km Barat Daya Bone Bolango",
-    "warning": [
-      "II-III Gorontalo",
-      "III Bone Bolango",
-      "II-III Kota Gorontalo"
     ]
   }
 ]
