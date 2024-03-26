@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/03/2024 15:29:20 WIB",
+    "lintang": "4.38 LS",
+    "bujur": "122.64 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat, 4.1 km TimurLaut Lainea, Kab. Konawe Selatan",
+    "warning": [
+      "II-III Konawe Selatan"
+    ]
+  },
+  {
     "waktu": "26/03/2024 14:14:12 WIB",
     "lintang": "5.73 LS",
     "bujur": "112.56 BT",
@@ -226,17 +237,6 @@
       "II-III Gorontalo",
       "III Bone Bolango",
       "II-III Kota Gorontalo"
-    ]
-  },
-  {
-    "waktu": "24/03/2024 06:14:58 WIB",
-    "lintang": "5.8 LS",
-    "bujur": "112.34 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di laut 126 km Timur Laut Tuban",
-    "warning": [
-      "III-IV Bawean"
     ]
   }
 ]
