@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "26/03/2024 14:14:12 WIB",
+    "lintang": "5.73 LS",
+    "bujur": "112.56 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 142 km Timur Laut Tuban",
+    "warning": [
+      "II Bawean"
+    ]
+  },
+  {
+    "waktu": "26/03/2024 13:07:47 WIB",
+    "lintang": "5.61 LS",
+    "bujur": "112.56 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 154 km TimurLaut Tuban",
+    "warning": [
+      "II Bawean"
+    ]
+  },
+  {
     "waktu": "26/03/2024 05:06:04 WIB",
     "lintang": "6.82 LS",
     "bujur": "108.09 BT",
@@ -215,45 +237,6 @@
     "wilayah": "Pusat gempa berada di laut 126 km Timur Laut Tuban",
     "warning": [
       "III-IV Bawean"
-    ]
-  },
-  {
-    "waktu": "24/03/2024 03:22:07 WIB",
-    "lintang": "4.25 LS",
-    "bujur": "143.07 BT",
-    "magnitudo": "6.8",
-    "kedalaman": "63 Km",
-    "wilayah": "Pusat gempa berada di darat 275 km Tenggara Keerom",
-    "warning": [
-      "III Jayapura",
-      "II Wamena",
-      "II Merauke",
-      "III Keerom",
-      "II Nabire"
-    ]
-  },
-  {
-    "waktu": "23/03/2024 20:20:29 WIB",
-    "lintang": "4.66 LS",
-    "bujur": "102.72 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada di laut 31 Km Barat Daya Bengkulu Selatan",
-    "warning": [
-      "III-IV Kota Bengkulu",
-      "III-IV Empat Lawang",
-      "III Liwa",
-      "III Kepahiang",
-      "III Lebong",
-      "III Bengkulu Utara",
-      "III Mukomuko",
-      "III Enggano",
-      "III Kota Muaradua",
-      "II Semaka",
-      "II Sekincau",
-      "IV Kaur",
-      "IV Bengkulu Selatan",
-      "IV Manna"
     ]
   }
 ]
