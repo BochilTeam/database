@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/03/2024 02:46:59 WIB",
+    "lintang": "8.5 LS",
+    "bujur": "116.87 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km BaratDaya Pulaupanjang",
+    "warning": [
+      "II Kab Sumbawa"
+    ]
+  },
+  {
     "waktu": "27/03/2024 15:10:12 WIB",
     "lintang": "2.14 LS",
     "bujur": "136.64 BT",
@@ -217,18 +228,6 @@
     "wilayah": "Pusat gempa berada di laut 17 km TimurLaut Karangasem",
     "warning": [
       "II Karangasem"
-    ]
-  },
-  {
-    "waktu": "24/03/2024 18:53:55 WIB",
-    "lintang": "1.53 LS",
-    "bujur": "133.36 BT",
-    "magnitudo": "5",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada di darat 65 km Barat Laut Teluk Bintuni",
-    "warning": [
-      "II-III Manokwari Selatan",
-      "II Manokwari"
     ]
   }
 ]
