@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/03/2024 15:10:12 WIB",
+    "lintang": "2.14 LS",
+    "bujur": "136.64 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada didarat 31km TimurLaut Waropen",
+    "warning": [
+      "II Serui"
+    ]
+  },
+  {
     "waktu": "26/03/2024 21:54:10 WIB",
     "lintang": "5.61 LS",
     "bujur": "112.55 BT",
@@ -218,23 +229,6 @@
     "warning": [
       "II-III Manokwari Selatan",
       "II Manokwari"
-    ]
-  },
-  {
-    "waktu": "24/03/2024 10:04:10 WIB",
-    "lintang": "9.64 LS",
-    "bujur": "122.16 BT",
-    "magnitudo": "6.1",
-    "kedalaman": "47 Km",
-    "wilayah": "Pusat gempa berada di laut 104 km Tenggara Ende",
-    "warning": [
-      "IV Ende",
-      "III-IV Larantuka",
-      "II-III Sabu",
-      "III-IV Waingapu",
-      "II Bima",
-      "III Bajawa",
-      "III Maumere"
     ]
   }
 ]
