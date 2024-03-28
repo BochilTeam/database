@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "28/03/2024 15:01:52 WIB",
+    "lintang": "9.3 LS",
+    "bujur": "110.17 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 153 Km BaratDaya Gunung Kidul",
+    "warning": [
+      "III Kulonprogo",
+      "II Bantul",
+      "II Pacitan",
+      "II Trenggalek",
+      "II Wonogiri",
+      "II Sleman"
+    ]
+  },
+  {
     "waktu": "28/03/2024 09:28:14 WIB",
     "lintang": "3.66 LS",
     "bujur": "116.15 BT",
@@ -214,20 +230,6 @@
     "wilayah": "Pusat gempa berada di darat 40 km Tenggara Takengon-Aceh Tengah",
     "warning": [
       "II-III Gayo Lues"
-    ]
-  },
-  {
-    "waktu": "24/03/2024 22:34:06 WIB",
-    "lintang": "7.84 LS",
-    "bujur": "108.62 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "80 Km",
-    "wilayah": "Pusat gempa berada di laut 20 km Tenggara Kabupaten Pangandaran",
-    "warning": [
-      "III Pangandaran",
-      "II-III Tasikmalaya",
-      "II-III Cilacap",
-      "II Banyumas"
     ]
   }
 ]
