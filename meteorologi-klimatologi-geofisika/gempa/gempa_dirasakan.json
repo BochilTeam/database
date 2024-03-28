@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/03/2024 09:28:14 WIB",
+    "lintang": "3.66 LS",
+    "bujur": "116.15 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 68 km Tenggara Tanah Bumbu",
+    "warning": [
+      "II-III Kotabaru"
+    ]
+  },
+  {
     "waktu": "28/03/2024 02:46:59 WIB",
     "lintang": "8.5 LS",
     "bujur": "116.87 BT",
@@ -217,17 +228,6 @@
       "II-III Tasikmalaya",
       "II-III Cilacap",
       "II Banyumas"
-    ]
-  },
-  {
-    "waktu": "24/03/2024 20:19:01 WIB",
-    "lintang": "8.22 LS",
-    "bujur": "115.61 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 17 km TimurLaut Karangasem",
-    "warning": [
-      "II Karangasem"
     ]
   }
 ]
