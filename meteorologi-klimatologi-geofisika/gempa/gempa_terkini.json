@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "30-03-24 01:06:55 WIB",
+    "lintang": "2.13",
+    "bujur": "126.96",
+    "magnitudo": "5.2",
+    "kedalaman": "95 Km",
+    "wilayah": "92 km BaratDaya PULAUDOI-MALUT"
+  },
+  {
     "waktu": "28-03-24 15:01:52 WIB",
     "lintang": "-9.30",
     "bujur": "110.17",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "134 Km",
     "wilayah": "236 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "13-02-24 07:34:11 WIB",
-    "lintang": "5.07",
-    "bujur": "125.32",
-    "magnitudo": "5.1",
-    "kedalaman": "12 Km",
-    "wilayah": "163 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
