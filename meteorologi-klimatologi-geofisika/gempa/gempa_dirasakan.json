@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "29/03/2024 21:22:42 WIB",
+    "lintang": "6.73 LS",
+    "bujur": "106.63 BT",
+    "magnitudo": "3",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 23 km Barat Daya Kota Bogor",
+    "warning": [
+      "II-III Pamijahan",
+      "II-III Kalapanunggal",
+      "II Bogor"
+    ]
+  },
+  {
     "waktu": "29/03/2024 04:23:03 WIB",
     "lintang": "5.86 LS",
     "bujur": "112.52 BT",
@@ -224,17 +237,6 @@
     "warning": [
       "III Kapuas Hulu",
       "III Putusibau"
-    ]
-  },
-  {
-    "waktu": "25/03/2024 02:55:07 WIB",
-    "lintang": "4.1 LU",
-    "bujur": "96.88 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 30 km BaratLaut Blangpidie-Aceh Barat Daya",
-    "warning": [
-      "II-III Gayo Lues"
     ]
   }
 ]
