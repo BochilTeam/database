@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/03/2024 19:06:30 WIB",
+    "lintang": "8.38 LS",
+    "bujur": "119.29 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 60 km TimurLaut Kota Bima",
+    "warning": [
+      "II Bima"
+    ]
+  },
+  {
     "waktu": "29/03/2024 21:22:42 WIB",
     "lintang": "6.73 LS",
     "bujur": "106.63 BT",
@@ -225,18 +236,6 @@
       "III Lore Utara",
       "III Lore Peore",
       "II-III Kulawi"
-    ]
-  },
-  {
-    "waktu": "25/03/2024 18:54:24 WIB",
-    "lintang": "1.14 LU",
-    "bujur": "113 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 34 km Barat Laut Kapuas Hulu",
-    "warning": [
-      "III Kapuas Hulu",
-      "III Putusibau"
     ]
   }
 ]
