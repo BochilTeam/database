@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "31/03/2024 05:59:21 WIB",
+    "lintang": "5.77 LS",
+    "bujur": "112.55 BT",
+    "magnitudo": "4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 135 km timur laut Tuban",
+    "warning": [
+      "II Bawean"
+    ]
+  },
+  {
     "waktu": "30/03/2024 19:06:30 WIB",
     "lintang": "8.38 LS",
     "bujur": "119.29 BT",
@@ -223,19 +234,6 @@
       "III Watampone",
       "III Mare",
       "III Sibulue"
-    ]
-  },
-  {
-    "waktu": "25/03/2024 19:37:05 WIB",
-    "lintang": "1.58 LS",
-    "bujur": "120.21 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km Utara Doda",
-    "warning": [
-      "III Lore Utara",
-      "III Lore Peore",
-      "II-III Kulawi"
     ]
   }
 ]
