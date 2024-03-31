@@ -11,6 +11,17 @@
     ]
   },
   {
+    "waktu": "31/03/2024 04:43:18 WIB",
+    "lintang": "5.7 LS",
+    "bujur": "112.56 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 145 km timur laut Tuban",
+    "warning": [
+      "II Bawean"
+    ]
+  },
+  {
     "waktu": "30/03/2024 19:06:30 WIB",
     "lintang": "8.38 LS",
     "bujur": "119.29 BT",
@@ -221,19 +232,6 @@
     "wilayah": "Pusat gempa berada di darat 3 Km BaratDaya Bandar Lampung",
     "warning": [
       "II Teluk Betung"
-    ]
-  },
-  {
-    "waktu": "25/03/2024 20:21:38 WIB",
-    "lintang": "4.64 LS",
-    "bujur": "120.38 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 36 km Timur Laut Bone",
-    "warning": [
-      "III Watampone",
-      "III Mare",
-      "III Sibulue"
     ]
   }
 ]
