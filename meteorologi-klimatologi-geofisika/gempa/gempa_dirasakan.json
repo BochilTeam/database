@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/04/2024 17:26:26 WIB",
+    "lintang": "5.71 LS",
+    "bujur": "112.49 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 141 km Timur Laut Tuban",
+    "warning": [
+      "II-III Bawean"
+    ]
+  },
+  {
     "waktu": "01/04/2024 06:05:19 WIB",
     "lintang": "5.73 LS",
     "bujur": "122.64 BT",
@@ -219,17 +230,6 @@
     "wilayah": "Pusat gempa berada di darat 16 Km Timur Laut Doda, Kab.Poso",
     "warning": [
       "II-III Poso"
-    ]
-  },
-  {
-    "waktu": "26/03/2024 04:05:54 WIB",
-    "lintang": "5.87 LS",
-    "bujur": "112.46 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di laut 123 km Timur Laut Tuban",
-    "warning": [
-      "II-III Bawean"
     ]
   }
 ]
