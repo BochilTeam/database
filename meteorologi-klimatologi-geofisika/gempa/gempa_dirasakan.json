@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/04/2024 06:05:19 WIB",
+    "lintang": "5.73 LS",
+    "bujur": "122.64 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut, 13.2 km BaratDaya Sampolawa",
+    "warning": [
+      "II-III Buton Selatan"
+    ]
+  },
+  {
     "waktu": "01/04/2024 03:21:20 WIB",
     "lintang": "5.71 LS",
     "bujur": "122.66 BT",
@@ -219,17 +230,6 @@
     "wilayah": "Pusat gempa berada di laut 123 km Timur Laut Tuban",
     "warning": [
       "II-III Bawean"
-    ]
-  },
-  {
-    "waktu": "26/03/2024 02:23:23 WIB",
-    "lintang": "4.09 LS",
-    "bujur": "121.86 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 2.9 km Barat Daya Loea, Kab. Kolaka",
-    "warning": [
-      "II Rate-Rate"
     ]
   }
 ]
