@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "03/04/2024 16:02:16 WIB",
+    "lintang": "5.73 LS",
+    "bujur": "112.37 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 134 km Timur Laut Tuban",
+    "warning": [
+      "II-III Surabaya",
+      "II-III Tuban",
+      "II-III Gresik",
+      "II-III Kendal",
+      "II-III Blora",
+      "II-III Bojonegoro",
+      "III-IV Bawean"
+    ]
+  },
+  {
     "waktu": "03/04/2024 01:35:48 WIB",
     "lintang": "5.67 LS",
     "bujur": "112.6 BT",
@@ -219,17 +236,6 @@
     "wilayah": "Pusat gempa berada di darat, 4.1 km TimurLaut Lainea, Kab. Konawe Selatan",
     "warning": [
       "II-III Konawe Selatan"
-    ]
-  },
-  {
-    "waktu": "26/03/2024 14:14:12 WIB",
-    "lintang": "5.73 LS",
-    "bujur": "112.56 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 142 km Timur Laut Tuban",
-    "warning": [
-      "II Bawean"
     ]
   }
 ]
