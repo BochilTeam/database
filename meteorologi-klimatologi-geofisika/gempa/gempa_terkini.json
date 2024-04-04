@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "04-04-24 13:39:53 WIB",
+    "lintang": "-0.06",
+    "bujur": "123.34",
+    "magnitudo": "5.1",
+    "kedalaman": "129 Km",
+    "wilayah": "70 km Tenggara BONEBOLANGO-GORONTALO"
+  },
+  {
     "waktu": "03-04-24 16:02:16 WIB",
     "lintang": "-5.73",
     "bujur": "112.37",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "640 Km",
     "wilayah": "43 km TimurLaut SUMENEP-JATIM"
-  },
-  {
-    "waktu": "19-02-24 22:08:55 WIB",
-    "lintang": "-7.40",
-    "bujur": "129.37",
-    "magnitudo": "5.3",
-    "kedalaman": "165 Km",
-    "wilayah": "194 km TimurLaut MALUKUBRTDAYA"
   }
 ]
