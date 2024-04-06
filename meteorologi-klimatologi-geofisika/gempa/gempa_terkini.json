@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06-04-24 15:24:31 WIB",
+    "lintang": "-3.06",
+    "bujur": "138.36",
+    "magnitudo": "5.2",
+    "kedalaman": "101 Km",
+    "wilayah": "48 km BaratLaut TOLIKARA-PAPUAPGNGN"
+  },
+  {
     "waktu": "04-04-24 13:39:53 WIB",
     "lintang": "-0.06",
     "bujur": "123.34",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "26 Km",
     "wilayah": "157 km Tenggara NIASSELATAN-SUMUT"
-  },
-  {
-    "waktu": "22-02-24 05:46:54 WIB",
-    "lintang": "-6.54",
-    "bujur": "113.97",
-    "magnitudo": "5.2",
-    "kedalaman": "640 Km",
-    "wilayah": "43 km TimurLaut SUMENEP-JATIM"
   }
 ]
