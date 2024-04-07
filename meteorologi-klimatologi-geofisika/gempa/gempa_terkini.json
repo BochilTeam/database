@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07-04-24 21:57:19 WIB",
+    "lintang": "-8.99",
+    "bujur": "118.52",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "51 km Tenggara DOMPU-NTB"
+  },
+  {
     "waktu": "06-04-24 15:24:31 WIB",
     "lintang": "-3.06",
     "bujur": "138.36",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "183 km Tenggara PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "23-02-24 14:46:30 WIB",
-    "lintang": "-0.67",
-    "bujur": "98.50",
-    "magnitudo": "5.6",
-    "kedalaman": "26 Km",
-    "wilayah": "157 km Tenggara NIASSELATAN-SUMUT"
   }
 ]

@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "07/04/2024 21:57:19 WIB",
+    "lintang": "8.99 LS",
+    "bujur": "118.52 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 51 km Tenggara Dompu",
+    "warning": [
+      "III Bima",
+      "III Dompu",
+      "III Sumbawa"
+    ]
+  },
+  {
     "waktu": "06/04/2024 15:24:31 WIB",
     "lintang": "3.06 LS",
     "bujur": "138.36 BT",
@@ -225,17 +238,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km BaratDaya Pulaupanjang",
     "warning": [
       "II Kab Sumbawa"
-    ]
-  },
-  {
-    "waktu": "27/03/2024 15:10:12 WIB",
-    "lintang": "2.14 LS",
-    "bujur": "136.64 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada didarat 31km TimurLaut Waropen",
-    "warning": [
-      "II Serui"
     ]
   }
 ]
