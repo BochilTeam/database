@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08-04-24 00:46:19 WIB",
+    "lintang": "-6.62",
+    "bujur": "103.97",
+    "magnitudo": "5.4",
+    "kedalaman": "64 Km",
+    "wilayah": "149 km BaratDaya TANGGAMUS-LAMPUNG"
+  },
+  {
     "waktu": "07-04-24 21:57:19 WIB",
     "lintang": "-8.99",
     "bujur": "118.52",
@@ -230,13 +238,5 @@
     "magnitudo": "5.7",
     "kedalaman": "10 Km",
     "wilayah": "85 km BaratDaya BAYAH-BANTEN"
-  },
-  {
-    "waktu": "24-02-24 07:51:25 WIB",
-    "lintang": "4.04",
-    "bujur": "128.57",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "183 km Tenggara PULAUKARATUNG-SULUT"
   }
 ]

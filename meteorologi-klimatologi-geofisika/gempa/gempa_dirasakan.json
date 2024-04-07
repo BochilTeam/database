@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/04/2024 00:46:19 WIB",
+    "lintang": "6.62 LS",
+    "bujur": "103.97 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "64 Km",
+    "wilayah": "Pusat gempa berada di laut 149 km Barat daya Tanggamus",
+    "warning": [
+      "II Krui"
+    ]
+  },
+  {
     "waktu": "07/04/2024 21:57:19 WIB",
     "lintang": "8.99 LS",
     "bujur": "118.52 BT",
@@ -227,17 +238,6 @@
     "wilayah": "Pusat gempa berada di darat 68 km Tenggara Tanah Bumbu",
     "warning": [
       "II-III Kotabaru"
-    ]
-  },
-  {
-    "waktu": "28/03/2024 02:46:59 WIB",
-    "lintang": "8.5 LS",
-    "bujur": "116.87 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km BaratDaya Pulaupanjang",
-    "warning": [
-      "II Kab Sumbawa"
     ]
   }
 ]
