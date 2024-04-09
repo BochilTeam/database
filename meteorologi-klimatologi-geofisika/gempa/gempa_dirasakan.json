@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "09/04/2024 16:48:01 WIB",
+    "lintang": "2.75 LU",
+    "bujur": "127.14 BT",
+    "magnitudo": "6.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 87 km Barat Laut Pulau Doi",
+    "warning": [
+      "IV Morotai Selatan",
+      "III - IV Halmahera Barat",
+      "III-IV Sofifi",
+      "II-III Halmahera Tengah",
+      "III Manado",
+      "III Kota Ternate",
+      "II Minhasa Utara"
+    ]
+  },
+  {
     "waktu": "09/04/2024 07:58:32 WIB",
     "lintang": "4.9 LS",
     "bujur": "103.01 BT",
@@ -219,17 +236,6 @@
     "magnitudo": "4",
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di laut 135 km timur laut Tuban",
-    "warning": [
-      "II Bawean"
-    ]
-  },
-  {
-    "waktu": "31/03/2024 04:43:18 WIB",
-    "lintang": "5.7 LS",
-    "bujur": "112.56 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 145 km timur laut Tuban",
     "warning": [
       "II Bawean"
     ]
