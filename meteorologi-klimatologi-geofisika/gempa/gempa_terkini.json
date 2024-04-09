@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09-04-24 07:02:53 WIB",
+    "lintang": "-1.51",
+    "bujur": "134.54",
+    "magnitudo": "6.1",
+    "kedalaman": "10 Km",
+    "wilayah": "42 km Tenggara RANSIKI-PAPUABRT"
+  },
+  {
     "waktu": "08-04-24 05:19:59 WIB",
     "lintang": "-7.68",
     "bujur": "128.18",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "119 Km",
     "wilayah": "239 km BaratDaya MALUKUTENGGARA"
-  },
-  {
-    "waktu": "25-02-24 22:04:56 WIB",
-    "lintang": "-7.54",
-    "bujur": "105.95",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "75 km BaratDaya BAYAH-BANTEN"
   }
 ]

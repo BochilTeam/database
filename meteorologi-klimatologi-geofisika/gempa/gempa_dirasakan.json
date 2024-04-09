@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "09/04/2024 07:02:53 WIB",
+    "lintang": "1.51 LS",
+    "bujur": "134.54 BT",
+    "magnitudo": "6.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 42 km Tenggara Ransiki",
+    "warning": [
+      "III-IV Ransiki",
+      "III Manokwari",
+      "II-III Biak",
+      "II-III Serui",
+      "II-III Wondama",
+      "II Nabire"
+    ]
+  },
+  {
     "waktu": "08/04/2024 20:31:32 WIB",
     "lintang": "7.31 LS",
     "bujur": "106.57 BT",
@@ -216,19 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 60 km TimurLaut Kota Bima",
     "warning": [
       "II Bima"
-    ]
-  },
-  {
-    "waktu": "29/03/2024 21:22:42 WIB",
-    "lintang": "6.73 LS",
-    "bujur": "106.63 BT",
-    "magnitudo": "3",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 23 km Barat Daya Kota Bogor",
-    "warning": [
-      "II-III Pamijahan",
-      "II-III Kalapanunggal",
-      "II Bogor"
     ]
   }
 ]
