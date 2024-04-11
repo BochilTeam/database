@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/04/2024 14:55:28 WIB",
+    "lintang": "3.15 LS",
+    "bujur": "135.64 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 28 km TimurLaut Nabire",
+    "warning": [
+      "II Nabire"
+    ]
+  },
+  {
     "waktu": "09/04/2024 16:48:01 WIB",
     "lintang": "2.75 LU",
     "bujur": "127.14 BT",
@@ -227,17 +238,6 @@
     "wilayah": "Pusat gempa berada di darat 5km Barat Laut TANAH LAUT",
     "warning": [
       "I-II Pelaihari"
-    ]
-  },
-  {
-    "waktu": "31/03/2024 05:59:21 WIB",
-    "lintang": "5.77 LS",
-    "bujur": "112.55 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 135 km timur laut Tuban",
-    "warning": [
-      "II Bawean"
     ]
   }
 ]
