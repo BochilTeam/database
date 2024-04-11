@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/04/2024 22:50:23 WIB",
+    "lintang": "2.72 LS",
+    "bujur": "129.39 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 14 km barat laut Wahai-Maluku Tengah",
+    "warning": [
+      "III Seram Utara"
+    ]
+  },
+  {
     "waktu": "11/04/2024 21:42:57 WIB",
     "lintang": "8.12 LS",
     "bujur": "115.27 BT",
@@ -227,17 +238,6 @@
     "wilayah": "Pusat gempa berada di laut 10.2 km barat daya Sampolawa, Kab. Buton",
     "warning": [
       "II-III Buton Selatan"
-    ]
-  },
-  {
-    "waktu": "31/03/2024 20:09:45 WIB",
-    "lintang": "5.7 LS",
-    "bujur": "112.37 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 138km Timur Laut TUBAN",
-    "warning": [
-      "II-III Bawean"
     ]
   }
 ]
