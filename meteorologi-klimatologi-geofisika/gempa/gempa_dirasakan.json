@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/04/2024 21:42:57 WIB",
+    "lintang": "8.12 LS",
+    "bujur": "115.27 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 19 km Tenggara Buleleng",
+    "warning": [
+      "III Buleleng"
+    ]
+  },
+  {
     "waktu": "11/04/2024 14:55:28 WIB",
     "lintang": "3.15 LS",
     "bujur": "135.64 BT",
@@ -227,17 +238,6 @@
     "wilayah": "Pusat gempa berada di laut 138km Timur Laut TUBAN",
     "warning": [
       "II-III Bawean"
-    ]
-  },
-  {
-    "waktu": "31/03/2024 13:09:31 WIB",
-    "lintang": "3.73 LS",
-    "bujur": "114.78 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5km Barat Laut TANAH LAUT",
-    "warning": [
-      "I-II Pelaihari"
     ]
   }
 ]
