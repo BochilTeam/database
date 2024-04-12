@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/04/2024 21:43:40 WIB",
+    "lintang": "5.69 LS",
+    "bujur": "112.57 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 146 km timur laut Tuban",
+    "warning": [
+      "II Bawean"
+    ]
+  },
+  {
     "waktu": "11/04/2024 22:50:23 WIB",
     "lintang": "2.72 LS",
     "bujur": "129.39 BT",
@@ -225,17 +236,6 @@
     "magnitudo": "3.3",
     "kedalaman": "5 Km",
     "wilayah": "Pusat gempa berada di laut, 13.2 km BaratDaya Sampolawa",
-    "warning": [
-      "II-III Buton Selatan"
-    ]
-  },
-  {
-    "waktu": "01/04/2024 03:21:20 WIB",
-    "lintang": "5.71 LS",
-    "bujur": "122.66 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 10.2 km barat daya Sampolawa, Kab. Buton",
     "warning": [
       "II-III Buton Selatan"
     ]
