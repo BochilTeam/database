@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-04-24 23:40:55 WIB",
+    "lintang": "2.18",
+    "bujur": "126.72",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "118 km BaratDaya PULAUDOI-MALUT"
+  },
+  {
     "waktu": "09-04-24 16:48:01 WIB",
     "lintang": "2.75",
     "bujur": "127.14",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "253 km BaratDaya JEMBER-JATIM"
-  },
-  {
-    "waktu": "27-02-24 11:49:13 WIB",
-    "lintang": "-9.71",
-    "bujur": "125.05",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "25 km Tenggara MALAKA-NTT"
   }
 ]
