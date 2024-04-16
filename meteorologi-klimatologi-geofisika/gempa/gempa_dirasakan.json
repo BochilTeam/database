@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/04/2024 23:10:22 WIB",
+    "lintang": "2.55 LS",
+    "bujur": "120.79 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di darat 42 km BaratLaut Luwu Timur",
+    "warning": [
+      "II Mangkutana"
+    ]
+  },
+  {
     "waktu": "16/04/2024 10:18:23 WIB",
     "lintang": "7.37 LS",
     "bujur": "106.07 BT",
@@ -230,17 +241,6 @@
     "wilayah": "Pusat gempa berada di laut 150 km TimurLaut TUBAN",
     "warning": [
       "II - III Bawean"
-    ]
-  },
-  {
-    "waktu": "02/04/2024 21:05:23 WIB",
-    "lintang": "1.38 LS",
-    "bujur": "115.52 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada didarat 54Km BaratLaut Tabalong",
-    "warning": [
-      "II Banjarmasin"
     ]
   }
 ]
