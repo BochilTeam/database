@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "16/04/2024 10:18:23 WIB",
+    "lintang": "7.37 LS",
+    "bujur": "106.07 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di Laut 52 Km Barat Daya Bayah",
+    "warning": [
+      "II Cibadak",
+      "II Kalapanunggal",
+      "II Pelabuhan Ratu",
+      "II Surade",
+      "II Ciracap"
+    ]
+  },
+  {
     "waktu": "14/04/2024 15:57:36 WIB",
     "lintang": "3 LU",
     "bujur": "97.42 BT",
@@ -226,18 +241,6 @@
     "wilayah": "Pusat gempa berada didarat 54Km BaratLaut Tabalong",
     "warning": [
       "II Banjarmasin"
-    ]
-  },
-  {
-    "waktu": "01/04/2024 19:43:23 WIB",
-    "lintang": "3.47 LS",
-    "bujur": "120.35 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km Tenggara Luwu",
-    "warning": [
-      "II-III Bajo",
-      "II-III Belopa"
     ]
   }
 ]

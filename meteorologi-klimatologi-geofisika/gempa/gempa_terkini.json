@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16-04-24 10:07:14 WIB",
+    "lintang": "-7.30",
+    "bujur": "124.99",
+    "magnitudo": "5.0",
+    "kedalaman": "521 Km",
+    "wilayah": "120 km TimurLaut ALOR-NTT"
+  },
+  {
     "waktu": "13-04-24 23:40:55 WIB",
     "lintang": "2.18",
     "bujur": "126.72",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "22 km Tenggara YAHUKIMO-PAPUAPGNGN"
-  },
-  {
-    "waktu": "01-03-24 03:19:45 WIB",
-    "lintang": "-10.48",
-    "bujur": "113.62",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "253 km BaratDaya JEMBER-JATIM"
   }
 ]
