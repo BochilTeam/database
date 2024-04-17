@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-04-24 15:15:03 WIB",
+    "lintang": "-5.58",
+    "bujur": "112.40",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "151 km TimurLaut TUBAN-JATIM"
+  },
+  {
     "waktu": "16-04-24 10:07:14 WIB",
     "lintang": "-7.30",
     "bujur": "124.99",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "17 Km",
     "wilayah": "45 km BaratDaya KAUR-BENGKULU"
-  },
-  {
-    "waktu": "01-03-24 14:06:38 WIB",
-    "lintang": "-4.70",
-    "bujur": "139.54",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "22 km Tenggara YAHUKIMO-PAPUAPGNGN"
   }
 ]
