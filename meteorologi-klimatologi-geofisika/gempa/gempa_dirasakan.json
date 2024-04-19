@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "19/04/2024 14:22:55 WIB",
+    "lintang": "2.93 LS",
+    "bujur": "119.4 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Mamasa",
+    "warning": [
+      "III Mamasa"
+    ]
+  },
+  {
     "waktu": "18/04/2024 13:03:40 WIB",
     "lintang": "0.69 LS",
     "bujur": "133.53 BT",
@@ -226,17 +237,6 @@
     "wilayah": "Pusat gempa berada di laut 13 km BaratDaya Dompu",
     "warning": [
       "II Dompu"
-    ]
-  },
-  {
-    "waktu": "08/04/2024 00:46:19 WIB",
-    "lintang": "6.62 LS",
-    "bujur": "103.97 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "64 Km",
-    "wilayah": "Pusat gempa berada di laut 149 km Barat daya Tanggamus",
-    "warning": [
-      "II Krui"
     ]
   }
 ]
