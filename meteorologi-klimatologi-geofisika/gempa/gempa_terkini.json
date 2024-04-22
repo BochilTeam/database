@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22-04-24 18:10:47 WIB",
+    "lintang": "-9.11",
+    "bujur": "111.31",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "105 km Tenggara PACITAN-JATIM"
+  },
+  {
     "waktu": "22-04-24 12:34:12 WIB",
     "lintang": "-6.33",
     "bujur": "130.86",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "170 Km",
     "wilayah": "195 km BaratLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "04-03-24 09:48:23 WIB",
-    "lintang": "-5.73",
-    "bujur": "102.22",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "43 km BaratDaya ENGGANO-BENGKULU"
   }
 ]

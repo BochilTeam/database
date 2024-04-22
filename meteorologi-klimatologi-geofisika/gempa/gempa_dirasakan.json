@@ -1,5 +1,35 @@
 [
   {
+    "waktu": "22/04/2024 18:18:48 WIB",
+    "lintang": "0.54 LU",
+    "bujur": "123.93 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "247 Km",
+    "wilayah": "Pusat gempa berada di darat 19 km Barat Laut Bolaanguki",
+    "warning": [
+      "I-II Kota Gorontalo"
+    ]
+  },
+  {
+    "waktu": "22/04/2024 18:10:47 WIB",
+    "lintang": "9.11 LS",
+    "bujur": "111.31 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 105 km Tenggara Pacitan",
+    "warning": [
+      "II-III Pacitan",
+      "II-III Trenggalek",
+      "II-III Gunung Kidul",
+      "II Bantul",
+      "II Kota Yogyakarta",
+      "II Kulonprogo",
+      "II Blitar",
+      "II Blora",
+      "II-III Wonogiri"
+    ]
+  },
+  {
     "waktu": "22/04/2024 16:05:16 WIB",
     "lintang": "7.1 LS",
     "bujur": "111.85 BT",
@@ -211,34 +241,6 @@
     "wilayah": "Pusat gempa berada di darat 28 km TimurLaut Nabire",
     "warning": [
       "II Nabire"
-    ]
-  },
-  {
-    "waktu": "09/04/2024 16:48:01 WIB",
-    "lintang": "2.75 LU",
-    "bujur": "127.14 BT",
-    "magnitudo": "6.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 87 km Barat Laut Pulau Doi",
-    "warning": [
-      "IV Morotai Selatan",
-      "III - IV Halmahera Barat",
-      "III-IV Sofifi",
-      "II-III Halmahera Tengah",
-      "III Manado",
-      "III Kota Ternate",
-      "II Minhasa Utara"
-    ]
-  },
-  {
-    "waktu": "09/04/2024 07:58:32 WIB",
-    "lintang": "4.9 LS",
-    "bujur": "103.01 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "33 Km",
-    "wilayah": "Pusat gempa berada dilaut 39 km Barat Daya Kaur",
-    "warning": [
-      "II Liwa"
     ]
   }
 ]
