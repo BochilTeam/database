@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/04/2024 10:03:13 WIB",
+    "lintang": "1.09 LU",
+    "bujur": "127.02 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 49 km Baratlaut Jailolo",
+    "warning": [
+      "III-IV Ternate"
+    ]
+  },
+  {
     "waktu": "22/04/2024 07:48:02 WIB",
     "lintang": "8.38 LS",
     "bujur": "109.24 BT",
@@ -230,18 +241,6 @@
     "wilayah": "Pusat gempa berada di darat 35 km Tenggara Kab.Sukabumi",
     "warning": [
       "II Sukabumi"
-    ]
-  },
-  {
-    "waktu": "08/04/2024 14:07:59 WIB",
-    "lintang": "7.26 LS",
-    "bujur": "107.64 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 28 km BaratDaya KAB-GARUT",
-    "warning": [
-      "II Kec. Majalaya",
-      "II Kec. Kertasari"
     ]
   }
 ]
