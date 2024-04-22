@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "22/04/2024 07:48:02 WIB",
+    "lintang": "8.38 LS",
+    "bujur": "109.24 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "39 Km",
+    "wilayah": "Pusat gempa berada di laut 77 Km Tenggara Cilacap",
+    "warning": [
+      "III Pangandaran",
+      "III Ciamis",
+      "II Bantul",
+      "II Cilacap",
+      "II Kebumen",
+      "II Banjarnegara"
+    ]
+  },
+  {
     "waktu": "19/04/2024 14:22:55 WIB",
     "lintang": "2.93 LS",
     "bujur": "119.4 BT",
@@ -226,17 +242,6 @@
     "warning": [
       "II Kec. Majalaya",
       "II Kec. Kertasari"
-    ]
-  },
-  {
-    "waktu": "08/04/2024 09:50:53 WIB",
-    "lintang": "8.63 LS",
-    "bujur": "118.39 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "117 Km",
-    "wilayah": "Pusat gempa berada di laut 13 km BaratDaya Dompu",
-    "warning": [
-      "II Dompu"
     ]
   }
 ]
