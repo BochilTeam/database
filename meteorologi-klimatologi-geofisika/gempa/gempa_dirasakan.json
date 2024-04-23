@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/04/2024 23:48:15 WIB",
+    "lintang": "0.82 LS",
+    "bujur": "127.39 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 23 Km Barat Daya Labuha",
+    "warning": [
+      "III Labuha"
+    ]
+  },
+  {
     "waktu": "22/04/2024 18:18:48 WIB",
     "lintang": "0.54 LU",
     "bujur": "123.93 BT",
@@ -230,17 +241,6 @@
     "wilayah": "Pusat gempa berada di darat 19 km Tenggara Buleleng",
     "warning": [
       "III Buleleng"
-    ]
-  },
-  {
-    "waktu": "11/04/2024 14:55:28 WIB",
-    "lintang": "3.15 LS",
-    "bujur": "135.64 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 28 km TimurLaut Nabire",
-    "warning": [
-      "II Nabire"
     ]
   }
 ]
