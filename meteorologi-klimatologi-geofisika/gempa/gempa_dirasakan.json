@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "25/04/2024 00:01:02 WIB",
+    "lintang": "0.19 LU",
+    "bujur": "122.57 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "156 Km",
+    "wilayah": "Pusat gempa berada di laut 45 km Tenggara Boalemo",
+    "warning": [
+      "III-IV Gorontalo",
+      "IV Kab. Bone Bolango",
+      "III-IV Kab. Gorontalo"
+    ]
+  },
+  {
+    "waktu": "24/04/2024 23:27:52 WIB",
+    "lintang": "2.36 LS",
+    "bujur": "120.97 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 33 km barat laut Luwu Timur",
+    "warning": [
+      "II-III Mangkutana"
+    ]
+  },
+  {
     "waktu": "24/04/2024 12:41:50 WIB",
     "lintang": "5.89 LS",
     "bujur": "112.49 BT",
@@ -219,28 +243,6 @@
     "wilayah": "Pusat gempa berada di laut 118 km barat daya Pulaudoi",
     "warning": [
       "II-III Manado"
-    ]
-  },
-  {
-    "waktu": "12/04/2024 21:43:40 WIB",
-    "lintang": "5.69 LS",
-    "bujur": "112.57 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 146 km timur laut Tuban",
-    "warning": [
-      "II Bawean"
-    ]
-  },
-  {
-    "waktu": "11/04/2024 22:50:23 WIB",
-    "lintang": "2.72 LS",
-    "bujur": "129.39 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 14 km barat laut Wahai-Maluku Tengah",
-    "warning": [
-      "III Seram Utara"
     ]
   }
 ]

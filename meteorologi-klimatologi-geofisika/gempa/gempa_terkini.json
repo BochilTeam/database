@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25-04-24 00:01:02 WIB",
+    "lintang": "0.19",
+    "bujur": "122.57",
+    "magnitudo": "5.3",
+    "kedalaman": "156 Km",
+    "wilayah": "45 km Tenggara BOALEMO-GORONTALO"
+  },
+  {
     "waktu": "22-04-24 18:10:47 WIB",
     "lintang": "-9.11",
     "bujur": "111.31",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "54 Km",
     "wilayah": "108 km BaratLaut KEP.ARU-MALUKU"
-  },
-  {
-    "waktu": "05-03-24 04:15:22 WIB",
-    "lintang": "5.86",
-    "bujur": "125.71",
-    "magnitudo": "5.2",
-    "kedalaman": "170 Km",
-    "wilayah": "195 km BaratLaut PULAUKARATUNG-SULUT"
   }
 ]
