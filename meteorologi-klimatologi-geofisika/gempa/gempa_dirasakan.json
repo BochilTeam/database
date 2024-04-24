@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/04/2024 12:41:50 WIB",
+    "lintang": "5.89 LS",
+    "bujur": "112.49 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 122 Km Timur Laut Tuban",
+    "warning": [
+      "III-IV Bawean"
+    ]
+  },
+  {
     "waktu": "23/04/2024 23:48:15 WIB",
     "lintang": "0.82 LS",
     "bujur": "127.39 BT",
@@ -230,17 +241,6 @@
     "wilayah": "Pusat gempa berada di laut 14 km barat laut Wahai-Maluku Tengah",
     "warning": [
       "III Seram Utara"
-    ]
-  },
-  {
-    "waktu": "11/04/2024 21:42:57 WIB",
-    "lintang": "8.12 LS",
-    "bujur": "115.27 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 19 km Tenggara Buleleng",
-    "warning": [
-      "III Buleleng"
     ]
   }
 ]
