@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/04/2024 20:14:31 WIB",
+    "lintang": "3.3 LS",
+    "bujur": "128.38 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km Tenggara Piru-SBB",
+    "warning": [
+      "III Kairatu"
+    ]
+  },
+  {
     "waktu": "25/04/2024 15:54:46 WIB",
     "lintang": "3.35 LS",
     "bujur": "128.37 BT",
@@ -228,21 +239,6 @@
     "wilayah": "Pusat gempa berada di darat 42 km BaratLaut Luwu Timur",
     "warning": [
       "II Mangkutana"
-    ]
-  },
-  {
-    "waktu": "16/04/2024 10:18:23 WIB",
-    "lintang": "7.37 LS",
-    "bujur": "106.07 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di Laut 52 Km Barat Daya Bayah",
-    "warning": [
-      "II Cibadak",
-      "II Kalapanunggal",
-      "II Pelabuhan Ratu",
-      "II Surade",
-      "II Ciracap"
     ]
   }
 ]
