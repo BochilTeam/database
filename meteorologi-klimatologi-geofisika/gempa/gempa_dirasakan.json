@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/04/2024 14:06:39 WIB",
+    "lintang": "3.34 LS",
+    "bujur": "128.37 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km Timur Kairatu-SBB",
+    "warning": [
+      "III Kairatu"
+    ]
+  },
+  {
     "waktu": "25/04/2024 00:01:02 WIB",
     "lintang": "0.19 LU",
     "bujur": "122.57 BT",
@@ -232,17 +243,6 @@
     "wilayah": "Pusat gempa berada di darat 37 km Tenggara Kab. Aceh Selatan",
     "warning": [
       "III-IV Aceh Selatan"
-    ]
-  },
-  {
-    "waktu": "13/04/2024 23:40:55 WIB",
-    "lintang": "2.18 LU",
-    "bujur": "126.72 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 118 km barat daya Pulaudoi",
-    "warning": [
-      "II-III Manado"
     ]
   }
 ]
