@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/04/2024 16:57:10 WIB",
+    "lintang": "2.91 LS",
+    "bujur": "119.41 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 9 Km Timur Laut Mamasa",
+    "warning": [
+      "III Mamasa"
+    ]
+  },
+  {
     "waktu": "25/04/2024 20:14:31 WIB",
     "lintang": "3.3 LS",
     "bujur": "128.38 BT",
@@ -228,17 +239,6 @@
     "wilayah": "Pusat gempa berada di laut 49 km tenggara Ransiki",
     "warning": [
       "II Manokwari"
-    ]
-  },
-  {
-    "waktu": "16/04/2024 23:10:22 WIB",
-    "lintang": "2.55 LS",
-    "bujur": "120.79 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di darat 42 km BaratLaut Luwu Timur",
-    "warning": [
-      "II Mangkutana"
     ]
   }
 ]
