@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26-04-24 20:43:18 WIB",
+    "lintang": "-10.62",
+    "bujur": "115.05",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "203 km BaratDaya KUTASELATAN-BALI"
+  },
+  {
     "waktu": "25-04-24 00:01:02 WIB",
     "lintang": "0.19",
     "bujur": "122.57",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "80 Km",
     "wilayah": "188 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "07-03-24 06:57:00 WIB",
-    "lintang": "-4.79",
-    "bujur": "134.12",
-    "magnitudo": "5.3",
-    "kedalaman": "54 Km",
-    "wilayah": "108 km BaratLaut KEP.ARU-MALUKU"
   }
 ]
