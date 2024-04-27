@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "27/04/2024 20:22:59 WIB",
+    "lintang": "6.83 LS",
+    "bujur": "107 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km TimurLaut Kota Sukabumi",
+    "warning": [
+      "III Cianjur",
+      "III Sukabumi"
+    ]
+  },
+  {
     "waktu": "27/04/2024 15:27:12 WIB",
     "lintang": "7.14 LS",
     "bujur": "105.35 BT",
@@ -232,21 +244,6 @@
     "wilayah": "Pusat gempa berada didarat 32 km Timurlaut Luwu Timur",
     "warning": [
       "II-III Sorowako"
-    ]
-  },
-  {
-    "waktu": "17/04/2024 15:15:03 WIB",
-    "lintang": "5.58 LS",
-    "bujur": "112.4 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 151 km TimurLaut Tuban",
-    "warning": [
-      "II-III Bawean",
-      "II-III Gresik",
-      "II-III Surabaya",
-      "II Blora",
-      "II-III Tuban"
     ]
   }
 ]
