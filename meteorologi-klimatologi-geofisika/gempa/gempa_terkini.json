@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27-04-24 17:46:30 WIB",
+    "lintang": "-6.39",
+    "bujur": "130.26",
+    "magnitudo": "5.2",
+    "kedalaman": "179 Km",
+    "wilayah": "210 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "26-04-24 20:43:18 WIB",
     "lintang": "-10.62",
     "bujur": "115.05",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "143 Km",
     "wilayah": "173 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "10-03-24 10:05:04 WIB",
-    "lintang": "-7.48",
-    "bujur": "129.35",
-    "magnitudo": "5.2",
-    "kedalaman": "80 Km",
-    "wilayah": "188 km TimurLaut MALUKUBRTDAYA"
   }
 ]
