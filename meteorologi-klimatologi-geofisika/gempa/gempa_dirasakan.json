@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "27/04/2024 12:07:08 WIB",
+    "lintang": "0.57 LU",
+    "bujur": "122.35 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "63 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km TimurLaut Boalemo-Gorontalo",
+    "warning": [
+      "III-IV Boalemo",
+      "III Kabupaten Gorontalo",
+      "III Kabupaten Bone-Bolango",
+      "II-III Kota Gorontalo"
+    ]
+  },
+  {
     "waktu": "26/04/2024 16:57:10 WIB",
     "lintang": "2.91 LS",
     "bujur": "119.41 BT",
@@ -228,17 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km Tenggara Teluk Wondama",
     "warning": [
       "II-III Wondama"
-    ]
-  },
-  {
-    "waktu": "17/04/2024 10:55:39 WIB",
-    "lintang": "1.53 LS",
-    "bujur": "134.61 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di laut 49 km tenggara Ransiki",
-    "warning": [
-      "II Manokwari"
     ]
   }
 ]
