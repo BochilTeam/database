@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "27/04/2024 15:27:12 WIB",
+    "lintang": "7.14 LS",
+    "bujur": "105.35 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 58 km BaratDaya Sumur",
+    "warning": [
+      "III Lebak",
+      "II-III Tangerang",
+      "II-III Tangerang Selatan",
+      "II-III Jakarta Selatan",
+      "II-III Bogor",
+      "II Sukabumi"
+    ]
+  },
+  {
     "waktu": "27/04/2024 12:07:08 WIB",
     "lintang": "0.57 LU",
     "bujur": "122.35 BT",
@@ -231,17 +247,6 @@
       "II-III Surabaya",
       "II Blora",
       "II-III Tuban"
-    ]
-  },
-  {
-    "waktu": "17/04/2024 13:35:44 WIB",
-    "lintang": "2.73 LS",
-    "bujur": "134.55 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km Tenggara Teluk Wondama",
-    "warning": [
-      "II-III Wondama"
     ]
   }
 ]
