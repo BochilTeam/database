@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/04/2024 06:35:50 WIB",
+    "lintang": "3.73 LU",
+    "bujur": "126.72 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 30 km tenggara Melonguane",
+    "warning": [
+      "II-III Kabupaten Kepulauan Talaud"
+    ]
+  },
+  {
     "waktu": "27/04/2024 23:29:47 WIB",
     "lintang": "8.42 LS",
     "bujur": "107.26 BT",
@@ -247,17 +258,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km Tenggara Mamasa",
     "warning": [
       "III Mamasa"
-    ]
-  },
-  {
-    "waktu": "18/04/2024 13:03:40 WIB",
-    "lintang": "0.69 LS",
-    "bujur": "133.53 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di darat 54 km timur laut Kebar, Manokwari",
-    "warning": [
-      "II-III Kebar"
     ]
   }
 ]
