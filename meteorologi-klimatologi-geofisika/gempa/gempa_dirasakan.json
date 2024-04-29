@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "29/04/2024 06:38:09 WIB",
+    "lintang": "8.15 LS",
+    "bujur": "107.88 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "23 Km",
+    "wilayah": "Pusat gempa berada di laut 84 km Barat Daya",
+    "warning": [
+      "III Taraju",
+      "III Cibalong",
+      "III Cipatujah",
+      "III Pamengkuk",
+      "III Pangandaran",
+      "II Cikajang",
+      "II Cisurupan"
+    ]
+  },
+  {
     "waktu": "28/04/2024 06:35:50 WIB",
     "lintang": "3.73 LU",
     "bujur": "126.72 BT",
@@ -247,17 +264,6 @@
       "II Cilacap",
       "II Kebumen",
       "II Banjarnegara"
-    ]
-  },
-  {
-    "waktu": "19/04/2024 14:22:55 WIB",
-    "lintang": "2.93 LS",
-    "bujur": "119.4 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km Tenggara Mamasa",
-    "warning": [
-      "III Mamasa"
     ]
   }
 ]
