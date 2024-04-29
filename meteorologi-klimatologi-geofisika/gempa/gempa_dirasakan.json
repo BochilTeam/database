@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/04/2024 02:43:35 WIB",
+    "lintang": "2.57 LS",
+    "bujur": "140.61 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km Barat Daya Kota Jayapura",
+    "warning": [
+      "III Jayapura"
+    ]
+  },
+  {
     "waktu": "29/04/2024 06:38:09 WIB",
     "lintang": "8.15 LS",
     "bujur": "107.88 BT",
@@ -248,22 +259,6 @@
     "wilayah": "Pusat gempa berada di laut 49 km Baratlaut Jailolo",
     "warning": [
       "III-IV Ternate"
-    ]
-  },
-  {
-    "waktu": "22/04/2024 07:48:02 WIB",
-    "lintang": "8.38 LS",
-    "bujur": "109.24 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "39 Km",
-    "wilayah": "Pusat gempa berada di laut 77 Km Tenggara Cilacap",
-    "warning": [
-      "III Pangandaran",
-      "III Ciamis",
-      "II Bantul",
-      "II Cilacap",
-      "II Kebumen",
-      "II Banjarnegara"
     ]
   }
 ]
