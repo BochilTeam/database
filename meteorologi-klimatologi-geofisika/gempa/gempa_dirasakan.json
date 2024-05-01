@@ -18,6 +18,17 @@
     ]
   },
   {
+    "waktu": "01/05/2024 20:11:49 WIB",
+    "lintang": "3.23 LS",
+    "bujur": "135.65 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km Timur Laut Nabire",
+    "warning": [
+      "III-IV Nabire"
+    ]
+  },
+  {
     "waktu": "01/05/2024 10:06:10 WIB",
     "lintang": "7.2 LS",
     "bujur": "107.57 BT",
@@ -256,18 +267,6 @@
       "II Blitar",
       "II Blora",
       "II-III Wonogiri"
-    ]
-  },
-  {
-    "waktu": "22/04/2024 16:05:16 WIB",
-    "lintang": "7.1 LS",
-    "bujur": "111.85 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km BaratLaut Bojonegoro",
-    "warning": [
-      "II-III Tuban",
-      "III Bojonegoro"
     ]
   }
 ]
