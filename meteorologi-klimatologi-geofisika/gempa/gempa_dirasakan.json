@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "01/05/2024 10:06:10 WIB",
+    "lintang": "7.2 LS",
+    "bujur": "107.57 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 20 km Tenggara KAB-BANDUNG",
+    "warning": [
+      "III Majalaya",
+      "III Cibereum",
+      "III Pangalengan",
+      "III Garut",
+      "II Soreang"
+    ]
+  },
+  {
     "waktu": "30/04/2024 02:43:35 WIB",
     "lintang": "2.57 LS",
     "bujur": "140.61 BT",
@@ -248,17 +263,6 @@
       "III Pesisir Selatan",
       "III Padang",
       "II Kerinci"
-    ]
-  },
-  {
-    "waktu": "22/04/2024 10:03:13 WIB",
-    "lintang": "1.09 LU",
-    "bujur": "127.02 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 49 km Baratlaut Jailolo",
-    "warning": [
-      "III-IV Ternate"
     ]
   }
 ]
