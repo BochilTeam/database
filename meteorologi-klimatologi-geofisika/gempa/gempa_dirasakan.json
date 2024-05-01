@@ -1,5 +1,23 @@
 [
   {
+    "waktu": "01/05/2024 20:35:01 WIB",
+    "lintang": "7.82 LS",
+    "bujur": "107.26 BT",
+    "magnitudo": "4",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada dilaut 93 km BaratDaya KAB-BANDUNG",
+    "warning": [
+      "III Cidora",
+      "III Pamengpeuk",
+      "III Cisewu",
+      "III Bungbulang",
+      "III Singaparna",
+      "III Talegong",
+      "II Cikajang",
+      "II Pamulihan"
+    ]
+  },
+  {
     "waktu": "01/05/2024 10:06:10 WIB",
     "lintang": "7.2 LS",
     "bujur": "107.57 BT",
@@ -250,19 +268,6 @@
     "warning": [
       "II-III Tuban",
       "III Bojonegoro"
-    ]
-  },
-  {
-    "waktu": "22/04/2024 13:06:05 WIB",
-    "lintang": "2.04 LS",
-    "bujur": "100.65 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada di laut 30 Km Baratdaya Airhaji Pesisir Selatan",
-    "warning": [
-      "III Pesisir Selatan",
-      "III Padang",
-      "II Kerinci"
     ]
   }
 ]
