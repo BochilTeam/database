@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/05/2024 18:59:06 WIB",
+    "lintang": "2.82 LS",
+    "bujur": "126.66 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km timur laut Air Buaya -",
+    "warning": [
+      "II Namlea"
+    ]
+  },
+  {
     "waktu": "02/05/2024 18:03:13 WIB",
     "lintang": "5.78 LS",
     "bujur": "112.33 BT",
@@ -248,17 +259,6 @@
     "wilayah": "Pusat gempa berada di Laut 23 Km Barat Daya Labuha",
     "warning": [
       "III Labuha"
-    ]
-  },
-  {
-    "waktu": "22/04/2024 18:18:48 WIB",
-    "lintang": "0.54 LU",
-    "bujur": "123.93 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "247 Km",
-    "wilayah": "Pusat gempa berada di darat 19 km Barat Laut Bolaanguki",
-    "warning": [
-      "I-II Kota Gorontalo"
     ]
   }
 ]
