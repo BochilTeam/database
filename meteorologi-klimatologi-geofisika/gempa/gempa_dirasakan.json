@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/05/2024 18:03:13 WIB",
+    "lintang": "5.78 LS",
+    "bujur": "112.33 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di laut 128 km TimurLaut Tuban",
+    "warning": [
+      "II - III Bawean"
+    ]
+  },
+  {
     "waktu": "01/05/2024 20:35:01 WIB",
     "lintang": "7.82 LS",
     "bujur": "107.26 BT",
@@ -248,25 +259,6 @@
     "wilayah": "Pusat gempa berada di darat 19 km Barat Laut Bolaanguki",
     "warning": [
       "I-II Kota Gorontalo"
-    ]
-  },
-  {
-    "waktu": "22/04/2024 18:10:47 WIB",
-    "lintang": "9.11 LS",
-    "bujur": "111.31 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 105 km Tenggara Pacitan",
-    "warning": [
-      "II-III Pacitan",
-      "II-III Trenggalek",
-      "II-III Gunung Kidul",
-      "II Bantul",
-      "II Kota Yogyakarta",
-      "II Kulonprogo",
-      "II Blitar",
-      "II Blora",
-      "II-III Wonogiri"
     ]
   }
 ]
