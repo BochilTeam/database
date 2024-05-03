@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/05/2024 16:48:59 WIB",
+    "lintang": "4 LS",
+    "bujur": "122.63 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 3.9 km Barat Laut Moramo Utara, kab.",
+    "warning": [
+      "III Kendari"
+    ]
+  },
+  {
     "waktu": "02/05/2024 18:59:06 WIB",
     "lintang": "2.82 LS",
     "bujur": "126.66 BT",
@@ -248,17 +259,6 @@
     "wilayah": "Pusat gempa berada di laut 122 Km Timur Laut Tuban",
     "warning": [
       "III-IV Bawean"
-    ]
-  },
-  {
-    "waktu": "23/04/2024 23:48:15 WIB",
-    "lintang": "0.82 LS",
-    "bujur": "127.39 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 23 Km Barat Daya Labuha",
-    "warning": [
-      "III Labuha"
     ]
   }
 ]
