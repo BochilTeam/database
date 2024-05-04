@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/05/2024 04:38:07 WIB",
+    "lintang": "5.79 LS",
+    "bujur": "112.47 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 132 km Timur Laut Tuban",
+    "warning": [
+      "III Bawean"
+    ]
+  },
+  {
     "waktu": "05/05/2024 01:07:27 WIB",
     "lintang": "3.54 LS",
     "bujur": "128.74 BT",
@@ -246,19 +257,6 @@
     "wilayah": "Pusat gempa berada di darat 2 km Timur Kairatu-SBB",
     "warning": [
       "III Kairatu"
-    ]
-  },
-  {
-    "waktu": "25/04/2024 00:01:02 WIB",
-    "lintang": "0.19 LU",
-    "bujur": "122.57 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "156 Km",
-    "wilayah": "Pusat gempa berada di laut 45 km Tenggara Boalemo",
-    "warning": [
-      "III-IV Gorontalo",
-      "IV Kab. Bone Bolango",
-      "III-IV Kab. Gorontalo"
     ]
   }
 ]
