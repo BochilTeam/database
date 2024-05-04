@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/05/2024 11:02:53 WIB",
+    "lintang": "9.4 LS",
+    "bujur": "119.02 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "39 Km",
+    "wilayah": "Pusat gempa berada di Laut 17 km BaratDaya Tambolaka",
+    "warning": [
+      "II Bima"
+    ]
+  },
+  {
     "waktu": "03/05/2024 16:48:59 WIB",
     "lintang": "4 LS",
     "bujur": "122.63 BT",
@@ -248,17 +259,6 @@
     "wilayah": "Pusat gempa berada di darat 33 km barat laut Luwu Timur",
     "warning": [
       "II-III Mangkutana"
-    ]
-  },
-  {
-    "waktu": "24/04/2024 12:41:50 WIB",
-    "lintang": "5.89 LS",
-    "bujur": "112.49 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di laut 122 Km Timur Laut Tuban",
-    "warning": [
-      "III-IV Bawean"
     ]
   }
 ]
