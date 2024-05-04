@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/05/2024 01:07:27 WIB",
+    "lintang": "3.54 LS",
+    "bujur": "128.74 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 11 km Timur Saparua-Maluku Tengah",
+    "warning": [
+      "II Saparua"
+    ]
+  },
+  {
     "waktu": "04/05/2024 11:02:53 WIB",
     "lintang": "9.4 LS",
     "bujur": "119.02 BT",
@@ -248,17 +259,6 @@
       "III-IV Gorontalo",
       "IV Kab. Bone Bolango",
       "III-IV Kab. Gorontalo"
-    ]
-  },
-  {
-    "waktu": "24/04/2024 23:27:52 WIB",
-    "lintang": "2.36 LS",
-    "bujur": "120.97 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 33 km barat laut Luwu Timur",
-    "warning": [
-      "II-III Mangkutana"
     ]
   }
 ]
