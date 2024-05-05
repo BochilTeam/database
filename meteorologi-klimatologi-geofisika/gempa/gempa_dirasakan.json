@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "06/05/2024 01:33:14 WIB",
+    "lintang": "3.22 LS",
+    "bujur": "130.98 BT",
+    "magnitudo": "6.1",
+    "kedalaman": "45 Km",
+    "wilayah": "Pusat gempa berada di laut 55 km Timur Bula",
+    "warning": [
+      "III Bula"
+    ]
+  },
+  {
     "waktu": "05/05/2024 21:25:04 WIB",
     "lintang": "5.73 LS",
     "bujur": "112.52 BT",
@@ -244,17 +255,6 @@
     "magnitudo": "3.7",
     "kedalaman": "6 Km",
     "wilayah": "Pusat gempa berada di darat 34 km Tenggara Piru-SBB",
-    "warning": [
-      "III Kairatu"
-    ]
-  },
-  {
-    "waktu": "25/04/2024 15:54:46 WIB",
-    "lintang": "3.35 LS",
-    "bujur": "128.37 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "38 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km Timur Kairatu - SSB",
     "warning": [
       "III Kairatu"
     ]

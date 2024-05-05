@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06-05-24 01:33:14 WIB",
+    "lintang": "-3.22",
+    "bujur": "130.98",
+    "magnitudo": "6.1",
+    "kedalaman": "45 Km",
+    "wilayah": "56 km Tenggara SERAMBAGIANTIMUR-MALUKU"
+  },
+  {
     "waktu": "30-04-24 20:52:43 WIB",
     "lintang": "2.32",
     "bujur": "126.81",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "107 Km",
     "wilayah": "31 km TimurLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "14-03-24 01:56:14 WIB",
-    "lintang": "-0.21",
-    "bujur": "125.24",
-    "magnitudo": "6.2",
-    "kedalaman": "10 Km",
-    "wilayah": "128 km Tenggara TUTUYAN-BOLTIM-SULUT"
   }
 ]
