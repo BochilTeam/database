@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "07/05/2024 06:33:42 WIB",
+    "lintang": "1.09 LS",
+    "bujur": "120.41 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km Barat Daya Sausu-Kab. Parigi Moutong",
+    "warning": [
+      "III - IV Sausu",
+      "II - III Poso"
+    ]
+  },
+  {
     "waktu": "06/05/2024 03:37:14 WIB",
     "lintang": "3.18 LS",
     "bujur": "130.94 BT",
@@ -246,17 +258,6 @@
       "III Kabupaten Gorontalo",
       "III Kabupaten Bone-Bolango",
       "II-III Kota Gorontalo"
-    ]
-  },
-  {
-    "waktu": "26/04/2024 16:57:10 WIB",
-    "lintang": "2.91 LS",
-    "bujur": "119.41 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 9 Km Timur Laut Mamasa",
-    "warning": [
-      "III Mamasa"
     ]
   }
 ]
