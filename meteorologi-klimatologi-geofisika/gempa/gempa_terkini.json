@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07-05-24 10:34:59 WIB",
+    "lintang": "-8.82",
+    "bujur": "110.93",
+    "magnitudo": "5.0",
+    "kedalaman": "24 Km",
+    "wilayah": "73 km BaratDaya PACITAN-JATIM"
+  },
+  {
     "waktu": "06-05-24 03:37:14 WIB",
     "lintang": "-3.18",
     "bujur": "130.94",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "10 Km",
     "wilayah": "79 km BaratLaut KASONAWEJA-PAPUA"
-  },
-  {
-    "waktu": "20-03-24 15:24:57 WIB",
-    "lintang": "-2.09",
-    "bujur": "100.44",
-    "magnitudo": "5.3",
-    "kedalaman": "21 Km",
-    "wilayah": "83 km BaratDaya PESISIRSELATAN-SUMBAR"
   }
 ]
