@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/05/2024 22:15:40 WIB",
+    "lintang": "7.38 LS",
+    "bujur": "111.47 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat, 4 km TimurLaut Ngawi",
+    "warning": [
+      "III Ngawi"
+    ]
+  },
+  {
     "waktu": "07/05/2024 16:50:01 WIB",
     "lintang": "0.6 LU",
     "bujur": "110.43 BT",
@@ -248,18 +259,6 @@
       "II Kulonprogo",
       "II Trenggalek",
       "II Malang"
-    ]
-  },
-  {
-    "waktu": "27/04/2024 20:22:59 WIB",
-    "lintang": "6.83 LS",
-    "bujur": "107 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km TimurLaut Kota Sukabumi",
-    "warning": [
-      "III Cianjur",
-      "III Sukabumi"
     ]
   }
 ]
