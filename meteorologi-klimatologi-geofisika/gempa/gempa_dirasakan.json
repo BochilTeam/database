@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/05/2024 16:50:01 WIB",
+    "lintang": "0.6 LU",
+    "bujur": "110.43 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 52 km Barat Laut Sanggau",
+    "warning": [
+      "II - III Sanggau"
+    ]
+  },
+  {
     "waktu": "07/05/2024 10:34:59 WIB",
     "lintang": "8.82 LS",
     "bujur": "110.93 BT",
@@ -249,22 +260,6 @@
     "warning": [
       "III Cianjur",
       "III Sukabumi"
-    ]
-  },
-  {
-    "waktu": "27/04/2024 15:27:12 WIB",
-    "lintang": "7.14 LS",
-    "bujur": "105.35 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 58 km BaratDaya Sumur",
-    "warning": [
-      "III Lebak",
-      "II-III Tangerang",
-      "II-III Tangerang Selatan",
-      "II-III Jakarta Selatan",
-      "II-III Bogor",
-      "II Sukabumi"
     ]
   }
 ]
