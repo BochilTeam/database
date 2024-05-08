@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08-05-24 05:09:55 WIB",
+    "lintang": "-9.51",
+    "bujur": "115.84",
+    "magnitudo": "5.2",
+    "kedalaman": "78 Km",
+    "wilayah": "97 km BaratDaya LOMBOKBARAT-NTB"
+  },
+  {
     "waktu": "07-05-24 10:34:59 WIB",
     "lintang": "-8.82",
     "bujur": "110.93",
@@ -230,13 +238,5 @@
     "magnitudo": "6.0",
     "kedalaman": "10 Km",
     "wilayah": "132 km TimurLaut TUBAN-JATIM"
-  },
-  {
-    "waktu": "21-03-24 07:19:14 WIB",
-    "lintang": "-1.83",
-    "bujur": "137.50",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "79 km BaratLaut KASONAWEJA-PAPUA"
   }
 ]
