@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/05/2024 21:37:54 WIB",
+    "lintang": "5.97 LS",
+    "bujur": "103.64 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 92 km BaratDaya Pesisir Barat Lampung",
+    "warning": [
+      "II Liwa"
+    ]
+  },
+  {
     "waktu": "08/05/2024 10:16:41 WIB",
     "lintang": "1.48 LU",
     "bujur": "122.99 BT",
@@ -239,23 +250,6 @@
     "wilayah": "Pusat gempa berada di darat 9 km Barat Daya Kota Jayapura",
     "warning": [
       "III Jayapura"
-    ]
-  },
-  {
-    "waktu": "29/04/2024 06:38:09 WIB",
-    "lintang": "8.15 LS",
-    "bujur": "107.88 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di laut 84 km Barat Daya Kab.Pangandaran",
-    "warning": [
-      "III Taraju",
-      "III Cibalong",
-      "III Cipatujah",
-      "III Pamengkuk",
-      "III Pangandaran",
-      "II Cikajang",
-      "II Cisurupan"
     ]
   }
 ]
