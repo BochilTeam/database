@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/05/2024 19:12:26 WIB",
+    "lintang": "2.51 LS",
+    "bujur": "121.4 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 26 km timur laut Luwu Timur",
+    "warning": [
+      "II-III Sorowako"
+    ]
+  },
+  {
     "waktu": "09/05/2024 14:14:18 WIB",
     "lintang": "6.79 LS",
     "bujur": "106.64 BT",
@@ -239,21 +250,6 @@
     "wilayah": "Pusat gempa berada di darat 22 km Timur Laut Nabire",
     "warning": [
       "III-IV Nabire"
-    ]
-  },
-  {
-    "waktu": "01/05/2024 10:06:10 WIB",
-    "lintang": "7.2 LS",
-    "bujur": "107.57 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 20 km Tenggara KAB-BANDUNG",
-    "warning": [
-      "III Majalaya",
-      "III Cibereum",
-      "III Pangalengan",
-      "III Garut",
-      "II Soreang"
     ]
   }
 ]
