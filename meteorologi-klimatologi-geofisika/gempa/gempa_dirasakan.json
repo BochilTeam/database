@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "09/05/2024 14:14:18 WIB",
+    "lintang": "6.79 LS",
+    "bujur": "106.64 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 24 km Timur Laut Kabupaten Sukabumi",
+    "warning": [
+      "III Bogor Barat",
+      "III Sukabumi",
+      "III Cibadak",
+      "III Cicurug",
+      "III Kabandungan"
+    ]
+  },
+  {
     "waktu": "08/05/2024 21:37:54 WIB",
     "lintang": "5.97 LS",
     "bujur": "103.64 BT",
@@ -239,17 +254,6 @@
       "III Pangalengan",
       "III Garut",
       "II Soreang"
-    ]
-  },
-  {
-    "waktu": "30/04/2024 02:43:35 WIB",
-    "lintang": "2.57 LS",
-    "bujur": "140.61 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km Barat Daya Kota Jayapura",
-    "warning": [
-      "III Jayapura"
     ]
   }
 ]
