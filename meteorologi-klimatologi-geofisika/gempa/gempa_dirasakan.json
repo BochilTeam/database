@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "10/05/2024 22:20:48 WIB",
+    "lintang": "3.48 LS",
+    "bujur": "101.63 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di laut 63 km Barat Daya Bengkulu Utara",
+    "warning": [
+      "III Bengkulu Utara",
+      "II - III Seluma",
+      "II - III Kota Bengkulu",
+      "II - III Mukomuko",
+      "II - III Bengkulu Tengah",
+      "II - III Rejang Lebong",
+      "II Kepahiang"
+    ]
+  },
+  {
     "waktu": "09/05/2024 19:12:26 WIB",
     "lintang": "2.51 LS",
     "bujur": "121.4 BT",
@@ -239,17 +256,6 @@
       "III Talegong",
       "II Cikajang",
       "II Pamulihan"
-    ]
-  },
-  {
-    "waktu": "01/05/2024 20:11:49 WIB",
-    "lintang": "3.23 LS",
-    "bujur": "135.65 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 22 km Timur Laut Nabire",
-    "warning": [
-      "III-IV Nabire"
     ]
   }
 ]
