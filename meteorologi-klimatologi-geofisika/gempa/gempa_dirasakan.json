@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "11/05/2024 02:34:37 WIB",
+    "lintang": "9.13 LS",
+    "bujur": "113.06 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 112 km BaratDaya Lumajang",
+    "warning": [
+      "II - III Jember",
+      "II Kepajen",
+      "II Pacitan",
+      "II Blitar"
+    ]
+  },
+  {
     "waktu": "10/05/2024 22:20:48 WIB",
     "lintang": "3.48 LS",
     "bujur": "101.63 BT",
@@ -238,24 +252,6 @@
     "wilayah": "Pusat gempa berada di laut 128 km TimurLaut Tuban",
     "warning": [
       "II - III Bawean"
-    ]
-  },
-  {
-    "waktu": "01/05/2024 20:35:01 WIB",
-    "lintang": "7.82 LS",
-    "bujur": "107.26 BT",
-    "magnitudo": "4",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada dilaut 93 km BaratDaya KAB-BANDUNG",
-    "warning": [
-      "III Cidora",
-      "III Pamengpeuk",
-      "III Cisewu",
-      "III Bungbulang",
-      "III Singaparna",
-      "III Talegong",
-      "II Cikajang",
-      "II Pamulihan"
     ]
   }
 ]

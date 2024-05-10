@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-05-24 02:34:37 WIB",
+    "lintang": "-9.13",
+    "bujur": "113.06",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "112 km BaratDaya LUMAJANG-JATIM"
+  },
+  {
     "waktu": "08-05-24 05:09:55 WIB",
     "lintang": "-9.51",
     "bujur": "115.84",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "133 km TimurLaut TUBAN-JATIM"
-  },
-  {
-    "waktu": "22-03-24 11:22:45 WIB",
-    "lintang": "-5.74",
-    "bujur": "112.32",
-    "magnitudo": "6.0",
-    "kedalaman": "10 Km",
-    "wilayah": "132 km TimurLaut TUBAN-JATIM"
   }
 ]
