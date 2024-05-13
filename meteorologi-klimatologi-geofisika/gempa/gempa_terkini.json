@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-05-24 21:08:35 WIB",
+    "lintang": "-7.68",
+    "bujur": "123.70",
+    "magnitudo": "5.1",
+    "kedalaman": "284 Km",
+    "wilayah": "91 km TimurLaut LEMBATA-NTT"
+  },
+  {
     "waktu": "13-05-24 07:28:15 WIB",
     "lintang": "0.91",
     "bujur": "123.95",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "27 Km",
     "wilayah": "31 km BaratDaya BENGKULUSELATAN"
-  },
-  {
-    "waktu": "22-03-24 15:52:58 WIB",
-    "lintang": "-5.76",
-    "bujur": "112.33",
-    "magnitudo": "6.5",
-    "kedalaman": "10 Km",
-    "wilayah": "130 km TimurLaut TUBAN-JATIM"
   }
 ]
