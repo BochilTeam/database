@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-05-24 07:28:15 WIB",
+    "lintang": "0.91",
+    "bujur": "123.95",
+    "magnitudo": "5.8",
+    "kedalaman": "259 Km",
+    "wilayah": "7 km BaratLaut LOLAK-BOLMONG-SULUT"
+  },
+  {
     "waktu": "11-05-24 02:34:37 WIB",
     "lintang": "-9.13",
     "bujur": "113.06",
@@ -230,13 +238,5 @@
     "magnitudo": "6.5",
     "kedalaman": "10 Km",
     "wilayah": "130 km TimurLaut TUBAN-JATIM"
-  },
-  {
-    "waktu": "22-03-24 12:31:12 WIB",
-    "lintang": "-5.74",
-    "bujur": "112.36",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "133 km TimurLaut TUBAN-JATIM"
   }
 ]
