@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "14/05/2024 15:11:10 WIB",
+    "lintang": "8.4 LS",
+    "bujur": "116.03 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 15 km Barat Daya Lombok Utara",
+    "warning": [
+      "III Kota Mataram",
+      "III Lombok Barat",
+      "III Lombok Timur",
+      "III Lombok Tengah",
+      "III Lombok Utara",
+      "III Sumbawa Barat",
+      "III Sumbawa",
+      "III Badung",
+      "III Denpasar",
+      "III Karangasem",
+      "III Bangli",
+      "II Tabanan"
+    ]
+  },
+  {
     "waktu": "14/05/2024 08:51:31 WIB",
     "lintang": "0.32 LS",
     "bujur": "121.93 BT",
@@ -244,17 +266,6 @@
     "wilayah": "Pusat gempa berada di laut 140 km Timur Laut Tuban",
     "warning": [
       "II-III Bawean"
-    ]
-  },
-  {
-    "waktu": "05/05/2024 04:38:07 WIB",
-    "lintang": "5.79 LS",
-    "bujur": "112.47 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 132 km Timur Laut Tuban",
-    "warning": [
-      "III Bawean"
     ]
   }
 ]
