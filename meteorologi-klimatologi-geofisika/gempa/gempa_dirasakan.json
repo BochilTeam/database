@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "14/05/2024 19:13:46 WIB",
+    "lintang": "5.56 LU",
+    "bujur": "95.47 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 38 km barat laut Jantho-Aceh Besar",
+    "warning": [
+      "II - III Banda Aceh",
+      "II-III Aceh Besar"
+    ]
+  },
+  {
     "waktu": "14/05/2024 15:11:10 WIB",
     "lintang": "8.4 LS",
     "bujur": "116.03 BT",
@@ -255,17 +267,6 @@
     "wilayah": "Pusat gempa berada di laut 55 km Timur Bula",
     "warning": [
       "III Bula"
-    ]
-  },
-  {
-    "waktu": "05/05/2024 21:25:04 WIB",
-    "lintang": "5.73 LS",
-    "bujur": "112.52 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 140 km Timur Laut Tuban",
-    "warning": [
-      "II-III Bawean"
     ]
   }
 ]
