@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15-05-24 16:42:56 WIB",
+    "lintang": "-5.84",
+    "bujur": "106.68",
+    "magnitudo": "5.4",
+    "kedalaman": "264 Km",
+    "wilayah": "19 km Tenggara KEPSERIBU-DKI"
+  },
+  {
     "waktu": "14-05-24 15:11:10 WIB",
     "lintang": "-8.40",
     "bujur": "116.03",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "27 Km",
     "wilayah": "65 km BaratLaut TELUKBINTUNI-PAPUABRT"
-  },
-  {
-    "waktu": "24-03-24 10:04:10 WIB",
-    "lintang": "-9.64",
-    "bujur": "122.16",
-    "magnitudo": "6.1",
-    "kedalaman": "47 Km",
-    "wilayah": "104 km Tenggara ENDE-NTT"
   }
 ]
