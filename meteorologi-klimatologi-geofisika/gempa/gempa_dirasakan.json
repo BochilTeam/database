@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "15/05/2024 20:06:23 WIB",
+    "lintang": "6.86 LS",
+    "bujur": "107.1 BT",
+    "magnitudo": "3",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 6km baratdaya Kab. Cianjur",
+    "warning": [
+      "III Kota Cianjur",
+      "III Warungkondang",
+      "III Cipanas",
+      "III Cugenang",
+      "III Cilaku"
+    ]
+  },
+  {
     "waktu": "15/05/2024 15:45:52 WIB",
     "lintang": "2.93 LS",
     "bujur": "119.43 BT",
@@ -245,17 +260,6 @@
     "wilayah": "Pusat gempa berada di darat, 4 km TimurLaut Ngawi",
     "warning": [
       "III Ngawi"
-    ]
-  },
-  {
-    "waktu": "07/05/2024 16:50:01 WIB",
-    "lintang": "0.6 LU",
-    "bujur": "110.43 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 52 km Barat Laut Sanggau",
-    "warning": [
-      "II - III Sanggau"
     ]
   }
 ]
