@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "16/05/2024 19:52:40 WIB",
+    "lintang": "4.05 LS",
+    "bujur": "122.49 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 1.6 km tenggara Baruga",
+    "warning": [
+      "II-III Kendari",
+      "II-III Konawe Selatan"
+    ]
+  },
+  {
     "waktu": "16/05/2024 09:36:08 WIB",
     "lintang": "3.29 LS",
     "bujur": "135.48 BT",
@@ -238,18 +250,6 @@
     "wilayah": "Pusat gempa berada di laut 92 km BaratDaya Pesisir Barat Lampung",
     "warning": [
       "II Liwa"
-    ]
-  },
-  {
-    "waktu": "08/05/2024 10:16:41 WIB",
-    "lintang": "1.48 LU",
-    "bujur": "122.99 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di laut 70 km Boroko-Bolaang Mongondow Utara",
-    "warning": [
-      "II - III Kota Gorontalo",
-      "II kab. Gorontalo"
     ]
   }
 ]
