@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/05/2024 08:24:46 WIB",
+    "lintang": "5.26 LU",
+    "bujur": "95.59 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km Timur Laut Jantho Aceh Besar",
+    "warning": [
+      "II-III Pidie"
+    ]
+  },
+  {
     "waktu": "15/05/2024 20:06:23 WIB",
     "lintang": "6.86 LS",
     "bujur": "107.1 BT",
@@ -249,17 +260,6 @@
       "III Kota Mataram",
       "III Sumbawa Barat",
       "II Karangasem"
-    ]
-  },
-  {
-    "waktu": "07/05/2024 22:15:40 WIB",
-    "lintang": "7.38 LS",
-    "bujur": "111.47 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat, 4 km TimurLaut Ngawi",
-    "warning": [
-      "III Ngawi"
     ]
   }
 ]
