@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/05/2024 09:36:08 WIB",
+    "lintang": "3.29 LS",
+    "bujur": "135.48 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di darat 9km Barat Laut Nabire",
+    "warning": [
+      "II-III Nabire"
+    ]
+  },
+  {
     "waktu": "16/05/2024 08:24:46 WIB",
     "lintang": "5.26 LU",
     "bujur": "95.59 BT",
@@ -239,27 +250,6 @@
     "warning": [
       "II - III Kota Gorontalo",
       "II kab. Gorontalo"
-    ]
-  },
-  {
-    "waktu": "08/05/2024 05:09:55 WIB",
-    "lintang": "9.51 LS",
-    "bujur": "115.84 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "78 Km",
-    "wilayah": "Pusat gempa berada di laut 97 km Barat Daya Lombok Barat",
-    "warning": [
-      "III Badung",
-      "III Denpasar",
-      "III Gianyar",
-      "III Tabanan",
-      "III Lombok Tengah",
-      "III Lombok Barat",
-      "III Lombok Timur",
-      "III Lombok Utara",
-      "III Kota Mataram",
-      "III Sumbawa Barat",
-      "II Karangasem"
     ]
   }
 ]
