@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "21/05/2024 02:42:13 WIB",
+    "lintang": "9.28 LS",
+    "bujur": "112.61 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 127 km tenggara Kabupaten Malang",
+    "warning": [
+      "III Karangkates",
+      "II Malang",
+      "II Jember",
+      "II Kepanjen",
+      "II Kuta"
+    ]
+  },
+  {
     "waktu": "20/05/2024 20:42:24 WIB",
     "lintang": "7.69 LS",
     "bujur": "106.42 BT",
@@ -242,23 +257,6 @@
       "II Pacitan",
       "II Blitar",
       "II Surabaya"
-    ]
-  },
-  {
-    "waktu": "10/05/2024 22:20:48 WIB",
-    "lintang": "3.48 LS",
-    "bujur": "101.63 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada di laut 63 km Barat Daya Bengkulu Utara",
-    "warning": [
-      "III Bengkulu Utara",
-      "II - III Seluma",
-      "II - III Kota Bengkulu",
-      "II - III Mukomuko",
-      "II - III Bengkulu Tengah",
-      "II - III Rejang Lebong",
-      "II Kepahiang"
     ]
   }
 ]
