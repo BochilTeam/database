@@ -1,5 +1,24 @@
 [
   {
+    "waktu": "20/05/2024 20:42:24 WIB",
+    "lintang": "7.69 LS",
+    "bujur": "106.42 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 79 km BaratDaya Kabupaten Sukabumi",
+    "warning": [
+      "III Sindangbarang",
+      "III Nagrak",
+      "III Cibinong",
+      "III Cipamingkis",
+      "III Surade",
+      "III Jampang",
+      "II - III Cigaru",
+      "II-III Simpenan",
+      "II - III Kabupaten Sukabumi"
+    ]
+  },
+  {
     "waktu": "18/05/2024 02:54:53 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.94 BT",
@@ -240,17 +259,6 @@
       "II - III Bengkulu Tengah",
       "II - III Rejang Lebong",
       "II Kepahiang"
-    ]
-  },
-  {
-    "waktu": "09/05/2024 19:12:26 WIB",
-    "lintang": "2.51 LS",
-    "bujur": "121.4 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 26 km timur laut Luwu Timur",
-    "warning": [
-      "II-III Sorowako"
     ]
   }
 ]
