@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-05-24 02:42:13 WIB",
+    "lintang": "-9.28",
+    "bujur": "112.61",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "127 km Tenggara KAB-MALANG-JATIM"
+  },
+  {
     "waktu": "15-05-24 16:42:56 WIB",
     "lintang": "-5.84",
     "bujur": "106.68",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "153 km BaratDaya GUNUNGKIDUL-DIY"
-  },
-  {
-    "waktu": "24-03-24 18:53:55 WIB",
-    "lintang": "-1.53",
-    "bujur": "133.36",
-    "magnitudo": "5.0",
-    "kedalaman": "27 Km",
-    "wilayah": "65 km BaratLaut TELUKBINTUNI-PAPUABRT"
   }
 ]
