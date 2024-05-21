@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-05-24 15:31:58 WIB",
+    "lintang": "-2.10",
+    "bujur": "138.20",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "29 km TimurLaut KASONAWEJA-PAPUA"
+  },
+  {
     "waktu": "21-05-24 02:42:13 WIB",
     "lintang": "-9.28",
     "bujur": "112.61",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "95 Km",
     "wilayah": "92 km BaratDaya PULAUDOI-MALUT"
-  },
-  {
-    "waktu": "28-03-24 15:01:52 WIB",
-    "lintang": "-9.30",
-    "bujur": "110.17",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "153 km BaratDaya GUNUNGKIDUL-DIY"
   }
 ]
