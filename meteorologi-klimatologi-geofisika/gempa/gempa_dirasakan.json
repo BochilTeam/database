@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/05/2024 12:16:46 WIB",
+    "lintang": "0.84 LU",
+    "bujur": "121.97 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "37 Km",
+    "wilayah": "Pusat gempa berada di darat 42 Km Timur Laut Pohuwato, Gorontalo",
+    "warning": [
+      "II-III Pohuwato"
+    ]
+  },
+  {
     "waktu": "21/05/2024 02:42:13 WIB",
     "lintang": "9.28 LS",
     "bujur": "112.61 BT",
@@ -242,21 +253,6 @@
     "wilayah": "Pusat gempa berada dilaut 125 km Timur Laut Tuban",
     "warning": [
       "II Bawean"
-    ]
-  },
-  {
-    "waktu": "11/05/2024 02:34:37 WIB",
-    "lintang": "9.13 LS",
-    "bujur": "113.06 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 112 km BaratDaya Lumajang",
-    "warning": [
-      "II - III Jember",
-      "II Kepajen",
-      "II Pacitan",
-      "II Blitar",
-      "II Surabaya"
     ]
   }
 ]
