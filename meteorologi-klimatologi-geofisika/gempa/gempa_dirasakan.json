@@ -25,6 +25,17 @@
     ]
   },
   {
+    "waktu": "21/05/2024 15:31:58 WIB",
+    "lintang": "2.19 LS",
+    "bujur": "138.2 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km arah Timur Laut Kasonaweja",
+    "warning": [
+      "II - III Mamberamo Raya"
+    ]
+  },
+  {
     "waktu": "21/05/2024 12:16:46 WIB",
     "lintang": "0.84 LU",
     "bujur": "121.97 BT",
@@ -243,17 +254,6 @@
     "wilayah": "Pusat gempa berada di laut 134 km timur laut Tuban",
     "warning": [
       "III-IV Bawean"
-    ]
-  },
-  {
-    "waktu": "12/05/2024 21:33:07 WIB",
-    "lintang": "5.87 LS",
-    "bujur": "112.56 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di laut 128 km Timur Laut Tuban",
-    "warning": [
-      "III Tuban"
     ]
   }
 ]
