@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "22/05/2024 12:49:14 WIB",
+    "lintang": "0.02 LS",
+    "bujur": "123.76 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "119 Km",
+    "wilayah": "Pusat gempa berada di laut 50 km Baratdaya Bolaanguki",
+    "warning": [
+      "III-IV Bolaang Mongondow Selatan",
+      "III-IV Bolaang Mongondow Timur",
+      "III-IV Bolaang Mongondow",
+      "III-IV Kotamobagu"
+    ]
+  },
+  {
     "waktu": "21/05/2024 12:16:46 WIB",
     "lintang": "0.84 LU",
     "bujur": "121.97 BT",
@@ -242,17 +256,6 @@
       "III Kabandungan",
       "II Bogor",
       "II Kalapanunggal"
-    ]
-  },
-  {
-    "waktu": "12/05/2024 21:01:25 WIB",
-    "lintang": "5.88 LS",
-    "bujur": "112.52 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada dilaut 125 km Timur Laut Tuban",
-    "warning": [
-      "II Bawean"
     ]
   }
 ]
