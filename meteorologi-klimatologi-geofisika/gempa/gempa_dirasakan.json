@@ -14,6 +14,17 @@
     ]
   },
   {
+    "waktu": "22/05/2024 12:27:04 WIB",
+    "lintang": "2.51 LU",
+    "bujur": "95.81 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 62 km baratlaut Sinabang",
+    "warning": [
+      "I-II Sinabang"
+    ]
+  },
+  {
     "waktu": "21/05/2024 12:16:46 WIB",
     "lintang": "0.84 LU",
     "bujur": "121.97 BT",
@@ -243,19 +254,6 @@
     "wilayah": "Pusat gempa berada di laut 128 km Timur Laut Tuban",
     "warning": [
       "III Tuban"
-    ]
-  },
-  {
-    "waktu": "12/05/2024 21:12:01 WIB",
-    "lintang": "6.74 LS",
-    "bujur": "106.58 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada didarat 27 Km Timur Laut Kab. Sukabumi",
-    "warning": [
-      "III Kabandungan",
-      "II Bogor",
-      "II Kalapanunggal"
     ]
   }
 ]
