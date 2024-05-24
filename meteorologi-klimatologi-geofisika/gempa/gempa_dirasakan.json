@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/05/2024 06:25:13 WIB",
+    "lintang": "3.79 LS",
+    "bujur": "101.86 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "31 Km",
+    "wilayah": "Pusat gempa berada di laut 54 km Barat Daya Bengkulu Utara",
+    "warning": [
+      "III Bengkulu Kota"
+    ]
+  },
+  {
     "waktu": "23/05/2024 15:27:56 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.95 BT",
@@ -243,17 +254,6 @@
       "III Karangasem",
       "III Bangli",
       "II Tabanan"
-    ]
-  },
-  {
-    "waktu": "14/05/2024 08:51:31 WIB",
-    "lintang": "0.32 LS",
-    "bujur": "121.93 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 86 km barat daya Pohuwato",
-    "warning": [
-      "III Wakai"
     ]
   }
 ]
