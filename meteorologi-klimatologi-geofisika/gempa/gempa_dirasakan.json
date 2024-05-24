@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/05/2024 15:43:46 WIB",
+    "lintang": "2.15 LS",
+    "bujur": "121.3 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 50 km timur laut Luwu Timur",
+    "warning": [
+      "II Morowali Utara"
+    ]
+  },
+  {
     "waktu": "24/05/2024 06:25:13 WIB",
     "lintang": "3.79 LS",
     "bujur": "101.86 BT",
@@ -232,28 +243,6 @@
     "warning": [
       "II - III Banda Aceh",
       "II-III Aceh Besar"
-    ]
-  },
-  {
-    "waktu": "14/05/2024 15:11:10 WIB",
-    "lintang": "8.4 LS",
-    "bujur": "116.03 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 15 km Barat Daya Lombok Utara",
-    "warning": [
-      "III Kota Mataram",
-      "III Lombok Barat",
-      "III Lombok Timur",
-      "III Lombok Tengah",
-      "III Lombok Utara",
-      "III Sumbawa Barat",
-      "III Sumbawa",
-      "III Badung",
-      "III Denpasar",
-      "III Karangasem",
-      "III Bangli",
-      "II Tabanan"
     ]
   }
 ]
