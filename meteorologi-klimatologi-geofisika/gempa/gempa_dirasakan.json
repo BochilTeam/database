@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "24/05/2024 17:00:41 WIB",
+    "lintang": "8.15 LS",
+    "bujur": "107.88 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 84 km barat daya Kab. Pangandaran",
+    "warning": [
+      "II Pangandaran",
+      "II Tasikmalaya",
+      "II - III Pamengpeuk",
+      "II - III Singaparna",
+      "II - III Karangnunggal"
+    ]
+  },
+  {
     "waktu": "24/05/2024 15:43:46 WIB",
     "lintang": "2.15 LS",
     "bujur": "121.3 BT",
@@ -231,18 +246,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km Timur Laut Mamasa",
     "warning": [
       "II Mamasa"
-    ]
-  },
-  {
-    "waktu": "14/05/2024 19:13:46 WIB",
-    "lintang": "5.56 LU",
-    "bujur": "95.47 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 38 km barat laut Jantho-Aceh Besar",
-    "warning": [
-      "II - III Banda Aceh",
-      "II-III Aceh Besar"
     ]
   }
 ]
