@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/05/2024 03:50:44 WIB",
+    "lintang": "6.88 LS",
+    "bujur": "107.13 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km BaratDaya Kab. Cianjur",
+    "warning": [
+      "III Cianjur"
+    ]
+  },
+  {
     "waktu": "24/05/2024 23:38:07 WIB",
     "lintang": "6.84 LS",
     "bujur": "107.06 BT",
@@ -233,17 +244,6 @@
     "magnitudo": "2.8",
     "kedalaman": "5 Km",
     "wilayah": "Pusat gempa berada di darat 11 km Tenggara Mamasa",
-    "warning": [
-      "II Mamasa"
-    ]
-  },
-  {
-    "waktu": "15/05/2024 14:32:20 WIB",
-    "lintang": "2.95 LS",
-    "bujur": "119.4 BT",
-    "magnitudo": "3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km Tenggara Mamasa",
     "warning": [
       "II Mamasa"
     ]
