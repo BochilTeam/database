@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25-05-24 12:55:52 WIB",
+    "lintang": "0.84",
+    "bujur": "131.67",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "175 km TimurLaut RAJAAMPAT-PAPUABRT"
+  },
+  {
     "waktu": "25-05-24 07:10:11 WIB",
     "lintang": "3.66",
     "bujur": "94.73",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "101 Km",
     "wilayah": "48 km BaratLaut TOLIKARA-PAPUAPGNGN"
-  },
-  {
-    "waktu": "04-04-24 13:39:53 WIB",
-    "lintang": "-0.06",
-    "bujur": "123.34",
-    "magnitudo": "5.1",
-    "kedalaman": "129 Km",
-    "wilayah": "70 km Tenggara BONEBOLANGO-GORONTALO"
   }
 ]
