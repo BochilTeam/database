@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25-05-24 07:10:11 WIB",
+    "lintang": "3.66",
+    "bujur": "94.73",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "143 km BaratDaya CALANG-ACEHJAYA"
+  },
+  {
     "waktu": "22-05-24 12:49:14 WIB",
     "lintang": "-0.02",
     "bujur": "123.76",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "129 Km",
     "wilayah": "70 km Tenggara BONEBOLANGO-GORONTALO"
-  },
-  {
-    "waktu": "03-04-24 16:02:16 WIB",
-    "lintang": "-5.73",
-    "bujur": "112.37",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "134 km TimurLaut TUBAN-JATIM"
   }
 ]
