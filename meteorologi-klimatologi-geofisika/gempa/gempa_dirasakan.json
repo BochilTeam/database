@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "26/05/2024 22:32:00 WIB",
+    "lintang": "2.19 LS",
+    "bujur": "120.81 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 59 km Barat Laut Luwu Timur",
+    "warning": [
+      "III Mangkutana"
+    ]
+  },
+  {
+    "waktu": "26/05/2024 19:11:21 WIB",
+    "lintang": "2.9 LS",
+    "bujur": "119.42 BT",
+    "magnitudo": "2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 10km Timur Laut Mamasa",
+    "warning": [
+      "II Mamasa"
+    ]
+  },
+  {
     "waktu": "26/05/2024 14:42:22 WIB",
     "lintang": "0.31 LS",
     "bujur": "100.41 BT",
@@ -223,32 +245,6 @@
     "wilayah": "Pusat gempa berada di darat 9km Barat Laut Nabire",
     "warning": [
       "II-III Nabire"
-    ]
-  },
-  {
-    "waktu": "16/05/2024 08:24:46 WIB",
-    "lintang": "5.26 LU",
-    "bujur": "95.59 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km Timur Laut Jantho Aceh Besar",
-    "warning": [
-      "II-III Pidie"
-    ]
-  },
-  {
-    "waktu": "15/05/2024 20:06:23 WIB",
-    "lintang": "6.86 LS",
-    "bujur": "107.1 BT",
-    "magnitudo": "3",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 6km baratdaya Kab. Cianjur",
-    "warning": [
-      "III Kota Cianjur",
-      "III Warungkondang",
-      "III Cipanas",
-      "III Cugenang",
-      "III Cilaku"
     ]
   }
 ]
