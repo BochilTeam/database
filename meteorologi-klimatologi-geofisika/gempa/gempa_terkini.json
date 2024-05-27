@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28-05-24 02:53:54 WIB",
+    "lintang": "-10.63",
+    "bujur": "111.36",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "273 km Tenggara PACITAN-JATIM"
+  },
+  {
     "waktu": "26-05-24 20:42:17 WIB",
     "lintang": "-3.39",
     "bujur": "141.90",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "64 Km",
     "wilayah": "149 km BaratDaya TANGGAMUS-LAMPUNG"
-  },
-  {
-    "waktu": "07-04-24 21:57:19 WIB",
-    "lintang": "-8.99",
-    "bujur": "118.52",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "51 km Tenggara DOMPU-NTB"
   }
 ]
