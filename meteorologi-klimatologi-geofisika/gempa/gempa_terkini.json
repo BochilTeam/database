@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28-05-24 18:52:38 WIB",
+    "lintang": "2.76",
+    "bujur": "95.41",
+    "magnitudo": "6.2",
+    "kedalaman": "12 Km",
+    "wilayah": "111 km BaratLaut SINABANG-ACEH"
+  },
+  {
     "waktu": "28-05-24 02:53:54 WIB",
     "lintang": "-10.63",
     "bujur": "111.36",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "141 Km",
     "wilayah": "67 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "08-04-24 00:46:19 WIB",
-    "lintang": "-6.62",
-    "bujur": "103.97",
-    "magnitudo": "5.4",
-    "kedalaman": "64 Km",
-    "wilayah": "149 km BaratDaya TANGGAMUS-LAMPUNG"
   }
 ]
