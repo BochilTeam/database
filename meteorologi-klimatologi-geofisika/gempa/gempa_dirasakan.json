@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "28/05/2024 18:52:38 WIB",
+    "lintang": "2.76 LU",
+    "bujur": "95.41 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 111 km baratlaut Sinabang",
+    "warning": [
+      "IV Nagan Raya",
+      "IV Aceh Barat",
+      "III Aceh Barat Daya",
+      "III Aceh Selatan",
+      "IV Simeulue",
+      "II Banda Aceh"
+    ]
+  },
+  {
     "waktu": "28/05/2024 16:20:22 WIB",
     "lintang": "7.67 LS",
     "bujur": "106.89 BT",
@@ -235,18 +251,6 @@
     "wilayah": "Pusat gempa berada di laut 21 km Baratdaya Rajaampat",
     "warning": [
       "III Kab. Raja Ampat"
-    ]
-  },
-  {
-    "waktu": "16/05/2024 19:52:40 WIB",
-    "lintang": "4.05 LS",
-    "bujur": "122.49 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 1.6 km tenggara Baruga",
-    "warning": [
-      "II-III Kendari",
-      "II-III Konawe Selatan"
     ]
   }
 ]
