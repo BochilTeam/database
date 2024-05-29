@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/05/2024 01:22:17 WIB",
+    "lintang": "6.72 LS",
+    "bujur": "106.61 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 24 km baratdaya Kota Bogor",
+    "warning": [
+      "II Sukabumi"
+    ]
+  },
+  {
     "waktu": "29/05/2024 13:38:41 WIB",
     "lintang": "5.68 LS",
     "bujur": "112.52 BT",
@@ -235,22 +246,6 @@
       "II - III Cigaru",
       "II-III Simpenan",
       "II - III Kabupaten Sukabumi"
-    ]
-  },
-  {
-    "waktu": "18/05/2024 02:54:53 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.94 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km Timurlaut Kab. Sumedang",
-    "warning": [
-      "III-IV Sumedang Utara",
-      "III-IV Sumedang Selatan",
-      "III Cimalaka",
-      "III Situraja",
-      "III Jatimulya",
-      "II Bandung"
     ]
   }
 ]
