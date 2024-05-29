@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/05/2024 13:38:41 WIB",
+    "lintang": "5.68 LS",
+    "bujur": "112.52 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 145 km TimurLaut Tuban",
+    "warning": [
+      "II Bawean"
+    ]
+  },
+  {
     "waktu": "28/05/2024 18:52:38 WIB",
     "lintang": "2.76 LU",
     "bujur": "95.41 BT",
@@ -240,17 +251,6 @@
       "III Situraja",
       "III Jatimulya",
       "II Bandung"
-    ]
-  },
-  {
-    "waktu": "17/05/2024 22:25:04 WIB",
-    "lintang": "0.49 LS",
-    "bujur": "130.66 BT",
-    "magnitudo": "4",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di laut 21 km Baratdaya Rajaampat",
-    "warning": [
-      "III Kab. Raja Ampat"
     ]
   }
 ]
