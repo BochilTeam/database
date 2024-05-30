@@ -1508,5 +1508,500 @@
     "index": 301,
     "soal": "Buah, Kulit, Duri",
     "jawaban": "DURIAN"
+  },
+  {
+    "index": 302,
+    "soal": "Susu, Sapi, Putih",
+    "jawaban": "SUSU SAPI"
+  },
+  {
+    "index": 303,
+    "soal": "Cokelat, Manis, Minuman",
+    "jawaban": "COKELAT PANAS"
+  },
+  {
+    "index": 304,
+    "soal": "Pohon, Daun, Kayu",
+    "jawaban": "POHON KAYU"
+  },
+  {
+    "index": 305,
+    "soal": "Panda, Bulat, Bambu",
+    "jawaban": "PANDA BAMBU"
+  },
+  {
+    "index": 306,
+    "soal": "Gula, Cair, Kopi",
+    "jawaban": "GULA AREN"
+  },
+  {
+    "index": 307,
+    "soal": "Penyu, Laut, Tempurung",
+    "jawaban": "PENYU LAUT"
+  },
+  {
+    "index": 308,
+    "soal": "Hewan, Pet, Anjing",
+    "jawaban": "ANJING PELIHARAAN"
+  },
+  {
+    "index": 309,
+    "soal": "Matahari, Langit, Terang",
+    "jawaban": "MATAHARI TERBIT"
+  },
+  {
+    "index": 310,
+    "soal": "Bola, Sepak, Tim",
+    "jawaban": "TIM SEPAKBOLA"
+  },
+  {
+    "index": 311,
+    "soal": "Bunga, Wangi, Mekar",
+    "jawaban": "BUNGA MAWAR"
+  },
+  {
+    "index": 312,
+    "soal": "Makanan, Laut, Ikan",
+    "jawaban": "IKAN LAUT"
+  },
+  {
+    "index": 313,
+    "soal": "Film, Hiburan, Layar",
+    "jawaban": "FILM BIOSKOP"
+  },
+  {
+    "index": 314,
+    "soal": "Rumah, Tinggal, Atap",
+    "jawaban": "RUMAH ATAP"
+  },
+  {
+    "index": 315,
+    "soal": "Kucing, Meong, Pet",
+    "jawaban": "KUCING PELIHARAAN"
+  },
+  {
+    "index": 316,
+    "soal": "Motor, Dua, Roda",
+    "jawaban": "MOTOR RODA DUA"
+  },
+  {
+    "index": 317,
+    "soal": "Pesawat, Terbang, Bandara",
+    "jawaban": "PESAWAT BANDARA"
+  },
+  {
+    "index": 318,
+    "soal": "Mobil, Roda, Jalan",
+    "jawaban": "MOBIL JALAN"
+  },
+  {
+    "index": 319,
+    "soal": "Mata, Melihat, Kacamata",
+    "jawaban": "KACAMATA MELIHAT"
+  },
+  {
+    "index": 320,
+    "soal": "Kertas, Tulis, Buku",
+    "jawaban": "BUKU TULIS"
+  },
+  {
+    "index": 321,
+    "soal": "Api, Panas, Membakar",
+    "jawaban": "API MEMBAKAR"
+  },
+  {
+    "index": 322,
+    "soal": "Es, Dingin, Air",
+    "jawaban": "AIR ES"
+  },
+  {
+    "index": 323,
+    "soal": "Sepatu, Kaki, Jalan",
+    "jawaban": "SEPATU JALAN"
+  },
+  {
+    "index": 324,
+    "soal": "Jalan, Kendaraan, Aspal",
+    "jawaban": "JALAN ASPAL"
+  },
+  {
+    "index": 325,
+    "soal": "Pintu, Rumah, Masuk",
+    "jawaban": "PINTU MASUK"
+  },
+  {
+    "index": 326,
+    "soal": "Telepon, Bicara, Nomor",
+    "jawaban": "NOMOR TELEPON"
+  },
+  {
+    "index": 327,
+    "soal": "Kopi, Minum, Hitam",
+    "jawaban": "KOPI HITAM"
+  },
+  {
+    "index": 328,
+    "soal": "Angin, Kencang, Topan",
+    "jawaban": "TOPAN ANGIN"
+  },
+  {
+    "index": 329,
+    "soal": "Hujan, Air, Langit",
+    "jawaban": "HUJAN LANGIT"
+  },
+  {
+    "index": 330,
+    "soal": "Musik, Gitar, Lagu",
+    "jawaban": "GITAR MUSIK"
+  },
+  {
+    "index": 331,
+    "soal": "Waktu, Detik, Jam",
+    "jawaban": "JAM WAKTU"
+  },
+  {
+    "index": 332,
+    "soal": "Kaca, Pintu, Jendela",
+    "jawaban": "JENDELA KACA"
+  },
+  {
+    "index": 333,
+    "soal": "Baju, Pakaian, Kain",
+    "jawaban": "BAJU KAIN"
+  },
+  {
+    "index": 334,
+    "soal": "Laut, Pasir, Pantai",
+    "jawaban": "PANTAI LAUT"
+  },
+  {
+    "index": 335,
+    "soal": "Taman, Hijau, Bunga",
+    "jawaban": "TAMAN BUNGA"
+  },
+  {
+    "index": 336,
+    "soal": "Goreng, Minyak, Pisang",
+    "jawaban": "PISANG GORENG"
+  },
+  {
+    "index": 337,
+    "soal": "Buah, Manis, Pisang",
+    "jawaban": "BUAH PISANG"
+  },
+  {
+    "index": 338,
+    "soal": "Salju, Putih, Dingin",
+    "jawaban": "SALJU PUTIH"
+  },
+  {
+    "index": 339,
+    "soal": "Kendaraan, Cepat, Kereta",
+    "jawaban": "KERETA CEPAT"
+  },
+  {
+    "index": 340,
+    "soal": "Tulisan, Komputer, Keyboard",
+    "jawaban": "KEYBOARD KOMPUTER"
+  },
+  {
+    "index": 341,
+    "soal": "Anggur, Minuman, Buah",
+    "jawaban": "BUAH ANGGUR"
+  },
+  {
+    "index": 342,
+    "soal": "Uang, Dompet, Kertas",
+    "jawaban": "UANG KERTAS"
+  },
+  {
+    "index": 343,
+    "soal": "Permen, Manis, Gula",
+    "jawaban": "GULA PERMEN"
+  },
+  {
+    "index": 344,
+    "soal": "Roti, Sarapan, Selai",
+    "jawaban": "ROTI SELAI"
+  },
+  {
+    "index": 345,
+    "soal": "Oven, Panggang, Kue",
+    "jawaban": "KUE PANGGANG"
+  },
+  {
+    "index": 346,
+    "soal": "Telur, Ayam, Rebus",
+    "jawaban": "TELUR REBUS"
+  },
+  {
+    "index": 347,
+    "soal": "Pisau, Tajam, Potong",
+    "jawaban": "PISAU TAJAM"
+  },
+  {
+    "index": 348,
+    "soal": "Kompor, Masak, Api",
+    "jawaban": "KOMPOR MASAK"
+  },
+  {
+    "index": 349,
+    "soal": "Gelas, Minum, Air",
+    "jawaban": "GELAS AIR"
+  },
+  {
+    "index": 350,
+    "soal": "Kulkas, Dingin, Es",
+    "jawaban": "ES KULKAS"
+  },
+  {
+    "index": 351,
+    "soal": "Buku, Baca, Halaman",
+    "jawaban": "BUKU BACA"
+  },
+  {
+    "index": 352,
+    "soal": "Sepeda, Roda, Dua",
+    "jawaban": "SEPEDA RODA DUA"
+  },
+  {
+    "index": 353,
+    "soal": "Listrik, Lampu, Terang",
+    "jawaban": "LAMPU LISTRIK"
+  },
+  {
+    "index": 354,
+    "soal": "Papan, Tulis, Kapur",
+    "jawaban": "PAPAN TULIS"
+  },
+  {
+    "index": 355,
+    "soal": "Sapu, Lantai, Bersih",
+    "jawaban": "SAPU LANTAI"
+  },
+  {
+    "index": 356,
+    "soal": "Tangga, Naik, Turun",
+    "jawaban": "TANGGA NAIK TURUN"
+  },
+  {
+    "index": 357,
+    "soal": "Meja, Kursi, Belajar",
+    "jawaban": "MEJA BELAJAR"
+  },
+  {
+    "index": 358,
+    "soal": "Kertas, Surat, Pos",
+    "jawaban": "SURAT POS"
+  },
+  {
+    "index": 359,
+    "soal": "Radio, Suara, Musik",
+    "jawaban": "RADIO MUSIK"
+  },
+  {
+    "index": 360,
+    "soal": "Lemari, Pakaian, Baju",
+    "jawaban": "LEMARI PAKAIAN"
+  },
+  {
+    "index": 361,
+    "soal": "Komputer, Layar, Ketik",
+    "jawaban": "LAYAR KOMPUTER"
+  },
+  {
+    "index": 362,
+    "soal": "Baterai, Energi, Alat",
+    "jawaban": "BATERAI ALAT"
+  },
+  {
+    "index": 363,
+    "soal": "Laut, Ikan, Pancing",
+    "jawaban": "IKAN PANCING"
+  },
+  {
+    "index": 364,
+    "soal": "Pantai, Pasir, Ombak",
+    "jawaban": "PANTAI PASIR"
+  },
+  {
+    "index": 365,
+    "soal": "Gunung, Tinggi, Hutan",
+    "jawaban": "GUNUNG HUTAN"
+  },
+  {
+    "index": 366,
+    "soal": "Bunga, Taman, Wangi",
+    "jawaban": "TAMAN WANGI"
+  },
+  {
+    "index": 367,
+    "soal": "Kucing, Hewan, Pet",
+    "jawaban": "HEWAN PELIHARAAN"
+  },
+  {
+    "index": 368,
+    "soal": "Burung, Terbang, Sarang",
+    "jawaban": "SARANG BURUNG"
+  },
+  {
+    "index": 369,
+    "soal": "Serigala, Hutan, Buas",
+    "jawaban": "SERIGALA BUAS"
+  },
+  {
+    "index": 370,
+    "soal": "Gajah, Besar, Belalai",
+    "jawaban": "GAJAH BELALAI"
+  },
+  {
+    "index": 371,
+    "soal": "Kelinci, Lucu, Telinga",
+    "jawaban": "KELINCI TELINGA"
+  },
+  {
+    "index": 372,
+    "soal": "Anjing, Penjaga, Rumah",
+    "jawaban": "PENJAGA RUMAH"
+  },
+  {
+    "index": 373,
+    "soal": "Kuda, Berlari, Cepat",
+    "jawaban": "KUDA CEPAT"
+  },
+  {
+    "index": 374,
+    "soal": "Singa, Hutan, Raja",
+    "jawaban": "RAJA HUTAN"
+  },
+  {
+    "index": 375,
+    "soal": "Ular, Bisa, Ekor",
+    "jawaban": "ULAR BISA"
+  },
+  {
+    "index": 376,
+    "soal": "Kodok, Lompat, Sawah",
+    "jawaban": "KODOK SAWAH"
+  },
+  {
+    "index": 377,
+    "soal": "Kupu-kupu, Cantik, Terbang",
+    "jawaban": "KUPU-KUPU CANTIK"
+  },
+  {
+    "index": 378,
+    "soal": "Sapi, Susu, Peternak",
+    "jawaban": "SUSU SAPI"
+  },
+  {
+    "index": 379,
+    "soal": "Kambing, Domba, Ternak",
+    "jawaban": "DOMBA TERNAK"
+  },
+  {
+    "index": 380,
+    "soal": "Ayam, Telur, Peternak",
+    "jawaban": "TELUR AYAM"
+  },
+  {
+    "index": 381,
+    "soal": "Bebek, Air, Peternak",
+    "jawaban": "BEBEK AIR"
+  },
+  {
+    "index": 382,
+    "soal": "Lebah, Madu, Sarang",
+    "jawaban": "MADU SARANG"
+  },
+  {
+    "index": 383,
+    "soal": "Kelinci, Rumput, Lucu",
+    "jawaban": "KELINCI RUMPUT"
+  },
+  {
+    "index": 384,
+    "soal": "Kucing, Tikus, Kejar",
+    "jawaban": "KUCING KEJAR"
+  },
+  {
+    "index": 385,
+    "soal": "Burung, Kicau, Sangkar",
+    "jawaban": "SANGKAR BURUNG"
+  },
+  {
+    "index": 386,
+    "soal": "Ikan, Kolam, Air",
+    "jawaban": "IKAN KOLAM"
+  },
+  {
+    "index": 387,
+    "soal": "Serigala, Malam, Bulan",
+    "jawaban": "MALAM BULAN"
+  },
+  {
+    "index": 388,
+    "soal": "Buaya, Sungai, Ganas",
+    "jawaban": "BUAYA GANAS"
+  },
+  {
+    "index": 389,
+    "soal": "Harimau, Belang, Buas",
+    "jawaban": "HARIMAU BUAS"
+  },
+  {
+    "index": 390,
+    "soal": "Kuda, Pacu, Cepat",
+    "jawaban": "KUDA PACU"
+  },
+  {
+    "index": 391,
+    "soal": "Gajah, Besar, Afrika",
+    "jawaban": "GAJAH AFRIKA"
+  },
+  {
+    "index": 392,
+    "soal": "Monyet, Pohon, Kelapa",
+    "jawaban": "MONYET POHON"
+  },
+  {
+    "index": 393,
+    "soal": "Paus, Besar, Laut",
+    "jawaban": "PAUS LAUT"
+  },
+  {
+    "index": 394,
+    "soal": "Lumba-lumba, Pintar, Air",
+    "jawaban": "LUMBA-LUMBA AIR"
+  },
+  {
+    "index": 395,
+    "soal": "Kerbau, Sawah, Petani",
+    "jawaban": "KERBAU SAWAH"
+  },
+  {
+    "index": 396,
+    "soal": "Sapi, Padang, Rumput",
+    "jawaban": "PADANG RUMPUT"
+  },
+  {
+    "index": 397,
+    "soal": "Kambing, Susu, Ternak",
+    "jawaban": "SUSU KAMBING"
+  },
+  {
+    "index": 398,
+    "soal": "Tipis, Mudah Robek, Biasa Dipakai Untuk Membersihkan Keringat",
+    "jawaban": "TISU"
+  },
+  {
+    "index": "399",
+    "soal": "Wangi, Cair, Digunakan Sebelum Berpergian, Bisa Dibawa Kemana Aja",
+    "jawaban": "PARFUM"
+  },
+  {
+    "index": "400",
+    "soal": "Kain Katun, Lembut, Dipakai Saat Tidur",
+    "jawaban": "SELIMUT"
   }
 ]
