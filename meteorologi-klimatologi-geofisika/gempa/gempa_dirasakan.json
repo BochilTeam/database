@@ -1,5 +1,39 @@
 [
   {
+    "waktu": "30/05/2024 20:33:48 WIB",
+    "lintang": "2.48 LS",
+    "bujur": "120.77 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 46 km baratlaut Luwutimur",
+    "warning": [
+      "III Mangkutana"
+    ]
+  },
+  {
+    "waktu": "30/05/2024 20:18:57 WIB",
+    "lintang": "2.46 LS",
+    "bujur": "120.8 BT",
+    "magnitudo": "3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 43 km baratlaut Luwutimur",
+    "warning": [
+      "II Mangkutana"
+    ]
+  },
+  {
+    "waktu": "30/05/2024 19:43:33 WIB",
+    "lintang": "7.27 LS",
+    "bujur": "109.88 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 10 Km barat laut Wonosobo",
+    "warning": [
+      "II Dieng",
+      "II Banjarnegara"
+    ]
+  },
+  {
     "waktu": "30/05/2024 08:44:51 WIB",
     "lintang": "5.73 LS",
     "bujur": "112.48 BT",
@@ -201,43 +235,6 @@
     "wilayah": "Pusat gempa berada di laut 62 km baratlaut Sinabang",
     "warning": [
       "I-II Sinabang"
-    ]
-  },
-  {
-    "waktu": "21/05/2024 15:31:58 WIB",
-    "lintang": "2.19 LS",
-    "bujur": "138.2 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di darat 22 km arah Timur Laut Kasonaweja",
-    "warning": [
-      "II - III Mamberamo Raya"
-    ]
-  },
-  {
-    "waktu": "21/05/2024 12:16:46 WIB",
-    "lintang": "0.84 LU",
-    "bujur": "121.97 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "37 Km",
-    "wilayah": "Pusat gempa berada di darat 42 Km Timur Laut Pohuwato, Gorontalo",
-    "warning": [
-      "II-III Pohuwato"
-    ]
-  },
-  {
-    "waktu": "21/05/2024 02:42:13 WIB",
-    "lintang": "9.28 LS",
-    "bujur": "112.61 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 127 km tenggara Kabupaten Malang",
-    "warning": [
-      "III Karangkates",
-      "II Malang",
-      "II Jember",
-      "II Kepanjen",
-      "II Kuta"
     ]
   }
 ]
