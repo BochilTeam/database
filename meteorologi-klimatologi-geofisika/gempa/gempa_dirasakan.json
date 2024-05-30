@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "30/05/2024 08:44:51 WIB",
+    "lintang": "5.73 LS",
+    "bujur": "112.48 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di laut 138 timurlaut Tuban",
+    "warning": [
+      "II - III Bawean"
+    ]
+  },
+  {
     "waktu": "30/05/2024 01:22:17 WIB",
     "lintang": "6.72 LS",
     "bujur": "106.61 BT",
@@ -227,25 +238,6 @@
       "II Jember",
       "II Kepanjen",
       "II Kuta"
-    ]
-  },
-  {
-    "waktu": "20/05/2024 20:42:24 WIB",
-    "lintang": "7.69 LS",
-    "bujur": "106.42 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di laut 79 km BaratDaya Kabupaten Sukabumi",
-    "warning": [
-      "III Sindangbarang",
-      "III Nagrak",
-      "III Cibinong",
-      "III Cipamingkis",
-      "III Surade",
-      "III Jampang",
-      "II - III Cigaru",
-      "II-III Simpenan",
-      "II - III Kabupaten Sukabumi"
     ]
   }
 ]
