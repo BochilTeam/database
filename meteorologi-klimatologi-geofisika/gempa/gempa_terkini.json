@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31-05-24 00:08:19 WIB",
+    "lintang": "-2.76",
+    "bujur": "122.18",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "31 km Tenggara MOROWALI-SULTENG"
+  },
+  {
     "waktu": "28-05-24 18:52:38 WIB",
     "lintang": "2.76",
     "bujur": "95.41",
@@ -230,13 +238,5 @@
     "magnitudo": "6.1",
     "kedalaman": "10 Km",
     "wilayah": "42 km Tenggara RANSIKI-PAPUABRT"
-  },
-  {
-    "waktu": "08-04-24 05:19:59 WIB",
-    "lintang": "-7.68",
-    "bujur": "128.18",
-    "magnitudo": "5.3",
-    "kedalaman": "141 Km",
-    "wilayah": "67 km TimurLaut MALUKUBRTDAYA"
   }
 ]

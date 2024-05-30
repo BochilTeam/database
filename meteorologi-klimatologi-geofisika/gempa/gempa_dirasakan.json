@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "31/05/2024 00:08:19 WIB",
+    "lintang": "2.76 LS",
+    "bujur": "122.18 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 31 km tenggara Morowali",
+    "warning": [
+      "III-IV Morowali"
+    ]
+  },
+  {
+    "waktu": "30/05/2024 23:42:38 WIB",
+    "lintang": "3.19 LS",
+    "bujur": "135.56 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di darat 20 k, timur laut Nabire",
+    "warning": [
+      "II Nabire"
+    ]
+  },
+  {
     "waktu": "30/05/2024 20:33:48 WIB",
     "lintang": "2.48 LS",
     "bujur": "120.77 BT",
@@ -210,31 +232,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km Timur Laut Kabupaten Sumedang",
     "warning": [
       "III Sumedang"
-    ]
-  },
-  {
-    "waktu": "22/05/2024 12:49:14 WIB",
-    "lintang": "0.02 LS",
-    "bujur": "123.76 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "119 Km",
-    "wilayah": "Pusat gempa berada di laut 50 km Baratdaya Bolaanguki",
-    "warning": [
-      "III-IV Bolaang Mongondow Selatan",
-      "III-IV Bolaang Mongondow Timur",
-      "III-IV Bolaang Mongondow",
-      "III-IV Kotamobagu"
-    ]
-  },
-  {
-    "waktu": "22/05/2024 12:27:04 WIB",
-    "lintang": "2.51 LU",
-    "bujur": "95.81 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 62 km baratlaut Sinabang",
-    "warning": [
-      "I-II Sinabang"
     ]
   }
 ]
