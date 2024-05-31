@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "31-05-24 05:54:38 WIB",
+    "lintang": "5.63",
+    "bujur": "126.18",
+    "magnitudo": "5.4",
+    "kedalaman": "88 Km",
+    "wilayah": "139 km BaratLaut PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "31-05-24 00:08:19 WIB",
     "lintang": "-2.76",
     "bujur": "122.18",
@@ -230,13 +238,5 @@
     "magnitudo": "6.5",
     "kedalaman": "10 Km",
     "wilayah": "87 km BaratLaut PULAUDOI-MALUT"
-  },
-  {
-    "waktu": "09-04-24 07:02:53 WIB",
-    "lintang": "-1.51",
-    "bujur": "134.54",
-    "magnitudo": "6.1",
-    "kedalaman": "10 Km",
-    "wilayah": "42 km Tenggara RANSIKI-PAPUABRT"
   }
 ]
