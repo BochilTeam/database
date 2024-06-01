@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "01/06/2024 18:01:40 WIB",
+    "lintang": "1.51 LS",
+    "bujur": "134.53 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km Tenggara Ransiki",
+    "warning": [
+      "III Ransiki",
+      "III Manokwari",
+      "II Serui",
+      "II Biak"
+    ]
+  },
+  {
     "waktu": "01/06/2024 15:51:24 WIB",
     "lintang": "2.67 LS",
     "bujur": "140.51 BT",
@@ -221,17 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 50 km timur laut Luwu Timur",
     "warning": [
       "II Morowali Utara"
-    ]
-  },
-  {
-    "waktu": "24/05/2024 06:25:13 WIB",
-    "lintang": "3.79 LS",
-    "bujur": "101.86 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "31 Km",
-    "wilayah": "Pusat gempa berada di laut 54 km Barat Daya Bengkulu Utara",
-    "warning": [
-      "III Bengkulu Kota"
     ]
   }
 ]
