@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "02/06/2024 20:58:03 WIB",
+    "lintang": "0.18 LS",
+    "bujur": "122.46 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di laut 79 km tenggara Boalemo",
+    "warning": [
+      "III Pohuwato"
+    ]
+  },
+  {
     "waktu": "02/06/2024 13:47:29 WIB",
     "lintang": "0.8 LU",
     "bujur": "125.38 BT",
@@ -223,17 +234,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km BaratDaya Kab. Cianjur",
     "warning": [
       "III Cianjur"
-    ]
-  },
-  {
-    "waktu": "24/05/2024 23:38:07 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "107.06 BT",
-    "magnitudo": "3",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km BaratDaya Kab. Cianjur",
-    "warning": [
-      "III Kabupaten Cianjur"
     ]
   }
 ]
