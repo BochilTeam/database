@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "02/06/2024 13:47:29 WIB",
+    "lintang": "0.8 LU",
+    "bujur": "125.38 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "32 Km",
+    "wilayah": "Pusat gempa berada di laut 70 km tenggara Ratahan-Mitra",
+    "warning": [
+      "II-III Bolaang Mongondow Selatan",
+      "II-III Minahasa Tenggara",
+      "II Manado"
+    ]
+  },
+  {
     "waktu": "02/06/2024 06:57:12 WIB",
     "lintang": "4.56 LS",
     "bujur": "102.04 BT",
@@ -221,21 +234,6 @@
     "wilayah": "Pusat gempa berada di darat 9 km BaratDaya Kab. Cianjur",
     "warning": [
       "III Kabupaten Cianjur"
-    ]
-  },
-  {
-    "waktu": "24/05/2024 17:00:41 WIB",
-    "lintang": "8.15 LS",
-    "bujur": "107.88 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "25 Km",
-    "wilayah": "Pusat gempa berada di laut 84 km barat daya Kab. Pangandaran",
-    "warning": [
-      "II Pangandaran",
-      "II Tasikmalaya",
-      "II - III Pamengpeuk",
-      "II - III Singaparna",
-      "II - III Karangnunggal"
     ]
   }
 ]
