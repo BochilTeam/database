@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "02/06/2024 06:57:12 WIB",
+    "lintang": "4.56 LS",
+    "bujur": "102.04 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di laut 80 km baratdaya Seluma",
+    "warning": [
+      "II Bengkulu",
+      "II-III Seluma"
+    ]
+  },
+  {
     "waktu": "01/06/2024 18:01:40 WIB",
     "lintang": "1.51 LS",
     "bujur": "134.53 BT",
@@ -224,17 +236,6 @@
       "II - III Pamengpeuk",
       "II - III Singaparna",
       "II - III Karangnunggal"
-    ]
-  },
-  {
-    "waktu": "24/05/2024 15:43:46 WIB",
-    "lintang": "2.15 LS",
-    "bujur": "121.3 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 50 km timur laut Luwu Timur",
-    "warning": [
-      "II Morowali Utara"
     ]
   }
 ]
