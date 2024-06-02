@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03-06-24 04:43:44 WIB",
+    "lintang": "-2.77",
+    "bujur": "138.89",
+    "magnitudo": "5.0",
+    "kedalaman": "31 Km",
+    "wilayah": "77 km Tenggara MAMBERAMOTENGAH-PAPUAPGNGN"
+  },
+  {
     "waktu": "02-06-24 16:22:04 WIB",
     "lintang": "2.02",
     "bujur": "127.71",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "151 km TimurLaut TUBAN-JATIM"
-  },
-  {
-    "waktu": "16-04-24 10:07:14 WIB",
-    "lintang": "-7.30",
-    "bujur": "124.99",
-    "magnitudo": "5.0",
-    "kedalaman": "521 Km",
-    "wilayah": "120 km TimurLaut ALOR-NTT"
   }
 ]
