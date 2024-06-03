@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/06/2024 07:10:37 WIB",
+    "lintang": "0.86 LU",
+    "bujur": "117.19 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "43 Km",
+    "wilayah": "Pusat gempa berada di darat 24 km tenggara Kutai Timur",
+    "warning": [
+      "III Kutai Timur"
+    ]
+  },
+  {
     "waktu": "03/06/2024 04:43:44 WIB",
     "lintang": "2.77 LS",
     "bujur": "138.89 BT",
@@ -221,20 +232,6 @@
     "wilayah": "Pusat gempa berada di darat 4 km tenggara Bukittinggi",
     "warning": [
       "II Bukittinggi"
-    ]
-  },
-  {
-    "waktu": "26/05/2024 10:46:32 WIB",
-    "lintang": "0.33 LS",
-    "bujur": "100.4 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km tenggara Bukit Tinggi",
-    "warning": [
-      "II - III Padang Panjang",
-      "II - III Bukittinggi",
-      "II - III Agam",
-      "II Payakumbuh"
     ]
   }
 ]
