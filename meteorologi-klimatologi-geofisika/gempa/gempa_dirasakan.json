@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/06/2024 04:16:11 WIB",
+    "lintang": "4.16 LS",
+    "bujur": "123.31 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 34 km tenggara Konawe",
+    "warning": [
+      "II-III Buton Utara"
+    ]
+  },
+  {
     "waktu": "03/06/2024 07:10:37 WIB",
     "lintang": "0.86 LU",
     "bujur": "117.19 BT",
@@ -221,17 +232,6 @@
     "wilayah": "Pusat gempa berada di darat 10km Timur Laut Mamasa",
     "warning": [
       "II Mamasa"
-    ]
-  },
-  {
-    "waktu": "26/05/2024 14:42:22 WIB",
-    "lintang": "0.31 LS",
-    "bujur": "100.41 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km tenggara Bukittinggi",
-    "warning": [
-      "II Bukittinggi"
     ]
   }
 ]
