@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "05/06/2024 09:20:28 WIB",
+    "lintang": "3.76 LS",
+    "bujur": "100.54 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "34 Km",
+    "wilayah": "Pusat gempa berada di laut 146 km barat daya Mukomuko",
+    "warning": [
+      "III Argamakmur",
+      "II - III Kerinci",
+      "II - III Sungai Penuh",
+      "III - IV Mukomuko"
+    ]
+  },
+  {
     "waktu": "04/06/2024 04:16:11 WIB",
     "lintang": "4.16 LS",
     "bujur": "123.31 BT",
@@ -221,17 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 59 km Barat Laut Luwu Timur",
     "warning": [
       "III Mangkutana"
-    ]
-  },
-  {
-    "waktu": "26/05/2024 19:11:21 WIB",
-    "lintang": "2.9 LS",
-    "bujur": "119.42 BT",
-    "magnitudo": "2",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 10km Timur Laut Mamasa",
-    "warning": [
-      "II Mamasa"
     ]
   }
 ]

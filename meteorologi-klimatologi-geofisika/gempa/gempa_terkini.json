@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05-06-24 09:20:28 WIB",
+    "lintang": "-3.76",
+    "bujur": "100.54",
+    "magnitudo": "5.7",
+    "kedalaman": "34 Km",
+    "wilayah": "146 km BaratDaya MUKOMUKO-BENGKULU"
+  },
+  {
     "waktu": "03-06-24 04:43:44 WIB",
     "lintang": "-2.77",
     "bujur": "138.89",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "188 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "17-04-24 15:15:03 WIB",
-    "lintang": "-5.58",
-    "bujur": "112.40",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "151 km TimurLaut TUBAN-JATIM"
   }
 ]
