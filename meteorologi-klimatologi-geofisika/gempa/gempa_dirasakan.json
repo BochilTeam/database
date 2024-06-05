@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "06/06/2024 02:21:11 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.93 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km timur laut Kab. Sumedang",
+    "warning": [
+      "II Sumedang Selatan",
+      "II Cimalaka"
+    ]
+  },
+  {
     "waktu": "05/06/2024 18:16:14 WIB",
     "lintang": "0.42 LU",
     "bujur": "98.5 BT",
@@ -224,22 +236,6 @@
     "wilayah": "Pusat gempa berada di laut 145 km TimurLaut Tuban",
     "warning": [
       "II Bawean"
-    ]
-  },
-  {
-    "waktu": "28/05/2024 18:52:38 WIB",
-    "lintang": "2.76 LU",
-    "bujur": "95.41 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 111 km baratlaut Sinabang",
-    "warning": [
-      "IV Nagan Raya",
-      "IV Aceh Barat",
-      "III Aceh Barat Daya",
-      "III Aceh Selatan",
-      "IV Simeulue",
-      "II Banda Aceh"
     ]
   }
 ]
