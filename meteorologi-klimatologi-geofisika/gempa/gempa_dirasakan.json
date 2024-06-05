@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/06/2024 13:30:20 WIB",
+    "lintang": "8.23 LS",
+    "bujur": "118 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "214 Km",
+    "wilayah": "Pusat gempa berada di darat 61 Km barat laut Dompu",
+    "warning": [
+      "II Sumbawa"
+    ]
+  },
+  {
     "waktu": "05/06/2024 09:20:28 WIB",
     "lintang": "3.76 LS",
     "bujur": "100.54 BT",
@@ -224,17 +235,6 @@
       "III Cipamingkis",
       "II-III Bungbulang",
       "II-III Cikelet"
-    ]
-  },
-  {
-    "waktu": "26/05/2024 22:32:00 WIB",
-    "lintang": "2.19 LS",
-    "bujur": "120.81 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 59 km Barat Laut Luwu Timur",
-    "warning": [
-      "III Mangkutana"
     ]
   }
 ]
