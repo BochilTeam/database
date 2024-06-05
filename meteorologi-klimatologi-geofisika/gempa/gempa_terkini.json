@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05-06-24 18:16:14 WIB",
+    "lintang": "0.42",
+    "bujur": "98.50",
+    "magnitudo": "5.7",
+    "kedalaman": "57 Km",
+    "wilayah": "78 km Tenggara NIASSELATAN-SUMUT"
+  },
+  {
     "waktu": "05-06-24 09:20:28 WIB",
     "lintang": "-3.76",
     "bujur": "100.54",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "105 km Tenggara PACITAN-JATIM"
-  },
-  {
-    "waktu": "22-04-24 12:34:12 WIB",
-    "lintang": "-6.33",
-    "bujur": "130.86",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "188 km BaratLaut TANIMBAR"
   }
 ]
