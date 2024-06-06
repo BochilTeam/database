@@ -1,5 +1,48 @@
 [
   {
+    "waktu": "06/06/2024 20:40:29 WIB",
+    "lintang": "1.43 LS",
+    "bujur": "133.91 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "35 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km barat daya Pegunungan Arfak",
+    "warning": [
+      "II Manokwari Selatan"
+    ]
+  },
+  {
+    "waktu": "06/06/2024 20:15:40 WIB",
+    "lintang": "9.22 LS",
+    "bujur": "116.94 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 52 km Tenggara Sumbawa Barat",
+    "warning": [
+      "III Gianyar",
+      "III Badung",
+      "III Denpasar",
+      "III Sumbawa Barat",
+      "III Sumbawa",
+      "III Lombok Tengah",
+      "III Lombok Barat",
+      "III Mataram",
+      "III Lombok Timur",
+      "III Lombok Utara",
+      "III Dompu"
+    ]
+  },
+  {
+    "waktu": "06/06/2024 19:46:26 WIB",
+    "lintang": "1.15 LS",
+    "bujur": "119.8 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "34 Km",
+    "wilayah": "Pusat gempa berada di darat 29 km Selatan Palu",
+    "warning": [
+      "II Sigi"
+    ]
+  },
+  {
     "waktu": "06/06/2024 02:21:11 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.93 BT",
@@ -203,39 +246,6 @@
     "warning": [
       "II Dieng",
       "II Banjarnegara"
-    ]
-  },
-  {
-    "waktu": "30/05/2024 08:44:51 WIB",
-    "lintang": "5.73 LS",
-    "bujur": "112.48 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di laut 138 timurlaut Tuban",
-    "warning": [
-      "II - III Bawean"
-    ]
-  },
-  {
-    "waktu": "30/05/2024 01:22:17 WIB",
-    "lintang": "6.72 LS",
-    "bujur": "106.61 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 24 km baratdaya Kota Bogor",
-    "warning": [
-      "II Sukabumi"
-    ]
-  },
-  {
-    "waktu": "29/05/2024 13:38:41 WIB",
-    "lintang": "5.68 LS",
-    "bujur": "112.52 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 145 km TimurLaut Tuban",
-    "warning": [
-      "II Bawean"
     ]
   }
 ]

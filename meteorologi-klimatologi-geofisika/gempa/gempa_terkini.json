@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06-06-24 20:15:40 WIB",
+    "lintang": "-9.11",
+    "bujur": "116.94",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "40 km Tenggara SUMBAWABARAT-NTB"
+  },
+  {
     "waktu": "05-06-24 18:16:14 WIB",
     "lintang": "0.42",
     "bujur": "98.50",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "156 Km",
     "wilayah": "45 km Tenggara BOALEMO-GORONTALO"
-  },
-  {
-    "waktu": "22-04-24 18:10:47 WIB",
-    "lintang": "-9.11",
-    "bujur": "111.31",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "105 km Tenggara PACITAN-JATIM"
   }
 ]
