@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07-06-24 23:31:06 WIB",
+    "lintang": "-2.86",
+    "bujur": "139.37",
+    "magnitudo": "5.8",
+    "kedalaman": "45 Km",
+    "wilayah": "95 km TimurLaut KOBAGMA-PAPUAPGNGN"
+  },
+  {
     "waktu": "07-06-24 05:00:52 WIB",
     "lintang": "-2.72",
     "bujur": "142.32",
@@ -230,13 +238,5 @@
     "magnitudo": "6.5",
     "kedalaman": "10 Km",
     "wilayah": "151 km BaratDaya KAB-GARUT-JABAR"
-  },
-  {
-    "waktu": "27-04-24 17:46:30 WIB",
-    "lintang": "-6.39",
-    "bujur": "130.26",
-    "magnitudo": "5.2",
-    "kedalaman": "179 Km",
-    "wilayah": "210 km BaratLaut TANIMBAR"
   }
 ]
