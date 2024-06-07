@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "07/06/2024 02:57:52 WIB",
+    "lintang": "7.79 LS",
+    "bujur": "107.29 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di laut 89 km BaratDaya Kab Bandung",
+    "warning": [
+      "II Garut",
+      "II Cianjur",
+      "II Tasikmalaya",
+      "II GunungHalu"
+    ]
+  },
+  {
     "waktu": "06/06/2024 20:40:29 WIB",
     "lintang": "1.43 LS",
     "bujur": "133.91 BT",
@@ -234,18 +248,6 @@
     "wilayah": "Pusat gempa berada di darat 43 km baratlaut Luwutimur",
     "warning": [
       "II Mangkutana"
-    ]
-  },
-  {
-    "waktu": "30/05/2024 19:43:33 WIB",
-    "lintang": "7.27 LS",
-    "bujur": "109.88 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 10 Km barat laut Wonosobo",
-    "warning": [
-      "II Dieng",
-      "II Banjarnegara"
     ]
   }
 ]

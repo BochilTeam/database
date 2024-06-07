@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07-06-24 05:00:52 WIB",
+    "lintang": "-2.72",
+    "bujur": "142.32",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "170 km BaratLaut WEWAK-PNG"
+  },
+  {
     "waktu": "07-06-24 01:57:39 WIB",
     "lintang": "-7.36",
     "bujur": "121.04",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "179 Km",
     "wilayah": "210 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "26-04-24 20:43:18 WIB",
-    "lintang": "-10.62",
-    "bujur": "115.05",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "203 km BaratDaya KUTASELATAN-BALI"
   }
 ]
