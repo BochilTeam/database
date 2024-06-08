@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "09/06/2024 00:01:56 WIB",
+    "lintang": "8.12 LS",
+    "bujur": "107.87 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "43 Km",
+    "wilayah": "Pusat gempa berada di laut 82 km BaratDaya Kab. Pangandaran",
+    "warning": [
+      "II - III Pangandaran",
+      "II - III Garut"
+    ]
+  },
+  {
     "waktu": "08/06/2024 05:44:12 WIB",
     "lintang": "3.02 LU",
     "bujur": "97.41 BT",
@@ -237,17 +249,6 @@
     "wilayah": "Pusat gempa berada di darat 15 km Tenggara Kan. Jayapura",
     "warning": [
       "II Sentani"
-    ]
-  },
-  {
-    "waktu": "31/05/2024 00:08:19 WIB",
-    "lintang": "2.76 LS",
-    "bujur": "122.18 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 31 km tenggara Morowali",
-    "warning": [
-      "III-IV Morowali"
     ]
   }
 ]
