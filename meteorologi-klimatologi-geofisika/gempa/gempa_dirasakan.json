@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/06/2024 05:44:12 WIB",
+    "lintang": "3.02 LU",
+    "bujur": "97.41 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 35 km tenggara Kab. Aceh Selatan",
+    "warning": [
+      "III Aceh Selatan"
+    ]
+  },
+  {
     "waktu": "07/06/2024 23:31:06 WIB",
     "lintang": "2.86 LS",
     "bujur": "139.37 BT",
@@ -237,17 +248,6 @@
     "wilayah": "Pusat gempa berada di laut 31 km tenggara Morowali",
     "warning": [
       "III-IV Morowali"
-    ]
-  },
-  {
-    "waktu": "30/05/2024 23:42:38 WIB",
-    "lintang": "3.19 LS",
-    "bujur": "135.56 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada di darat 20 k, timur laut Nabire",
-    "warning": [
-      "II Nabire"
     ]
   }
 ]
