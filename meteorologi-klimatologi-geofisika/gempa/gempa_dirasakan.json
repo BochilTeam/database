@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "10/06/2024 14:08:03 WIB",
+    "lintang": "5.56 LU",
+    "bujur": "95.43 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 39 km tenggara Kota Sabang",
+    "warning": [
+      "II-III Aceh Besar"
+    ]
+  },
+  {
+    "waktu": "10/06/2024 13:02:05 WIB",
+    "lintang": "0.17 LU",
+    "bujur": "124.9 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 72 km tenggara Tutuyan - Bolaang Mongondow",
+    "warning": [
+      "II Minahasa"
+    ]
+  },
+  {
     "waktu": "10/06/2024 10:35:35 WIB",
     "lintang": "2.78 LS",
     "bujur": "122.14 BT",
@@ -224,31 +246,6 @@
     "wilayah": "Pusat gempa berada di laut 79 km tenggara Boalemo",
     "warning": [
       "III Pohuwato"
-    ]
-  },
-  {
-    "waktu": "02/06/2024 13:47:29 WIB",
-    "lintang": "0.8 LU",
-    "bujur": "125.38 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "32 Km",
-    "wilayah": "Pusat gempa berada di laut 70 km tenggara Ratahan-Mitra",
-    "warning": [
-      "II-III Bolaang Mongondow Selatan",
-      "II-III Minahasa Tenggara",
-      "II Manado"
-    ]
-  },
-  {
-    "waktu": "02/06/2024 06:57:12 WIB",
-    "lintang": "4.56 LS",
-    "bujur": "102.04 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di laut 80 km baratdaya Seluma",
-    "warning": [
-      "II Bengkulu",
-      "II-III Seluma"
     ]
   }
 ]
