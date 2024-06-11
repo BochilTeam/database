@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/06/2024 06:46:10 WIB",
+    "lintang": "4.72 LU",
+    "bujur": "95.88 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "79 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km timur laut Calang - Aceh",
+    "warning": [
+      "II-III Lamno"
+    ]
+  },
+  {
     "waktu": "11/06/2024 00:29:36 WIB",
     "lintang": "6.77 LS",
     "bujur": "112.06 BT",
@@ -234,17 +245,6 @@
     "wilayah": "Pusat gempa berada di laut 34 km tenggara Konawe",
     "warning": [
       "II-III Buton Utara"
-    ]
-  },
-  {
-    "waktu": "03/06/2024 07:10:37 WIB",
-    "lintang": "0.86 LU",
-    "bujur": "117.19 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "43 Km",
-    "wilayah": "Pusat gempa berada di darat 24 km tenggara Kutai Timur",
-    "warning": [
-      "III Kutai Timur"
     ]
   }
 ]
