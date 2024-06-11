@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "11/06/2024 15:07:20 WIB",
+    "lintang": "0.89 LU",
+    "bujur": "97.76 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "31 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km tenggara Nias",
+    "warning": [
+      "II-III Gunungsitoli",
+      "II-III Kab. Nias",
+      "II-III Kab. Nias Selatan"
+    ]
+  },
+  {
     "waktu": "11/06/2024 06:46:10 WIB",
     "lintang": "4.72 LU",
     "bujur": "95.88 BT",
@@ -234,17 +247,6 @@
       "II - III Kerinci",
       "II - III Sungai Penuh",
       "III - IV Mukomuko"
-    ]
-  },
-  {
-    "waktu": "04/06/2024 04:16:11 WIB",
-    "lintang": "4.16 LS",
-    "bujur": "123.31 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 34 km tenggara Konawe",
-    "warning": [
-      "II-III Buton Utara"
     ]
   }
 ]
