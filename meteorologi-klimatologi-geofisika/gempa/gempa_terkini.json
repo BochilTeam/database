@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-06-24 00:01:23 WIB",
+    "lintang": "4.36",
+    "bujur": "126.65",
+    "magnitudo": "6.0",
+    "kedalaman": "30 Km",
+    "wilayah": "40 km BaratLaut MELONGUANE-SULUT"
+  },
+  {
     "waktu": "12-06-24 10:45:23 WIB",
     "lintang": "-3.33",
     "bujur": "142.43",
@@ -230,13 +238,5 @@
     "magnitudo": "5.8",
     "kedalaman": "14 Km",
     "wilayah": "50 km Tenggara SERAMBAGIANTIMUR-MALUKU"
-  },
-  {
-    "waktu": "06-05-24 01:33:14 WIB",
-    "lintang": "-3.22",
-    "bujur": "130.98",
-    "magnitudo": "6.1",
-    "kedalaman": "45 Km",
-    "wilayah": "56 km Tenggara SERAMBAGIANTIMUR-MALUKU"
   }
 ]

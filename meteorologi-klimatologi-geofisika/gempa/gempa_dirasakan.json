@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "13/06/2024 00:01:23 WIB",
+    "lintang": "4.36 LU",
+    "bujur": "126.65 BT",
+    "magnitudo": "6",
+    "kedalaman": "30 Km",
+    "wilayah": "Pusat gempa berada di laut 40 km barat laut Melonguane",
+    "warning": [
+      "III Kepulauan Sangihe",
+      "III-IV Kepulauan Talaud",
+      "II Manado"
+    ]
+  },
+  {
     "waktu": "11/06/2024 15:07:20 WIB",
     "lintang": "0.89 LU",
     "bujur": "97.76 BT",
@@ -233,20 +246,6 @@
     "wilayah": "Pusat gempa berada di darat 61 Km barat laut Dompu",
     "warning": [
       "II Sumbawa"
-    ]
-  },
-  {
-    "waktu": "05/06/2024 09:20:28 WIB",
-    "lintang": "3.76 LS",
-    "bujur": "100.54 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "34 Km",
-    "wilayah": "Pusat gempa berada di laut 146 km barat daya Mukomuko",
-    "warning": [
-      "III Argamakmur",
-      "II - III Kerinci",
-      "II - III Sungai Penuh",
-      "III - IV Mukomuko"
     ]
   }
 ]
