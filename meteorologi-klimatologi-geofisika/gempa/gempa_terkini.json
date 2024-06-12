@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-06-24 10:45:23 WIB",
+    "lintang": "-3.33",
+    "bujur": "142.43",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "132 km BaratLaut WEWAK-PNG"
+  },
+  {
     "waktu": "09-06-24 08:04:46 WIB",
     "lintang": "4.88",
     "bujur": "126.24",
@@ -230,13 +238,5 @@
     "magnitudo": "6.1",
     "kedalaman": "45 Km",
     "wilayah": "56 km Tenggara SERAMBAGIANTIMUR-MALUKU"
-  },
-  {
-    "waktu": "30-04-24 20:52:43 WIB",
-    "lintang": "2.32",
-    "bujur": "126.81",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "107 km BaratLaut PULAUDOI-MALUT"
   }
 ]
