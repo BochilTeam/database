@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14-06-24 15:18:46 WIB",
+    "lintang": "2.26",
+    "bujur": "128.14",
+    "magnitudo": "5.0",
+    "kedalaman": "151 Km",
+    "wilayah": "29 km BaratLaut DARUBA-MALUT"
+  },
+  {
     "waktu": "14-06-24 02:44:01 WIB",
     "lintang": "5.65",
     "bujur": "126.22",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "78 Km",
     "wilayah": "97 km BaratDaya LOMBOKBARAT-NTB"
-  },
-  {
-    "waktu": "07-05-24 10:34:59 WIB",
-    "lintang": "-8.82",
-    "bujur": "110.93",
-    "magnitudo": "5.0",
-    "kedalaman": "24 Km",
-    "wilayah": "73 km BaratDaya PACITAN-JATIM"
   }
 ]
