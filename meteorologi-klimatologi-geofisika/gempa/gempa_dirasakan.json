@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "15/06/2024 22:31:03 WIB",
+    "lintang": "4.89 LS",
+    "bujur": "103.02 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "30 Km",
+    "wilayah": "Pusat gempa berada di laut 38 km barat daya Kaur",
+    "warning": [
+      "II-III Bengkulu Selatan",
+      "II-III Kaur",
+      "III Pesisir Barat",
+      "III Lampung Barat"
+    ]
+  },
+  {
+    "waktu": "15/06/2024 20:08:15 WIB",
+    "lintang": "3.16 LU",
+    "bujur": "127.27 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 112 km barat laut Pulau Doi",
+    "warning": [
+      "II Tomohon",
+      "II Manado",
+      "II Bolaang Mongondow Selatan",
+      "II Minahasa Tenggara",
+      "II Kepulauan Talaud",
+      "II Minahasa Utara",
+      "II Minahasa",
+      "II Siau Tagulandang Biaro"
+    ]
+  },
+  {
     "waktu": "14/06/2024 12:39:43 WIB",
     "lintang": "1.87 LS",
     "bujur": "100.39 BT",
@@ -217,36 +249,6 @@
     "wilayah": "Pusat gempa berada di darat 29 km Selatan Palu",
     "warning": [
       "II Sigi"
-    ]
-  },
-  {
-    "waktu": "06/06/2024 02:21:11 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.93 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km timur laut Kab. Sumedang",
-    "warning": [
-      "II Sumedang Selatan",
-      "II Cimalaka"
-    ]
-  },
-  {
-    "waktu": "05/06/2024 18:16:14 WIB",
-    "lintang": "0.42 LU",
-    "bujur": "98.5 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "57 Km",
-    "wilayah": "Pusat gempa berada di laut 78 Km tenggara Nias Selatan",
-    "warning": [
-      "III Nias Selatan",
-      "II Gunung Sitoli",
-      "III Pasaman Barat",
-      "III Padang Pariaman",
-      "III Agam",
-      "II Padang Panjang",
-      "III Padang Sidempuan",
-      "III Tapanuli Utara"
     ]
   }
 ]
