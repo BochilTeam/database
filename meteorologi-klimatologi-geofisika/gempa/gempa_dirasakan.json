@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/06/2024 18:21:53 WIB",
+    "lintang": "6.85 LS",
+    "bujur": "107.07 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km barat daya Kab. Cianjur",
+    "warning": [
+      "II - III Cianjur"
+    ]
+  },
+  {
     "waktu": "15/06/2024 22:31:03 WIB",
     "lintang": "4.89 LS",
     "bujur": "103.02 BT",
@@ -238,17 +249,6 @@
       "III Lombok Timur",
       "III Lombok Utara",
       "III Dompu"
-    ]
-  },
-  {
-    "waktu": "06/06/2024 19:46:26 WIB",
-    "lintang": "1.15 LS",
-    "bujur": "119.8 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "34 Km",
-    "wilayah": "Pusat gempa berada di darat 29 km Selatan Palu",
-    "warning": [
-      "II Sigi"
     ]
   }
 ]
