@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/06/2024 18:02:29 WIB",
+    "lintang": "6.88 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km Barat Daya Cianjur Jawa Barat",
+    "warning": [
+      "II Cugenang"
+    ]
+  },
+  {
     "waktu": "18/06/2024 10:43:35 WIB",
     "lintang": "6.84 LS",
     "bujur": "107.09 BT",
@@ -225,20 +236,6 @@
     "wilayah": "Pusat gempa berada di laut 27 km barat Kairatu",
     "warning": [
       "II Ambon"
-    ]
-  },
-  {
-    "waktu": "07/06/2024 02:57:52 WIB",
-    "lintang": "7.79 LS",
-    "bujur": "107.29 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada di laut 89 km BaratDaya Kab Bandung",
-    "warning": [
-      "II Garut",
-      "II Cianjur",
-      "II Tasikmalaya",
-      "II GunungHalu"
     ]
   }
 ]
