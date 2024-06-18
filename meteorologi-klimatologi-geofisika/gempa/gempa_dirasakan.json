@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/06/2024 10:43:35 WIB",
+    "lintang": "6.84 LS",
+    "bujur": "107.09 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km Barat Daya Cianjur",
+    "warning": [
+      "II Cianjur"
+    ]
+  },
+  {
     "waktu": "18/06/2024 06:30:27 WIB",
     "lintang": "8.35 LS",
     "bujur": "116.08 BT",
@@ -228,17 +239,6 @@
       "II Cianjur",
       "II Tasikmalaya",
       "II GunungHalu"
-    ]
-  },
-  {
-    "waktu": "06/06/2024 20:40:29 WIB",
-    "lintang": "1.43 LS",
-    "bujur": "133.91 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "35 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km barat daya Pegunungan Arfak",
-    "warning": [
-      "II Manokwari Selatan"
     ]
   }
 ]
