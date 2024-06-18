@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/06/2024 06:30:27 WIB",
+    "lintang": "8.35 LS",
+    "bujur": "116.08 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 8 km BaratLaut Lombok Utara",
+    "warning": [
+      "II Lombok Utara"
+    ]
+  },
+  {
     "waktu": "17/06/2024 18:21:53 WIB",
     "lintang": "6.85 LS",
     "bujur": "107.07 BT",
@@ -228,27 +239,6 @@
     "wilayah": "Pusat gempa berada di darat 17 km barat daya Pegunungan Arfak",
     "warning": [
       "II Manokwari Selatan"
-    ]
-  },
-  {
-    "waktu": "06/06/2024 20:15:40 WIB",
-    "lintang": "9.22 LS",
-    "bujur": "116.94 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 52 km Tenggara Sumbawa Barat",
-    "warning": [
-      "III Gianyar",
-      "III Badung",
-      "III Denpasar",
-      "III Sumbawa Barat",
-      "III Sumbawa",
-      "III Lombok Tengah",
-      "III Lombok Barat",
-      "III Mataram",
-      "III Lombok Timur",
-      "III Lombok Utara",
-      "III Dompu"
     ]
   }
 ]
