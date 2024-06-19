@@ -1,5 +1,38 @@
 [
   {
+    "waktu": "19/06/2024 09:39:42 WIB",
+    "lintang": "2.42 LU",
+    "bujur": "95.52 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "69 Km",
+    "wilayah": "Pusat gempa berada di Laut 94 Km barat daya Sinabang",
+    "warning": [
+      "III Alafan"
+    ]
+  },
+  {
+    "waktu": "19/06/2024 09:34:21 WIB",
+    "lintang": "2.47 LU",
+    "bujur": "95.52 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "70 Km",
+    "wilayah": "Pusat gempa berada di Laut 94 Km barat daya Sinabang",
+    "warning": [
+      "III Alafan"
+    ]
+  },
+  {
+    "waktu": "19/06/2024 09:32:25 WIB",
+    "lintang": "2.69 LU",
+    "bujur": "95.7 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di Laut 78 Km barat laut Sinabang",
+    "warning": [
+      "III Alafan"
+    ]
+  },
+  {
     "waktu": "18/06/2024 18:02:29 WIB",
     "lintang": "6.88 LS",
     "bujur": "107.08 BT",
@@ -203,39 +236,6 @@
     "warning": [
       "II - III Pangandaran",
       "II - III Garut"
-    ]
-  },
-  {
-    "waktu": "08/06/2024 05:44:12 WIB",
-    "lintang": "3.02 LU",
-    "bujur": "97.41 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 35 km tenggara Kab. Aceh Selatan",
-    "warning": [
-      "III Aceh Selatan"
-    ]
-  },
-  {
-    "waktu": "07/06/2024 23:31:06 WIB",
-    "lintang": "2.86 LS",
-    "bujur": "139.37 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "45 Km",
-    "wilayah": "Pusat gempa berada di darat 95 km timur laut Kobagma",
-    "warning": [
-      "III Kab. Jayapura"
-    ]
-  },
-  {
-    "waktu": "07/06/2024 07:46:50 WIB",
-    "lintang": "3.43 LS",
-    "bujur": "128.13 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "69 Km",
-    "wilayah": "Pusat gempa berada di laut 27 km barat Kairatu",
-    "warning": [
-      "II Ambon"
     ]
   }
 ]
