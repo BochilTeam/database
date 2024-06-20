@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "20/06/2024 19:41:23 WIB",
+    "lintang": "5.76 LS",
+    "bujur": "112.49 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 136 km timur laut Tuban",
+    "warning": [
+      "II-III Bawean"
+    ]
+  },
+  {
+    "waktu": "20/06/2024 19:31:42 WIB",
+    "lintang": "3.51 LS",
+    "bujur": "128.63 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 8 km utara Saparua - Maluku Tengah",
+    "warning": [
+      "III Saparua"
+    ]
+  },
+  {
     "waktu": "19/06/2024 09:39:42 WIB",
     "lintang": "2.42 LU",
     "bujur": "95.52 BT",
@@ -210,32 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 27 km tenggara Morowali",
     "warning": [
       "III Bahodopi"
-    ]
-  },
-  {
-    "waktu": "10/06/2024 05:54:54 WIB",
-    "lintang": "0.45 LS",
-    "bujur": "100.25 BT",
-    "magnitudo": "4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km barat laut Padang Panjang",
-    "warning": [
-      "III Padang Panjang",
-      "II - III Bukittinggi",
-      "II - III Padang Pariaman",
-      "II - III Agam"
-    ]
-  },
-  {
-    "waktu": "09/06/2024 00:01:56 WIB",
-    "lintang": "8.12 LS",
-    "bujur": "107.87 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "43 Km",
-    "wilayah": "Pusat gempa berada di laut 82 km BaratDaya Kab. Pangandaran",
-    "warning": [
-      "II - III Pangandaran",
-      "II - III Garut"
     ]
   }
 ]
