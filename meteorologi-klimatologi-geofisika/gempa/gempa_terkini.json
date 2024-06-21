@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-06-24 07:11:19 WIB",
+    "lintang": "-3.54",
+    "bujur": "140.01",
+    "magnitudo": "5.7",
+    "kedalaman": "78 Km",
+    "wilayah": "68 km TimurLaut YALIMO-PAPUAPGNGN"
+  },
+  {
     "waktu": "15-06-24 20:08:15 WIB",
     "lintang": "3.16",
     "bujur": "127.27",
@@ -230,13 +238,5 @@
     "magnitudo": "5.8",
     "kedalaman": "259 Km",
     "wilayah": "7 km BaratLaut LOLAK-BOLMONG-SULUT"
-  },
-  {
-    "waktu": "11-05-24 02:34:37 WIB",
-    "lintang": "-9.13",
-    "bujur": "113.06",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "112 km BaratDaya LUMAJANG-JATIM"
   }
 ]
