@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "23/06/2024 00:52:52 WIB",
+    "lintang": "2.6 LU",
+    "bujur": "98.67 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km baratdaya Samosir",
+    "warning": [
+      "III Samosir"
+    ]
+  },
+  {
+    "waktu": "23/06/2024 00:03:18 WIB",
+    "lintang": "2.58 LU",
+    "bujur": "98.66 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km barat daya Samosir",
+    "warning": [
+      "III Samosir"
+    ]
+  },
+  {
     "waktu": "21/06/2024 07:11:19 WIB",
     "lintang": "3.54 LS",
     "bujur": "140.01 BT",
@@ -212,28 +234,6 @@
     "wilayah": "Pusat gempa berada di darat 45 km baratlaut Luwu Timur",
     "warning": [
       "II Mangkutana"
-    ]
-  },
-  {
-    "waktu": "10/06/2024 14:08:03 WIB",
-    "lintang": "5.56 LU",
-    "bujur": "95.43 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 39 km tenggara Kota Sabang",
-    "warning": [
-      "II-III Aceh Besar"
-    ]
-  },
-  {
-    "waktu": "10/06/2024 13:02:05 WIB",
-    "lintang": "0.17 LU",
-    "bujur": "124.9 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 72 km tenggara Tutuyan - Bolaang Mongondow",
-    "warning": [
-      "II Minahasa"
     ]
   }
 ]
