@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/06/2024 02:33:43 WIB",
+    "lintang": "2.58 LU",
+    "bujur": "98.66 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km barat daya Samosir",
+    "warning": [
+      "III Samosir"
+    ]
+  },
+  {
     "waktu": "23/06/2024 00:52:52 WIB",
     "lintang": "2.6 LU",
     "bujur": "98.67 BT",
@@ -223,17 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 14 km timur laut Tuban",
     "warning": [
       "II Tuban"
-    ]
-  },
-  {
-    "waktu": "10/06/2024 20:30:14 WIB",
-    "lintang": "2.46 LS",
-    "bujur": "120.78 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 45 km baratlaut Luwu Timur",
-    "warning": [
-      "II Mangkutana"
     ]
   }
 ]
