@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/06/2024 18:43:50 WIB",
+    "lintang": "3.44 LS",
+    "bujur": "135.47 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "38 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km barat daya Nabire",
+    "warning": [
+      "II Nabire"
+    ]
+  },
+  {
     "waktu": "23/06/2024 13:54:03 WIB",
     "lintang": "0.95 LS",
     "bujur": "119.88 BT",
@@ -223,17 +234,6 @@
       "II-III Gunungsitoli",
       "II-III Kab. Nias",
       "II-III Kab. Nias Selatan"
-    ]
-  },
-  {
-    "waktu": "11/06/2024 06:46:10 WIB",
-    "lintang": "4.72 LU",
-    "bujur": "95.88 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "79 Km",
-    "wilayah": "Pusat gempa berada di darat 34 km timur laut Calang - Aceh",
-    "warning": [
-      "II-III Lamno"
     ]
   }
 ]
