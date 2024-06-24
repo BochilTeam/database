@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "24/06/2024 16:55:01 WIB",
+    "lintang": "7.14 LS",
+    "bujur": "130.02 BT",
+    "magnitudo": "6",
+    "kedalaman": "153 Km",
+    "wilayah": "Pusat gempa berada di laut 170 km barat laut Saumlaki",
+    "warning": [
+      "II Saumlaki",
+      "II Tiakur"
+    ]
+  },
+  {
     "waktu": "24/06/2024 03:21:46 WIB",
     "lintang": "3.3 LS",
     "bujur": "128.35 BT",
@@ -219,19 +231,6 @@
     "warning": [
       "II-III Padang",
       "II-III Pesisir Selatan"
-    ]
-  },
-  {
-    "waktu": "13/06/2024 00:01:23 WIB",
-    "lintang": "4.36 LU",
-    "bujur": "126.65 BT",
-    "magnitudo": "6",
-    "kedalaman": "30 Km",
-    "wilayah": "Pusat gempa berada di laut 40 km barat laut Melonguane",
-    "warning": [
-      "III Kepulauan Sangihe",
-      "III-IV Kepulauan Talaud",
-      "II Manado"
     ]
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24-06-24 16:55:01 WIB",
+    "lintang": "-7.14",
+    "bujur": "130.02",
+    "magnitudo": "6.0",
+    "kedalaman": "153 Km",
+    "wilayah": "170 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "21-06-24 07:11:19 WIB",
     "lintang": "-3.54",
     "bujur": "140.01",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "284 Km",
     "wilayah": "91 km TimurLaut LEMBATA-NTT"
-  },
-  {
-    "waktu": "13-05-24 07:28:15 WIB",
-    "lintang": "0.91",
-    "bujur": "123.95",
-    "magnitudo": "5.8",
-    "kedalaman": "259 Km",
-    "wilayah": "7 km BaratLaut LOLAK-BOLMONG-SULUT"
   }
 ]
