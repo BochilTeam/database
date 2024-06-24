@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/06/2024 03:21:46 WIB",
+    "lintang": "3.3 LS",
+    "bujur": "128.35 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 32 km tenggara Piru",
+    "warning": [
+      "II-III Kairatu"
+    ]
+  },
+  {
     "waktu": "23/06/2024 18:43:50 WIB",
     "lintang": "3.44 LS",
     "bujur": "135.47 BT",
@@ -221,19 +232,6 @@
       "III Kepulauan Sangihe",
       "III-IV Kepulauan Talaud",
       "II Manado"
-    ]
-  },
-  {
-    "waktu": "11/06/2024 15:07:20 WIB",
-    "lintang": "0.89 LU",
-    "bujur": "97.76 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "31 Km",
-    "wilayah": "Pusat gempa berada di darat 27 km tenggara Nias",
-    "warning": [
-      "II-III Gunungsitoli",
-      "II-III Kab. Nias",
-      "II-III Kab. Nias Selatan"
     ]
   }
 ]
