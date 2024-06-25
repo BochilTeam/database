@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/06/2024 18:12:03 WIB",
+    "lintang": "2.31 LS",
+    "bujur": "120.88 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 44 km barat laut Luwu Timur",
+    "warning": [
+      "III Mangkutana"
+    ]
+  },
+  {
     "waktu": "25/06/2024 08:09:08 WIB",
     "lintang": "0.2 LU",
     "bujur": "100.12 BT",
@@ -210,20 +221,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km barat daya Kab. Cianjur",
     "warning": [
       "II - III Cianjur"
-    ]
-  },
-  {
-    "waktu": "15/06/2024 22:31:03 WIB",
-    "lintang": "4.89 LS",
-    "bujur": "103.02 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "30 Km",
-    "wilayah": "Pusat gempa berada di laut 38 km barat daya Kaur",
-    "warning": [
-      "II-III Bengkulu Selatan",
-      "II-III Kaur",
-      "III Pesisir Barat",
-      "III Lampung Barat"
     ]
   }
 ]
