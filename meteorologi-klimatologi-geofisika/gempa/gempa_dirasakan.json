@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/06/2024 14:34:51 WIB",
+    "lintang": "2.43 LS",
+    "bujur": "120.98 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km barat laut Luwu Timur",
+    "warning": [
+      "II Luwu Timur"
+    ]
+  },
+  {
     "waktu": "25/06/2024 18:12:03 WIB",
     "lintang": "2.31 LS",
     "bujur": "120.88 BT",
@@ -210,17 +221,6 @@
     "wilayah": "Pusat gempa berada di laut 8 km BaratLaut Lombok Utara",
     "warning": [
       "II Lombok Utara"
-    ]
-  },
-  {
-    "waktu": "17/06/2024 18:21:53 WIB",
-    "lintang": "6.85 LS",
-    "bujur": "107.07 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km barat daya Kab. Cianjur",
-    "warning": [
-      "II - III Cianjur"
     ]
   }
 ]
