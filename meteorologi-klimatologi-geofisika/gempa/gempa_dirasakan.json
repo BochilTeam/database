@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "27/06/2024 02:41:27 WIB",
+    "lintang": "0.34 LS",
+    "bujur": "123.02 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di laut 98 km barat daya Bonebolango",
+    "warning": [
+      "II - III Luwuk"
+    ]
+  },
+  {
+    "waktu": "27/06/2024 01:38:29 WIB",
+    "lintang": "6.8 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km barat laut Kab. Cianjur",
+    "warning": [
+      "II Pacet"
+    ]
+  },
+  {
     "waktu": "26/06/2024 14:34:51 WIB",
     "lintang": "2.43 LS",
     "bujur": "120.98 BT",
@@ -199,28 +221,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km Barat Daya Cianjur Jawa Barat",
     "warning": [
       "II Cugenang"
-    ]
-  },
-  {
-    "waktu": "18/06/2024 10:43:35 WIB",
-    "lintang": "6.84 LS",
-    "bujur": "107.09 BT",
-    "magnitudo": "2.1",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km Barat Daya Cianjur",
-    "warning": [
-      "II Cianjur"
-    ]
-  },
-  {
-    "waktu": "18/06/2024 06:30:27 WIB",
-    "lintang": "8.35 LS",
-    "bujur": "116.08 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 8 km BaratLaut Lombok Utara",
-    "warning": [
-      "II Lombok Utara"
     ]
   }
 ]
