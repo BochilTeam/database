@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "27-06-24 10:46:32 WIB",
+    "lintang": "-0.24",
+    "bujur": "123.31",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "88 km Tenggara BONEBOLANGO-GORONTALO"
+  },
+  {
     "waktu": "24-06-24 16:55:01 WIB",
     "lintang": "-7.14",
     "bujur": "130.02",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 Km",
     "wilayah": "15 km BaratDaya LOMBOKUTARA-NTB"
-  },
-  {
-    "waktu": "13-05-24 21:08:35 WIB",
-    "lintang": "-7.68",
-    "bujur": "123.70",
-    "magnitudo": "5.1",
-    "kedalaman": "284 Km",
-    "wilayah": "91 km TimurLaut LEMBATA-NTT"
   }
 ]
