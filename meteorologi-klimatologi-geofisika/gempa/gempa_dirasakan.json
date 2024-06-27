@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "27/06/2024 14:13:09 WIB",
+    "lintang": "6.14 LS",
+    "bujur": "104.46 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di laut 77 km baratdaya Tanggamus",
+    "warning": [
+      "IV Pesisir Selatan",
+      "II Tanggamus"
+    ]
+  },
+  {
     "waktu": "27/06/2024 10:46:32 WIB",
     "lintang": "0.24 LS",
     "bujur": "123.31 BT",
@@ -209,17 +221,6 @@
     "bujur": "95.52 BT",
     "magnitudo": "4.1",
     "kedalaman": "69 Km",
-    "wilayah": "Pusat gempa berada di Laut 94 Km barat daya Sinabang",
-    "warning": [
-      "III Alafan"
-    ]
-  },
-  {
-    "waktu": "19/06/2024 09:34:21 WIB",
-    "lintang": "2.47 LU",
-    "bujur": "95.52 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "70 Km",
     "wilayah": "Pusat gempa berada di Laut 94 Km barat daya Sinabang",
     "warning": [
       "III Alafan"
