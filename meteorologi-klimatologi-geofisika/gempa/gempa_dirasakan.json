@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "27/06/2024 10:46:32 WIB",
+    "lintang": "0.24 LS",
+    "bujur": "123.31 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 88 km Tenggara Bonebolango",
+    "warning": [
+      "II-III Pohuwato",
+      "II-III Kota Gorontalo",
+      "II - III Luwuk"
+    ]
+  },
+  {
     "waktu": "27/06/2024 05:16:44 WIB",
     "lintang": "2.45 LS",
     "bujur": "140.57 BT",
@@ -208,17 +221,6 @@
     "magnitudo": "3.8",
     "kedalaman": "70 Km",
     "wilayah": "Pusat gempa berada di Laut 94 Km barat daya Sinabang",
-    "warning": [
-      "III Alafan"
-    ]
-  },
-  {
-    "waktu": "19/06/2024 09:32:25 WIB",
-    "lintang": "2.69 LU",
-    "bujur": "95.7 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di Laut 78 Km barat laut Sinabang",
     "warning": [
       "III Alafan"
     ]
