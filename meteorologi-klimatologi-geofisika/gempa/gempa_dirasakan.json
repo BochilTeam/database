@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/06/2024 05:16:44 WIB",
+    "lintang": "2.45 LS",
+    "bujur": "140.57 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 19 km barat laut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "27/06/2024 02:41:27 WIB",
     "lintang": "0.34 LS",
     "bujur": "123.02 BT",
@@ -210,17 +221,6 @@
     "wilayah": "Pusat gempa berada di Laut 78 Km barat laut Sinabang",
     "warning": [
       "III Alafan"
-    ]
-  },
-  {
-    "waktu": "18/06/2024 18:02:29 WIB",
-    "lintang": "6.88 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km Barat Daya Cianjur Jawa Barat",
-    "warning": [
-      "II Cugenang"
     ]
   }
 ]
