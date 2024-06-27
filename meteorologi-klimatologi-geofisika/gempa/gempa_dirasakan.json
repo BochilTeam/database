@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/06/2024 02:58:03 WIB",
+    "lintang": "2.47 LS",
+    "bujur": "140.68 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km barat laut Kota Jayapura",
+    "warning": [
+      "II Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "28/06/2024 02:03:57 WIB",
     "lintang": "2.49 LS",
     "bujur": "140.67 BT",
@@ -213,17 +224,6 @@
     "wilayah": "Pusat gempa berada di laut 136 km timur laut Tuban",
     "warning": [
       "II-III Bawean"
-    ]
-  },
-  {
-    "waktu": "20/06/2024 19:31:42 WIB",
-    "lintang": "3.51 LS",
-    "bujur": "128.63 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 8 km utara Saparua - Maluku Tengah",
-    "warning": [
-      "III Saparua"
     ]
   }
 ]
