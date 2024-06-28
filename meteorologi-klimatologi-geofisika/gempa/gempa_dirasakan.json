@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "28/06/2024 23:29:46 WIB",
+    "lintang": "3.41 LS",
+    "bujur": "101.64 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di laut 61 km Barat Laut Bengkulu Utara",
+    "warning": [
+      "III Bengkulu",
+      "III Argamakmur"
+    ]
+  },
+  {
     "waktu": "28/06/2024 02:58:03 WIB",
     "lintang": "2.47 LS",
     "bujur": "140.68 BT",
@@ -213,17 +225,6 @@
       "II-III Wamena",
       "II Kota Jayapura",
       "II Kab. Jayapura"
-    ]
-  },
-  {
-    "waktu": "20/06/2024 19:41:23 WIB",
-    "lintang": "5.76 LS",
-    "bujur": "112.49 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 136 km timur laut Tuban",
-    "warning": [
-      "II-III Bawean"
     ]
   }
 ]
