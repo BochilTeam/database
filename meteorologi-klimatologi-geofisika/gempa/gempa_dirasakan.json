@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "29/06/2024 04:15:46 WIB",
+    "lintang": "6.94 LS",
+    "bujur": "111.83 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km barat daya Tuban",
+    "warning": [
+      "II-III Kec. Montong",
+      "II - III Kec. Kerek",
+      "II - III Kec. Merakurak"
+    ]
+  },
+  {
     "waktu": "28/06/2024 23:29:46 WIB",
     "lintang": "3.41 LS",
     "bujur": "101.64 BT",
@@ -212,19 +225,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km barat daya Samosir",
     "warning": [
       "III Samosir"
-    ]
-  },
-  {
-    "waktu": "21/06/2024 07:11:19 WIB",
-    "lintang": "3.54 LS",
-    "bujur": "140.01 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "78 Km",
-    "wilayah": "Pusat gempa berada di darat 68 km timur laut Yalimo",
-    "warning": [
-      "II-III Wamena",
-      "II Kota Jayapura",
-      "II Kab. Jayapura"
     ]
   }
 ]
