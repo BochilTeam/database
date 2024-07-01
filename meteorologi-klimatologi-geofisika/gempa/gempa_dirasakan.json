@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/07/2024 16:14:36 WIB",
+    "lintang": "2.22 LS",
+    "bujur": "120.82 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 56 km baratlaut Luwu Timur",
+    "warning": [
+      "III-IV Masamba"
+    ]
+  },
+  {
     "waktu": "29/06/2024 04:15:46 WIB",
     "lintang": "6.94 LS",
     "bujur": "111.83 BT",
@@ -212,17 +223,6 @@
     "magnitudo": "3.9",
     "kedalaman": "5 Km",
     "wilayah": "Pusat gempa berada di darat 4 km baratdaya Samosir",
-    "warning": [
-      "III Samosir"
-    ]
-  },
-  {
-    "waktu": "23/06/2024 00:03:18 WIB",
-    "lintang": "2.58 LU",
-    "bujur": "98.66 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km barat daya Samosir",
     "warning": [
       "III Samosir"
     ]
