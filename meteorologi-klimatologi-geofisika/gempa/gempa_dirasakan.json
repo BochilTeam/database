@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/07/2024 20:27:53 WIB",
+    "lintang": "3.13 LS",
+    "bujur": "135.62 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di laut 29km Timur Laut Nabire`",
+    "warning": [
+      "Nabire II-III"
+    ]
+  },
+  {
     "waktu": "01/07/2024 23:05:28 WIB",
     "lintang": "2.33 LS",
     "bujur": "120.65 BT",
@@ -214,17 +225,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km selatan Palu",
     "warning": [
       "II-III Palu"
-    ]
-  },
-  {
-    "waktu": "23/06/2024 02:33:43 WIB",
-    "lintang": "2.58 LU",
-    "bujur": "98.66 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km barat daya Samosir",
-    "warning": [
-      "III Samosir"
     ]
   }
 ]
