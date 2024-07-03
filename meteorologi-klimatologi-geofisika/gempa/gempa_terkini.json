@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03-07-24 22:21:46 WIB",
+    "lintang": "-6.23",
+    "bujur": "130.38",
+    "magnitudo": "5.3",
+    "kedalaman": "166 Km",
+    "wilayah": "219 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "02-07-24 09:46:04 WIB",
     "lintang": "-6.25",
     "bujur": "130.21",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "29 km TimurLaut KASONAWEJA-PAPUA"
-  },
-  {
-    "waktu": "21-05-24 02:42:13 WIB",
-    "lintang": "-9.28",
-    "bujur": "112.61",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "127 km Tenggara KAB-MALANG-JATIM"
   }
 ]
