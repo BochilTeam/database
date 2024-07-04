@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/07/2024 04:51:22 WIB",
+    "lintang": "4.87 LS",
+    "bujur": "122.69 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 3.3 km BaratDaya Duruka",
+    "warning": [
+      "II - III Duruka"
+    ]
+  },
+  {
     "waktu": "03/07/2024 20:27:53 WIB",
     "lintang": "3.13 LS",
     "bujur": "135.62 BT",
@@ -214,17 +225,6 @@
     "wilayah": "Pusat gempa berada di darat 9 km barat daya Nabire",
     "warning": [
       "II Nabire"
-    ]
-  },
-  {
-    "waktu": "23/06/2024 13:54:03 WIB",
-    "lintang": "0.95 LS",
-    "bujur": "119.88 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km selatan Palu",
-    "warning": [
-      "II-III Palu"
     ]
   }
 ]
