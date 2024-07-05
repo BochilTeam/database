@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "06/07/2024 01:51:54 WIB",
+    "lintang": "4.3 LS",
+    "bujur": "102.28 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km barat daya Seluma",
+    "warning": [
+      "II-III Kota Bengkulu"
+    ]
+  },
+  {
+    "waktu": "05/07/2024 23:31:11 WIB",
+    "lintang": "0.81 LS",
+    "bujur": "110.31 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 32 km Kayong Utara",
+    "warning": [
+      "II-III Ketapang"
+    ]
+  },
+  {
     "waktu": "05/07/2024 18:29:14 WIB",
     "lintang": "5.85 LS",
     "bujur": "112.37 BT",
@@ -201,28 +223,6 @@
     "wilayah": "Pusat gempa berada di darat 27 km barat laut Luwu Timur",
     "warning": [
       "II Luwu Timur"
-    ]
-  },
-  {
-    "waktu": "25/06/2024 18:12:03 WIB",
-    "lintang": "2.31 LS",
-    "bujur": "120.88 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 44 km barat laut Luwu Timur",
-    "warning": [
-      "III Mangkutana"
-    ]
-  },
-  {
-    "waktu": "25/06/2024 08:09:08 WIB",
-    "lintang": "0.2 LU",
-    "bujur": "100.12 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km barat laut Lubuksikaping-Pasaman",
-    "warning": [
-      "II Pasaman"
     ]
   }
 ]
