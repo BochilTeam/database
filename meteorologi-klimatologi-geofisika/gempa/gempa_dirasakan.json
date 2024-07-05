@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/07/2024 10:20:58 WIB",
+    "lintang": "5.31 LS",
+    "bujur": "103.06 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di laut 65 km barat daya Kaur",
+    "warning": [
+      "II Liwa"
+    ]
+  },
+  {
     "waktu": "04/07/2024 04:51:22 WIB",
     "lintang": "4.87 LS",
     "bujur": "122.69 BT",
@@ -214,17 +225,6 @@
     "wilayah": "Pusat gempa berada di darat 32 km tenggara Piru",
     "warning": [
       "II-III Kairatu"
-    ]
-  },
-  {
-    "waktu": "23/06/2024 18:43:50 WIB",
-    "lintang": "3.44 LS",
-    "bujur": "135.47 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "38 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km barat daya Nabire",
-    "warning": [
-      "II Nabire"
     ]
   }
 ]
