@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/07/2024 18:29:14 WIB",
+    "lintang": "5.85 LS",
+    "bujur": "112.37 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 122 km timur laut Tuban",
+    "warning": [
+      "II - III Bawean"
+    ]
+  },
+  {
     "waktu": "05/07/2024 15:14:55 WIB",
     "lintang": "2.3 LU",
     "bujur": "96.19 BT",
@@ -212,17 +223,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km barat laut Lubuksikaping-Pasaman",
     "warning": [
       "II Pasaman"
-    ]
-  },
-  {
-    "waktu": "24/06/2024 22:14:50 WIB",
-    "lintang": "2.34 LS",
-    "bujur": "120.85 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 44 Km Barat Laut Luwu Timur",
-    "warning": [
-      "III Mangkutana"
     ]
   }
 ]
