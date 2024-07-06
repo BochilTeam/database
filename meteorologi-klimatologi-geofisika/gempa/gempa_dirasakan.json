@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "06/07/2024 20:26:47 WIB",
+    "lintang": "8.81 LS",
+    "bujur": "112.48 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "56 Km",
+    "wilayah": "Pusat gempa berada di laut 75 km barat daya Malang",
+    "warning": [
+      "III Gondanglegi",
+      "II - III Karangkates",
+      "II - III Kepanjen",
+      "II Trenggalek"
+    ]
+  },
+  {
     "waktu": "06/07/2024 01:51:54 WIB",
     "lintang": "4.3 LS",
     "bujur": "102.28 BT",
@@ -212,17 +226,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km barat laut Kab. Cianjur",
     "warning": [
       "II Pacet"
-    ]
-  },
-  {
-    "waktu": "26/06/2024 14:34:51 WIB",
-    "lintang": "2.43 LS",
-    "bujur": "120.98 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 27 km barat laut Luwu Timur",
-    "warning": [
-      "II Luwu Timur"
     ]
   }
 ]
