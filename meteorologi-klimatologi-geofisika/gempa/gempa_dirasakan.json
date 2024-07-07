@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "07/07/2024 14:35:24 WIB",
+    "lintang": "6.87 LS",
+    "bujur": "109.75 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km timur laut Batang",
+    "warning": [
+      "III Batang",
+      "III Pekalongan",
+      "II Kendal"
+    ]
+  },
+  {
     "waktu": "06/07/2024 20:26:47 WIB",
     "lintang": "8.81 LS",
     "bujur": "112.48 BT",
@@ -215,17 +228,6 @@
     "wilayah": "Pusat gempa berada di laut 70 km timur laut Luwuk",
     "warning": [
       "II - III Luwuk"
-    ]
-  },
-  {
-    "waktu": "27/06/2024 01:38:29 WIB",
-    "lintang": "6.8 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km barat laut Kab. Cianjur",
-    "warning": [
-      "II Pacet"
     ]
   }
 ]
