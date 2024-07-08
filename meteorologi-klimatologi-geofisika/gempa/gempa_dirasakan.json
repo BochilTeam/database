@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "08/07/2024 11:33:40 WIB",
+    "lintang": "7 LS",
+    "bujur": "107.18 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat, 20 km tenggara Kab. Cianjur",
+    "warning": [
+      "II - III Cibeber",
+      "II - III Cempaka"
+    ]
+  },
+  {
+    "waktu": "08/07/2024 11:08:05 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.09 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat, 5 km barat laut Kab. Cianjur",
+    "warning": [
+      "II-III Warungkondang"
+    ]
+  },
+  {
     "waktu": "07/07/2024 14:35:24 WIB",
     "lintang": "6.87 LS",
     "bujur": "109.75 BT",
@@ -205,28 +228,6 @@
     "warning": [
       "II-III Pohuwato",
       "II-III Kota Gorontalo",
-      "II - III Luwuk"
-    ]
-  },
-  {
-    "waktu": "27/06/2024 05:16:44 WIB",
-    "lintang": "2.45 LS",
-    "bujur": "140.57 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 19 km barat laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "27/06/2024 02:41:27 WIB",
-    "lintang": "0.34 LS",
-    "bujur": "123.02 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada di laut 70 km timur laut Luwuk",
-    "warning": [
       "II - III Luwuk"
     ]
   }
