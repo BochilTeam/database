@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/07/2024 22:32:01 WIB",
+    "lintang": "9.64 LS",
+    "bujur": "118.95 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di laut 6 km barat daya Kodi- Sumba Barat",
+    "warning": [
+      "II Pero Konda"
+    ]
+  },
+  {
     "waktu": "09/07/2024 20:50:01 WIB",
     "lintang": "1.11 LU",
     "bujur": "128.28 BT",
@@ -215,18 +226,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km barat laut Kota Jayapura",
     "warning": [
       "II - III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "27/06/2024 14:13:09 WIB",
-    "lintang": "6.14 LS",
-    "bujur": "104.46 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di laut 77 km baratdaya Tanggamus",
-    "warning": [
-      "IV Pesisir Selatan",
-      "II Tanggamus"
     ]
   }
 ]
