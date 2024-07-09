@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/07/2024 20:50:01 WIB",
+    "lintang": "1.11 LU",
+    "bujur": "128.28 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 31 km Barat Daya Halmahera Timur",
+    "warning": [
+      "II-III Subaim-Halmahera Timur"
+    ]
+  },
+  {
     "waktu": "08/07/2024 11:33:40 WIB",
     "lintang": "7 LS",
     "bujur": "107.18 BT",
@@ -216,19 +227,6 @@
     "warning": [
       "IV Pesisir Selatan",
       "II Tanggamus"
-    ]
-  },
-  {
-    "waktu": "27/06/2024 10:46:32 WIB",
-    "lintang": "0.24 LS",
-    "bujur": "123.31 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 88 km Tenggara Bonebolango",
-    "warning": [
-      "II-III Pohuwato",
-      "II-III Kota Gorontalo",
-      "II - III Luwuk"
     ]
   }
 ]
