@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10-07-24 22:32:42 WIB",
+    "lintang": "-5.33",
+    "bujur": "100.96",
+    "magnitudo": "5.8",
+    "kedalaman": "10 Km",
+    "wilayah": "145 km BaratLaut ENGGANO-BENGKULU"
+  },
+  {
     "waktu": "03-07-24 22:21:46 WIB",
     "lintang": "-6.23",
     "bujur": "130.38",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "119 Km",
     "wilayah": "50 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
-  },
-  {
-    "waktu": "21-05-24 15:31:58 WIB",
-    "lintang": "-2.10",
-    "bujur": "138.20",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "29 km TimurLaut KASONAWEJA-PAPUA"
   }
 ]
