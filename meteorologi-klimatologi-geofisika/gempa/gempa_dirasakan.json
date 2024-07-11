@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "11/07/2024 17:53:45 WIB",
+    "lintang": "8.27 LS",
+    "bujur": "115.53 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km timur laut Karangasem",
+    "warning": [
+      "II Karangasem",
+      "II Bangli"
+    ]
+  },
+  {
     "waktu": "11/07/2024 10:19:10 WIB",
     "lintang": "3.9 LS",
     "bujur": "122.24 BT",
@@ -220,18 +232,6 @@
       "II-III Kec. Montong",
       "II - III Kec. Kerek",
       "II - III Kec. Merakurak"
-    ]
-  },
-  {
-    "waktu": "28/06/2024 23:29:46 WIB",
-    "lintang": "3.41 LS",
-    "bujur": "101.64 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "26 Km",
-    "wilayah": "Pusat gempa berada di laut 61 km Barat Laut Bengkulu Utara",
-    "warning": [
-      "III Bengkulu",
-      "III Argamakmur"
     ]
   }
 ]
