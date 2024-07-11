@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "11/07/2024 10:19:10 WIB",
+    "lintang": "3.9 LS",
+    "bujur": "122.24 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 2.1 km Tenggara Kab. Konawe",
+    "warning": [
+      "II-III Konawe",
+      "II-III Konawe Utara"
+    ]
+  },
+  {
     "waktu": "11/07/2024 09:13:17 WIB",
     "lintang": "6.14 LU",
     "bujur": "123.28 BT",
@@ -220,17 +232,6 @@
     "warning": [
       "III Bengkulu",
       "III Argamakmur"
-    ]
-  },
-  {
-    "waktu": "28/06/2024 02:58:03 WIB",
-    "lintang": "2.47 LS",
-    "bujur": "140.68 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km barat laut Kota Jayapura",
-    "warning": [
-      "II Kota Jayapura"
     ]
   }
 ]
