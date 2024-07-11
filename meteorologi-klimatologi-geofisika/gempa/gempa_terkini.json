@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-07-24 09:13:17 WIB",
+    "lintang": "6.14",
+    "bujur": "123.28",
+    "magnitudo": "7.0",
+    "kedalaman": "632 Km",
+    "wilayah": "373 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
     "waktu": "11-07-24 04:00:40 WIB",
     "lintang": "-6.55",
     "bujur": "101.12",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "175 km TimurLaut RAJAAMPAT-PAPUABRT"
-  },
-  {
-    "waktu": "25-05-24 07:10:11 WIB",
-    "lintang": "3.66",
-    "bujur": "94.73",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "143 km BaratDaya CALANG-ACEHJAYA"
   }
 ]
