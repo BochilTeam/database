@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-07-24 19:46:17 WIB",
+    "lintang": "-6.53",
+    "bujur": "124.63",
+    "magnitudo": "5.0",
+    "kedalaman": "634 Km",
+    "wilayah": "176 km Tenggara WAKATOBI-SULTRA"
+  },
+  {
     "waktu": "11-07-24 09:13:17 WIB",
     "lintang": "6.14",
     "bujur": "123.28",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "126 km Tenggara KEEROM-PAPUA"
-  },
-  {
-    "waktu": "25-05-24 12:55:52 WIB",
-    "lintang": "0.84",
-    "bujur": "131.67",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "175 km TimurLaut RAJAAMPAT-PAPUABRT"
   }
 ]
