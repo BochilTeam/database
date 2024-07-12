@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/07/2024 11:52:57 WIB",
+    "lintang": "2.67 LU",
+    "bujur": "97.84 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "45 Km",
+    "wilayah": "Pusat gempa berada di darat 19 km barat laut Subulussalam",
+    "warning": [
+      "II Simpang Kiri"
+    ]
+  },
+  {
     "waktu": "12/07/2024 09:21:09 WIB",
     "lintang": "2.59 LU",
     "bujur": "98.64 BT",
@@ -219,17 +230,6 @@
     "wilayah": "Pusat gempa berada di laut 29km Timur Laut Nabire`",
     "warning": [
       "Nabire II-III"
-    ]
-  },
-  {
-    "waktu": "01/07/2024 23:05:28 WIB",
-    "lintang": "2.33 LS",
-    "bujur": "120.65 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 64 km barat laut Luwu Timur",
-    "warning": [
-      "III Luwu Utara"
     ]
   }
 ]
