@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/07/2024 20:35:25 WIB",
+    "lintang": "3.28 LS",
+    "bujur": "129.42 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di darat 46 km tenggara Sawai-Maluku Tengah",
+    "warning": [
+      "II Tehoru"
+    ]
+  },
+  {
     "waktu": "13/07/2024 13:27:49 WIB",
     "lintang": "4.2 LS",
     "bujur": "122.65 BT",
@@ -221,17 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 122 km timur laut Tuban",
     "warning": [
       "II - III Bawean"
-    ]
-  },
-  {
-    "waktu": "05/07/2024 15:14:55 WIB",
-    "lintang": "2.3 LU",
-    "bujur": "96.19 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 27 km barat daya Sinabang",
-    "warning": [
-      "IV Simeuleu"
     ]
   }
 ]
