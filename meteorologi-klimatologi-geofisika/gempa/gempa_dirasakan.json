@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/07/2024 19:55:53 WIB",
+    "lintang": "3.79 LS",
+    "bujur": "120 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 2 km BaratDaya Sidenreng Rappang",
+    "warning": [
+      "II-III Sidenreng Rappang"
+    ]
+  },
+  {
     "waktu": "15/07/2024 15:54:21 WIB",
     "lintang": "2.4 LS",
     "bujur": "120.89 BT",
@@ -216,17 +227,6 @@
     "warning": [
       "II - III Cibeber",
       "II - III Cempaka"
-    ]
-  },
-  {
-    "waktu": "08/07/2024 11:08:05 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.09 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat, 5 km barat laut Kab. Cianjur",
-    "warning": [
-      "II-III Warungkondang"
     ]
   }
 ]
