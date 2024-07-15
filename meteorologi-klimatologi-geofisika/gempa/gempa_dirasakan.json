@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/07/2024 15:54:21 WIB",
+    "lintang": "2.4 LS",
+    "bujur": "120.89 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 37 km barat laut Luwu Timur",
+    "warning": [
+      "III Angkona"
+    ]
+  },
+  {
     "waktu": "15/07/2024 13:39:38 WIB",
     "lintang": "6.99 LS",
     "bujur": "109.78 BT",
@@ -216,19 +227,6 @@
     "wilayah": "Pusat gempa berada di darat, 5 km barat laut Kab. Cianjur",
     "warning": [
       "II-III Warungkondang"
-    ]
-  },
-  {
-    "waktu": "07/07/2024 14:35:24 WIB",
-    "lintang": "6.87 LS",
-    "bujur": "109.75 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km timur laut Batang",
-    "warning": [
-      "III Batang",
-      "III Pekalongan",
-      "II Kendal"
     ]
   }
 ]
