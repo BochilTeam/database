@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/07/2024 06:59:54 WIB",
+    "lintang": "5.31 LS",
+    "bujur": "121.92 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km barat daya Kabaena Tengah",
+    "warning": [
+      "III kabaena Tengah"
+    ]
+  },
+  {
     "waktu": "14/07/2024 09:38:33 WIB",
     "lintang": "2.21 LS",
     "bujur": "140.66 BT",
@@ -221,17 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 41 km barat daya Seluma",
     "warning": [
       "II-III Kota Bengkulu"
-    ]
-  },
-  {
-    "waktu": "05/07/2024 23:31:11 WIB",
-    "lintang": "0.81 LS",
-    "bujur": "110.31 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 32 km Kayong Utara",
-    "warning": [
-      "II-III Ketapang"
     ]
   }
 ]
