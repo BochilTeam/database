@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/07/2024 09:53:09 WIB",
+    "lintang": "4.35 LS",
+    "bujur": "101.99 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "36 Km",
+    "wilayah": "Pusat gempa berada di laut 72 km BaratDaya Seluma",
+    "warning": [
+      "II-III Kota Bengkulu"
+    ]
+  },
+  {
     "waktu": "15/07/2024 19:55:53 WIB",
     "lintang": "3.79 LS",
     "bujur": "120 BT",
@@ -215,18 +226,6 @@
     "wilayah": "Pusat gempa berada di darat 31 km Barat Daya Halmahera Timur",
     "warning": [
       "II-III Subaim-Halmahera Timur"
-    ]
-  },
-  {
-    "waktu": "08/07/2024 11:33:40 WIB",
-    "lintang": "7 LS",
-    "bujur": "107.18 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat, 20 km tenggara Kab. Cianjur",
-    "warning": [
-      "II - III Cibeber",
-      "II - III Cempaka"
     ]
   }
 ]
