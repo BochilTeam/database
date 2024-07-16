@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "16/07/2024 22:57:03 WIB",
+    "lintang": "7.21 LS",
+    "bujur": "109.91 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km timur laut Wonosobo",
+    "warning": [
+      "III Wonosobo",
+      "III Dieng",
+      "III Batang",
+      "III Kendal",
+      "III Temanggung"
+    ]
+  },
+  {
     "waktu": "16/07/2024 09:53:09 WIB",
     "lintang": "4.35 LS",
     "bujur": "101.99 BT",
@@ -215,17 +230,6 @@
     "wilayah": "Pusat gempa berada di laut 6 km barat daya Kodi- Sumba Barat",
     "warning": [
       "II Pero Konda"
-    ]
-  },
-  {
-    "waktu": "09/07/2024 20:50:01 WIB",
-    "lintang": "1.11 LU",
-    "bujur": "128.28 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 31 km Barat Daya Halmahera Timur",
-    "warning": [
-      "II-III Subaim-Halmahera Timur"
     ]
   }
 ]
