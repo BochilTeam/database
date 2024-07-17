@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/07/2024 00:08:20 WIB",
+    "lintang": "2.41 LS",
+    "bujur": "120.91 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km baratlaut Luwutimur",
+    "warning": [
+      "III-IV Mangkutana"
+    ]
+  },
+  {
     "waktu": "17/07/2024 07:08:01 WIB",
     "lintang": "3.8 LS",
     "bujur": "128.31 BT",
@@ -221,18 +232,6 @@
     "warning": [
       "II Karangasem",
       "II Bangli"
-    ]
-  },
-  {
-    "waktu": "11/07/2024 10:19:10 WIB",
-    "lintang": "3.9 LS",
-    "bujur": "122.24 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 2.1 km Tenggara Kab. Konawe",
-    "warning": [
-      "II-III Konawe",
-      "II-III Konawe Utara"
     ]
   }
 ]
