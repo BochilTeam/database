@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18-07-24 22:01:23 WIB",
+    "lintang": "-5.20",
+    "bujur": "100.98",
+    "magnitudo": "5.7",
+    "kedalaman": "10 Km",
+    "wilayah": "144 km BaratLaut ENGGANO-BENGKULU"
+  },
+  {
     "waktu": "17-07-24 06:39:32 WIB",
     "lintang": "1.30",
     "bujur": "126.12",
@@ -230,13 +238,5 @@
     "magnitudo": "6.2",
     "kedalaman": "12 Km",
     "wilayah": "111 km BaratLaut SINABANG-ACEH"
-  },
-  {
-    "waktu": "28-05-24 02:53:54 WIB",
-    "lintang": "-10.63",
-    "bujur": "111.36",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "273 km Tenggara PACITAN-JATIM"
   }
 ]
