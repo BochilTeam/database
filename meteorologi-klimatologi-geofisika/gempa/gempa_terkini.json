@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20-07-24 19:05:04 WIB",
+    "lintang": "0.10",
+    "bujur": "96.38",
+    "magnitudo": "5.7",
+    "kedalaman": "13 Km",
+    "wilayah": "153 km BaratDaya NIASBARAT-SUMUT"
+  },
+  {
     "waktu": "18-07-24 22:01:23 WIB",
     "lintang": "-5.20",
     "bujur": "100.98",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "31 km Tenggara MOROWALI-SULTENG"
-  },
-  {
-    "waktu": "28-05-24 18:52:38 WIB",
-    "lintang": "2.76",
-    "bujur": "95.41",
-    "magnitudo": "6.2",
-    "kedalaman": "12 Km",
-    "wilayah": "111 km BaratLaut SINABANG-ACEH"
   }
 ]
