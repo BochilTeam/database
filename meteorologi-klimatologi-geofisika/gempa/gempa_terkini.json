@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22-07-24 21:47:17 WIB",
+    "lintang": "-5.24",
+    "bujur": "131.15",
+    "magnitudo": "5.7",
+    "kedalaman": "98 Km",
+    "wilayah": "182 km BaratLaut MALUKUTENGGARA"
+  },
+  {
     "waktu": "20-07-24 19:05:04 WIB",
     "lintang": "0.10",
     "bujur": "96.38",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "88 Km",
     "wilayah": "139 km BaratLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "31-05-24 00:08:19 WIB",
-    "lintang": "-2.76",
-    "bujur": "122.18",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "31 km Tenggara MOROWALI-SULTENG"
   }
 ]
