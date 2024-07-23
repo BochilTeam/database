@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/07/2024 01:32:53 WIB",
+    "lintang": "3.43 LS",
+    "bujur": "128.37 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 35 barat laut Saparua",
+    "warning": [
+      "III Kairatu"
+    ]
+  },
+  {
     "waktu": "23/07/2024 16:28:38 WIB",
     "lintang": "1.54 LU",
     "bujur": "127.78 BT",
@@ -224,19 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 6 km BaratDaya Batang",
     "warning": [
       "III Batang"
-    ]
-  },
-  {
-    "waktu": "12/07/2024 17:34:03 WIB",
-    "lintang": "1.36 LU",
-    "bujur": "126.36 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut, 127 km Barat Laut Jailolo",
-    "warning": [
-      "II-III Tondano",
-      "II - III Bitung",
-      "II - III Minahasa Utara"
     ]
   }
 ]
