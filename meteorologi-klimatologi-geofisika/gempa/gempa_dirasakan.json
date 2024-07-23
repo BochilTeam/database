@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "23/07/2024 10:10:12 WIB",
+    "lintang": "1.69 LS",
+    "bujur": "99.57 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 36 km Timur Laut Kep. Mentawai",
+    "warning": [
+      "III-IV Mentawai",
+      "III Padang",
+      "III Pariaman",
+      "III Padang Pariaman",
+      "III Agam",
+      "II Padang Panjang"
+    ]
+  },
+  {
     "waktu": "20/07/2024 19:51:49 WIB",
     "lintang": "3.42 LS",
     "bujur": "135.48 BT",
@@ -221,17 +237,6 @@
     "wilayah": "Pusat gempa berada di darat, 8 km timur laut Sumbawa",
     "warning": [
       "II-III Sumbawa"
-    ]
-  },
-  {
-    "waktu": "12/07/2024 11:52:57 WIB",
-    "lintang": "2.67 LU",
-    "bujur": "97.84 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "45 Km",
-    "wilayah": "Pusat gempa berada di darat 19 km barat laut Subulussalam",
-    "warning": [
-      "II Simpang Kiri"
     ]
   }
 ]
