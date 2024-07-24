@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/07/2024 07:22:09 WIB",
+    "lintang": "2.86 LS",
+    "bujur": "139.38 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di darat 96 km timur laut Kobagma",
+    "warning": [
+      "II Genyem"
+    ]
+  },
+  {
     "waktu": "24/07/2024 01:32:53 WIB",
     "lintang": "3.43 LS",
     "bujur": "128.37 BT",
@@ -224,17 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 46 km barat daya Konawe Kepulauan",
     "warning": [
       "II-III Kendari"
-    ]
-  },
-  {
-    "waktu": "13/07/2024 07:38:32 WIB",
-    "lintang": "6.97 LS",
-    "bujur": "109.72 BT",
-    "magnitudo": "3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km BaratDaya Batang",
-    "warning": [
-      "III Batang"
     ]
   }
 ]
