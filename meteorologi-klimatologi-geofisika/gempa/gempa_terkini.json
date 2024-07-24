@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24-07-24 15:09:04 WIB",
+    "lintang": "-10.10",
+    "bujur": "123.73",
+    "magnitudo": "5.4",
+    "kedalaman": "32 Km",
+    "wilayah": "16 km TimurLaut KUPANG-NTT"
+  },
+  {
     "waktu": "24-07-24 07:22:09 WIB",
     "lintang": "-2.86",
     "bujur": "139.38",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "31 Km",
     "wilayah": "77 km Tenggara MAMBERAMOTENGAH-PAPUAPGNGN"
-  },
-  {
-    "waktu": "02-06-24 16:22:04 WIB",
-    "lintang": "2.02",
-    "bujur": "127.71",
-    "magnitudo": "5.1",
-    "kedalaman": "222 Km",
-    "wilayah": "30 km BaratDaya PULAUDOI-MALUT"
   }
 ]
