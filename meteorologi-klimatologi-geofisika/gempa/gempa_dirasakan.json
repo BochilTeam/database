@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/07/2024 04:01:58 WIB",
+    "lintang": "6.98 LS",
+    "bujur": "108.51 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km tenggara Kab. Kuningan",
+    "warning": [
+      "II-III Kuningan"
+    ]
+  },
+  {
     "waktu": "24/07/2024 22:22:15 WIB",
     "lintang": "4.56 LU",
     "bujur": "96.41 BT",
@@ -226,17 +237,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km barat daya Kabaena Tengah",
     "warning": [
       "III kabaena Tengah"
-    ]
-  },
-  {
-    "waktu": "14/07/2024 09:38:33 WIB",
-    "lintang": "2.21 LS",
-    "bujur": "140.66 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 39 km barat laut Kota Jayapura",
-    "warning": [
-      "II Sentani"
     ]
   }
 ]
