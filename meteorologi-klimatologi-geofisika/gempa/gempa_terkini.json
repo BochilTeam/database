@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26-07-24 00:11:41 WIB",
+    "lintang": "-6.02",
+    "bujur": "102.87",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "100 km Tenggara ENGGANO-BENGKULU"
+  },
+  {
     "waktu": "24-07-24 19:42:52 WIB",
     "lintang": "-6.39",
     "bujur": "130.12",
@@ -230,13 +238,5 @@
     "magnitudo": "5.7",
     "kedalaman": "57 Km",
     "wilayah": "78 km Tenggara NIASSELATAN-SUMUT"
-  },
-  {
-    "waktu": "05-06-24 09:20:28 WIB",
-    "lintang": "-3.76",
-    "bujur": "100.54",
-    "magnitudo": "5.7",
-    "kedalaman": "34 Km",
-    "wilayah": "146 km BaratDaya MUKOMUKO-BENGKULU"
   }
 ]
