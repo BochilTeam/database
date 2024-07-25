@@ -1,5 +1,33 @@
 [
   {
+    "waktu": "25/07/2024 19:14:21 WIB",
+    "lintang": "2.46 LS",
+    "bujur": "120.79 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 44 km barat laut Luwutimur",
+    "warning": [
+      "II Tomoni"
+    ]
+  },
+  {
+    "waktu": "25/07/2024 17:36:41 WIB",
+    "lintang": "6.98 LS",
+    "bujur": "108.5 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 1 km Tenggara Kab. Kuningan",
+    "warning": [
+      "III Kuningan",
+      "II-III Ciamis",
+      "II-III Banjar",
+      "II - III Talaga",
+      "II-III Panawangan",
+      "II-III Luragung",
+      "II - III Cikijing"
+    ]
+  },
+  {
     "waktu": "25/07/2024 04:01:58 WIB",
     "lintang": "6.98 LS",
     "bujur": "108.51 BT",
@@ -215,28 +243,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km tenggara Batang",
     "warning": [
       "II Batang"
-    ]
-  },
-  {
-    "waktu": "15/07/2024 12:29:06 WIB",
-    "lintang": "8.15 LS",
-    "bujur": "114.86 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 25 km barat daya Buleleng",
-    "warning": [
-      "II seririt"
-    ]
-  },
-  {
-    "waktu": "15/07/2024 06:59:54 WIB",
-    "lintang": "5.31 LS",
-    "bujur": "121.92 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km barat daya Kabaena Tengah",
-    "warning": [
-      "III kabaena Tengah"
     ]
   }
 ]
