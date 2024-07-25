@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26-07-24 03:32:18 WIB",
+    "lintang": "-7.60",
+    "bujur": "128.71",
+    "magnitudo": "6.3",
+    "kedalaman": "157 Km",
+    "wilayah": "119 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "26-07-24 00:11:41 WIB",
     "lintang": "-6.02",
     "bujur": "102.87",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "40 km Tenggara SUMBAWABARAT-NTB"
-  },
-  {
-    "waktu": "05-06-24 18:16:14 WIB",
-    "lintang": "0.42",
-    "bujur": "98.50",
-    "magnitudo": "5.7",
-    "kedalaman": "57 Km",
-    "wilayah": "78 km Tenggara NIASSELATAN-SUMUT"
   }
 ]
