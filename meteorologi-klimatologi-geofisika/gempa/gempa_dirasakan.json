@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/07/2024 14:30:01 WIB",
+    "lintang": "1.67 LU",
+    "bujur": "125.29 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di laut 31 km Timur laut Bitung",
+    "warning": [
+      "III Bitung"
+    ]
+  },
+  {
     "waktu": "26/07/2024 10:49:45 WIB",
     "lintang": "6.92 LS",
     "bujur": "108.46 BT",
@@ -234,17 +245,6 @@
       "III Batang",
       "III Kendal",
       "III Temanggung"
-    ]
-  },
-  {
-    "waktu": "16/07/2024 09:53:09 WIB",
-    "lintang": "4.35 LS",
-    "bujur": "101.99 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "36 Km",
-    "wilayah": "Pusat gempa berada di laut 72 km BaratDaya Seluma",
-    "warning": [
-      "II-III Kota Bengkulu"
     ]
   }
 ]
