@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "26/07/2024 10:49:45 WIB",
+    "lintang": "6.92 LS",
+    "bujur": "108.46 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 6 Km Baratlaut Kuningan",
+    "warning": [
+      "II - III Kuningan",
+      "I-II Ciamis",
+      "I-II Banjar"
+    ]
+  },
+  {
     "waktu": "26/07/2024 03:32:18 WIB",
     "lintang": "7.6 LS",
     "bujur": "128.71 BT",
@@ -232,17 +245,6 @@
     "wilayah": "Pusat gempa berada di laut 72 km BaratDaya Seluma",
     "warning": [
       "II-III Kota Bengkulu"
-    ]
-  },
-  {
-    "waktu": "15/07/2024 19:55:53 WIB",
-    "lintang": "3.79 LS",
-    "bujur": "120 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km BaratDaya Sidenreng Rappang",
-    "warning": [
-      "II-III Sidenreng Rappang"
     ]
   }
 ]
