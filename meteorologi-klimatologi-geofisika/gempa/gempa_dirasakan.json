@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/07/2024 16:32:36 WIB",
+    "lintang": "3.23 LS",
+    "bujur": "128.35 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 13 km utara Kairatu",
+    "warning": [
+      "III Kairatu"
+    ]
+  },
+  {
     "waktu": "26/07/2024 14:30:01 WIB",
     "lintang": "1.67 LU",
     "bujur": "125.29 BT",
@@ -230,21 +241,6 @@
       "III Ternate",
       "III Sitaro",
       "III Bolaang Mongondow Timur"
-    ]
-  },
-  {
-    "waktu": "16/07/2024 22:57:03 WIB",
-    "lintang": "7.21 LS",
-    "bujur": "109.91 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km timur laut Wonosobo",
-    "warning": [
-      "III Wonosobo",
-      "III Dieng",
-      "III Batang",
-      "III Kendal",
-      "III Temanggung"
     ]
   }
 ]
