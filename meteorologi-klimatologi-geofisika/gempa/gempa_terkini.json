@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "28-07-24 18:20:31 WIB",
+    "lintang": "-6.31",
+    "bujur": "130.20",
+    "magnitudo": "5.6",
+    "kedalaman": "144 Km",
+    "wilayah": "221 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "26-07-24 03:32:18 WIB",
     "lintang": "-7.60",
     "bujur": "128.71",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "537 Km",
     "wilayah": "133 km Tenggara SELAYAR-SULSEL"
-  },
-  {
-    "waktu": "06-06-24 20:15:40 WIB",
-    "lintang": "-9.11",
-    "bujur": "116.94",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "40 km Tenggara SUMBAWABARAT-NTB"
   }
 ]
