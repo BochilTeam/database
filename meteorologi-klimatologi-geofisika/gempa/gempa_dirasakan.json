@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "29/07/2024 22:01:02 WIB",
+    "lintang": "1.01 LS",
+    "bujur": "99.68 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "37 Km",
+    "wilayah": "Pusat gempa berada di laut 64 km Barat Daya Pariaman",
+    "warning": [
+      "II-III Padang",
+      "II-III Padang Pariaman",
+      "II Padang Panjang"
+    ]
+  },
+  {
     "waktu": "29/07/2024 19:50:59 WIB",
     "lintang": "8.3 LS",
     "bujur": "116.59 BT",
@@ -222,17 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 34 km baratlaut Luwutimur",
     "warning": [
       "III-IV Mangkutana"
-    ]
-  },
-  {
-    "waktu": "17/07/2024 07:08:01 WIB",
-    "lintang": "3.8 LS",
-    "bujur": "128.31 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 18 km Tenggara Ambon",
-    "warning": [
-      "II Ambon"
     ]
   }
 ]
