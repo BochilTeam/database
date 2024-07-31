@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "31/07/2024 23:36:00 WIB",
+    "lintang": "5.37 LS",
+    "bujur": "105.16 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km Timutlaut Pesawaran",
+    "warning": [
+      "I-II Pesawaran"
+    ]
+  },
+  {
     "waktu": "31/07/2024 06:30:31 WIB",
     "lintang": "6.92 LS",
     "bujur": "109.72 BT",
@@ -224,17 +235,6 @@
     "warning": [
       "II-III Galela",
       "II Kao Barat"
-    ]
-  },
-  {
-    "waktu": "19/07/2024 13:50:00 WIB",
-    "lintang": "3.22 LS",
-    "bujur": "139.19 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di darat 52 km timur laut Kobagma",
-    "warning": [
-      "II - III Wamena"
     ]
   }
 ]
