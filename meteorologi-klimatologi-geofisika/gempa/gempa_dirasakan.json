@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "31/07/2024 06:30:31 WIB",
+    "lintang": "6.92 LS",
+    "bujur": "109.72 BT",
+    "magnitudo": "2.1",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di darat 1 km baratdaya Batang",
+    "warning": [
+      "II Batang"
+    ]
+  },
+  {
     "waktu": "29/07/2024 22:01:02 WIB",
     "lintang": "1.01 LS",
     "bujur": "99.68 BT",
@@ -224,17 +235,6 @@
     "wilayah": "Pusat gempa berada di darat 52 km timur laut Kobagma",
     "warning": [
       "II - III Wamena"
-    ]
-  },
-  {
-    "waktu": "18/07/2024 00:08:20 WIB",
-    "lintang": "2.41 LS",
-    "bujur": "120.91 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 34 km baratlaut Luwutimur",
-    "warning": [
-      "III-IV Mangkutana"
     ]
   }
 ]
