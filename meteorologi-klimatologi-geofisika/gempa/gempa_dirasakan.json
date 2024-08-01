@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "01/08/2024 07:00:07 WIB",
+    "lintang": "0.11 LS",
+    "bujur": "123.29 BT",
+    "magnitudo": "5.5",
+    "kedalaman": "129 Km",
+    "wilayah": "Pusat gempa berada di Laut 73 km Tenggara Bonebolango",
+    "warning": [
+      "III Kota Gorontalo",
+      "III Kab. Gorontalo",
+      "III Kab. Gorontalo Utara"
+    ]
+  },
+  {
     "waktu": "31/07/2024 23:36:00 WIB",
     "lintang": "5.37 LS",
     "bujur": "105.16 BT",
@@ -223,18 +236,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km barat daya Nabire",
     "warning": [
       "III Nabire"
-    ]
-  },
-  {
-    "waktu": "19/07/2024 21:31:32 WIB",
-    "lintang": "1.54 LU",
-    "bujur": "127.79 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km barat laut Halmahera Utara",
-    "warning": [
-      "II-III Galela",
-      "II Kao Barat"
     ]
   }
 ]

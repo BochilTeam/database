@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01-08-24 07:00:07 WIB",
+    "lintang": "-0.11",
+    "bujur": "123.29",
+    "magnitudo": "5.5",
+    "kedalaman": "129 Km",
+    "wilayah": "73 km Tenggara BONEBOLANGO-GORONTALO"
+  },
+  {
     "waktu": "31-07-24 06:21:08 WIB",
     "lintang": "-6.60",
     "bujur": "129.88",
@@ -230,13 +238,5 @@
     "magnitudo": "5.8",
     "kedalaman": "45 Km",
     "wilayah": "95 km TimurLaut KOBAGMA-PAPUAPGNGN"
-  },
-  {
-    "waktu": "07-06-24 05:00:52 WIB",
-    "lintang": "-2.72",
-    "bujur": "142.32",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "170 km BaratLaut WEWAK-PNG"
   }
 ]
