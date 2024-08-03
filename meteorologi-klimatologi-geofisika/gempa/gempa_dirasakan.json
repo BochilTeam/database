@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "03/08/2024 12:32:58 WIB",
+    "lintang": "3.39 LS",
+    "bujur": "138.09 BT",
+    "magnitudo": "5",
+    "kedalaman": "100 Km",
+    "wilayah": "Pusat gempa berada di 28 km Timurlaut Puncakjaya",
+    "warning": [
+      "II Wamena",
+      "III Puncakjaya"
+    ]
+  },
+  {
     "waktu": "02/08/2024 00:07:47 WIB",
     "lintang": "5.87 LS",
     "bujur": "105.12 BT",
@@ -221,22 +233,6 @@
     "wilayah": "Pusat gempa berada di darat 13 km barat laut Halmahera Utara",
     "warning": [
       "II-III Tobelo"
-    ]
-  },
-  {
-    "waktu": "23/07/2024 10:10:12 WIB",
-    "lintang": "1.69 LS",
-    "bujur": "99.57 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 36 km Timur Laut Kep. Mentawai",
-    "warning": [
-      "III-IV Mentawai",
-      "III Padang",
-      "III Pariaman",
-      "III Padang Pariaman",
-      "III Agam",
-      "II Padang Panjang"
     ]
   }
 ]
