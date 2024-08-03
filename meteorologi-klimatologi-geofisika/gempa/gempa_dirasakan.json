@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/08/2024 03:39:58 WIB",
+    "lintang": "6.89 LS",
+    "bujur": "109.74 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di darat, 2 km TimurLaut Batang",
+    "warning": [
+      "II Batang"
+    ]
+  },
+  {
     "waktu": "03/08/2024 22:37:55 WIB",
     "lintang": "3.27 LS",
     "bujur": "135.49 BT",
@@ -222,17 +233,6 @@
     "wilayah": "Pusat gempa berada di darat 96 km timur laut Kobagma",
     "warning": [
       "II Genyem"
-    ]
-  },
-  {
-    "waktu": "24/07/2024 01:32:53 WIB",
-    "lintang": "3.43 LS",
-    "bujur": "128.37 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 35 barat laut Saparua",
-    "warning": [
-      "III Kairatu"
     ]
   }
 ]
