@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03-08-24 12:32:58 WIB",
+    "lintang": "-3.39",
+    "bujur": "138.09",
+    "magnitudo": "5.0",
+    "kedalaman": "100 Km",
+    "wilayah": "28 km TimurLaut PUNCAKJAYA-PAPUATENGAH"
+  },
+  {
     "waktu": "01-08-24 07:00:07 WIB",
     "lintang": "-0.11",
     "bujur": "123.29",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "54 Km",
     "wilayah": "94 km BaratLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "07-06-24 23:31:06 WIB",
-    "lintang": "-2.86",
-    "bujur": "139.37",
-    "magnitudo": "5.8",
-    "kedalaman": "45 Km",
-    "wilayah": "95 km TimurLaut KOBAGMA-PAPUAPGNGN"
   }
 ]
