@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "04/08/2024 23:16:53 WIB",
+    "lintang": "6.73 LS",
+    "bujur": "106.63 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 23 km barat daya Kota Bogor",
+    "warning": [
+      "III Cipeteuy Kabandungan",
+      "III Kalapanunggal",
+      "III Pamijahan Bogor",
+      "II-III Bogor"
+    ]
+  },
+  {
     "waktu": "04/08/2024 15:03:26 WIB",
     "lintang": "3.65 LS",
     "bujur": "128.46 BT",
@@ -220,17 +234,6 @@
       "II-III Panawangan",
       "II-III Luragung",
       "II - III Cikijing"
-    ]
-  },
-  {
-    "waktu": "25/07/2024 04:01:58 WIB",
-    "lintang": "6.98 LS",
-    "bujur": "108.51 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 3 km tenggara Kab. Kuningan",
-    "warning": [
-      "II-III Kuningan"
     ]
   }
 ]
