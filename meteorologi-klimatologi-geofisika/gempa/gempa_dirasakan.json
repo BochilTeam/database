@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/08/2024 13:23:25 WIB",
+    "lintang": "5.67 LS",
+    "bujur": "113.08 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "33 Km",
+    "wilayah": "Pusat gempa berada di laut 153 km Timur laut Bangkalan",
+    "warning": [
+      "II Bawean"
+    ]
+  },
+  {
     "waktu": "04/08/2024 11:11:10 WIB",
     "lintang": "2.45 LS",
     "bujur": "140.42 BT",
@@ -220,19 +231,6 @@
     "wilayah": "Pusat gempa berada di darat 37 km timur laut Kab. Nagan Raya",
     "warning": [
       "II-III Seunagan"
-    ]
-  },
-  {
-    "waktu": "24/07/2024 15:09:01 WIB",
-    "lintang": "10.3 LS",
-    "bujur": "123.76 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "33 Km",
-    "wilayah": "Pusat gempa berada didarat 24 Km Tenggara Kupang",
-    "warning": [
-      "IV-V Kupang",
-      "II-III Soe",
-      "I-II Alor"
     ]
   }
 ]
