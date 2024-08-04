@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/08/2024 15:03:26 WIB",
+    "lintang": "3.65 LS",
+    "bujur": "128.46 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "123 Km",
+    "wilayah": "Pusat gempa berada di Laut 23 Km Barat Saparua",
+    "warning": [
+      "II Ambon"
+    ]
+  },
+  {
     "waktu": "04/08/2024 13:23:25 WIB",
     "lintang": "5.67 LS",
     "bujur": "113.08 BT",
@@ -220,17 +231,6 @@
     "wilayah": "Pusat gempa berada di darat 3 km tenggara Kab. Kuningan",
     "warning": [
       "II-III Kuningan"
-    ]
-  },
-  {
-    "waktu": "24/07/2024 22:22:15 WIB",
-    "lintang": "4.56 LU",
-    "bujur": "96.41 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 37 km timur laut Kab. Nagan Raya",
-    "warning": [
-      "II-III Seunagan"
     ]
   }
 ]
