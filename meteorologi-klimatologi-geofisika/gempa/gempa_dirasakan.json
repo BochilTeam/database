@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "05/08/2024 16:10:32 WIB",
+    "lintang": "1.53 LU",
+    "bujur": "126.93 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "106 Km",
+    "wilayah": "Pusat gempa berada di laut 76 Km Baratlaut Halmahera Barat",
+    "warning": [
+      "II - III Ternate",
+      "II Siau",
+      "II Sitaro"
+    ]
+  },
+  {
     "waktu": "04/08/2024 23:16:53 WIB",
     "lintang": "6.73 LS",
     "bujur": "106.63 BT",
@@ -217,23 +230,6 @@
     "wilayah": "Pusat gempa berada di darat 44 km barat laut Luwutimur",
     "warning": [
       "II Tomoni"
-    ]
-  },
-  {
-    "waktu": "25/07/2024 17:36:41 WIB",
-    "lintang": "6.98 LS",
-    "bujur": "108.5 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 1 km Tenggara Kab. Kuningan",
-    "warning": [
-      "III Kuningan",
-      "II-III Ciamis",
-      "II-III Banjar",
-      "II - III Talaga",
-      "II-III Panawangan",
-      "II-III Luragung",
-      "II - III Cikijing"
     ]
   }
 ]
