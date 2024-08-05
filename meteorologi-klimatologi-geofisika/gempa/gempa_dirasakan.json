@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "05/08/2024 19:44:03 WIB",
+    "lintang": "6.33 LS",
+    "bujur": "103.57 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 133 km BaratDaya Pesisir Barat",
+    "warning": [
+      "III Liwa",
+      "III Bengkunat",
+      "III Pesisir Barat",
+      "II Kota Agung",
+      "III Oku Selatan"
+    ]
+  },
+  {
     "waktu": "05/08/2024 16:10:32 WIB",
     "lintang": "1.53 LU",
     "bujur": "126.93 BT",
@@ -219,17 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 100 km tenggara Enggano",
     "warning": [
       "II - III Kec. Pesisir Selatan"
-    ]
-  },
-  {
-    "waktu": "25/07/2024 19:14:21 WIB",
-    "lintang": "2.46 LS",
-    "bujur": "120.79 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 44 km barat laut Luwutimur",
-    "warning": [
-      "II Tomoni"
     ]
   }
 ]
