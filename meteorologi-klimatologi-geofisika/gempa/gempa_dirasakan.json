@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "06/08/2024 22:14:22 WIB",
+    "lintang": "8.43 LS",
+    "bujur": "115.69 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 20 km Tenggara KARANGASEM",
+    "warning": [
+      "II Karangasem"
+    ]
+  },
+  {
     "waktu": "05/08/2024 19:44:03 WIB",
     "lintang": "6.33 LS",
     "bujur": "103.57 BT",
@@ -223,17 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 121 km TimurLaut MALUKUBRTDAYA",
     "warning": [
       "II - III Tiakur"
-    ]
-  },
-  {
-    "waktu": "26/07/2024 00:11:41 WIB",
-    "lintang": "6.02 LS",
-    "bujur": "102.87 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 100 km tenggara Enggano",
-    "warning": [
-      "II - III Kec. Pesisir Selatan"
     ]
   }
 ]
