@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "07/08/2024 17:40:26 WIB",
+    "lintang": "4.02 LS",
+    "bujur": "122.46 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 2 Km BaratLaut Ranomeeto, Kab. Konawe Selatan",
+    "warning": [
+      "III Konawe Selatan",
+      "II-III Kendari"
+    ]
+  },
+  {
     "waktu": "06/08/2024 22:14:22 WIB",
     "lintang": "8.43 LS",
     "bujur": "115.69 BT",
@@ -223,17 +235,6 @@
       "II - III Kuningan",
       "I-II Ciamis",
       "I-II Banjar"
-    ]
-  },
-  {
-    "waktu": "26/07/2024 03:32:18 WIB",
-    "lintang": "7.6 LS",
-    "bujur": "128.71 BT",
-    "magnitudo": "6.3",
-    "kedalaman": "157 Km",
-    "wilayah": "Pusat gempa berada di laut 121 km TimurLaut MALUKUBRTDAYA",
-    "warning": [
-      "II - III Tiakur"
     ]
   }
 ]
