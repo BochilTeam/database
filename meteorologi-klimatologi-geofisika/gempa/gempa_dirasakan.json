@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/08/2024 14:24:27 WIB",
+    "lintang": "0.83 LS",
+    "bujur": "121.94 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 24 Km Baratlaut Bolaang Kabupaten Banggai",
+    "warning": [
+      "II - III Bangketa"
+    ]
+  },
+  {
     "waktu": "07/08/2024 17:40:26 WIB",
     "lintang": "4.02 LS",
     "bujur": "122.46 BT",
@@ -223,19 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 31 km Timur laut Bitung",
     "warning": [
       "III Bitung"
-    ]
-  },
-  {
-    "waktu": "26/07/2024 10:49:45 WIB",
-    "lintang": "6.92 LS",
-    "bujur": "108.46 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 6 Km Baratlaut Kuningan",
-    "warning": [
-      "II - III Kuningan",
-      "I-II Ciamis",
-      "I-II Banjar"
     ]
   }
 ]
