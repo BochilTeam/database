@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/08/2024 21:18:13 WIB",
+    "lintang": "0.18 LS",
+    "bujur": "100.45 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km timur laut Bukittinggi",
+    "warning": [
+      "II-III Bukittinggi"
+    ]
+  },
+  {
     "waktu": "09/08/2024 17:42:30 WIB",
     "lintang": "9.37 LS",
     "bujur": "114.82 BT",
@@ -223,17 +234,6 @@
     "wilayah": "Pusat gempa berada didarat 38 km Baratlaut Pulau Panjang",
     "warning": [
       "II Lombok Timur"
-    ]
-  },
-  {
-    "waktu": "27/07/2024 16:32:36 WIB",
-    "lintang": "3.23 LS",
-    "bujur": "128.35 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 13 km utara Kairatu",
-    "warning": [
-      "III Kairatu"
     ]
   }
 ]
