@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/08/2024 17:42:30 WIB",
+    "lintang": "9.37 LS",
+    "bujur": "114.82 BT",
+    "magnitudo": "4",
+    "kedalaman": "37 Km",
+    "wilayah": "Pusat gempa berada di laut 78 km Baratdaya Kuta Selatan",
+    "warning": [
+      "II-III Kuta Selatan"
+    ]
+  },
+  {
     "waktu": "08/08/2024 14:24:27 WIB",
     "lintang": "0.83 LS",
     "bujur": "121.94 BT",
@@ -223,17 +234,6 @@
     "wilayah": "Pusat gempa berada di darat 13 km utara Kairatu",
     "warning": [
       "III Kairatu"
-    ]
-  },
-  {
-    "waktu": "26/07/2024 14:30:01 WIB",
-    "lintang": "1.67 LU",
-    "bujur": "125.29 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di laut 31 km Timur laut Bitung",
-    "warning": [
-      "III Bitung"
     ]
   }
 ]
