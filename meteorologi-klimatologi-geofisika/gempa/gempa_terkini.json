@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "09-08-24 23:40:39 WIB",
+    "lintang": "-9.32",
+    "bujur": "120.57",
+    "magnitudo": "5.3",
+    "kedalaman": "32 Km",
+    "wilayah": "51 km TimurLaut WAINGAPU-NTT"
+  },
+  {
     "waktu": "05-08-24 19:44:03 WIB",
     "lintang": "-6.33",
     "bujur": "103.57",
@@ -230,13 +238,5 @@
     "magnitudo": "6.0",
     "kedalaman": "30 Km",
     "wilayah": "40 km BaratLaut MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "12-06-24 10:45:23 WIB",
-    "lintang": "-3.33",
-    "bujur": "142.43",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "132 km BaratLaut WEWAK-PNG"
   }
 ]
