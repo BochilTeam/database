@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "10/08/2024 15:20:23 WIB",
+    "lintang": "2.8 LU",
+    "bujur": "117.74 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 63 km tenggara Tarakan",
+    "warning": [
+      "III-IV Tarakan",
+      "III-IV Tanjung Selor",
+      "III-IV Berau"
+    ]
+  },
+  {
     "waktu": "10/08/2024 14:08:02 WIB",
     "lintang": "2.61 LS",
     "bujur": "118.74 BT",
@@ -219,19 +232,6 @@
     "warning": [
       "I-II Kelumbayan Barat (Kab. Tanggamus)",
       "I-II Punduh Pidada (Kab. Pesawaran)"
-    ]
-  },
-  {
-    "waktu": "01/08/2024 07:00:07 WIB",
-    "lintang": "0.11 LS",
-    "bujur": "123.29 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "129 Km",
-    "wilayah": "Pusat gempa berada di Laut 73 km Tenggara Bonebolango",
-    "warning": [
-      "III Kota Gorontalo",
-      "III Kab. Gorontalo",
-      "III Kab. Gorontalo Utara"
     ]
   }
 ]
