@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "10/08/2024 14:08:02 WIB",
+    "lintang": "2.61 LS",
+    "bujur": "118.74 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di laut 50 km barat laut Majene",
+    "warning": [
+      "III Mamuju"
+    ]
+  },
+  {
     "waktu": "10/08/2024 00:35:45 WIB",
     "lintang": "0.24 LS",
     "bujur": "100.35 BT",
@@ -221,17 +232,6 @@
       "III Kota Gorontalo",
       "III Kab. Gorontalo",
       "III Kab. Gorontalo Utara"
-    ]
-  },
-  {
-    "waktu": "31/07/2024 23:36:00 WIB",
-    "lintang": "5.37 LS",
-    "bujur": "105.16 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km Timutlaut Pesawaran",
-    "warning": [
-      "I-II Pesawaran"
     ]
   }
 ]
