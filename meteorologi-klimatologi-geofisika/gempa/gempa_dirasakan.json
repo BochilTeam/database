@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/08/2024 04:44:58 WIB",
+    "lintang": "3.15 LS",
+    "bujur": "118.82 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km barat daya Majene",
+    "warning": [
+      "II - III Majene"
+    ]
+  },
+  {
     "waktu": "10/08/2024 15:20:23 WIB",
     "lintang": "2.8 LU",
     "bujur": "117.74 BT",
@@ -220,18 +231,6 @@
     "warning": [
       "II Wamena",
       "III Puncakjaya"
-    ]
-  },
-  {
-    "waktu": "02/08/2024 00:07:47 WIB",
-    "lintang": "5.87 LS",
-    "bujur": "105.12 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 52 km Tenggara Pesawaran",
-    "warning": [
-      "I-II Kelumbayan Barat (Kab. Tanggamus)",
-      "I-II Punduh Pidada (Kab. Pesawaran)"
     ]
   }
 ]
