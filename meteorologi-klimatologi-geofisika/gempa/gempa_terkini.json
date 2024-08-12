@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-08-24 18:36:13 WIB",
+    "lintang": "2.38",
+    "bujur": "126.65",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "125 km BaratLaut PULAUDOI-MALUT"
+  },
+  {
     "waktu": "09-08-24 23:40:39 WIB",
     "lintang": "-9.32",
     "bujur": "120.57",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "93 Km",
     "wilayah": "137 km BaratLaut PULAUKARATUNG-SULUT"
-  },
-  {
-    "waktu": "13-06-24 00:01:23 WIB",
-    "lintang": "4.36",
-    "bujur": "126.65",
-    "magnitudo": "6.0",
-    "kedalaman": "30 Km",
-    "wilayah": "40 km BaratLaut MELONGUANE-SULUT"
   }
 ]

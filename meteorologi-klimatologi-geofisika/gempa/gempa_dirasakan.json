@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/08/2024 18:36:13 WIB",
+    "lintang": "2.38 LU",
+    "bujur": "126.65 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut, 125km BaratLaut Pulaudoi",
+    "warning": [
+      "II-III Tagulandang"
+    ]
+  },
+  {
     "waktu": "12/08/2024 04:44:58 WIB",
     "lintang": "3.15 LS",
     "bujur": "118.82 BT",
@@ -219,18 +230,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km barat laut Nabire",
     "warning": [
       "II-III Nabire"
-    ]
-  },
-  {
-    "waktu": "03/08/2024 12:32:58 WIB",
-    "lintang": "3.39 LS",
-    "bujur": "138.09 BT",
-    "magnitudo": "5",
-    "kedalaman": "100 Km",
-    "wilayah": "Pusat gempa berada di 28 km Timurlaut Puncakjaya",
-    "warning": [
-      "II Wamena",
-      "III Puncakjaya"
     ]
   }
 ]
