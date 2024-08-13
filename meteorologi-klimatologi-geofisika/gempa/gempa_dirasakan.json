@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "13/08/2024 20:27:27 WIB",
+    "lintang": "5.28 LU",
+    "bujur": "95.51 BT",
+    "magnitudo": "4",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km BaratLaut Jantho",
+    "warning": [
+      "III Jantho",
+      "II - III Aceh Besar"
+    ]
+  },
+  {
+    "waktu": "13/08/2024 20:04:38 WIB",
+    "lintang": "5.29 LU",
+    "bujur": "95.51 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km barat laut Jantho-Aceh Besar",
+    "warning": [
+      "III-IV Banda Aceh",
+      "III-IV Aceh Besar",
+      "II Lammo"
+    ]
+  },
+  {
     "waktu": "13/08/2024 10:03:52 WIB",
     "lintang": "9.18 LS",
     "bujur": "112.59 BT",
@@ -212,28 +237,6 @@
     "wilayah": "Pusat gempa berada di laut 153 km Timur laut Bangkalan",
     "warning": [
       "II Bawean"
-    ]
-  },
-  {
-    "waktu": "04/08/2024 11:11:10 WIB",
-    "lintang": "2.45 LS",
-    "bujur": "140.42 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di laut 15 Km TimurLaut Kab. Jayapura",
-    "warning": [
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "04/08/2024 03:39:58 WIB",
-    "lintang": "6.89 LS",
-    "bujur": "109.74 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di darat, 2 km TimurLaut Batang",
-    "warning": [
-      "II Batang"
     ]
   }
 ]
