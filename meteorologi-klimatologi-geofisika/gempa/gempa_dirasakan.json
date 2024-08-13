@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/08/2024 02:54:01 WIB",
+    "lintang": "3.4 LS",
+    "bujur": "135.42 BT",
+    "magnitudo": "4",
+    "kedalaman": "35 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km barat daya Nabire",
+    "warning": [
+      "III Nabire"
+    ]
+  },
+  {
     "waktu": "13/08/2024 21:00:27 WIB",
     "lintang": "2.4 LS",
     "bujur": "134.29 BT",
@@ -223,20 +234,6 @@
       "II - III Ternate",
       "II Siau",
       "II Sitaro"
-    ]
-  },
-  {
-    "waktu": "04/08/2024 23:16:53 WIB",
-    "lintang": "6.73 LS",
-    "bujur": "106.63 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 23 km barat daya Kota Bogor",
-    "warning": [
-      "III Cipeteuy Kabandungan",
-      "III Kalapanunggal",
-      "III Pamijahan Bogor",
-      "II-III Bogor"
     ]
   }
 ]
