@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "13/08/2024 10:03:52 WIB",
+    "lintang": "9.18 LS",
+    "bujur": "112.59 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "57 Km",
+    "wilayah": "Pusat gempa berada di laut 115 km Tenggara Kab. Malang",
+    "warning": [
+      "III - IV Kabupaten Malang",
+      "III Blitar",
+      "II Jember",
+      "II Lumajang"
+    ]
+  },
+  {
     "waktu": "12/08/2024 18:36:13 WIB",
     "lintang": "2.38 LU",
     "bujur": "126.65 BT",
@@ -220,17 +234,6 @@
     "wilayah": "Pusat gempa berada di darat, 2 km TimurLaut Batang",
     "warning": [
       "II Batang"
-    ]
-  },
-  {
-    "waktu": "03/08/2024 22:37:55 WIB",
-    "lintang": "3.27 LS",
-    "bujur": "135.49 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "24 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km barat laut Nabire",
-    "warning": [
-      "II-III Nabire"
     ]
   }
 ]
