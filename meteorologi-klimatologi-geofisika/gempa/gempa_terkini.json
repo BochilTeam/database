@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14-08-24 21:14:03 WIB",
+    "lintang": "-9.63",
+    "bujur": "114.02",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "156 km BaratDaya JEMBRANA-BALI"
+  },
+  {
     "waktu": "13-08-24 02:12:14 WIB",
     "lintang": "-5.55",
     "bujur": "128.84",
@@ -230,13 +238,5 @@
     "magnitudo": "5.7",
     "kedalaman": "10 Km",
     "wilayah": "112 km BaratLaut PULAUDOI-MALUT"
-  },
-  {
-    "waktu": "14-06-24 15:18:46 WIB",
-    "lintang": "2.26",
-    "bujur": "128.14",
-    "magnitudo": "5.0",
-    "kedalaman": "151 Km",
-    "wilayah": "29 km BaratLaut DARUBA-MALUT"
   }
 ]

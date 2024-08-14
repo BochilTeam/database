@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "14/08/2024 21:14:03 WIB",
+    "lintang": "9.63 LS",
+    "bujur": "114.02 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 156 km barat daya Jembrana",
+    "warning": [
+      "III - IV Banyuwangi",
+      "II-III Badung",
+      "II - III Tabanan",
+      "II Denpasar",
+      "II Karangkates"
+    ]
+  },
+  {
     "waktu": "14/08/2024 16:15:08 WIB",
     "lintang": "6.65 LS",
     "bujur": "104.37 BT",
@@ -217,21 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 20 km Tenggara KARANGASEM",
     "warning": [
       "II Karangasem"
-    ]
-  },
-  {
-    "waktu": "05/08/2024 19:44:03 WIB",
-    "lintang": "6.33 LS",
-    "bujur": "103.57 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 133 km BaratDaya Pesisir Barat",
-    "warning": [
-      "III Liwa",
-      "III Bengkunat",
-      "III Pesisir Barat",
-      "II Kota Agung",
-      "III Oku Selatan"
     ]
   }
 ]
