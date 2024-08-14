@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "15/08/2024 00:55:42 WIB",
+    "lintang": "7.7 LS",
+    "bujur": "106.08 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 87 km barat daya Bayah",
+    "warning": [
+      "III Cianjur",
+      "III Kabupaten Sukabumi",
+      "III Kabupaten Bandung",
+      "II Bogor",
+      "II Garut"
+    ]
+  },
+  {
     "waktu": "14/08/2024 21:14:03 WIB",
     "lintang": "9.63 LS",
     "bujur": "114.02 BT",
@@ -221,17 +236,6 @@
       "III Konawe Selatan",
       "II-III Kendari",
       "II-III Konawe"
-    ]
-  },
-  {
-    "waktu": "06/08/2024 22:14:22 WIB",
-    "lintang": "8.43 LS",
-    "bujur": "115.69 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 20 km Tenggara KARANGASEM",
-    "warning": [
-      "II Karangasem"
     ]
   }
 ]
