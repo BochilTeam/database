@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/08/2024 16:15:08 WIB",
+    "lintang": "6.65 LS",
+    "bujur": "104.37 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 134 km barat daya Tanggamus",
+    "warning": [
+      "II Bengkunat"
+    ]
+  },
+  {
     "waktu": "14/08/2024 02:54:01 WIB",
     "lintang": "3.4 LS",
     "bujur": "135.42 BT",
@@ -221,19 +232,6 @@
       "III Pesisir Barat",
       "II Kota Agung",
       "III Oku Selatan"
-    ]
-  },
-  {
-    "waktu": "05/08/2024 16:10:32 WIB",
-    "lintang": "1.53 LU",
-    "bujur": "126.93 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "106 Km",
-    "wilayah": "Pusat gempa berada di laut 76 Km Baratlaut Halmahera Barat",
-    "warning": [
-      "II - III Ternate",
-      "II Siau",
-      "II Sitaro"
     ]
   }
 ]
