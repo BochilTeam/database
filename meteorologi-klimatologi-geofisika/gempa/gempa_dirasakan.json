@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/08/2024 19:40:14 WIB",
+    "lintang": "8.65 LS",
+    "bujur": "120.42 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km barat daya Ruteng",
+    "warning": [
+      "III Ruteng"
+    ]
+  },
+  {
     "waktu": "15/08/2024 00:55:42 WIB",
     "lintang": "7.7 LS",
     "bujur": "106.08 BT",
@@ -223,19 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 24 Km Baratlaut Bolaang Kabupaten Banggai",
     "warning": [
       "II - III Bangketa"
-    ]
-  },
-  {
-    "waktu": "07/08/2024 17:40:26 WIB",
-    "lintang": "4.02 LS",
-    "bujur": "122.46 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 2 Km BaratLaut Ranomeeto, Kab. Konawe Selatan",
-    "warning": [
-      "III Konawe Selatan",
-      "II-III Kendari",
-      "II-III Konawe"
     ]
   }
 ]
