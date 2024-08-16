@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "16-08-24 08:16:04 WIB",
+    "lintang": "-8.07",
+    "bujur": "123.01",
+    "magnitudo": "5.1",
+    "kedalaman": "226 Km",
+    "wilayah": "27 km TimurLaut LARANTUKA-NTT"
+  },
+  {
     "waktu": "15-08-24 00:55:42 WIB",
     "lintang": "-7.70",
     "bujur": "106.08",
@@ -230,13 +238,5 @@
     "magnitudo": "6.0",
     "kedalaman": "153 Km",
     "wilayah": "170 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "21-06-24 07:11:19 WIB",
-    "lintang": "-3.54",
-    "bujur": "140.01",
-    "magnitudo": "5.7",
-    "kedalaman": "78 Km",
-    "wilayah": "68 km TimurLaut YALIMO-PAPUAPGNGN"
   }
 ]
