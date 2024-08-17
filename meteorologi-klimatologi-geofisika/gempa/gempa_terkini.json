@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18-08-24 03:52:46 WIB",
+    "lintang": "-6.91",
+    "bujur": "128.27",
+    "magnitudo": "5.2",
+    "kedalaman": "379 Km",
+    "wilayah": "147 km TimurLaut MALUKUBRTDAYA"
+  },
+  {
     "waktu": "16-08-24 08:16:04 WIB",
     "lintang": "-8.07",
     "bujur": "123.01",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "10 Km",
     "wilayah": "88 km Tenggara BONEBOLANGO-GORONTALO"
-  },
-  {
-    "waktu": "24-06-24 16:55:01 WIB",
-    "lintang": "-7.14",
-    "bujur": "130.02",
-    "magnitudo": "6.0",
-    "kedalaman": "153 Km",
-    "wilayah": "170 km BaratLaut TANIMBAR"
   }
 ]
