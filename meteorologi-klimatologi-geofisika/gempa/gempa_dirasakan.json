@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/08/2024 08:25:28 WIB",
+    "lintang": "2.49 LS",
+    "bujur": "121.18 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km TimurLaut LUWUTIMUR",
+    "warning": [
+      "III Malili"
+    ]
+  },
+  {
     "waktu": "15/08/2024 19:40:14 WIB",
     "lintang": "8.65 LS",
     "bujur": "120.42 BT",
@@ -223,17 +234,6 @@
     "wilayah": "Pusat gempa berada di laut 78 km Baratdaya Kuta Selatan",
     "warning": [
       "II-III Kuta Selatan"
-    ]
-  },
-  {
-    "waktu": "08/08/2024 14:24:27 WIB",
-    "lintang": "0.83 LS",
-    "bujur": "121.94 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 24 Km Baratlaut Bolaang Kabupaten Banggai",
-    "warning": [
-      "II - III Bangketa"
     ]
   }
 ]
