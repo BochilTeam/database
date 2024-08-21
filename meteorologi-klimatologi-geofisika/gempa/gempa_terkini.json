@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-08-24 18:58:30 WIB",
+    "lintang": "-10.00",
+    "bujur": "116.50",
+    "magnitudo": "5.2",
+    "kedalaman": "100 Km",
+    "wilayah": "143 km BaratDaya SUMBAWABARAT-NTB"
+  },
+  {
     "waktu": "18-08-24 03:52:46 WIB",
     "lintang": "-6.91",
     "bujur": "128.27",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "250 km BaratDaya KAB-PANGANDARAN-JABAR"
-  },
-  {
-    "waktu": "27-06-24 10:46:32 WIB",
-    "lintang": "-0.24",
-    "bujur": "123.31",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "88 km Tenggara BONEBOLANGO-GORONTALO"
   }
 ]
