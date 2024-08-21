@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "21/08/2024 07:01:17 WIB",
+    "lintang": "2.47 LU",
+    "bujur": "116.85 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "51 Km",
+    "wilayah": "Pusat gempa berada di darat 50 km barat daya Bulungan",
+    "warning": [
+      "II - III Berau",
+      "III Tanjung Selor"
+    ]
+  },
+  {
     "waktu": "20/08/2024 00:29:48 WIB",
     "lintang": "4.08 LS",
     "bujur": "121.93 BT",
@@ -224,17 +236,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km barat laut Bukittinggi",
     "warning": [
       "II-III Bukittinggi"
-    ]
-  },
-  {
-    "waktu": "09/08/2024 23:40:39 WIB",
-    "lintang": "9.32 LS",
-    "bujur": "120.57 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "32 Km",
-    "wilayah": "Pusat gempa berada di laut 51 km timur laut Waingapu",
-    "warning": [
-      "II-III Waingapu"
     ]
   }
 ]
