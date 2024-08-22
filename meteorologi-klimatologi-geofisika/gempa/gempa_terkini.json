@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23-08-24 01:42:30 WIB",
+    "lintang": "-7.57",
+    "bujur": "125.79",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "159 km TimurLaut ALOR-NTT"
+  },
+  {
     "waktu": "23-08-24 00:21:14 WIB",
     "lintang": "5.85",
     "bujur": "126.86",
@@ -230,13 +238,5 @@
     "magnitudo": "5.8",
     "kedalaman": "10 Km",
     "wilayah": "145 km BaratLaut ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "03-07-24 22:21:46 WIB",
-    "lintang": "-6.23",
-    "bujur": "130.38",
-    "magnitudo": "5.3",
-    "kedalaman": "166 Km",
-    "wilayah": "219 km BaratLaut TANIMBAR"
   }
 ]
