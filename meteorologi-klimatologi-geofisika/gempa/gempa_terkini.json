@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22-08-24 18:17:11 WIB",
+    "lintang": "-7.13",
+    "bujur": "129.87",
+    "magnitudo": "5.6",
+    "kedalaman": "93 Km",
+    "wilayah": "184 km BaratLaut TANIMBAR"
+  },
+  {
     "waktu": "21-08-24 18:58:30 WIB",
     "lintang": "-10.00",
     "bujur": "116.50",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "163 Km",
     "wilayah": "226 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "30-06-24 23:06:25 WIB",
-    "lintang": "-9.68",
-    "bujur": "107.41",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "250 km BaratDaya KAB-PANGANDARAN-JABAR"
   }
 ]
