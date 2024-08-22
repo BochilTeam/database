@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "23-08-24 00:21:14 WIB",
+    "lintang": "5.85",
+    "bujur": "126.86",
+    "magnitudo": "5.2",
+    "kedalaman": "132 Km",
+    "wilayah": "123 km BaratLaut PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "22-08-24 18:17:11 WIB",
     "lintang": "-7.13",
     "bujur": "129.87",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "166 Km",
     "wilayah": "219 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "02-07-24 09:46:04 WIB",
-    "lintang": "-6.25",
-    "bujur": "130.21",
-    "magnitudo": "5.4",
-    "kedalaman": "163 Km",
-    "wilayah": "226 km BaratLaut TANIMBAR"
   }
 ]
