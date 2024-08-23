@@ -1,5 +1,24 @@
 [
   {
+    "waktu": "23/08/2024 10:55:58 WIB",
+    "lintang": "9.04 LS",
+    "bujur": "119.36 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 43 km timurlaut Tambolaka",
+    "warning": [
+      "III-IV Labuhan Bajo",
+      "III-IV Tambolaka",
+      "III Dompu",
+      "III Bima",
+      "III Sumba Barat",
+      "III Sumba Timur",
+      "II Ruteng",
+      "II Sumbawa",
+      "III-IV Sumba Tengah"
+    ]
+  },
+  {
     "waktu": "21/08/2024 18:58:30 WIB",
     "lintang": "10 LS",
     "bujur": "116.5 BT",
@@ -233,17 +252,6 @@
       "III-IV Tarakan",
       "III-IV Tanjung Selor",
       "III-IV Berau"
-    ]
-  },
-  {
-    "waktu": "10/08/2024 14:08:02 WIB",
-    "lintang": "2.61 LS",
-    "bujur": "118.74 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di laut 50 km barat laut Majene",
-    "warning": [
-      "III Mamuju"
     ]
   }
 ]
