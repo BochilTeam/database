@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "23/08/2024 17:30:28 WIB",
+    "lintang": "2.52 LS",
+    "bujur": "121.17 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 7 Km Barat Laut Luwu Timur",
+    "warning": [
+      "III-IV Sorowako",
+      "III Malili"
+    ]
+  },
+  {
     "waktu": "23/08/2024 10:55:58 WIB",
     "lintang": "9.04 LS",
     "bujur": "119.36 BT",
@@ -239,19 +251,6 @@
     "wilayah": "Pusat gempa berada di darat 16 km barat daya Majene",
     "warning": [
       "II - III Majene"
-    ]
-  },
-  {
-    "waktu": "10/08/2024 15:20:23 WIB",
-    "lintang": "2.8 LU",
-    "bujur": "117.74 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 63 km tenggara Tarakan",
-    "warning": [
-      "III-IV Tarakan",
-      "III-IV Tanjung Selor",
-      "III-IV Berau"
     ]
   }
 ]
