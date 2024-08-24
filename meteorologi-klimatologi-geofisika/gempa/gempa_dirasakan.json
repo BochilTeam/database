@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "24/08/2024 08:31:23 WIB",
+    "lintang": "4.27 LS",
+    "bujur": "122.57 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di darat 11,4 km timur laut Laeya, Kab. Konawe",
+    "warning": [
+      "III Konawe Selatan",
+      "II Kendari"
+    ]
+  },
+  {
     "waktu": "23/08/2024 17:30:28 WIB",
     "lintang": "2.52 LS",
     "bujur": "121.17 BT",
@@ -240,17 +252,6 @@
     "warning": [
       "II-III Tagulandang",
       "II-III Minahasa Tenggara"
-    ]
-  },
-  {
-    "waktu": "12/08/2024 04:44:58 WIB",
-    "lintang": "3.15 LS",
-    "bujur": "118.82 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km barat daya Majene",
-    "warning": [
-      "II - III Majene"
     ]
   }
 ]
