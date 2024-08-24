@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "24/08/2024 10:31:59 WIB",
+    "lintang": "6.8 LS",
+    "bujur": "105.12 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 53 km barat daya Sumur",
+    "warning": [
+      "II Bandar Lampung"
+    ]
+  },
+  {
+    "waktu": "24/08/2024 09:47:23 WIB",
+    "lintang": "3.56 LS",
+    "bujur": "101.54 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di laut 74 km barat daya Bengkulu Utara",
+    "warning": [
+      "II Bengkulu",
+      "II Bengkulu Utara",
+      "II Mukomuko"
+    ]
+  },
+  {
     "waktu": "24/08/2024 08:31:23 WIB",
     "lintang": "4.27 LS",
     "bujur": "122.57 BT",
@@ -226,32 +250,6 @@
       "III-IV Banda Aceh",
       "III-IV Aceh Besar",
       "II Lammo"
-    ]
-  },
-  {
-    "waktu": "13/08/2024 10:03:52 WIB",
-    "lintang": "9.18 LS",
-    "bujur": "112.59 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "57 Km",
-    "wilayah": "Pusat gempa berada di laut 115 km Tenggara Kab. Malang",
-    "warning": [
-      "III - IV Kabupaten Malang",
-      "III Blitar",
-      "II Jember",
-      "II Lumajang"
-    ]
-  },
-  {
-    "waktu": "12/08/2024 18:36:13 WIB",
-    "lintang": "2.38 LU",
-    "bujur": "126.65 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut, 125km BaratLaut Pulaudoi",
-    "warning": [
-      "II-III Tagulandang",
-      "II-III Minahasa Tenggara"
     ]
   }
 ]
