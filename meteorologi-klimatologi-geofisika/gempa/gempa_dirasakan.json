@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/08/2024 20:22:32 WIB",
+    "lintang": "2.49 LS",
+    "bujur": "121.17 BT",
+    "magnitudo": "4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km barat laut Luwu Timur",
+    "warning": [
+      "III Malili"
+    ]
+  },
+  {
     "waktu": "24/08/2024 10:31:59 WIB",
     "lintang": "6.8 LS",
     "bujur": "105.12 BT",
@@ -237,19 +248,6 @@
     "warning": [
       "III Jantho",
       "II - III Aceh Besar"
-    ]
-  },
-  {
-    "waktu": "13/08/2024 20:04:38 WIB",
-    "lintang": "5.29 LU",
-    "bujur": "95.51 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km barat laut Jantho-Aceh Besar",
-    "warning": [
-      "III-IV Banda Aceh",
-      "III-IV Aceh Besar",
-      "II Lammo"
     ]
   }
 ]
