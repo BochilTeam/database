@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "24/08/2024 23:54:34 WIB",
+    "lintang": "4.43 LS",
+    "bujur": "102.18 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di laut 59km barat daya Seluma",
+    "warning": [
+      "III-IV Kota Bengkulu",
+      "III-IV Bengkulu Utara",
+      "III Kaur",
+      "II - III Empat Lawang",
+      "II - III Pagar Alam"
+    ]
+  },
+  {
     "waktu": "24/08/2024 20:22:32 WIB",
     "lintang": "2.49 LS",
     "bujur": "121.17 BT",
@@ -236,18 +251,6 @@
     "wilayah": "Pusat gempa berada di laut 4 km barat Ambon",
     "warning": [
       "II Ambon"
-    ]
-  },
-  {
-    "waktu": "13/08/2024 20:27:27 WIB",
-    "lintang": "5.28 LU",
-    "bujur": "95.51 BT",
-    "magnitudo": "4",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km BaratLaut Jantho",
-    "warning": [
-      "III Jantho",
-      "II - III Aceh Besar"
     ]
   }
 ]
