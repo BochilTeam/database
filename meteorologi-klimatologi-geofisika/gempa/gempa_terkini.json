@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26-08-24 19:57:42 WIB",
+    "lintang": "-8.78",
+    "bujur": "110.27",
+    "magnitudo": "5.8",
+    "kedalaman": "30 Km",
+    "wilayah": "95 km BaratDaya GUNUNGKIDUL-DIY"
+  },
+  {
     "waktu": "26-08-24 07:17:03 WIB",
     "lintang": "1.16",
     "bujur": "126.43",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 Km",
     "wilayah": "111 km Tenggara BITUNG-SULUT"
-  },
-  {
-    "waktu": "12-07-24 19:46:17 WIB",
-    "lintang": "-6.53",
-    "bujur": "124.63",
-    "magnitudo": "5.0",
-    "kedalaman": "634 Km",
-    "wilayah": "176 km Tenggara WAKATOBI-SULTRA"
   }
 ]

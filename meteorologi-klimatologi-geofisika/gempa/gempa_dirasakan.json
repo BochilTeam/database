@@ -1,5 +1,37 @@
 [
   {
+    "waktu": "26/08/2024 19:57:42 WIB",
+    "lintang": "8.78 LS",
+    "bujur": "110.27 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "30 Km",
+    "wilayah": "Pusat gempa berada di laut 95 km barat daya Gunungkidul",
+    "warning": [
+      "II - III Karangkates",
+      "II-III Nganjuk",
+      "II - III Malang",
+      "III-IV Sleman",
+      "III - IV Yogyakarta",
+      "III-IV Bantul",
+      "III-IV Kulon Progo",
+      "II - III Pacitan",
+      "II - III Trenggalek",
+      "II-III Magelang",
+      "II-III Kediri",
+      "II-III Blitar",
+      "II-III Cilacap",
+      "II-III Banyumas",
+      "II-III Surakarta",
+      "II-III Sukoharjo",
+      "II-III Klaten",
+      "II-III Wonosobo",
+      "II-III Banjarnegara",
+      "II-III Purwokerto",
+      "II-III Tasikmalaya",
+      "II-III Madiun"
+    ]
+  },
+  {
     "waktu": "26/08/2024 07:17:03 WIB",
     "lintang": "1.16 LU",
     "bujur": "126.43 BT",
@@ -240,17 +272,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km barat daya Nabire",
     "warning": [
       "III Nabire"
-    ]
-  },
-  {
-    "waktu": "13/08/2024 21:00:27 WIB",
-    "lintang": "2.4 LS",
-    "bujur": "134.29 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 43 km BaratLaut Teluk Wondama",
-    "warning": [
-      "II Teluk Wondama"
     ]
   }
 ]
