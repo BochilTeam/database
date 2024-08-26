@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "26-08-24 07:17:03 WIB",
+    "lintang": "1.16",
+    "bujur": "126.43",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "112 km BaratLaut TERNATE-MALUT"
+  },
+  {
     "waktu": "24-08-24 23:54:34 WIB",
     "lintang": "-4.43",
     "bujur": "102.18",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "634 Km",
     "wilayah": "176 km Tenggara WAKATOBI-SULTRA"
-  },
-  {
-    "waktu": "11-07-24 09:13:17 WIB",
-    "lintang": "6.14",
-    "bujur": "123.28",
-    "magnitudo": "7.0",
-    "kedalaman": "632 Km",
-    "wilayah": "373 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]
