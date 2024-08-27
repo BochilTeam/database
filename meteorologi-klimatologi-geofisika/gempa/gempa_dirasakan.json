@@ -1,5 +1,41 @@
 [
   {
+    "waktu": "27/08/2024 09:40:39 WIB",
+    "lintang": "9.55 LS",
+    "bujur": "118.59 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "19 Km",
+    "wilayah": "Pusat gempa berada di laut 44 km barat laut Kodi",
+    "warning": [
+      "III Tambolaka"
+    ]
+  },
+  {
+    "waktu": "27/08/2024 09:15:17 WIB",
+    "lintang": "7.36 LS",
+    "bujur": "129.77 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 183 Km barat laut Tanimbar",
+    "warning": [
+      "III Tepa",
+      "II - III Saumlaki",
+      "III Masela",
+      "III Babar Timur"
+    ]
+  },
+  {
+    "waktu": "27/08/2024 09:13:32 WIB",
+    "lintang": "2.5 LS",
+    "bujur": "121.13 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km barat laut Luwuk Timur",
+    "warning": [
+      "III Malili"
+    ]
+  },
+  {
     "waktu": "26/08/2024 19:57:42 WIB",
     "lintang": "8.78 LS",
     "bujur": "110.27 BT",
@@ -235,43 +271,6 @@
       "III Kabupaten Bandung",
       "II Bogor",
       "II Garut"
-    ]
-  },
-  {
-    "waktu": "14/08/2024 21:14:03 WIB",
-    "lintang": "9.63 LS",
-    "bujur": "114.02 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 156 km barat daya Jembrana",
-    "warning": [
-      "III - IV Banyuwangi",
-      "II-III Badung",
-      "II - III Tabanan",
-      "II Denpasar",
-      "II Karangkates"
-    ]
-  },
-  {
-    "waktu": "14/08/2024 16:15:08 WIB",
-    "lintang": "6.65 LS",
-    "bujur": "104.37 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 134 km barat daya Tanggamus",
-    "warning": [
-      "II Bengkunat"
-    ]
-  },
-  {
-    "waktu": "14/08/2024 02:54:01 WIB",
-    "lintang": "3.4 LS",
-    "bujur": "135.42 BT",
-    "magnitudo": "4",
-    "kedalaman": "35 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km barat daya Nabire",
-    "warning": [
-      "III Nabire"
     ]
   }
 ]
