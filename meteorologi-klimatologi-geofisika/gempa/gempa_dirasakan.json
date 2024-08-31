@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "31/08/2024 01:06:57 WIB",
+    "lintang": "4.9 LS",
+    "bujur": "122.69 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km barat daya Duruka, Kab. Muna",
+    "warning": [
+      "III Muna"
+    ]
+  },
+  {
     "waktu": "28/08/2024 10:36:48 WIB",
     "lintang": "7.74 LS",
     "bujur": "107.84 BT",
@@ -258,17 +269,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km TimurLaut LUWUTIMUR",
     "warning": [
       "III Malili"
-    ]
-  },
-  {
-    "waktu": "15/08/2024 19:40:14 WIB",
-    "lintang": "8.65 LS",
-    "bujur": "120.42 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km barat daya Ruteng",
-    "warning": [
-      "III Ruteng"
     ]
   }
 ]
