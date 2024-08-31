@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "31/08/2024 15:53:48 WIB",
+    "lintang": "3.28 LS",
+    "bujur": "140.03 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "93 Km",
+    "wilayah": "Pusat gempa berada di darat 81 km barat laut Keerom",
+    "warning": [
+      "II Wamena"
+    ]
+  },
+  {
+    "waktu": "31/08/2024 15:04:42 WIB",
+    "lintang": "4.16 LS",
+    "bujur": "121.7 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 3.4 Km TimurLaut Baula, Kab.Kolaka",
+    "warning": [
+      "II-III Wundulako"
+    ]
+  },
+  {
     "waktu": "31/08/2024 01:06:57 WIB",
     "lintang": "4.9 LS",
     "bujur": "122.69 BT",
@@ -247,28 +269,6 @@
     "warning": [
       "II-III Kota Kupang",
       "III - IV Kab. Kupang"
-    ]
-  },
-  {
-    "waktu": "18/08/2024 22:27:17 WIB",
-    "lintang": "3.39 LS",
-    "bujur": "135.74 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 26 km tenggara Nabire",
-    "warning": [
-      "II-III Nabire"
-    ]
-  },
-  {
-    "waktu": "17/08/2024 08:25:28 WIB",
-    "lintang": "2.49 LS",
-    "bujur": "121.18 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km TimurLaut LUWUTIMUR",
-    "warning": [
-      "III Malili"
     ]
   }
 ]
