@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-09-24 02:59:25 WIB",
+    "lintang": "3.81",
+    "bujur": "126.68",
+    "magnitudo": "5.1",
+    "kedalaman": "21 Km",
+    "wilayah": "21 km Tenggara MELONGUANE-SULUT"
+  },
+  {
     "waktu": "31-08-24 15:53:48 WIB",
     "lintang": "-3.28",
     "bujur": "140.03",
@@ -230,13 +238,5 @@
     "magnitudo": "5.7",
     "kedalaman": "98 Km",
     "wilayah": "182 km BaratLaut MALUKUTENGGARA"
-  },
-  {
-    "waktu": "20-07-24 19:05:04 WIB",
-    "lintang": "0.10",
-    "bujur": "96.38",
-    "magnitudo": "5.7",
-    "kedalaman": "13 Km",
-    "wilayah": "153 km BaratDaya NIASBARAT-SUMUT"
   }
 ]

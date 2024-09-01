@@ -1,5 +1,31 @@
 [
   {
+    "waktu": "02/09/2024 02:59:25 WIB",
+    "lintang": "3.81 LU",
+    "bujur": "126.68 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di laut 21 km Tenggara Melonguane",
+    "warning": [
+      "IV Melonguane",
+      "II - III Tahuna",
+      "II - III Ondong",
+      "II-III Tobelo",
+      "II - III Daruba"
+    ]
+  },
+  {
+    "waktu": "02/09/2024 01:48:52 WIB",
+    "lintang": "4.04 LS",
+    "bujur": "121.82 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 4.4 tenggara Lalolae, Kab. Kolaka Timur",
+    "warning": [
+      "II - III Mowewe"
+    ]
+  },
+  {
     "waktu": "01/09/2024 18:47:03 WIB",
     "lintang": "2.05 LS",
     "bujur": "125.77 BT",
@@ -237,37 +263,6 @@
       "II Ruteng",
       "II Sumbawa",
       "III-IV Sumba Tengah"
-    ]
-  },
-  {
-    "waktu": "21/08/2024 18:58:30 WIB",
-    "lintang": "10 LS",
-    "bujur": "116.5 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "100 Km",
-    "wilayah": "Pusat gempa berada di laut 143 km barat daya Sumbawa Barat",
-    "warning": [
-      "III Lombok Utara",
-      "III Lombok Barat",
-      "III Lombok Timur",
-      "III Lombok Tengah",
-      "II Denpasar",
-      "II Badung",
-      "II Klungkung",
-      "II Karangasem",
-      "III Mataram"
-    ]
-  },
-  {
-    "waktu": "21/08/2024 07:01:17 WIB",
-    "lintang": "2.47 LU",
-    "bujur": "116.85 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "51 Km",
-    "wilayah": "Pusat gempa berada di darat 50 km barat daya Bulungan",
-    "warning": [
-      "II - III Berau",
-      "III Tanjung Selor"
     ]
   }
 ]
