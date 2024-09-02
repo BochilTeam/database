@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "02/09/2024 20:51:28 WIB",
+    "lintang": "4.86 LU",
+    "bujur": "96.06 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 28 km barat daya Kab Pidie Jaya",
+    "warning": [
+      "IV Mane",
+      "III Calang",
+      "II-III Nagan Raya"
+    ]
+  },
+  {
     "waktu": "02/09/2024 07:39:09 WIB",
     "lintang": "4.53 LU",
     "bujur": "96.43 BT",
@@ -247,18 +260,6 @@
     "warning": [
       "III Konawe Selatan",
       "II Kendari"
-    ]
-  },
-  {
-    "waktu": "23/08/2024 17:30:28 WIB",
-    "lintang": "2.52 LS",
-    "bujur": "121.17 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 7 Km Barat Laut Luwu Timur",
-    "warning": [
-      "III-IV Sorowako",
-      "III Malili"
     ]
   }
 ]
