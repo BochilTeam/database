@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "02/09/2024 07:39:09 WIB",
+    "lintang": "4.53 LU",
+    "bujur": "96.43 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 35 Km TimurLaut Nagan Raya Aceh",
+    "warning": [
+      "II Aceh Besar",
+      "II - III Banda Aceh",
+      "II - III Pidie Jaya",
+      "III-IV Bener Meriah",
+      "III - IV Takengon"
+    ]
+  },
+  {
     "waktu": "02/09/2024 02:59:25 WIB",
     "lintang": "3.81 LU",
     "bujur": "126.68 BT",
@@ -244,25 +259,6 @@
     "warning": [
       "III-IV Sorowako",
       "III Malili"
-    ]
-  },
-  {
-    "waktu": "23/08/2024 10:55:58 WIB",
-    "lintang": "9.04 LS",
-    "bujur": "119.36 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 43 km timurlaut Tambolaka",
-    "warning": [
-      "III-IV Labuhan Bajo",
-      "III-IV Tambolaka",
-      "III Dompu",
-      "III Bima",
-      "III Sumba Barat",
-      "III Sumba Timur",
-      "II Ruteng",
-      "II Sumbawa",
-      "III-IV Sumba Tengah"
     ]
   }
 ]
