@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/09/2024 06:26:12 WIB",
+    "lintang": "2.54 LS",
+    "bujur": "121.18 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km timur laut Luwu Timur",
+    "warning": [
+      "III Malili"
+    ]
+  },
+  {
     "waktu": "02/09/2024 20:51:28 WIB",
     "lintang": "4.86 LU",
     "bujur": "96.06 BT",
@@ -248,18 +259,6 @@
       "II Bengkulu",
       "II Bengkulu Utara",
       "II Mukomuko"
-    ]
-  },
-  {
-    "waktu": "24/08/2024 08:31:23 WIB",
-    "lintang": "4.27 LS",
-    "bujur": "122.57 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di darat 11,4 km timur laut Laeya, Kab. Konawe",
-    "warning": [
-      "III Konawe Selatan",
-      "II Kendari"
     ]
   }
 ]
