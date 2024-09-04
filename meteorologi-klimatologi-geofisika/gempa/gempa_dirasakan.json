@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/09/2024 13:24:17 WIB",
+    "lintang": "6.88 LS",
+    "bujur": "107.51 BT",
+    "magnitudo": "1.8",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Barat Daya Kab. Bandung",
+    "warning": [
+      "II Kab. Bandung Barat"
+    ]
+  },
+  {
     "waktu": "03/09/2024 20:43:45 WIB",
     "lintang": "2.54 LS",
     "bujur": "121.14 BT",
@@ -242,21 +253,6 @@
     "wilayah": "Pusat gempa berada di laut 112 KM BaratLaut TERNATE",
     "warning": [
       "II-III Ternate"
-    ]
-  },
-  {
-    "waktu": "24/08/2024 23:54:34 WIB",
-    "lintang": "4.43 LS",
-    "bujur": "102.18 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "21 Km",
-    "wilayah": "Pusat gempa berada di laut 59km barat daya Seluma",
-    "warning": [
-      "III-IV Kota Bengkulu",
-      "III-IV Bengkulu Utara",
-      "III Kaur",
-      "II - III Empat Lawang",
-      "II - III Pagar Alam"
     ]
   }
 ]
