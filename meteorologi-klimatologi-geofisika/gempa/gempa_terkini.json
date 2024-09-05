@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "05-09-24 11:31:29 WIB",
+    "lintang": "-0.22",
+    "bujur": "124.61",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "95 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
+  },
+  {
     "waktu": "02-09-24 02:59:25 WIB",
     "lintang": "3.81",
     "bujur": "126.68",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "36 km TimurLaut KEP-MENTAWAI-SUMBAR"
-  },
-  {
-    "waktu": "22-07-24 21:47:17 WIB",
-    "lintang": "-5.24",
-    "bujur": "131.15",
-    "magnitudo": "5.7",
-    "kedalaman": "98 Km",
-    "wilayah": "182 km BaratLaut MALUKUTENGGARA"
   }
 ]
