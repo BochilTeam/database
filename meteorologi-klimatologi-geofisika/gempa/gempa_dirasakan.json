@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "05/09/2024 14:20:18 WIB",
+    "lintang": "7.21 LS",
+    "bujur": "107.55 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di darat 21 km tenggara Kab. Bandung",
+    "warning": [
+      "II - III Pangalengan",
+      "II - III Cibereum",
+      "II - III Cimaung",
+      "II - III Ciwidey"
+    ]
+  },
+  {
     "waktu": "05/09/2024 12:28:07 WIB",
     "lintang": "4.44 LU",
     "bujur": "96.59 BT",
@@ -227,17 +241,6 @@
       "II - III Saumlaki",
       "III Masela",
       "III Babar Timur"
-    ]
-  },
-  {
-    "waktu": "27/08/2024 09:13:32 WIB",
-    "lintang": "2.5 LS",
-    "bujur": "121.13 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km barat laut Luwuk Timur",
-    "warning": [
-      "III Malili"
     ]
   }
 ]
