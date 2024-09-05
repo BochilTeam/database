@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "06/09/2024 03:13:40 WIB",
+    "lintang": "8.17 LS",
+    "bujur": "115.19 BT",
+    "magnitudo": "3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km tenggara Buleleng",
+    "warning": [
+      "II Buleleng"
+    ]
+  },
+  {
     "waktu": "05/09/2024 14:20:18 WIB",
     "lintang": "7.21 LS",
     "bujur": "107.55 BT",
@@ -227,20 +238,6 @@
     "wilayah": "Pusat gempa berada di laut 44 km barat laut Kodi",
     "warning": [
       "III Tambolaka"
-    ]
-  },
-  {
-    "waktu": "27/08/2024 09:15:17 WIB",
-    "lintang": "7.36 LS",
-    "bujur": "129.77 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 183 Km barat laut Tanimbar",
-    "warning": [
-      "III Tepa",
-      "II - III Saumlaki",
-      "III Masela",
-      "III Babar Timur"
     ]
   }
 ]
