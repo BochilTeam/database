@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06-09-24 14:39:43 WIB",
+    "lintang": "5.71",
+    "bujur": "125.18",
+    "magnitudo": "5.0",
+    "kedalaman": "13 Km",
+    "wilayah": "235 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
+  },
+  {
     "waktu": "06-09-24 08:06:36 WIB",
     "lintang": "-5.49",
     "bujur": "102.61",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "32 Km",
     "wilayah": "16 km TimurLaut KUPANG-NTT"
-  },
-  {
-    "waktu": "24-07-24 07:22:09 WIB",
-    "lintang": "-2.86",
-    "bujur": "139.38",
-    "magnitudo": "5.3",
-    "kedalaman": "26 Km",
-    "wilayah": "96 km TimurLaut KOBAGMA-PAPUAPGNGN"
   }
 ]
