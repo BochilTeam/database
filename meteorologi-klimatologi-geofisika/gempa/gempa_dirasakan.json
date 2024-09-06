@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "06/09/2024 10:55:14 WIB",
+    "lintang": "3.71 LS",
+    "bujur": "103.24 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km barat laut Lahat",
+    "warning": [
+      "III Kikim"
+    ]
+  },
+  {
     "waktu": "06/09/2024 08:06:36 WIB",
     "lintang": "5.49 LS",
     "bujur": "102.61 BT",
@@ -230,19 +241,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km barat daya Duruka, Kab. Muna",
     "warning": [
       "III Muna"
-    ]
-  },
-  {
-    "waktu": "28/08/2024 10:36:48 WIB",
-    "lintang": "7.74 LS",
-    "bujur": "107.84 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di Laut 51 Km BaratDaya KAB-TASIKMALAYA",
-    "warning": [
-      "III Cipatujah",
-      "III Cibalong",
-      "III Pamengpeuk"
     ]
   }
 ]
