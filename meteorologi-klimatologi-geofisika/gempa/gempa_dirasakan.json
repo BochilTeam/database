@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "06/09/2024 08:06:36 WIB",
+    "lintang": "5.49 LS",
+    "bujur": "102.61 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km tenggara Enggano",
+    "warning": [
+      "III Kota Bengkulu",
+      "III Kepahiang",
+      "II Pesisir Barat",
+      "II Liwa",
+      "III-IV Enggano",
+      "III Bengkulu Utara"
+    ]
+  },
+  {
     "waktu": "06/09/2024 03:13:40 WIB",
     "lintang": "8.17 LS",
     "bujur": "115.19 BT",
@@ -227,17 +243,6 @@
       "III Cipatujah",
       "III Cibalong",
       "III Pamengpeuk"
-    ]
-  },
-  {
-    "waktu": "27/08/2024 09:40:39 WIB",
-    "lintang": "9.55 LS",
-    "bujur": "118.59 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "19 Km",
-    "wilayah": "Pusat gempa berada di laut 44 km barat laut Kodi",
-    "warning": [
-      "III Tambolaka"
     ]
   }
 ]
