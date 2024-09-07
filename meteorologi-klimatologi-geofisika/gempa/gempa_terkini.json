@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07-09-24 08:14:07 WIB",
+    "lintang": "-3.91",
+    "bujur": "136.93",
+    "magnitudo": "5.1",
+    "kedalaman": "170 Km",
+    "wilayah": "49 km Tenggara INTANJAYA-PAPUATENGAH"
+  },
+  {
     "waktu": "06-09-24 14:39:43 WIB",
     "lintang": "5.71",
     "bujur": "125.18",
@@ -230,13 +238,5 @@
     "magnitudo": "5.4",
     "kedalaman": "181 Km",
     "wilayah": "219 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "24-07-24 15:09:04 WIB",
-    "lintang": "-10.10",
-    "bujur": "123.73",
-    "magnitudo": "5.4",
-    "kedalaman": "32 Km",
-    "wilayah": "16 km TimurLaut KUPANG-NTT"
   }
 ]

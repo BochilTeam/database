@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "07/09/2024 08:51:44 WIB",
+    "lintang": "8.52 LS",
+    "bujur": "115.35 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat, 2 km timur laut Gianyar",
+    "warning": [
+      "III-IV Gianyar",
+      "III Tabanan",
+      "III Badung",
+      "III Denpasar",
+      "III Klungkung",
+      "III Mataram",
+      "III Lombok Barat"
+    ]
+  },
+  {
     "waktu": "07/09/2024 02:02:04 WIB",
     "lintang": "8.29 LS",
     "bujur": "106.83 BT",
@@ -233,17 +250,6 @@
     "wilayah": "Pusat gempa berada di darat 81 km barat laut Keerom",
     "warning": [
       "II Wamena"
-    ]
-  },
-  {
-    "waktu": "31/08/2024 15:04:42 WIB",
-    "lintang": "4.16 LS",
-    "bujur": "121.7 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 3.4 Km TimurLaut Baula, Kab.Kolaka",
-    "warning": [
-      "II-III Wundulako"
     ]
   }
 ]
