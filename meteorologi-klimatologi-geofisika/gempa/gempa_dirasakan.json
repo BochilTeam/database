@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/09/2024 20:51:13 WIB",
+    "lintang": "4.12 LS",
+    "bujur": "129.79 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 47 km Utara Banda",
+    "warning": [
+      "II-III Banda"
+    ]
+  },
+  {
     "waktu": "07/09/2024 08:51:44 WIB",
     "lintang": "8.52 LS",
     "bujur": "115.35 BT",
@@ -239,17 +250,6 @@
     "wilayah": "Pusat gempa berada di darat 21 km barat daya Kota Bogor",
     "warning": [
       "II Kec. Pamijahan"
-    ]
-  },
-  {
-    "waktu": "31/08/2024 15:53:48 WIB",
-    "lintang": "3.28 LS",
-    "bujur": "140.03 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "93 Km",
-    "wilayah": "Pusat gempa berada di darat 81 km barat laut Keerom",
-    "warning": [
-      "II Wamena"
     ]
   }
 ]
