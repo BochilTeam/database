@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10-09-24 04:01:33 WIB",
+    "lintang": "4.34",
+    "bujur": "126.77",
+    "magnitudo": "5.6",
+    "kedalaman": "60 Km",
+    "wilayah": "39 km TimurLaut MELONGUANE-SULUT"
+  },
+  {
     "waktu": "07-09-24 08:14:07 WIB",
     "lintang": "-3.91",
     "bujur": "136.93",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "100 km Tenggara ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "24-07-24 19:42:52 WIB",
-    "lintang": "-6.39",
-    "bujur": "130.12",
-    "magnitudo": "5.4",
-    "kedalaman": "181 Km",
-    "wilayah": "219 km BaratLaut TANIMBAR"
   }
 ]
