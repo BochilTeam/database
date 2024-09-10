@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "10/09/2024 12:11:07 WIB",
+    "lintang": "8.74 LS",
+    "bujur": "124.26 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "97 Km",
+    "wilayah": "Pusat gempa berada di laut 59 km barat daya Alor",
+    "warning": [
+      "II-III Soe"
+    ]
+  },
+  {
     "waktu": "10/09/2024 03:35:33 WIB",
     "lintang": "2.5 LS",
     "bujur": "121.04 BT",
@@ -239,17 +250,6 @@
     "wilayah": "Pusat gempa berada di darat 4.4 tenggara Lalolae, Kab. Kolaka Timur",
     "warning": [
       "II - III Mowewe"
-    ]
-  },
-  {
-    "waktu": "01/09/2024 18:47:03 WIB",
-    "lintang": "2.05 LS",
-    "bujur": "125.77 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di laut 24 km barat Sanana",
-    "warning": [
-      "III Sanana"
     ]
   }
 ]

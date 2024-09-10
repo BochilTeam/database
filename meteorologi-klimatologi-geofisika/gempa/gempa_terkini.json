@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10-09-24 12:11:07 WIB",
+    "lintang": "-8.74",
+    "bujur": "124.26",
+    "magnitudo": "5.2",
+    "kedalaman": "97 Km",
+    "wilayah": "59 km BaratDaya ALOR-NTT"
+  },
+  {
     "waktu": "10-09-24 04:01:33 WIB",
     "lintang": "4.34",
     "bujur": "126.77",
@@ -230,13 +238,5 @@
     "magnitudo": "6.3",
     "kedalaman": "157 Km",
     "wilayah": "119 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "26-07-24 00:11:41 WIB",
-    "lintang": "-6.02",
-    "bujur": "102.87",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "100 km Tenggara ENGGANO-BENGKULU"
   }
 ]
