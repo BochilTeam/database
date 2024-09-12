@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "12/09/2024 10:25:13 WIB",
+    "lintang": "8.72 LS",
+    "bujur": "110.25 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "30 Km",
+    "wilayah": "Pusat gempa berada di laut 90 km barat daya Gunungkidul",
+    "warning": [
+      "II Gunungkidul",
+      "II Bantul",
+      "II Pacitan",
+      "II Wonogiri"
+    ]
+  },
+  {
     "waktu": "12/09/2024 01:01:55 WIB",
     "lintang": "7.93 LS",
     "bujur": "117.23 BT",
@@ -235,21 +249,6 @@
       "II - III Pidie Jaya",
       "III-IV Bener Meriah",
       "III - IV Takengon"
-    ]
-  },
-  {
-    "waktu": "02/09/2024 02:59:25 WIB",
-    "lintang": "3.81 LU",
-    "bujur": "126.68 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "21 Km",
-    "wilayah": "Pusat gempa berada di laut 21 km Tenggara Melonguane",
-    "warning": [
-      "IV Melonguane",
-      "II - III Tahuna",
-      "II - III Ondong",
-      "II-III Tobelo",
-      "II - III Daruba"
     ]
   }
 ]
