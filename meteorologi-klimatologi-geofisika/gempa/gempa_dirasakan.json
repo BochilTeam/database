@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "14/09/2024 19:35:35 WIB",
+    "lintang": "8.5 LS",
+    "bujur": "115.41 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km Timur Laut Klungkung",
+    "warning": [
+      "II Bangli"
+    ]
+  },
+  {
     "waktu": "14/09/2024 08:31:07 WIB",
     "lintang": "9.02 LS",
     "bujur": "115.62 BT",
@@ -240,17 +251,6 @@
     "wilayah": "Pusat gempa berada di laut 49 km barat Sanana",
     "warning": [
       "III Sanana"
-    ]
-  },
-  {
-    "waktu": "03/09/2024 06:26:12 WIB",
-    "lintang": "2.54 LS",
-    "bujur": "121.18 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km timur laut Luwu Timur",
-    "warning": [
-      "III Malili"
     ]
   }
 ]
