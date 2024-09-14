@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15-09-24 04:37:38 WIB",
+    "lintang": "1.86",
+    "bujur": "98.95",
+    "magnitudo": "5.7",
+    "kedalaman": "131 Km",
+    "wilayah": "17 km BaratDaya TAPANULIUTARA-SUMUT"
+  },
+  {
     "waktu": "10-09-24 12:11:07 WIB",
     "lintang": "-8.74",
     "bujur": "124.26",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "144 Km",
     "wilayah": "221 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "26-07-24 03:32:18 WIB",
-    "lintang": "-7.60",
-    "bujur": "128.71",
-    "magnitudo": "6.3",
-    "kedalaman": "157 Km",
-    "wilayah": "119 km TimurLaut MALUKUBRTDAYA"
   }
 ]
