@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "14/09/2024 00:19:50 WIB",
+    "lintang": "9.15 LS",
+    "bujur": "110.4 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 130 km baratdaya Gunungkidul",
+    "warning": [
+      "II-III Pacitan",
+      "II-III Wonogiri",
+      "II-III Sukoharjo"
+    ]
+  },
+  {
     "waktu": "12/09/2024 10:25:13 WIB",
     "lintang": "8.72 LS",
     "bujur": "110.25 BT",
@@ -234,21 +247,6 @@
       "IV Mane",
       "III Calang",
       "II-III Nagan Raya"
-    ]
-  },
-  {
-    "waktu": "02/09/2024 07:39:09 WIB",
-    "lintang": "4.53 LU",
-    "bujur": "96.43 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 35 Km TimurLaut Nagan Raya Aceh",
-    "warning": [
-      "II Aceh Besar",
-      "II - III Banda Aceh",
-      "II - III Pidie Jaya",
-      "III-IV Bener Meriah",
-      "III - IV Takengon"
     ]
   }
 ]
