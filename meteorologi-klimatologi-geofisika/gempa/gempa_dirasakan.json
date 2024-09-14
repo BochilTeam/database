@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "14/09/2024 08:31:07 WIB",
+    "lintang": "9.02 LS",
+    "bujur": "115.62 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "85 Km",
+    "wilayah": "Pusat gempa berada di laut 50 km tenggara Kuta Selatan",
+    "warning": [
+      "II-III Kota Mataram",
+      "II-III Lombok Barat",
+      "II - III Lombok Tengah",
+      "II Gianyar",
+      "II Badung",
+      "II Denpasar",
+      "II Karangasem"
+    ]
+  },
+  {
     "waktu": "14/09/2024 00:19:50 WIB",
     "lintang": "9.15 LS",
     "bujur": "110.4 BT",
@@ -234,19 +251,6 @@
     "wilayah": "Pusat gempa berada di darat 4 km timur laut Luwu Timur",
     "warning": [
       "III Malili"
-    ]
-  },
-  {
-    "waktu": "02/09/2024 20:51:28 WIB",
-    "lintang": "4.86 LU",
-    "bujur": "96.06 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 28 km barat daya Kab Pidie Jaya",
-    "warning": [
-      "IV Mane",
-      "III Calang",
-      "II-III Nagan Raya"
     ]
   }
 ]
