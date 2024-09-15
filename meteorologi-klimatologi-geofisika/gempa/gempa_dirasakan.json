@@ -1,5 +1,23 @@
 [
   {
+    "waktu": "15/09/2024 16:54:31 WIB",
+    "lintang": "7.81 LS",
+    "bujur": "106.55 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 91 km selatan Kabupaten Sukabumi",
+    "warning": [
+      "III Sukabumi",
+      "III Cireungas",
+      "III Ujung genteng",
+      "III Nagrak",
+      "II Cimahi",
+      "II Lembang",
+      "II Banjaran",
+      "II Kab. Bandung"
+    ]
+  },
+  {
     "waktu": "15/09/2024 04:37:38 WIB",
     "lintang": "1.86 LU",
     "bujur": "98.95 BT",
@@ -241,17 +259,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km barat laut Luwuk Timur",
     "warning": [
       "II Wasuponda"
-    ]
-  },
-  {
-    "waktu": "03/09/2024 20:13:08 WIB",
-    "lintang": "0.35 LS",
-    "bujur": "123.1 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "36 Km",
-    "wilayah": "Pusat gempa berada di laut 98 km barat daya Bonebolango",
-    "warning": [
-      "III Luwuk"
     ]
   }
 ]

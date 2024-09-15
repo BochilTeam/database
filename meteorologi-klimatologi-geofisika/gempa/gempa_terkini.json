@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15-09-24 16:54:31 WIB",
+    "lintang": "-7.81",
+    "bujur": "106.55",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "91 km Selatan KAB-SUKABUMI-JABAR"
+  },
+  {
     "waktu": "15-09-24 04:37:38 WIB",
     "lintang": "1.86",
     "bujur": "98.95",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "160 Km",
     "wilayah": "219 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "28-07-24 18:20:31 WIB",
-    "lintang": "-6.31",
-    "bujur": "130.20",
-    "magnitudo": "5.6",
-    "kedalaman": "144 Km",
-    "wilayah": "221 km BaratLaut TANIMBAR"
   }
 ]
