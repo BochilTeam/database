@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "15/09/2024 04:37:38 WIB",
+    "lintang": "1.86 LU",
+    "bujur": "98.95 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "131 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km barat daya Tapanuli Utara",
+    "warning": [
+      "III Tapanuli Tengah",
+      "II-III Gunungsitoli"
+    ]
+  },
+  {
     "waktu": "14/09/2024 19:35:35 WIB",
     "lintang": "8.5 LS",
     "bujur": "115.41 BT",
@@ -240,17 +252,6 @@
     "wilayah": "Pusat gempa berada di laut 98 km barat daya Bonebolango",
     "warning": [
       "III Luwuk"
-    ]
-  },
-  {
-    "waktu": "03/09/2024 19:43:40 WIB",
-    "lintang": "2 LS",
-    "bujur": "125.55 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 49 km barat Sanana",
-    "warning": [
-      "III Sanana"
     ]
   }
 ]
