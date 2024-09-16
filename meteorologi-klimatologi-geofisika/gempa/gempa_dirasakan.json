@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "16/09/2024 20:00:00 WIB",
+    "lintang": "1.07 LU",
+    "bujur": "127.93 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di laut 48 km Tenggara Halmahera Utara",
+    "warning": [
+      "II-III Halmahera Utara",
+      "II-III Halmahera Timur"
+    ]
+  },
+  {
     "waktu": "16/09/2024 18:54:43 WIB",
     "lintang": "0.47 LS",
     "bujur": "127.74 BT",
@@ -7,7 +19,7 @@
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di laut. 33 km TimurLaut Labuha",
     "warning": [
-      "II-III LABUHA-MALUT"
+      "II-III Labuha"
     ]
   },
   {
@@ -250,17 +262,6 @@
       "II Liwa",
       "III-IV Enggano",
       "III Bengkulu Utara"
-    ]
-  },
-  {
-    "waktu": "06/09/2024 03:13:40 WIB",
-    "lintang": "8.17 LS",
-    "bujur": "115.19 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km tenggara Buleleng",
-    "warning": [
-      "II Buleleng"
     ]
   }
 ]
