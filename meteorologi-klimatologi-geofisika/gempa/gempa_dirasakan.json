@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "16/09/2024 18:54:43 WIB",
+    "lintang": "0.47 LS",
+    "bujur": "127.74 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut. 33 km TimurLaut Labuha",
+    "warning": [
+      "II-III LABUHA-MALUT"
+    ]
+  },
+  {
+    "waktu": "16/09/2024 18:39:47 WIB",
+    "lintang": "0.4 LS",
+    "bujur": "127.63 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut timur laut Labuha",
+    "warning": [
+      "II-III Labuha"
+    ]
+  },
+  {
     "waktu": "16/09/2024 07:01:12 WIB",
     "lintang": "7.7 LS",
     "bujur": "106.56 BT",
@@ -239,32 +261,6 @@
     "wilayah": "Pusat gempa berada di darat 12 km tenggara Buleleng",
     "warning": [
       "II Buleleng"
-    ]
-  },
-  {
-    "waktu": "05/09/2024 14:20:18 WIB",
-    "lintang": "7.21 LS",
-    "bujur": "107.55 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km tenggara Kab. Bandung",
-    "warning": [
-      "II - III Pangalengan",
-      "II - III Cibereum",
-      "II - III Cimaung",
-      "II - III Ciwidey"
-    ]
-  },
-  {
-    "waktu": "05/09/2024 12:28:07 WIB",
-    "lintang": "4.44 LU",
-    "bujur": "96.59 BT",
-    "magnitudo": "4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 35 km barat daya Takengon-Aceh Tengah",
-    "warning": [
-      "II Takengon",
-      "II Bener Meriah"
     ]
   }
 ]
