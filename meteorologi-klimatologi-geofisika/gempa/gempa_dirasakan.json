@@ -1,5 +1,35 @@
 [
   {
+    "waktu": "17/09/2024 05:50:51 WIB",
+    "lintang": "6.9 LS",
+    "bujur": "105.63 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "34 Km",
+    "wilayah": "Pusat gempa berada di laut 27 km tenggara Sumur",
+    "warning": [
+      "III Sumur",
+      "III Muarabinuangeun",
+      "III Panimbang",
+      "III Cibaliung",
+      "III Singdangkerta",
+      "III Sobang"
+    ]
+  },
+  {
+    "waktu": "17/09/2024 04:46:30 WIB",
+    "lintang": "7.22 LS",
+    "bujur": "106.18 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 33 km barat daya Bayah",
+    "warning": [
+      "III Muarabinuangeun",
+      "III Ujung Genteng",
+      "III Pelabuhan Ratu",
+      "III Surade"
+    ]
+  },
+  {
     "waktu": "16/09/2024 20:00:00 WIB",
     "lintang": "1.07 LU",
     "bujur": "127.93 BT",
@@ -235,33 +265,6 @@
       "Kab. Sukabumi",
       "II Kecamatan Limbursitu",
       "Kota Sukabumi"
-    ]
-  },
-  {
-    "waktu": "06/09/2024 10:55:14 WIB",
-    "lintang": "3.71 LS",
-    "bujur": "103.24 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 34 km barat laut Lahat",
-    "warning": [
-      "III Kikim"
-    ]
-  },
-  {
-    "waktu": "06/09/2024 08:06:36 WIB",
-    "lintang": "5.49 LS",
-    "bujur": "102.61 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 41 km tenggara Enggano",
-    "warning": [
-      "III Kota Bengkulu",
-      "III Kepahiang",
-      "II Pesisir Barat",
-      "II Liwa",
-      "III-IV Enggano",
-      "III Bengkulu Utara"
     ]
   }
 ]
