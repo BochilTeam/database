@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/09/2024 08:15:21 WIB",
+    "lintang": "7.27 LS",
+    "bujur": "109.66 BT",
+    "magnitudo": "3",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 16 Km BaratLaut BANJARNEGARA",
+    "warning": [
+      "II Banjarnegara"
+    ]
+  },
+  {
     "waktu": "17/09/2024 05:50:51 WIB",
     "lintang": "6.9 LS",
     "bujur": "105.63 BT",
@@ -251,20 +262,6 @@
       "III Klungkung",
       "III Mataram",
       "III Lombok Barat"
-    ]
-  },
-  {
-    "waktu": "07/09/2024 02:02:04 WIB",
-    "lintang": "8.29 LS",
-    "bujur": "106.83 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di laut 147 km Tenggara Kab. Sukabumi",
-    "warning": [
-      "II Kec. Simpenan",
-      "Kab. Sukabumi",
-      "II Kecamatan Limbursitu",
-      "Kota Sukabumi"
     ]
   }
 ]
