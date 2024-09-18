@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18-09-24 09:41:08 WIB",
+    "lintang": "-7.19",
+    "bujur": "107.67",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "24 km Tenggara KAB-BANDUNG-JABAR"
+  },
+  {
     "waktu": "16-09-24 23:53:09 WIB",
     "lintang": "-2.22",
     "bujur": "139.11",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "133 km BaratDaya PESISIRBARAT-LAMPUNG"
-  },
-  {
-    "waktu": "03-08-24 12:32:58 WIB",
-    "lintang": "-3.39",
-    "bujur": "138.09",
-    "magnitudo": "5.0",
-    "kedalaman": "100 Km",
-    "wilayah": "28 km TimurLaut PUNCAKJAYA-PAPUATENGAH"
   }
 ]
