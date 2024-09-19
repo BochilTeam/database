@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19-09-24 23:14:17 WIB",
+    "lintang": "0.80",
+    "bujur": "98.68",
+    "magnitudo": "5.3",
+    "kedalaman": "93 Km",
+    "wilayah": "91 km BaratDaya PADANGSIDEMPUAN-SUMUT"
+  },
+  {
     "waktu": "19-09-24 14:45:33 WIB",
     "lintang": "2.23",
     "bujur": "128.68",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "125 km BaratLaut PULAUDOI-MALUT"
-  },
-  {
-    "waktu": "09-08-24 23:40:39 WIB",
-    "lintang": "-9.32",
-    "bujur": "120.57",
-    "magnitudo": "5.3",
-    "kedalaman": "32 Km",
-    "wilayah": "51 km TimurLaut WAINGAPU-NTT"
   }
 ]

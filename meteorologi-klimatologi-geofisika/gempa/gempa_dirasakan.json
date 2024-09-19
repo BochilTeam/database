@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "19/09/2024 23:36:50 WIB",
+    "lintang": "1.28 LU",
+    "bujur": "118.44 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di darat 146 Km tenggara Berau",
+    "warning": [
+      "III-IV Kecamatan Batu Putih"
+    ]
+  },
+  {
+    "waktu": "19/09/2024 23:14:17 WIB",
+    "lintang": "0.8 LU",
+    "bujur": "98.68 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "93 Km",
+    "wilayah": "Pusat gempa berada di Laut 91 Km BaratDaya Padangsidimpuan",
+    "warning": [
+      "III Gunung Sitoli",
+      "III Tapanuli Tengah"
+    ]
+  },
+  {
     "waktu": "19/09/2024 14:45:33 WIB",
     "lintang": "2.23 LU",
     "bujur": "128.68 BT",
@@ -236,36 +259,6 @@
     "wilayah": "Pusat gempa berada di darat 4 km Timur Laut Klungkung",
     "warning": [
       "II Bangli"
-    ]
-  },
-  {
-    "waktu": "14/09/2024 08:31:07 WIB",
-    "lintang": "9.02 LS",
-    "bujur": "115.62 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "85 Km",
-    "wilayah": "Pusat gempa berada di laut 50 km tenggara Kuta Selatan",
-    "warning": [
-      "II-III Kota Mataram",
-      "II-III Lombok Barat",
-      "II - III Lombok Tengah",
-      "II Gianyar",
-      "II Badung",
-      "II Denpasar",
-      "II Karangasem"
-    ]
-  },
-  {
-    "waktu": "14/09/2024 00:19:50 WIB",
-    "lintang": "9.15 LS",
-    "bujur": "110.4 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 130 km baratdaya Gunungkidul",
-    "warning": [
-      "II-III Pacitan",
-      "II-III Wonogiri",
-      "II-III Sukoharjo"
     ]
   }
 ]
