@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "19-09-24 14:45:33 WIB",
+    "lintang": "2.23",
+    "bujur": "128.68",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "47 km TimurLaut DARUBA-MALUT"
+  },
+  {
     "waktu": "18-09-24 09:41:08 WIB",
     "lintang": "-7.19",
     "bujur": "107.67",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "32 Km",
     "wilayah": "51 km TimurLaut WAINGAPU-NTT"
-  },
-  {
-    "waktu": "05-08-24 19:44:03 WIB",
-    "lintang": "-6.33",
-    "bujur": "103.57",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "133 km BaratDaya PESISIRBARAT-LAMPUNG"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "19/09/2024 14:45:33 WIB",
+    "lintang": "2.23 LU",
+    "bujur": "128.68 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 47 km timur laut Daruba",
+    "warning": [
+      "III-IV Halmahera Utara",
+      "II Halmahera Timur",
+      "II Ternate",
+      "III-IV Morotai"
+    ]
+  },
+  {
     "waktu": "18/09/2024 14:56:03 WIB",
     "lintang": "7.21 LS",
     "bujur": "107.66 BT",
@@ -251,20 +265,6 @@
       "II-III Pacitan",
       "II-III Wonogiri",
       "II-III Sukoharjo"
-    ]
-  },
-  {
-    "waktu": "12/09/2024 10:25:13 WIB",
-    "lintang": "8.72 LS",
-    "bujur": "110.25 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "30 Km",
-    "wilayah": "Pusat gempa berada di laut 90 km barat daya Gunungkidul",
-    "warning": [
-      "II Gunungkidul",
-      "II Bantul",
-      "II Pacitan",
-      "II Wonogiri"
     ]
   }
 ]
