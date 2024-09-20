@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/09/2024 21:31:15 WIB",
+    "lintang": "3.84 LS",
+    "bujur": "122.24 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km timur laut Kab.Konawe",
+    "warning": [
+      "II-III Kab.Konawe"
+    ]
+  },
+  {
     "waktu": "19/09/2024 23:36:50 WIB",
     "lintang": "1.28 LU",
     "bujur": "118.44 BT",
@@ -248,17 +259,6 @@
     "warning": [
       "III Tapanuli Tengah",
       "II-III Gunungsitoli"
-    ]
-  },
-  {
-    "waktu": "14/09/2024 19:35:35 WIB",
-    "lintang": "8.5 LS",
-    "bujur": "115.41 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km Timur Laut Klungkung",
-    "warning": [
-      "II Bangli"
     ]
   }
 ]
