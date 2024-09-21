@@ -1,5 +1,24 @@
 [
   {
+    "waktu": "21/09/2024 06:26:20 WIB",
+    "lintang": "8.57 LS",
+    "bujur": "115.32 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km baratdaya Gianyar",
+    "warning": [
+      "IV Gianyar",
+      "III Badung",
+      "III Denpasar",
+      "III Tabanan",
+      "III Karangasem",
+      "III Bangli",
+      "II Buleleng",
+      "II Mataram",
+      "II Lombok Barat"
+    ]
+  },
+  {
     "waktu": "20/09/2024 21:31:15 WIB",
     "lintang": "3.84 LS",
     "bujur": "122.24 BT",
@@ -247,18 +266,6 @@
       "II Lembang",
       "II Banjaran",
       "II Kab. Bandung"
-    ]
-  },
-  {
-    "waktu": "15/09/2024 04:37:38 WIB",
-    "lintang": "1.86 LU",
-    "bujur": "98.95 BT",
-    "magnitudo": "5.7",
-    "kedalaman": "131 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km barat daya Tapanuli Utara",
-    "warning": [
-      "III Tapanuli Tengah",
-      "II-III Gunungsitoli"
     ]
   }
 ]
