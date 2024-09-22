@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/09/2024 03:21:10 WIB",
+    "lintang": "0.4 LU",
+    "bujur": "110.21 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 45 km baratlaut Sanggau",
+    "warning": [
+      "II-III Sanggau"
+    ]
+  },
+  {
     "waktu": "21/09/2024 06:26:20 WIB",
     "lintang": "8.57 LS",
     "bujur": "115.32 BT",
@@ -248,24 +259,6 @@
     "warning": [
       "II - III Kecamatan Batu Putih",
       "II - III Kecamatan Sangkulirang"
-    ]
-  },
-  {
-    "waktu": "15/09/2024 16:54:31 WIB",
-    "lintang": "7.81 LS",
-    "bujur": "106.55 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 91 km selatan Kabupaten Sukabumi",
-    "warning": [
-      "III Sukabumi",
-      "III Cireungas",
-      "III Ujung genteng",
-      "III Nagrak",
-      "II Cimahi",
-      "II Lembang",
-      "II Banjaran",
-      "II Kab. Bandung"
     ]
   }
 ]
