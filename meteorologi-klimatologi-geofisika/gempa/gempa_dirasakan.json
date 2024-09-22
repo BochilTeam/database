@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/09/2024 10:11:52 WIB",
+    "lintang": "7.87 LS",
+    "bujur": "109.7 BT",
+    "magnitudo": "4",
+    "kedalaman": "102 Km",
+    "wilayah": "Pusat gempa berada di laut 23 km Tenggara Kebumen",
+    "warning": [
+      "III Bantul"
+    ]
+  },
+  {
     "waktu": "22/09/2024 03:21:10 WIB",
     "lintang": "0.4 LU",
     "bujur": "110.21 BT",
@@ -247,18 +258,6 @@
       "II-III Bengalon",
       "II-III Muara Badak",
       "III-IV Kec. Sangkulirang"
-    ]
-  },
-  {
-    "waktu": "15/09/2024 18:28:55 WIB",
-    "lintang": "1.33 LU",
-    "bujur": "118.44 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 143 km tenggara Berau",
-    "warning": [
-      "II - III Kecamatan Batu Putih",
-      "II - III Kecamatan Sangkulirang"
     ]
   }
 ]
