@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "24/09/2024 03:45:24 WIB",
+    "lintang": "4.63 LS",
+    "bujur": "102.75 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "34 Km",
+    "wilayah": "Pusat gempa berada di laut 26 km barat daya Bengkulu Selatan",
+    "warning": [
+      "III Bengkulu Selatan",
+      "II-III Kaur"
+    ]
+  },
+  {
     "waktu": "24/09/2024 02:51:04 WIB",
     "lintang": "0.11 LS",
     "bujur": "122.92 BT",
@@ -10,9 +22,14 @@
       "III-IV Kotamobagu",
       "III-IV Bolaang Mongondow Selatan",
       "III-IV Pohuwato",
-      "III Kab. Gorontalo",
-      "III Kota Gorontalo",
-      "III Gorontalo Utara"
+      "III-IV Kab. Gorontalo",
+      "III-IV Kota Gorontalo",
+      "III-IV Bone Bolango",
+      "III-IV Boalemo",
+      "III-IV Luwuk",
+      "III Gorontalo Utara",
+      "III Buol",
+      "III Bolaang Mongondow Timur"
     ]
   },
   {
@@ -242,17 +259,6 @@
     "warning": [
       "II-III Halmahera Utara",
       "II-III Halmahera Timur"
-    ]
-  },
-  {
-    "waktu": "16/09/2024 18:54:43 WIB",
-    "lintang": "0.47 LS",
-    "bujur": "127.74 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut. 33 km TimurLaut Labuha",
-    "warning": [
-      "II-III Labuha"
     ]
   }
 ]
