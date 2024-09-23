@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "24-09-24 02:51:04 WIB",
+    "lintang": "-0.11",
+    "bujur": "122.92",
+    "magnitudo": "6.4",
+    "kedalaman": "145 Km",
+    "wilayah": "74 km BaratDaya GORONTALO-GORONTALO"
+  },
+  {
     "waktu": "19-09-24 23:14:17 WIB",
     "lintang": "0.80",
     "bujur": "98.68",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "317 Km",
     "wilayah": "222 km Tenggara AMBON-MALUKU"
-  },
-  {
-    "waktu": "12-08-24 18:36:13 WIB",
-    "lintang": "2.38",
-    "bujur": "126.65",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "125 km BaratLaut PULAUDOI-MALUT"
   }
 ]
