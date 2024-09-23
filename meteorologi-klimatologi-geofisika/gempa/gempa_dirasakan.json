@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/09/2024 18:33:52 WIB",
+    "lintang": "2.27 LS",
+    "bujur": "134.28 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 56 km baratlaut Teluk Wondama",
+    "warning": [
+      "II Wasior"
+    ]
+  },
+  {
     "waktu": "23/09/2024 02:29:18 WIB",
     "lintang": "0.74 LS",
     "bujur": "131.44 BT",
@@ -237,17 +248,6 @@
     "wilayah": "Pusat gempa berada di laut timur laut Labuha",
     "warning": [
       "II-III Labuha"
-    ]
-  },
-  {
-    "waktu": "16/09/2024 07:01:12 WIB",
-    "lintang": "7.7 LS",
-    "bujur": "106.56 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada di laut 79 km Tenggara KAB-SUKABUMI",
-    "warning": [
-      "III Surade"
     ]
   }
 ]
