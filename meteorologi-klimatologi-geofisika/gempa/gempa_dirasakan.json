@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "24/09/2024 06:53:59 WIB",
+    "lintang": "7.5 LS",
+    "bujur": "107.02 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "61 Km",
+    "wilayah": "Pusat gempa berada di laut 65 km tenggara Kota Sukabumi",
+    "warning": [
+      "III Cianjur Selatan",
+      "II Bogor",
+      "II Bayah",
+      "II Lebak",
+      "II-III Kab. Sukabumi",
+      "II Kab. Bandung",
+      "II Kab. Garut"
+    ]
+  },
+  {
     "waktu": "24/09/2024 03:45:24 WIB",
     "lintang": "4.63 LS",
     "bujur": "102.75 BT",
@@ -247,18 +264,6 @@
       "III Ujung Genteng",
       "III Pelabuhan Ratu",
       "III Surade"
-    ]
-  },
-  {
-    "waktu": "16/09/2024 20:00:00 WIB",
-    "lintang": "1.07 LU",
-    "bujur": "127.93 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di laut 48 km Tenggara Halmahera Utara",
-    "warning": [
-      "II-III Halmahera Utara",
-      "II-III Halmahera Timur"
     ]
   }
 ]
