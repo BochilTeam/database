@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/09/2024 16:16:35 WIB",
+    "lintang": "2.91 LS",
+    "bujur": "119.43 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km timurlaut Mamasa",
+    "warning": [
+      "II Mamasa"
+    ]
+  },
+  {
     "waktu": "25/09/2024 11:49:48 WIB",
     "lintang": "2 LS",
     "bujur": "119.43 BT",
@@ -244,17 +255,6 @@
     "magnitudo": "2.7",
     "kedalaman": "5 Km",
     "wilayah": "Pusat gempa berada di darat 17 km barat laut Banjarnegara",
-    "warning": [
-      "II Banjarnegara"
-    ]
-  },
-  {
-    "waktu": "17/09/2024 08:15:21 WIB",
-    "lintang": "7.27 LS",
-    "bujur": "109.66 BT",
-    "magnitudo": "3",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 16 Km BaratLaut BANJARNEGARA",
     "warning": [
       "II Banjarnegara"
     ]
