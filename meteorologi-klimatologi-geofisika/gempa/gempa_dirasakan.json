@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "25/09/2024 11:49:48 WIB",
+    "lintang": "2 LS",
+    "bujur": "119.43 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km baratlaut Mamuju Tengah",
+    "warning": [
+      "II-III Topoyo",
+      "II-III Tobadak"
+    ]
+  },
+  {
     "waktu": "24/09/2024 18:35:17 WIB",
     "lintang": "0.97 LU",
     "bujur": "118.97 BT",
@@ -245,22 +257,6 @@
     "wilayah": "Pusat gempa berada di darat 16 Km BaratLaut BANJARNEGARA",
     "warning": [
       "II Banjarnegara"
-    ]
-  },
-  {
-    "waktu": "17/09/2024 05:50:51 WIB",
-    "lintang": "6.9 LS",
-    "bujur": "105.63 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "34 Km",
-    "wilayah": "Pusat gempa berada di laut 27 km tenggara Sumur",
-    "warning": [
-      "III Sumur",
-      "III Muarabinuangeun",
-      "III Panimbang",
-      "III Cibaliung",
-      "III Singdangkerta",
-      "III Sobang"
     ]
   }
 ]
