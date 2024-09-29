@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/09/2024 13:27:52 WIB",
+    "lintang": "4.02 LS",
+    "bujur": "129.82 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 57 km utara Banda - Maluku Tengah",
+    "warning": [
+      "II Banda Naira"
+    ]
+  },
+  {
     "waktu": "29/09/2024 03:26:03 WIB",
     "lintang": "1.73 LS",
     "bujur": "120.16 BT",
@@ -240,24 +251,6 @@
     "wilayah": "Pusat gempa berada di darat 21 km BaratLaut Kab. Garut",
     "warning": [
       "II Pasirwangi"
-    ]
-  },
-  {
-    "waktu": "18/09/2024 09:41:08 WIB",
-    "lintang": "7.19 LS",
-    "bujur": "107.67 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 24 km Tenggara Kab. Bandung",
-    "warning": [
-      "III Banjaran",
-      "II-III Lembang",
-      "II-III Parompong",
-      "II-III Kab. Bandung Barat",
-      "II-III Baleendah",
-      "II-III Garut",
-      "III-IV Majalaya",
-      "II-III Cileunyi"
     ]
   }
 ]
