@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "29/09/2024 03:26:03 WIB",
+    "lintang": "1.73 LS",
+    "bujur": "120.16 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 49 km Tenggara Sigi",
+    "warning": [
+      "IV Lore Tengah",
+      "II-III Sigi"
+    ]
+  },
+  {
     "waktu": "25/09/2024 16:16:35 WIB",
     "lintang": "2.91 LS",
     "bujur": "119.43 BT",
@@ -246,17 +258,6 @@
       "II-III Garut",
       "III-IV Majalaya",
       "II-III Cileunyi"
-    ]
-  },
-  {
-    "waktu": "17/09/2024 10:53:39 WIB",
-    "lintang": "7.26 LS",
-    "bujur": "109.66 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km barat laut Banjarnegara",
-    "warning": [
-      "II Banjarnegara"
     ]
   }
 ]
