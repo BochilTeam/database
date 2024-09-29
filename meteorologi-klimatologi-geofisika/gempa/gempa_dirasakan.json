@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/09/2024 15:16:15 WIB",
+    "lintang": "3.45 LS",
+    "bujur": "135.4 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "39 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km barat daya Nabire",
+    "warning": [
+      "III Nabire"
+    ]
+  },
+  {
     "waktu": "29/09/2024 13:27:52 WIB",
     "lintang": "4.02 LS",
     "bujur": "129.82 BT",
@@ -240,17 +251,6 @@
     "wilayah": "Pusat gempa berada di 20 km Barat Daya Kab-Garut",
     "warning": [
       "II - III Garut"
-    ]
-  },
-  {
-    "waktu": "18/09/2024 09:48:20 WIB",
-    "lintang": "7.21 LS",
-    "bujur": "107.7 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km BaratLaut Kab. Garut",
-    "warning": [
-      "II Pasirwangi"
     ]
   }
 ]
