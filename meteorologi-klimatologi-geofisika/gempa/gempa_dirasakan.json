@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/09/2024 22:36:00 WIB",
+    "lintang": "0.21 LS",
+    "bujur": "119.82 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 23 km barat laut Donggala",
+    "warning": [
+      "II - III Donggala"
+    ]
+  },
+  {
     "waktu": "29/09/2024 15:16:15 WIB",
     "lintang": "3.45 LS",
     "bujur": "135.4 BT",
@@ -240,17 +251,6 @@
       "II Kertasari",
       "II Pasirwangi",
       "II Samarang"
-    ]
-  },
-  {
-    "waktu": "18/09/2024 12:27:38 WIB",
-    "lintang": "7.22 LS",
-    "bujur": "107.71 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di 20 km Barat Daya Kab-Garut",
-    "warning": [
-      "II - III Garut"
     ]
   }
 ]
