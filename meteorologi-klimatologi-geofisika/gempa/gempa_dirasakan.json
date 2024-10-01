@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "02/10/2024 03:57:55 WIB",
+    "lintang": "0.84 LU",
+    "bujur": "122.85 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "33 Km",
+    "wilayah": "Pusat gempa berada di laut 5 km barat laut Gorontalo Utara",
+    "warning": [
+      "II-III Gorontalo Utara",
+      "II-III Kab. Gorontalo",
+      "II-III Kotamobagu",
+      "II-III Bolaang Mongondow Utara"
+    ]
+  },
+  {
     "waktu": "01/10/2024 14:10:39 WIB",
     "lintang": "0.48 LU",
     "bujur": "122.31 BT",
@@ -246,18 +260,6 @@
     "wilayah": "Pusat gempa berada di darat 146 Km tenggara Berau",
     "warning": [
       "III-IV Kecamatan Batu Putih"
-    ]
-  },
-  {
-    "waktu": "19/09/2024 23:14:17 WIB",
-    "lintang": "0.8 LU",
-    "bujur": "98.68 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "93 Km",
-    "wilayah": "Pusat gempa berada di Laut 91 Km BaratDaya Padangsidimpuan",
-    "warning": [
-      "III Gunung Sitoli",
-      "III Tapanuli Tengah"
     ]
   }
 ]
