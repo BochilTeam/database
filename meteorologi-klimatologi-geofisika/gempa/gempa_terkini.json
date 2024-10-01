@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01-10-24 09:18:22 WIB",
+    "lintang": "1.08",
+    "bujur": "98.80",
+    "magnitudo": "5.3",
+    "kedalaman": "108 Km",
+    "wilayah": "61 km BaratDaya PADANGSIDEMPUAN-SUMUT"
+  },
+  {
     "waktu": "29-09-24 18:09:14 WIB",
     "lintang": "2.58",
     "bujur": "126.85",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
     "wilayah": "87 km BaratDaya BAYAH-BANTEN"
-  },
-  {
-    "waktu": "14-08-24 21:14:03 WIB",
-    "lintang": "-9.63",
-    "bujur": "114.02",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "156 km BaratDaya JEMBRANA-BALI"
   }
 ]

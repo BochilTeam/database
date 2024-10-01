@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "01/10/2024 09:18:22 WIB",
+    "lintang": "1.08 LU",
+    "bujur": "98.8 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "108 Km",
+    "wilayah": "Pusat gempa berada di laut 61 km barat daya Padangsidempuan",
+    "warning": [
+      "III Kab. Humbang Hasundutan",
+      "II - III Gunungsitoli",
+      "II - III Nias Barat",
+      "II - III Nias Selatan",
+      "II-III Nias Utara"
+    ]
+  },
+  {
     "waktu": "29/09/2024 22:36:00 WIB",
     "lintang": "0.21 LS",
     "bujur": "119.82 BT",
@@ -238,19 +253,6 @@
       "II Ternate",
       "III-IV Morotai",
       "III Pulau Doi"
-    ]
-  },
-  {
-    "waktu": "18/09/2024 14:56:03 WIB",
-    "lintang": "7.21 LS",
-    "bujur": "107.66 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 25 km Tenggara Kab. Bandung",
-    "warning": [
-      "II Kertasari",
-      "II Pasirwangi",
-      "II Samarang"
     ]
   }
 ]
