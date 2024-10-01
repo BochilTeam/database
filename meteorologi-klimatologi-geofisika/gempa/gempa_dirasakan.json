@@ -1,5 +1,25 @@
 [
   {
+    "waktu": "01/10/2024 14:10:39 WIB",
+    "lintang": "0.48 LU",
+    "bujur": "122.31 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "94 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km baratdaya Boalemo",
+    "warning": [
+      "III - IV Kab. Pohuwato",
+      "III Gorontalo Utara",
+      "III Kota Gorontalo",
+      "III Kab. Gorontalo",
+      "III-IV Kab. Boalemo",
+      "III Kab. Bone Bolango",
+      "III Kab. Bolaang Mongondow",
+      "III Kab. Toli-Toli",
+      "III Kab. Parigi Moutong",
+      "III Kab. Buol"
+    ]
+  },
+  {
     "waktu": "01/10/2024 09:18:22 WIB",
     "lintang": "1.08 LU",
     "bujur": "98.8 BT",
@@ -238,21 +258,6 @@
     "warning": [
       "III Gunung Sitoli",
       "III Tapanuli Tengah"
-    ]
-  },
-  {
-    "waktu": "19/09/2024 14:45:33 WIB",
-    "lintang": "2.23 LU",
-    "bujur": "128.68 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 47 km timur laut Daruba",
-    "warning": [
-      "III-IV Halmahera Utara",
-      "II Halmahera Timur",
-      "II Ternate",
-      "III-IV Morotai",
-      "III Pulau Doi"
     ]
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01-10-24 14:10:39 WIB",
+    "lintang": "0.48",
+    "bujur": "122.31",
+    "magnitudo": "5.2",
+    "kedalaman": "94 Km",
+    "wilayah": "6 km BaratDaya BOALEMO-GORONTALO"
+  },
+  {
     "waktu": "01-10-24 09:18:22 WIB",
     "lintang": "1.08",
     "bujur": "98.80",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "226 Km",
     "wilayah": "27 km TimurLaut LARANTUKA-NTT"
-  },
-  {
-    "waktu": "15-08-24 00:55:42 WIB",
-    "lintang": "-7.70",
-    "bujur": "106.08",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "87 km BaratDaya BAYAH-BANTEN"
   }
 ]
