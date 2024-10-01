@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01-10-24 16:28:03 WIB",
+    "lintang": "-6.18",
+    "bujur": "125.04",
+    "magnitudo": "6.2",
+    "kedalaman": "631 Km",
+    "wilayah": "186 km Tenggara WAKATOBI-SULTRA"
+  },
+  {
     "waktu": "01-10-24 14:10:39 WIB",
     "lintang": "0.48",
     "bujur": "122.31",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "379 Km",
     "wilayah": "147 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "16-08-24 08:16:04 WIB",
-    "lintang": "-8.07",
-    "bujur": "123.01",
-    "magnitudo": "5.1",
-    "kedalaman": "226 Km",
-    "wilayah": "27 km TimurLaut LARANTUKA-NTT"
   }
 ]
