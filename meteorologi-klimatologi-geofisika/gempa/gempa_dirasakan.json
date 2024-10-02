@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/10/2024 04:38:28 WIB",
+    "lintang": "3.94 LS",
+    "bujur": "122.51 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 0.7 km TimurLaut Mandonga, Kota Kendari",
+    "warning": [
+      "II - III Kendari"
+    ]
+  },
+  {
     "waktu": "02/10/2024 17:31:17 WIB",
     "lintang": "8.45 LS",
     "bujur": "117.17 BT",
@@ -252,17 +263,6 @@
     "wilayah": "Pusat gempa berada di laut 23 km Tenggara Kebumen",
     "warning": [
       "III Bantul"
-    ]
-  },
-  {
-    "waktu": "22/09/2024 03:21:10 WIB",
-    "lintang": "0.28 LU",
-    "bujur": "110.15 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di darat 45 km baratlaut Sanggau",
-    "warning": [
-      "III Sanggau"
     ]
   }
 ]
