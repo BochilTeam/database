@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "02/10/2024 08:09:18 WIB",
+    "lintang": "7.35 LS",
+    "bujur": "106.49 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "36 Km",
+    "wilayah": "Pusat gempa berada di darat 40 km BaratDaya Kab-Sukabumi",
+    "warning": [
+      "IV Simpenan Sukabumi",
+      "III Cikakak",
+      "III Pelabuhan Ratu",
+      "III Sukabumi",
+      "II Kabandungan",
+      "III Bayah",
+      "III Panggarangan",
+      "III Malingping",
+      "II-III Rangkasbitung",
+      "IV Ujung Genteng",
+      "IV Tegalbuleud",
+      "III-IV Kalibunder"
+    ]
+  },
+  {
     "waktu": "02/10/2024 03:57:55 WIB",
     "lintang": "0.84 LU",
     "bujur": "122.85 BT",
@@ -249,17 +271,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km timur laut Kab.Konawe",
     "warning": [
       "II-III Kab.Konawe"
-    ]
-  },
-  {
-    "waktu": "19/09/2024 23:36:50 WIB",
-    "lintang": "1.28 LU",
-    "bujur": "118.44 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di darat 146 Km tenggara Berau",
-    "warning": [
-      "III-IV Kecamatan Batu Putih"
     ]
   }
 ]
