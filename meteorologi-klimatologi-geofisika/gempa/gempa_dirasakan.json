@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/10/2024 10:12:41 WIB",
+    "lintang": "2.48 LS",
+    "bujur": "140.43 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km timurlaut Kab. Jayapura",
+    "warning": [
+      "III Kab. Jayapura"
+    ]
+  },
+  {
     "waktu": "03/10/2024 04:38:28 WIB",
     "lintang": "3.94 LS",
     "bujur": "122.51 BT",
@@ -252,17 +263,6 @@
     "wilayah": "Pusat gempa berada di laut 18 km timur laut kota Sorong",
     "warning": [
       "II-III Sorong"
-    ]
-  },
-  {
-    "waktu": "22/09/2024 10:11:52 WIB",
-    "lintang": "7.87 LS",
-    "bujur": "109.7 BT",
-    "magnitudo": "4",
-    "kedalaman": "102 Km",
-    "wilayah": "Pusat gempa berada di laut 23 km Tenggara Kebumen",
-    "warning": [
-      "III Bantul"
     ]
   }
 ]
