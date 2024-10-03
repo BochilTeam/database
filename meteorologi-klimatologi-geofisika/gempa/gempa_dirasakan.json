@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/10/2024 22:07:59 WIB",
+    "lintang": "9.02 LS",
+    "bujur": "119.37 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 46 km timurlaut Tambolaka",
+    "warning": [
+      "II Bima"
+    ]
+  },
+  {
     "waktu": "03/10/2024 16:04:39 WIB",
     "lintang": "6.83 LS",
     "bujur": "108.73 BT",
@@ -252,17 +263,6 @@
       "III Gorontalo Utara",
       "III Buol",
       "III Bolaang Mongondow Timur"
-    ]
-  },
-  {
-    "waktu": "23/09/2024 18:33:52 WIB",
-    "lintang": "2.27 LS",
-    "bujur": "134.28 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 56 km baratlaut Teluk Wondama",
-    "warning": [
-      "II Wasior"
     ]
   }
 ]
