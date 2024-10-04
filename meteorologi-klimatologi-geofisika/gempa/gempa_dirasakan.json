@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "05/10/2024 02:05:37 WIB",
+    "lintang": "6.82 LS",
+    "bujur": "107.08 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km barat laut Kab. Cianjur",
+    "warning": [
+      "II-III Cugenang",
+      "II-III Warungkondang",
+      "II-III Cilaku",
+      "II-III Cibeber",
+      "II-III Cipanas"
+    ]
+  },
+  {
     "waktu": "04/10/2024 11:29:31 WIB",
     "lintang": "3.94 LS",
     "bujur": "122.63 BT",
@@ -241,18 +256,6 @@
       "II-III Kab. Sukabumi",
       "II Kab. Bandung",
       "II Kab. Garut"
-    ]
-  },
-  {
-    "waktu": "24/09/2024 03:45:24 WIB",
-    "lintang": "4.63 LS",
-    "bujur": "102.75 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "34 Km",
-    "wilayah": "Pusat gempa berada di laut 26 km barat daya Bengkulu Selatan",
-    "warning": [
-      "III Bengkulu Selatan",
-      "II-III Kaur"
     ]
   }
 ]
