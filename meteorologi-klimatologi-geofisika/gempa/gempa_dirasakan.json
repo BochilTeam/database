@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "04/10/2024 11:29:31 WIB",
+    "lintang": "3.94 LS",
+    "bujur": "122.63 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 4.8 km barat daya Soropia",
+    "warning": [
+      "II-III Konawe"
+    ]
+  },
+  {
     "waktu": "03/10/2024 22:07:59 WIB",
     "lintang": "9.02 LS",
     "bujur": "119.37 BT",
@@ -242,27 +253,6 @@
     "warning": [
       "III Bengkulu Selatan",
       "II-III Kaur"
-    ]
-  },
-  {
-    "waktu": "24/09/2024 02:51:04 WIB",
-    "lintang": "0.11 LS",
-    "bujur": "122.92 BT",
-    "magnitudo": "6.4",
-    "kedalaman": "145 Km",
-    "wilayah": "Pusat gempa berada di laut 74 km Baratdaya Gorontalo",
-    "warning": [
-      "III-IV Kotamobagu",
-      "III-IV Bolaang Mongondow Selatan",
-      "III-IV Pohuwato",
-      "III-IV Kab. Gorontalo",
-      "III-IV Kota Gorontalo",
-      "III-IV Bone Bolango",
-      "III-IV Boalemo",
-      "III-IV Luwuk",
-      "III Gorontalo Utara",
-      "III Buol",
-      "III Bolaang Mongondow Timur"
     ]
   }
 ]
