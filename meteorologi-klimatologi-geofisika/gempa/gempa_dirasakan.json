@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "06/10/2024 02:44:39 WIB",
+    "lintang": "7.18 LS",
+    "bujur": "107.75 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km baratlaut Kab. Garut",
+    "warning": [
+      "II Majalaya",
+      "II Bandung"
+    ]
+  },
+  {
+    "waktu": "06/10/2024 02:40:48 WIB",
+    "lintang": "6.65 LS",
+    "bujur": "106.83 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 7 km tenggara Kota Bogor",
+    "warning": [
+      "II Bogor"
+    ]
+  },
+  {
     "waktu": "05/10/2024 02:05:37 WIB",
     "lintang": "6.82 LS",
     "bujur": "107.08 BT",
@@ -228,34 +251,6 @@
     "warning": [
       "II-III Topoyo",
       "II-III Tobadak"
-    ]
-  },
-  {
-    "waktu": "24/09/2024 18:35:17 WIB",
-    "lintang": "0.97 LU",
-    "bujur": "118.97 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 182 km baratlaut Donggala",
-    "warning": [
-      "II-III Kutai Timur"
-    ]
-  },
-  {
-    "waktu": "24/09/2024 06:53:59 WIB",
-    "lintang": "7.5 LS",
-    "bujur": "107.02 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "61 Km",
-    "wilayah": "Pusat gempa berada di laut 65 km tenggara Kota Sukabumi",
-    "warning": [
-      "III Cianjur Selatan",
-      "II Bogor",
-      "II Bayah",
-      "II Lebak",
-      "II-III Kab. Sukabumi",
-      "II Kab. Bandung",
-      "II Kab. Garut"
     ]
   }
 ]
