@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "07/10/2024 11:42:25 WIB",
+    "lintang": "7.05 LS",
+    "bujur": "111.75 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km baratlaut Bojonegoro",
+    "warning": [
+      "II - III Bojonegoro",
+      "II - III Tuban"
+    ]
+  },
+  {
     "waktu": "07/10/2024 03:00:36 WIB",
     "lintang": "7.1 LS",
     "bujur": "113.16 BT",
@@ -239,18 +251,6 @@
     "wilayah": "Pusat gempa berada di laut 57 km utara Banda - Maluku Tengah",
     "warning": [
       "II Banda Naira"
-    ]
-  },
-  {
-    "waktu": "29/09/2024 03:26:03 WIB",
-    "lintang": "1.73 LS",
-    "bujur": "120.16 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 49 km Tenggara Sigi",
-    "warning": [
-      "IV Lore Tengah",
-      "II-III Sigi"
     ]
   }
 ]
