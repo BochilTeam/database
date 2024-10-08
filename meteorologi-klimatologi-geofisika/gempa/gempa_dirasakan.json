@@ -1,5 +1,23 @@
 [
   {
+    "waktu": "08/10/2024 21:12:08 WIB",
+    "lintang": "7.76 LS",
+    "bujur": "106.55 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di laut 85 km selatan Kab. Sukabumi",
+    "warning": [
+      "III-IV Kab. Sukabumi",
+      "III Bayah",
+      "III Malingping",
+      "II Garut",
+      "II Nagrak",
+      "III-IV Kab. Cianjur",
+      "III Cibeber",
+      "III Panggarangan"
+    ]
+  },
+  {
     "waktu": "07/10/2024 11:42:25 WIB",
     "lintang": "7.05 LS",
     "bujur": "111.75 BT",
@@ -240,17 +258,6 @@
     "wilayah": "Pusat gempa berada di darat 15 km barat daya Nabire",
     "warning": [
       "III Nabire"
-    ]
-  },
-  {
-    "waktu": "29/09/2024 13:27:52 WIB",
-    "lintang": "4.02 LS",
-    "bujur": "129.82 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 57 km utara Banda - Maluku Tengah",
-    "warning": [
-      "II Banda Naira"
     ]
   }
 ]
