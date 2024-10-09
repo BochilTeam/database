@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/10/2024 18:31:46 WIB",
+    "lintang": "8.44 LS",
+    "bujur": "117.15 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km timurlaut Pernang",
+    "warning": [
+      "II Sumbawa"
+    ]
+  },
+  {
     "waktu": "09/10/2024 13:39:21 WIB",
     "lintang": "0.66 LU",
     "bujur": "98.49 BT",
@@ -247,17 +258,6 @@
       "II - III Nias Barat",
       "II - III Nias Selatan",
       "II-III Nias Utara"
-    ]
-  },
-  {
-    "waktu": "29/09/2024 22:36:00 WIB",
-    "lintang": "0.21 LS",
-    "bujur": "119.82 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 23 km barat laut Donggala",
-    "warning": [
-      "II - III Donggala"
     ]
   }
 ]
