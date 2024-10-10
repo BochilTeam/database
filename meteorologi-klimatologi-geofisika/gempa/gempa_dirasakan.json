@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "10/10/2024 05:07:33 WIB",
+    "lintang": "9.16 LS",
+    "bujur": "115.34 BT",
+    "magnitudo": "4",
+    "kedalaman": "66 Km",
+    "wilayah": "Pusat gempa berada di laut 42 km tenggara Kuta Selatan",
+    "warning": [
+      "II Lombok Barat",
+      "II Lombok Tengah",
+      "II Karangasem"
+    ]
+  },
+  {
     "waktu": "09/10/2024 18:31:46 WIB",
     "lintang": "8.44 LS",
     "bujur": "117.15 BT",
@@ -243,21 +256,6 @@
       "III Kab. Toli-Toli",
       "III Kab. Parigi Moutong",
       "III Kab. Buol"
-    ]
-  },
-  {
-    "waktu": "01/10/2024 09:18:22 WIB",
-    "lintang": "1.08 LU",
-    "bujur": "98.8 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "108 Km",
-    "wilayah": "Pusat gempa berada di laut 61 km barat daya Padangsidempuan",
-    "warning": [
-      "III Kab. Humbang Hasundutan",
-      "II - III Gunungsitoli",
-      "II - III Nias Barat",
-      "II - III Nias Selatan",
-      "II-III Nias Utara"
     ]
   }
 ]
