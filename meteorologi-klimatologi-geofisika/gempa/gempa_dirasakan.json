@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "11/10/2024 16:35:15 WIB",
+    "lintang": "7.19 LS",
+    "bujur": "107.76 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km barat laut Kab. Garut",
+    "warning": [
+      "II Pasirwangi",
+      "II Kertasari",
+      "II Pacet",
+      "II Ibun"
+    ]
+  },
+  {
     "waktu": "10/10/2024 05:07:33 WIB",
     "lintang": "9.16 LS",
     "bujur": "115.34 BT",
@@ -236,26 +250,6 @@
       "II-III Kab. Gorontalo",
       "II-III Kotamobagu",
       "II-III Bolaang Mongondow Utara"
-    ]
-  },
-  {
-    "waktu": "01/10/2024 14:10:39 WIB",
-    "lintang": "0.48 LU",
-    "bujur": "122.31 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "94 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km baratdaya Boalemo",
-    "warning": [
-      "III - IV Kab. Pohuwato",
-      "III Gorontalo Utara",
-      "III Kota Gorontalo",
-      "III Kab. Gorontalo",
-      "III-IV Kab. Boalemo",
-      "III Kab. Bone Bolango",
-      "III Kab. Bolaang Mongondow",
-      "III Kab. Toli-Toli",
-      "III Kab. Parigi Moutong",
-      "III Kab. Buol"
     ]
   }
 ]
