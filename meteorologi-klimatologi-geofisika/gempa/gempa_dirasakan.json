@@ -5,11 +5,11 @@
     "bujur": "107.76 BT",
     "magnitudo": "2.8",
     "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km barat laut Kab. Garut",
+    "wilayah": "Pusat gempa berada di darat 15 km Barat Laut Kabupaten Garut",
     "warning": [
-      "II Pasirwangi",
-      "II Kertasari",
       "II Pacet",
+      "II Kertasari",
+      "II Pasirwangi",
       "II Ibun"
     ]
   },
