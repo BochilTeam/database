@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "12/10/2024 08:37:40 WIB",
+    "lintang": "4.6 LS",
+    "bujur": "101.89 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "58 Km",
+    "wilayah": "Pusat gempa berada di laut 92 km barat laut Enggano",
+    "warning": [
+      "III Enggano",
+      "II - III Kota Bengkulu"
+    ]
+  },
+  {
+    "waktu": "12/10/2024 08:11:55 WIB",
+    "lintang": "0.26 LS",
+    "bujur": "125.16 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 128 km tenggara Tutuyan, Boltim",
+    "warning": [
+      "III Minahasa Tenggara",
+      "II Gorontalo"
+    ]
+  },
+  {
     "waktu": "11/10/2024 16:35:15 WIB",
     "lintang": "7.19 LS",
     "bujur": "107.76 BT",
@@ -214,42 +238,6 @@
     "wilayah": "Pusat gempa berada di darat 21 km timur laut Pegunungan Arfak",
     "warning": [
       "II Ransiki"
-    ]
-  },
-  {
-    "waktu": "02/10/2024 08:09:18 WIB",
-    "lintang": "7.35 LS",
-    "bujur": "106.49 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "36 Km",
-    "wilayah": "Pusat gempa berada di darat 40 km BaratDaya Kab-Sukabumi",
-    "warning": [
-      "IV Simpenan Sukabumi",
-      "III Cikakak",
-      "III Pelabuhan Ratu",
-      "III Sukabumi",
-      "II Kabandungan",
-      "III Bayah",
-      "III Panggarangan",
-      "III Malingping",
-      "II-III Rangkasbitung",
-      "IV Ujung Genteng",
-      "IV Tegalbuleud",
-      "III-IV Kalibunder"
-    ]
-  },
-  {
-    "waktu": "02/10/2024 03:57:55 WIB",
-    "lintang": "0.84 LU",
-    "bujur": "122.85 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "33 Km",
-    "wilayah": "Pusat gempa berada di laut 5 km barat laut Gorontalo Utara",
-    "warning": [
-      "II-III Gorontalo Utara",
-      "II-III Kab. Gorontalo",
-      "II-III Kotamobagu",
-      "II-III Bolaang Mongondow Utara"
     ]
   }
 ]
