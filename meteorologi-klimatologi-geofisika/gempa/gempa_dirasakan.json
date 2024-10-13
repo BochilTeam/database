@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "13/10/2024 06:16:01 WIB",
+    "lintang": "9.27 LS",
+    "bujur": "118.62 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "44 Km",
+    "wilayah": "Pusat gempa berada di laut 54 km barat laut Kodi, Sumba Barat",
+    "warning": [
+      "III Sumbawa",
+      "II Bima"
+    ]
+  },
+  {
     "waktu": "12/10/2024 08:37:40 WIB",
     "lintang": "4.6 LS",
     "bujur": "101.89 BT",
@@ -227,17 +239,6 @@
     "wilayah": "Pusat gempa berada di darat 14 km timur laut Pernang",
     "warning": [
       "II Sumbawa"
-    ]
-  },
-  {
-    "waktu": "02/10/2024 17:17:10 WIB",
-    "lintang": "1.27 LS",
-    "bujur": "134.19 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km timur laut Pegunungan Arfak",
-    "warning": [
-      "II Ransiki"
     ]
   }
 ]
