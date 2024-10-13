@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/10/2024 21:59:02 WIB",
+    "lintang": "9.59 LS",
+    "bujur": "117.51 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di Laut 118 km tenggara Sumbawa Barat",
+    "warning": [
+      "II Sumbawa"
+    ]
+  },
+  {
     "waktu": "13/10/2024 14:01:34 WIB",
     "lintang": "5.48 LU",
     "bujur": "93.87 BT",
@@ -233,17 +244,6 @@
     "wilayah": "Pusat gempa berada di darat 23 km tenggara Kota Cirebon",
     "warning": [
       "II Kota Cirebon"
-    ]
-  },
-  {
-    "waktu": "03/10/2024 10:12:41 WIB",
-    "lintang": "2.48 LS",
-    "bujur": "140.43 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km timurlaut Kab. Jayapura",
-    "warning": [
-      "III Kab. Jayapura"
     ]
   }
 ]
