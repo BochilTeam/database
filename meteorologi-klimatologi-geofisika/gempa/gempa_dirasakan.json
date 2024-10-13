@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/10/2024 10:20:41 WIB",
+    "lintang": "6.73 LS",
+    "bujur": "106.66 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di darat 21 km barat daya Kota Bogor",
+    "warning": [
+      "II Kec. Pamijahan"
+    ]
+  },
+  {
     "waktu": "13/10/2024 06:16:01 WIB",
     "lintang": "9.27 LS",
     "bujur": "118.62 BT",
@@ -228,17 +239,6 @@
     "wilayah": "Pusat gempa berada di darat 0.7 km TimurLaut Mandonga, Kota Kendari",
     "warning": [
       "II - III Kendari"
-    ]
-  },
-  {
-    "waktu": "02/10/2024 17:31:17 WIB",
-    "lintang": "8.45 LS",
-    "bujur": "117.17 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km timur laut Pernang",
-    "warning": [
-      "II Sumbawa"
     ]
   }
 ]
