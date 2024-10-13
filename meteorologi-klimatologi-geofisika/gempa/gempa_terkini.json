@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-10-24 14:01:34 WIB",
+    "lintang": "5.48",
+    "bujur": "93.87",
+    "magnitudo": "5.8",
+    "kedalaman": "10 Km",
+    "wilayah": "161 km BaratDaya BANDAACEH-ACEH"
+  },
+  {
     "waktu": "12-10-24 08:11:55 WIB",
     "lintang": "-0.26",
     "bujur": "125.16",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "159 km TimurLaut ALOR-NTT"
-  },
-  {
-    "waktu": "23-08-24 00:21:14 WIB",
-    "lintang": "5.85",
-    "bujur": "126.86",
-    "magnitudo": "5.2",
-    "kedalaman": "132 Km",
-    "wilayah": "123 km BaratLaut PULAUKARATUNG-SULUT"
   }
 ]

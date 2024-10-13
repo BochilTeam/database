@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "13/10/2024 14:01:34 WIB",
+    "lintang": "5.48 LU",
+    "bujur": "93.87 BT",
+    "magnitudo": "5.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 161 km baratdaya Banda Aceh",
+    "warning": [
+      "III-IV Banda Aceh",
+      "III-IV Aceh Besar",
+      "III Sabang",
+      "III Pidie",
+      "II Pidie Jaya",
+      "II Bireuen"
+    ]
+  },
+  {
     "waktu": "13/10/2024 10:20:41 WIB",
     "lintang": "6.73 LS",
     "bujur": "106.66 BT",
@@ -228,17 +244,6 @@
     "wilayah": "Pusat gempa berada di darat 12 km timurlaut Kab. Jayapura",
     "warning": [
       "III Kab. Jayapura"
-    ]
-  },
-  {
-    "waktu": "03/10/2024 04:38:28 WIB",
-    "lintang": "3.94 LS",
-    "bujur": "122.51 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 0.7 km TimurLaut Mandonga, Kota Kendari",
-    "warning": [
-      "II - III Kendari"
     ]
   }
 ]
