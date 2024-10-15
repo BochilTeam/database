@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "15/10/2024 15:03:23 WIB",
+    "lintang": "9 LS",
+    "bujur": "116.6 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 39 km barat daya Sumbawa Barat",
+    "warning": [
+      "II-III Lombok Timur",
+      "II - III Lombok Barat",
+      "II - III Lombok Tengah",
+      "II - III Sumbawa Barat"
+    ]
+  },
+  {
     "waktu": "13/10/2024 21:59:02 WIB",
     "lintang": "9.59 LS",
     "bujur": "117.51 BT",
@@ -233,17 +247,6 @@
     "wilayah": "Pusat gempa berada di laut 46 km timurlaut Tambolaka",
     "warning": [
       "II Bima"
-    ]
-  },
-  {
-    "waktu": "03/10/2024 16:04:39 WIB",
-    "lintang": "6.83 LS",
-    "bujur": "108.73 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di darat 23 km tenggara Kota Cirebon",
-    "warning": [
-      "II Kota Cirebon"
     ]
   }
 ]
