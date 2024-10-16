@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "16/10/2024 01:55:13 WIB",
+    "lintang": "5.39 LS",
+    "bujur": "122.62 BT",
+    "magnitudo": "3",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di darat 1.4 km BaratDaya Kota Baubau",
+    "warning": [
+      "II Baubau"
+    ]
+  },
+  {
     "waktu": "15/10/2024 15:03:23 WIB",
     "lintang": "9 LS",
     "bujur": "116.6 BT",
@@ -236,17 +247,6 @@
     "wilayah": "Pusat gempa berada di darat 4.8 km barat daya Soropia",
     "warning": [
       "II-III Konawe"
-    ]
-  },
-  {
-    "waktu": "03/10/2024 22:07:59 WIB",
-    "lintang": "9.02 LS",
-    "bujur": "119.37 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 46 km timurlaut Tambolaka",
-    "warning": [
-      "II Bima"
     ]
   }
 ]
