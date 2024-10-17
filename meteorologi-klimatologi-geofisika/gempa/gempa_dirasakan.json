@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "17/10/2024 08:13:13 WIB",
+    "lintang": "5.9 LS",
+    "bujur": "105.77 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 26 km BaratLaut Anyer",
+    "warning": [
+      "III Bakauheni",
+      "II Cilegon"
+    ]
+  },
+  {
     "waktu": "17/10/2024 05:08:37 WIB",
     "lintang": "3.37 LS",
     "bujur": "129 BT",
@@ -232,21 +244,6 @@
     "wilayah": "Pusat gempa berada di darat 7 km tenggara Kota Bogor",
     "warning": [
       "II Bogor"
-    ]
-  },
-  {
-    "waktu": "05/10/2024 02:05:37 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "2 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km barat laut Kab. Cianjur",
-    "warning": [
-      "II-III Cugenang",
-      "II-III Warungkondang",
-      "II-III Cilaku",
-      "II-III Cibeber",
-      "II-III Cipanas"
     ]
   }
 ]
