@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "17/10/2024 05:08:37 WIB",
+    "lintang": "3.37 LS",
+    "bujur": "129 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "8 Km",
+    "wilayah": "Pusat gempa berada di laut 10 km Tenggara Masohi",
+    "warning": [
+      "II Masohi"
+    ]
+  },
+  {
     "waktu": "16/10/2024 01:55:13 WIB",
     "lintang": "5.39 LS",
     "bujur": "122.62 BT",
@@ -236,17 +247,6 @@
       "II-III Cilaku",
       "II-III Cibeber",
       "II-III Cipanas"
-    ]
-  },
-  {
-    "waktu": "04/10/2024 11:29:31 WIB",
-    "lintang": "3.94 LS",
-    "bujur": "122.63 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 4.8 km barat daya Soropia",
-    "warning": [
-      "II-III Konawe"
     ]
   }
 ]
