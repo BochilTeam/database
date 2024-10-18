@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "18/10/2024 22:32:49 WIB",
+    "lintang": "4.17 LS",
+    "bujur": "121.92 BT",
+    "magnitudo": "2.4",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di darat 19 km BaratDaya Kolaka Timur",
+    "warning": [
+      "II - III Kolaka Timur"
+    ]
+  },
+  {
     "waktu": "18/10/2024 15:26:54 WIB",
     "lintang": "5.79 LS",
     "bujur": "112.44 BT",
@@ -232,18 +243,6 @@
     "warning": [
       "III Kota Jayapura",
       "III Kab. Jayapura"
-    ]
-  },
-  {
-    "waktu": "06/10/2024 02:44:39 WIB",
-    "lintang": "7.18 LS",
-    "bujur": "107.75 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km baratlaut Kab. Garut",
-    "warning": [
-      "II Majalaya",
-      "II Bandung"
     ]
   }
 ]
