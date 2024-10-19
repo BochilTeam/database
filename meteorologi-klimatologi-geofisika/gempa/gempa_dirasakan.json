@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "20/10/2024 01:07:13 WIB",
+    "lintang": "0.51 LU",
+    "bujur": "119.85 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "34 Km",
+    "wilayah": "Pusat gempa berada di laut 103 timurlaut Donggala",
+    "warning": [
+      "II - III Berau",
+      "III Parigi Moutong",
+      "III Toli-toli",
+      "II - III Marisa"
+    ]
+  },
+  {
     "waktu": "19/10/2024 22:36:19 WIB",
     "lintang": "5.32 LU",
     "bujur": "94.36 BT",
@@ -230,18 +244,6 @@
       "III-IV Kab. Cianjur",
       "III Cibeber",
       "III Panggarangan"
-    ]
-  },
-  {
-    "waktu": "07/10/2024 11:42:25 WIB",
-    "lintang": "7.05 LS",
-    "bujur": "111.75 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di darat 18 km baratlaut Bojonegoro",
-    "warning": [
-      "II - III Bojonegoro",
-      "II - III Tuban"
     ]
   }
 ]

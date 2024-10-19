@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "20-10-24 01:07:13 WIB",
+    "lintang": "0.51",
+    "bujur": "119.85",
+    "magnitudo": "5.3",
+    "kedalaman": "34 Km",
+    "wilayah": "103 km TimurLaut DONGGALA-SULTENG"
+  },
+  {
     "waktu": "13-10-24 14:01:34 WIB",
     "lintang": "5.48",
     "bujur": "93.87",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "43 km TimurLaut TAMBOLAKA-NTT"
-  },
-  {
-    "waktu": "23-08-24 01:42:30 WIB",
-    "lintang": "-7.57",
-    "bujur": "125.79",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "159 km TimurLaut ALOR-NTT"
   }
 ]
