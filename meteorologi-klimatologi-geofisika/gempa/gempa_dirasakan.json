@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "19/10/2024 05:16:03 WIB",
+    "lintang": "3.03 LU",
+    "bujur": "97.44 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 36 km Tenggara KAB-ACEH SELATAN",
+    "warning": [
+      "III Aceh Selatan"
+    ]
+  },
+  {
     "waktu": "18/10/2024 22:32:49 WIB",
     "lintang": "4.17 LS",
     "bujur": "121.92 BT",
@@ -231,18 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 12 km barat laut Sampang",
     "warning": [
       "II - III Sampang"
-    ]
-  },
-  {
-    "waktu": "06/10/2024 18:31:22 WIB",
-    "lintang": "2.39 LS",
-    "bujur": "140.34 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 23 km barat laut Kab. Jayapura",
-    "warning": [
-      "III Kota Jayapura",
-      "III Kab. Jayapura"
     ]
   }
 ]
