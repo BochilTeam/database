@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "20/10/2024 23:13:49 WIB",
+    "lintang": "5.31 LU",
+    "bujur": "94.34 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 126 km barat daya Kota Sabang",
+    "warning": [
+      "II Banda Aceh",
+      "II Aceh Besar"
+    ]
+  },
+  {
     "waktu": "20/10/2024 17:43:57 WIB",
     "lintang": "5.67 LS",
     "bujur": "104.79 BT",
@@ -222,20 +234,6 @@
     "warning": [
       "III Minahasa Tenggara",
       "II Gorontalo"
-    ]
-  },
-  {
-    "waktu": "11/10/2024 16:35:15 WIB",
-    "lintang": "7.19 LS",
-    "bujur": "107.76 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km Barat Laut Kabupaten Garut",
-    "warning": [
-      "II Pacet",
-      "II Kertasari",
-      "II Pasirwangi",
-      "II Ibun"
     ]
   }
 ]
