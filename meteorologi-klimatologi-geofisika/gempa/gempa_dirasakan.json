@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "20/10/2024 12:24:50 WIB",
+    "lintang": "0.31 LU",
+    "bujur": "121.01 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "86 Km",
+    "wilayah": "Pusat gempa berada di laut 37 km Tenggara PARIGIMOUTONG-SULTENG",
+    "warning": [
+      "III Parigi Moutong"
+    ]
+  },
+  {
     "waktu": "20/10/2024 01:07:13 WIB",
     "lintang": "0.51 LU",
     "bujur": "119.85 BT",
@@ -226,24 +237,6 @@
     "wilayah": "Pusat gempa berada di laut 75 km TimurLaut Nias Selatan",
     "warning": [
       "II Pandan"
-    ]
-  },
-  {
-    "waktu": "08/10/2024 21:12:08 WIB",
-    "lintang": "7.76 LS",
-    "bujur": "106.55 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 85 km selatan Kab. Sukabumi",
-    "warning": [
-      "III-IV Kab. Sukabumi",
-      "III Bayah",
-      "III Malingping",
-      "II Garut",
-      "II Nagrak",
-      "III-IV Kab. Cianjur",
-      "III Cibeber",
-      "III Panggarangan"
     ]
   }
 ]
