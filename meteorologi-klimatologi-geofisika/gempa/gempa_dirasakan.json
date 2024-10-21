@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "21/10/2024 21:02:40 WIB",
+    "lintang": "5.33 LU",
+    "bujur": "95.7 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 14 km Timur Laut Jantho, Aceh Besar",
+    "warning": [
+      "II Banda Aceh",
+      "II Aceh Besar"
+    ]
+  },
+  {
     "waktu": "21/10/2024 16:07:45 WIB",
     "lintang": "2.42 LS",
     "bujur": "120.91 BT",
@@ -214,18 +226,6 @@
     "wilayah": "Pusat gempa berada di laut 130km timur laut Tuban",
     "warning": [
       "II Bawean"
-    ]
-  },
-  {
-    "waktu": "17/10/2024 08:13:13 WIB",
-    "lintang": "5.9 LS",
-    "bujur": "105.77 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 26 km BaratLaut Anyer",
-    "warning": [
-      "III Bakauheni",
-      "II Cilegon"
     ]
   }
 ]
