@@ -1,5 +1,40 @@
 [
   {
+    "waktu": "21/10/2024 11:12:18 WIB",
+    "lintang": "1.03 LS",
+    "bujur": "127.37 BT",
+    "magnitudo": "5.1",
+    "kedalaman": "17 Km",
+    "wilayah": "Pusat gempa berada di laut 46 km selatan Labuha",
+    "warning": [
+      "II-III Pulau Obi"
+    ]
+  },
+  {
+    "waktu": "21/10/2024 11:10:24 WIB",
+    "lintang": "1.09 LS",
+    "bujur": "127.35 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 43 km barat laut Obi",
+    "warning": [
+      "II-III Pulau Obi"
+    ]
+  },
+  {
+    "waktu": "21/10/2024 10:24:17 WIB",
+    "lintang": "1.09 LS",
+    "bujur": "127.34 BT",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di 53 km Selatan Labuha-MALUT",
+    "warning": [
+      "III-IV Labuha",
+      "III-IV Obi",
+      "II-III Gane Barat"
+    ]
+  },
+  {
     "waktu": "20/10/2024 23:13:49 WIB",
     "lintang": "5.31 LU",
     "bujur": "94.34 BT",
@@ -198,42 +233,6 @@
     "wilayah": "Pusat gempa berada di darat 21 km barat daya Kota Bogor",
     "warning": [
       "II Kec. Pamijahan"
-    ]
-  },
-  {
-    "waktu": "13/10/2024 06:16:01 WIB",
-    "lintang": "9.27 LS",
-    "bujur": "118.62 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "44 Km",
-    "wilayah": "Pusat gempa berada di laut 54 km barat laut Kodi, Sumba Barat",
-    "warning": [
-      "III Sumbawa",
-      "II Bima"
-    ]
-  },
-  {
-    "waktu": "12/10/2024 08:37:40 WIB",
-    "lintang": "4.6 LS",
-    "bujur": "101.89 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "58 Km",
-    "wilayah": "Pusat gempa berada di laut 92 km barat laut Enggano",
-    "warning": [
-      "III Enggano",
-      "II - III Kota Bengkulu"
-    ]
-  },
-  {
-    "waktu": "12/10/2024 08:11:55 WIB",
-    "lintang": "0.26 LS",
-    "bujur": "125.16 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 128 km tenggara Tutuyan, Boltim",
-    "warning": [
-      "III Minahasa Tenggara",
-      "II Gorontalo"
     ]
   }
 ]

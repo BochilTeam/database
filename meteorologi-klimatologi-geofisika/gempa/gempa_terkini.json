@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "21-10-24 11:12:18 WIB",
+    "lintang": "-1.03",
+    "bujur": "127.37",
+    "magnitudo": "5.1",
+    "kedalaman": "17 Km",
+    "wilayah": "45 km BaratDaya LABUHA-MALUT"
+  },
+  {
+    "waktu": "21-10-24 10:24:17 WIB",
+    "lintang": "-1.09",
+    "bujur": "127.34",
+    "magnitudo": "5.6",
+    "kedalaman": "10 Km",
+    "wilayah": "52 km BaratDaya LABUHA-MALUT"
+  },
+  {
     "waktu": "20-10-24 01:07:13 WIB",
     "lintang": "0.51",
     "bujur": "119.85",
@@ -222,21 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "112 km BaratLaut TERNATE-MALUT"
-  },
-  {
-    "waktu": "24-08-24 23:54:34 WIB",
-    "lintang": "-4.43",
-    "bujur": "102.18",
-    "magnitudo": "5.2",
-    "kedalaman": "21 Km",
-    "wilayah": "59 km BaratDaya SELUMA-BENGKULU"
-  },
-  {
-    "waktu": "23-08-24 10:55:58 WIB",
-    "lintang": "-9.04",
-    "bujur": "119.36",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "43 km TimurLaut TAMBOLAKA-NTT"
   }
 ]
