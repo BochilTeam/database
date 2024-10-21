@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "22/10/2024 00:41:02 WIB",
+    "lintang": "5.65 LS",
+    "bujur": "104.75 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di Laut 20 km Tenggara Tanggamus",
+    "warning": [
+      "II - III Tanggamus",
+      "I - II Lampung Selatan"
+    ]
+  },
+  {
     "waktu": "21/10/2024 21:02:40 WIB",
     "lintang": "5.33 LU",
     "bujur": "95.7 BT",
@@ -215,17 +227,6 @@
     "wilayah": "Pusat gempa berada di darat 19 km BaratDaya Kolaka Timur",
     "warning": [
       "II - III Kolaka Timur"
-    ]
-  },
-  {
-    "waktu": "18/10/2024 15:26:54 WIB",
-    "lintang": "5.79 LS",
-    "bujur": "112.44 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di laut 130km timur laut Tuban",
-    "warning": [
-      "II Bawean"
     ]
   }
 ]
