@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "21/10/2024 13:47:50 WIB",
+    "lintang": "0.87 LS",
+    "bujur": "131.26 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di 10 km barat daya Kota Sorong",
+    "warning": [
+      "III Kota Sorong"
+    ]
+  },
+  {
+    "waktu": "21/10/2024 13:32:37 WIB",
+    "lintang": "1.11 LS",
+    "bujur": "127.34 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 42 km barat laut Obi",
+    "warning": [
+      "III-IV Labuha"
+    ]
+  },
+  {
     "waktu": "21/10/2024 11:12:18 WIB",
     "lintang": "1.03 LS",
     "bujur": "127.37 BT",
@@ -206,33 +228,6 @@
     "wilayah": "Pusat gempa berada di Laut 118 km tenggara Sumbawa Barat",
     "warning": [
       "II Sumbawa"
-    ]
-  },
-  {
-    "waktu": "13/10/2024 14:01:34 WIB",
-    "lintang": "5.48 LU",
-    "bujur": "93.87 BT",
-    "magnitudo": "5.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 161 km baratdaya Banda Aceh",
-    "warning": [
-      "III-IV Banda Aceh",
-      "III-IV Aceh Besar",
-      "III Sabang",
-      "III Pidie",
-      "II Pidie Jaya",
-      "II Bireuen"
-    ]
-  },
-  {
-    "waktu": "13/10/2024 10:20:41 WIB",
-    "lintang": "6.73 LS",
-    "bujur": "106.66 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km barat daya Kota Bogor",
-    "warning": [
-      "II Kec. Pamijahan"
     ]
   }
 ]

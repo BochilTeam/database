@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-10-24 13:32:37 WIB",
+    "lintang": "-1.11",
+    "bujur": "127.34",
+    "magnitudo": "5.7",
+    "kedalaman": "10 Km",
+    "wilayah": "54 km BaratDaya LABUHA-MALUT"
+  },
+  {
     "waktu": "21-10-24 11:12:18 WIB",
     "lintang": "-1.03",
     "bujur": "127.37",
@@ -230,13 +238,5 @@
     "magnitudo": "5.8",
     "kedalaman": "30 Km",
     "wilayah": "95 km BaratDaya GUNUNGKIDUL-DIY"
-  },
-  {
-    "waktu": "26-08-24 07:17:03 WIB",
-    "lintang": "1.16",
-    "bujur": "126.43",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "112 km BaratLaut TERNATE-MALUT"
   }
 ]
