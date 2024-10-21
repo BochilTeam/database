@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-10-24 15:24:08 WIB",
+    "lintang": "-1.11",
+    "bujur": "127.31",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "55 km BaratDaya LABUHA-MALUT"
+  },
+  {
     "waktu": "21-10-24 13:32:37 WIB",
     "lintang": "-1.11",
     "bujur": "127.34",
@@ -230,13 +238,5 @@
     "magnitudo": "6.2",
     "kedalaman": "10 Km",
     "wilayah": "183 km BaratLaut TANIMBAR"
-  },
-  {
-    "waktu": "26-08-24 19:57:42 WIB",
-    "lintang": "-8.78",
-    "bujur": "110.27",
-    "magnitudo": "5.8",
-    "kedalaman": "30 Km",
-    "wilayah": "95 km BaratDaya GUNUNGKIDUL-DIY"
   }
 ]

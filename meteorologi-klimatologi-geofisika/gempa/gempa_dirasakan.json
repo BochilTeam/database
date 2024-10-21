@@ -1,5 +1,50 @@
 [
   {
+    "waktu": "21/10/2024 16:07:45 WIB",
+    "lintang": "2.42 LS",
+    "bujur": "120.91 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km barat laut Luwu Timur",
+    "warning": [
+      "II Mangkutana"
+    ]
+  },
+  {
+    "waktu": "21/10/2024 15:24:08 WIB",
+    "lintang": "1.11 LS",
+    "bujur": "127.31 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 55 km barat daya Labuha",
+    "warning": [
+      "III Labuha",
+      "III Pulau Obi"
+    ]
+  },
+  {
+    "waktu": "21/10/2024 15:15:57 WIB",
+    "lintang": "1.17 LS",
+    "bujur": "127.3 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 42 km barat laut Obi",
+    "warning": [
+      "II - III Pulau Obi"
+    ]
+  },
+  {
+    "waktu": "21/10/2024 15:08:35 WIB",
+    "lintang": "1.15 LS",
+    "bujur": "127.27 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 47 km barat laut Obi",
+    "warning": [
+      "II - III Pulau Obi"
+    ]
+  },
+  {
     "waktu": "21/10/2024 13:47:50 WIB",
     "lintang": "0.87 LS",
     "bujur": "131.26 BT",
@@ -181,53 +226,6 @@
     "warning": [
       "III Bakauheni",
       "II Cilegon"
-    ]
-  },
-  {
-    "waktu": "17/10/2024 05:08:37 WIB",
-    "lintang": "3.37 LS",
-    "bujur": "129 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di laut 10 km Tenggara Masohi",
-    "warning": [
-      "II Masohi"
-    ]
-  },
-  {
-    "waktu": "16/10/2024 01:55:13 WIB",
-    "lintang": "5.39 LS",
-    "bujur": "122.62 BT",
-    "magnitudo": "3",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 1.4 km BaratDaya Kota Baubau",
-    "warning": [
-      "II Baubau"
-    ]
-  },
-  {
-    "waktu": "15/10/2024 15:03:23 WIB",
-    "lintang": "9 LS",
-    "bujur": "116.6 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 39 km barat daya Sumbawa Barat",
-    "warning": [
-      "II-III Lombok Timur",
-      "II - III Lombok Barat",
-      "II - III Lombok Tengah",
-      "II - III Sumbawa Barat"
-    ]
-  },
-  {
-    "waktu": "13/10/2024 21:59:02 WIB",
-    "lintang": "9.59 LS",
-    "bujur": "117.51 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di Laut 118 km tenggara Sumbawa Barat",
-    "warning": [
-      "II Sumbawa"
     ]
   }
 ]
