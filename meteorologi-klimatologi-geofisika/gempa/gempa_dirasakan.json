@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/10/2024 08:02:52 WIB",
+    "lintang": "1.11 LS",
+    "bujur": "130.86 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 58 km barat daya Kab. Sorong",
+    "warning": [
+      "II - III Sorong"
+    ]
+  },
+  {
     "waktu": "22/10/2024 02:15:43 WIB",
     "lintang": "5.65 LS",
     "bujur": "104.76 BT",
@@ -218,17 +229,6 @@
     "wilayah": "Pusat gempa berada di laut 124 km baratdaya Kota Sabang",
     "warning": [
       "II Banda Aceh"
-    ]
-  },
-  {
-    "waktu": "19/10/2024 05:16:03 WIB",
-    "lintang": "3.03 LU",
-    "bujur": "97.44 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 36 km Tenggara KAB-ACEH SELATAN",
-    "warning": [
-      "III Aceh Selatan"
     ]
   }
 ]
