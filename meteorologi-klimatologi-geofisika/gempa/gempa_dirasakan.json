@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "22/10/2024 19:43:53 WIB",
+    "lintang": "7.75 LS",
+    "bujur": "108.33 BT",
+    "magnitudo": "5",
+    "kedalaman": "72 Km",
+    "wilayah": "Pusat gempa berada di laut 18 km barat daya Kab. Pangandaran",
+    "warning": [
+      "III-IV Pangandaran",
+      "III  Garut",
+      "II-III Cilacap",
+      "II Pelabuhan Ratu",
+      "II Kota Sukabumi",
+      "II - III Kab. Bandung"
+    ]
+  },
+  {
     "waktu": "22/10/2024 16:05:38 WIB",
     "lintang": "5.64 LS",
     "bujur": "104.75 BT",
@@ -217,18 +233,6 @@
     "wilayah": "Pusat gempa berada di laut 24 km Tenggara Tanggamus",
     "warning": [
       "II Limau"
-    ]
-  },
-  {
-    "waktu": "20/10/2024 16:14:24 WIB",
-    "lintang": "7.23 LS",
-    "bujur": "107.7 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km Barat Daya Kab. Garut",
-    "warning": [
-      "II Pasirwangi",
-      "II Kertasari"
     ]
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "22-10-24 19:43:53 WIB",
+    "lintang": "-7.75",
+    "bujur": "108.33",
+    "magnitudo": "5.0",
+    "kedalaman": "72 Km",
+    "wilayah": "18 km BaratDaya KAB-PANGANDARAN-JABAR"
+  },
+  {
     "waktu": "22-10-24 09:36:22 WIB",
     "lintang": "-5.91",
     "bujur": "130.41",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "21 Km",
     "wilayah": "21 km Tenggara MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "31-08-24 15:53:48 WIB",
-    "lintang": "-3.28",
-    "bujur": "140.03",
-    "magnitudo": "5.2",
-    "kedalaman": "93 Km",
-    "wilayah": "81 km BaratLaut KEEROM-PAPUA"
   }
 ]
