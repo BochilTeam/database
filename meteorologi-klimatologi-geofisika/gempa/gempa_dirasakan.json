@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/10/2024 06:16:37 WIB",
+    "lintang": "4.77 LS",
+    "bujur": "121.96 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km barat daya Bombana",
+    "warning": [
+      "II Bombana"
+    ]
+  },
+  {
     "waktu": "22/10/2024 19:43:53 WIB",
     "lintang": "7.75 LS",
     "bujur": "108.33 BT",
@@ -222,17 +233,6 @@
     "warning": [
       "II Banda Aceh",
       "II Aceh Besar"
-    ]
-  },
-  {
-    "waktu": "20/10/2024 17:43:57 WIB",
-    "lintang": "5.67 LS",
-    "bujur": "104.79 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 24 km Tenggara Tanggamus",
-    "warning": [
-      "II Limau"
     ]
   }
 ]
