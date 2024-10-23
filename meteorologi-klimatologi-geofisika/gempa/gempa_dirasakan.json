@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "23/10/2024 16:12:48 WIB",
+    "lintang": "9.25 LS",
+    "bujur": "114.04 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "23 Km",
+    "wilayah": "Pusat gempa berada di Laut 117 Km BaratDaya Jembrana",
+    "warning": [
+      "II - III Banyuwangi",
+      "II Denpasar Selatan",
+      "II Kuta"
+    ]
+  },
+  {
+    "waktu": "23/10/2024 15:09:37 WIB",
+    "lintang": "5.67 LS",
+    "bujur": "104.78 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 23 km tenggara Tanggamus",
+    "warning": [
+      "II-III Kec. Bulok",
+      "II-III Kota Agung"
+    ]
+  },
+  {
     "waktu": "23/10/2024 14:46:38 WIB",
     "lintang": "5.66 LS",
     "bujur": "104.77 BT",
@@ -208,30 +233,6 @@
     "wilayah": "Pusat gempa berada di laut 46 km selatan Labuha",
     "warning": [
       "II-III Pulau Obi"
-    ]
-  },
-  {
-    "waktu": "21/10/2024 11:10:24 WIB",
-    "lintang": "1.09 LS",
-    "bujur": "127.35 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 43 km barat laut Obi",
-    "warning": [
-      "II-III Pulau Obi"
-    ]
-  },
-  {
-    "waktu": "21/10/2024 10:24:17 WIB",
-    "lintang": "1.09 LS",
-    "bujur": "127.34 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di 53 km Selatan Labuha-MALUT",
-    "warning": [
-      "III-IV Labuha",
-      "III-IV Obi",
-      "II-III Gane Barat"
     ]
   }
 ]
