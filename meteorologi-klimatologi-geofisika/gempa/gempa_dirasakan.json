@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/10/2024 14:46:38 WIB",
+    "lintang": "5.66 LS",
+    "bujur": "104.77 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di Laut 22 Km Tenggara Tanggamus",
+    "warning": [
+      "II - III  Kecamatan Bulok"
+    ]
+  },
+  {
     "waktu": "23/10/2024 06:16:37 WIB",
     "lintang": "4.77 LS",
     "bujur": "121.96 BT",
@@ -221,18 +232,6 @@
       "III-IV Labuha",
       "III-IV Obi",
       "II-III Gane Barat"
-    ]
-  },
-  {
-    "waktu": "20/10/2024 23:13:49 WIB",
-    "lintang": "5.31 LU",
-    "bujur": "94.34 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "7 Km",
-    "wilayah": "Pusat gempa berada di laut 126 km barat daya Kota Sabang",
-    "warning": [
-      "II Banda Aceh",
-      "II Aceh Besar"
     ]
   }
 ]
