@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "23/10/2024 18:48:13 WIB",
+    "lintang": "9.49 LS",
+    "bujur": "117.15 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "29 Km",
+    "wilayah": "Pusat gempa berada di laut 88 km tenggara Sumbawa Barat",
+    "warning": [
+      "II Kab. Sumbawa"
+    ]
+  },
+  {
     "waktu": "23/10/2024 16:12:48 WIB",
     "lintang": "9.25 LS",
     "bujur": "114.04 BT",
@@ -222,17 +233,6 @@
     "wilayah": "Pusat gempa berada di laut 42 km barat laut Obi",
     "warning": [
       "III-IV Labuha"
-    ]
-  },
-  {
-    "waktu": "21/10/2024 11:12:18 WIB",
-    "lintang": "1.03 LS",
-    "bujur": "127.37 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 46 km selatan Labuha",
-    "warning": [
-      "II-III Pulau Obi"
     ]
   }
 ]
