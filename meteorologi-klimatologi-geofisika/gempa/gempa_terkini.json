@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "25-10-24 00:22:42 WIB",
+    "lintang": "-2.29",
+    "bujur": "134.27",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "63 km BaratLaut TELUKWONDAMA-PAPUABRT"
+  },
+  {
     "waktu": "22-10-24 19:43:53 WIB",
     "lintang": "-7.75",
     "bujur": "108.33",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "95 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
-  },
-  {
-    "waktu": "02-09-24 02:59:25 WIB",
-    "lintang": "3.81",
-    "bujur": "126.68",
-    "magnitudo": "5.1",
-    "kedalaman": "21 Km",
-    "wilayah": "21 km Tenggara MELONGUANE-SULUT"
   }
 ]

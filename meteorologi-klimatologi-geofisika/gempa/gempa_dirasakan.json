@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "25/10/2024 00:22:42 WIB",
+    "lintang": "2.29 LS",
+    "bujur": "134.27 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 55 km baratlaut Teluk Wondama",
+    "warning": [
+      "II-III Teluk Wondama"
+    ]
+  },
+  {
     "waktu": "24/10/2024 13:54:13 WIB",
     "lintang": "1.09 LS",
     "bujur": "119.87 BT",
@@ -220,17 +231,6 @@
     "magnitudo": "4.2",
     "kedalaman": "10 Km",
     "wilayah": "Pusat gempa berada di laut 42 km barat laut Obi",
-    "warning": [
-      "II - III Pulau Obi"
-    ]
-  },
-  {
-    "waktu": "21/10/2024 15:08:35 WIB",
-    "lintang": "1.15 LS",
-    "bujur": "127.27 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 47 km barat laut Obi",
     "warning": [
       "II - III Pulau Obi"
     ]
