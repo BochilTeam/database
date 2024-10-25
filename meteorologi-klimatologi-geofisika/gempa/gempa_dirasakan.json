@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/10/2024 03:15:48 WIB",
+    "lintang": "2.6 LS",
+    "bujur": "140.67 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km barat daya Kota Jayapura",
+    "warning": [
+      "III Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "25/10/2024 00:22:42 WIB",
     "lintang": "2.29 LS",
     "bujur": "134.27 BT",
@@ -222,17 +233,6 @@
     "warning": [
       "III Labuha",
       "III Pulau Obi"
-    ]
-  },
-  {
-    "waktu": "21/10/2024 15:15:57 WIB",
-    "lintang": "1.17 LS",
-    "bujur": "127.3 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 42 km barat laut Obi",
-    "warning": [
-      "II - III Pulau Obi"
     ]
   }
 ]
