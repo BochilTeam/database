@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "26/10/2024 21:21:57 WIB",
+    "lintang": "8.43 LS",
+    "bujur": "119.97 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "178 Km",
+    "wilayah": "Pusat gempa berada di darat 11 km timur laut Labuanbajo",
+    "warning": [
+      "III Sumba Timur",
+      "III Manggarai Barat"
+    ]
+  },
+  {
     "waktu": "26/10/2024 03:15:48 WIB",
     "lintang": "2.6 LS",
     "bujur": "140.67 BT",
@@ -221,18 +233,6 @@
     "wilayah": "Pusat gempa berada di darat 34 km barat laut Luwu Timur",
     "warning": [
       "II Mangkutana"
-    ]
-  },
-  {
-    "waktu": "21/10/2024 15:24:08 WIB",
-    "lintang": "1.11 LS",
-    "bujur": "127.31 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 55 km barat daya Labuha",
-    "warning": [
-      "III Labuha",
-      "III Pulau Obi"
     ]
   }
 ]
