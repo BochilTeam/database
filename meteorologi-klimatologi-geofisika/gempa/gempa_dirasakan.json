@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "28/10/2024 00:15:40 WIB",
+    "lintang": "0.84 LU",
+    "bujur": "97.42 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di laut 15 km barat daya Nias Barat",
+    "warning": [
+      "III Nias Barat",
+      "II-III Nias Selatan"
+    ]
+  },
+  {
     "waktu": "27/10/2024 09:22:51 WIB",
     "lintang": "9.11 LS",
     "bujur": "117.22 BT",
@@ -222,18 +234,6 @@
     "warning": [
       "II - III Tanggamus",
       "I - II Lampung Selatan"
-    ]
-  },
-  {
-    "waktu": "21/10/2024 21:02:40 WIB",
-    "lintang": "5.33 LU",
-    "bujur": "95.7 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km Timur Laut Jantho, Aceh Besar",
-    "warning": [
-      "II Banda Aceh",
-      "II Aceh Besar"
     ]
   }
 ]
