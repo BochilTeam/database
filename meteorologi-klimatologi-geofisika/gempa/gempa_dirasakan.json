@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "28/10/2024 09:21:53 WIB",
+    "lintang": "8.99 LS",
+    "bujur": "114.98 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "70 Km",
+    "wilayah": "Pusat gempa berada di Laut 34 Km Barat Daya Kuta Selatan",
+    "warning": [
+      "III Denpasar",
+      "II Kuta",
+      "II Mataram",
+      "II Lombok Barat",
+      "II Lombok Tengah",
+      "II Lombok Timur",
+      "II Sumbawa Barat",
+      "II Sumbawa",
+      "III Kuta Selatan",
+      "II Bangli",
+      "II Tabanan",
+      "II Gianyar",
+      "II Jembrana"
+    ]
+  },
+  {
     "waktu": "28/10/2024 00:15:40 WIB",
     "lintang": "0.84 LU",
     "bujur": "97.42 BT",
@@ -222,18 +245,6 @@
       "II-III Cukuh Balak",
       "II-III Pagelaran",
       "II-III Pardasuka"
-    ]
-  },
-  {
-    "waktu": "22/10/2024 00:41:02 WIB",
-    "lintang": "5.65 LS",
-    "bujur": "104.75 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di Laut 20 km Tenggara Tanggamus",
-    "warning": [
-      "II - III Tanggamus",
-      "I - II Lampung Selatan"
     ]
   }
 ]
