@@ -1,5 +1,42 @@
 [
   {
+    "waktu": "28/10/2024 20:52:41 WIB",
+    "lintang": "4 LS",
+    "bujur": "122.45 BT",
+    "magnitudo": "3",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di darat 46 km Tenggara Konawe",
+    "warning": [
+      "II-III Kendari"
+    ]
+  },
+  {
+    "waktu": "28/10/2024 20:29:22 WIB",
+    "lintang": "8.13 LS",
+    "bujur": "107.92 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di laut 79 km barat daya Kab. Pangandaran",
+    "warning": [
+      "II Cipatujah",
+      "II Salawu",
+      "II Cisompet",
+      "II Banjarwangi"
+    ]
+  },
+  {
+    "waktu": "28/10/2024 20:07:09 WIB",
+    "lintang": "1.54 LU",
+    "bujur": "96.99 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "22 Km",
+    "wilayah": "Pusat gempa berada di laut 42 km barat laut Nias Utara",
+    "warning": [
+      "III Kota Gunung Sitoli",
+      "III Kabupaten Nias Utara"
+    ]
+  },
+  {
     "waktu": "28/10/2024 12:07:51 WIB",
     "lintang": "5.66 LS",
     "bujur": "104.79 BT",
@@ -209,40 +246,6 @@
     "warning": [
       "II Kota Agung",
       "II Bulok"
-    ]
-  },
-  {
-    "waktu": "22/10/2024 12:16:31 WIB",
-    "lintang": "5.56 LS",
-    "bujur": "104.76 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di laut 20 km Tenggara TANGGAMUS-LAMPUNG",
-    "warning": [
-      "I - II Limau",
-      "I - II Kota Agung"
-    ]
-  },
-  {
-    "waktu": "22/10/2024 08:46:41 WIB",
-    "lintang": "0.91 LS",
-    "bujur": "131.27 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di darat 14 km barat laut Kab. Sorong",
-    "warning": [
-      "II Sorong"
-    ]
-  },
-  {
-    "waktu": "22/10/2024 08:02:52 WIB",
-    "lintang": "1.11 LS",
-    "bujur": "130.86 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 58 km barat daya Kab. Sorong",
-    "warning": [
-      "II - III Sorong"
     ]
   }
 ]
