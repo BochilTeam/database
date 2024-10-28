@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "28/10/2024 12:07:51 WIB",
+    "lintang": "5.66 LS",
+    "bujur": "104.79 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 23 km tenggara Tanggamus",
+    "warning": [
+      "II Limau"
+    ]
+  },
+  {
     "waktu": "28/10/2024 09:21:53 WIB",
     "lintang": "8.99 LS",
     "bujur": "114.98 BT",
@@ -232,19 +243,6 @@
     "wilayah": "Pusat gempa berada di darat 58 km barat daya Kab. Sorong",
     "warning": [
       "II - III Sorong"
-    ]
-  },
-  {
-    "waktu": "22/10/2024 02:15:43 WIB",
-    "lintang": "5.65 LS",
-    "bujur": "104.76 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 20 km tenggara Tanggamus",
-    "warning": [
-      "II-III Cukuh Balak",
-      "II-III Pagelaran",
-      "II-III Pardasuka"
     ]
   }
 ]
