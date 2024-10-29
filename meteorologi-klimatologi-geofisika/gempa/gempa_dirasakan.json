@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "29/10/2024 09:35:24 WIB",
+    "lintang": "4.8 LU",
+    "bujur": "96.12 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km barat daya Kab. Pidie Jaya",
+    "warning": [
+      "II-III Pidie",
+      "II Nagan Raya",
+      "II Aceh Tengah",
+      "II Aceh Jaya",
+      "II Bireuen"
+    ]
+  },
+  {
     "waktu": "28/10/2024 20:52:41 WIB",
     "lintang": "4 LS",
     "bujur": "122.45 BT",
@@ -234,18 +249,6 @@
     "warning": [
       "II-III Kota Agung",
       "II - III Bulok"
-    ]
-  },
-  {
-    "waktu": "22/10/2024 12:48:20 WIB",
-    "lintang": "5.66 LS",
-    "bujur": "104.77 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di laut 22 km Tenggara Tanggamus",
-    "warning": [
-      "II Kota Agung",
-      "II Bulok"
     ]
   }
 ]
