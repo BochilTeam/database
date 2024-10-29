@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/10/2024 21:12:17 WIB",
+    "lintang": "4 LS",
+    "bujur": "121.4 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 10.7 km Tenggara Samaturu, Kab. Kolaka",
+    "warning": [
+      "III Kolaka"
+    ]
+  },
+  {
     "waktu": "29/10/2024 09:35:24 WIB",
     "lintang": "4.8 LU",
     "bujur": "96.12 BT",
@@ -237,18 +248,6 @@
       "II Pelabuhan Ratu",
       "II Kota Sukabumi",
       "II - III Kab. Bandung"
-    ]
-  },
-  {
-    "waktu": "22/10/2024 16:05:38 WIB",
-    "lintang": "5.64 LS",
-    "bujur": "104.75 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 19 km Tenggara Tanggamus",
-    "warning": [
-      "II-III Kota Agung",
-      "II - III Bulok"
     ]
   }
 ]
