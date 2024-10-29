@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "30/10/2024 02:25:16 WIB",
+    "lintang": "4.84 LS",
+    "bujur": "122.18 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di Laut 7 km Tenggara Kab.Bombana",
+    "warning": [
+      "II - III Muna Barat"
+    ]
+  },
+  {
+    "waktu": "30/10/2024 02:04:15 WIB",
+    "lintang": "4.76 LS",
+    "bujur": "122.17 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di Laut 9 km Timur Laut Kab.Bombana",
+    "warning": [
+      "II-III Muna Barat"
+    ]
+  },
+  {
     "waktu": "29/10/2024 21:12:17 WIB",
     "lintang": "4 LS",
     "bujur": "121.4 BT",
@@ -221,33 +243,6 @@
     "wilayah": "Pusat gempa berada di Laut 22 Km Tenggara Tanggamus",
     "warning": [
       "II - III  Kecamatan Bulok"
-    ]
-  },
-  {
-    "waktu": "23/10/2024 06:16:37 WIB",
-    "lintang": "4.77 LS",
-    "bujur": "121.96 BT",
-    "magnitudo": "2.3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km barat daya Bombana",
-    "warning": [
-      "II Bombana"
-    ]
-  },
-  {
-    "waktu": "22/10/2024 19:43:53 WIB",
-    "lintang": "7.75 LS",
-    "bujur": "108.33 BT",
-    "magnitudo": "5",
-    "kedalaman": "72 Km",
-    "wilayah": "Pusat gempa berada di laut 18 km barat daya Kab. Pangandaran",
-    "warning": [
-      "III-IV Pangandaran",
-      "III  Garut",
-      "II-III Cilacap",
-      "II Pelabuhan Ratu",
-      "II Kota Sukabumi",
-      "II - III Kab. Bandung"
     ]
   }
 ]
