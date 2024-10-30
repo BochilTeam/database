@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "30/10/2024 23:32:49 WIB",
+    "lintang": "8.07 LS",
+    "bujur": "107.88 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "31 Km",
+    "wilayah": "Pusat gempa berada di laut 79 km barat daya Kab. Pangandaran",
+    "warning": [
+      "III Garut",
+      "III Pamengpeuk",
+      "III Bungbulang",
+      "III Cisewu",
+      "III Cilawu",
+      "II Sumedang"
+    ]
+  },
+  {
     "waktu": "30/10/2024 02:25:16 WIB",
     "lintang": "4.84 LS",
     "bujur": "122.18 BT",
@@ -232,17 +248,6 @@
     "warning": [
       "II-III Kec. Bulok",
       "II-III Kota Agung"
-    ]
-  },
-  {
-    "waktu": "23/10/2024 14:46:38 WIB",
-    "lintang": "5.66 LS",
-    "bujur": "104.77 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di Laut 22 Km Tenggara Tanggamus",
-    "warning": [
-      "II - III  Kecamatan Bulok"
     ]
   }
 ]
