@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/11/2024 10:00:56 WIB",
+    "lintang": "4.39 LU",
+    "bujur": "98.1 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km timur laut Kab. Aceh Tamiang",
+    "warning": [
+      "III Aceh Tamiang"
+    ]
+  },
+  {
     "waktu": "30/10/2024 23:32:49 WIB",
     "lintang": "8.07 LS",
     "bujur": "107.88 BT",
@@ -236,18 +247,6 @@
       "II - III Banyuwangi",
       "II Denpasar Selatan",
       "II Kuta"
-    ]
-  },
-  {
-    "waktu": "23/10/2024 15:09:37 WIB",
-    "lintang": "5.67 LS",
-    "bujur": "104.78 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di laut 23 km tenggara Tanggamus",
-    "warning": [
-      "II-III Kec. Bulok",
-      "II-III Kota Agung"
     ]
   }
 ]
