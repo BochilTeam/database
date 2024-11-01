@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "01-11-24 15:48:10 WIB",
+    "lintang": "-2.65",
+    "bujur": "139.47",
+    "magnitudo": "5.1",
+    "kedalaman": "28 Km",
+    "wilayah": "103 km BaratDaya KAB-JAYAPURA-PAPUA"
+  },
+  {
     "waktu": "25-10-24 00:22:42 WIB",
     "lintang": "-2.29",
     "bujur": "134.27",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 Km",
     "wilayah": "41 km Tenggara ENGGANO-BENGKULU"
-  },
-  {
-    "waktu": "05-09-24 11:31:29 WIB",
-    "lintang": "-0.22",
-    "bujur": "124.61",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "95 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
   }
 ]
