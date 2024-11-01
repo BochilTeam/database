@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/11/2024 22:43:24 WIB",
+    "lintang": "8.44 LS",
+    "bujur": "119.15 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 44 km timur laut Kota Bima",
+    "warning": [
+      "II Bima"
+    ]
+  },
+  {
     "waktu": "01/11/2024 10:00:56 WIB",
     "lintang": "4.39 LU",
     "bujur": "98.1 BT",
@@ -234,19 +245,6 @@
     "wilayah": "Pusat gempa berada di laut 88 km tenggara Sumbawa Barat",
     "warning": [
       "II Kab. Sumbawa"
-    ]
-  },
-  {
-    "waktu": "23/10/2024 16:12:48 WIB",
-    "lintang": "9.25 LS",
-    "bujur": "114.04 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di Laut 117 Km BaratDaya Jembrana",
-    "warning": [
-      "II - III Banyuwangi",
-      "II Denpasar Selatan",
-      "II Kuta"
     ]
   }
 ]
