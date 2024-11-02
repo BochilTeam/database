@@ -1,5 +1,20 @@
 [
   {
+    "waktu": "02/11/2024 14:20:16 WIB",
+    "lintang": "9.53 LS",
+    "bujur": "117.54 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 115 km tenggara Sumbawa Barat",
+    "warning": [
+      "III-IV Sumbawa",
+      "III Sumbawa Barat",
+      "III Lombok Timur",
+      "II Lombok Tengah",
+      "II Kota Mataram"
+    ]
+  },
+  {
     "waktu": "01/11/2024 22:43:24 WIB",
     "lintang": "8.44 LS",
     "bujur": "119.15 BT",
@@ -234,17 +249,6 @@
     "wilayah": "Pusat gempa berada di darat 2 km barat laut Kolaka Timur",
     "warning": [
       "II - III Kolaka Timur"
-    ]
-  },
-  {
-    "waktu": "23/10/2024 18:48:13 WIB",
-    "lintang": "9.49 LS",
-    "bujur": "117.15 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "29 Km",
-    "wilayah": "Pusat gempa berada di laut 88 km tenggara Sumbawa Barat",
-    "warning": [
-      "II Kab. Sumbawa"
     ]
   }
 ]
