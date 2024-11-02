@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "02/11/2024 19:41:06 WIB",
+    "lintang": "0.19 LS",
+    "bujur": "100.4 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "1 Km",
+    "wilayah": "Pusat gempa berada di laut 13 km timur laut Bukittinggi",
+    "warning": [
+      "II Bukittinggi",
+      "II Kab. 50 Kota"
+    ]
+  },
+  {
     "waktu": "02/11/2024 17:19:44 WIB",
     "lintang": "6.25 LS",
     "bujur": "103.67 BT",
@@ -247,17 +259,6 @@
     "wilayah": "Pusat gempa berada di laut 55 km baratlaut Teluk Wondama",
     "warning": [
       "II-III Teluk Wondama"
-    ]
-  },
-  {
-    "waktu": "24/10/2024 13:54:13 WIB",
-    "lintang": "1.09 LS",
-    "bujur": "119.87 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 32 km baratlaut Sigi",
-    "warning": [
-      "II-III Palu"
     ]
   }
 ]
