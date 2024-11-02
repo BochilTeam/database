@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "02-11-24 17:19:44 WIB",
+    "lintang": "-6.25",
+    "bujur": "103.67",
+    "magnitudo": "5.4",
+    "kedalaman": "15 Km",
+    "wilayah": "121 km BaratDaya PESISIRBARAT-LAMPUNG"
+  },
+  {
     "waktu": "02-11-24 00:19:13 WIB",
     "lintang": "-0.54",
     "bujur": "125.85",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "170 Km",
     "wilayah": "49 km Tenggara INTANJAYA-PAPUATENGAH"
-  },
-  {
-    "waktu": "06-09-24 14:39:43 WIB",
-    "lintang": "5.71",
-    "bujur": "125.18",
-    "magnitudo": "5.0",
-    "kedalaman": "13 Km",
-    "wilayah": "235 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT"
   }
 ]

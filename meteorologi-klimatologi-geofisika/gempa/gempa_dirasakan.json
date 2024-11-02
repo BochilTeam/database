@@ -1,5 +1,25 @@
 [
   {
+    "waktu": "02/11/2024 17:19:44 WIB",
+    "lintang": "6.25 LS",
+    "bujur": "103.67 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "15 Km",
+    "wilayah": "Pusat gempa berada di laut 121 km barat daya pesisir barat",
+    "warning": [
+      "II-III Liwa",
+      "II - III Krui",
+      "II - III Kota Agung",
+      "II - III Gisting",
+      "II - III Pematang Sawah",
+      "II - III Semaka",
+      "II Ngambur",
+      "II Sekincau",
+      "II - III Pesisir Selatan",
+      "II Limau"
+    ]
+  },
+  {
     "waktu": "02/11/2024 14:20:16 WIB",
     "lintang": "9.53 LS",
     "bujur": "117.54 BT",
@@ -238,17 +258,6 @@
     "wilayah": "Pusat gempa berada di darat 32 km baratlaut Sigi",
     "warning": [
       "II-III Palu"
-    ]
-  },
-  {
-    "waktu": "24/10/2024 03:42:17 WIB",
-    "lintang": "4.18 LS",
-    "bujur": "121.92 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km barat laut Kolaka Timur",
-    "warning": [
-      "II - III Kolaka Timur"
     ]
   }
 ]
