@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/11/2024 06:03:25 WIB",
+    "lintang": "8.11 LS",
+    "bujur": "116.44 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di laut 41 km timur laut Lombok Utara",
+    "warning": [
+      "II Lombok Utara"
+    ]
+  },
+  {
     "waktu": "02/11/2024 19:41:06 WIB",
     "lintang": "0.19 LS",
     "bujur": "100.4 BT",
@@ -248,17 +259,6 @@
     "wilayah": "Pusat gempa berada di darat 5 km barat daya Kota Jayapura",
     "warning": [
       "III Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "25/10/2024 00:22:42 WIB",
-    "lintang": "2.29 LS",
-    "bujur": "134.27 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 55 km baratlaut Teluk Wondama",
-    "warning": [
-      "II-III Teluk Wondama"
     ]
   }
 ]
