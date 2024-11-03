@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/11/2024 13:51:26 WIB",
+    "lintang": "0.2 LS",
+    "bujur": "100.39 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "3 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km timur laut Bukittingi",
+    "warning": [
+      "I - II Bukittinggi"
+    ]
+  },
+  {
     "waktu": "03/11/2024 06:03:25 WIB",
     "lintang": "8.11 LS",
     "bujur": "116.44 BT",
@@ -248,17 +259,6 @@
     "warning": [
       "III Sumba Timur",
       "III Manggarai Barat"
-    ]
-  },
-  {
-    "waktu": "26/10/2024 03:15:48 WIB",
-    "lintang": "2.6 LS",
-    "bujur": "140.67 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km barat daya Kota Jayapura",
-    "warning": [
-      "III Kota Jayapura"
     ]
   }
 ]
