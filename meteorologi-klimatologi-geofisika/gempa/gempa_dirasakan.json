@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "04/11/2024 10:26:12 WIB",
+    "lintang": "8.7 LS",
+    "bujur": "110.3 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "43 Km",
+    "wilayah": "Pusat gempa berada di laut 85 km baratdaya Gunung Kidul",
+    "warning": [
+      "II Bantul",
+      "II Kulonprogo",
+      "II Pacitan"
+    ]
+  },
+  {
     "waktu": "04/11/2024 04:58:33 WIB",
     "lintang": "2.42 LS",
     "bujur": "120.98 BT",
@@ -250,18 +263,6 @@
     "warning": [
       "III Nias Barat",
       "II-III Nias Selatan"
-    ]
-  },
-  {
-    "waktu": "27/10/2024 09:22:51 WIB",
-    "lintang": "9.11 LS",
-    "bujur": "117.22 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 56 km tenggara Sumbawa Barat",
-    "warning": [
-      "III-IV Sumbawa Barat",
-      "II Sumbawa"
     ]
   }
 ]
