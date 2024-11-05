@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "05/11/2024 12:03:48 WIB",
+    "lintang": "8.71 LS",
+    "bujur": "119.28 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 65 km tenggara Kota Bima",
+    "warning": [
+      "II Bima"
+    ]
+  },
+  {
     "waktu": "04/11/2024 10:26:12 WIB",
     "lintang": "8.7 LS",
     "bujur": "110.3 BT",
@@ -251,18 +262,6 @@
       "II Tabanan",
       "II Gianyar",
       "II Jembrana"
-    ]
-  },
-  {
-    "waktu": "28/10/2024 00:15:40 WIB",
-    "lintang": "0.84 LU",
-    "bujur": "97.42 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "21 Km",
-    "wilayah": "Pusat gempa berada di laut 15 km barat daya Nias Barat",
-    "warning": [
-      "III Nias Barat",
-      "II-III Nias Selatan"
     ]
   }
 ]
