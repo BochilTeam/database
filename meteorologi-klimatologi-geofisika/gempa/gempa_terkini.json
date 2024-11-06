@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "06-11-24 16:14:53 WIB",
+    "lintang": "-3.31",
+    "bujur": "140.10",
+    "magnitudo": "5.0",
+    "kedalaman": "115 Km",
+    "wilayah": "73 km BaratLaut KEEROM-PAPUA"
+  },
+  {
     "waktu": "02-11-24 17:19:44 WIB",
     "lintang": "-6.25",
     "bujur": "103.67",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "60 Km",
     "wilayah": "39 km TimurLaut MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "07-09-24 08:14:07 WIB",
-    "lintang": "-3.91",
-    "bujur": "136.93",
-    "magnitudo": "5.1",
-    "kedalaman": "170 Km",
-    "wilayah": "49 km Tenggara INTANJAYA-PAPUATENGAH"
   }
 ]
