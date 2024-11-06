@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "06/11/2024 18:54:28 WIB",
+    "lintang": "3.38 LS",
+    "bujur": "120.43 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 21 km tenggara Luwu",
+    "warning": [
+      "III Belopa Utara",
+      "III Luwu"
+    ]
+  },
+  {
     "waktu": "05/11/2024 12:03:48 WIB",
     "lintang": "8.71 LS",
     "bujur": "119.28 BT",
@@ -239,29 +251,6 @@
     "wilayah": "Pusat gempa berada di laut 23 km tenggara Tanggamus",
     "warning": [
       "II Limau"
-    ]
-  },
-  {
-    "waktu": "28/10/2024 09:21:53 WIB",
-    "lintang": "8.99 LS",
-    "bujur": "114.98 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "70 Km",
-    "wilayah": "Pusat gempa berada di Laut 34 Km Barat Daya Kuta Selatan",
-    "warning": [
-      "III Denpasar",
-      "II Kuta",
-      "II Mataram",
-      "II Lombok Barat",
-      "II Lombok Tengah",
-      "II Lombok Timur",
-      "II Sumbawa Barat",
-      "II Sumbawa",
-      "III Kuta Selatan",
-      "II Bangli",
-      "II Tabanan",
-      "II Gianyar",
-      "II Jembrana"
     ]
   }
 ]
