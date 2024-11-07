@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "07/11/2024 06:51:46 WIB",
+    "lintang": "6.39 LS",
+    "bujur": "107.32 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 10 km tenggara Kab. Karawang",
+    "warning": [
+      "II-III Telukjambe Barat"
+    ]
+  },
+  {
     "waktu": "06/11/2024 19:50:18 WIB",
     "lintang": "2.51 LS",
     "bujur": "110.2 BT",
@@ -239,18 +250,6 @@
       "II Salawu",
       "II Cisompet",
       "II Banjarwangi"
-    ]
-  },
-  {
-    "waktu": "28/10/2024 20:07:09 WIB",
-    "lintang": "1.54 LU",
-    "bujur": "96.99 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "22 Km",
-    "wilayah": "Pusat gempa berada di laut 42 km barat laut Nias Utara",
-    "warning": [
-      "III Kota Gunung Sitoli",
-      "III Kabupaten Nias Utara"
     ]
   }
 ]
