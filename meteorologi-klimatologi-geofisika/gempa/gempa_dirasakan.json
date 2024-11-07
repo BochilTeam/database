@@ -1,5 +1,29 @@
 [
   {
+    "waktu": "07/11/2024 18:18:08 WIB",
+    "lintang": "6.81 LS",
+    "bujur": "107.32 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 20 km timur laut Kab. Cianjur",
+    "warning": [
+      "III Cipatat",
+      "III Cipeundeuy",
+      "III Cikalong"
+    ]
+  },
+  {
+    "waktu": "07/11/2024 17:14:36 WIB",
+    "lintang": "7.05 LS",
+    "bujur": "108.5 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di darat 8 km tenggara Kabupaten Kuningan",
+    "warning": [
+      "III Kuningan"
+    ]
+  },
+  {
     "waktu": "07/11/2024 06:51:46 WIB",
     "lintang": "6.39 LS",
     "bujur": "107.32 BT",
@@ -225,31 +249,6 @@
       "II Aceh Tengah",
       "II Aceh Jaya",
       "II Bireuen"
-    ]
-  },
-  {
-    "waktu": "28/10/2024 20:52:41 WIB",
-    "lintang": "4 LS",
-    "bujur": "122.45 BT",
-    "magnitudo": "3",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di darat 46 km Tenggara Konawe",
-    "warning": [
-      "II-III Kendari"
-    ]
-  },
-  {
-    "waktu": "28/10/2024 20:29:22 WIB",
-    "lintang": "8.13 LS",
-    "bujur": "107.92 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada di laut 79 km barat daya Kab. Pangandaran",
-    "warning": [
-      "II Cipatujah",
-      "II Salawu",
-      "II Cisompet",
-      "II Banjarwangi"
     ]
   }
 ]
