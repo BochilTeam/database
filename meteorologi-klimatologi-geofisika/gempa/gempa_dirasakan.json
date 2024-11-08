@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/11/2024 12:51:42 WIB",
+    "lintang": "7.39 LS",
+    "bujur": "110.43 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km Barat Daya Kota Salatiga",
+    "warning": [
+      "II-III Kota Salatiga"
+    ]
+  },
+  {
     "waktu": "07/11/2024 18:18:08 WIB",
     "lintang": "6.81 LS",
     "bujur": "107.32 BT",
@@ -234,21 +245,6 @@
     "wilayah": "Pusat gempa berada di darat 10.7 km Tenggara Samaturu, Kab. Kolaka",
     "warning": [
       "III Kolaka"
-    ]
-  },
-  {
-    "waktu": "29/10/2024 09:35:24 WIB",
-    "lintang": "4.8 LU",
-    "bujur": "96.12 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 27 km barat daya Kab. Pidie Jaya",
-    "warning": [
-      "II-III Pidie",
-      "II Nagan Raya",
-      "II Aceh Tengah",
-      "II Aceh Jaya",
-      "II Bireuen"
     ]
   }
 ]
