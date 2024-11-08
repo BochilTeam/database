@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "08-11-24 23:30:55 WIB",
+    "lintang": "1.08",
+    "bujur": "94.06",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "299 km BaratDaya SINABANG-ACEH"
+  },
+  {
     "waktu": "06-11-24 16:14:53 WIB",
     "lintang": "-3.31",
     "bujur": "140.10",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "97 Km",
     "wilayah": "59 km BaratDaya ALOR-NTT"
-  },
-  {
-    "waktu": "10-09-24 04:01:33 WIB",
-    "lintang": "4.34",
-    "bujur": "126.77",
-    "magnitudo": "5.6",
-    "kedalaman": "60 Km",
-    "wilayah": "39 km TimurLaut MELONGUANE-SULUT"
   }
 ]

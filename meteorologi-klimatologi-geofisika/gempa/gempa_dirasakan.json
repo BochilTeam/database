@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "08/11/2024 23:20:11 WIB",
+    "lintang": "2.41 LS",
+    "bujur": "120.97 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 29 km BaratLaut LuwuTimur",
+    "warning": [
+      "III Mangkutana"
+    ]
+  },
+  {
     "waktu": "08/11/2024 12:51:42 WIB",
     "lintang": "7.39 LS",
     "bujur": "110.43 BT",
@@ -234,17 +245,6 @@
     "wilayah": "Pusat gempa berada di Laut 9 km Timur Laut Kab.Bombana",
     "warning": [
       "II-III Muna Barat"
-    ]
-  },
-  {
-    "waktu": "29/10/2024 21:12:17 WIB",
-    "lintang": "4 LS",
-    "bujur": "121.4 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 10.7 km Tenggara Samaturu, Kab. Kolaka",
-    "warning": [
-      "III Kolaka"
     ]
   }
 ]
