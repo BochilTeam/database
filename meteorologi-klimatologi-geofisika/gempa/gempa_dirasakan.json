@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/11/2024 19:34:46 WIB",
+    "lintang": "1.07 LU",
+    "bujur": "127.92 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di Laut 48 km Tenggara Halmahera Barat",
+    "warning": [
+      "III Malifut"
+    ]
+  },
+  {
     "waktu": "09/11/2024 14:57:05 WIB",
     "lintang": "0.82 LS",
     "bujur": "134.49 BT",
@@ -231,22 +242,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km timur laut Kab. Aceh Tamiang",
     "warning": [
       "III Aceh Tamiang"
-    ]
-  },
-  {
-    "waktu": "30/10/2024 23:32:49 WIB",
-    "lintang": "8.07 LS",
-    "bujur": "107.88 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "31 Km",
-    "wilayah": "Pusat gempa berada di laut 79 km barat daya Kab. Pangandaran",
-    "warning": [
-      "III Garut",
-      "III Pamengpeuk",
-      "III Bungbulang",
-      "III Cisewu",
-      "III Cilawu",
-      "II Sumedang"
     ]
   }
 ]
