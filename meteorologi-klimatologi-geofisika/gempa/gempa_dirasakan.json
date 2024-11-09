@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/11/2024 21:11:40 WIB",
+    "lintang": "2.44 LS",
+    "bujur": "120.97 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 27 km Barat Laut Luwu Timur",
+    "warning": [
+      "III Wotu"
+    ]
+  },
+  {
     "waktu": "09/11/2024 19:34:46 WIB",
     "lintang": "1.07 LU",
     "bujur": "127.92 BT",
@@ -231,17 +242,6 @@
     "wilayah": "Pusat gempa berada di laut 44 km timur laut Kota Bima",
     "warning": [
       "II Bima"
-    ]
-  },
-  {
-    "waktu": "01/11/2024 10:00:56 WIB",
-    "lintang": "4.39 LU",
-    "bujur": "98.1 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km timur laut Kab. Aceh Tamiang",
-    "warning": [
-      "III Aceh Tamiang"
     ]
   }
 ]
