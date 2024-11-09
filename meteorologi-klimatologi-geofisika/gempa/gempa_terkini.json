@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10-11-24 04:20:44 WIB",
+    "lintang": "-4.88",
+    "bujur": "137.80",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "69 km BaratLaut ASMAT-PAPUASLTN"
+  },
+  {
     "waktu": "09-11-24 09:53:37 WIB",
     "lintang": "1.24",
     "bujur": "121.23",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "91 km Selatan KAB-SUKABUMI-JABAR"
-  },
-  {
-    "waktu": "15-09-24 04:37:38 WIB",
-    "lintang": "1.86",
-    "bujur": "98.95",
-    "magnitudo": "5.7",
-    "kedalaman": "131 Km",
-    "wilayah": "17 km BaratDaya TAPANULIUTARA-SUMUT"
   }
 ]
