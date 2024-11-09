@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "09/11/2024 14:57:05 WIB",
+    "lintang": "0.82 LS",
+    "bujur": "134.49 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 44 km barat laut Pulau Numfor",
+    "warning": [
+      "II-III Manokwari",
+      "II Ransiki"
+    ]
+  },
+  {
     "waktu": "09/11/2024 09:53:37 WIB",
     "lintang": "1.24 LU",
     "bujur": "121.23 BT",
@@ -235,17 +247,6 @@
       "III Cisewu",
       "III Cilawu",
       "II Sumedang"
-    ]
-  },
-  {
-    "waktu": "30/10/2024 02:25:16 WIB",
-    "lintang": "4.84 LS",
-    "bujur": "122.18 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di Laut 7 km Tenggara Kab.Bombana",
-    "warning": [
-      "II - III Muna Barat"
     ]
   }
 ]
