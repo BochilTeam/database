@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-11-24 17:08:25 WIB",
+    "lintang": "-4.82",
+    "bujur": "132.01",
+    "magnitudo": "5.0",
+    "kedalaman": "47 Km",
+    "wilayah": "121 km BaratLaut TUAL-MALUKU"
+  },
+  {
     "waktu": "11-11-24 08:12:38 WIB",
     "lintang": "-7.06",
     "bujur": "129.86",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "24 km Tenggara KAB-BANDUNG-JABAR"
-  },
-  {
-    "waktu": "16-09-24 23:53:09 WIB",
-    "lintang": "-2.22",
-    "bujur": "139.11",
-    "magnitudo": "5.1",
-    "kedalaman": "24 Km",
-    "wilayah": "57 km Tenggara SARMI-PAPUA"
   }
 ]
