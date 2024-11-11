@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/11/2024 23:12:36 WIB",
+    "lintang": "1.34 LU",
+    "bujur": "118.49 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "16 Km",
+    "wilayah": "Pusat gempa berada di darat 147 km tenggara Berau",
+    "warning": [
+      "II - III Kecamatan Batu Putih"
+    ]
+  },
+  {
     "waktu": "11/11/2024 19:12:45 WIB",
     "lintang": "1.35 LS",
     "bujur": "123.57 BT",
@@ -227,21 +238,6 @@
       "II Sekincau",
       "II - III Pesisir Selatan",
       "II Limau"
-    ]
-  },
-  {
-    "waktu": "02/11/2024 14:20:16 WIB",
-    "lintang": "9.53 LS",
-    "bujur": "117.54 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 115 km tenggara Sumbawa Barat",
-    "warning": [
-      "III-IV Sumbawa",
-      "III Sumbawa Barat",
-      "III Lombok Timur",
-      "II Lombok Tengah",
-      "II Kota Mataram"
     ]
   }
 ]
