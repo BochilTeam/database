@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-11-24 20:35:32 WIB",
+    "lintang": "-5.48",
+    "bujur": "125.91",
+    "magnitudo": "5.3",
+    "kedalaman": "519 Km",
+    "wilayah": "257 km Tenggara WAKATOBI-SULTRA"
+  },
+  {
     "waktu": "11-11-24 17:08:25 WIB",
     "lintang": "-4.82",
     "bujur": "132.01",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 Km",
     "wilayah": "47 km TimurLaut DARUBA-MALUT"
-  },
-  {
-    "waktu": "18-09-24 09:41:08 WIB",
-    "lintang": "-7.19",
-    "bujur": "107.67",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "24 km Tenggara KAB-BANDUNG-JABAR"
   }
 ]
