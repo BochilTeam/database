@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "13/11/2024 03:44:29 WIB",
+    "lintang": "8.04 LS",
+    "bujur": "110.41 BT",
+    "magnitudo": "3.4",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km tenggara Bantul",
+    "warning": [
+      "II Bantul"
+    ]
+  },
+  {
     "waktu": "12/11/2024 23:11:31 WIB",
     "lintang": "4.09 LS",
     "bujur": "122.57 BT",
@@ -217,17 +228,6 @@
     "wilayah": "Pusat gempa berada di darat 12 km timur laut Bukittingi",
     "warning": [
       "I - II Bukittinggi"
-    ]
-  },
-  {
-    "waktu": "03/11/2024 06:03:25 WIB",
-    "lintang": "8.11 LS",
-    "bujur": "116.44 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "12 Km",
-    "wilayah": "Pusat gempa berada di laut 41 km timur laut Lombok Utara",
-    "warning": [
-      "II Lombok Utara"
     ]
   }
 ]
