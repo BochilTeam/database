@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/11/2024 23:11:31 WIB",
+    "lintang": "4.09 LS",
+    "bujur": "122.57 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 9 km Tenggara Poasia, Kota Kendari",
+    "warning": [
+      "III Kendari"
+    ]
+  },
+  {
     "waktu": "12/11/2024 09:57:00 WIB",
     "lintang": "7.08 LS",
     "bujur": "106.7 BT",
@@ -217,18 +228,6 @@
     "wilayah": "Pusat gempa berada di laut 41 km timur laut Lombok Utara",
     "warning": [
       "II Lombok Utara"
-    ]
-  },
-  {
-    "waktu": "02/11/2024 19:41:06 WIB",
-    "lintang": "0.19 LS",
-    "bujur": "100.4 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di laut 13 km timur laut Bukittinggi",
-    "warning": [
-      "II Bukittinggi",
-      "II Kab. 50 Kota"
     ]
   }
 ]
