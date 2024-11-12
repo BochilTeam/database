@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "12/11/2024 09:57:00 WIB",
+    "lintang": "7.08 LS",
+    "bujur": "106.7 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di darat 19 km Tenggara Kab. Sukabumi",
+    "warning": [
+      "II Kec. Simpenan"
+    ]
+  },
+  {
     "waktu": "11/11/2024 23:12:36 WIB",
     "lintang": "1.34 LU",
     "bujur": "118.49 BT",
@@ -218,26 +229,6 @@
     "warning": [
       "II Bukittinggi",
       "II Kab. 50 Kota"
-    ]
-  },
-  {
-    "waktu": "02/11/2024 17:19:44 WIB",
-    "lintang": "6.25 LS",
-    "bujur": "103.67 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 121 km barat daya pesisir barat",
-    "warning": [
-      "II-III Liwa",
-      "II - III Krui",
-      "II - III Kota Agung",
-      "II - III Gisting",
-      "II - III Pematang Sawah",
-      "II - III Semaka",
-      "II Ngambur",
-      "II Sekincau",
-      "II - III Pesisir Selatan",
-      "II Limau"
     ]
   }
 ]
