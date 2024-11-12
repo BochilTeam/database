@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "12-11-24 16:24:28 WIB",
+    "lintang": "0.52",
+    "bujur": "126.18",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "134 km BaratDaya TERNATE-MALUT"
+  },
+  {
     "waktu": "11-11-24 20:35:32 WIB",
     "lintang": "-5.48",
     "bujur": "125.91",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "93 Km",
     "wilayah": "91 km BaratDaya PADANGSIDEMPUAN-SUMUT"
-  },
-  {
-    "waktu": "19-09-24 14:45:33 WIB",
-    "lintang": "2.23",
-    "bujur": "128.68",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "47 km TimurLaut DARUBA-MALUT"
   }
 ]
