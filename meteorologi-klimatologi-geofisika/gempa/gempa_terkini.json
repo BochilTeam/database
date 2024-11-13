@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "14-11-24 01:40:44 WIB",
+    "lintang": "-5.04",
+    "bujur": "102.35",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "35 km TimurLaut ENGGANO-BENGKULU"
+  },
+  {
     "waktu": "13-11-24 08:41:07 WIB",
     "lintang": "-8.47",
     "bujur": "107.81",
@@ -230,13 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
     "wilayah": "108 km BaratLaut PULAUDOI-MALUT"
-  },
-  {
-    "waktu": "24-09-24 02:51:04 WIB",
-    "lintang": "-0.11",
-    "bujur": "122.92",
-    "magnitudo": "6.4",
-    "kedalaman": "145 Km",
-    "wilayah": "74 km BaratDaya GORONTALO-GORONTALO"
   }
 ]
