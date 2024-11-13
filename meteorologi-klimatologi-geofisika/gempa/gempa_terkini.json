@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "13-11-24 08:41:07 WIB",
+    "lintang": "-8.47",
+    "bujur": "107.81",
+    "magnitudo": "5.2",
+    "kedalaman": "27 Km",
+    "wilayah": "114 km BaratDaya KAB-PANGANDARAN-JABAR"
+  },
+  {
     "waktu": "12-11-24 16:24:28 WIB",
     "lintang": "0.52",
     "bujur": "126.18",
@@ -230,13 +238,5 @@
     "magnitudo": "6.4",
     "kedalaman": "145 Km",
     "wilayah": "74 km BaratDaya GORONTALO-GORONTALO"
-  },
-  {
-    "waktu": "19-09-24 23:14:17 WIB",
-    "lintang": "0.80",
-    "bujur": "98.68",
-    "magnitudo": "5.3",
-    "kedalaman": "93 Km",
-    "wilayah": "91 km BaratDaya PADANGSIDEMPUAN-SUMUT"
   }
 ]

@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "13/11/2024 08:41:07 WIB",
+    "lintang": "8.47 LS",
+    "bujur": "107.81 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "27 Km",
+    "wilayah": "Pusat gempa berada di laut 114 km barat daya Kab. Pangandaran",
+    "warning": [
+      "III Garut",
+      "III Cianjur",
+      "III Ciwidey",
+      "III Tasikmalaya",
+      "III Pangandaran",
+      "II Bandung Barat",
+      "II Cimahi"
+    ]
+  },
+  {
     "waktu": "13/11/2024 03:44:29 WIB",
     "lintang": "8.04 LS",
     "bujur": "110.41 BT",
@@ -217,17 +234,6 @@
       "III-IV Kalaena",
       "III Wotu",
       "III Angkona"
-    ]
-  },
-  {
-    "waktu": "03/11/2024 13:51:26 WIB",
-    "lintang": "0.2 LS",
-    "bujur": "100.39 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km timur laut Bukittingi",
-    "warning": [
-      "I - II Bukittinggi"
     ]
   }
 ]
