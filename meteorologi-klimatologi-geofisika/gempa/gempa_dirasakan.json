@@ -17,6 +17,17 @@
     ]
   },
   {
+    "waktu": "13/11/2024 04:51:26 WIB",
+    "lintang": "7.58 LS",
+    "bujur": "125.25 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "363 Km",
+    "wilayah": "Pusat gempa berada di laut 110 km timur laut Alor",
+    "warning": [
+      "II Kalabahi"
+    ]
+  },
+  {
     "waktu": "13/11/2024 03:44:29 WIB",
     "lintang": "8.04 LS",
     "bujur": "110.41 BT",
@@ -219,21 +230,6 @@
       "II Bantul",
       "II Kulonprogo",
       "II Pacitan"
-    ]
-  },
-  {
-    "waktu": "04/11/2024 04:58:33 WIB",
-    "lintang": "2.42 LS",
-    "bujur": "120.98 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "3 Km",
-    "wilayah": "Pusat gempa berada di darat 27 km baratlaut Luwu Timur",
-    "warning": [
-      "III-IV Malili",
-      "III-IV Mangkutana",
-      "III-IV Kalaena",
-      "III Wotu",
-      "III Angkona"
     ]
   }
 ]
