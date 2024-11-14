@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15-11-24 02:08:16 WIB",
+    "lintang": "-6.24",
+    "bujur": "104.16",
+    "magnitudo": "5.3",
+    "kedalaman": "74 Km",
+    "wilayah": "102 km BaratDaya TANGGAMUS-LAMPUNG"
+  },
+  {
     "waktu": "14-11-24 01:40:44 WIB",
     "lintang": "-5.04",
     "bujur": "102.35",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "108 Km",
     "wilayah": "61 km BaratDaya PADANGSIDEMPUAN-SUMUT"
-  },
-  {
-    "waktu": "29-09-24 18:09:14 WIB",
-    "lintang": "2.58",
-    "bujur": "126.85",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "108 km BaratLaut PULAUDOI-MALUT"
   }
 ]

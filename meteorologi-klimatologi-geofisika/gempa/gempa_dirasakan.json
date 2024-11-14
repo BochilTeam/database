@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "15/11/2024 02:08:16 WIB",
+    "lintang": "6.24 LS",
+    "bujur": "104.16 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "74 Km",
+    "wilayah": "Pusat gempa berada di laut 102 km Barat Daya Tanggamus",
+    "warning": [
+      "II - III Bengkunat",
+      "II - III Cukuh Balak"
+    ]
+  },
+  {
     "waktu": "14/11/2024 17:10:30 WIB",
     "lintang": "8.03 LS",
     "bujur": "107.9 BT",
@@ -224,17 +236,6 @@
     "warning": [
       "III Belopa Utara",
       "III Luwu"
-    ]
-  },
-  {
-    "waktu": "05/11/2024 12:03:48 WIB",
-    "lintang": "8.71 LS",
-    "bujur": "119.28 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 65 km tenggara Kota Bima",
-    "warning": [
-      "II Bima"
     ]
   }
 ]
