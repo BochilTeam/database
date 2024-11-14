@@ -1,5 +1,23 @@
 [
   {
+    "waktu": "14/11/2024 17:10:30 WIB",
+    "lintang": "8.03 LS",
+    "bujur": "107.9 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "31 Km",
+    "wilayah": "Pusat gempa berada di laut 75 km barat daya Pangandaran",
+    "warning": [
+      "III Ciamis",
+      "II Cipatujah",
+      "II Cisompet",
+      "II Sindangsari",
+      "II Cijulang",
+      "II Garut",
+      "II Singajaya",
+      "II Tasikmalaya"
+    ]
+  },
+  {
     "waktu": "13/11/2024 08:41:07 WIB",
     "lintang": "8.47 LS",
     "bujur": "107.81 BT",
@@ -217,19 +235,6 @@
     "wilayah": "Pusat gempa berada di laut 65 km tenggara Kota Bima",
     "warning": [
       "II Bima"
-    ]
-  },
-  {
-    "waktu": "04/11/2024 10:26:12 WIB",
-    "lintang": "8.7 LS",
-    "bujur": "110.3 BT",
-    "magnitudo": "4.4",
-    "kedalaman": "43 Km",
-    "wilayah": "Pusat gempa berada di laut 85 km baratdaya Gunung Kidul",
-    "warning": [
-      "II Bantul",
-      "II Kulonprogo",
-      "II Pacitan"
     ]
   }
 ]
