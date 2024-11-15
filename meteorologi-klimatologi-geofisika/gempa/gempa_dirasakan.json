@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "15/11/2024 21:31:19 WIB",
+    "lintang": "6.76 LS",
+    "bujur": "107.28 BT",
+    "magnitudo": "3.1",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km Timur Laut Kab. Cianjur",
+    "warning": [
+      "II-III Cirata",
+      "II - III Sukaluyu",
+      "II - III Rajamandala",
+      "II - III Cipeundeuy"
+    ]
+  },
+  {
     "waktu": "15/11/2024 15:38:17 WIB",
     "lintang": "6.78 LS",
     "bujur": "107.28 BT",
@@ -230,17 +244,6 @@
     "wilayah": "Pusat gempa berada di darat 8 km tenggara Kabupaten Kuningan",
     "warning": [
       "III Kuningan"
-    ]
-  },
-  {
-    "waktu": "07/11/2024 06:51:46 WIB",
-    "lintang": "6.39 LS",
-    "bujur": "107.32 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km tenggara Kab. Karawang",
-    "warning": [
-      "II-III Telukjambe Barat"
     ]
   }
 ]
