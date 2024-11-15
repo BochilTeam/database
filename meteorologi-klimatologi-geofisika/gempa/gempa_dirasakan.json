@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "15/11/2024 15:38:17 WIB",
+    "lintang": "6.78 LS",
+    "bujur": "107.28 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km Timur Laut Kab. Cianjur",
+    "warning": [
+      "II - III Cipatat",
+      "II - III Cirata",
+      "II - III Cipeundeuy",
+      "II - III Rajamandala",
+      "II - III Cipeuyem",
+      "II - III Cikalong Wetan"
+    ]
+  },
+  {
     "waktu": "15/11/2024 12:38:10 WIB",
     "lintang": "7.73 LS",
     "bujur": "106.69 BT",
@@ -225,17 +241,6 @@
     "wilayah": "Pusat gempa berada di darat 10 km tenggara Kab. Karawang",
     "warning": [
       "II-III Telukjambe Barat"
-    ]
-  },
-  {
-    "waktu": "06/11/2024 19:50:18 WIB",
-    "lintang": "2.51 LS",
-    "bujur": "110.2 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 110 km Barat Daya Ketapang",
-    "warning": [
-      "II - III Kendawangan"
     ]
   }
 ]
