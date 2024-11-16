@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "16/11/2024 22:28:37 WIB",
+    "lintang": "1.34 LU",
+    "bujur": "98.28 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di laut 69 km timur laut Nias",
+    "warning": [
+      "III Kab. Tapanuli Tengah",
+      "II - III Kota Gunung Sitoli",
+      "II - III Kab. Nias",
+      "II Kab. Nias Selatan"
+    ]
+  },
+  {
     "waktu": "15/11/2024 21:39:51 WIB",
     "lintang": "2.61 LU",
     "bujur": "98.64 BT",
@@ -232,19 +246,6 @@
     "wilayah": "Pusat gempa berada di darat 9 km Barat Daya Kota Salatiga",
     "warning": [
       "II-III Kota Salatiga"
-    ]
-  },
-  {
-    "waktu": "07/11/2024 18:18:08 WIB",
-    "lintang": "6.81 LS",
-    "bujur": "107.32 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 20 km timur laut Kab. Cianjur",
-    "warning": [
-      "III Cipatat",
-      "III Cipeundeuy",
-      "III Cikalong"
     ]
   }
 ]
