@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "18-11-24 06:01:08 WIB",
+    "lintang": "-1.09",
+    "bujur": "139.64",
+    "magnitudo": "5.0",
+    "kedalaman": "113 Km",
+    "wilayah": "130 km TimurLaut SARMI-PAPUA"
+  },
+  {
     "waktu": "15-11-24 02:08:16 WIB",
     "lintang": "-6.24",
     "bujur": "104.16",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "94 Km",
     "wilayah": "6 km BaratDaya BOALEMO-GORONTALO"
-  },
-  {
-    "waktu": "01-10-24 09:18:22 WIB",
-    "lintang": "1.08",
-    "bujur": "98.80",
-    "magnitudo": "5.3",
-    "kedalaman": "108 Km",
-    "wilayah": "61 km BaratDaya PADANGSIDEMPUAN-SUMUT"
   }
 ]
