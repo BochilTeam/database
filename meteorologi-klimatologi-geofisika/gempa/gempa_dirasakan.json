@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "20/11/2024 04:33:36 WIB",
+    "lintang": "3.97 LS",
+    "bujur": "135.12 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "23 Km",
+    "wilayah": "Pusat gempa berada di darat 80 km BaratDaya Nabire",
+    "warning": [
+      "II - III Nabire"
+    ]
+  },
+  {
+    "waktu": "20/11/2024 03:50:45 WIB",
+    "lintang": "9.03 LS",
+    "bujur": "121.97 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "80 Km",
+    "wilayah": "Pusat gempa berada di laut 39 km Tenggara Ende",
+    "warning": [
+      "II Ende"
+    ]
+  },
+  {
     "waktu": "19/11/2024 19:28:13 WIB",
     "lintang": "8.2 LS",
     "bujur": "107.59 BT",
@@ -223,30 +245,6 @@
     "wilayah": "Pusat gempa berada di Laut 48 km Tenggara Halmahera Barat",
     "warning": [
       "III Malifut"
-    ]
-  },
-  {
-    "waktu": "09/11/2024 14:57:05 WIB",
-    "lintang": "0.82 LS",
-    "bujur": "134.49 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 44 km barat laut Pulau Numfor",
-    "warning": [
-      "II-III Manokwari",
-      "II Ransiki"
-    ]
-  },
-  {
-    "waktu": "09/11/2024 09:53:37 WIB",
-    "lintang": "1.24 LU",
-    "bujur": "121.23 BT",
-    "magnitudo": "5.1",
-    "kedalaman": "36 Km",
-    "wilayah": "Pusat gempa berada di laut 33 km BaratLaut Buol",
-    "warning": [
-      "III-IV Toli-toli",
-      "III-IV Buol"
     ]
   }
 ]
