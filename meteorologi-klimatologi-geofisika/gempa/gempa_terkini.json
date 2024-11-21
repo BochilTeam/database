@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "21-11-24 19:12:50 WIB",
+    "lintang": "-2.12",
+    "bujur": "139.15",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "53 km Tenggara SARMI-PAPUA"
+  },
+  {
     "waktu": "18-11-24 06:01:08 WIB",
     "lintang": "-1.09",
     "bujur": "139.64",
@@ -230,13 +238,5 @@
     "magnitudo": "6.2",
     "kedalaman": "631 Km",
     "wilayah": "186 km Tenggara WAKATOBI-SULTRA"
-  },
-  {
-    "waktu": "01-10-24 14:10:39 WIB",
-    "lintang": "0.48",
-    "bujur": "122.31",
-    "magnitudo": "5.2",
-    "kedalaman": "94 Km",
-    "wilayah": "6 km BaratDaya BOALEMO-GORONTALO"
   }
 ]
