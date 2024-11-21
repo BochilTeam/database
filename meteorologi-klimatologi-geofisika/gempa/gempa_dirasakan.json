@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "21/11/2024 19:12:50 WIB",
+    "lintang": "2.12 LS",
+    "bujur": "139.15 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 53 km tenggara Sarmi",
+    "warning": [
+      "III Sarmi"
+    ]
+  },
+  {
     "waktu": "21/11/2024 11:28:54 WIB",
     "lintang": "6.96 LS",
     "bujur": "107.15 BT",
@@ -234,17 +245,6 @@
     "wilayah": "Pusat gempa berada di darat 9 km Tenggara Poasia, Kota Kendari",
     "warning": [
       "III Kendari"
-    ]
-  },
-  {
-    "waktu": "12/11/2024 09:57:00 WIB",
-    "lintang": "7.08 LS",
-    "bujur": "106.7 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 19 km Tenggara Kab. Sukabumi",
-    "warning": [
-      "II Kec. Simpenan"
     ]
   }
 ]
