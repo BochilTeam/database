@@ -1,5 +1,28 @@
 [
   {
+    "waktu": "22/11/2024 14:51:03 WIB",
+    "lintang": "2.71 LU",
+    "bujur": "128.17 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 74 km BaratLaut Daruba",
+    "warning": [
+      "III Morotai"
+    ]
+  },
+  {
+    "waktu": "22/11/2024 14:06:27 WIB",
+    "lintang": "1.04 LS",
+    "bujur": "99.8 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "44 Km",
+    "wilayah": "Pusat gempa berada di laut 58 km BaratDaya Pariaman",
+    "warning": [
+      "II - III Padang",
+      "II - III Padang Pariaman"
+    ]
+  },
+  {
     "waktu": "22/11/2024 08:56:12 WIB",
     "lintang": "6.83 LS",
     "bujur": "120.68 BT",
@@ -218,34 +241,6 @@
       "II Garut",
       "II Singajaya",
       "II Tasikmalaya"
-    ]
-  },
-  {
-    "waktu": "13/11/2024 08:41:07 WIB",
-    "lintang": "8.47 LS",
-    "bujur": "107.81 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "27 Km",
-    "wilayah": "Pusat gempa berada di laut 114 km barat daya Kab. Pangandaran",
-    "warning": [
-      "III Garut",
-      "III Cianjur",
-      "III Ciwidey",
-      "III Tasikmalaya",
-      "III Pangandaran",
-      "II Bandung Barat",
-      "II Cimahi"
-    ]
-  },
-  {
-    "waktu": "13/11/2024 04:51:26 WIB",
-    "lintang": "7.58 LS",
-    "bujur": "125.25 BT",
-    "magnitudo": "4.2",
-    "kedalaman": "363 Km",
-    "wilayah": "Pusat gempa berada di laut 110 km timur laut Alor",
-    "warning": [
-      "II Kalabahi"
     ]
   }
 ]
