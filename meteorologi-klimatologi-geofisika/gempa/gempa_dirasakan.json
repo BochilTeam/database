@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "22/11/2024 08:56:12 WIB",
+    "lintang": "6.83 LS",
+    "bujur": "120.68 BT",
+    "magnitudo": "4",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 63 km Tenggara Selayar",
+    "warning": [
+      "III Pulau Kayuadi",
+      "II - III Pulau Jampea"
+    ]
+  },
+  {
     "waktu": "22/11/2024 05:45:48 WIB",
     "lintang": "7.82 LS",
     "bujur": "107.28 BT",
@@ -234,17 +246,6 @@
     "wilayah": "Pusat gempa berada di laut 110 km timur laut Alor",
     "warning": [
       "II Kalabahi"
-    ]
-  },
-  {
-    "waktu": "13/11/2024 03:44:29 WIB",
-    "lintang": "8.04 LS",
-    "bujur": "110.41 BT",
-    "magnitudo": "3.4",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km tenggara Bantul",
-    "warning": [
-      "II Bantul"
     ]
   }
 ]
