@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "22/11/2024 05:45:48 WIB",
+    "lintang": "7.82 LS",
+    "bujur": "107.28 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "28 Km",
+    "wilayah": "Pusat gempa berada di laut 92 km barat daya Kab. Bandung",
+    "warning": [
+      "II Garut"
+    ]
+  },
+  {
     "waktu": "21/11/2024 19:12:50 WIB",
     "lintang": "2.12 LS",
     "bujur": "139.15 BT",
@@ -234,17 +245,6 @@
     "wilayah": "Pusat gempa berada di darat 16 km tenggara Bantul",
     "warning": [
       "II Bantul"
-    ]
-  },
-  {
-    "waktu": "12/11/2024 23:11:31 WIB",
-    "lintang": "4.09 LS",
-    "bujur": "122.57 BT",
-    "magnitudo": "2.7",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km Tenggara Poasia, Kota Kendari",
-    "warning": [
-      "III Kendari"
     ]
   }
 ]
