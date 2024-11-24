@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "24/11/2024 16:40:47 WIB",
+    "lintang": "6.98 LS",
+    "bujur": "107.15 BT",
+    "magnitudo": "2",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat, 17 Km Tenggara KAB-CIANJUR",
+    "warning": [
+      "II Cibeber"
+    ]
+  },
+  {
     "waktu": "23/11/2024 03:26:17 WIB",
     "lintang": "0.69 LS",
     "bujur": "98.42 BT",
@@ -222,18 +233,6 @@
     "warning": [
       "II-III Sukabumi",
       "III Cianjur"
-    ]
-  },
-  {
-    "waktu": "15/11/2024 02:08:16 WIB",
-    "lintang": "6.24 LS",
-    "bujur": "104.16 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "74 Km",
-    "wilayah": "Pusat gempa berada di laut 102 km Barat Daya Tanggamus",
-    "warning": [
-      "II - III Bengkunat",
-      "II - III Cukuh Balak"
     ]
   }
 ]
