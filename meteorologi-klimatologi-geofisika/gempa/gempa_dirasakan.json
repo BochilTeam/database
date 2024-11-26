@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "26/11/2024 18:19:07 WIB",
+    "lintang": "3.16 LS",
+    "bujur": "135.74 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di darat 34 km timur laut Nabire",
+    "warning": [
+      "III-IV Nabire"
+    ]
+  },
+  {
     "waktu": "24/11/2024 16:40:47 WIB",
     "lintang": "6.98 LS",
     "bujur": "107.15 BT",
@@ -221,18 +232,6 @@
       "II - III Rajamandala",
       "II - III Cipeuyem",
       "II - III Cikalong Wetan"
-    ]
-  },
-  {
-    "waktu": "15/11/2024 12:38:10 WIB",
-    "lintang": "7.73 LS",
-    "bujur": "106.69 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "16 Km",
-    "wilayah": "Pusat gempa berada di laut 83 km tenggara Kab.Sukabumi",
-    "warning": [
-      "II-III Sukabumi",
-      "III Cianjur"
     ]
   }
 ]
