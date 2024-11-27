@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "27/11/2024 18:59:36 WIB",
+    "lintang": "2.5 LS",
+    "bujur": "140.55 BT",
+    "magnitudo": "2.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 17 km barat laut Kota Jayapura",
+    "warning": [
+      "II-III Kab. Jayapura"
+    ]
+  },
+  {
     "waktu": "26/11/2024 20:25:21 WIB",
     "lintang": "4.09 LS",
     "bujur": "135.14 BT",
@@ -213,20 +224,6 @@
     "warning": [
       "II Pangururan",
       "II Kecamatan Harian"
-    ]
-  },
-  {
-    "waktu": "15/11/2024 21:31:19 WIB",
-    "lintang": "6.76 LS",
-    "bujur": "107.28 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km Timur Laut Kab. Cianjur",
-    "warning": [
-      "II-III Cirata",
-      "II - III Sukaluyu",
-      "II - III Rajamandala",
-      "II - III Cipeundeuy"
     ]
   }
 ]
