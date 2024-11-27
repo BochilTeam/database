@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "27/11/2024 22:48:46 WIB",
+    "lintang": "0.97 LS",
+    "bujur": "119.86 BT",
+    "magnitudo": "2.2",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 46 km BaratLaut Sigi",
+    "warning": [
+      "II - III Marawola",
+      "II - III Kotarindau",
+      "II - III Kalukubula"
+    ]
+  },
+  {
     "waktu": "27/11/2024 18:59:36 WIB",
     "lintang": "2.5 LS",
     "bujur": "140.55 BT",
@@ -212,18 +225,6 @@
       "II - III Kota Gunung Sitoli",
       "II - III Kab. Nias",
       "II Kab. Nias Selatan"
-    ]
-  },
-  {
-    "waktu": "15/11/2024 21:39:51 WIB",
-    "lintang": "2.61 LU",
-    "bujur": "98.64 BT",
-    "magnitudo": "3.6",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 6 km barat daya Samosir",
-    "warning": [
-      "II Pangururan",
-      "II Kecamatan Harian"
     ]
   }
 ]
