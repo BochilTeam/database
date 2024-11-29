@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/11/2024 20:05:07 WIB",
+    "lintang": "4.16 LS",
+    "bujur": "103.67 BT",
+    "magnitudo": "3.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 40 km barat daya Ogan Komering Ulu",
+    "warning": [
+      "II Semendo"
+    ]
+  },
+  {
     "waktu": "29/11/2024 12:49:50 WIB",
     "lintang": "8.99 LS",
     "bujur": "118.48 BT",
@@ -215,17 +226,6 @@
     "wilayah": "Pusat gempa berada di darat 15 km tenggara Kab. Cianjur",
     "warning": [
       "II Kec. Cibeber"
-    ]
-  },
-  {
-    "waktu": "20/11/2024 04:33:36 WIB",
-    "lintang": "3.97 LS",
-    "bujur": "135.12 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di darat 80 km BaratDaya Nabire",
-    "warning": [
-      "II - III Nabire"
     ]
   }
 ]
