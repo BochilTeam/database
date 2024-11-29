@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "29/11/2024 22:12:10 WIB",
+    "lintang": "4.17 LS",
+    "bujur": "103.66 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 41 km Barat Daya Ogan Kumering Ulu",
+    "warning": [
+      "II-III Muara Enim"
+    ]
+  },
+  {
     "waktu": "29/11/2024 20:05:07 WIB",
     "lintang": "4.16 LS",
     "bujur": "103.67 BT",
@@ -215,17 +226,6 @@
     "wilayah": "Pusat gempa berada di darat 17 km tenggara Cianjur",
     "warning": [
       "III Kec. Cibeber"
-    ]
-  },
-  {
-    "waktu": "21/11/2024 08:17:43 WIB",
-    "lintang": "6.96 LS",
-    "bujur": "107.15 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km tenggara Kab. Cianjur",
-    "warning": [
-      "II Kec. Cibeber"
     ]
   }
 ]
