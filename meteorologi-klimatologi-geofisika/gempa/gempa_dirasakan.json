@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "30/11/2024 07:58:20 WIB",
+    "lintang": "8.29 LS",
+    "bujur": "122.16 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 37 km barat laut Maumere",
+    "warning": [
+      "II-III Maumere"
+    ]
+  },
+  {
+    "waktu": "29/11/2024 23:05:49 WIB",
+    "lintang": "4.18 LS",
+    "bujur": "103.64 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat, 44 km BaratDaya OGANKOMERINGULU",
+    "warning": [
+      "IV Semendo"
+    ]
+  },
+  {
     "waktu": "29/11/2024 22:12:10 WIB",
     "lintang": "4.17 LS",
     "bujur": "103.66 BT",
@@ -202,28 +224,6 @@
     "magnitudo": "3",
     "kedalaman": "5 Km",
     "wilayah": "Pusat gempa berada di darat 15 km tenggara Cianjur",
-    "warning": [
-      "III Kec. Cibeber"
-    ]
-  },
-  {
-    "waktu": "21/11/2024 11:27:41 WIB",
-    "lintang": "7.01 LS",
-    "bujur": "107.18 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 21 km tenggara Cianjur",
-    "warning": [
-      "III Kec. Cibeber"
-    ]
-  },
-  {
-    "waktu": "21/11/2024 11:25:48 WIB",
-    "lintang": "6.98 LS",
-    "bujur": "107.15 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "9 Km",
-    "wilayah": "Pusat gempa berada di darat 17 km tenggara Cianjur",
     "warning": [
       "III Kec. Cibeber"
     ]
