@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "01/12/2024 04:11:28 WIB",
+    "lintang": "2.97 LS",
+    "bujur": "128.81 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di darat 16 Km Tengara Taniwel Timur-SBB",
+    "warning": [
+      "II - III Masohi"
+    ]
+  },
+  {
     "waktu": "30/11/2024 07:58:20 WIB",
     "lintang": "8.29 LS",
     "bujur": "122.16 BT",
@@ -215,17 +226,6 @@
     "wilayah": "Pusat gempa berada di darat 53 km tenggara Sarmi",
     "warning": [
       "III Sarmi"
-    ]
-  },
-  {
-    "waktu": "21/11/2024 11:28:54 WIB",
-    "lintang": "6.96 LS",
-    "bujur": "107.15 BT",
-    "magnitudo": "3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km tenggara Cianjur",
-    "warning": [
-      "III Kec. Cibeber"
     ]
   }
 ]
