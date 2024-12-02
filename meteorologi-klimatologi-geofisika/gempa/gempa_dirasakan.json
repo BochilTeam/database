@@ -1,5 +1,22 @@
 [
   {
+    "waktu": "02/12/2024 19:40:03 WIB",
+    "lintang": "8.11 LS",
+    "bujur": "107.1 BT",
+    "magnitudo": "4.5",
+    "kedalaman": "21 Km",
+    "wilayah": "Pusat gempa berada di laut 129 km BaratDaya Kab. Bandung",
+    "warning": [
+      "III Bungbulang",
+      "III Cisompet",
+      "III Cijulang",
+      "III Sindangbarang",
+      "III Babadan",
+      "II Bayongbong",
+      "II Cikajang"
+    ]
+  },
+  {
     "waktu": "01/12/2024 04:11:28 WIB",
     "lintang": "2.97 LS",
     "bujur": "128.81 BT",
@@ -215,17 +232,6 @@
     "wilayah": "Pusat gempa berada di laut 92 km barat daya Kab. Bandung",
     "warning": [
       "II Garut"
-    ]
-  },
-  {
-    "waktu": "21/11/2024 19:12:50 WIB",
-    "lintang": "2.12 LS",
-    "bujur": "139.15 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 53 km tenggara Sarmi",
-    "warning": [
-      "III Sarmi"
     ]
   }
 ]
