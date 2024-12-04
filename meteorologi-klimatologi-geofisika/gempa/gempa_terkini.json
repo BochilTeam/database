@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "03-12-24 23:09:12 WIB",
+    "lintang": "4.82",
+    "bujur": "126.36",
+    "magnitudo": "5.5",
+    "kedalaman": "10 Km",
+    "wilayah": "80 km BaratLaut PULAUKARATUNG-SULUT"
+  },
+  {
     "waktu": "22-11-24 14:51:03 WIB",
     "lintang": "2.71",
     "bujur": "128.17",
@@ -230,13 +238,5 @@
     "magnitudo": "5.5",
     "kedalaman": "94 Km",
     "wilayah": "82 km BaratDaya PULAUDOI-MALUT"
-  },
-  {
-    "waktu": "01-10-24 16:28:03 WIB",
-    "lintang": "-6.18",
-    "bujur": "125.04",
-    "magnitudo": "6.2",
-    "kedalaman": "631 Km",
-    "wilayah": "186 km Tenggara WAKATOBI-SULTRA"
   }
 ]
