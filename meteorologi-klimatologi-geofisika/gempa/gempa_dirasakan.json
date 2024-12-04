@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "04/12/2024 21:21:38 WIB",
+    "lintang": "4.94 LU",
+    "bujur": "95.98 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 33 Km barat daya Pidie Jaya",
+    "warning": [
+      "III - IV Aceh Jaya",
+      "III - IV Pidie Jaya",
+      "II Banda Aceh",
+      "II Aceh Besar"
+    ]
+  },
+  {
     "waktu": "04/12/2024 05:15:37 WIB",
     "lintang": "3.56 LS",
     "bujur": "129.06 BT",
@@ -219,17 +233,6 @@
     "wilayah": "Pusat gempa berada di laut 72 km Tenggara \n\\nkepulauan Batu",
     "warning": [
       "II-III Siberut"
-    ]
-  },
-  {
-    "waktu": "22/11/2024 14:51:03 WIB",
-    "lintang": "2.71 LU",
-    "bujur": "128.17 BT",
-    "magnitudo": "5.4",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 74 km BaratLaut Daruba",
-    "warning": [
-      "III Morotai"
     ]
   }
 ]
