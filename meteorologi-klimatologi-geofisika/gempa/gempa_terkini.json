@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "07-12-24 00:14:57 WIB",
+    "lintang": "1.74",
+    "bujur": "121.22",
+    "magnitudo": "6.0",
+    "kedalaman": "17 Km",
+    "wilayah": "86 km BaratLaut BUOL-SULTENG"
+  },
+  {
     "waktu": "03-12-24 23:09:12 WIB",
     "lintang": "4.82",
     "bujur": "126.36",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "10 Km",
     "wilayah": "128 km Tenggara TUTUYAN-BOLTIM-SULUT"
-  },
-  {
-    "waktu": "10-10-24 14:22:47 WIB",
-    "lintang": "1.95",
-    "bujur": "127.12",
-    "magnitudo": "5.5",
-    "kedalaman": "94 Km",
-    "wilayah": "82 km BaratDaya PULAUDOI-MALUT"
   }
 ]
