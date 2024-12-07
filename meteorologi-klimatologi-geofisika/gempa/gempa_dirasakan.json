@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "07/12/2024 07:37:56 WIB",
+    "lintang": "1.93 LS",
+    "bujur": "115.27 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km TimurLaut Barito Timur",
+    "warning": [
+      "II - III Kab. Barito Timur",
+      "II - III Kab. Tabalong"
+    ]
+  },
+  {
     "waktu": "07/12/2024 07:12:21 WIB",
     "lintang": "7.24 LS",
     "bujur": "107.72 BT",
@@ -7,7 +19,21 @@
     "kedalaman": "5 Km",
     "wilayah": "Pusat gempa berada di darat 19 km barat daya kab. Garut",
     "warning": [
-      "IV Garut"
+      "III-IV Garut",
+      "IV Pasirwangi",
+      "IV Samarang",
+      "IV Bayongbong",
+      "III - IV Malayu",
+      "III Majalaya",
+      "III Pacet",
+      "III Ciparay",
+      "II-III Cimahi",
+      "II - III Baleendah",
+      "II - III Cibiru",
+      "II - III Cicalengka",
+      "II - III Kopo",
+      "II-III Soreang",
+      "II - III Sumedang"
     ]
   },
   {
@@ -225,17 +251,6 @@
     "wilayah": "Pusat gempa berada di darat 17 km barat laut Kota Jayapura",
     "warning": [
       "II-III Kab. Jayapura"
-    ]
-  },
-  {
-    "waktu": "26/11/2024 20:25:21 WIB",
-    "lintang": "4.09 LS",
-    "bujur": "135.14 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "21 Km",
-    "wilayah": "Pusat gempa berada di darat 90 km barat daya Nabire",
-    "warning": [
-      "II - III Nabire"
     ]
   }
 ]
