@@ -1,5 +1,27 @@
 [
   {
+    "waktu": "07/12/2024 07:12:21 WIB",
+    "lintang": "7.24 LS",
+    "bujur": "107.72 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 19 km barat daya kab. Garut",
+    "warning": [
+      "IV Garut"
+    ]
+  },
+  {
+    "waktu": "07/12/2024 05:45:03 WIB",
+    "lintang": "1.54 LS",
+    "bujur": "138.76 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di laut 37 km Timur Laut Sarmi",
+    "warning": [
+      "II - III Kabupaten Sarmi"
+    ]
+  },
+  {
     "waktu": "07/12/2024 00:14:57 WIB",
     "lintang": "1.74 LU",
     "bujur": "121.22 BT",
@@ -214,28 +236,6 @@
     "wilayah": "Pusat gempa berada di darat 90 km barat daya Nabire",
     "warning": [
       "II - III Nabire"
-    ]
-  },
-  {
-    "waktu": "26/11/2024 18:19:07 WIB",
-    "lintang": "3.16 LS",
-    "bujur": "135.74 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "21 Km",
-    "wilayah": "Pusat gempa berada di darat 34 km timur laut Nabire",
-    "warning": [
-      "III-IV Nabire"
-    ]
-  },
-  {
-    "waktu": "24/11/2024 16:40:47 WIB",
-    "lintang": "6.98 LS",
-    "bujur": "107.15 BT",
-    "magnitudo": "2",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat, 17 Km Tenggara KAB-CIANJUR",
-    "warning": [
-      "II Cibeber"
     ]
   }
 ]
