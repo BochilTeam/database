@@ -1,5 +1,17 @@
 [
   {
+    "waktu": "08/12/2024 15:36:51 WIB",
+    "lintang": "7.23 LS",
+    "bujur": "107.69 BT",
+    "magnitudo": "2.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km barat daya Kabupaten Garut",
+    "warning": [
+      "II Kertasari",
+      "II Pengalengan"
+    ]
+  },
+  {
     "waktu": "07/12/2024 16:41:26 WIB",
     "lintang": "2.17 LS",
     "bujur": "124.37 BT",
@@ -240,18 +252,6 @@
     "wilayah": "Pusat gempa berada di darat 51 Km Baratlaut Poso",
     "warning": [
       "III Sausu"
-    ]
-  },
-  {
-    "waktu": "29/11/2024 08:02:32 WIB",
-    "lintang": "3.39 LS",
-    "bujur": "115.03 BT",
-    "magnitudo": "3.7",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km tenggara Banjar",
-    "warning": [
-      "II Kota Banjarbaru",
-      "II Kab. Tanah Laut"
     ]
   }
 ]
