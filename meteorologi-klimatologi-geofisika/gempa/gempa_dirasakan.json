@@ -1,5 +1,23 @@
 [
   {
+    "waktu": "09/12/2024 16:50:06 WIB",
+    "lintang": "0.83 LS",
+    "bujur": "99.63 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "68 Km",
+    "wilayah": "Pusat gempa berada di laut 59 km barat daya Pariaman",
+    "warning": [
+      "Padang III-IV",
+      "Padang Pariaman III-IV",
+      "Pariaman III-IV",
+      "Kab. Agam III-IV",
+      "Kab. Pasaman III-IV",
+      "Padang Panjang II-III",
+      "Bukittinggi II-III",
+      "Painan II-III"
+    ]
+  },
+  {
     "waktu": "09/12/2024 16:22:04 WIB",
     "lintang": "0.73 LS",
     "bujur": "134.11 BT",
@@ -239,17 +257,6 @@
     "wilayah": "Pusat gempa berada di darat 41 km Barat Daya Ogan Kumering Ulu",
     "warning": [
       "II-III Muara Enim"
-    ]
-  },
-  {
-    "waktu": "29/11/2024 20:05:07 WIB",
-    "lintang": "4.16 LS",
-    "bujur": "103.67 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 40 km barat daya Ogan Komering Ulu",
-    "warning": [
-      "II Semendo"
     ]
   }
 ]
