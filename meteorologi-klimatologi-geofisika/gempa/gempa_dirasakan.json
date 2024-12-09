@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "09/12/2024 07:06:34 WIB",
+    "lintang": "7.35 LS",
+    "bujur": "111.55 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "11 Km",
+    "wilayah": "Pusat gempa berada di darat 12 km Timur Laut Ngawi",
+    "warning": [
+      "II Blora"
+    ]
+  },
+  {
     "waktu": "08/12/2024 15:36:51 WIB",
     "lintang": "7.23 LS",
     "bujur": "107.69 BT",
@@ -241,17 +252,6 @@
       "III Banyuwangi",
       "III Denpasar",
       "III Badung"
-    ]
-  },
-  {
-    "waktu": "29/11/2024 11:16:13 WIB",
-    "lintang": "1.06 LS",
-    "bujur": "120.43 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 51 Km Baratlaut Poso",
-    "warning": [
-      "III Sausu"
     ]
   }
 ]
