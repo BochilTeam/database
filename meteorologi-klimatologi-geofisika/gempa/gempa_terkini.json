@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "10-12-24 13:13:41 WIB",
+    "lintang": "3.77",
+    "bujur": "127.84",
+    "magnitudo": "5.2",
+    "kedalaman": "144 Km",
+    "wilayah": "131 km Tenggara MELONGUANE-SULUT"
+  },
+  {
     "waktu": "07-12-24 16:41:26 WIB",
     "lintang": "-2.17",
     "bujur": "124.37",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "34 Km",
     "wilayah": "103 km TimurLaut DONGGALA-SULTENG"
-  },
-  {
-    "waktu": "13-10-24 14:01:34 WIB",
-    "lintang": "5.48",
-    "bujur": "93.87",
-    "magnitudo": "5.8",
-    "kedalaman": "10 Km",
-    "wilayah": "161 km BaratDaya BANDAACEH-ACEH"
   }
 ]
