@@ -1,5 +1,34 @@
 [
   {
+    "waktu": "11/12/2024 17:46:21 WIB",
+    "lintang": "3.89 LS",
+    "bujur": "122.65 BT",
+    "magnitudo": "2.3",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di laut 2.4 km barat laut Soropia, Kab. Konawe",
+    "warning": [
+      "II Kendari"
+    ]
+  },
+  {
+    "waktu": "11/12/2024 17:23:35 WIB",
+    "lintang": "4.49 LS",
+    "bujur": "102.51 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "19 Km",
+    "wilayah": "Pusat gempa berada di laut 45 km barat daya Bengkulu Selatan",
+    "warning": [
+      "III-IV Bengkulu Selatan",
+      "III-IV Seluma",
+      "III Kepahiang",
+      "III Pagar Alam",
+      "II-III Kota Bengkulu",
+      "II-III Bengkulu Utara",
+      "II-III Oku Selatan",
+      "II Muara Enim"
+    ]
+  },
+  {
     "waktu": "10/12/2024 16:31:26 WIB",
     "lintang": "8.68 LS",
     "bujur": "116.11 BT",
@@ -236,28 +265,6 @@
     "wilayah": "Pusat gempa berada di darat 16 Km Tengara Taniwel Timur-SBB",
     "warning": [
       "II - III Masohi"
-    ]
-  },
-  {
-    "waktu": "30/11/2024 07:58:20 WIB",
-    "lintang": "8.29 LS",
-    "bujur": "122.16 BT",
-    "magnitudo": "4.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 37 km barat laut Maumere",
-    "warning": [
-      "II-III Maumere"
-    ]
-  },
-  {
-    "waktu": "29/11/2024 23:05:49 WIB",
-    "lintang": "4.18 LS",
-    "bujur": "103.64 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat, 44 km BaratDaya OGANKOMERINGULU",
-    "warning": [
-      "IV Semendo"
     ]
   }
 ]

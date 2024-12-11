@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "11-12-24 17:23:35 WIB",
+    "lintang": "-4.49",
+    "bujur": "102.51",
+    "magnitudo": "5.4",
+    "kedalaman": "19 Km",
+    "wilayah": "45 km BaratDaya BENGKULUSELATAN"
+  },
+  {
     "waktu": "10-12-24 13:13:41 WIB",
     "lintang": "3.77",
     "bujur": "127.84",
@@ -230,13 +238,5 @@
     "magnitudo": "5.6",
     "kedalaman": "10 Km",
     "wilayah": "52 km BaratDaya LABUHA-MALUT"
-  },
-  {
-    "waktu": "20-10-24 01:07:13 WIB",
-    "lintang": "0.51",
-    "bujur": "119.85",
-    "magnitudo": "5.3",
-    "kedalaman": "34 Km",
-    "wilayah": "103 km TimurLaut DONGGALA-SULTENG"
   }
 ]
