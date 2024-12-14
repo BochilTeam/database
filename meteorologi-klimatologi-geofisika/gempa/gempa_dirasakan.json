@@ -1,5 +1,19 @@
 [
   {
+    "waktu": "15/12/2024 00:38:16 WIB",
+    "lintang": "1.64 LU",
+    "bujur": "126.61 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 113 km BaratLaut Halmahera Barat",
+    "warning": [
+      "II - III Ternate",
+      "II - III Jailolo",
+      "II - III Morotai",
+      "II - III Ibu"
+    ]
+  },
+  {
     "waktu": "12/12/2024 13:36:29 WIB",
     "lintang": "0.36 LS",
     "bujur": "99.51 BT",
@@ -253,23 +267,6 @@
     "wilayah": "Pusat gempa berada di darat 28 km tenggara Nabire",
     "warning": [
       "IV Nabire"
-    ]
-  },
-  {
-    "waktu": "02/12/2024 19:40:03 WIB",
-    "lintang": "8.11 LS",
-    "bujur": "107.1 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "21 Km",
-    "wilayah": "Pusat gempa berada di laut 129 km BaratDaya Kab. Bandung",
-    "warning": [
-      "III Bungbulang",
-      "III Cisompet",
-      "III Cijulang",
-      "III Sindangbarang",
-      "III Babadan",
-      "II Bayongbong",
-      "II Cikajang"
     ]
   }
 ]

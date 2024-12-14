@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15-12-24 00:38:16 WIB",
+    "lintang": "1.64",
+    "bujur": "126.61",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "113 km BaratLaut HALMAHERABARAT-MALUT"
+  },
+  {
     "waktu": "11-12-24 17:23:35 WIB",
     "lintang": "-4.49",
     "bujur": "102.51",
@@ -230,13 +238,5 @@
     "magnitudo": "5.1",
     "kedalaman": "17 Km",
     "wilayah": "45 km BaratDaya LABUHA-MALUT"
-  },
-  {
-    "waktu": "21-10-24 10:24:17 WIB",
-    "lintang": "-1.09",
-    "bujur": "127.34",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "52 km BaratDaya LABUHA-MALUT"
   }
 ]
