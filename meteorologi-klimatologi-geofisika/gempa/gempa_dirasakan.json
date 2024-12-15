@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "15/12/2024 20:41:32 WIB",
+    "lintang": "8.66 LS",
+    "bujur": "117.43 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km tenggara Sumbawa",
+    "warning": [
+      "II Sumbawa"
+    ]
+  },
+  {
     "waktu": "15/12/2024 18:10:23 WIB",
     "lintang": "8.64 LS",
     "bujur": "117.44 BT",
@@ -261,20 +272,6 @@
       "III-IV Toli-toli",
       "II Berau",
       "II - III Pohuwato"
-    ]
-  },
-  {
-    "waktu": "04/12/2024 21:21:38 WIB",
-    "lintang": "4.94 LU",
-    "bujur": "95.98 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 33 Km barat daya Pidie Jaya",
-    "warning": [
-      "III - IV Aceh Jaya",
-      "III - IV Pidie Jaya",
-      "II Banda Aceh",
-      "II Aceh Besar"
     ]
   }
 ]
