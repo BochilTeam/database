@@ -1,5 +1,33 @@
 [
   {
+    "waktu": "15/12/2024 18:10:23 WIB",
+    "lintang": "8.64 LS",
+    "bujur": "117.44 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 16 km tenggara Sumbawa",
+    "warning": [
+      "II Dompu",
+      "II Lombok Tengah",
+      "II Kota Mataram",
+      "III Lombok Timur",
+      "III Sumbawa Barat",
+      "III-IV Sumbawa",
+      "II Bima"
+    ]
+  },
+  {
+    "waktu": "15/12/2024 17:16:11 WIB",
+    "lintang": "2.32 LS",
+    "bujur": "140.26 BT",
+    "magnitudo": "4",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di laut 32 km Timur Laut Genyem-Jayapura",
+    "warning": [
+      "II Sentani"
+    ]
+  },
+  {
     "waktu": "15/12/2024 09:48:35 WIB",
     "lintang": "8.1 LS",
     "bujur": "117.85 BT",
@@ -247,28 +275,6 @@
       "III - IV Pidie Jaya",
       "II Banda Aceh",
       "II Aceh Besar"
-    ]
-  },
-  {
-    "waktu": "04/12/2024 05:15:37 WIB",
-    "lintang": "3.56 LS",
-    "bujur": "129.06 BT",
-    "magnitudo": "3.9",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 29 km tenggara Masohi",
-    "warning": [
-      "III Masohi"
-    ]
-  },
-  {
-    "waktu": "03/12/2024 11:22:29 WIB",
-    "lintang": "5.87 LS",
-    "bujur": "103.89 BT",
-    "magnitudo": "4.6",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 75 km barat daya Pesisir Barat",
-    "warning": [
-      "II Pesisir Barat"
     ]
   }
 ]
