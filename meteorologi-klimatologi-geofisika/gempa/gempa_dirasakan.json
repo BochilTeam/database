@@ -1,5 +1,18 @@
 [
   {
+    "waktu": "15/12/2024 09:48:35 WIB",
+    "lintang": "8.1 LS",
+    "bujur": "117.85 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di laut 64 km timur laut Sumbawa",
+    "warning": [
+      "III Bima",
+      "III Dompu",
+      "III Sumbawa"
+    ]
+  },
+  {
     "waktu": "15/12/2024 00:38:16 WIB",
     "lintang": "1.64 LU",
     "bujur": "126.61 BT",
@@ -256,17 +269,6 @@
     "wilayah": "Pusat gempa berada di laut 75 km barat daya Pesisir Barat",
     "warning": [
       "II Pesisir Barat"
-    ]
-  },
-  {
-    "waktu": "03/12/2024 10:15:43 WIB",
-    "lintang": "3.61 LS",
-    "bujur": "135.55 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "14 Km",
-    "wilayah": "Pusat gempa berada di darat 28 km tenggara Nabire",
-    "warning": [
-      "IV Nabire"
     ]
   }
 ]
